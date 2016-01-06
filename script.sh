@@ -7,7 +7,14 @@ do
 	(( i++ ))
 done < <(ls fich/)
 
-KEYWORDS=( NoSQL C++ "base de donnees" Anglais Rigueur ITIL Django jQuery Python PHP HTML CodeIgniter ERP C# XML Ajax JavaScript UML SQL C Doxygen "Pack Office" VBA SharePoint MySQL MVC iOS Android WinRT )
+KEYWORDS=( NoSQL C++ Anglais Rigueur ITIL Django jQuery Python PHP HTML CodeIgniter ERP C# XML Ajax JavaScript UML SQL C Doxygen VBA SharePoint MySQL MVC iOS Android WinRT )
+
+# The following were deleted for an array:
+# - base de donnees
+# - Pack Office
+
+
+
 
 # grep -H
 # Print  the  file  name  for  each  match.   This is the default when there is more than one file to search.
@@ -29,7 +36,16 @@ n=0
 while [ $n -le $i ] 
 do
 	name=$(echo ${array[n]})
-	count=$(grep -wo Linux fich/"${array[n]}" | grep -c Linux)
-	echo $name : $count
+	for word in "${KEYWORDS[@]}" 
+	do
+		ser=$(grep -wo "$word" fich/"${array[n]}" | grep -c $word)
+		count=$count:$ser
+	done
+	echo $name$count>>result
+	unset count
 	(( n++ ))
 done
+
+
+
+
