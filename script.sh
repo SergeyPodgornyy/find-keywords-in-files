@@ -13,8 +13,12 @@ KEYWORDS=( NoSQL C++ Anglais Rigueur ITIL Django jQuery Python PHP HTML CodeIgni
 # - base de donnees
 # - Pack Office
 
-
-
+str="Name of file"
+for val in "${KEYWORDS[@]}"
+do
+	str=$str:$val
+done
+echo $str>result
 
 # grep -H
 # Print  the  file  name  for  each  match.   This is the default when there is more than one file to search.
@@ -41,7 +45,7 @@ do
 		ser=$(grep -wo "$word" fich/"${array[n]}" | grep -c $word)
 		count=$count:$ser
 	done
-	echo $name$count>>result
+	echo $name$count>>result 2>/dev/null
 	unset count
 	(( n++ ))
 done
