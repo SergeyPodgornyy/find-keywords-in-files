@@ -5,7 +5,7 @@ while read line
 do
 	array[ $i ]="$line"
 	(( i++ ))
-done < <(ls fich/)
+done < <(ls)
 
 KEYWORDS=( NoSQL C++ "base de donnees" Anglais Rigueur ITIL Django jQuery Python PHP HTML CodeIgniter ERP C# XML Ajax JavaScript UML SQL C Doxygen "Pack Office" VBA SharePoint MySQL MVC iOS Android WinRT )
 
@@ -28,8 +28,6 @@ KEYWORDS=( NoSQL C++ "base de donnees" Anglais Rigueur ITIL Django jQuery Python
 n=0
 while [ $n -le $i ] 
 do
-	name=$(echo ${array[n]})
-	count=$(grep -wo Linux fich/"${array[n]}" | grep -c Linux)
-	echo $name : $count
+	echo ${array[n]}
 	(( n++ ))
 done
