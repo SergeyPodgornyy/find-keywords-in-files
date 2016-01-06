@@ -1,0 +1,42 @@
+﻿DCX
+Gestion de Campagnes Marketing Multi-Canal
+CONTEXTE
+Capgemini Services apporte son expertise en solutions de gestion de campagnes marketing auprès de ces
+clients, en France et à l’international, pour des clients intervenant dans divers secteurs d’activités : Télécom,
+Médias, Energie, Banque, Assurance, Grande distribution, Services, ...
+Les solutions sont construites autour d’un progiciel qui permet notamment :
+    La mise en œuvre des campagnes sortantes correspondant à la construction de cibles associées
+à un message marketing pour des envois en masse de type SMS, Mail, Courrier …
+    La mise en œuvre des campagnes entrantes correspondant à la promotion d'offres en temps réel
+suite à un contact client,
+    Le  Marketing  Ressource  Management  (MRM)  correspondant  à  la  gestion  des  processus
+marketing, à l'optimisation des ressources.
+    Les solutions s'appuient sur un datamart Marketing qui est construit à partir des données issues
+du DatawareHouse Client.
+STAGE PROPOSE
+Stage DCX/MARK  :
+Le/la stagiaire participe à la customisation et au paramétrage du progiciel et des différents Web Services, à la
+construction du datamart Marketing, ainsi qu’à la mise en œuvre d’évolutions au sein des applications web de
+restitution des propositions commerciales.
+Les volumétries en œuvre (plusieurs dizaines de millions d’abonnés et des milliards de contacts générés)
+permettront  aussi  au/à  la  stagiaire  de  compléter  sa  formation  sur  les  aspects  performances  et
+dimensionnement d’un système de très grande capacité.
+Certaines fonctionnalités du système sont développées en méthode Agile pour apporter souplesse et réactivité
+au client.
+Le stage s’effectue au sein du centre de compétences ‘Gestion de campagnes Marketing’ piloté par
+Pierre Duchêne. Ce centre de compétences appartient à la division ‘Services’ de Capgemini.
+Le lieu du stage est Rennes (plus précisément 7 rue Claude Chappe à Cesson-Sévigné)
+MOTS CLES
+IBM ExperienceOne, Adobe Campaign, Java, J2EE, Datamart, Base de données Oracle, Services Web.
+CONTACTS
+Pierre Duchêne ( pierre.duchene@capgemini.com)
+Gestion de campagnes marketing
+Application Services France - Capgemini | Rennes
+Tel.: 02 99 28 07 83
+www.fr.capgemini.com
+Delphine Boussion (delphine.boussion@capgemini.com) à la Direction des RH (Tel. 02 99 27 45 45).
+
+
+
+
+

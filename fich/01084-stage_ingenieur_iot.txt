@@ -1,0 +1,37 @@
+﻿Stage ingénieur développement logiciel
+Lizenn propose un stage de développement dans le domaine de l'internet des
+objets (Internet of Things).
+Type : stage ingénieur développeur logiciel
+Pour postuler : envoyer CV + lettre de motivation à jean.parpaillon@lizenn.com
+Lieu : Rennes
+Mots-clés : Cloud computing, IoT, HTTP REST, OCCI, Kevoree, méta-modélisation
+À propos de Lizenn
+Lizenn est une start-up spécialisée dans le développement de services dédiés
+aux objets connectés, à travers des logiciels open sources et des standards
+ouverts.
+Description
+Dans le domaine de l'internet des objets, la complexité des systèmes et
+l'hétérogénéité des équipements nécessite une approche logicielle basée sur
+des méta-modèles. Si on désire connecter ces objets à des services web (du
+« cloud computing »), les méta-modèles orientés ressources sont
+particulièrement adaptés.
+La plate-forme Kevoree, développée par l'équipe Triskell de l'INRIA, utilise une
+approche par méta-modèle pour simplifier la conception de services complexes
+distribués sur des objets connectés.
+L'objet de ce stage est d'enrichir la plate-forme Kevoree en développant une
+interface pour le standard OCCI, utilisé dans de nombreuses plateforme de
+cloud computing pour décrire des services orientés ressources.
+Ensuite, l'étudiant aura la possibilité de concevoir et mettre en œuvre des
+représentations de OCCI plus adaptées aux contraintes énergétiques ou de
+réseau des objets connectés, tels que XMPP ou COAP.
+Technologies
+-   Ingénierie logicielle : méta-modèles
+-   Protocoles applicatifs : HTTP REST, XMPP
+-   Format de données : XML, json
+-   Langages : erlang ou Python ou Java
+-   Environnement de développement : linux
+
+
+
+
+

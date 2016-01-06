@@ -1,0 +1,38 @@
+﻿Administrateur  Bases  de  Données
+Job  Description
+Administration  et  optimisation  des  bases  de  données  du  groupe  au  sein  de  notre  pôle  IT
+Mise  en  place  d’une  solution  de  Business  Intelligence  (BI)
+Mise  en  production  des  outils  de  gestion  de  données  en  environnement  Microsoft
+Définition  des  besoins  métiers,  réponse  technique  et  stratégique
+Mise  en  place  d’une  solution  de  haute  disponibilité  des  bases  de  données
+Supervision  et  monitoring  des  performances  des  bases  de  données
+North  Am                                                                                              n  Europe   Central  Europe  &  Balkans   Middle  East   Asia  &  Pacific
+
+
+
+
+Mise  en  place  d’une  solution  de  chiffrement  des  bases  de  données
+Migration  SQL  Server  2012  vers  SQL  Server  2014
+Gestion  d’environnements  multiples  (QA  et  Prod)
+Ideal  Candidate
+Expérience  en  administration  des  bases  de  données  Microsoft  SQL  Server  (2008  ou  supérieur)
+Connaissance  des  langages  T­SQL  (requis),  C#  et  PowerShell  (souhaité)
+Connaissance  d’outils  de  BI  tels  que  SSRS,  SSIS,  SSAS,  PowerBI,  PowerPivot,  …
+Connaissance  des  environnements  Windows  Server  (2008  ou  supérieur)
+Capacité  à  proposer  des  solutions  adaptées  aux  spécificités  de  l’organisation
+Capacité  d’analyse  de  besoins
+Excellentes  habilités  de  communication  orale  et  écrite
+                                                                                                         Practical  information                                                                   How  to  Apply
+North  Am                                                                                                n  Europe                Central  Europe  &  Balkans   Middle  East   Asia  &  Pacific
+
+
+
+
+Date  :  ASAP   Pour  nous  faire  parvenir  votre  candidature,  merci  de   postuler  en  ligne  à
+¡               apply@amaris.com
+North  Am       n  Europe                                                     Central  Europe  &  Balkans   Middle  East   Asia  &  Pacific
+
+
+
+
+

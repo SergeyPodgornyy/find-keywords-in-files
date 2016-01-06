@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE SUPPORT SI TÉLÉCOM H/F EN STAGE DE 4 À 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 171422-7767793
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Dans le cadre de la gestion d'un parc d'applications du système d'information d'un grand compte dans le
+domaine des Télécom, Atos interviendra en 2014/2015 sur des activités de support fonctionnel et technique
+d'applications du SI. Les domaines fonctionnels couverts sont les inventaires réseaux XdSL/ATM et la
+gestion des sites mobiles (antennes relais, site BTS, acquisitions OMC).
+Vous interviendrez pour l'une des applications du périmètre, au sein d'une équipe de support fonctionnel et
+technique, sous la responsabilité d'un chef de projet qui suivra votre mission.
+L'environnement technique : SQL/PL-SQL, base de données, scripts Shell / Unix
+Votre mission :
+* Acquittement des tickets de support
+* Qualification de la nature des incidents
+* Relation avec l'utilisateur direct
+* Résolution du problème en fonction des consignes et procédures en vigueur
+* Identification de solutions
+* Reprise de données
+* Développement possible d'outils pour optimiser la chaîne de soutien
+Profil recherché :
+De formation Bac+2/3 (en cours de validation), vous recherchez un stage d'une durée de 4 mois ou plus
+(dates variables selon la formation). Vous aimez le travail en équipe, vous êtes attiré par le contact client.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7767793
+
+
+
+
+

@@ -1,0 +1,129 @@
+﻿Conception et développement d’une interface
+d’exploitation d’un entrepôt de données
+biomédicales multimodales au CHRU de BREST
+Mots-clés
+Entrepôt de données - Fouille de données - Big Data - Ontologies - Données biomédicales -
+Recherche plein texte - Interface utilisateur - Cartographie - Concept Map - Timeline - ORACLE TEXT
+- ORACLE SPATIAL
+Situation de l’existant
+Tous les hôpitaux sont confrontés au problème de la dispersion des données médicales
+numériques  sur des supports multiples qui sont indispensables à la pratique du spécialiste mais qui
+n’offrent qu’une vision fractionnée et incomplète du patient et de son dossier médical. Le Centre de
+Données Cliniques (CDC)  souhaite pallier cette carence en recueillant, organisant, standardisant  et
+exploitant les données médicales issues des différents logiciels métiers du CHRU de Brest. Sa
+composante technique est un entrepôt colligeant des données multimodales (comptes rendus
+d’hospitalisation, biologie, données omiques, médicaments, imagerie, données administratives et
+financières,..) de manière historisée pour permettre la reconstitution des parcours patients. Les
+données recueillies sont soit structurées (CIM-10, CCAM, ATC ..) autorisant des recherches
+s’appuyant sur des nomenclatures internationales ou sous forme de textes libres permettant de
+fouiller le contenu textuel des comptes-rendus. L’outil doit permettre aux équipes de recherche de
+disposer des informations produites par les équipes médicales sous une forme facilement
+exploitable.
+Objectifs
+Cet entrepôt est en cours de chargement et dispose d’une interface sommaire permettant
+d’interagir avec le système (voir annexe ). Nous souhaitons refondre cette interface avec comme
+objectifs :
+-                                                                                                       Une épuration de l’ergonomie permettant un abord initial plus aisé des données tout en
+permettant un mode d’utilisation plus expert
+-                                                                                                       Une navigation plus conforme aux logiciels standards (menus, onglets,..)
+-                                                                                                       La création d’un module de manipulation des résultats d’une requête formulée sur le
+système.
+
+
+
+
+Chaque requête portée sur le système produit un ensemble de résultats qui peut être
+matérialisé sous la forme de la matrice suivante :
+                                                                                                         Doc A                                                                                    Doc B   Doc C   Doc D   Doc E   Doc F   Doc G   Doc H   ……   …..   Doc Z
+Patient 1                                                                                                                                                                                                                                            
+Patient 2                                                                                                                                                                                                                                                
+Patient 3                                                                                                                                                                                                                                                      
+Patient 4                                                                                                                                                                                                                 
+Patient 5                                                                                                                                                                                                                                              
+Patient 6                                                                                                                                                                                                                                                  
+Patient 7                                                                                                                                                                                                                                               
+…                                                                                                                                                                                                                                                      
+…                                                                                                                                                                                                         
+Patient n                                                                                                                                                                                                                                          
+Le tableau constitue l’ensemble des documents des patients stockés dans l’entrepôt, chaque
+symbole représente un document. On observe que certains patients ne disposent pas de tous les
+types de documents (colonnes vides). La requête produit un ensemble de documents d’intérêt
+relatifs à un groupe de patients répondants aux critères de sélection. Les patients sélectionnés sont
+en gris foncé ainsi que les documents d’intérêts de ces patients. Les documents en gris clair sont les
+autres documents de ces patients disponibles dans l’entrepôt mais non retournés par la requête.
+L’interface doit permettre de :
+-                                                                                                        de délivrer en premier lieu une synthèse des résultats (éventuellement paramétrable en
+fonction des utilisateurs et des profils) qui comprenne notamment des statistiques
+descriptives de l’échantillon de patients (et de documents) restitué par la requête, un
+nuage des concepts  les plus représentés dans les documents restitués, une présentation
+des localisations géographiques des patients, une représentation temporelle du parcours
+du patient et de la production des documents le concernant,
+-                                                                                                        de proposer une présentation des résultats proche de l’organisation du dossier patient
+papier (onglets de couleur par thème, classement chronologique des documents, ..) mais
+qui permette de tirer partie des fonctions telles que le tri des documents (par date, par
+type de document, par service, par séjour,..), le filtrage pour éliminer temporairement de
+l’espace de travail certains documents ou certains patients,
+-                                                                                                        explorer aisément les différents documents d’intérêt pour un même patient, de pouvoir
+passer rapidement d’un document à un autre, d’un patient à un autre et d’accéder
+également aux autres documents du patient ,
+
+
+
+
+-                                                                                                       de proposer des fonctions d’exploration du contenu des documents comme le surlignage
+                                                                                                        des termes de la requête, la recherche de texte au sein du document ou d’un groupe de
+documents,
+-                                                                                                       de marquer des documents et/ou des patients pour un usage ultérieur (panier de
+documents et/ou de patients),
+-                                                                                                       d’exporter de manière paramétrée des listes de documents ou de patients pour un
+examen hors de l’entrepôt.
+Un certain nombre de ces fonctions sont déjà présentes dans l’interface actuelle et nécessiteront des
+aménagements pour apporter une fluidité à l’utilisation et une cohérence d’ensemble.
+Matériels et Méthodes
+Le contexte technique de cet entrepôt privilégie les outils de type open source. La base de
+données en revanche s’appuie sur le SGBD ORACLE 11g2 et utilise notamment les modules ORACLE
+TEXT(recherche plein texte au sein des comptes-rendus) et ORACLE SPATIAL (stockage de
+coordonnées pour affichage cartographique) . Les développements des outils d’alimentation et de
+l’interface actuelle font appel à un serveur WEB sous Linux (RED HAT6) et le langage PHP. La couche
+ergonomique s’appuie sur AJAX.
+Sur le plan méthodologique nous proposons 3 temps à ce stage :
+-                                                                                                       Une phase exploratoire de l’état de l’art en matière d’interface homme machine dans le
+domaine des entrepôts de données de santé.
+-                                                                                                       Une phase de conception qui prenne en compte cet état de l’art, les objectifs attendus et
+les contraintes techniques.
+-                                                                                                       Une phase de réalisation d’un prototype qui sera évalué ultérieurement sur des cas
+d’usage en comparaison avec l’interface actuelle
+
+
+
+
+Modalités pratiques et contacts
+Le stage se déroulera au Centre Hospitalier Régional et Universitaire de Brest sur le site de la
+« Cavale Blanche » au sein du Département d’Information Médicale dirigé par le Dr Jean-Michel
+CAUVIN.
+L’encadrement sera assuré sur place par :
+-                                                                                                  Clara LE GUILLOU  clara.leguillou@chu-brest.fr
+-                                                                                                  André HAPPE  andre.happe@chu-brest.fr
+                                                                                                   La gratification légale obligatoire sera versée au stagiaire, soit 436,05   €/mois pour un temps
+complet  (35 heures par semaine).
+
+
+
+
+Annexes
+Interface actuelle : Résultats de la requête sur le groupe de patients sélectionnés (à gauche) + Nuage de concepts
+établi sur la base des documents d’intérêts sélectionnés par la requête (à droite) + Localisation géographique des
+patients (en bas)
+
+
+
+
+Interface actuelle : Vue des documents d’intérêt + détail d’un document (surlignage des termes recherchés dans la
+requête)
+Interface actuelle : Vue de l’ensemble des documents pour un même patient (sous forme de liste cliquable)
+Interface actuelle : Vue de l’ensemble des documents pour un même patient (sous forme de parcours)
+
+
+
+
+

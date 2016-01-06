@@ -1,0 +1,98 @@
+﻿Ressources Humaines
+Stage à pourvoir
+Avec plus de 40 implantations dans le monde et intervenant dans plus de
+150  pays,  SCOR  (2153  personnes,  un  chiffre  d’affaires  annuel  de          10
+milliards  d’euros)  est  le  premier  réassureur  français  et  le  cinquième
+réassureur mondial.
+SCOR exerce dans trois grands domaines d’activité  : la réassurance de
+dommages et de responsabilité, la réassurance de personnes et la gestion
+d’actifs.
+Évoluant dans un environnement compétitif et réunissant des compétences
+de  haut  niveau,  SCOR  valorise  la  rentabilité,  l’expertise,  l’excellence
+opérationnelle, le sens des responsabilités et le développement durable.
+Chargé(e) de projet IT
+Début: dès que possible
+Département
+La                                                                                Direction des                                     Systèmes                                                       d’Information est                                                 composée           à Paris de 35                personnes                         réparties dans 6
+départements                                                                                                                                                             (Contrôle,  Déploiement                                            et                       Utilisation  des   Systèmes,                    Intelligence                      Economique,
+Sécurité,                                                                                                    Etudes et                                                   Production).
+Elle agit dans le                                                                                                                   cadre d’une                                                    organisée                                intégrée de 100                             personnes au                 niveau du                         groupe,            répartie
+sur 6                                                                             Hubs,                                             qui garantit le bon                                                                fonctionnement, la                                               sécurité et l’évolution du                     système         d’information
+du                                                                                Groupe.
+                                                                                  Contenu  de  la  mission
+                                                                                                                                    Au sein du Hub de Paris et dans le                                                                                               cadre de la                                                                       maintenance du                                                               référentiel d’entreprise,                 vous
+interviendrez                                                                                                                       au sein de la                                                                                           cellule d’architecture                                                                     fonctionnelle                                                (avec l’administrateur du                                   référentiel
+et son                                                                                                       responsable) sur les                                                                                      missions                                      suivantes :
+Contribution                                                                                                                        au                                   référentiel                                                        d’entreprise                                (Power                                         Designer) :
+                                                                                                            Participation aux                                                                                         grands               projets de                                                               transformations                                                                informatiques de l’entreprise                               dans le
+                                                                                                             cadre des                                                   revues                                        d’architecture
+                                                                                                             o                      Projets                                                        métiers
+                                                                                                             o                      Conformité                                                                         règlementaire
+                                                                                                             o                                                           Approche de data                                                                            management
+                                                                                                            Modélisation de                                                                                           représentations du                                               système                                                        d’information
+                                                                                                             o                      Fonctions
+                                                                                                             o                      Applications
+                                                                                                             o   Flux
+                                                                                                             o                      Données
+Participation                                                                                                                                                            à l’amélioration                                                   des                      usages et                                       méthodes                                             de         modélisation
+                                                                                                            Convention de                                                                                             représentations
+                                                                                                            Livrables
+SCOR SE
+5, avenue Kléber
+75795 Paris Cedex 16
+Tél. +  33  (0)  1  58  44  70  00
+Fax  +  33  (0)  1  58  44  85  00
+www.scor.com
+                                                                                  RCS  Paris  B                                                                          562 033 357
+Siret                                                                             562                        033                    357                                  00046
+Société                                                                                                                             Européenne    au
+capital
+de 1 512 224 741,93 Euros
+
+
+
+
+                                                                 Documentation
+Profil
+                                         De profil IT, Bac +4/5                                                                                                                                   école d’ingénieur ou 3ème cycle                                                                     universitaire                                                        (type            MIAGE), vous                           souhaitez
+compléter votre                                                                                                                                     formation par un                              stage                                                                opérationnel au                                   cœur d’un                                         Département                                             Informatique
+d’une                                    société                                             cotée.                                                                                               Opérationnel vous avez un   fort                                                                                                   intérêt pour la gestion de                                              projets et                              faites
+preuve de                                                                                                       vivacité d’esprit et de                                                           curiosité                                          intellectuelle.
+Vous êtes                                                                                                                                           reconnu(e) pour votre sens de                                                                                      l'organisation,                                   votre       rigueur, votre                                                          curiosité ainsi que
+                                         pour votre force de                                                                                        proposition. De                                                                  nature à vous                                                                                   impliquer dans les projets que vous                                                                             menez,
+vos                                                               qualités d’écoute, votre                                                                                                        ouverture d’esprit et votre                                                                         curiosité vous                                                       permettront de                                          développer
+vos                                                                                                             compétences au contact d’experts.
+Vous                                     maîtrisez                                                              parfaitement                                                        les           outils                                             bureautiques                                     Microsoft                                                            Office, et en                     particulier                             Excel,
+Windows                                                                                      Server ainsi que                                                                       SharePoint.                                                      La                maîtrise                       de d’un outil de                                                     modélisation                                            (Eclipse, etc.)
+et de Java                                                                                   serait un plus.
+Intervenant                                                                                  au                 quotidien                                                           auprès  des                                                      équipes                             situées  à                                  Zurich                                et  à            Charlotte,  la                                           pratique
+courante de l’anglais est requise.
+Dates  et durée  :
+Début : dès que possible,
+Durée : 6 mois à temps plein
+Indemnité  de  stage  :
+Selon la grille de gratification
+Contact sous référence SIT-14
+Roukia Lachkar
+SCOR
+Direction des Ressources Humaines
+A l’attention de DRH Recrutements
+5 avenue Kléber, 75 796 Paris Cedex 16
+recrutements@scor.com
+www.scor.com
+SCOR SE
+5, avenue Kléber
+75795 Paris Cedex 16
+Tél. +  33  (0)  1  58  44  70  00
+Fax  +  33  (0)  1  58  44  85  00
+www.scor.com
+                                         RCS  Paris  B                                                          562 033 357
+Siret                                    562                      033                        357                00046
+Société                                                                                      Européenne    au
+capital
+de 1 512 224 741,93 Euros
+
+
+
+
+

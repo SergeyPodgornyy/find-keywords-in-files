@@ -1,0 +1,54 @@
+﻿INFORMATIQUE                                                                                                         STAGE   2013-2014
+INTRANET TABLEAU DE BORD
+D'ANOMALIES D'INTERFACES
+Stage rémunéré
+Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 08_2014_E&D_APPROV
+informatique  interne  au  Groupement  U
+(Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 6 mois - Période : à partir de Janvier 2014
+mission  la  centralisation  et  l'uniformisation
+des ressources informatiques des magasins U
+et des centrales.
+Chaque  année  nous  accueillons  une  douzaine  de
+stagiaires   qui   rejoignent   une   équipe   de                                                                    500
+Vous  êtes  rattaché  fonctionnellement  à  l'équipe  Etudes  Commercial
+collaborateurs qui travaillent dans un environnement
+Approvisionnement et vous serez amené à travailler sur les applications
+technique constitué de 500 serveurs (Unix, Windows,
+Intranet du pôle Approvisionnement.
+AS400), 1800 équipements réseaux et une centaine de
+bases de données, répartis dans les Datacenters et
+Vous assurez la conception fonctionnelle et technique, la réalisation et le
+reliés aux 1423 points de vente du groupe.
+déploiement  des  applications  gestion  de  stocks  concernant                                                      150
+utilisateurs (sélection des interfaces, définition des critères de recherche,
+En immersion complète dans des projets
+restitution des résultats, système de pilotage).                                                                     concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+Durant ce stage, le « Mode Projet » du GIE IRIS sera le fil conducteur :
+Phase Etude Préalable : définition des orientations et du périmètre du projet, proposer plusieurs solutions du
+système cible et motiver un choix auprès des utilisateurs.
+Phase Analyse : recensement des besoins utilisateurs, faire preuve d’initiative pour proposer les solutions de
+votre choix. Ces solutions seront ensuite validées avec les utilisateurs via la rédaction des documents d'Analyse
+Fonctionnelle générale et détaillée. Cette phase sera conclue par le chiffrage du projet et sa planification.
+Phase de Réalisation : rédaction des documents d’analyse technique et scénarios de tests, réalisation du logiciel.
+Phase de Recette : réalisation des tests d'intégration, préparation et assistance lors des phases de Recettes
+Usine et Utilisateurs.
+Phase Conduite du Changement et Mise en production : préparation de la mise en production, transfert de
+compétences vers l'équipe.
+JAVA / J2EE - JavaScript (ExtJs) - UML - WEBLOGIC - ECLIPSE - MAVEN - ISERIES
+Bac + 5 Informatique, Ecole d'Ingénieurs ou Universitaire
+Connaissances techniques : JAVA/Eclipse indispensables, JavaScript serait un plus.
+Qualités requises : le stage impose une bonne intégration au sein de l’équipe de développement et des contacts
+directs avec l’utilisateur.
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

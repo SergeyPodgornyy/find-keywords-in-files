@@ -1,0 +1,128 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise :                                                                                              PORTIK                                            Adresse :                         48, rue du Blosne
+Domaine d’activité :                                                                                               Agro-alimentaire                                  Ville :                           Chantepie
+Représentant de l’entreprise :                                                                                     J. Brégand                                        N° téléphone :                                                    02 99 54 63 06
+Sa qualité :                                                                                                       Gérant                                            N° fax :
+N° de Siret :                                                                                                      440 558 526 00016                                 Site Web :
+N° NAF :                                                                                                           6202A                                             Courriel :                        contact@portik.fr
+Statut Juridique :                                                                                                 SARL                                                                                Signataire de la convention :   J. Brégand
+Effectif de l’établissement :                                                                                      1
+Nom de l’encadrant de stage :                                                                                      J. Brégand                                        Chargé du suivi administratif :   J. Brégand
+Sa qualité :                                                                                                                                                         Sa qualité :
+Service :                                                                                                                                                            N° téléphone :
+N° téléphone :                                                                                                                                                       Email :
+Email :                                                                                                                                                              Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …..………………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise)73, rue de Saint Brieuc - 35000 RENNES (AgroCam -
+pus)
+PROFIL DE L’ÉTUDIANT SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                                                        13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                                                     8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                                            13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+■ Spécialité MIAGE                                                                                                 du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                                                    du 10 mars 2014 à fin août 2014
+■ Spécialité GL                                                                                                    du 10 mars 2014 à fin août 2014
+■ Spécialité   MITIC                                                                                               du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                                                 du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                                             du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                                                 du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                              2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                              16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                             16 septembre au 27 septembre 2013
+                                                                                                              4 novembre 2013 au 10 janvier 2014
+                                                                                                              17 février 2014 au 11 avril 2014
+                                                                                                              19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                              entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                               entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET DU STAGE  :
+Titre du stage proposé : Contribution au développement d'une application Web, gestion de
+bannière publicitaire et gestion de SMS
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+ PC
+ Base de donnéesMicrosoft SQL server 2008
+ C# / MS visual studio2010, Crystal report
+ bibliothèque javascript basée sur jquery
+ Spécifications fonctionnelles
+Sujet proposé détaillé :
+Développement de nouvelles fonctions de l'application Web Chantiers
+1. Contexte
+Le logiciel Chantiers permet la gestion des données saisies sur le terrain par les prestataires de
+travaux agricoles. Il s'agit d'un logiciel dont une partie est sur le mobile pour fonctionner en mode non
+connecté. L'application fonctionnant su le serveur utilise une base SQL serveur  2008R2. Il s'agit
+d'enrichir cette application web.
+2. Projet
+L'architecture du projet est conforme au MVC.
+Il s'agira de finir compléter le transfert de l'application actuelle dans la nouvelle architecture avec une
+nouvelle bibliothèque de widgets(javascript).
+Puis deux nouvelles fonctionnalités seront ajoutées :
+    Gestion des SMS :
+◦   paramétrage
+◦   gestion compte utilisateur
+UNIVERSITE DE RENNES 1                                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+◦   envoie SMS
+◦   état
+    Gestion d'une bannière publicitaire
+◦   enregistrement des clics sur les bannières
+◦   état d 'exploitation
+Suivant le temps disponible un travail sur l'application android pourra être réalisé.
+INFORMATIONS COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) :                                                           Smic                        Nom de l’Etudiant :
+Modalités de versement :                                                                Virement mensuel            Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                  TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                   FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

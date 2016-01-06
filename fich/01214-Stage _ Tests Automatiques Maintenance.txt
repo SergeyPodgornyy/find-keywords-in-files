@@ -1,0 +1,54 @@
+﻿AIRBUS  ­  AN  EADS  COMPANY  RECRUTE  UN/UNE  STAGE  /  TESTS
+AUTOMATIQUES  MAINTENANCE  EN  STAGE  DE  3  À  6  MOIS.
+Date  :  01/03/2014
+Référence  de  l’offre    :  10230021­5719249
+Domaine  d’activité    :  Production  ­  Maintenance  ­  Quality  ­  Security  ­  Environment
+(Technic  Management)
+Type  de  contrat    :  Stage
+Localisation    :  Marignane  13725,  FR
+Durée  du  contrat    :  De  3  à  6  mois
+Niveau  d’études    :  Master&#39;s  Degree
+Années  d’expérience    :  &lt;  6  months
+Description  de  l’entreprise    :
+Le  groupe  Eurocopter  emploie  environ  22000  personnes.  En  2012,  Eurocopter  confirme
+sa  position  d'hélicoptériste  numéro  1  mondial  sur  les  marchés  civils  et  parapublics,  avec
+un  chiffre  d'affaires  de  6,3  milliards  d'euros,  469  hélicoptères  neufs  commandés  et  44  %
+du  marché  civil  et  parapublic.  Les  produits  du  Groupe  représentent  33  %  de  l'ensemble  de
+la  flotte  mondiale  d'hélicoptères  civils  et  parapublics.  Eurocopter  est  fortement  présent  à
+l'international  grâce  à  ses  filiales  et  participations  implantées  dans  21  pays.
+Description  du  poste    :
+Au  sein  du  Centre  d'Essais  d'Eurocopter  (partie  du  Bureau  d'Etudes),  notre  service  est
+chargé  de  mener  les  activités  "Essais  Avioniques  et  Intégration  Systèmes"  du  groupe
+Eurocopter.
+Les  activités  principales  de  ce  service  sont:
+­ de  définir,  de  mettre  en  place  et  d'exécuter  la  stratégie  d'essais  applicable  aux  systèmes
+Avioniques  et  Véhicules,  jusqu'à  la  fourniture  des  éléments  requis  par  la  Certification  des
+aéronefs,
+­ de  définir  les  exigences  des  outils  nécessaires  au  bon  déroulement  des  essais,  et  de
+déployer  les  processus  de  travail  relatifs,
+­ d'assurer  le  support  nécessaire  aux  activités  telles  que  les  essais  sols  sur  prototypes  ou
+hélicoptères  de  série,  les  essais  en  vol,  ou  le  support  à  la  clientèle.
+Le  stage  portera  sur  l'application  aux  hélicoptères  utilisant  l'architecture  CIGALHE  d'une
+méthodologie  d'analyse  automatique  des  fichiers  de  maintenance  déjà  déployée  sur
+l'hélicoptère  NH90.
+Vous  aurez,  par  exemple,  les  missions  suivantes  :
+­ Réaliser  une  étude  de  l'existant  NH90,
+­ Réaliser  une  étude  de  la  spécificité  CIGALHE,
+­ Mener  la  mise  en  œuvre  logicielle.
+Vous  êtes  en  dernière  année  d'école  d'ingénieur,  en  master  ou  université  (5ème  année)  et
+
+
+
+
+êtes  spécialisé(e)  en  Informatique.
+Vous  avez  des  compétences  en  programmation  JAVA.
+Merci  de  bien  vouloir  postuler  en  ligne  en  joignant  votre  CV.
+Profil  recherché    :
+Vous  êtes  en  dernière  année  d'école  d'ingénieur,  en  master  ou  université  (5ème  année)  et
+êtes  spécialisé(e)  en  Informatique.
+Pour  postuler    :  http://airbusgroup.contactrh.com/jobs/1536/5719249
+
+
+
+
+

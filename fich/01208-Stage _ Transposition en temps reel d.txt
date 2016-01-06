@@ -1,0 +1,53 @@
+﻿DCNS  RECRUTE  UN/UNE  STAGE  :  TRANSPOSITION  EN  TEMPS  RÉEL  D  EN
+STAGE  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  /9458/STZ/13100­5712820
+Domaine  d’activité    :  Etudes  ­  Recherche  (Chef  de  Projet/Ingénierie)
+Type  de  contrat    :  Stage
+Localisation    :  F­Saint  Tropez  83997,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+UN  LEADER  MONDIAL  DU  NAVAL  DE  DEFENSE  ­  UN  INNOVATEUR  DANS
+L'ENERGIE.
+Description  du  poste    :
+­­­ Descriptif  de  la  société
+Dévoilez  votre  talent…  ouvrez­vous  à  un  monde  de  haute  technologie  maritime.
+DCNS  est  un  acteur  européen  de  premier  plan  sur  le  marché  mondial  du  naval  de  défense.
+Avec  2,6  milliards  d'euros  de  chiffre  d'affaires  et  13  000  collaborateurs  en  France  et  à
+l'étranger,  le  groupe  DCNS  offre  de  réelles  opportunités  de  carrières  dans  les  métiers
+d'ingénierie  de  système,  d'architecture  navale,  de  maîtrise  d'œuvre,  de  production,
+d'industrialisation,  de  maintenance  et  de  services.
+Vous  êtes  passionné(e)  par  les  sous­marins,  les  navires,  le  nucléaire  civil,  les  énergies
+marines  renouvelables  ?  Vous  rêvez  d'imaginer  le  futur  ?  Vous  voulez  évoluer  au  cœur
+d'un  environnement  d'excellence  ?  Rencontrons­nous  !
+­­­ Intitulé  du  stage
+Transposition  en  temps  réel  d'un  signal  émis  par  un  sonar  dans  la  bande  audible  (H/F)
+­­­ Description  de  l'annonce
+Le  stagiaire  aura  pour  missions  :
+­ de  réaliser  un  logiciel  de  transposition  de  fréquences  d'un  signal  sonar  à  la  bande  audio
+en  temps  réel  pour  intégration  en  simulation  hybride.
+­ de  participer  à  l'intégration  du  logiciel  sur  une  plateforme  de  validation  torpille
+­ Etudier  la  possibilité  de  l'intégrer  également  en  simulation  numérique.
+­­­ Profil  recherché
+
+
+
+
+Vous  êtes  étudiant(e)  en  dernière  année  d'Ecole  d'Ingénieur  avec  spécialisation  en
+informatique,  traitement  du  signal  ou  électronique.  Vous  avez  le  goût  pour  le  traitement
+du  signal  et  le  développement  temps  réel.
+Vous  savez  faire  preuve  d'organisation,  de  méthodologie,  d'autonomie  et  de  réactivité.
+Connaissances  nécessaires  :  langage  de  programmation  C/C++,  Matlab
+Déposez  votre  candidature  (CV+lettre  de  motivation)  sur  :  www.dcnsgroup.com,  site  de
+Saint­Tropez.
+Profil  recherché    :
+Vous  êtes  étudiant(e)  en  dernière  année  d'Ecole  d'Ingénieur  avec  spécialisation  en
+informatique,  traitement  du  signal  ou  électronique.
+Pour  postuler    :  http://dcns.contactrh.com/jobs/1536/5712820
+
+
+
+
+

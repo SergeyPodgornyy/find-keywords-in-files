@@ -1,0 +1,66 @@
+﻿L’équipe R&D / Pôle Devices / Intégration STB recherche un (e) :
+Développeur Base VITE
+Lieu : Viaccess - 35510 Cesson Sévigné
+Date de démarrage : Janvier- Février 2014
+Durée du stage : 6 mois
+Tuteur : Jon Zuelgaray
+Viaccess-Orca est un partenaire novateur pour les fournisseurs de services de contenu
+en protégeant et en améliorant la valeur des services de contenu  aux utilisateurs, où
+qu'ils soient, et sur tout terminal. Alors que les progrès technologiques permettent le stockage
+« sur le cloud », sur  le  réseau  internet et  que  la  sélection  de contenu  est  en  constante
+augmentation, ainsi que l'accès au contenu télévisuel à partir d'une variété de sources et des
+réseaux hybrides, les menaces à la sécurité se multiplient. À l'aide de produits intégrés et de
+solutions clés en main fiables et évolutifs, les opérateurs de télévision payante acquièrent un
+avantage concurrentiel dans ce marché de réseaux non-gérés et de périphériques connectés
+à Internet.
+L'expérience utilisateur est un facteur clé de succès pour les opérateurs, et les solutions
+Viaccess-Orca se concentrent sur la prestation d'une expérience novatrice et cohérente
+sur toutes les plateformes.
+Viaccess-Orca est une filiale du Groupe Orange.
+Pour plus d’informations, visitez le site www.viaccess-orca .com  ou suivez-nous sur Twitter
+@ViaccessOrca et Linkedin http://www.linkedin.com/company/viaccess-orca.
+Missions confiées dans le cadre du stage :
+Au sein du Pôle Devices, le Groupe Intégration Décodeur a pour mission principale de piloter
+les intégrations et les certifications des décodeurs de TV numérique embarquant le contrôle
+d’accès Viaccess.
+Le processus de certification est intégré à un outil maison développé sous Silverlight utilisant
+SQL Server comme SGDB et K2 comme outil de workflow.
+Dans cet outil, nous retrouvons :
+-                                                                                                    Les divers workflows suivant le type de processus de certification
+
+
+
+
+-                                                                                                    l’ensemble des données projets  (caractéristiques de décodeurs, campagnes de
+tests, date de certification...)
+-                                                                                                    la saisie des activités
+L’objectif du stage sera de réaliser des évolutions sur cet outil, suite à des évolutions
+du processus de certification et des améliorations demandées par les utilisateurs.
+La gestion du projet d’évolution de notre outil vous sera confiée et consistera principalement
+au déroulement suivant:
+-                                                                                                    prise de connaissance de l’outil
+-                                                                                                                                                                                   récupération des demandes d’évolutions au sein de l’équipe avec leurs priorités
+-                                                                                                    développement des évolutions
+-                                                                                                    Tests
+-                                                                                                    Mise en production
+Etudiant(e)    en école d’ingénieur, vous recherchez un stage de fin d’études ou de longue
+durée qui vous permettra de mettre à profit vos connaissances et d’acquérir une expérience
+riche  et  très  opérationnelle  au  sein  d’une  entreprise  à  taille  humaine  et  à  dimension
+internationale.
+Profil recherché
+   Connaissance en Silverlight et SQL exigées
+   Connaissance des IHM et des langages informatiques
+   Connaissance de l’outil de gestion de workflow K2 serait un plus.
+   Anglais : Lu et écrit
+   Adaptabilité et rigueur
+   Autonomie et prise d’initiative
+   Bon relationnel et curiosité
+Rémunération et avantages : à partir de 1001.15€ + remboursement à hauteur de 50% du
+transport+  Tickets Restaurant
+Merci d’envoyer votre candidature (CV et Lettre de Motivation) à l’adresse suivante :
+laetitia.goirand@viaccess-orca.com
+
+
+
+
+

@@ -1,0 +1,60 @@
+﻿Live  Streaming  sur  Youtube  &  Dailymotion
+Easy  Live
+REFERENCE  :  EasyLive/R&D/01
+POUR  POSTULER  :  offre5164446.1972@easylive.contactrh.com sous la référence
+EasyLive/R&D/01
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  IVRY SUR SEINE 94200, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 20/01/2014
+DUREE  :  de 6.0 à 12.0 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Etudes - Recherche (Ingénieur R & D/Chercheur)
+SOCIETE  :
+La société Easylive (www.easylive.fr / www.goeasylive.com) développe et commercialise un
+système permettant à ses clients de diffuser leurs propres vidéos en live sur le web, de manière
+simple, personnalisée, fiable et avec une qualité d’image élevée.
+Easy Live est spécialisée dans le traitement et l’habillage de contenus vidéo en live. Pour ce faire,
+nous avons conçu nos propres outils, qui permettent :
+- de retransmettre une vidéo en direct sur internet
+- d’habiller cette vidéo avec des incrustations personnalisées (score, logos, statistiques, bannières,
+fil Twitter…)
+- de gérer à distance la gestion des lives et des incrustations (depuis notre site Internet)
+- d’auto-réguler la qualité du flux ainsi que les paramètres de diffusion en fonction de la connexion
+internet disponible lors de l’émission.
+Nous sommes partenaires technologiques des sociétés Youtube et Dailymotion.
+DESCRIPTION  DU  POSTE  :
+Vous rejoindrez les équipes R&D dédiées à la conception et au développement de solution
+logicielle de retransmission en live de flux vidéo sur Internet.
+Les développements pour nos clients touchent notamment les différents domaines : l'encodage en
+H264, traitement d'images et reconnaissance de formes, acquisition de différents signaux vidéos,
+systèmes de statistiques couplés à la vidéo, migration de la solution logicielle sous différents OS
+(Linux, Windows, OSX, etc).
+En qualité de stagiaire Ingénieur R&D, vos développements seront destinés à être utilisés dans les
+produits des clients (PSG, l'AS Monaco, Urban Football, etc).
+Vos domaines de recherche :
+- traitement de l'image
+- l'encodage en H264
+Les technologies utilisées par le reste de l'équipe logicielle :
+
+
+
+
+- Python framework Django / HTML / CSS / JavaScript
+- Administration Linux
+- Développement en C++ divers
+Les valeurs de l'équipe :
+- Utilisation de solutions libres,
+- Travail collaboratif,
+- Faire de la R&D, aller plus loin que les solutions existantes.
+PROFIL  :
+Etudiant idéalement de niveau Bac +5, vous êtes en stage de fin d'étude.
+Vous bénéficiez d'une d'expérience dans le développement en C++.
+POUR  POSTULER  :  offre5164446.1972@easylive.contactrh.com sous la référence
+EasyLive/R&D/01
+
+
+
+
+

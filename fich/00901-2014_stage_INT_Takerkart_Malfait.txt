@@ -1,0 +1,45 @@
+﻿Titre du stage: Identification des connexions neuronales affectées suite à un AVC
+Durée: 6 mois ou plus
+Niveau: dernière année d'école d'ingénieur
+Dates envisagées: début du stage avant juin 2014
+Encadrants:                                                                                                 - Nicole Malfait (chercheur en neurosciences)
+- Sylvain Takerkart (ingénieur en traitement d'images)
+Descriptif:
+Ce stage s'inscrit dans le cadre d’un projet de recherche interdisciplinaire  (Neurosciences  /
+Informatique)  dont  l'objectif  est  d'explorer  les  facteurs  qui  conditionnent  la  récupération  de
+patients  présentant  des  déficits  sensorimoteurs  du  membre  supérieur  suite  à  un  accident
+vasculaire  cérébral  (AVC).  A  cette  fin,  nous  analysons  des  données  d'imagerie  cérébrale
+enregistrées sur des patients ayant subi un AVC, ainsi que sur des sujets sains. Parmi ces
+données, l'IRM de diffusion  (IRMd), nous permet de reconstuire les réseaux de connectivité
+cérébrale et d'identifier les conséquences de l’AVC.
+Dans un premier temps, le stagiaire sera initié aux techniques actuellement disponibles pour
+analyser  les  données  d'IRMd.  En  particulier,  il  poursuivra  des  analyses  de  tractographie
+(permettant de visualiser les trajectoires des fibres neuronales et d'estimer la connectivité entre
+régions cérébrales) afin d'obtenir des parcellisations de certaines régions d'intérêt, c'est à dire
+des partitions en un ensemble de sous régions homogènes.
+Dans  un  second  temps,  on  cherchera  à  caractériser  de  manière  quantitative  les  déficits  de
+connectivité mesurés chez les patients par rapport aux sujets sains.   Dans ce cadre, le stagiaire
+implémentera  des  méthodes  d'apprentissage  statistique  et  les  appliquera  sur  les  résultats
+obtenus dans la première étape.
+Compétences requises:
+- traitement d'image
+- apprentissage statistique, classification (par exemple Support Vector Machines)
+- bon niveau en programmation (python ou autre langage)
+- bon niveau en anglais
+Contexte: L'Institut de Neurosciences de la Timone (INT, http://www.int.univ-amu.fr ) est une
+unité mixte de recherche qui a pour objectif de développer des recherches interdisciplinaires en
+neuroscience. Situé sur le Campus de la Faculté de Médecine d'Aix Marseille Université, il
+est doté de plateformes technologiques de haut niveau au service d'équipes de recherche en
+neurosciences théoriques et expérimentales.
+Gratification : ce stage donnera lieu à une gratification au niveau du standard légal.
+Envoyer CV + lettre de motivation à Nicole.Malfait@univ-amu.fr et Sylvain.Takerkart@univ-amu.fr
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                       5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

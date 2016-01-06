@@ -1,0 +1,45 @@
+﻿Apprenti Assistant chef de projet connectivité
+Alternance                                                                                       ref APPE1503CD
+Son  département  ASCeR  (Architecture  Système  commande  et  Régulation)  a  une
+activité  transversale  Groupe.  Il  intervient  auprès  de  tous  les  pôles  industriels  du
+Groupe pour coordonner les choix stratégiques électroniques en partenariat avec les
+Achats  et  le  Marketing.  Il  intervient  dans  chaque  usine  en  amont  des  projets  de
+recherche et développement pour les études d'opportunités électroniques et le choix
+des partenaires. Il assure également le pilotage des projets électroniques et reste le
+support  technique  pour  les  phases  de  vie  des  produits.  Il  recherche  un  Apprenti
+Ingénieur                                                                                        (h/f) pour intégrer son équipe basée à La Roche sur Yon                  (85).
+Mission :
+Accompagné par votre tuteur au sein d'une équipe de  6 ingénieurs, vous assurez
+l'expertise fonctionnelle pour le développement d'un logiciel de connectivité distante
+de   nos   produits                                                                              (applications   Smartphones,   tablettes,   etc.).   Vous   intervenez
+notamment sur les fonctions de pilotage, de contrôle et de maintenance.
+Plus concrètement, vous :
+-  Analysez  le  besoin                                                                          :  benchmark  des  solutions  concurrentes,  participation  aux
+réunions   d'analyse   des   pôles   produits,   consolidation   du   besoin   sous   forme
+d'exigences.
+- Réalisez la description fonctionnelle  : description de l'architecture logicielle et sa
+décomposition fonctionnelle, cartographie des paramétrages disponibles pour chaque
+famille  de  produits,  spécification  de  l'ergonomie,  prototypage  d'applications  de
+démonstration.
+- Assurez le suivi du développement : participation à la sélection du concept matériel,
+support des équipes  de développement  pour la compréhension des  spécifications,
+adaptation des documents selon l'évolution du projet, animation de tests en conditions
+clients (field tests).
+Profil :
+Formation : Ingénieur généraliste ou spécialisé en informatique
+Connaissances : langages de développement d'applicatifs, fonctionnement API, envoi
+de commandes en Json, gestion de bases de données, anglais courant,
+Qualités requises : bon communicant, esprit d'équipe, capacité à prendre du recul.
+Contrat  d'apprentissage  ou  de  professionnalisation  de  2  à  3  ans  à  pourvoir  pour
+septembre 2015 à La Roche-sur-Yon (85).
+www.groupe-atlantic.fr/emploi                                                                    Nous vous proposons :
+- de bénéficier d'un accompagnement de proximité et d'un environnement propice au
+développement de votre expertise métier,
+- d'intégrer un groupe dynamique favorisant l'efficacité collective et la prise d'initiative,
+- de participer à un projet stratégique dans un contexte d'innovation technologique
+fort.
+
+
+
+
+

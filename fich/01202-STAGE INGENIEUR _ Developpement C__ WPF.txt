@@ -1,0 +1,45 @@
+﻿SOGETI  HIGH  TECH  ­  RÉGION  SSE  RECRUTE  UN/UNE  STAGE  INGENIEUR  :
+DÉVELOPPEMENT  C#,  WPF  EN  STAGE  DE  5  À  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  HTMU4­LR­2­5692567
+Domaine  d’activité    :  Etudes  ­  Recherche  (Ingénieur  R  &amp;  D/Chercheur)
+Type  de  contrat    :  Stage
+Localisation    :  TOULOUSE  31000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Avec  3000  collaborateurs  en  France,  et  représenté  dans  15  pays  dans  le  monde,  SOGETI
+High  Tech  (filiale  du  groupe  Capgemini)  figure  parmi  les  cinq  leaders  du  marché  de
+l'Ingénierie  et  du  Conseil  en  Technologie.
+Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  des  plus  grands  groupes  industriels  mondiaux.
+Nos  expertises  techniques  et  métiers  dans  les  secteurs  de  l'aéronautique,  du  spatial,  de  la
+défense,  du  ferroviaire,  de  l'énergie  et  des  télécoms  renforcent  la  valeur  ajoutée  de  nos
+solutions  au  service  des  challenges  du  monde  industriels  du  XXIème  siècle.
+En  savoir  plus  :  www.sogeti­hightech.fr
+http://www.youtube.com/watch?
+v=2hmDAihsQyY&list=UU6nRuZ_szmr__FafXh6rhug&index=4
+Description  du  poste    :
+Dans  le  cadre  de  nos  activités  réseaux  nous  sommes  amenés  à  générer  des  configurations
+de  switch  permettant  l'interconnexion  d'équipements  avioniques.  Celles  -ci  sont  ensuite
+déployées  sur  les  différents  bancs  d'essais  chez  notre  client  grand  compte  du  secteur
+aéronautique.
+Après  avoir  compris  les  fonctionnement  de  l'AFDX  et  de  la  suite  d'outils  existante,  il  vous
+faudra  réaliser  un  outil  qui  automatise  les  évolutions  de  configurations.
+Une  forte  communication  avec  nos  équipes  réseaux  embarqués  sera  nécessaire  pour
+mener  à  bien  cette  activité.
+Profil  recherché    :
+De  formation  Bac+5  (Ecole  d'ingénieur  ou  université).
+
+
+
+
+Domaine  de  compétences  techniques  requis  :  C#,  WPF  et  de  préférence  des
+connaissances  réseaux.
+Pour  postuler    :  http://sogeti­high­tech.contactrh.com/jobs/1536/5692567
+
+
+
+
+

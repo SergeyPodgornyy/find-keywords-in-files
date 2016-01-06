@@ -1,0 +1,52 @@
+﻿SAINT   GOBAIN   GLASS   FRANCE   RECRUTE   UN/UNE   STAGE   INGÉNIEUR   ETUDES   ET
+DÉVELOPPEMEN EN STAGE DE 5 À 6 MOIS.
+Date : 01/09/2014
+Référence de l’offre : 513045-6412327
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Ile-de-France 92096, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Saint-Gobain, leader mondial de l'habitat, conçoit, produit et distribue des matériaux de construction en apportant
+des solutions innovantes sur les marchés en croissance des pays émergents, de l'efficacité énergétique et de
+l'environnement. Saint-Gobain est une maison accueillante, sûre et ouverte sur le monde, dans laquelle on entre
+pour un parcours.
+SGCIO regroupe l'ensemble des compétences en Systèmes d'information du Pôle Matériaux Innovants (SAP,
+Exact, e-business, intégration des systèmes décisionnel).
+Basée en France, cette entité multiculturelle apporte son expertise en Systèmes d'information et en Gestion de
+projets avec professionnalisme et dynamisme et emploie des experts IT et métiers ayant le sens du client et du
+résultat.
+Description du poste :
+Etudes et développement:
+Vous participerez à la conception et au développement de nouvelles fonctionnalités du projet.
+Les  développements  à  réaliser  porteront  essentiellement  sur  la  réalisation  de  d'interfaces                  (en  Java)  de
+récupération sur des machines de production de certains paramètres liés à la qualité des vitrages isolants, afin de
+les enregistrer et de permettre leur visualisation.
+Des développements sur l'application web sont aussi à prévoir pour couvrir le processus qualité d'autres flux de
+production (verre trempé par exemple).
+Industrialisation et amélioration des pratiques :
+Vous occuperez aussi un rôle de premier ordre sur la mise en place de bonnes pratiques en prenant en charge la
+mise en place d'outils d'analyse et de suivi qualité du code (Checkstyle, Findbugs, Sonar, etc.).
+Vous contribuerez à l'instauration d'un développement guidé par les tests (TDD, Junit, FitNesse, etc.) et à une
+amélioration de l'architecture existante. Dans ce cadre vous aurez l'opportunité d'être force de proposition pour
+l'introduction de nouveaux outils et frameworks.
+Profil recherché :
+Elève ingénieur ou universitaire en systèmes d'informations/génie logiciel, de niveau BAC+3 à BAC+5.
+Un goût prononcé pour le développement, une sensibilité pour les bonnes pratiques (Clean code, refactoring,
+agilité, TDD), ainsi qu'une curiosité technique sont indispensables.
+La connaissance du langage de programmation Java est nécessaire. Une première expérience de réalisation de
+
+
+
+
+projets de développement serait appréciée. Des notions relatives à l'environnement technologique exprimé
+seraient un plus.
+Des déplacements sur des sites industriels en Europe sont à prévoir.
+Pour postuler : http://stgobainglass.contactrh.com/jobs/1536/6412327
+
+
+
+
+

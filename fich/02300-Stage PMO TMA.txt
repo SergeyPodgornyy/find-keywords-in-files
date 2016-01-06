@@ -1,0 +1,56 @@
+﻿ATOS RECRUTE UN/UNE STAGE PMO TMA EN STAGE 6 MOIS.
+Date : 03/02/2015
+Référence de l’offre : 176194-8769773
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Sous la responsabilité d'un chef de projet et pour le compte de nos plus grands clients , vous participez à la
+conception, au développement et à la mise en production des applications dans des domaines fonctionnels
+variés.
+Intégré au sein de l'équipe développement OpenText, vous participerez :
+- A la construction d'une application mobile via le Framework OpenText AppWork interconnecté avec
+OpenText Content Server
+- Au Design et à l'analyse de l'application Mobile
+- Au développement de fonctionnalités
+- Aux tests de qualification, revues, livraison, assistance à la recette, etc...
+Vous évoluez dans un environnement utilisant les technologies Java J2EE, HTM5,Javascript, CSS, Oracle
+Le stage est basé sur notre site de Sophia Antipolis.
+Profil recherché :
+De formation supérieure (typiquement BAC+4 ou BAC+5), vous recherchez un stage dans une équipe de
+TMA ou de développement.
+Vous êtes motivé(e) pour évoluer au sein d'une équipe travaillant dans un contexte de projets de Gestion
+Electronique de documents.
+Passionné(e) d'informatique, vous êtes créatif(ve), curieux(se) et avez le sens du travail d'équipe.
+Une bonne connaissance de la langue anglaise est obligatoire.
+
+
+
+
+Chez Atos la diversité est au cœur de notre politique RH.
+C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit
+la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8769773
+
+
+
+
+

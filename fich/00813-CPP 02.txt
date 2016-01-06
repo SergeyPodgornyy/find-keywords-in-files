@@ -1,0 +1,51 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+CPP-02 « Générateur de flux haut débit » (6 mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe CPP développe les sondes de capture sur les interfaces des réseaux de
+mobiles 2G/3G/4G. Ces sondes permettent de générer en temps réel les données nécessaires à
+l’analyse de   la qualité d’un réseau.
+Pour tester notre prochaine sonde de capture, Astellia souhaite développer un générateur de flux
+capable d’aller au-delà de 20Gbps.
+Au sein de l’équipe R&D/CPP (28 personnes), en relation avec un chef de projet, le stage consiste à
+spécifier, concevoir, développer et tester ce générateur. A partir d’une base matériel dédiée et d’un
+logiciel existant, le but est d’apporter les améliorations nécessaires pour dépasser les 20Gbps en
+transmission.
+Ce stage vous permettra de développer vos compétences en programmation C/C++ sous
+environnement Linux ainsi que votre maîtrise du cycle de développement des logiciels.
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : C, C++, SVN, Eclipse, Linux
+   Connaissances requises : C, C++, Linux
+Profil
+Ecole d’ingénieur Bac+5 Informatique
+Période
+A partir de Janvier 2014
+Page 2
+
+
+
+
+

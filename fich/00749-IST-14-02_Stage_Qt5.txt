@@ -1,0 +1,45 @@
+﻿                                                                                                                             Proposition de Stage                                             18/10/13
+                                                                                                       Intitulé du stage :   Développement d’IHM Qt5 pour Android - réf. FORFAITS IST-14-02
+Durée :                                                                                                6 mois                Date de début :  Février 2014                                    Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech Technologies - Agence de Rennes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Dans le cadre de son activité R&D dans le domaine de la simulation et le traitement de données,
+ALYOTECH  Technologies  utilise  depuis  plus  de  10  ans  le  framework  Qt.  Celui-ci  permet  de
+développer des interfaces graphiques de haut niveau et de manière multiplateforme (Windows / Linux
+/ MacOS) en C++. Qt est utilisé de manière transverse dans de nombreux projets Alyotech aussi bien
+pour les aspects IHM que pour les aspects métier (réseau, accès BDD, conteneurs de données, …)
+
+
+
+
+Proposition de Stage                                                                                      18/10/13
+Objectif général :
+Qt connaît actuellement des changements importants:
+Nouvelle version majeure Qt5,
+QtQuick, nouvelle technologie permettant des IHM modernes (orientées mobilité),
+Systèmes d’exploitation mobiles maintenant supportés (iOS, Android et WinRT).
+Le but premier de ce stage est d’explorer les possibilités nouvellement offertes par Qt concernant la
+mobilité via le développement d’une IHM démonstrative sous Android/WinRT en mettant l’accent sur
+la qualité de l’expérience utilisateur. Cette IHM servira d’outil de démonstration grand public d’un de
+nos codes de simulation de la surface de la mer.
+Ce stage permettra aussi de préparer l’utilisation de Qt5 dans les projets ALYOTECH et d’anticiper
+d’éventuels portages depuis Qt4.
+Profil recherché :
+Niveau de formation du stagiaire :
+Bac + 5 (Ecole d’ingénieurs, Master Informatique, Master pro)
+Compétences techniques :
+Développement informatique C++, Qt
+Autres :
+Windows, Linux
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                               02.23.21.11.11   Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

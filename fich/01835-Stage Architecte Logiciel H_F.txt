@@ -1,0 +1,36 @@
+﻿MONEO PAYMENT SOLUTIONS RECRUTE UN/UNE STAGE ARCHITECTE LOGICIEL H/F EN
+STAGE DE 3 À 6 MOIS.
+Date : 31/10/2014
+Référence de l’offre : architecte-7925368
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : metz 57072, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Le groupe MONEO-APPLICAM est leader sur le marché des applications cartes à puce (monétique, régions
+et collectivités, pétrole, loisirs, etc.). Dans le cadre de la DSI, nous recherchons un stagiaire spécialisé en
+architecture logicielle.
+Description du poste :
+La  société  APPLICAM  développe  différentes  solutions  basées  sur  le  progiciel  maison  AppliSys  sous
+technologie .Net avec des bases de données Oracle. Nous souhaiterions l'améliorer afin de le rendre plus
+adaptable, facilement maintenable et évolutif. Une solution doit également être analysée pour intégrer une
+sauvegarde des documents associée à la base de données. Un autre axe de recherche est à explorer afin de
+gérer les utilisateurs sur les différents produits de la société.
+Vos missions :
+- Analyser la cartographie et l'architecture logicielle actuelle.
+- Identifier les points d'améliorations possibles (framework, progiciel…).
+- Etudier différentes solutions de stockage de documents en base de données.
+- Etudier une gestion d'utilisateurs selon des profils et des droits, en interface avec des applications existantes
+(webservice…) et avoir la possibilité de s'appuyer sur un LDAP.
+- Mise en œuvre sous forme de maquette.
+Profil recherché :
+De formation Bac +4/5 en école d'Ingénieur ou Master Informatique, vous recherchez un stage de fin d'études
+et afin de vous investir sur une mission qui exige curiosité, adaptation, autonomie et bon relationnel
+Pour postuler : http://moneo.contactrh.com/jobs/1536/7925368
+
+
+
+
+

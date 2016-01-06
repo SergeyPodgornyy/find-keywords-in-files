@@ -1,0 +1,42 @@
+﻿Stage  developpement  outils  h/f
+Valeo
+REFERENCE  :  RHCRE2DVT
+POUR  POSTULER  :  offre4944658.1536@valeo.contactrh.com sous la référence RHCRE2DVT
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Créteil 94046, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Février
+DUREE  :  6 mois
+SECTEUR  :  Industries (Auto-Moto-Cycles)
+FONCTION  :  Etudes - Recherche (Etudes/Bureau d'Etudes)
+SOCIETE  :
+Valeo est un Groupe indépendant entièrement focalisé sur la conception, la fabrication et la vente de
+composants, de systèmes intégrés et de modules pour l’industrie automobile, principalement pour la
+réduction des émissions de CO2. Valeo compte parmi les premiers équipementiers mondiaux.
+Présent dans 29 pays, à travers 125 sites de production, 21 centres de Recherche, 40 centres de
+Développement et 12 plates-formes de distribution, le Groupe emploie 72 600 collaborateurs.
+La Diversité (égalité Homme / Femme, handicap, seniors, nationalités, etc.) est au coeur de la
+politique de recrutement de Valeo.
+DESCRIPTION  DU  POSTE  :
+Dans le cadre du déploiement d'un nouvel outil sous environnement Eclipse au sein de Valeo pour
+les activités liées à l'ISO 26262, nous recherchons un stagiaire développement Outils (Eclopse /
+JAVA / OCL) afin de customiser l'outil.
+Missions:
+-Création des modèles de rapport sous environnement BIRT afin d'exporter automatiquement des
+données de notre outil selon les modèles de rapport Valeo. Capitaliser ce travail dans un guide.
+-Enrichissement des scripts OCL dans l'outil afin d'améliorer les fonctionnalités et afin de faire des
+tests de cohérence automatiques dans le modèle et détecter les éventuelles erreurs. Mettre à jour la
+base Administration de l'outil afin d'assurer le suivi.
+-Investiguer comment réaliser des Plugin Maison dans notre outil (Import/export de données vers
+d'autres outils), réaliser un prototype si la durée et l'avancement du stage le permettent, et capitaliser
+via un guide.
+PROFIL  :
+Profil développeur logiciel avec connaissance Eclipse / JAVA / OCL.
+BAc +3 / +5
+POUR  POSTULER  :  offre4944658.1536@valeo.contactrh.com sous la référence RHCRE2DVT
+
+
+
+
+

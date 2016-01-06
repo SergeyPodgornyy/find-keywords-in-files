@@ -1,0 +1,57 @@
+﻿AJSTAGE  RECRUTE  UN/UNE  DÉVELOPPEUR  PYTHON/NODEJS  ­  E­REFLEX  EN
+STAGE  DE  5  À  6  MOIS.
+Date  :  01/04/2014
+Référence  de  l’offre    :  dpnjer­5838708
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Boulogne  Billancourt  92000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+AJstage  propose  aux  étudiants  des  offres  de  stages,  apprentissages,  VIE  et  premiers
+emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises
+clientes  sur  www.ajstage.com.
+Description  du  poste    :
+Pour  e­reflex,  le  web  est  un  terrain  de  jeu  où  l'univers  des  possibles  est  infini.
+Nous  développons  des  applications  sur  la  base  des  nouvelles  technologies  du  web  et
+sommes  là  pour  relever  des  challenges.  Nous  veillons  chaque  jour  à  être  à  la  pointe  de  la
+technologie  afin  de  proposer  à  nos  clients  le  meilleur  du  web.
+Si  vous  aussi,  vous  souhaitez  relever  le  challenge  de  faire  du  web  un  monde  meilleur,
+vous  avez  votre  place  chez  nous.
+Vous  devrez  développer  des  applications  pour  nos  clients  en  collaboration  directe  avec  le
+directeur  de  l'entreprise  qui  vous  formera  et  vous  inculquera  le  «  e­reflex's  way  »  du
+développement  web.
+Voici  l'environnement  technologique  dans  lequel  vous  allez  évoluer  et  être  formé  par  le
+directeur  de  l'entreprise  :
+Langages  serveur
+­ Python,  framework  Django,  CMS  Django  CMS
+­ Ruby,  framework  Rails,  CMS  Locomotive
+
+
+
+
+­ NodeJS,  framework  ExpressJS
+­ PHP,  framework  CakePHP  et  Laravel,  CMS  Joomla,  Wordpress  et  Drupal
+Base  de  données
+MySQL,  PostGreSQL,  MongoDB,  DynamoDB
+Cache
+Redis,  MemCached
+Langages  client
+­ HTML5
+­ CSS3,  framework  Bootstrap  Twitter,  librairies  Font  Awesome
+­ Javascript,  framework  AngularJS,  librairies  Modernizr,  Jquery,  JqueryUI
+MERCI  DE  POSTULER  VIA  :
+http://www.ajstage.com/offre/Developpeur­Python­NodeJS­chez­e­reflex
+Profil  recherché    :
+Vous  êtes  curieux,  créatif,  capacité  d'auto­apprentissage  élevée.
+Ce  sont  les  clefs  pour  que  nous  puissions  vous  former  à  devenir  un  vrai  Ninja  du  Web!
+Un  CDI  est  à  la  clé
+Pour  postuler    :  http://ajstage.contactrh.com/jobs/1536/5838708
+
+
+
+
+

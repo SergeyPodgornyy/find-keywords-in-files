@@ -1,0 +1,57 @@
+﻿Stage  en  R&D  outillage  sécurité
+Société  Générale  France
+REFERENCE  :  ST/SB/RESG94929
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5500757
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 01/03/2013
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Sécurité)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Sous la responsabilité de votre tuteur, vous participez à la définition et à la conception d'outils de
+sécurité opérationnelles :
+1/ plateforme de requêtage et de génération de certificats (PHP, OpenSSL)
+2/ outil de collecte et de cassage de mots de passe (John the ripper, AD, scripts shell unix)
+3/ outil de suivi et de rémédiation des vulnérabilités (Nessus, Qualys, PHP/Python, SQL)
+D'autres sujets de R&D en sécurité opérationnelle pourront être proposés en fonction du contexte.
+Apport du stage
+Ce stage polyvalent vous permettra de découvrir l'environnement de production informatique dans
+un contexte international, de perfectionner vos connaissances acquises lors de votre formation, en
+portant un projet opérationnel de sécurité pour une banque d'investissement.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur ou université avec une spécialisation
+en Systèmes d'information avec une composante en développement.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec LINUX, Langage de Scripting.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Vous bénéficiez idéalement des connaissances en Bases de données est un plus.
+
+
+
+
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+5 avec une spécialisation en développement.
+A l’aise avec LINUX, Langage de Scripting, des connaissances en Bases de données est un plus.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5500757
+
+
+
+
+

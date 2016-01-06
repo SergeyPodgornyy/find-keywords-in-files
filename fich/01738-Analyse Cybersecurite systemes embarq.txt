@@ -1,0 +1,47 @@
+﻿SOGETI HT - RÉGION EST RECRUTE UN/UNE ANALYSE CYBERSÉCURITÉ SYSTÈMES EMBARQ
+EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : MU8-STAGE-IL-BU-7818286
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : lyon 69000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+Dans le cadre de ses offres en cybersécurité et de son skill center software embarqué, l'agence SOGETI High
+tech Lyon souhaite lancer divers sujets de recherche autour de l'état de l'art des analyses en cybersécurité.
+Sujets d'analyse
+- Tests d'intrusion sur objets connectés
+- Etude des techniques de pentesting via USB, Bluetooth, Wifi …
+- Analyse de la sécurité des composants NFC
+- Analyse de la sécurité des systèmes industriels et réseaux industriels
+- Création d'un système de mise à jour d'objets connectés permettant la vérification d'intégrité des cibles et du
+dépôt
+Compétences souhaitées :
+- Systèmes embarqués C, Python
+- Linux
+- Techniques d'attaques cyber sécurité
+Profil recherché :
+En  cours  de  formation  en  école  d'ingénieur,  idéalement  en  spécialisation  cybersécurité  et  systèmes
+embarqués, vous avez une culture de la cybersécurité et une passion pour ce domaine d'activité.
+Vous devez savoir faire preuve d'adaptabilité, de motivation et d'autonomie.
+Pour postuler : http://sogeti-high-tech.contactrh.com/jobs/1536/7818286
+
+
+
+
+

@@ -1,0 +1,40 @@
+﻿Stage : « Participation aux Projets Web »
+Sujet
+Dans le cadre de votre stage, Infotel vous propose d’intégrer sa direction technique pour travailler sur des projets
+innovants dans le cadre des trois missions principales de la direction technique :
+­                                                                                                                      Projets stratégiques : la direction technique réalise certains projets à engagement de résultats pour les
+plus gros clients de la société.
+­                                                                                                                      Dans le cadre de cette activité, vous intégrerez l’équipe projet et participerez à l’ensemble des phases
+de développement de l’expression des besoins clients jusqu'à la mise en production de l’application.
+­                                                                                                                      Veille technologique et innovation : être à la pointe de la technologie est désormais un enjeu majeur de
+notre métier : vous interviendrez ici sur des projets d’innovation et d’étude de faisabilité en rapport avec
+les besoins de nos clients ;
+Environnement et compétences requises
+Pour l’étude :
+­                                                                                                                      Capacités de conception et de rédaction.
+­                                                                                                                      Des méthodologies : UML, MERISE.
+­
+Pour les développements :
+­                                                                                                                                                                                                                                  de la programmation : Java, Jee, Struts, Spring, Hibernate, GWT etc.
+­                                                                                                                      des outils associés : Eclipse, etc.
+­                                                                                                                      des bases de données : MySql, Oracle, etc.
+Durée du stage - 6 mois
+Lieu du stage
+Stage à l’agence de Rennes
+Prolongement du stage
+Le stage pourra être suivi par un emploi (CDI) à Infotel.
+Votre candidature
+Postulez en envoyant votre candidature par courrier électronique à l’adresse ci-dessous, en précisant vos dates
+de stages :
+Infotel Ouest
+Le Papyrus
+29, rue de Lorient
+35000 Rennes
+Tél. +33 (0)2 99 23 11 23
+Fax : +33 (0)2 99 23 11 29
+recrutement-rennes@infotel.com
+
+
+
+
+

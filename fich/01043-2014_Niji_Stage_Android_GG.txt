@@ -1,0 +1,58 @@
+﻿Niji est une société de conseil, de design et de réalisation logicielle entièrement dédiée aux usages et
+aux technologies de la convergence numérique. Niji accompagne ses clients, acteurs économiques
+privés et publics, dans la transformation digitale de leurs offres de produits et de services, de leurs
+dispositifs de relation client et de leurs processus organisationnels. Société indépendante, présente à
+Paris, Rennes, Lille et Nantes, Niji compte 450 salariés pour un chiffre d’affaires de 36M€ en 2012.
+Vous intégrerez la Software Factory de Niji, notre entité spécialisée dans le développement logiciel,
+composée d’experts Mobile, Web, en technologies digitales et SI. Ce stage sera stage fortement
+ancré  dans  la  technologie,  le  développement  dans  des  environnements  techniques  pointus,  et
+l’innovation tournée vers le service rendu aux utilisateurs finaux. Vous pourrez également, en fonction
+de la durée de votre stage et du sujet proposé, être amené(e) à intervenir sur des projets pour les plus
+grands comptes nationaux  (Médias, Opérateurs, Energie, Automobile, Banque/Assurance, Grande
+distribution, E-commerce, etc.)
+Sujet du stage                                                                                             Réalisation d’applications Google Glass dans 2 modes :
+                                                                                                           -   Réalisation de fonctionnalités à forte valeur ajoutée au sein du pôle
+                                                                                                           R&D
+                                                                                                           -   Mise  en  œuvre  de  ces  fonctionnalités  dans  le  cadre  de  projets
+                                                                                                           clients.
+Durée envisagée                                                                                            6 mois
+Année d’étude                                                                                              5
+Aptitudes humaines                                                                                         Esprit  d’innovation,  curiosité  intellectuelle,  autonomie  et  prise  d’initiative,
+technophilie, motivation, bon relationnel, rigueur et   organisation, esprit de
+attendues
+synthèse et d'analyse, qualités d'expression orales et écrites.
+Aptitudes                                                                                                  Bonne compréhension des architectures logicielles, du multimédia ;
+techniques attendue                                                                                        Connaissance des langages de programmation : Java, SDK Android, Bases
+s                                                                                                          de données (SQLite), GDK, Mirror API ;
+                                                                                                           Connaissance de l’Open Source ;
+                                                                                                           Une connaissance des terminaux : Android et Google Glass.
+Livrables de fin de                                                                                        Livrables des applications R&D et des applications clientes ;
+stage                                                                                                      Rédaction de supports pour présenter les projets développés. Ces supports
+seront destinés à   des démonstrations clients.
+Localisation du                                                                                            Locaux de Niji à Cesson-Sévigné
+stage
+Contact(s)                                                                                                 Sixtine.descamps@niji.fr
+Description détaillée                                                                                      Niji  réalise  depuis  plusieurs  années  des  applications  pour  téléphones
+du stage                                                                                                   portables Android. Dans le cadre de sa veille et son implication constante sur
+les nouvelles technologies, Niji souhaite être précurseur dans l’utilisation des
+Google Glass. Ayant  déjà réalisé une  des premières applications  Google
+Glass Françaises en collaboration avec l’Equipe, Niji poursuit l’exploration
+des solutions et usages possibles.
+Vous interviendrez donc dans ce cadre de manière concrète par la réalisation
+d’une  ou  plusieurs  applications  afin  de  tester  les  différentes  solutions
+retenues.    Ces  applications  pourront  être  de  type  R&D,  par  l’étude  des
+nouvelles API  proposée  par  Google  ou  Open  Source,  l’analyse  de  leurs
+fonctionnalités et des possibilités associées.
+Vous pourrez également être amené à mettre en œuvre les résultats de ces
+travaux de R&D dans des projets clients à destination des usagers finaux.
+Stages de fin d’études                                                                                     Niji - 2014
+
+
+
+
+Stages de fin d’études   Niji - 2014
+
+
+
+
+

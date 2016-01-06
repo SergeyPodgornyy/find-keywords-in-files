@@ -1,0 +1,31 @@
+﻿Sujet: "Impression 3D et Customisation"
+L'impression 3D est en plein boom et permet de fabriquer toutes sortes
+d'objets.
+Avec la réduction du prix des imprimantes et une maturité des techniques
+d'impression, un scénario de "customisation de masse" est en passe de
+devenir réalité.
+Chaque individu imprimerait alors son objet unique (customisé pour ses
+goûts et besoins).
+Pour réaliser cette vision, il est nécessaire d'étendre les outils et
+langages existants avec des capacités de customisation.
+Dans ce stage, nous proposons de développer un support pour OpenSCAD
+(openscad.org <http://openscad.org>) un langage de script extrêmement
+utilisé (notamment par Thingiverse).
+Selon les capacités et ambitions, nous envisageons le développement d'un
+éditeur textuel sophistiqué (avec auto-complétion, colorisation
+syntaxique, correction à la volée, etc.), une maîtrise de la phase de
+"parsing" pour pouvoir rajouter des extensions à OpenSCAD et les
+exploiter, l'analyse empirique de programmes .scad, etc.
+Le choix des technologies sera à discuter (e.g., l'éditeur pourra être
+une solution déployable sur le Web ou un éditeur intégré à Eclipse).
+Nous fournirons l'encadrement nécessaire et l'infrastructure technique
+pour réaliser ce projet ambitieux.
+Références:
+http://www.thingiverse.com/
+http://www.openscad.org/
+http://diverse.irisa.fr
+
+
+
+
+

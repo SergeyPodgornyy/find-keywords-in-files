@@ -1,0 +1,37 @@
+﻿Canon Research Centre France S.A.S.
+Le Centre de Recherche de CANON situé à RENNES ATALANTE, dont la mission consiste à
+développer des technologies fondamentales afin de contribuer au développement de produits
+innovants pour le groupe CANON, propose un
+STAGE
+Stream Vidéo temps réel
+Durée du stage: 3 mois à partir d’avril 2014
+MISSIONS:
+Dans le cadre de la vision par ordinateur, Canon souhaite utiliser des caméras pour des
+applications de haut niveau telles que tracking ou identification.
+Les  missions du    stage consistent en l'acquisition et le traitement de streams vidéo
+provenant de multiples caméras en temps réel. L’objectif est de prendre en main une
+installation de multiples caméras, d'en acquérir les flux vidéo, de les convertir en des
+formats  compatibles  avec  nos  outils  de  traitement  vidéo  avancé                          (notamment  sous
+MATLAB), et de les traiter, en essayant d'atteindre idéalement des performances temps
+réel.
+Du codage en C et/ou MATLAB, ou tout autre langage performant que le candidat
+apprécierait plus, est à prévoir.
+PROFIL :
+Le stagiaire devra être candidat à un diplôme Universitaire ou une école d’ingénieur dans
+la filière informatique.
+Idéalement,  le  candidat  aura  un  profil  de  passionné  d'informatique  et  de  nouvelles
+technologies, avec de préférence, une bonne connaissance du monde de l'image et de la
+vidéo.
+CONTACT :
+Adresser votre lettre de motivation, CV en mentionnant la référence ST0114TD2 à :
+CANON Research Centre France
+A l’attention de Mme Lydie BUFFARD
+Rue de la Touche Lambert
+CS 91716
+35517 CESSON SEVIGNE CEDEX
+Ou par mel : info@crf.canon.fr
+
+
+
+
+

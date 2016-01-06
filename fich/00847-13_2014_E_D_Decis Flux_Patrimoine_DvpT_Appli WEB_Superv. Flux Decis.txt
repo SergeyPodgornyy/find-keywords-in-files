@@ -1,0 +1,56 @@
+﻿INFORMATIQUE                                                                                                                     STAGE   2013-2014
+DEVELOPPEMENT D'UNE APPLICATION WEB DE
+SUPERVISION DES FLUX DECISIONNELS
+Stage rémunéré
+                                                                                                                                 Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 13_2014_E&D_DECISIONNEL_Flux Patrimoine
+                                                                                                                                 informatique  interne  au  Groupement  U
+                                                                                                                                 (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 6 mois - Période : à partir de février 2014
+                                                                                                                                 mission  la  centralisation  et  l'uniformisation
+                                                                                                                                 des ressources informatiques des magasins U
+et des centrales.
+Chaque  année  nous  accueillons  une  douzaine  de
+stagiaires   qui   rejoignent   une   équipe   de                                                                                500
+Au sein du pôle SID Patrimoine et dans le cadre d’un projet global, le
+collaborateurs qui travaillent dans un environnement
+candidat prendra en charge toutes les phases du projet de construction
+technique constitué de 500 serveurs (Unix, Windows,
+d’une  application  de  supervision  des  traitements  d’alimentations  du
+AS400), 1800 équipements réseaux et une centaine de
+nouveau  SID                                                                                                                     (SID  Enseigne  et  SID  Opérationnel).  Il  proposera  les
+bases de données, répartis dans les Datacenters et
+dossiers  de  spécification  au  comité  de  pilotage  du  projet.  Il  sera
+reliés aux 1423 points de vente du groupe.
+accompagné des experts Système U sur les technologies à mettre en
+œuvre.
+En immersion complète dans des projets
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+L'objectif :
+Concevoir et construire une solution logiciel destinée à superviser les alimentations en construisant les outils suivants de :
+Suivi des alimentations quotidiennes de SIDO et de SIDE
+Contrôle d'évolution de la durée des alimentations quotidiennes par flux et par centrale
+Déclenchement d'alertes
+Les missions :
+Rédaction des dossiers de spécifications fonctionnelles et techniques, ainsi que la documentation
+Rédaction des fiches descriptives des tests d'intégration
+Modélisation et mise en place de la BDD (Oracle / Exadata)
+Développement des IHM
+Participation aux Tests d'Intégration
+Oracle / Exadata, Microstrategy, Informatica, J2EE
+Bac + 5, Ecole d’ingénieurs ou Universitaire portant un intérêt pour le domaine décisionnel
+Qualités requises :
+o  Rigueur,
+o  Capacité rédactionnelle
+o  Esprit d'équipe
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

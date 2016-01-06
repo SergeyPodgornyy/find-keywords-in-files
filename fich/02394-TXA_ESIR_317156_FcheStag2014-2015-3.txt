@@ -1,0 +1,114 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+                                                                                         Nom de l’entreprise :    TEKXIA                                             Adresse :                                     51 rue Pierre Jouan
+                                                                                         Domaine d’activité :        Electronique / Informatique                     Ville :                                       Saint MALO
+                                                                                         Représentant de l’entreprise : JC Menon                                     N° téléphone :                                06 80 63 56 56
+Sa qualité :                                                                             Dirigeant                                                                   N° fax :
+N° de Siret :                                                                            79871800300014                                                              Site Web :
+N° NAF :                                                                                 7112B                                                                       Courriel :                                    jc.menon@tekxia.com
+Statut Juridique :   SASU                                                                                                                                                                                          Signataire de la convention :   JC Menon
+Effectif de l’établissement :                                                            1
+                                                                                         Nom de l’encadrant de stage : JC Menon                                      Chargé du suivi administratif :    JC Menon
+Sa qualité :                                                                             Dirigeant                                                                   Sa qualité :
+Service :                                                                                                                                                            N° téléphone :
+N° téléphone :                                                                                                                                                       Email :
+Email :                                                                                                                                                              Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …Développements
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……Saint MALO
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                              13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                           8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                  13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                       du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                     du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                       du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                   du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                       du 13 avril 2015 à fin août 2015
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                         En alternance avec 3 périodes de 5 semaines en formation universitaire et
+                                                                                         3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                         16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                        En alternance avec 3 périodes de 5 semaines en formation
+UNIVERSITE DE RENNES 1                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                     entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                      entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                   entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé :…… Ingénieur en développements informatiques C & PHP
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Elève Ingénieur en informatique
+Capacités rédactionnelles de la documentation et des dossiers méthodes/maintenance
+Expérience des tests fonctionnels
+Expérience des langages C, C++ et de l’IDE Eclipse
+Expérience bienvenue du SoC Intel Edison
+Connaissance de l’environnement Linux pour applications embarquées
+Connaissance des protocoles FTP et des Class Linux UVC (Video)
+Sujet proposé détaillé :
+Dans le cadre du développement d’une solution de vidéoprotection pour sites isolés ou nomades, la
+sté propose un stage en développement software embarqué pour validation de la plateforme. Celle-
+ci est architecturée autour d’un SoC Intel Edison avec Linux, un module USB télécom 3G Huawei et
+deux contrôleurs dédiés à l’alim et à l’encodage JPEG pilotés via interfaces SPI ou UART.
+La plateforme de développement est élaborée sur la base des demoboards correspondant à ces
+chipsets.
+Le but du stage est de valider successivement les diverses fonctionnalités avec cette plateforme :
+1)                                                                                                   Vérifier le boot de ces cartes avec la dernière version de l’image Linux.
+2)                                                                                                   Pluguer une webcam USB sur l’Edison, capturer une image et la rapatrier sur le SoC
+3)                                                                                                   Etablir la connexion Wifi du SoC avec un Wap, puis lui ouvrir une connexion avec un server FTP.
+4)                                                                                                   Réaliser le transfert de fichiers depuis la mémoire du SoC vers le serveur FTP dans le Cloud.
+5)                                                                                                   Réaliser l’interfaçage entre le SoC et le module 3G, valider le pilote et établir une connexion 3G
+6)                                                                                                   Ouvrir une session au server FTP via une communication 3G et transférer un fichier depuis le
+SoC
+7)                                                                                                   Implémenter un firmware WAP sur un SoC et faire dialoguer en Wifi deux SoC
+8)                                                                                                   Implémenter un firmware Router Wifi/3G sur un SoC, l’utiliser comme passerelle par le 2nd SoC
+9)                                                                                                   Valider le réseau de communication Webcam-SoC (via USB) - SoC Wap (en Wifi) - FTP (en 3G)
+10)                                                                                                  Développer une routine pour transférer périodiquement une image depuis la Webcam vers le
+FTP
+11)                                                                                                  Remplacer la Webcam par le contrôleur d’encodage JPEG et l’interfacer au SoC via SPI/USB
+12)                                                                                                  Piloter le contrôleur dédié à l’alimentation par le SoC via une interface UART.
+                                                                                                     INFORMATIONS  COMPLÉMENTAIRES  :
+                                                                                                     Indemnité mensuelle (nette) : Montant légal                                                          Nom de l’Etudiant :
+Modalités de versement :                                                                             Chèque                                                                                               Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                               TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                             www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

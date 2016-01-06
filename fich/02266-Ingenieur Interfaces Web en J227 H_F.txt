@@ -1,0 +1,59 @@
+﻿ATOS RECRUTE UN/UNE INGÉNIEUR INTERFACES WEB EN J227 H/F EN STAGE DE 4 À 6 MOIS.
+Date : 28/01/2015
+Référence de l’offre : 2014-1506-8715498
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Dans le cadre de la réalisation d'un nouveau produit logiciel en JEE, vous aurez pour missions principales:
+-  La  conception  d'interfaces  graphiques  web                                                                     (définition  graphiques  et  définition  des  enchainements
+dynamiques)
+- Leur implémentation, conformément aux spécifications, en utilisant la technologie JSF (Java Server Faces)
+de JEE 7
+- La réalisation d'un document de conception, ainsi que les Fiches de Tests de ces interfaces graphiques
+- La réalisation des tests de validation
+Profil recherché :
+Bac +5, diplôme d'ingénieur ou cycle universitaire équivalent avec une spécialisation en informatique (génie
+logiciel).
+Stagiaire ayant mené un projet d'étude similaire ou proche
+Compétences requises
+- Maitrise du langage Java SE
+- Maitrise des API Java Server Faces de JEE7
+- Connaissances des technologies sous-jacentes à JSF : HTML5, JSP, Servlet, javascript,…
+- Capacité à étendre les composants graphiques de JSF pour les doter de fonctionnalités graphiques riches
+supplémentaires
+- Capacité à écrire des documents de spécifications graphiques (charte) et des documents de conception
+logicielle (UML)
+Compétences appréciées
+- Capacité à concevoir avant de développer
+- Autonome pour trouver des solutions techniques
+- Force de proposition
+- Utilisation de l'IDE Netbeans et du serveur JEE Glassfish
+- Esprit d'équipe
+
+
+
+
+- Rigueur
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8715498
+
+
+
+
+

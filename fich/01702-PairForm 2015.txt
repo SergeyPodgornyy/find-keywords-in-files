@@ -1,0 +1,55 @@
+﻿Offre de stage 2015
+Plateforme sociale, mobile et ludique
+de ressources multimédias
+Contexte du projet
+Les appareils nomades  (smartphones &  tablettes) deviennent omniprésents. Ils révolutionnent tous les secteurs et
+modifient  en  profondeur  les  usages.  Nul  doute  qu’ils  vont  s’introduire  dans  l’enseignement  supérieur.  Le Centre
+d'Appui aux Pratiques d'Enseignement (CAPE) de l'Ecole des Mines de Nantes explore les potentialités de ces appareils
+et les nouveaux usages. Il mène depuis 2008 des expérimentations d’applications de ces appareils dans l’enseignement
+et  développe  des  dispositifs  très  innovants.  Par  exemple,  l’application                                                 « Parlez-vous  chinois ? »  sur  mobile  s’est
+diffusée à plusieurs dizaines de milliers d’exemplaires à travers plus de 50 pays. En octobre 2013, le CAPE a sorti
+PairForm, la première plateforme sociale, mobile et ludique de ressources multimédias sur iPhone, iPad, Android et
+Web. Cette plateforme relie tous les utilisateurs d’une même ressource et permet un échange de connaissances et un
+partage de savoir-faire à l’intérieur même du document. Le CAPE poursuit ses actions de R&D et vous propose une
+offre de stage dans ce contexte.
+Objet du stage
+La première version de PairForm est en ligne  (http://www.pairform.fr). Nous planifions de nombreuses nouvelles
+améliorations ajoutant des fonctionnalités et un plus grand confort d’utilisation. En 2015, nos trois priorités portent sur :
+-                                                                                                                               Les  usages  in-situ :  gestion  de  photos  et  positions  GPS,  usage  du  réseau  social  en  dehors  de  réseau
+Wifi/3G/4G, calcul automatique de cartes à partir des positions GPS, … Ces fonctionnalités seront exploitées
+dans un MOOC en géologie où nous voulons créer des activités de terrain massives.
+-                                                                                                                               Les  usages  en  formation  continue  professionnelle (intégration  de  fonctionnalités  permises  par  la  nouvelle
+réforme de la formation professionnelle) : Ajout de pièces jointes dans le réseau social, gestion des Open
+Badges pour valoriser des compétences, calcul de rapport des activités effectuées à distance par un apprenant,
+mise en œuvre d’un service premium avec gestion de la monétisation.
+-                                                                                                                               Sécurité et montée en charge : test d’attaque de l’ensemble de l’environnement PairForm, corrections des
+failles, cryptage des données et autres techniques de prévention et de sécurisation.
+Le stagiaire contribuera au développement de la plateforme PairForm et sera en charge d’un projet avec une mise en
+production à l’issue du stage. Les réalisations se feront dans l’environnement iOS, Android et/ou Web selon les
+préférences du stagiaire. Les missions qui lui seront confiées porteront sur :
+-  Analyse critique de l’existant
+-  Cahier des charges technique et fonctionnel
+-  Développement des fonctionnalités du lot choisi en lien avec les autres développeurs
+-  Tests
+-  Documentation
+-  Déploiement
+Environnement
+-                                                                                                                               Lieu de travail : Ecole des Mines de Nantes.
+-                                                                                                                               Durée : 4 à 6 mois
+-                                                                                                                               Profil : Bac+4 ou +5 avec une compétence informatique.
+-                                                                                                                               Contact : Christian.Colin@mines-nantes.fr
+-                                                                                                                               Web : http://imedia.emn.fr/wp                                                                                          http://www.mines-nantes.fr
+Avantages de ces propositions de stage
+-                                                                                                                               Projet ambitieux, innovant tant sur les usages que les technologies numériques : mobilité, réseau social, iOS,
+Android, Cloud, …
+-                                                                                                                               Acquisition d’un savoir-faire en termes de gestion de projet, de développement multi-environnement et aussi
+de technologies up-to-date
+-                                                                                                                               Un environnement de travail convivial dans un milieu très innovant
+-                                                                                                                               Participation à la création de nouveaux usages du numérique
+-                                                                                                                               Travail en équipe dans un contexte de création d’une start-up
+Merci d’envoyer CV + lettre de motivation
+
+
+
+
+

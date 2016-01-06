@@ -1,0 +1,64 @@
+﻿SIEMENS  INFRASTRUCTURE  &amp;  CITIES  SECTOR  RECRUTE  UN/UNE
+STAGIAIRE  CONCEPTEUR  WEB  (H/F)  EN  STAGE  DE  5  À  6  MOIS.
+Date  :  01/01/2015
+Référence  de  l’offre    :  157587­5749638
+Domaine  d’activité    :  Etudes  ­  Recherche  (Chef  de  Projet/Ingénierie)
+Type  de  contrat    :  Stage
+Localisation    :  Chatillon  92320,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Premier  groupe  européen  de  haute  technologie,  Siemens  conjugue  depuis  toujours
+performance  technique,  innovation,  qualité  et  fiabilité.
+Nos  activités  centrées  sur  les  secteurs  des  infrastructures  et  des  villes,  l'industrie,
+l'énergie  et  la  santé,  ciblent  des  marchés  de  croissance  sur  lesquels  le  Groupe  nourrit
+l'ambition  d'être  leader.
+Visionnaire  par  culture,  inventeur  du  VAL,  Siemens  Chatillon  s'impose  comme  leader
+mondial  des  métros  automatiques  et  comme  pôle  international  d'expertise  du  groupe
+Siemens  pour  les  automatismes  de  transport  urbain.  Nous  assurons  également  la
+commercialisation  en  France  de  l'ensemble  des  produits  et  services  ferroviaires  de
+Siemens.  Nous  intervenons  de  la  conception  à  la  réalisation  des  projets  clé  en  main
+jusqu'aux  services  de  maintenance.  Nous  transportons  chaque  jour  plus  de  13  millions  de
+personnes  aux  quatre  coins  du  monde  en  toute  sécurité.  Mobile  de  par  notre  cœur  de
+métier,  nous  mettons  également  la  priorité  sur  la  mobilité  de  nos  équipes.
+Description  du  poste    :
+Dans  le  cadre  de  ses  activités  R&D,  le  département  Customer  Service  de  la  Business  Unit
+Infrastructure  and  Cities  -  Rail  Systems  prépare  la  réalisation  de  la  nouvelle  plateforme
+de  maintenance  pour  les  systèmes  équipant  les  lignes  de  métro  (ATC  Automatic  Train
+Control,  ATS  Automatic  Train  Supervision,  Signalisation).  Il  s'agit  d'un  système
+d'information  basé  sur  les  technologies  Web  actuelles  pour  assurer  les  fonctionnalités
+suivantes  :
+­                                                                                                       Supervision  SNMP  pour  la  maintenance  ;
+­                                                                                                       Gestion  et  analyse  des  incidents  ;
+­                                                                                                       Gestion  des  interventions  de  maintenance  ;
+­                                                                                                       Gestion  de  la  documentation  de  maintenance.
+
+
+
+
+Dans  ce  contexte,  vous  prenez  en  charge  la  réalisation  de  la  maquette  de  la  plate­forme  :
+­                                                                                                          Rédaction  d'un  document  de  conception  ;
+­                                                                                                          Développement  javascript,  servlet,  Ajax,  CSS,  HTML,  mySQL,  XML.
+Poste  basé  à  Chatillon  (92)
+Des  déplacements  ponctuels  sont  à  prévoir
+Ce  stage  est  à  pourvoir  dès  que  possible  pour  une  durée  de  6  mois.
+Etudiant  d'école  d'ingénieur  ou  universitaire  vous  avez  de  réelles  compétences  dans
+la  programmation  Web  et  la  programmation  objet.
+­                                                                                                          Une  expérience  professionnelle  préalable  est  souhaitable.
+­                                                                                                          Un  bon  niveau  d'anglais  est  requis.
+CONTACT  :
+Responsable  du  recrutement  :  Marion  Quinquis
+Pour  toutes  informations  complémentaires,  n'hésitez  pas  à  contacter  notre  service  des
+ressources  humaines  au  01  49  22  98  00.
+­
+Si  cette  offre  vous  intéresse,  merci  de  postuler  en  ligne  (CV  et  lettre  de  motivation).
+Profil  recherché    :
+Etudiant  d'école  d'ingénieur  ou  universitaire  vous  avez  de  réelles  compétences  dans  la
+programmation  Web  et  la  programmation  objet.
+Pour  postuler    :  http://siemens.contactrh.com/jobs/1536/5749638
+
+
+
+
+

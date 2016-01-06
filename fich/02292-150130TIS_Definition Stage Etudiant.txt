@@ -1,0 +1,72 @@
+﻿Stage Etudiant
+EMPLOYEUR :
+Nom :
+CINATIS (34, Rue Frédéric Leguyader, 35200 RENNES)
+Statut :
+Entreprise
+ANNONCE :
+Intitulé du poste :
+Développement/déploiement logiciel collaboratif Web/Androïd
+Un stage polyvalent qui permettra à l’étudiant de participer au développement d’un
+produit collaboratif très innovant (mutualisation de transport) et de participer à son
+déploiement chez nos clients dans des domaines variés (industrie, grande distribution,
+messagerie, …)
+Mission :
+Cinatis est un éditeur de logiciel; elle a pour ambition de répondre à des exigences
+évolutives de la part de ses clients et à des  augmentations de coût de l’énergie et de la
+fiscalité qui grèvent les coûts de transport. Elle mise sur la collaboration entre les
+entreprises (chargeurs, transporteurs, clients, fournisseurs) pour relever ce défi. Cet
+espace collaboratif mis à disposition par Cinatis s'appuie sur un échange d’information
+simple, rapide et intuitif.
+La solution Cinatis se prolonge également dans le domaine de la gestion des transports
+(TMS) avec une solution de gestion de plan de transport et de traçabilité de livraison
+utilisant des solutions à base d’application mobile.
+Elle compte entre autres, dans son portefeuille client, un acteur majeur de la grande
+distribution, une coopérative agricole leader dans son domaine et le numéro un du
+recyclage et de la valorisation des déchets.
+Elle prospecte d’ores et déjà à l’international où ce concept est encore balbutiant.
+
+
+
+
+Dans ce cadre très innovant, vous serez amené à participer au cycle de développement
+du produit :
+- Modélisation de processus
+- Analyse de besoin client
+- Spécification de nouvelles fonctionnalités de l’outil
+- Spécification d’interface
+- Paramétrage de l’outil
+- Plan de recette et exécution de recette
+- Reprise de données client
+- Elaboration de plan de déploiement
+- Support client au déploiement
+- Elaboration de reporting selon besoin clients
+En fonction des priorités du moment, vous intervenez dans l’un des domaines ci-dessus.
+Ces missions peuvent nécessiter des déplacements en clientèle (Paris, Province).
+Vous participez à la réflexion globale de l’équipe sur l’évolution du produit.
+Vous vous verrez également confier la sélection et la mise en place d’un outil de help
+desk ainsi que l’élaboration d’un didacticiel de formation client.
+Profil :
+Stage de fin d’études d’ingénieur ou de mastère en informatique. Vous êtes positif,
+dynamique, organisé, rigoureux, attentif et avez le goût du travail bien fait. Vous aimez le
+travail en équipe. Vous êtes motivé par les nouvelles technologies, en particulier à base
+de solutions mobile. Vous avez à cœur la satisfaction de vos clients. Vous avez la passion
+de découvrir leurs activités et de participer au déploiement de solutions performantes
+de réduction des coûts de transport.
+Niveaux d’études :
+Bac + 5, Bac + 4
+Période
+Stage de 4 à 6 mois ; début ASAP
+Rémunération
+Selon profil (minimum …)
+Convention de stage :
+Oui
+Postuler :
+Par email : s.gerard@cinatis.com
+Par internet : http://www.cinatis.com/
+Modalité : Envoyez CV + Lettre de motivation
+
+
+
+
+

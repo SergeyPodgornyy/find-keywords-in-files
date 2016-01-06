@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE STAGE TEST DE COMMANDES UTILISATEURS H/F EN STAGE DE 4 À
+6 MOIS.
+Date : 05/02/2015
+Référence de l’offre : 2014-1494-8793010
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Bruyères-le-Châtel 91680, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Vous intégrerez les équipes du pôle R Extreme Computing qui ont déjà conçu des supercalculateurs
+régulièrement classés dans le top 50 mondial et reconnus pour leurs qualités.
+L'objectif de votre stage est de participer à la spécification, au développement et à la mise en service d'une
+suite de tests de commandes utilisateurs exploitant une base données.
+Les tests comprendront en particulier une interface en ligne de commande des utilitaires afin de dépouiller les
+fichiers de traces créés, l'automatisation des tests et leur intégration dans la chaîne de production.
+Profil recherché :
+Bac+ 5, Diplôme d'ingénieur ou cycle universitaire équivalent.
+Langues
+Anglais (Intermédiaire)
+Compétences requises
+- Connaissance de langage de programmation (bash / perl)
+Compétences appréciées
+- Langage C / C++
+- SQL / PostgreSQL
+- SVN
+- Technique de test unitaire
+- Autonomie
+- Travail en équipe
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8793010
+
+
+
+
+

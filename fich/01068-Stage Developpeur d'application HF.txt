@@ -1,0 +1,64 @@
+﻿ORANGE  BUSINESS  SERVICES  RECRUTE  UN/UNE  STAGE:  DEVELOPPEUR
+D&#39;APPLICATION  H/F  EN  STAGE  DE  5  À  6  MOIS.
+Date  :  1/12/13
+Référence  de  l’offre    :  FIME/STAGE/SOFT­5528401
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  CAEN  14000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Orange  Business  Services,  entité  de  Orange  dédiée  aux  services  de  communication  pour
+les  entreprises  dans  le  monde  (B2B),  est  un  leader  mondial  en  matière  d'intégration  de
+solutions  de  communication  pour  les  sociétés  multinationales.  Avec  un  réseau  sans
+couture  le  plus  étendu  au  monde  pour  la  voix  et  les  données,  Orange  Business  Services
+est  présent  dans  220  pays  et  territoires,  avec  une  assistance  locale  dans  166  pays.  Offrant
+une  gamme  complète  de  services  incluant  le  cloud  computing,  l'entreprise  mobile,  la
+relation  client,  le  M2M,  la  sécurité,  les  communications  unifiées,  la  visioconférence  et  le
+haut  débit,  Orange  Business  Services  fait  bénéficier  à  ses  clients  de  la  meilleure  expertise
+en  la  matière  au  niveau  mondial.  1,4  millions  d'utilisateurs  et  des  milliers  d'entreprises
+s'appuient  sur  la  plateforme  internationale  d'Orange  Business  Services  pour  communiquer
+et  mener  à  bien  leurs  activités.
+Au  sein  d'Orange  Business  Services,  FIME,  avec  une  présence  sur  les  5  continents,  offre
+aux  acteurs  du  marché  de  la  carte  à  puce  des  outils  de  tests  et  des  solutions  globales
+autour  des  activités  de  conseil  et  d'expertise.
+Description  du  poste    :
+Contexte:
+La  société  FIME  conçoit  et  développe  des  outils  de  test  (cartes  à  puce  et  lecteurs  de  cartes
+à  puce)  à  destination  de  clients  externe  ou  interne.  Pour  assurer  le  suivi  de  ses  projets,
+FIME  a  mis  en  œuvre  un  document  électronique  permettant  de  s'assurer  que  chaque  étape
+du  projet  est  validée  avant  la  progression  à  l'étape  suivant.
+Ce  document  est  aujourd'hui  utilisé  par  les  équipes  de  FIME  RDI  de  Caen.
+Problématique:
+Le  fait  de  gérer  ce  suivi  à  travers  un  document  électronique  amène  un  certain  nombre  de
+
+
+
+
+contraintes  que  FIME  souhaiterait  maintenant  éviter.  L'objectif  est  donc  de  migrer  ce
+document  de  suivi  vers  une  application  web.
+Sujet:
+L'objectif  du  stagiaire  sera  de  concevoir  l'application  web  en  prenant  en  compte  les
+éléments  suivants  :
+1.                                                                                                  Compréhension  du  contexte  de  suivi  des  projets.
+2.                                                                                                  Analyse  du  fonctionnement  du  document  actuel.
+3.                                                                                                  Compréhension  du  cahier  des  charges  de  l'outil.
+4.                                                                                                  Réalisation  des  maquettes  (mock­up)  des  IHM  qui  seront  mises  en  place.
+5.                                                                                                  Intégration  des  interfaces  (une  fois  validées  par  l'équipe  marketing).
+6.                                                                                                  Rédaction  de  la  documentation  associée  au  travail  fourni.
+Note  :  Les  points  4  et  5  seront  potentiellement  réalisés  avec  le  concours  d'un  2ème
+stagiaire  dont  l'objectif  sera  la  création  d'interfaces  web  pour  les  outils  FIME.
+Profil  recherché    :
+Bac+5  minimum
+*  Respect  des  règles  W3C.
+*  Maîtrise  des  langages  HTML  5  et  CSS  3.
+*  Connaissances  en  PHP  et  javascript.
+*  Notions  sur  le  framework  Symfony  2.
+Pour  postuler    :  http://OBS.contactrh.com/jobs/1536/5528401
+
+
+
+
+

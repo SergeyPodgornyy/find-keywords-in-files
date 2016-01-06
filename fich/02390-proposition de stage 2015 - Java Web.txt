@@ -1,0 +1,47 @@
+﻿PROPOSITION DE STAGE H/F
+DEVELOPPEMENT LOGICIEL WEB & RESEAU
+Présentation de l’unité :
+L’équipe Données Massives en Santé (DMS) du Laboratoire du Traitement du Signal et de l’Image (LTSI) est
+composées d’ingénieurs de recherche et développement logiciel et de médecins spécialisés en informatique
+médicale qui développent des méthodes et outils de fouille de données massives en santé. Nous intervenons
+notamment sur divers projets de recherche autour de ces thématiques aussi bien dans un cadre international
+(EHR4CR), national (PEPS, Ravel) et enfin centrés sur l’activité du centre hospitalier de Rennes.
+Contexte de la mission :
+Notre laboratoire souhaite développer son activité de services et fouille de données massives selon quatre
+axes :
+    L’amélioration des outils de visualisation de données massive (Big Data) en santé.
+    Urbanisation et ré-architecture de l’existant, avec la mise en place de composants logiciels autonomes
+qui formeront un réseau applicatif performant.
+    L’optimisation des entrepôts de données massives pour répondre aux besoins de mise à l’échelle.
+    L’ajout et l’optimisation des flux de données alimentant les entrepôts de données avec la mise en
+place  notamment  de  mécanismes  de  prétraitements  des  données                                               (Traitement  Automatisé  du
+Langage, annotations, anonymisation etc.).
+Détail de la mission :
+En collaboration directe avec l’équipe de l’unité de recherche et sous supervision d’un référent technique, le
+stagiaire devra :
+    Acquérir  les  méthodes  et  compétences  nécessaires  à  la  bonne  intégration  dans  les  cycles  de
+développement en cours (Subversion, JIRA, Jenkins, Maven).
+    Participer au cycle de vie d’une application web Java déployée au sein du réseau hospitalier (Java,
+Spring MVC, JPA/Hibernate, Mysql, Linux, Bootstrap, CSS, Angular.js, JQuery).
+    En fonction de la durée du stage et de votre volonté d’implication, la possibilité de piloter la mise en
+place de composants logiciels pouvant aller jusqu’à l’intégrité du cycle : spécifications, architecture
+logicielle, implémentation, test et déploiement (Netty, serialisation optimale).
+Compétences recherchées :
+Etudiant(e) ou jeune diplômé(e) d’un cursus en relation avec le développement logiciel, vous présentez un fort
+intérêt dans les nouvelles technologies et plus particulièrement dans le Web et les échanges de données en
+réseau. Vous devez être capable de travailler en équipe et vous intégrer dans une démarche de qualité. Vous
+êtes dynamique, organisé(e) et force de proposition. Vous avez de bonnes compétences en développement
+JAVA, en programmation objet et sur les nouvelles technologies Web.
+Informations de l’offre :
+Contrat : stage
+Dates : dès que possible
+Durée : 3 à 6 mois
+Lieu : Faculté de médecine - Bâtiment 6 Université Rennes 1 (campus Villejean) à Rennes
+Rémunération : gratification de stagiaire
+Merci  de  bien  vouloir  faire  parvenir  CV  et  lettre  de  motivation  par  mail  à  Françoise  Bablée       -
+francoise.bablee@univ-rennes1.fr
+
+
+
+
+

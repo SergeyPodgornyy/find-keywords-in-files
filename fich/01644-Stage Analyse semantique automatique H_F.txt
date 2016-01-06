@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE ANALYSE SÉMANTIQUE AUTOMATIQUE H/F EN STAGE  6
+MOIS.
+Date : 01/01/2015
+Référence de l’offre : 174932-7767394
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+L'objectif de ce stage est d'identifier les moyens et de les implémenter dans la technologie du Framework
+Frama-C,  permettant  d'employer  des  analyses  sémantiques  le  plus  automatiques  possibles  permettant
+d'adresser la vérification de règles de codage non encore automatisées.
+Objectifs pédagogiques :Le stagiaire aura la possibilité de découvrir les processus de vérification dans le
+développement des logiciels embarqués d'une part. D'autre part, il se familiarisera avec les techniques
+d'analyse statique avec Frama-C et leur implémentation avec le langage OCaml.
+Environnement technologique et fonctionnel :Le stagiaire intégrera l'équipe de Vérification et validation et
+sera encadré par des experts du développement de greffons FRAMA-C.
+Profil recherché :
+De formation Bac + 5, vous recherchez un stage de fin d'études d'une durée de 6 mois. Vous avez une culture
+informatique de génie logiciel, une connaissance des techniques d'analyse statique et de la programmation
+OCaml. Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous le
+désirez, dans toute autre région dans laquelle Atos recrute. Vous êtes motivé(e) et rigoureux (se), aimez
+travailler en équipe et souhaitez vous investir sur un projet. Rejoignez-nous !
+Localisation : Toulouse - St Martin du Touch
+Pour postuler : http://atos.contactrh.com/jobs/1536/7767394
+
+
+
+
+

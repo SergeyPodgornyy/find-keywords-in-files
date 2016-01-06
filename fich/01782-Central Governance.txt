@@ -1,0 +1,70 @@
+﻿AXWAY RECRUTE UN/UNE CENTRAL GOVERNANCE EN STAGE 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : 422 - 3-7854856
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Puteaux 92800, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Axway (NYSE Euronext : AXW.PA), le spécialiste des Business Interaction Networks, est un éditeur de
+logiciels comptant plus de  11  000 clients dans  100 pays. Depuis plus de  10 ans, Axway fournit aux
+entreprises leaders sur leur marché, et présentes à travers le monde, des solutions technologiques leur
+permettant d'échanger, d'intégrer, de gérer, de sécuriser et de gouverner leurs transactions stratégiques afin
+d'accélérer leur performance. Nos solutions, reconnues par l'industrie, et proposées pour une gestion sur site
+(on premise) ou hébergées dans le Cloud (on demand), permettent l'intégration de solutions B2B, la gestion
+du transfert de fichiers (MFT - Managed File Transfer), la surveillance des processus métier, la sécurisation
+des emails et de l'authentification ; associés à des services professionnels et de Managed Services. Axway,
+dont le siège social est en France et la direction générale basée aux Etats-Unis, dispose également de bureaux
+dans le monde entier.
+Pour plus d'information, consultez notre site web : www.axway.fr.
+Description du poste :
+Axway Software, est Editeur et Distributeur de solutions collaboratives métiers. L'offre Axway 5 Suite est
+composée de progiciels couvrant des niveaux de services complémentaires :
+* transport de données fichiers et messages en A2A et B2B
+* contrôle, transformation et routage de données,
+* modélisation et orchestration de processus métiers,
+* supervision technique et métier des flux et des processus
+Ces progiciels sont mis en œuvre dans des solutions d'intégration globales pour répondre aux besoins de nos
+clients.
+Axway est considéré par le Gartner Group comme le Leader mondial dans le segment Managed File Transfer
+(cf. Magic Quadrant for MFT).
+Mission :
+Vous  aurez  à  intégrer  une  équipe  en  charge  du  développement  d'un  outil  centralisé  de  gouvernance
+(administration, configuration, déploiement et management d'opérations) de différents produits comme «
+moniteur de transfert de fichiers  » TransferCFT d'Axway. Votre rôle consistera à participer aux futurs
+développements  Java  pour  la  partie  serveur  et/ou  HTML5,  CSS3,  Javascript  pour  la  partie  Interface
+Utilisateur (exemple de sujets : ajouter de nouveaux écrans de configuration dans l'interface utilisateurs,
+audits, gestion d'accès, automatisations des tests IHM, etc.)
+Ce stage vous permettra d'aborder ou Intérêt du stage :
+* La méthodologie utilisée pour la mise en œuvre du projet : ‘Agile'
+* Travailler avec une équipe d'une dizaine de personnes en relation avec d'autres équipes réparties sur 3 sites
+(Bucarest, Annecy et Paris)
+* Langage de programmation Java et HTML5, CSS3, Javascript, LESS…
+Environnement technique :
+* Java (osgi et ipojo, jmx, jbi), Rest, HTML5,CSS3,Javascript
+* Svn, maven, …
+* Methodes Agile
+
+
+
+
+* Windows, linux
+Environnement humain :
+Rattaché à une équipe R d'une dizaine de personnes basées à Puteaux.
+Le projet est globalement constitué de 5 équipes réparties sur 3 sites (Paris, Annecy, Bucarest)
+Connaissances requises :
+Programmation en Java (connaissances HTML5, CSS3, Javascript est un atout).
+Notions d'UNIX et culture des bases de données souhaitée
+Langue : Anglais
+Profil recherché :
+Programmation en Java (connaissances HTML5, CSS3, Javascript est un atout).
+Notions d'UNIX et culture des bases de données souhaitée
+Langue : Anglais
+Pour postuler : http://axway.contactrh.com/jobs/1536/7854856
+
+
+
+
+

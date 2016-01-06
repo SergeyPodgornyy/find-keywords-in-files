@@ -1,0 +1,159 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise :DIDHAPTIC                                                                            Adresse : 6 rue Léonard de Vinci,  BP 0119
+Domaine d’activité :Informatique                                                                          Ville :Laval
+Représentant de l’entreprise :Arnaud Cosson                                                               N° téléphone :02 43 49 75 30
+Sa qualité :DG
+                                                                                                          N° fax :02 43 49 75 33
+N° de Siret :793-796-806 00016
+                                                                                                          Site Web :www.didhaptic.com
+N° NAF :6201Z
+                                                                                                          Courriel :contact@didhaptic.com
+Statut Juridique :SA
+                                                                                                          Signataire de la convention : Arnaud Cosson
+Effectif de l’établissement :10
+Nom de l’encadrant de stage :Anthony RIBOT                                                                Chargé du suivi administratif : Mélanie Rapine
+Sa qualité :Responsable développement                                                                     Sa qualité : Responsable recrutement
+Service :Edition Logicielle                                                                               N° téléphone :06 08 02 89 67
+N° téléphone :02 44 47 23 20                                                                              Email :contact@didhaptic.com
+Fax :02 43 49 75 33                                                                                       Fax :02 43 49 75 33
+Nom    du    service    dans    lequel    le    stage    sera    effectué :    Edition    logicielle…..
+Lieu                                                                                                                                                       du                     stage                                 (s’il                                                               est              différent                                         de                                                   l’adresse                                                          de   l’entreprise):
+                                                                                                                                                                                  LAVAL……………………………………………………….
+                                                                                                                                                                                                                                                                                                             PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+                                                                                                                                                                                  Licence Informatique parcours MIAGE
+                                                                                                                                                           □ Licence 3                                                                                                                                                                                         8 semaines du 2 janvier au 6 mars 2013
+                                                                                                                                                                                                                                                                                                                                                                                                                    puis 5 semaines minimum à partir du 27 mai ou 1er juillet jusque
+                                                                                                                                                           fin la
+                                                                                                                                                                                                                                                                                                             fin août 2013
+                                                                                                                                                           Master 1ère année
+                                                                                                                                                                                  □ Parcours SR et GL, Recherche                                                                                                                                               8 semaines minimum à partir du 6 mai 2013
+                                                                                                                                                           □ MIAGE                                                                                                                                                                                             13 semaines minimum à partir du 13 mai 2013
+                                                                                                                                                                                                                        Master 2 Professionnel en Informatique (20 semaines obligatoires)
+                                                                                                          □                                                Spécialité MIAGE                                                                                                                       du   4     mars                                   2013   à   fin                                           août   2013
+                                                                                                          □                                                Spécialité IR                                                                                                                          du   4     mars                                   2013   à   fin                                           août   2013
+                                                                                                          □                                                Spécialité GL                                                                                                                          du   4     mars                                   2013   à   fin                                           août   2013
+                                                                                                          □                                                Spécialité             MITIC                                                                                                           du   4     mars                                   2013   à   fin                                           août   2013
+                                                                                                          □                                                Spécialité             SSI                                                                                                             du   4     mars                                   2013   à   fin                                           août   2013
+                                                                                                          □                                                Spécialité Recherche                                                                                                                   du   1er   février 2013                                      à fin                                         juin   2013
+
+
+
+
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                             du 15 avril 2013 à fin août 2013
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH   (3 périodes)
+21 octobre 2012 au 28 décembre 2012
+10 février 2013 au 5 avril 2013
+13 mai 2013 jusque fin août
+□ Spécialité SEA                                                                               16 semaines à partir du 25 février 2013 jusque fin août 2013
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                              (1 période de 2 semaines + 3 périodes de 8 semaines)
+17 septembre 2012 au 28 septembre 2012
+5 novembre 2012 au 11 janvier 2013
+18 février 2013 au 12 avril 2013
+à partir du 21 mai 2013 jusque fin août
+□ Spécialité CTS                                                                               entre 4 mois minimum et 6 mois maximum à partir du 4 mars
+2013
+□ Spécialité ST                                                                                entre 4 mois minimum et 6 mois maximum à partir du 4 mars
+2013
+□ Spécialité SISEA                                                                             entre 4 mois minimum et 6 mois maximum à partir du 4 mars
+2013
+AUTRES FORMATIONS (STAGES NON-OBLIGATOIRES) :
+SUJET  DU  STAGE  :
+Titre du stage proposé : CREATION D'ENVIRONNEMENTS 3D TEMPS REEL
+Société  :
+DIDHAPTIC est une jeune société, qui crée des plates-formes complètes de formation
+appliquée pour les métiers de la santé. Particulièrement pour les métiers où la mise en
+situation réelle du praticien en formation ou de l’étudiant peut se révéler dangereuse, trop
+onéreuse, ou techniquement impossible.
+Contexte  :
+DIDHAPTIC développe et maintient plusieurs simulateurs d’apprentissage avant-gardiste :
+    Un simulateur appelé VirTeaSy Dental utilisé pour l’apprentissage des chirurgiens-
+dentistes. Avec la plate-forme de réalité virtuelle, le praticien en formation retrouve
+l’environnement d’intervention de son cabinet. Le geste, l’image et le son l’immergent
+dans l’action pour mieux maîtriser la technicité.
+    Un simulateur appelé AltiPhobe utilisé pour l’apprentissage de travaux en hauteur
+tel que des opérations de maintenance sur éolienne, la maintenance d’un viaduc, le
+nettoyage de vitre de building,…
+
+
+
+
+VirTeaSy Dental                                                                                    AltiPhobe
+Sujet de  stage  :
+Dans un objectif d’amélioration de l’environnement 3D du simulateur VirTeaSy Dental,
+DIDHAPTIC désire enrichir sa plateforme de nouveaux objets 3D et de nouveaux avatars.
+Enfin, dans le cadre du projet AltiPhobe, DIDHAPTIC souhaite développer un ensemble de
+scènes/environnements 3D.
+Ainsi, il sera demandé au stagiaire de réaliser différents scénarios interactifs temps réel
+intégrant des dispositifs sensoriels et des possibilités de vision en relief et d'immersion dans
+l'image de l'utilisateur.
+DIDHAPTIC recherche un stagiaire motivé, créatif, curieux de nature et ayant des
+connaissances dans la réalisation de scène et d’objet 3D, afin de nous aider dans
+l’enrichissement de nos simulateurs.
+Au sein d’une petite équipe et sous la responsabilité directe d’un ingénieur expérimenté, le
+stagiaire aura la charge des activités suivantes :
+   Réalisation d’objets 3D (fraises, contre angles, miroirs).
+   Réalisation d’avatars 3D (enfant, homme, vieillard, …)
+   Réalisation de scènes 3D (éolienne offshore, viaduc, building en milieu urbain, …)
+   Réalisation et intégration de scénarios d’apprentissage dans un simulateur immersif.
+Pour chaque réalisation 3D, les missions confiées comprennent un travail de modélisation,
+rendu et texturage ainsi qu’une animation temps réel.
+Bénéfices  pour le  stagiaire  :
+Au travers de ce stage, le stagiaire comprendra les enjeux actuels du développement de
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+simulateur. Par ailleurs il approfondira ses connaissances avec des nouvelles techniques et
+méthodologies qui lui procureront des compétences très recherchées sur le marché du travail
+dans un contexte de technologies liées à la réalité virtuelle.
+Connaissances  demandées  :
+3DS Max, Photoshop, Unity 3D
+Technologies  abordées  durant le  stage  :
+3DS Max, Photoshop, Unity 3D, C#, C++, Visual Studio
+Comment postuler :
+Candidature sur contact@didhaptic.com à l’attention de Mélanie RAPINE - Responsable RH
+Code stage : DID_VTS_DEV-01_2014
+DIDHAPTIC
+6, Rue Léonard de Vinci
+BP 0119
+53001 LAVAL cedex
+www.didhaptic.com
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 900                                                                 Nom de l’Etudiant :
+Modalités de versement : virement bancaire                                                        Diplôme :
+Avantages en nature à préciser : possibilité de tickets
+restaurants
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition :03/2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? contact@didhaptic.com
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

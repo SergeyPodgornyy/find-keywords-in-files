@@ -1,0 +1,109 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : GIE Informatique Groupe CECAB                                         Adresse : ZI Saint Léonard Nord
+Domaine d’activité : Agroalimentaire                                                        Ville : THEIX
+Représentant de l’entreprise : F. Le Texier                                                 N° téléphone : 02 97 54 88 88
+Sa qualité : Responsable d’application                                                      N° fax :
+N° de Siret :   30898445900013                                                              Site Web : www.cecab.com
+N° NAF : 6202A                                                                              Courriel :
+Statut Juridique : GIE                                                                      Signataire de la convention :
+Effectif de l’établissement : 80 personnes
+Nom de l’encadrant de stage : Frédéric Le Texier                                            Chargé du suivi administratif : Mickael Massot
+Sa qualité : Responsable d’application                                                      Sa qualité : Responsable de Domaine
+Service : SDA                                                                               N° téléphone :
+N° téléphone : 02 94 69 26 62                                                               Email :
+Email : fletexier@cecab.com                                                                 Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : SDA (Service Données et Architecture)
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                                 13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                              8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                     13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                             du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                             du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                      du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                          du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                    En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                    16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                   En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                    entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                     entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                  entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé :
+Mise en place d’un référentiel des échanges du système d’information
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Environnement Windows.
+Suite bureautique Microsoft et Google.
+Développement Webdev
+Sujet proposé détaillé :
+Un travail de recensement des flux inter-applicatif est en cours au sein de l’entreprise. Pour
+l’instant le référencement a été fait dans un fichier excel qui trouve aujourd’hui ces limites au
+vu des données qu’il contient.
+Sur la base du travail initié, l’objectif du stage est de
+-                                                                                                   Finaliser ce référentiel en y ajoutant les flux manquants afin d’en comprendre le contenu.
+-                                                                                                   Définir l’architecture d’une base données permettant de contenir l’ensemble des données
+contenu dans le fichier de façon structurée.
+-                                                                                                   Réaliser un développement Webdev dans le but d’ajouter des interfaces de saisies et de
+visualisation du référentiel des échanges.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) :                                                                       Nom de l’Etudiant :
+Modalités de versement :                                                                            Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+UNIVERSITE DE RENNES 1                                                                              TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                               FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                            www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

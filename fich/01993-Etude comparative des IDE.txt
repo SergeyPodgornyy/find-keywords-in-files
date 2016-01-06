@@ -1,0 +1,36 @@
+﻿ETUDE COMPARATIVE DES IDE
+Entreprise
+Entreprise  de  maîtrise  d’œuvre  de                                                                                     200  collaborateurs,  le  GIE  SESAM-Vitale  est  au  cœur  des  échanges
+électroniques  sécurisés  entre les  Professionnels  de  Santé et  l’Assurance  Maladie.  L’infrastructure mutualisée
+SESAM-Vitale  gère  aujourd’hui  plus  d’un  milliard  de  transactions  par  an  en  relation  avec  plus  de  300 000
+Professionnels de Santé.
+Description de la mission
+Dans le cadre de son activité, le GIE SESAM Vitale réalise des applications Java J2SE et JEE.
+Le GIE SESAM-Vitale souhaite réaliser une étude comparative des IDE (Integrated Development Environment)
+pour réaliser des applications J2SE et JEE. Les IDE identifiés sont Eclipse, IntellijIDEA et NetBeans. Un projet
+sera mis en œuvre sur ces IDE.
+Description détaillée
+   Etude des IDE, Eclipse, IntellijIDEA et NetBeans
+   Synthèse documentaire
+Profil recherché
+Etudiant(e) en 2ème année d'école d'ingénieur en informatique (conception/développement).
+Pré-requis
+  Java
+Compétences visées durant le stage
+  Maven
+  IDE
+Durée / Date
+3 à 5 mois / Début du stage au premier semestre 2015.
+Comment répondre ?
+Merci d’adresser votre candidature (CV + lettre de motivation) à :
+GIE SESAM-Vitale
+5, Boulevard Marie et Alexandre Oyon
+72019 Le Mans Cedex 2 FRANCE
+Fax : (33) 02 43 87 78 42
+E.mail : recrutement@sesam-vitale.fr
+Réf. : STAGE/DII/ALT/IDE
+
+
+
+
+

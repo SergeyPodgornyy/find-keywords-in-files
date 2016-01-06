@@ -1,0 +1,58 @@
+﻿ATOS RECRUTE UN/UNE STAGE ÉTUDES ET DEVELOPPEMENT (H/F) EN STAGE 6 MOIS.
+Date : 27/07/2015
+Référence de l’offre : 191275-10508800
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des services informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et
+Infogérance BPO, ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son
+expertise technologique et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie,
+Distribution Services, Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services
+aux Collectivités.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché NYSE Euronext de Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting Technology Services, Worldline et Atos Worldgrid.
+Description du poste :
+Contexte du stage :
+Diamis  est  une  joint-venture  entre  Atos  et  Sopra-Steria,  spécialisée  dans  les  métiers  des  échanges
+interbancaires et des paiements.
+Nos progiciels permettent aux établissements financiers et aux organismes de places le raccordement aux
+systèmes de paiements européens et domestiques et la gestion de leurs échanges interbancaires.
+Cristal offre une véritable valeur ajoutée dans le pilotage en temps réel des flux financiers et la gestion de la
+trésorerie.
+Il est l'outil de référence des trésoriers et pilotes de flux en proposant des conditions optimales de gestion de
+la liquidité et de maîtrise des risques.
+Vous interviendrez, au sein d'une équipe de 25 personnes dédiée au progiciel Cristal et serez chargé d'une
+évolution du produit.
+Ce stage est rémunéré et est associé à une option de recrutement en CDI.
+Le projet :
+- Rédaction des spécifications fonctionnelles générales et détaillées
+
+
+
+
+- Conception et étude d'implémentation de l'évolution
+- Développements et tests unitaires
+- Recette d'intégration- Suivi et correction des anomalies internes ou client portant sur cette évolution
+Le produit Cristal est un logiciel complexe, cumulant 18 ans d'évolutions, à forte valeur fonctionnelle, dont la
+compréhension est partie intégrante des travaux de développement
+Profil recherché :
+Profil :
+Vous êtes issu d'une Université ou École d'ingénieur (BAC +5)
+Le développement vous intéresse
+Compétences :
+- Anglais : courant
+- Exigées : Java, C, SQL- Souhaitées : UNIX, Javascript, Spring, Maven, ESB
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10508800
+
+
+
+
+

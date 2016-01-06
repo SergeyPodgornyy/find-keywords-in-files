@@ -1,0 +1,119 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : Digitaleo                                                           Adresse : 20 avenue Jules Maniez
+Domaine d’activité : Editeur de logiciels                                                 Ville : Rennes
+Représentant de l’entreprise : Elena Mañeru                                               N° téléphone : 02 56 03 67 00
+Sa qualité : DRH                                                                          N° fax : 02 99 05 96 50
+N° de Siret : 45132211900038                                                              Site Web : www.digitaleo.fr
+N° NAF : 6201Z                                                                            Courriel : rh@digitaleo.com
+Statut Juridique : société par actions simplifiée                                         Signataire de la convention : Elena Mañeru
+Effectif de l’établissement : 58
+Nom de l’encadrant de stage : David Kremer                                                Chargé du suivi administratif : Elena Mañeru
+Sa qualité : Responsable exploitation                                                     Sa qualité : DRH
+Service : Opérations                                                                      N° téléphone : 02 56 03 67 00
+N° téléphone : 02 22 43 22 71                                                             Email : rh@digitaleo.com
+Email : dkremer@digitaleo.com                                                             Fax : 02 99 05 96 50
+Fax : 02 99 05 96 50
+Nom du service dans lequel le stage sera effectué : Développement
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Master 1ère année
+□ MIAGE                                                                                   13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+SUJET  DU  STAGE  :
+Titre du stage proposé : Développement d’outils de statistiques en temps réel
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) : Vous travaillerez dans l'environnement technique suivant :
+- Langage PHP (Framework Zend, PHPUnit)
+- JavaScript (JQuery, AngularJS)
+- Base de données MySQL
+- Plateforme LAMP
+- GIT
+- Intégration continue
+Sujet proposé détaillé : Vous cherchez une entreprise innovante par son produit et ses méthodes
+de travail ? Pour vous, un stage rime avec apprentissage et prise de responsabilités ? C’est aussi
+notre idée !
+Situé à Rennes, Digitaleo propose à ses clients une solution marketing simple et accessible pour
+développer et fidéliser leur clientèle en temps réel grâce à l’envoi de messages multicanaux (SMS,
+sites  mobiles,  QRcodes,  e-mails,  messages  vocaux,  réseaux  sociaux).  Une  cinquantaine  de
+collaborateurs participent aujourd’hui à son développement.
+Notre culture d'entreprise est basée sur des valeurs fortes : simplicité, esprit d’équipe, créativité, sens
+du client et réactivité.
+Afin de proposer à nos utilisateurs plus de statistiques autour de leurs campagnes marketing, nous
+souhaitons :
+- Agréger des envois sur différentes périodes de temps
+- Agréger des statistiques d’envoi ou des consommations
+- Ajouter des critères de sélection
+- Ajouter des vues sur la distribution des données
+Intégré(e) à une équipe de 4 à 6 développeurs pratiquant les méthodes agiles, vos missions seront
+les suivantes :
+- Affiner les spécifications fonctionnelles en collaboration avec le marketing produit
+- Concevoir les schémas de base de données permettant de stocker les statistiques agrégées
+- Concevoir le moteur d’agrégation de statistiques
+- Implémenter les différentes API (de type web-services) de consultation des statistiques
+- Intégrer ces APIs dans l’IHM
+Vous saurez faire preuve de :
+- Rigueur
+- Autonomie
+- Forte capacité d’abstraction et de proposition
+- Bonnes qualités relationnelles et maîtrise de l’anglais technique
+Votre background :
+- Bac +4/5 (école d’ingénieurs, Master Universitaire…)
+- Une expérience qui nous démontrera votre passion pour les technologies WEB
+UNIVERSITE DE RENNES 1                                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) :
+  436,05€
+  Tickets resto 6,50€ (participation de l’entreprise à hauteur de 60%)
+  Titre de transport remboursé à 50%
+Temps horaire hebdomadaire : 35h/semaine
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui. Nous attendons votre CV
+et lettre de motivation à rh@digitaleo.com ou rdv sur www.digitaleo.fr/carrieres
+Référence : DevStat2014
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

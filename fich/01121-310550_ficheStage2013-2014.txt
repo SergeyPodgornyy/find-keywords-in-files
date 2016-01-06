@@ -1,0 +1,131 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom  de  l’entreprise : Institut  de  Physique  de  Rennes                                Adresse :   263 Avenue du Général Leclerc
+(UMR 6251)                                                                                Ville : Rennes
+Domaine d’activité :recherche                                                             N° téléphone :
+Représentant de l’entreprise : JP. Landesman                                              N° fax : 0223236717
+Sa qualité : EPST                                                                         Site Web :
+N° de Siret :                                                                             Courriel :
+N° NAF :                                                                                  Signataire de la convention :
+Statut Juridique :                                                                        Jean-Pierre Landesman
+Effectif de l’établissement :
+Nom de l’encadrant de stage :                                                             Chargé du suivi administratif : Valerie Ferri
+Sa qualité : MdC                                                                          Sa qualité : Assist dir
+Service : Dpt Optique                                                                     N° téléphone :
+N° téléphone : 0223235215                                                                 Email :
+Email : julien.fade@univ-rennes1.fr                                                       Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …Département Optique et Photonique
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+X □ Parcours SR et GL, Recherche                                                          8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                                            2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                                            16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                           16 septembre au 27 septembre 2013
+                                                                                                                            4 novembre 2013 au 10 janvier 2014
+                                                                                                                            17 février 2014 au 11 avril 2014
+                                                                                                                            19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                                             entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé :… Evaluation des performances de détection en imagerie
+polarimétrique par contraste de speckle
+…………………………………………………………………………….
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Calcul numérique : Mathématica
+Prog/ Simulation : Langage C / Matlab
+Sujet proposé détaillé :
+L’imagerie polarimétrique consiste à mesurer et analyser l’état de polarisation de la lumière rétrodiffusée par un
+objet en tout point de l’image. Ce type d’imagerie trouve des applications de plus en plus nombreuses, par exemple
+pour la microscopie, la caractérisation de défauts de surfaces et pour la biologie  (suivi de l’évolution de cellules
+cancéreuses  par  exemple).  Les  méthodes  usuelles  nécessitent  d’acquérir  et  traiter  plusieurs  images               (signaux
+multidimensionnels).
+Dans  la  perspective  d’augmenter  la  simplicité  et  la  rapidité    des  systèmes  d’imagerie  polarimétrique,  une
+méthode « computationnelle » fondée sur l’acquisition   d’une unique image a été étudiée récemment à l’IPR [1]. Celle-
+ci permet   de réaliser une image du degré de polarisation   lorsque la scène imagée   est illuminée   par un éclairement
+cohérent (illumination laser). Toutefois, il est nécessaire de disposer sur l’image de zones homogènes de plusieurs
+centaines de pixels, afin de disposer d’une précision suffisante, et ce au détriment de la résolution.
+UNIVERSITE DE RENNES 1                                                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Dans la continuité de ces travaux, le stage proposé vise à évaluer rigoureusement les performances d’une telle
+approche                                                                                                               « computationnelle »  pour  des  problèmes  de  détection/discrimination  de  matériaux  aux  propriétés
+polarimétriques distinctes. Pour cela, l’étudiant devra simuler numériquement des signaux optiques réalistes afin de
+comparer différents tests statistiques de détection. Les performances de ces tests de détection seront comparées
+avec les performances des méthodes usuelles à plusieurs images. Dans un second temps, ces résultats pourront
+également  être mis en  relation avec  l’évaluation  de bornes  optimales  de performances  de détection  (borne  de
+Chernoff, borne de Bhattacharyya).
+Les compétences requises pour ce stage sont : un   bon   niveau   en   programmation   (langage C  / Matlab), de
+bonnes connaissances en mathématiques (statistiques).
+Un goût pour la simulation et l’optique seront aussi de forts atouts pour une candidature.
+[1] Fade J., Roche M., Alouini M., “Computational polarization imaging from a single speckle image”, Optics Letters
+37, 386-388 (2012).
+Candidature: envoi CV+notes
+Mots-clés    imagerie, détection/discrimination, polarisation, simulation, statistique
+Durée : 7 à 8 semaines
+Responsable: Julien FADE         julien.fade@univ-rennes1.fr                                                           Tél. 02 23 23 52 15
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : -                                                                                        Nom de l’Etudiant :
+Modalités de versement :                                                                                               Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                                 TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                  FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

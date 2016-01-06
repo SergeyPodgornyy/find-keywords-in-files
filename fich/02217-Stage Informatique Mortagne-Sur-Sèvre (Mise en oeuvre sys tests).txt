@@ -1,0 +1,33 @@
+﻿Annonce diffusée le : 27 Octobre 2014
+Offre de Stage
+Stagiaire Informatique (H/F)
+Mortagne-Sur-Sèvre (85)
+Le  groupe  Delta  Dore                                                                          (800  personnes,      125  M€  de  CA)  conçoit,  fabrique  et
+commercialise  une  offre  complète  de  produits  et  services  en  domotique,  gestion
+technique du bâtiment et maîtrise de l’efficacité énergétique. Vous serez rattaché au
+Responsable Innovation Activité Services.
+MISSIONS
+Powerbat  est  une  plateforme Web  permettant  la  collecte,  le  pilotage  et  l’analyse  de
+données énergétiques et comportementales.
+Intégré au sein de la Business Unit Energy Management Systems, spécialisée dans la
+vente de solutions d’efficacité énergétique (GTB, portail de suivi énergétique et services
+associés), vos missions consisteront, à :
+Participer à la mise en œuvre d’un système de tests (unitaires et automatiques)
+afin de généraliser les tests de notre plateforme Web.
+PROFIL
+De formation Bac +2/3 en Informatique, vous êtes familier avec les langages PHP POO,
+MySQL,  Javascript.  Une  première  expérience  dans  la  mise  en  œuvre  de  tests,  une
+connaissance  dans  les  programmes  Web  Services,  frameworks                                  (Zend,  JQuery)  et
+architecture MVC serait appréciée. Votre rigueur, votre organisation et votre sens du
+travail en équipe vous permettront de mener à bien cette mission au sein d’un Groupe en
+pleine croissance (+46% de 2009 à 2012).
+Début : Dès que possible
+Durée : 3 mois
+CONTACT
+Delta Dore, Service Recrutement, Le Vieux Chêne, 35270 Bonnemain
+apprentis_stagiaires@deltadore.com
+
+
+
+
+

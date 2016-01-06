@@ -1,0 +1,56 @@
+﻿Stage SOFTEAM - Agence de Rennes
+Développement Web
+HTML5 / AngularJS / backend REST
+Forte de  20 ans d’existence,  SOFTEAM, dont le siège social est à Paris, est une société
+pérenne d’environ 700 collaborateurs, bien implantée sur la région Ouest avec 60 collaborateurs
+répartis sur 2 agences, l’une à Rennes, l’autre à Nantes.
+SOFTEAM  est  à  la  fois  éditeur  et  société  de  services  numériques  (ESN),  avec  plusieurs
+spécificités :
+o  La  modélisation  (UML,  MDA)  et  les  nouvelles  architectures  logicielles  (SOA,  plate-
+formes Java EE, .Net)
+o  La multiplicité de son offre :
+o  Offre produit, l’AGL Modelio UML (version Open Source et Entreprise).
+o  Offre formation, sur les nouvelles technologies logicielles
+o  Offre  conseil,  permettant  d’accompagner  les  clients  sur  des  problématiques
+logicielles et techniques pointues.
+o  Offre ingénierie, activité traditionnelle de société de services (régie et forfait) dans
+le spectre technologique qui est le nôtre : Web, Java, .Net, PHP, UML.
+Sujet
+Pour des besoins internes, vous aurez en charge le développement d’une nouvelle application
+en utilisant les technologies Web les plus récentes (HTML5, AngularJS, architecture REST, …).
+Ce stage est l’occasion de vous intégrer dans un environnement professionnel.
+Les outils et processus utilisés seront les suivants :
+   Utilisation d’une forge logicielle
+   Outils d’intégration continue (Gradle, Jenkins, …)
+   Démarche de TDD
+   Méthodologie agile offrant un suivi régulier
+Les langages/technologies/frameworks utilisés seront :
+   HTML5, JavaScript, Java
+   AngularJS et autres frameworks à définir en fonction des besoins
+L’objectif du stage s’inscrit totalement dans l’ensemble des dimensions de la société. À l’issue
+du stage, le stagiaire bénéficiera donc d’une expérience significative sur les technologies et les
+méthodes  utilisées  chez  SOFTEAM.  Dans  la  démarche  de  ses  recrutements,  SOFTEAM
+proposera un contrat d’embauche au stagiaire dans la mesure où le stage a donné pleine
+satisfaction.
+Conditions du stage
+Une durée de 5 mois minimum est souhaitée dans le premier semestre de l’année 2014.
+Cette offre concerne les stages de fin d’études niveau Bac+5.
+Stage rémunéré et tickets restaurants fournis.
+SOFTEAM - 18, rue du Chêne Germain - 35510 CESSON SEVIGNE
+ 02.99.36.82.82 - www.softeam.fr
+
+
+
+
+Stage SOFTEAM - Agence de Rennes
+Développement Web
+HTML5 / AngularJS / backend REST
+Contact
+Merci d’envoyer vos candidatures à l’adresse mail drh-ouest@softeam.fr
+SOFTEAM - 18, rue du Chêne Germain - 35510 CESSON SEVIGNE
+ 02.99.36.82.82 - www.softeam.fr
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿Stage  Ingénieur  Etude  et  Développement
+SAINT  GOBAIN  GLASS  France
+REFERENCE  :  510061
+POUR  POSTULER  :  http://stgobainglass.contactrh.com/jobs/1536/5280540
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Ile-de-France 92096, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  moins 6 mois
+SECTEUR  :  Industries (Verre/Céramique)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Saint-Gobain, leader mondial de l'habitat, conçoit, produit et distribue des matériaux de
+construction en apportant des solutions innovantes sur les marchés en croissance des pays
+émergents, de l'efficacité énergétique et de l'environnement. Saint-Gobain est une maison
+accueillante, sûre et ouverte sur le monde, dans laquelle on entre pour un parcours.
+Fort de plus de 60 000 personnes réparties dans 45 pays, le Pôle Matériaux Innovants du groupe
+Saint-Gobain dispose d'un portefeuille unique de matériaux et de procédés dans les domaines de
+l'habitat et de l'industrie. C'est aussi la tête de pont technologique du Groupe.
+DESCRIPTION  DU  POSTE  :
+Description du poste
+Au sein de la DSI du pôle Matériaux Innovants, vous rejoignez l’équipe BA (Business
+Applications) dans le cadre du développement et du déploiement d’applications Java/J2EE.
+Vous travaillerez en étroite collaboration avec le Responsable Technique, ainsi qu’avec les
+membres offshore de l’équipe situés en Inde.
+Votre mission s’articulera autour des axes suivants :
+1 - Etudes et développement :
+Analyse des spécifications fonctionnelles.
+Conception et développement de nouvelles fonctionnalités sur la base de l’applicatif existant visant
+à étendre le périmètre de l’outil à des flux de productions supplémentaires (processus trempe,
+feuilleté, etc.).
+Amélioration des performances des applications, refonte ergonomique, et mise en place de
+nouvelles technologies (lecteurs mobiles, Web Services, RFID, etc.).
+Implémentation et documentation des développements.
+
+
+
+
+2 - Industrialisation et amélioration des pratiques :
+Mise en place de bonnes pratiques : mise en place d’outils d’analyse et de suivi qualité du code
+(Checkstyle, Findbugs, Sonar, etc.).
+Instauration d’un développement guidé par les tests (TDD, Junit, FitNesse, etc.) et amélioration de
+l’architecture existante.
+Participation à l’introduction de nouveaux outils et frameworks.
+PROFIL  :
+Elève ingénieur Bac+4/5 spécialisé en SI/génie logiciel.
+La connaissance de Java nécessaire. Une première expérience en dév Java appréciée.
+Anglais technique écrit indispensable.
+POUR  POSTULER  :  http://stgobainglass.contactrh.com/jobs/1536/5280540
+
+
+
+
+

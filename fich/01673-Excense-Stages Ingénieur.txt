@@ -1,0 +1,47 @@
+﻿Stage 3 à 6 mois, 2014-2015
+BAC+4, BAC+5
+Expérience multi-devices
+Vous êtes passionné de nouvelles technologies et souhaitez tester vos compétences
+au sein d’une jeune startup innovante ?
+Au sein d’une jeune entreprise du réseau Emergys, l’incubateur de la région Bretagne,
+vous participerez directement à la conception, au prototypage et au développement
+de la nouvelle version de notre produit phare, le Compositeur Digital : vous
+participerez à la création d’une nouvelle expérience collaborative multi-devices
+(tablettes, table, smartphones) et à la création interactive de mindmap.
+Dans une démarche Lean Startup, vos réalisations seront directement testées par nos
+clients grand comptes dans leur contexte métier : un stage complet pour découvrir
+toutes les facettes du métier d’ingénieur.
+Technologies : C#, .NET, tactile multitouch, réseau IP.
+Activités : expression du besoin, conception, développement, test & validation.
+EXCENSE
+2 rue de la Châtaigneraie - 35510 CESSON-SEVIGNE
+Tel: 06 51 02 28 54
+contact@excense.fr
+
+
+
+
+Stage 3 à 6 mois, 2014-2015
+BAC+4, BAC+5
+Application tactile multiplateforme
+Vous êtes passionné de nouvelles technologies et souhaitez tester vos compétences
+au sein d’une jeune startup innovante ?
+Au sein d’une jeune entreprise du réseau Emergys, l’incubateur de la région Bretagne,
+vous participerez directement à la conception, au prototypage et au développement
+d’une toute nouvelle application connectée destinée aux smartphones et tablettes.
+Cette application sera multiplateformes (Android, iOS, Windows) et communiquera
+avec notre logiciel phare, le Compositeur Digital.
+Dans une démarche Lean Startup, vos réalisations seront directement testées par nos
+clients grand comptes dans leur contexte métier : un stage complet pour découvrir
+toutes les facettes du métier d’ingénieur.
+Technologies : Android, iOS, .NET, tactile multitouch, réseau IP.
+Activités : expression du besoin, conception, développement, test & validation.
+EXCENSE
+2 rue de la Châtaigneraie - 35510 CESSON-SEVIGNE
+Tel: 06 51 02 28 54
+contact@excense.fr
+
+
+
+
+

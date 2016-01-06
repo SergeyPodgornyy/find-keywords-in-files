@@ -1,0 +1,43 @@
+﻿Créateur d’un site internet h/f
+Contrat : stage non rémunéré d’une durée maximale de 2 mois.
+Date de début de la mission : de janvier à mars 2015.
+Localisation : Rennes (Beaulieu), laboratoire Ecobio Université Rennes 1.
+Fonction : créer de A à Z un site internet
+Secteur : Association étudiante
+Expérience : Personne ayant déjà créé un ou plusieurs site(s) web.
+Le recruteur :
+L’Association  Pour  l’Initiative  du  Master  Environnement-Droit                               (APIMED)  est  une
+association étudiante ayant pour objet le maintien et le développement de la cohésion inter-
+promotionnelle, et de favoriser l’insertion professionnelle des étudiants par le biais d’un
+réseau interne. Pour ceci APIMED souhaiterait la mise en place de plusieurs outils pratiques.
+Description du Poste :
+Rattaché(e) aux quatre membres constituant le bureau de l’association, vos missions seront les
+suivantes :
+-La maîtrise de : PHP, MySQL, HTML, CSS, JavaScript (AJAX) est indispensable,
+-La prise en compte des attentes clairement définies de votre maître de stage,
+-La réalisation du site internet avec un graphisme qui sera classique,
+-L’apport d’idées afin de rendre le plus attractif possible ce site web,
+-La création au sein de ce site, d’un onglet contenant une CVThèque sécurisée,
+-La création, toujours dans un onglet de ce site, d’une carte qui géo-localise l’ensemble des
+anciens élèves du master ainsi que leur structure d’accueil de stage et entreprise actuelle,
+-La rédaction d’un guide d’utilisation de l’interface du site, et de mise à jour,
+-La formation de la personne en charge de la maintenance du site,
+-Le développement d’un forum sur le site,
+-La mise en place d’un environnement de travail (logiciels et outils nécessaires).
+Profil Recherché :
+De formation minimum BTS/DUT/IUP en informatique, vous justifiez la réalisation d’au
+moins 1 site internet.
+Vous êtes reconnu(e) pour votre rigueur, votre dynamisme, votre motivation, votre aisance
+relationnelle et orthographique, votre sens de l’analyse et de l’organisation.
+Une compétence en webdesigner serait un plus.
+Ce stage se déroulera à Rennes et ne demandera aucun déplacement de la part du stagiaire.
+Pour plus d’information, veillez contacter l’association.
+Merci.
+Les candidatures doivent être envoyées avant le jeudi 15 janvier 2015, par mail avec un
+Curriculum Vitae ainsi qu’une lettre de motivation adressée au Président de l’association
+APIMED - apimed.rennes@gmail.com
+
+
+
+
+

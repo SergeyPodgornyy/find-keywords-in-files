@@ -1,0 +1,83 @@
+﻿Technicolor R&D France Snc                                             tel. + 33 (0)2 99 27 30 00
+                                                                       Internship proposal for 2014
+975 avenue des Champs Blancs                                           fax + 33 (0)2 99 27 30 01
+                                                                       Proposal ref: MCL_HCI_SP_012
+CS 17616
+35576 Cesson-Sévigné cedex, France
+Date:                                                                  6 September 2013
+Internship supervisor:                                                 ÉLUARD Marc
+Laboratory / SBU:                                                      Media Computing Lab
+Required school(s) if any:                                             N/A
+Required study level:                                                  Master II - Computer science, Usability, GUI
+Title of the internship:
+Implementation and evaluation of different authentication techniques
+Theme(s) of internship:
+Computer graphics                                                      Video processing                               Human factors            Human computer
+                                                                                                                                               interaction
+Computer vision                                                        Distributed                                    Data mining              Security & privacy
+                                                                       computing
+Computer science                                                       Information systems                            Software engineering     Electronics
+System & networks                                                      Others : (please
+                                                                       detail)
+Duration (in months):                                                                                                 6 months
+Desired period of training:                                                                                           Spring and summer 2014
+Possibility to pursue with a Ph.D. Thesis?                                                                            YES                      NO
+Name of proposed intern (if any):                                                                                     N/A
+Internship supervisor                                                  N+1 name & signature                           N+2 name & signature
+signature
+HR notice:                                                               Accepted                                    Date:
+                                                                         Rejected                                    Signature:
+
+
+
+
+Technicolor R&D France Snc                                                                       tel. + 33 (0)2 99 27 30 00
+Internship proposal for 2014
+975 avenue des Champs Blancs                                                                     fax + 33 (0)2 99 27 30 01
+Proposal ref: MCL_HCI_SP_012
+CS 17616
+35576 Cesson-Sévigné cedex, France
+Title of internship:
+Implementation and evaluation of different authentication techniques
+Summary of the internship:
+In today’s digital world, authentication is needed everywhere. The
+goal of the internship is to test and to validate different
+authentication techniques defined by Technicolor researchers. This
+validation will be done by comparing these techniques with existing
+ones, in the user point of view to determine whether they provide
+advantages in terms of usability. The student will first have to
+familiarize with these authentication techniques to be able to
+determine a framework to experiment, test and analyse the results.
+This work may lead to new techniques that would be more user-
+oriented. The trainee will determine the best framework for the
+implementation of this study (PC, Web, Tablet ...).
+Detailed description:
+Context
+During various projects, some researchers in Technicolor have studied, defined and patented
+a set of innovative authentication techniques in the field of graphical passwords, textual
+passwords and help to password entry. These techniques were never put into perspective
+because of lack of time.
+Objective
+The goal is threefold, firstly, these techniques need to be implemented. Secondly a user
+evaluation framework needs to be defined. Finally, user test have to be performed to
+evaluate these techniques, compare them to more traditional techniques and validate them
+if the results are positive.
+Task description
+The trainee should study the various techniques that we have defined and the existing ones
+and define a user evaluation plan. He will then make the necessary development, implement
+and perform user testing before analysing all the results. These results may lead to new ideas
+for authentication techniques.
+Keywords
+Security, Authentication, Evaluation, Validation
+Working environment
+Windows, PC, Tablet
+Profile of the applicant / Prerequisites
+Computer science, Usability, Graphical design, Statistics
+Development for Tablet or Smartphone expertise is welcome
+Internship period & duration
+6 months during spring and summer 2014
+
+
+
+
+

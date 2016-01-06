@@ -1,0 +1,92 @@
+﻿Stage au sein de l’équipe INRIA DiverSE
+Intitulé :
+Intitulé du poste
+Mots clés : Ingénierie des langages, Robotique, Simulateur
+Centre de Recherche INRIA Rennes - Bretagne Atlantique
+Campus de Beaulieu
+Lieu de travail
+35042 RENNES Cedex
+Thème                                                                                  Génie Logiciel
+Equipe-projet
+                                                                                       EPI DiverSE (http://www.irisa.fr/diverse)
+d'accueil
+Durée du contrat                                                                       2-4 mois
+Date prévisible
+                                                                                       Entre Mai et Juillet 2014
+d'embauche
+Salaire proposé                                                                        400 Euros net
+Diplôme requis                                                                         N/A
+L’IRISA (Institut de recherche en informatique et systèmes aléatoires), créé en
+1975, est une unité mixte de recherche (UMR 6074) dont les établissements
+partenaires sont le CNRS, l’Université de Rennes 1 (établissement principal),
+l’Insa de Rennes et l’ENS Cachan (antenne de Bretagne).
+L’Irisa est très impliqué dans le tissu régional (pôle de compétitivité Images &
+réseaux, réseau Biogenouest, pôle de recherche et d'enseignement supérieur
+UEB), participe à un nombre important de projets financés par l’ANR ainsi qu’à
+de nombreux projets européens. Des collaborations significatives sont tissées
+Environnement et
+avec le monde industriel, grands groupes et PME, et plusieurs start-up sont
+contexte
+issues des recherches de l’Irisa.
+Par  l'intermédiaire  de  ses  enseignants-chercheurs  et  ses  chercheurs,  l’Irisa
+contribue aux formations dispensées à Rennes  1  (ISTIC, Enssat, ESIR), à
+l’INSA de Rennes (Département Informatique), à l’ENS Cachan (antenne de
+Bretagne, département Informatique), ainsi que dans d’autres structures.
+L’équipe  de  recherche  DiverSE  étudie  les  techniques  de  l’ingénierie  des
+modèles pour la construction fiable et efficace d’applications par assemblage de
+composants logiciels.
+
+
+
+
+Dans le cadre du projet ANR Gemoc [1], nous construisons un atelier de définition de
+langages et de spécification de leur coordination en vue de permettre de mieux séparer
+les aspects syntaxe, sémantique opérationnelle et modèle de calcul utilisé lors de la
+définition de nouveaux langages. Dans ce contexte, nous construisons un démonstrateur
+permettant la définition du comportement des robots à l’aide d’un ensemble de langages
+dédiés  ayant  chacun  une  sémantique  et  un  modèle  de  calcul  défini  en  utilisant
+l’approche Gemoc. Dans le cadre de ce démonstrateur, nous souhaitons construire un
+simulateur graphique permettant un rendu d’une simulation robotique d’un ensemble de
+Kercar (robot roulant) sur le campus de Beaulieu afin de montrer leurs interactions. Le
+but du stage sera donc de fournir un simulateur capable étant donné un ensemble de
+Mission
+robots définis par leur position, leur direction, leur vitesses et l’ensemble des données
+(3000 caractères maxi)
+fournie par leurs capteurs de fournir une animation en temps réel d’une flotte de robots
+sur une carte en deux dimensions.
+La technologie utilisée sera fondée sur le framework Eclipse Modelling Framework
+(EMF) [2] pour la partie données et contexte et sur JavaFX pour la partie graphique [3].
+[1]http://www.gemoc.org
+[2] http://www.eclipse.org/emf
+[3] http://www.javafx ….
+Le stagiaire participera à une action de développement et d’expérimentation
+dans une équipe de recherche. Ceci l’amènera à effectuer les activités suivantes:
+   Développement logiciel (simulateur) et expérimentations : conception par
+Activités                                                                                   modèle, codage, tests, documentation ;
+   Participation  aux  choix  techniques                                                   (architecture  logicielle,  outils  de
+développement) avec le responsable scientifique, après étude de l’existant ;
+   Gestion du prototype et organisation de démonstrations.
+  Formation en informatique et connaissances du développement logiciel et
+des outils associés (gestionnaire de versions, compilation, documentation,
+tests, débogage, déploiement) ;
+   Langages de programmation : Java, (bon niveau), C (notions), Scala serait
+un plus
+Compétences et
+  Bonnes connaissances en ingénierie des modèles : UML, modélisation par
+profil
+objets, méta-modélisation
+  Maîtrise de l'anglais technique et scientifique
+  Bonnes aptitudes rédactionnelles
+   Compétences ou aptitudes appréciées : autonomie, organisation, curiosité et
+enthousiasme, open-source friendly
+Transmettre sa
+Transmettre CV et lettre de motivation à bcombemal@irisa.fr et barais@irisa.fr
+candidature
+Pour des renseignements d’ordre administratif ou en cas de difficulté pour
+Contacts
+transmettre sa candidature, contacter Loic.Lesage@inria.fr
+
+
+
+
+

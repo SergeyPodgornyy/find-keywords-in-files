@@ -1,0 +1,52 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEUR INFORMATIQUE ALTERNANCE H/F EN
+APPRENTISSAGE/ALTERNANCE DE 4 À 6 MOIS.
+Date : 01/06/2015
+Référence de l’offre : 186744-9614445
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull
+, Canopy, Worldline, Atos Consulting et Atos Worldgrid. Pour plus d'information : www.atos.net
+Description du poste :
+Mission
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Sous la responsabilité d'un chef de projet et pour le compte d'un de nos plus grands clients du secteur de
+l'énergie, vous participez à la conception, au développement et à la mise en production des applications dans
+des domaines fonctionnels variés.
+Profil recherché :
+Profil
+Vous souhaitez finaliser votre cusus d'ingénieur informatique ou équivalent universitaire                            (Bac  +5) en
+alternance, vous avez acquis une première expérience au cours d'un stage en environnement objet (Java, J2ee,
+C++, .Net, ...). Vous disposez d'une vision large des technologies et de leur utilisation, vous savez vous
+investir et comprenez les problématiques métier des clients.
+Vous êtes créatif, curieux, avez le sens du travail en équipe et maîtrisez la langue anglaise.
+Information additionnel
+Postes : conception et réalisation des services métiers, des couches de présentation et des échanges.
+Sujet 1 - application terminal mobile : Windows mobile, .Net/C#, SQL CE, Flex AIR, ...
+
+
+
+
+Sujet 2 - application serveur : Java/J2EE, Weblogic, Hibernate, Spring, ...
+Sujet 3 - interfaces système d'information : Oracle Service Bus, Web Services, JMS, CFT, ...
+Environnement commun d'intégration continue : Sonar, SVN, Jenkins, Nexus
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9614445
+
+
+
+
+

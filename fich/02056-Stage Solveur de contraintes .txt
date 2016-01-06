@@ -1,0 +1,60 @@
+﻿ATOS RECRUTE UN/UNE STAGE SOLVEUR DE CONTRAINTES EN STAGE DE 5 À 6 MOIS.
+Date : 15/12/2014
+Référence de l’offre : 174928-8330276
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Toulouse - St Martin du Touch 31000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Contexte :
+La  programmation  par  contraintes  est  une  technique  de  programmation  de  plus  en  plus  utilisée  en
+informatique, et plus particulièrement en intelligence artificielle. Sa technique ne réside pas dans l'élaboration
+d'un algorithme de calcul de solutions construit à partir des données d'un problème, comme c'est souvent le
+cas dans la programmation classique, mais dans une déclaration de prédicats appelés contraintes qui sont
+fournis à un moteur de recherche censé explorer un domaine prédéfini de possibilités pour extraire celles qui
+satisfont aux contraintes. Ces possibilités extraites sont les solutions du problème.
+Le développement de logiciels avioniques fait intervenir un très grands de nombres fonctions qu'il convient
+de  séquencer  dans  un  ordre  précis  tout  en  respectant  des  contraintes  temporelles  et  d'occupation  de
+bande-passante fortes. Dans un tel contexte, le recours à un solveur de contrainte serait un réel atout en vue
+de l'optimisation du processus industriel.
+Mission :
+Il s'agit dans un premier temps de modéliser le problème, puis évaluer les possibilités et performances de
+logiciels type solveurs de contraintes (tels que Gecode, Choco, eclipseclp, …) pour déterminer les séquences
+d'exécution de code qui satisfont au mieux les contraintes temporelles et de bande-passante. L'utilisation de
+ces outils passe par une phase préalable de modélisation du problème et des contraintes dans le langage de
+l'outil de type prédicat.
+Dans  un  second  temps,  le  candidat  devra  assurer  l'intégration  du  solveur  de  contraintes  dans  un
+environnement représentatif d'une utilisation projet.
+Environnement technologique et fonctionnel :
+Java, C/C++, Shell (Python serait un plus), programmation par contraintes.
+Objectifs pédagogiques :
+Évoluant au sein de l'équipe méthode et outils, le stagiaire aura la possibilité de développer ses compétences
+techniques en programmation objet (Java, C++), ainsi que sur les outils de résolution de contraintes sur les
+modèles.
+Profil recherché :
+De formation Bac+5 en informatique en cours de validation, vous recherchez un stage d'une durée de 5 mois
+minimum à partir de Janvier 2015 (dates variables selon l'école), en alternance ou à temps complet. Une
+première  connaissance  des  langages  Java,  C  et  une  initiation  aux  techniques  de  programmation  par
+
+
+
+
+contraintes sont préférables. Une proposition d'embauche en fin de stage est envisageable, sur le site de votre
+stage, ou si vous le désirez, dans toute autre région dans laquelle Atos recrute. Vous êtes motivé(e) et
+rigoureux(se), aimez travailler en équipe et vous souhaitez vous investir sur un projet. Rejoignez-nous !
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8330276
+
+
+
+
+

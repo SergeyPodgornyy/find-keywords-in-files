@@ -1,0 +1,42 @@
+﻿ATOS RECRUTE UN/UNE STAGE ANALYSE CONCEPTION FONCTIONNELLE EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175959-7888714
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Vous participez à des travaux de conception dans le cadre de projets de refonte ou d'évolution de systèmes
+d'information pour nos client.
+Vous serez en charge :
+- De rencontrer les utilisateurs pour la capture des besoins
+- De participer aux travaux de modélisation des processus métiers et des modèles de données associés
+- D'assurer le lien avec les choix d'architecture technique (JEE/SOA)
+- D'alimenter l'outil référentiel de modélisation (BPMN, UML)
+- D'assurer la mise en œuvre de la traçabilité au sein de l'outil de modélisation
+-De préparer et animer des sessions de restitution des travaux d'étude
+Environnement fonctionnel : Conception et modélisation, modèle de données, écrans IHM et cinématique
+utilisateur, BPMN/UML, diagramme d'activités.
+Ce stage a pour objectif d'acquérir l'expérience d'un cycle complet d'analyse des besoins, de la conduite
+d'ateliers avec les utilisateurs à la définition de la solution.
+Profil recherché :
+De formation minimum Bac + 5 en cours de validation, vous recherchez un stage de fin d'études d'une durée
+de 6 mois.
+Vous avez un profil Fonctionnel/métier avec une expérience en conception, modélisation.
+Vous évoluez dans un environnement technique Java/JEE, SOA.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7888714
+
+
+
+
+

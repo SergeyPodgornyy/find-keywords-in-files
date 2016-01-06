@@ -1,0 +1,111 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : ETIAM                                                               Adresse : 2 rue Pierre-Joseph Colin
+Domaine d’activité : Santé                                                                Ville : 35000 Rennes
+Représentant de l’entreprise : Emmanuel Cordonnier                                        N° téléphone : 02 99 14 33 88
+Sa qualité : Directeur Technique                                                          N° fax : 02 99 14 33 80
+N° de Siret : 41012203000035                                                              Site Web : www.etiam.fr
+N° NAF : 5829C                                                                            Courriel : emmanuel.cordonnier@etiam.com
+Statut Juridique : SASU                                                                   Signataire de la convention :   Emmanuel Cordonnier
+Effectif de l’établissement : 40
+Nom de l’encadrant de stage :                                                             Chargé du suivi administratif :   Emmanuel Cordonnier
+Sa qualité :                                                                              Sa qualité : Dir technique
+Service :                                                                                 N° téléphone : 02 99 14 33 84
+N° téléphone :                                                                            Email : emmanuel.cordonnier @etiam.com
+Email :                                                                                   Fax : 02 99 14 33 80
+Fax :
+Nom du service dans lequel le stage sera effectué : technique…………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                     2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                     16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                    16 septembre au 27 septembre 2013
+                                                                                                     4 novembre 2013 au 10 janvier 2014
+                                                                                                     17 février 2014 au 11 avril 2014
+                                                                                                     19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                     entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                      entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                   entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé : Automatisation des tests d'une application de télémédecine
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+   langages : PHP, javascript, Synfony, SQL
+   environnement : Linux, Eclipse, Jenkins, JIRA,/Zephyr, Selenium
+Sujet proposé détaillé :
+Automatisation des tests d'une application de télémédecine
+   description: Dans le cadre du développement agile d'une application de télémédecine, améliorer
+l'automatisation des tests unitaire et fonctionnels, notamment:
+   Améliorer l'automatisation des tests unitaires avec Jenkins (javascript, C++)
+   Mettre en place l'automatisation de tests d'IHM avec Selenium
+   Automatiser le reporting des tests dans Jira/Zephyr
+   profil: BAC + 4-5
+   durée : 6 mois
+INFORMATIONS  COMPLÉMENTAIRES  :
+UNIVERSITE DE RENNES 1                                                                               TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                             www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Indemnité mensuelle (nette) : indemnité légale de stage                         Nom de l’Etudiant :
++ prime                                                                         Diplôme :
+Modalités de versement :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

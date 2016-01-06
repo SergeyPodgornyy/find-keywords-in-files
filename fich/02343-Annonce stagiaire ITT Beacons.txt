@@ -1,0 +1,50 @@
+﻿Dans le cadre de missions internes, nous recherchons un(e)
+stagiaire dans le domaine des nouvelles Technologies H/F sur
+Nantes.
+Vos missions seront les suivantes :
+o   Réaliser une veille technologique sur les technologies BEACONS
+o   Mettre en œuvre un cas d’usage correspondant à une utilisation dans un navire de type Ferries : Envoi
+sur un smartphone d’un contenu exclusif et personnalisé en fonction de l’endroit où l’utilisateur se
+trouve dans le navire : supermarché, casino, restaurant.
+Beacons, la révolution de la micro-localisation
+iBeacon est un système de localisation en intérieur développé par Apple, à base de transmetteurs Bluetooth
+basse consommation, à faible coût, qui peuvent notifier de leur présence des périphériques mobiles à des
+distances comprises entre quelques centimètres et 70 mètres, et déclencher une action spécifique sur le
+mobile (géolocalisation, check-in, push de contenus).
+Profil du candidat :
+Diplômé (e) de Bac + 2/5 en informatique, vous avez une première expérience en stage réussie.
+Le sens du service et une forte capacité d’adaptation sont des qualités essentielles à la bonne réalisation des
+missions qui vous sont confiées.
+NOVIA SYSTEMS est une entreprise de services numériques, filiale
+du Groupe DACP.
+Elle a pour vocation d’aider ses clients à construire les solutions techniques innovantes nécessaires dans
+l’atteinte de leurs objectifs stratégiques. Novia Systems c’est plus de 1 000 collaborateurs, avec un chiffre
+d’affaires de plus de 80M€ et une présence nationale garantissant notre proximité auprès des clients (Paris,
+Saint-Denis, Nantes, Brest, Le Mans, Niort, Rennes, Lyon, Grenoble et Toulouse).
+Nous accompagnons nos clients dans leur mutation technologique autour de 5 grands métiers:
+o   L’intégration de système et d’ingénierie informatique (ERP : SAP, PLM, CRM, BI, mobilité, applications
+web, NTIC : J2EE, PHP, dotnet…),
+o   Expertise et Assistance technique,
+o   Assistance à maitrise d’ouvrage et pilotage de projets,
+o   Qualité des systèmes d’information et tests logiciels.
+o   L’Edition de Logiciels.
+
+
+
+
+Nos atouts :
+o   Nos centres de services industriels
+o   Nos pôles d’expertise (Cobol, java, PHP, SAP, Sage ERP X3, Billettique, PML, CRM, Mobilité,
+Décisionnel, Testing).
+o   Notre centre de formation « Novia Technical School », une école intégrée nous permettant de
+faire évoluer les compétences de nos collaborateurs au rythme des évolutions
+technologiques, favorisant ainsi leur développement. En effet, en 2013, plus de 40% de nos
+salariés ont reçu au moins une formation !
+o   Notre structure à taille humaine.
+o   Pour postuler : recrutement-ouest@novia-systems.fr sous la référence IITStage à l’attention
+de Laure GAZON.
+
+
+
+
+

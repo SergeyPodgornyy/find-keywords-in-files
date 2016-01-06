@@ -1,0 +1,71 @@
+﻿Stage  - Mise en œuvre d’un projet décisionnel pour un acteur
+majeur du transport d'électricité H/F
+Sopra Group
+REFERENCE  :  STAGE/IS/NANT/4192992
+POUR POSTULER  :  offre4598349.1536@sopra-group.contactrh.com sous la référence
+STAGE/IS/NANT/4192992
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Nantes 44000, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Au sein de Sopra Group vous êtes rattaché(e) à la Division Industrie & Services. Elle intervient
+dans les domaines de l'industrie, l'aéronautique, l'automobile, la pharmacie, l'énergie,
+l'environnement, les transports, la distribution, les médias, les loisirs et services.
+DESCRIPTION DU POSTE  :
+Mission
+Dans le cadre d’un grand programme décisionnel visant à définir les moyens énergétiques de
+demain, vous serez intégré(e) à un projet organisé en 3 domaines dont les enjeux forts sont la
+modernisation du SI décisionnel, la conception et le développement de nouvelles applications
+d’aide à la décision et de statistiques. Votre mission consistera à :
+- appréhender les besoins fonctionnels à servir
+- maîtriser les outils spécifiques mis en œuvre dans un contexte multi-applications
+- prendre en compte les aspects performance et optimisation en raison de la forte volumétrie des
+données avec des entrepôts de plusieurs dizaines de téraoctet
+Vous aurez ainsi l'opportunité de monter en compétences sur les outils utilisés et de mettre en
+œuvre vos connaissances pour participer à l’ensemble des phases de ce projet.
+Intérêt du stage
+- approfondir vos compétences techniques et fonctionnelles sur le domaine décisionnel
+
+
+
+
+- être au cœur d’un grand projet décisionnel pour un acteur incontournable de l’énergie
+- enrichir vos connaissances en organisation et méthodes pour les projets au forfait
+- appréhender les différentes phases clés d’un projet en étant intégré(e) au sein d’une équipe
+(conception, développement, qualification, livraison, maintien en condition opérationnelle)
+- évoluer rapidement dans une équipe projet de taille conséquente
+Environnement technologique/fonctionnel
+Modélisation : Modèle en étoile, optimisation pour forte volumétrie
+Microsoft BI, SAS, INFORMATICA, Business Objects.
+Environnement humain
+Vous serez encadré(e) par un Consultant décisionnel expérimenté. Des points périodiques effectués
+avec le Chef de Projet ainsi que votre tuteur permettront de vous apporter l’aide nécessaire, valider
+les étapes et trancher les choix proposés. Des experts assureront votre montée en compétence sur
+cette technologie. Vous participerez également aux séquences de pilotage hebdomadaire vous
+permettant d’appréhender les disciplines liées au pilotage de projet (planification, gestion des
+risques, relation client,etc.).
+PROFIL  :
+Vous êtes en dernière année d’école d’ingénieurs ou Master 2 informatique, vous êtes curieux(se),
+logique et structuré(é). Votre force est votre adaptabilité et votre esprit d’équipe. Une connaissance
+du domaine décisionnel serait appréciée.
+POUR POSTULER  :  offre4598349.1536@sopra-group.contactrh.com sous la référence
+STAGE/IS/NANT/4192992
+
+
+
+
+

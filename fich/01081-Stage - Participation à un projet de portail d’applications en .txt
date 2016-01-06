@@ -1,0 +1,71 @@
+﻿SOPRA  GROUP  RECRUTE  UN/UNE  STAGE  ­  PARTICIPATION  À  UN  PROJET  DE
+PORTAIL  D’APPLICATIONS  EN  .NET/JAVA  H/F  EN  STAGE  DE  5  À  6  MOIS.
+Date  :  1/12/13
+Référence  de  l’offre    :  STAGE/TELCO/RENN/4207073­5506696
+Domaine  d’activité    :  20500  (20518)
+Type  de  contrat    :  Stage
+Localisation    :  Rennes  35000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Sopra  Group,  acteur  majeur  du  conseil,  des  services  technologiques  et  de  l'édition  de
+logiciels  en  Europe,  accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs
+métiers  et  de  leurs  systèmes  d'information.  Combinant  valeur  ajoutée  et  innovation  dans
+les  solutions  apportées,  qualité  industrielle  et  performance  des  services  délivrés,  Sopra
+Group  est  le  partenaire  de  référence  des  grandes  entreprises  et  organisations  qui
+recherchent  le  meilleur  usage  du  numérique  pour  assurer  leur  développement  et  leur
+compétitivité.  Sa  filiale,  Sopra  Banking  Software,  est  un  éditeur  leader,  spécialisé  dans
+les  solutions  applicatives  pour  le  marché  financier.  Le  Groupe  compte  plus  de  15  000
+collaborateurs  et  a  réalisé  un  chiffre  d'affaires  2012  de  1  217  millions  d'euros.  Sopra
+Group  (SOP)  est  coté  sur  NYSE  Euronext  Paris  (Compartiment  B)  -  Code  ISIN:
+FR0000050809.  Pour  plus  d'informations,  retrouvez­nous  sur  www.sopragroup.com.
+Au  sein  de  Sopra  Group,  vous  êtes  rattaché(e)  à  la  Division  Telecom  &  Media  qui
+regroupe  plus  de  700  collaborateurs  et  qui  intervient  au  cœur  des  Systèmes  d'Information
+de  ses  clients.  Son  expertise  métier  (OSS,  Provisioning,  Mediation,  Rating/  Billing,
+Revenue  Assurance,  CRM,  Business  Intelligence,  Broadcasting...)  et  ses  compétences
+techniques  multiples  font  de  Sopra  Group  un  acteur  majeur  dans  le  domaine  des
+Télécoms  et  des  Médias.
+Description  du  poste    :
+Mission
+Lors  de  votre  stage,  vous  intégrerez  l'équipe  d'ingénieurs  en  charge  de  la  gestion  des
+applications  Web  orientées  services  client  et  destinées  aux  grandes  entreprises.
+Après  une  prise  de  connaissance  de  l'environnement  technique,  vous  participerez  à
+l'élaboration  d'un  portail  applicatif  de  suivi  de  l'exploitation  client  :
+­ représentation  graphique  des  positionnements  d'incidents
+­ gestion  de  demande  de  changements
+­ gestion  du  portail  Front/Back
+­ gestion  de  vue  synthétique  des  applications  (mode  iGoogle)
+
+
+
+
+Vous  contribuerez  aux  différentes  phases  du  cycle  de  vie  du  projet  (spécification,
+développement,  écriture  de  tests  unitaires  automatisés  et  qualification),  en  appliquant  une
+méthodologie  inspirée  de  Scrum  :
+­ animation  du  projet  par  le  Scrum  Master
+­ réalisation  des  travaux  au  cours  de  Sprints
+­ échanges  réguliers  avec  le  client  lors  des  démonstrations
+Intérêt  du  stage
+­ travailler  en  équipe  avec  la  proximité  du  client
+­ environnement  technique  varié  et  innovant
+­ renforcer  les  compétences  techniques  .Net/Java
+­ méthodologie  projet  inspirée  de  Scrum/Agile
+Environnement  technologique/fonctionnel
+Microsoft  .Net,  Java  JEE,  Google  Web  Toolkit,  Oracle  ­  Intégration  continue  (Jenkins)
+Environnement  humain
+Intégré(e)  directement  dans  une  équipe  opérationnelle  (~20  personnes),  vous  serez
+encadré(e)  par  un  Scrum  Master  qui  assurera  un  suivi  détaillé  de  l'activité.
+L'environnement  permet  une  grande  diversité  d'activités  à  réaliser  ainsi  qu'une  forte
+proximité  client.
+Profil  recherché    :
+En  dernière  année  d'école  d'ingénieurs  ou  de  Master  2  informatique,  vous  avez  la  capacité
+à  acquérir  rapidement  de  nouvelles  connaissances  techniques  et  fonctionnelles.  Vous  êtes
+curieux(se)  et  avez  un  bon  relationnel  ainsi  qu'un  bon  esprit  de  synthèse  et  d'analyse.
+Vous  avez  une  bonne  maîtrise  de  la  l'anglais.
+Pour  postuler    :  http://sopra­group.contactrh.com/jobs/1536/5506696
+
+
+
+
+

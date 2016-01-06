@@ -1,0 +1,76 @@
+﻿Stage  -  Intégration  du  programme  de  développement  du  SI  "abonné"
+d'un  opérateur  télécom  H/F
+Sopra  Group
+REFERENCE  :  STAGE/TELCO/RENN/4207022
+POUR  POSTULER  :  offre5203867.1536@sopra-group.contactrh.com sous la référence
+STAGE/TELCO/RENN/4207022
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son
+expertise métier (OSS, Provisioning, Mediation, Rating/ Billing, Revenue Assurance, CRM,
+Business Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra
+Group un acteur majeur dans le domaine des Télécoms et des Médias.
+DESCRIPTION  DU  POSTE  :
+Mission
+Dans le cadre de la réalisation d’un nouveau système d’information des offres et facturation pour un
+opérateur majeur des télécom, vous serez intégré(e) à l’équipe projet chargée de mettre en œuvre le
+module « prise de commande ». Celui-ci vise à traiter en mode asynchrone les différentes
+opérations liées à une commande (activation de la ligne, propagation des informations au SI,
+communication vers les systèmes adjacents…).
+Au cours de la première phase de votre stage, vous serez amené(e) à découvrir l’application :
+- présentation de l’application et de son contexte au sein du système d’information du client
+- formation aux outils spécifiques du projet
+- participation aux activités de tests
+- corrections d’anomalies
+
+
+
+
+Puis dans un second temps, vous participerez aux développements de modules spécifiques gravitant
+autour du produit utilisé pour le traitement des commandes. Sur cette étape, vous serez également
+accompagné(e) de votre tuteur lors de vos premiers développements (revue de code, support
+technique, conseil). Par exemple, développement d’une IHM sous Java/GWT, création d’un
+webservices, modification d’un traitement batch d’export de données.
+Vous utiliserez les méthodologies de développement, les techniques d’industrialisation de la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- travailler en équipe
+- renforcer les compétences techniques Java
+- acquérir une méthodologie projet
+- participer à l’un des plus grands projets européens
+Environnement technologique/fonctionnel
+Java JEE, JBOSS, Oracle, Oracle BPEL, Intégration continue (maven, hudson, sonar, clover)
+Framework (Hibernate, Spring, JaxB), CXF, Oracle, UML
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+PROFIL  :
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous montrez un réel intérêt
+pour l’innovation technologique. Vous avez des connaissances en programmation Java et XML.
+Votre curiosité et capacité à travailler en équipe sont les atouts qui vous permettront d'évoluer
+rapidement au sein de nos équipes.
+POUR  POSTULER  :  offre5203867.1536@sopra-group.contactrh.com sous la référence
+STAGE/TELCO/RENN/4207022
+
+
+
+
+

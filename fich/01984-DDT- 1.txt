@@ -1,0 +1,38 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : GLPI-OCS : migration plateformes OCS et GLPI
+   Lieu : Mayenne                                                                              Durée : 2 à 4 mois
+   Formation : Bac + 3 minimum                                                                 Date : 2014- 2015
+   Référence : DDT-1                                                                           Rémunération : stage indemnisé
+Sujet : Vous participerez :
+   A la continuité d’un projet réalisé courant 2013, permettant de déployer les
+nouvelles versions OCS et GLPI sur les plateformes du groupe Jouve. Le
+challenge consiste à intégrer dans cette migration les spécificités de JOUVE ;
+   Votre objectif sera donc de décrire le procédé de migration, de valider l’import
+des données de bases MYSQL existantes sans doublon sur l’ensemble de la
+nouvelle plateforme multiserveurs puis de le mettre en place ;
+   La rédaction de la documentation est souhaitée ;
+   Un cahier des charges sera fourni en début de projet ;
+   Vous développerez sur des environnements protégés de pré-production.
+Ce stage vous permettra d’intégrer une équipe constituée de client (interne Jouve), ingénieur
+en développement, tuteur et chef de projet, ainsi que des testeurs. Vous participerez à la
+gestion  du  projet  et  développerez  vos  acquis  en  système,  réseau,  PHP  et  MYSQL en
+
+
+
+
+environnement Linux.
+Environnement :
+   LAMP
+Vous    serez    intégré    dans    l’équipe
+infogérance.
+
+
+
+
+

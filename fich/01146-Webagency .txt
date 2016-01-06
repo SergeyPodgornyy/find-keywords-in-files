@@ -1,0 +1,45 @@
+﻿Webagency à taille humaine basée à RENNES (35) et en pleine progression,
+nous souhaitons renforcer notre équipe d'un développeur Web (PHP/MySql/Ajax/Jquery).
+Nous recherchons pour cela un étudiant Master 2 Méthodes Informatiques et Technologies de
+l'Information de la Communication
+Autonome et passionné, le développeur Web aura la responsabilité de :
+- L’intégration et le développement des sites clés en main, dévelopements spécifiques et e-
+commerce (front-office et back-office), sur les principales plates-formes open-sources
+(wordpress, joomla, prestashop, magento, drupal) et from-scratch sur notre propre CMS
+- Le développement de modules spécifiques (gestion de diaporamas, de newsletters, de
+comptes clients, de quizzs, d'annonces, de simulateurs, de ventes-privées, d'enchères au clic,
+etc ...)
+- La conception technique des applications web et mobiles (optimisés ipad, iphone, android)
+- De l'évolution des outils internes (CMS, Intranet, modules, sites de l'agence)
+- Du suivi et de la maintenance des solutions développées.
+- De formaliser les documents de conception technique
+- Le support en cas de problème
+Profil :
+De formation informatique bac+2/+3, minimum,
+le candidat a une réelle expérience et une passion pour le développement.
+Il sera force de proposition afin d'apporter de l'innovation pour les utilisateurs.
+Compétences techniques attendues :
+- Maitrise de PHP5, JavaScript (JQuery/Mootools), Ajax, Json
+- Maitrise du HTML5/CSS3 et Framework Responsive
+- Maitrise d'un ou plusieurs CMS (wordpress, joomla, prestashop, magento, drupal)
+Qualités humaines attendues :
+- Impliqué
+- Passionné/Créatif
+- Autonome
+- Rigoureux
+- Solidaire de l'équipe
+Poste à pourvoir dès que possible
+Poste basé à : RENNES (35)
+Envoi lettre de motivation + CV + références/book
+Contact : recrutement@licornpublishing.com
+Aurélien Guillaume
+Gérant - Directeur Artistique
+Tel : 09 83 06 93 68
+Mobile : 06 60 73 26 34
+Email : contact@licornpublishing.com
+Site : http://www.licornpublishing.com
+
+
+
+
+

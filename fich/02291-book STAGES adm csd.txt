@@ -1,0 +1,1189 @@
+﻿BOOK DE STAGE
+2015
+Rennes et Nantes
+
+
+
+
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 2
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 34
+STAGE SI  TRANS                     PORT FERROVIAIRE MISE EN Œ                       UVRE D’UN
+OUTILLA                             GE DE REVUE APPLICATIVE (SN                      CF)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Dans le cadre d’un pro              jet de refonte du système d’information pou      r la réforme
+ferroviaire, Capgemini à la re      sponsabilité des applications permettant de      gérer les activités
+opérationnelles de la SNCF.
+Ces applications permettent         aux agents de la SNCF de piloter l’activité en   fonction des besoins
+et pour l’ensemble du territ        oire.
+Les domaines applicati              fs sont variés :
+- Logistique (Approvisionnem        ent des stocks de matériel & combustibles,       gestion de la
+production, …)
+- Achats/Finance (Achats, co        mptabilité générale/analytique, facturation      externe, …)
+- Gestion de projet (Gestion        des projets SI, Facturation/Recouvrement, I      nvestissements, ..)
+La technologie utilisée est         basée sur l’ERP PeopleSoft FSCM avec l’ut        ilisation de différents
+modules applicatifs orientés        sur les métiers SNCF (AP, AR, GL, IN, CM, …)
+STAGE PROPOSE
+Le/la stagiaire est intégré(e)      aux équipes projet. Dans ce cadre, il/elle pa    rticipe aux travaux
+d’industrialisation et de l’ou      tillage de la revue applicative.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 3
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+De part l’architecture du sys       tème d’information, et la position centrale d    e l’ERP au sein de
+celle-ci, ces travaux permett       ent d’aborder une problématique métier da        ns son ensemble, de
+vérifier et contrôler sa cohér      ence tant d’un point de vue fonctionnel que      technique.
+Au-delà des aspects techniq         ues et fonctionnels abordés, ce stage perme      t d’appréhender
+l’organisation et le delivery       d’un Système d’Information de grande ampl        eur, à travers
+l’application de processus in       dustriels de réalisation de projets informatiq   ues.
+MOTS CLES
+SQL, WINDOWS, Base de do            nnées et outils ORACLE, Excel, Visual Basic, P   eopleSoft.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 4
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 34
+STAG                                E SYSTEMES D'INFORMATION
+DES OPERAT                          EURS MOBILES PREPAYE (BOU                        YGUES)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+L’opérateur Telecom a confié                                                         , dans le cadre de sa démarche d’externa      lisation, la gestion de
+son Système d’Information (SI                                                        ) des mobiles prépayés à Capgemini.
+Dans ce cadre, Capgemini a m                                                         is en place un Centre de Services pour perm   ettre à cet opérateur
+télécom  d’industrialiser les d                                                      éveloppements, d’optimiser les coûts et de    maitriser la qualité des
+services rendus.
+STAGE PROPOSE
+Intégré(e) au sein de l'équipe                                                       de développement du centre de service, l      e/la stagiaire aura en
+charge la conception, la réal                                                        isation, l’intégration de développements d    ’applications liées au
+système d’information de l’op       érateur Telecom.
+MOTS CLES
+(UNIX, JAVA / J2EE / JSP / O        RACLE/ PostgreSql                                / EAI IBM BPM/ SOA                            P/ GWT/ Webservice/
+Spring/ Spring MVC, Hudson,         Sonar, JUnit)
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 5
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 34
+STAGE OPER                          ATEUR MEDIA GESTION DES                           DROITS
+INFRA                               STRUCTURES D’INTEGRATION                          ,
+PLATE FO                            RME DE SERVICES  VOD (CAN                         AL+)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Le Système d'information de         gestion des droits est un système faisant le li   en entre les différents
+systèmes de gestion des abon        nés (CRM) et les différents systèmes de gest      ion techniques
+utilisés pour gérer la diffusion    de média payants.
+L’opérateur Média a égaleme         nt engagé une démarche d’urbanisation de s        on Système
+d’Information (SI) en mettant       en place une infrastructure d’intégration ap      plicative basée sur
+une plate-forme de type EAI e       t développé une architecture de services au       tour d’un framework
+J2EE pour mutualiser les fonct      ionnalités, découpler les différents système      s et y intègre le
+système lui permettant de gé        rer la video on demand.
+Dans ce cadre, Capgemini co         mplète son offre de Centre de Services pour       permettre à ses
+clients d’industrialiser leurs d    éveloppements, d’optimiser leurs coûts et d       e maitriser la qualité
+de leurs services.
+STAGE PROPOSE
+Intégré(e) au sein de l'équipe      de développement, le/la stagiaire aura en ch      arge la conception, la
+réalisation, l’intégration de dé    veloppements d’applications liées au systèm       e d’information de
+l’opérateur Media (infrastruct      ure d’intégration, plate-forme de services J2     EE) et aux
+composants techniques J2EE s        ous UNIX ou LINUX partie intégrante du SI d       e l’opérateur média.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 6
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+MOTS CLES
+(UNIX, JAVA / J2EE / JSP / O        RACLE/ PostgreSql                                / EAI IBM BPM/ SOA   P/ GWT/ Webservice/
+Spring/ Spring MVC, Hudson,         Sonar, JUnit)
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 7
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 34
+S                                   TAGE OPERATEUR MEDIA
+GESTION DES                         DROITS ET TERMINAUX 1 DET(                       CANAL+)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Le Système d'information de         gestion des droits et terminaux est un systèm    e faisant le lien entre
+les différents systèmes de ges      tion des abonnés (CRM) et les différents sys     tèmes de gestion
+techniques utilisés pour gérer      la diffusion de média payants.
+Dans ce cadre, Capgemini AD         M, complète son offre de Centre de Services      pour permettre à ses
+clients d’industrialiser leurs d    éveloppements, d’optimiser leurs coûts et        de maitriser la qualité
+de leurs services.
+STAGE PROPOSE
+Intégré(e) au sein de l'équipe      de développement, le/la stagiaire aura en ch     arge la conception, la
+réalisation, l’intégration de dé    veloppements d’applications liées au systèm      e d’information de
+l’opérateur Media : gestion de      s droits et des terminaux.
+MOTS CLES
+(UNIX, Windows, Eclipse, JAV        A / J2EE / ORACLE, JUnit, Websphere)
+JAVA, J2EE, Hibernate, Websp        here, (Tomcat, Jonas), Oracle, Windows, Ecl      ipse.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 8
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 34
+S                                   TAGE OPERATEUR MEDIA
+GESTION DES DR                      OITS, INFRASTRUCTUTES D’IN                        TEGRATION,
+PLATE FORM                          E DE SERVICES, VOD (CANAL+                        DET EAI)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Le Système d'information de         gestion des droits est un système faisant le li   en entre les différents
+systèmes de gestion des ab          onnés  (CRM) et les différents systèmes d         e gestion techniques
+utilisés pour gérer la diffusion    de média payants.
+L’opérateur  Média  a  égale        ment  engagé  une  démarche  d’urbanisati         on  de  son  Système
+d’Information (SI) en mettan        t en place une infrastructure d’intégration       applicative basée sur
+une plate-forme de type EAI         et développé une architecture de services a       utour d’un framework
+J2EE pour mutualiser les fo         nctionnalités, découpler les différents syst      èmes et y intègre le
+système lui permettant de gé        rer la video on demand.
+Dans ce cadre, Capgemini c          omplète son offre de Centre de Services           pour permettre à ses
+clients d’industrialiser leurs d    éveloppements, d’optimiser leurs coûts et         de maitriser la qualité
+de leurs services.
+STAGE PROPOSE
+Intégré(e) au sein de l'équipe      de développement, le/la stagiaire aura en c       harge la conception, la
+réalisation, l’intégration de d     éveloppements d’applications liées au syst        ème d’information de
+l’opérateur Media : gestion de      s droits des abonnés et des équipements.
+MOTS CLES
+JAVA, J2EE, GWT, Websphere          , (Tomcat, Jonas), Oracle, Windows, Eclipse,      EAI WPS.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 9
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 33
+STAGE SIG POU                       R UN OPERATEUR TELECOM 1                         (ORANGE)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Que ce soit dans le cadre du d      éploiement des réseaux, ou dans le cadre d       e la commercialisation
+de nouveaux services, les opé       rateurs de télécommunications s’appuient s       ur des données
+parfois hétérogènes, mais inté      grant pour la plupart une dimension spatial      e ou géographique,
+telles que la localisation des a    bonnés et des équipements par exemple.
+Dans ce contexte, les Système       s d’Information Géographiques (SIG), sont d      evenus l’un des
+éléments clés du développem         ent des opérateurs, et sont sollicités par de    nombreux acteurs,
+dans des domaines très divers       des activités de l’entreprise.
+Dans le même temps, la techn        ologie développée autour des composantes         des SIG s’est
+fortement enrichie et s’est ad      aptée aux technologies WEB tout en conserv       ant ses
+caractéristiques propres.
+Dans ce cadre, Capgemini dév        eloppe et déploie son offre de services dans     le domaine des SIG
+et accompagne ses clients Tel       ecom majeurs dans les réalisations qu’ils mè     nent dans ce
+domaine. Ces activités sont ré      alisées au sein d’une équipe de spécialistes     SIG que vous viendrez
+enrichir.
+STAGE PROPOSE
+Participation à la réalisation d    ’applications de visualisation et de traiteme    nt de données
+cartographiques et de donnée        s du réseau fibre optique (déploiement FFT       H, Export de données
+pour les collectivités locales, t   raitements sur le cadastre, …) ou sur le rése    au mobile
+(couvertures, antennes,…)  su       r différentes technologies (FLEX, WebService     s, ESRI,…) et données
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 10
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+cartographiques (France Rast        er V4, Voies et Routes, données socio-écono      miques de
+population, …).
+MOTS CLES
+LINUX, Windows, ESRI ArcGIS         Serveur, Desktop et Mobile, Flex/Flash, Silve    rlight, Cluster,
+Google Maps, Bing Maps, IGN         , C#, Java, Web Services,Talend, Open Sourc      e, PostgreSQL, Oracle.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 11
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 33
+STAGE SIG POU                       R UN OPERATEUR TELECOM 2                         (ORANGE)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Que ce soit dans le cadre du d      éploiement des réseaux, ou dans le cadre d       e la commercialisation
+de nouveaux services, les opé       rateurs de télécommunications s’appuient s       ur des données
+parfois hétérogènes, mais inté      grant pour la plupart une dimension spatial      e ou géographique,
+telles que la localisation des a    bonnés et des équipements par exemple.
+Dans ce contexte, les Système       s d’Information Géographiques (SIG), sont d      evenus l’un des
+éléments clés du développem         ent des opérateurs, et sont sollicités par de    nombreux acteurs,
+dans des domaines très divers       des activités de l’entreprise.
+Dans le même temps, la techn        ologie développée autour des composantes         des SIG s’est
+fortement enrichie et s’est ad      aptée aux technologies WEB tout en conserv       ant ses
+caractéristiques propres.
+Dans ce cadre, Capgemini dév        eloppe et déploie son offre de services dans     le domaine des SIG
+et accompagne ses clients Tel       ecom majeurs dans les réalisations qu’ils mè     nent dans ce
+domaine. Ces activités sont ré      alisées au sein d’une équipe de spécialistes     SIG que vous viendrez
+enrichir.
+STAGE PROPOSE
+Etude, prototypage du portag        e de l’Ihm d’une application SIG Flash en htm    l 5 (Widgets,
+ergonomie, design de la prése       ntation des données cartographiques). Outi       l pour la
+géolocalisation, géo positionn      ement et mobilité : Benchmark du marché s        ur les solutions
+porteuses et novatrices. Quell      es solutions pour utiliser un SIG nomade (su     r tablettes) et pour
+les applications de Geomarke        ting (campagne de publicité ciblée, analyse s    ocio-économique de
+la clientèle, implantation de n     ouveaux points de vente, aide à la décision,     reporting métier).
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 12
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+MOTS CLES
+LINUX, Windows, ESRI ArcGIS         Serveur, Desktop et Mobile, Flex/Flash, Silve    rlight, Cluster,
+Google Maps, Bing Maps, IGN         , C#, Java, Web Services,Talend, Open Sourc      e, PostgreSQL, Oracle.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 13
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 35
+STAGE A                             PPLICATION WEB POUR LE CN                        FPT
+Le Groupe Capgemini, un de                                                           s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3                                                        71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group                                                          e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu                                                         ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv                                                         re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n                                                        otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un                                                          environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin                                                          i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Capgemini a la responsabilité                                                        de plusieurs applications permettant de gér      er les offres de
+formation d’un acteur majeur                                                         de la fonction publique dans le cadre d’une      TMA (Tierce
+Maintenance Applicative). La                                                         TMA a en charge la maintenance standard (g       estion des anomalies,
+maintenance préventive, étud                                                         es) et la réalisation d’évolutions fonctionnel   les et techniques.
+L’application principale s’appu                                                      ie sur plusieurs composants logiciels, parmi     lesquels :
+•                                   Une application Font O                           ffice / Back-Office permettant la gestion de     s agents et de leurs
+inscriptions,
+•                                   Des Web Services,
+•                                   Des fonctions d’import                           permettant l’import en masse de données          dans l’application.
+STAGE PROPOSE
+Le/la stagiaire est intégré(e) a    ux équipes projet. Dans ce cadre, il/elle aura   en charge la
+conception, la réalisation, l’in    tégration de développements de l’applicatio      n principale dans le
+cadre d’évolutions.
+Il/Elle mettra en oeuvre les te     chnologies adaptées pour la réalisation des      aspects IHM, Bases de
+Données. L’environnement te         chnique est le suivant : PHP, Cake, MySQL, E     clipse, Selenium,
+Talend.
+Au-delà des aspects techniqu        es et fonctionnels abordés, ce stage permet      d’appréhender
+l’organisation et le delivery d’    une application Web, à travers l’application     de processus
+industriels de réalisation de p     rojets informatiques.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 14
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+MOTS CLES
+PHP, SQL, Base de données et        outils MySQL, Webservices, Excel, Plateform      e d’Intégration
+Continue, Talend, Selenium.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 15
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 33
+STAG                                E APPLICATION WEB POUR UN
+ACTEUR M                            AJEUR DE LA TELEPHONIE (OR                        ANGE)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Capgemini a la responsabilité       de plusieurs applications permettant de gér       er le système
+d’information d’un acteur ma        jeur de la téléphonie dans le cadre d’une TM      A (Tierce
+Maintenance Applicative). La        TMA a en charge la maintenance standard (g        estion des anomalies,
+maintenance préventive, étud        es) et la réalisation d’évolutions fonctionnel    les et techniques.
+Le/la stagiaire interviendra su     r une application web permettant de gérer e       t commander des
+équipements du réseau de tél        éphonie mobile.
+STAGE PROPOSE
+Le/la stagiaire est intégré(e) a    ux équipes projet. Dans ce cadre, il/elle aura    en charge le
+développement d’évolutions f        onctionnelles sur l’application et la participa   tion à la phase
+d’intégration de la version.
+Il/Elle mettra en oeuvre les te     chnologies adaptées pour la réalisation des       aspects IHM, Bases de
+Données. L’environnement te         chnique est le suivant : Java/J2EE, Eclipse, M    ySQL.
+Au-delà des aspects techniqu        es et fonctionnels abordés, ce stage permet       d’appréhender
+l’organisation et le delivery d’    une application Web, à travers l’application      de processus
+industriels de réalisation de p     rojets informatiques.
+MOTS CLES
+PHP, SQL, Base de données et        outils MySQL, Webservices, Excel, Plateform       e d’Intégration
+Continue, Talend, Selenium.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 16
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 17
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 35
+S                                   TAGE DEVELOPPEMENT ET
+MAINTENANC                          E APPLICATIVE SIAN (SECTEUR                       PUBLIC)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Au sein de son unité ADM déd        iée à l'Innovation et aux nouvelles technolo      gies, composée de
+650 consultants, Capgemini fo       urnit à ses principaux clients du secteur pub     lic et des
+télécommunications des appli        cations novatrices, axées sur l'intégration de    systèmes,
+l'architecture et les web servi     ces.
+Vous êtes intégré(e) dans une       équipe projet pour prendre part à une ou p        lusieurs phases de la
+construction d'un projet de sy      stème d'information utilisant les nouvelles t     echnologies (Java J2E,
+Struts, Hibernate…).
+STAGE PROPOSE
+Le/la stagiaire est intégré(e) a    ux équipes projet. Dans ce cadre, il/elle aura    en charge le
+développement d’évolutions f        onctionnelles sur l’application et la participa   tion à la phase
+d’intégration de la version.
+Il/Elle mettra en oeuvre les te     chnologies adaptées pour la réalisation des       aspects IHM, Bases de
+Données. L’environnement te         chnique est le suivant : Java/J2EE, Eclipse, M    ySQL.
+Au-delà des aspects techniqu        es et fonctionnels abordés, ce stage permet       d’appréhender
+l’organisation et le delivery d’    une application Web, à travers l’application      de processus
+industriels de réalisation de p     rojets informatiques.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 18
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+MOTS CLES
+PHP, SQL, Base de données et        outils MySQL, Webservices, Excel, Plateform      e d’Intégration
+Continue, Talend, Selenium.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 19
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM 35
+STAGE D                             EVELOPPEMENT D’APPLICATIO                        NS
+INTER                               FACES TEMPS DIFFERES SI SAV
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Intégré au sein de notre Pôle                                                                                    d'Excellence « ADM » et dans le cadre d'un     programme composé
+de plusieurs projets de Cent                                                                                     res de services pour un opérateur télécom      , vous intégrerez une
+équipe en charge de la mainte                                                                                    nance évolutive et du développement de no      uvelles interfaces.
+En tant que Consultant Dével                                                                                     oppement d’applications interfaces (H/F), v    ous aurez en charge la
+maintenance évolutive et le d                                                                                    éveloppement d’applications d’interfaces te    mps différés ainsi que
+du support de production (pa                                                         ramétrage BDD).
+STAGE PROPOSE
+Votre mission consistera à pa                                                                                    rticiper aux différentes phases du projet :
+-                                   spécifications
+-                                   développements
+-                                   packaging
+-                                   Recette et intégration
+-                                   Documentation
+-                                   Livraison
+-                                   Support à la productio                           n
+-                                   mise à jour du paramé                            trage de Bases de Données
+MOTS CLES
+Datastage, AB Initio, Cycle V,                                                                                   AGILE, SQL server, ORACLE, C, .NET, JAVA, J2   EE
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 20
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM31
+STAGE CONS                          ULTANT EVOLUTION & MAINT                         ENANCE
+                                    APPLICATIONS PHP (H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division ADM  de Capgemin        i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Capgemini propose des Centr         es de Services NTIC à ses clients Grand Comp     te Nationaux.
+Vous intégrez une équipe au         sein d’un Centre de Services qui assure p        our un de nos grands
+clients
+du secteur des services, la m       aintenance, les évolutions ainsi que la cons     truction de nouvelles
+applications.
+STAGE
+En tant que Consultant évolut       ion et maintenance d’applications - Nouvell      es
+Technologies, vous participez       à la maintenance des applications et au dév      eloppement
+des évolutions fonctionnelles       demandées par le client.
+Vous intervenez donc sur l’en       semble des processus allant de l’expression      du besoin
+jusqu’au déploiement de la so       lution sur l’environnement de production d       u client (analyse
+du besoin, chiffrage, spécifica     tions détaillées, études d’impacts technique     s, conception
+détaillée, mise en oeuvre et t      ests, livraison).
+Environnements techniques :         LAMP et .NET+ MSBI (SSIS, SSRS, SSAS).
+PROFIL RECHERCHE
+Votre mission consistera à pa       rticiper aux différentes phases du projet :
+De formation Bac+3 à Bac+5,         spécialisée en génie logiciel, vous :
+• avez des connaissances solid      es dans les environnements techniques déc        rits dans
+Contacts : sayana.long@capgemini.   com
+                                                                                                               Page 21
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+la mission,
+• appréciez le travail en équip     e et les challenges,
+• maitrisez un anglais opérati      onnel,
+• souhaitez vous investir sur u     n projet qui exige curiosité, esprit d’analyse   , adaptation
+et rigueur.
+MOTS CLES
+LAMP et .NET+ MSBI (SSIS, SS        RS, SSAS).
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 22
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+CSD
+STAGE CONS                          ULTANT EVOLUTION & MAINT                           ENANCE
+                                    APPLICATIONS WEB (H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage            ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po      ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu         s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr          eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan      cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa       rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie       l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+Capgemini propose des Centr         es de Services NTIC qui mettent en œuvre de        s solutions
+innovantes et attendues par n       os clients.
+Vous intégrez un Centre de Se       rvice qui assure la maintenance corrective e       t évolutive des
+applications de distribution fe     rroviaire via le canal Internet allant de l’expr   ession du besoin
+jusqu’au déploiement de la so       lution sur l’environnement de production.
+STAGE
+Vous participez au suivi et à la    mise en oeuvre de demande d’évolution du           besoin
+fonctionnel sur les application     s Offres Horaires liées à la Billettique.
+Vous participez à toutes les p      hases projet d’une évolution : analyse du bes      oin, chiffrage,
+spécifications, études d’impac      ts techniques, conception détaillée, pilotage      et suivi de
+la réalisation pour assurer un      e conformité au besoin dans le respect du pl       anning défini,
+mise en oeuvre et tests, livrai     son, support au client suite à la réception du     livrable.
+Environnement technologiqu          e basé sur les technologies Java/J2EE - Oracl      e - PHP -
+CMS Drupal.
+PROFIL RECHERCHE
+De formation Bac+3 à Bac+5 s        pécialisé en génie logiciel, vous :
+• avez des connaissances solid      es dans les environnements techniques déc          rits dans
+la mission,
+• appréciez le travail en équip     e et les challenges,
+• avez un niveau d’anglais op       érationnel,
+• souhaitez vous investir sur u     n projet qui exige curiosité, esprit d’analyse     , adaptation
+et rigueur.
+MOTS CLES
+Java/J2EE - Oracle - PHP - CM       S Drupal.
+Contacts : sayana.long@capgemini.   com
+                                                                                       Page 23
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+ADM31
+STAGE                               CONSULTANT MICROSOFT(H/                          F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+Capgemini  vous propose un          Stage de fin d’étude.
+CONTEXTE
+La division ADM à laquelle vo       us êtes rattaché(e), assure la conduite de pro   jets complexes allant
+de la conception à l’intégratio     n et la mise en oeuvre de solutions technolo     giques.
+En tant que Consultant Micro        soft, vous intervenez auprès de nos clients s    ur des applications
+novatrices, axées sur l’intégra     tion de systèmes, l’architecture et les web s    ervices.
+STAGE
+Votre mission consiste à pren       dre part à la construction de projets de trans   formation à
+la fois métier et technique aut     our des technologies Microsoft (.net, C#, sh     arepoint,
+Azure, MS Dynamics).
+Vous intervenez sur les différe     ntes phases d’un projet :
+• la traduction technique des       besoins fonctionnels,
+• la conception,
+• la réalisation,
+• les tests et la recette,
+• la mise en production,
+• la maintenance corrective o       u évolutive.
+PROFIL RECHERCHE
+De formation Bac+4/5 avec un        e spécialisation en informatique, vous :
+• vous justifiez d’une expérien     ce sur les technologies Microsoft,
+• vous avez un niveau d’angla       is opérationnel (présentations orales et écrit   es),
+• êtes autonome, motivé(e) e        t rigoureux(se),
+• appréciez le travail en équip     e.
+MOTS CLES
+Java/J2EE - Oracle - PHP - CM       S Drupal.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 24
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CONSU                         LTANT METIER MUTUELLES, R                        ETRAITE,
+                                    PREVOYANCE(H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Vous êtes intégré(e) au sein d      e notre pôle d’excellence, vous intervenez       auprès de clients dans
+le cadre de missions de conse       il en métier et technologie à forte valeur ajo   utée (conception
+et design de processus et de s      olutions, rédaction de dossiers, …).
+STAGE
+Dans le cadre de missions che       z nos clients, vous secondez un consultant c     onfirmé
+dans la réalisation d’une ou pl     usieurs missions de conseil. Vous êtes ainsi     amené(e) à
+accompagner l’équipe sur les        missions suivantes :
+• cadrage et analyse des beso       ins du client en matière de processus et
+accompagnement au changem           ent sur le déploiement de solutions-métier       s,
+• diagnostic organisationnel e      t amélioration des compétences,
+• co-animation d’ateliers et a      ccompagnement d’équipe-projet,
+• suivi des réalisations des act    ions de déploiement et préparation des sup       ports
+(ingéniérie pédagogique, pilot      age-projet, reporting).
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• possédez de bonnes capacit        és d’analyse, de synthèse et rédactionnelles     ,
+• faites preuve de qualités org     anisationnelles et de rigueur,
+• parlez avec un bon niveau d       ’anglais,
+• avez une bonne capacité d’a       daptation et une excellente communication
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 25
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CONSU                         LTANT ORGANISATION ET CO                          NSEIL EN
+                                    TECHNOLOGIE (H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Intégré(e) au sein de notre pô      le d’excellence, Package Based Solutions (PB      S), vous intervenez
+auprès de clients  dans le cadr     e de missions de conseil métier et technolo       gique à forte valeur
+ajoutée (conception et design       de
+processus, conduite du chang        ement, diagnostique organisationnel, …).
+STAGE
+Dans le cadre de missions che       z nos clients, vous participez à la réalisation   d’une ou
+plusieurs missions de conseil :
+• cadrage et analyse des beso       ins du client en matière de processus et des      problématiques
+métiers et/ou SI liées (exempl      e mission : Service d’un CHU), • accompagn        ement au
+changement sur le déploieme         nt de solutions impactant les métiers de nos      clients (exemple de
+mission : transfert de technol      ogie industriel), • diagnostique organisation     el et amélioration de
+la gestion des compétences d        es équipes du client (exemple de mission : D      SI dans l’industrie
+Navale),
+• schémas directeurs SI.
+PROFIL RECHERCHE
+De formation Bac+5, scientifiq      ue, commerce ou bi-diplôme, vous :
+• possédez une bonne capacit        é d’analyse et de synthèse,
+• êtes autonome avec un espr        it d’initiative et avez un bon relationnel,
+• faites preuve de rigueur dan      s le suivi des dossiers et capacité d’adaptati    on
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 26
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CONSULTAN                     T TECHNICO FONCTIONNEL SA                        P(H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Le pôle d’excellence Package        Based Solutions (PBS) regroupe l’ensemble d      es compétences ERP
+fonctionnelles et techniques d      e Capgemini, dont SAP. Ses équipes de  con       sultants interviennent
+auprès de clients de tous sect      eurs
+sur des projets de mise en oe       uvre dans différents domaines.
+STAGE
+Intégré(e) dans une équipe pr       ojet, vous contribuez à la construction de la    solution fonctionnelle
+et/ou technique pour l’un de        nos clients dans le respect des méthodes Ca      pgemini. Vous
+articipez à la mise en oeuvre d     ’un projet d’intégration SAP dans les domai      nes suivants :
+• finance : modules FI, CO (ex      emple de mission : bascule SAP chez un indu      striel
+leader mondial dans la concep       tion et la production de systèmes de pulvér      isations/
+distributions),
+• logistique : modules MM, PP       , SD,
+• gestion immobilière : modul       e RE-FX
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• possédez des connaissances        sur un ou plusieurs modules SAP,
+• possédez des connaissances        fonctionnelles (finance et/ou logistique et/     ou gestion
+immobilière),
+• avez une bonne capacité d’a       nalyse et de synthèse,
+• faites preuve d’esprit d’initi    ative et êtes autonome,
+• avez un bon relationnel.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 27
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CONSULTANT
+TECH                                NICO FONCTIONNEL SAP(H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Capgemini possède une expér         ience de plus de   20 ans dans la mise en plac   e de SIG et regroupe
+une équipe pluridisciplinaire d     e plus de 100 personnes composée de Cons         ultants, d’Architectes,
+de Chefs de projet et de Déve       loppeurs spécialisés, ce qui fait de Capgemin    i le leader sur
+son marché.
+STAGE
+Dans le cadre de votre missio       n, vous utilisez la chaîne de production stand   ard du centre
+d’excellence et pouvez ainsi a      ppréhender la méthodologie et les activités      principales du
+rôle d’un Concepteur-Réalisat       eur-Intégrateur chez Capgemini.
+Vous intervenez sur les différe     ntes phases d’un projet de SI en environne       ment SIG :
+• de la traduction technique d      es besoins fonctionnels à la conception,
+• la réalisation,
+• les tests et recettes,
+• la mise en production,
+• la maintenance corrective o       u évolutive.
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• avez déjà une connaissance        de certains environnements techniques,
+• êtes intéressé(e) par le dom      aine de la géolocalisation en général et des     SIG en
+particulier,
+• appréciez le travail en équip     e et les challenges,
+• possédez un bon niveau d’a        nglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 28
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE                               INGENIEUR DEVELOPPEMEN                           T
+A                                   U LAB’INNOVATION(H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Dans le cadre de son Lab’Inno       vation et de sa DigitalFactory, Capgemini co     nçoit et réalise des
+projets baséssur des technolo       gies mobiles, tablettes, Web, Touch, Vocal,      Cloud et la
+mise en oeuvre de nouvelles i       nterfaces (Google Glass, montre connectée,       ...).
+Vous contribuez à nos projets       innovants qui nous permettent d’accompag         ner nos clients dans
+leur transformation Digitale.
+STAGE
+Vos missions portent sur :
+• la veille sur les nouvelles tec   hnologies et la recherche de solutions altern    atives,
+• la participation aux ateliers     de conception visuelle,
+• la conception technique et f      onctionnelle d’applications,
+• le développement de la logi       que-métier et des IHM (Interface Homme M         achine),
+• l’intégration avec le système     d’information,
+• les tests et correctifs et le p   ackaging des livraisons.
+PROFIL RECHERCHE
+• êtes motivé(e) pour monter        rapidement en compétences sur des techno         logies nouvelles,
+• appréciez le travail en équip     e et les défis,
+• possédez un bon niveau d’a        nglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 29
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE                               INGENIEUR DEVELOPPEMEN                           T
+A                                   U LAB’INNOVATION(H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Dans le cadre de son Lab’Inno       vation et de sa DigitalFactory, Capgemini co     nçoit et réalise des
+projets baséssur des technolo       gies mobiles, tablettes, Web, Touch, Vocal,      Cloud et la
+mise en oeuvre de nouvelles i       nterfaces (Google Glass, montre connectée,       ...).
+Vous contribuez à nos projets       innovants qui nous permettent d’accompag         ner nos clients dans
+leur transformation Digitale.
+STAGE
+Vos missions portent sur :
+• la veille sur les nouvelles tec   hnologies et la recherche de solutions altern    atives,
+• la participation aux ateliers     de conception visuelle,
+• la conception technique et f      onctionnelle d’applications,
+• le développement de la logi       que-métier et des IHM (Interface Homme M         achine),
+• l’intégration avec le système     d’information,
+• les tests et correctifs et le p   ackaging des livraisons.
+PROFIL RECHERCHE
+• êtes motivé(e) pour monter        rapidement en compétences sur des techno         logies nouvelles,
+• appréciez le travail en équip     e et les défis,
+• possédez un bon niveau d’a        nglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 30
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE INGENIEUR
+NOU                                 VELLES TECHNOLOGIES(H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Au sein de son unité dédiée         à l’Innovation et aux Nouvelles Technologi       es, composée de 650
+consultants, Capgemini
+fournit à ses principaux client     s du secteur Public, de la Santé, du Social,     des Transports et des
+secteurs Privés, des applicati      ons novatrices, axées sur l’intégration de sy    stèmes, l’architecture
+et les web services.
+STAGE
+Vous êtes intégré(e) dans une       équipe projet pour prendre part à une ou p       lusieurs
+phases de la construction d’u       n projet de système d’information utilisant le   s nouvelles
+technologies (Java/J2EE, .net,      PHP.).
+Vous travaillez notamment su        r :
+• la compréhension des besoi        ns du client et de son environnement techni      que et fonctionnel,
+• les spécifications détaillées     des fonctionnalités,
+• la conception technique, pr       ototypes,
+• les développements spécifiq       ues,
+• l’intégration et la validation.
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• avez déjà une connaissance        de certains des environnements techniques        tels que :
+Java, J2EE, JQuery, PHP, .net,      Drupal, REST, JSON, HTML5, IOS, Android,
+• êtes rigoureux(se) et doté(e      ) d’une bonne capacité d’écoute,
+• appréciez le travail en équip     e et les challenges,
+• possédez un bon niveau d’a        nglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 31
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAG                                E INGENIEUR EDITIQUE (H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage          ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po    ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu       s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr        eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan    cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa     rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie     l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Au sein de son entité dédiée        à l’Innovation et aux Nouvelles Technologies     , composée de 650
+consultants, Capgemini fourni       t à ses clients du secteur Public, de la Santé   du Social, des
+Transports
+et des secteurs Privés, des ap      plications novatrices, axées sur l’intégration   de systèmes,
+l’architecture et les web servi     ces.
+STAGE
+Vous êtes Intégré(e) au sein d      e l’équipe Intégration/Développement pour        prendre part à la
+conception, composition et p        ost composition de documents (HP Exstream        , Suite Inspire, l’open
+source - Birt).
+Vous pouvez participer à une        ou plusieurs phases suivantes :
+   L’analyse des impé              ratifs fonctionnels et techniques ;
+   L’accomplissement               de la prestation de conseils, d'assistance et    de monitorat auprès
+des clients ;
+   La phase de consei              l auprès du client en organisation et en arch    itecture éditique ;
+   La rédaction de ca              hier des charges et de dossier de spécificatio   ns techniques
+PROFIL RECHERCHE
+   De formation BAC + 2            à BAC + 5 en informatique, vous avez :
+   idéalement, une prem            ière  expérience en éditique
+   êtes rigoureux(se) et d         oté(e) d’une bonne capacité d’écoute ;
+   appréciez le travail en         équipe et les challenges ;
+   possédez un bon nivea           u d’anglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 32
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CON                           SULTANT EN ARCHITECTURE (                         H/F)
+Le Groupe Capgemini, un des         leaders mondiaux du conseil en manageme           nt et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires pou    r un effectif total
+de 120 000 personnes. Le gr         oupe est présent sur quatre continents et         plus de 34 pays
+(Europe, Amérique du Nord e         t région Asie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Au sein de son entité dédiée à      l’Innovation et aux Nouvelles Technologies,       composée de
+650 consultants, Capgemini fo       urnit à ses clients du secteur Public, de la Sa   nté du Social, des
+Transports et des secteurs Pri      vés, des applications novatrices, axées sur l’i   ntégration de
+systèmes, l’architecture et les     web services.
+STAGE
+Intégré(e) au sein d’une équi       pe d’architectes, vous êtes amené à particip      er à une ou
+plusieurs phases d’une missi        on d’architecture SI avec :
+• l’analyse de la solution glo      bale, sur les plans métier et architecture,
+• la réalisation de dossier d’a     rchitecture logique, applicatif ou technique,
+• le développement afférent
+L’environnement technique           du projet : portail, CMS, multicanal, BPM, CR     M, architecture
+de services (SOA), architectu       re n-tier, ESB, MDM, BRMS, moteur de règle        s, base de
+données, mobilité.
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• avez déjà une connaissanc         e des environnements techniques J2EE, mob         ilité, web
+services, SOA,
+• êtes rigoureux(se) et doté(       e) d’une bonne capacité d’écoute,
+• appréciez le travail en équi      pe et les challenges,
+• possédez un bon niveau d’         anglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 33
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CONSULTA                      NT EN ARCHITECTURE DIGITA                         LE DCX (H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division Services de Capge       mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Au sein de son entité dédiée à      l’Innovation et aux Nouvelles Technologies,       composée de
+650 consultants, Capgemini fo       urnit à ses clients du secteur Public, de la Sa   nté du Social, des
+Transports et des secteurs Pri      vés, des applications novatrices, axées sur l’i   ntégration de
+systèmes, l’architecture et les     web services..
+STAGE
+Dans le cadre du développem         ent de l’offre Digital Customer Experience (D     CX) visant
+à accompagner nos clients da        ns leur transformation digitale, vous êtes am     ené(e) à
+développer ou intégrer tout o       u partie des composants de cette offre.
+Vous participez à une ou plusi      eurs phases du développement d’un démon           strateur ou
+d’un projet :
+• analyse de l’état de l’art,
+• analyse de la solution global     e sur le plan architectural,
+• réalisation de dossier d’arch     itecture,
+• développements afférents e        t mise en oeuvre de solutions.
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• avez déjà une connaissance        des environnements techniques J2EE, mobil         ité, web
+services, SOA,
+• êtes rigoureux(se) et doté(e      ) d’une bonne capacité d’écoute,
+• appréciez le travail en équip     e et les challenges,
+• possédez un bon niveau d’a        nglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 34
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+STAGE CONSUL                         TANT EN ARCHITECTURE SECU                         RITE (H/F)
+Le Groupe Capgemini, un de           s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3        71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group          e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A         sie Pacifique).
+Capgemini, premier acteur eu         ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv         re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww        w.fr.capgemini.com
+Envie de technologies ? Envie        de Challenges ?
+L’innovation est au cœur de n        otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un          environnement multiculturel et multisectorie      l.
+La division Services de Capge        mini  vous propose un Stage de fin d’étude.
+CONTEXTE
+Au sein de son entité dédiée à       l’Innovation et aux Nouvelles Technologies,       composée de
+650 consultants, Capgemini fo        urnit à ses clients du secteur Public, de la Sa   nté du Social, des
+Transports et des secteurs Pri       vés, des applications novatrices, axées sur l’i   ntégration de
+systèmes, l’architecture et les      web services..
+STAGE
+Intégré(e) au sein d’une équipe d    édiée aux problématiques de Sécurité et co        nstituée
+d’architectes, de consultants et d   ’experts, vous êtes amené(e) à participer à       une
+ou plusieurs phases d’une missio     n d’architecture de Sécurité dans le cadre du
+développement de nos offres en       Sécurité des architectures logicielles, Audit     de sécurité
+des développements, Gestion de       s identités et Framework de Sécurité, Sécuri      té des
+mobiles, … Dans ce cadre vous :
+• analysez les risques,
+• définissez et mettez en œuvre      des solutions de sécurité,
+• sécurisez des développements       logiciels,
+• réalisez des maquettes.
+PROFIL RECHERCHE
+De formation Bac+5, vous :
+• avez déjà une connaissance         des environnements techniques J2EE, mobil         ité, web
+services, SOA,
+• êtes rigoureux(se) et doté(e       ) d’une bonne capacité d’écoute,
+• appréciez le travail en équip      e et les challenges,
+• possédez un bon niveau d’a         nglais.
+ADM31
+Contacts : sayana.long@capgemini.    com
+                                                                                       Page 35
+© Capgemini - 2015 Reproductio       n interdite sans autorisation écrite préalable
+Capgemini est signataire de la       charte de la diversité en entreprise
+
+
+
+
+STAGE CON                           SULTANT DEVELOPPEUR JAVA                          (H/F)
+Le Groupe Capgemini, un de          s leaders mondiaux du conseil en manage           ment et des services
+informatiques, représente 8,3       71 milliards d'Euros de chiffre d'affaires po     ur un effectif total de
+120 000 personnes. Le group         e est présent sur quatre continents et plu        s de 34 pays (Europe,
+Amérique du Nord et région A        sie Pacifique).
+Capgemini, premier acteur eu        ropéen de son secteur accompagne les entr         eprises dans la
+conception et la mise en œuv        re des solutions technologiques les plus avan     cées.
+Pour plus d’informations : ww       w.fr.capgemini.com
+Envie de technologies ? Envie       de Challenges ?
+L’innovation est au cœur de n       otre métier. Intégrez une équipe jeune et pa      rticipez à des
+missions innovantes dans un         environnement multiculturel et multisectorie      l.
+La division ADM de Capgemin         i  vous propose un Stage de fin d’étude.
+CONTEXTE
+L’entité ADM est une unité q        ui a pour vocation la gestion industrielle de     patrimoine applicatif pour
+nos  clients  grands  comptes       .  Les  principales  activités  sont  la  maint   enance  évolutive  et  de
+développement  d’évolutions         majeures  (50%), le support fonctionnel  (        40%)  et  la maintenance
+corrective et préventive (10%       ) des projets de nos clients.
+STAGE
+Votre mission se déroule dans       le cadre de la maintenance de logiciels et d      e développement
+d’évolutions majeures pour l’       un de nos clients sur des périmètres fonction     nels tels que la gestion de
+portefeuille grands comptes, l      a gestion d’offres de services, ...
+Vous participez à la conceptio      n et au développement de nouvelles fonctio        nnalités d’un applicatif
+métier. Immergé(e) au sein d’       une équipe, vous êtes formé(e) aux méthod         ologies de développement et
+aux processus qualité en vigu       eur à Capgemini.
+Le contexte technologique du        projet est : Java, J2EE, Oracle, ...
+PROFIL RECHERCHE
+De formation supérieure Bac+        4/5 en informatique en écoles ou université       s, vous :
+• aimez les challenges,
+• avez une expérience en dév        eloppement sur un langage de programmati          on,
+• maîtrisez l’anglais.
+Contacts : sayana.long@capgemini.   com
+                                                                                      Page 36
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+Tous nos stages sont des                                                             stages de pré-embauche d’une durée          de 6 mois
+indemnisé 1200                      € brut p                                         ar mois (Ticket restaurant, participati     on au frais de
+transport en commun)
+Le groupe Capgemini est                                                              signataire de la Charte de la diversité e   n entreprise
+Contacts : sayana.long@capgemini.   com
+                                                                                     Page 37
+© Capgemini - 2015 Reproductio      n interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+

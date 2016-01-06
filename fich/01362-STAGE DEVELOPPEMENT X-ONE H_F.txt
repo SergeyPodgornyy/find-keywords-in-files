@@ -1,0 +1,61 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE STAGE DEVELOPPEMENT X-ONE H/F EN STAGE
+6 MOIS.
+Date : 22/04/2014
+Référence de l’offre : ST/ITEC/97629-6253898
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+GBIS accompagne les grandes entreprises, les institutions financières, le secteur public, les family offices et
+particuliers fortunés en leur proposant les services de banque de financement et d'investissement, de banque
+privée, de gestion d'actifs et de métier titres. En associant expertise, principes innovants, services de conseil et
+haute qualité d'exécution, GBIS offre des solutions sur mesure en termes de levée de capitaux, financement,
+gestion de risque et de placement à ses clients émetteurs et investisseurs sur les marchés de dette et d'actions.
+Le département informatique (ITEC) a pour responsabilité, au plan mondial, de fournir aux lignes métiers et aux
+fonctions support de GBIS, l ensemble des moyens informatiques nécessaires à leur fonctionnement, à des
+conditions compétitives en termes de standards technologiques, de qualité de service et de coûts.
+Description du poste :
+Vos missions :
+Le stage proposé consiste à participer à la refonte complète du système d'information de la ligne métier des
+dérivés de taux.
+Basé sur une modélisation objet des produits financiers vanilles et exotiques et la constitution d'un Framework de
+services pour leur gestion.
+Ce projet est un projet stratégique pour GBIS. Au sein de l'équipe IRD vous interviendrez sur la refonte du
+framework d'accès aux données de la plateforme X-One pour les Produits IRD Vanille produits de trésorerie.
+Dans ce cadre et sous la responsabilité de votre tuteur, vous participez activement à la définition des modules
+avec le trading et les opérationnels ainsi qu'aux développements, aux tests unitaires, d'intégration et utilisateurs.
+Vous délivrez une forte valeur ajoutée au sein d'une équipe importante d'une quarantaine d'ingénieurs et maitrise
+d'ouvrages.
+Les apports du stage :
+Le stage vous   apportera une bonne connaissance :
+-Des produits financiers dérivés de taux (Swap, Cap, Floor, Swaption etc.) et money market (prêt/emprunt de
+trésorerie)
+-De l'architecture du SI de SGCIB
+-De .Net C#, ainsi que d'Oracle 11g
+-De l'organisation d'une banque d'investissement, et des fonctions respectives des Front Office, Middle Office et
+Back Office.
+Et si c'était vous?
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis rencontrerez un
+
+
+
+
+opérationnel pour un entretien de motivation.
+Durée du stage  : 6 mois
+Stage basé à  : Paris-La Défense
+Gratification selon grilles SG.
+Profil recherché :
+Votre profil H/F :
+Vous  êtes  étudiant  de  niveau  Bac                           +4/5  en  Écoles  d'ingénieur  ou  Université  avec  une  spécialisation  en
+Informatique.
+La connaissance de C#/.NET et Oracle/SQL est indispensable.
+Par ailleurs votre niveau d'Anglais est opérationnel.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6253898
+
+
+
+
+

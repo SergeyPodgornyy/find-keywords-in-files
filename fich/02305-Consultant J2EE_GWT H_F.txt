@@ -1,0 +1,50 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT J2EE/GWT H/F EN STAGE 6 MOIS.
+Date : 06/02/2015
+Référence de l’offre : ST-AD-3458-8802770
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Marseille 13000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                               Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                              2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Notre client, leader dans le transport maritime, souhaite procéder à la refonte et à l'optimisation de son
+système d'information. Le projet est mené conjointement par les agences de Capgemini Marseille et de
+Capgemini Rabat avec une équipe d'une quinzaine de personnes.
+"Dans le cadre de la mise en œuvre d'une application pour notre client, vous êtes intégré(e) à une équipe et
+intervenez sur les différentes parties de l'application.
+Les missions qui vous sont confiées sont les suivantes :
+* reprise de données,
+* édition de rapport,
+* conception technique et développement en relation avec le référent technique du projet,
+* tests de validation.
+L'environnement technique du projet est le suivant :
+JBOSS
+Hibernate/JPA, GWT, JAVA/J2EE, EJB3
+TALEND, BIRT
+Bases de données : Oracle.
+Profil recherché :
+De formation Bac+5 en Informatique, vous :
+* avez une première connaissance des technologies de développement Web J2EE (HTML, CSS, Java,…),
+* avez le sens du contact,
+* vous êtes rigoureux(se),
+* vous appréciez le travail en équipe.
+La connaissance des bases de données (Oracle) ou du framework GWT serait un plus.
+Cette mission vous offre la possibilité de :
+* découvrir la Méthodologie LEAN,
+* gagner en autonomie et proposer des solutions innovantes dans un contexte projet de grande ampleur,
+* rejoindre un projet avec un fort contexte International (Maroc),
+* monter en compétences sur des technologies récentes et attractives.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8802770
+
+
+
+
+

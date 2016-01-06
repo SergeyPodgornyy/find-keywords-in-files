@@ -1,0 +1,42 @@
+﻿« Evolution du logiciel SPOT »
+Sujet
+Le stage porte sur la réalisation d’évolutions sur l’application SPOT de gestion des TMA Infotel.
+Le stagiaire interviendra au sein d’une des plates-formes de développements Infotel, pour mener les
+travaux suivants :
+­                                                                                                       Prise de connaissance du logiciel SPOT
+­                                                                                                       Prise de connaissance des évolutions attendues
+­                                                                                                       Prise de connaissance des normes et standards applicables au projet
+­                                                                                                       Analyse technique et fonctionnelle des évolutions
+­                                                                                                       Rédaction/maj des dossiers de conception
+­                                                                                                       Développements et tests
+­                                                                                                       Rédaction des journaux de tests
+­                                                                                                       Assistance à la recette
+­                                                                                                       MAJ de la documentation logiciel
+Environnement et compétences requises :
+Sous la direction d’un chef de projet, vous serez impliqués dans toutes les phases du   développement
+d’un logiciel utilisant des technologies Web telles que :
+    langages PHP5
+    base de données MySQL
+Vos études supérieures en informatique vous confèrent une bonne connaissance :
+    des méthodologies : UML, etc.
+    de la programmation : PHP5, Java, JEE, etc.
+    des outils associés : Eclipse, etc.
+    des bases de données : MySql, Oracle, etc.
+Durée du stage - 4 à   6 mois
+Lieu du stage
+Stage à l’agence du Mans
+Prolongement du stage
+Le stage pourra être suivi par un emploi (CDI) à Infotel.
+Votre candidature
+Postulez en envoyant votre candidature par courrier électronique à l’adresse ci-dessous, en
+précisant vos dates de stages :
+Infotel Ouest Le Mans
+2, promenade d’Andromède
+72100 Le Mans
+Tél. +33 (0)2 43 57 15 70
+recrutement-rennes@infotel.com
+
+
+
+
+

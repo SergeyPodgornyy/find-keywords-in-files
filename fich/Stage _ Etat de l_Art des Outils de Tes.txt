@@ -1,0 +1,50 @@
+﻿Stage  / État de l'Art des Outils de Tes
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226607
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899063
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 4 à 6 mois.
+Au sein de Cassidian CyberSecurity, le logiciel développé dispose de capacités de communication
+afin de récupérer des informations sur l'état de sécurité de systèmes d'information et d'offrir des
+services permettant de gérer les incidents de sécurité.
+Ce logiciel est installé et configuré via des outils d'aide à la configuration développés par l'équipe
+Support.
+Le but de ce stage est de proposer une solution qui permettrait de réaliser des tests automatiques sur
+ces outils. Vous procéderez à un vrai travail de recherche et d'analyse pour élaborer la meilleure
+solution maintenable dans le temps.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Prendre connaissance de notre application et des outils d'aide à la configuration,
+- Réaliser un état de l'art sur les technologies de tests automatiques,
+- Spécifier l'outil de test,
+- Définir l'architecture de l'outil de test,
+- Développer l'outil de test,
+- Tester et valider l'outil de test.
+Le travail réalisé s'intègrera dans la démarche qualité du projet (documentation, process de
+développement, tests).
+PROFIL  :
+Bac+5 IT
+
+
+
+
+culture générale sur les systèmes, réseaux et sécurité ainsi que sur Linux/Windows
+travaille en équipe et excellent relationnel
+Anglais:intermédiaire
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899063
+
+
+
+
+

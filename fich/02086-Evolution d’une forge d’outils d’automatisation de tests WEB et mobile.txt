@@ -1,0 +1,42 @@
+﻿Sujet  :  Evolution  d’une  forge  d’outils  d’automatisation  de  tests  WEB  et  mobile
+Lieu  :                                                                                                   Durée  :       Responsable  stage  :   Référence  :
+Cesson­                                                                                                   6 mois         Mickaël  B.             stage  n°7
+Sévigné
+(Rennes)
+Objectif
+Fédérer  la  mise  en  place  d’une  plateforme  d’outils  d’automatisation  de  tests.
+Cet  environnement  permettra  de  s’adapter  à  différents  scénarios  que  ce  soit  en  web,
+IOS,  Android,  W8  ou  bien  BlackBerry.
+Les  logiciels  OpenSource  permettent  d’automatiser  les  tests.  Le  langage  préconisé
+Technologies
+dans  le  cadre  du  stage  est  le  Java  et  Python.
+Android
+De  plus,   vous  devez  avoir  un  regard  critique  et  intéractif  sur  le  travail  demandé  (choix
+IOS
+techniques   et   spécifications   fonctionnelles)   et   proposer   des   améliorations   en
+Java
+Python                                                                                                    conséquence.
+Logiciels de tests
+Jenkins
+Profil  recherché
+De  formation  Bac  +5  en  école  d’ingénieur  ou  équivalent.
+Intérêt  pour  les  technologies  mobiles  et  web.
+Connaissance/expérience  en  Java,  php,  html,  Android,  IOS.
+Compétences  humaines  :
+   Esprit  d’équipe.
+   Bonne  gestion  de  temps  et  des  priorités.
+   Force  de  proposition.
+Une  maîtrise  de  l'anglais  technique  sera  appréciée.
+Page 1
+
+
+
+
+Contact  recrutement
+Pour  candidater  :  http://orangenrs.profils.org
+Page 2
+
+
+
+
+

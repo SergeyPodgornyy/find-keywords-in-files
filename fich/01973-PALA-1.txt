@@ -1,0 +1,34 @@
+﻿Conseiller, Accompagner, Concevoir, Diffuser en
+ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Ingénierie logicielle
+   Titre : Développement Web CMS Drupal
+   Lieu : Mayenne                                                                                              Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                                       Date : début 2015
+   Rémunération : stage indemnisé                                                                              Référence : PALA-1
+Sujet : Vous prendrez part au développement d’un projet Web dans l’équipe CMS. Cette équipe est
+composée de 18 personnes (chefs de projets, ingénieurs logiciels et développeurs).
+Ce projet est réalisé pour l’un de nos clients, autour de l’outil de gestion de contenu Drupal, et de son
+module de boutique en ligne : Drupal commerce.
+Ce stage vous permettra de découvrir les différentes phases d’un projet web, ainsi que les différents profils
+qui sont impliqués dans sa réalisation (ergonomes, graphistes, testeurs et ingénieurs système).
+L'objectif du stage sera le suivant :
+   Analyser les besoins fonctionnels du client ;
+   Participer au paramétrage de Drupal et des modules complémentaires ;
+   Développer de nouveaux modules Drupal (PHP) ;
+   Participer à la recette interne et à la livraison.
+Environnement :
+   LAMP (linux, apache, MySQL, PHP)
+   Drupal
+   JQuery
+   HTML/CSS
+Vous    participez    au    projet    dans    l’équipe
+développement,  accompagné  par  un  chef  de
+projet.
+
+
+
+
+

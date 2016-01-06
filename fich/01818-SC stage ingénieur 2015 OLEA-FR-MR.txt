@@ -1,0 +1,49 @@
+﻿Logiciel embarqué - Stage
+REF : SW-Q1_2015
+Sujet: Développement de logiciel embarqué pour le microcontrôleur OLEA
+Période: 6 mois à partir de début 2015
+Scaleo chip est une société "fabless" de semi-conducteurs basée à Sophia-Antipolis qui conçoit,
+développe et vend des solutions complètes et à forte qualité ajoutée, associant des systèmes-sur-
+puce  (System-on-Chip-SoC)  et  leur  logiciel  embarqué  pour  l'industrie  de  l'automobile  et  de
+l'électronique.
+L'offre de produits de Scaleo chip inclut des microcontrôleurs automobiles standards destinés aux
+groupes  motopropulseurs,  au  contrôle  de  l’habitacle,  et  aux  secteurs  de  l’information  aux
+conducteurs et de l’info-divertissement. La société tire profit de sa technologie et de son savoir -
+faire en proposant également la fabrication et le développement sur mesure de produits semi-
+conducteurs pour les applications où la qualité est essentielle, tels que les marchés de l'industrie et
+de la défense.
+Résumé :
+Le périmètre de ce stage est le développement de logiciel embarqué sur le SoC automobile OLEA de
+Scaleo chip.
+Le stagiaire sera amené à développer et à mettre en place des notes d'applications afin de simplifier
+et faciliter les développements logiciels. Pour chacune des fonctionnalités majeures du composant,
+une note d'application sera fournie avec du logiciel source en langage C et un guide d'utilisation
+associé.
+Le  stagiaire  utilisera  une  carte  de  développement  du  composant  automobile  OLEA  avec  un
+environnement logiciel complet.
+Phases de développement du stage :
+   Phase d'apprentissage sur l'architecture microcontrôleur, ses fonctions et l'environnement
+logiciel ;
+   Documentation des notes d'applications ;
+   Implémentation et debug des notes d'applications ;
+   Test et validation ;
+   Intégration et livraison ;
+   Support Scaleo chip clients/partenaires.
+Compétences impactées :
+   Langage C ;
+   Architecture ARM;
+   Architecture microcontrôleurs et protocoles de communication automobile (CAN, LIN,…) ;
+   Développement logiciel embarqué ;
+   Outils de développement pour ARM.
+Si vous êtes intéressés, merci d’envoyer votre candidature à: internship.2015@scaleochip.com
+en précisant dans le sujet du message le mot clé : SW-Q1_2015
+Scaleo chip -
+1681, route des Dolines
+Les Taissounières - HB3
+06 560 Valbonne, Sophia Antipolis
+web : http://www.scaleochip.com
+
+
+
+
+

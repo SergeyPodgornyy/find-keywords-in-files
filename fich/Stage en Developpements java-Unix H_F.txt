@@ -1,0 +1,63 @@
+﻿Stage en Développements java-Unix H/F
+Société Générale France
+REFERENCE  :  STSM/ITEC/92286
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4923520
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION DU POSTE  :
+Votre environnement
+Ce stage se déroule au sein de la Direction des systèmes d'information de la Banque de
+Financement et d'investissement
+(SGCIB/ITEC) de la Société Générale.
+Vous etes intégrés au département IT de SG-CIB en charge du système d information de calcul et
+de suivi du risque de crédit sur opérations de marché : au sein de l'équipe projet KARE (Kondor+
+Analysis Reportings and Exposures) dont l objectif est de fournir un outil centralisé de calcul du
+risque de marché pour les petites entités SGCIB et entités hors-SGCIB.
+En collaboration avec l'entité en charge des risques (son client), l'équipe est en charge de la
+conception et implémente les solutions répondant aux nouveaux besoins en termes de :
+-Valorisation des transactions de gré à gré sur produits vanilles;
+-Calcul des indicateurs de risque de marché (VaR historique, STT et sensi) basé sur des scénarios
+externes (chocs)
+-Alimentation des outils centraux de consolidation des risques et de gestion des limites de marché
+Votre stage
+vous serez amené à participer aux développements des différents modules liés au projet KARE.
+Vous contribuez aux  tâches suivantes :
+- Conception technique, développements (java), tests techniques et documentation d évolutions
+applicatives
+- Réalisation d études d amélioration des outillages des équipes de développement et maitrise d
+ouvrage (expl:automatisation des tests). Le cas échéant, réalisation de développements internes.
+
+
+
+
+- Réalisation des reporting de qualité des différents modules impactés.
+Votre profil
+étudiant(e) de niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation en Système
+d’information.
+niveau d’anglais opérationnel et bonne connaissance du Pack Office.
+à l’aise avec: java, SQL, Oracle, Unix.
+des connaissances en Sprint et Hibernate est un plus.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+vous êtes étudiant(e) bac+4/5 avec une spécialisation en Système d’information.
+anglais opérationnel et bonne connaissance du Pack Office.
+à l’aise avec: java,SQL, Oracle,Unix.
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4923520
+
+
+
+
+

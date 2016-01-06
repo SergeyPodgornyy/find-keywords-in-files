@@ -1,0 +1,45 @@
+﻿Offre de stage : développement logiciel
+Environnement
+Le stage se déroulera au rectorat de l'académie de Rennes, au sein du service informatique académique.
+Le service informatique assure la maîtrise d’œuvre de l’informatique académique. Il est piloté par un chef de service
+assisté d'un adjoint et des 6 chefs de département (systèmes réseaux, assistance de proximité, service aux utilisateurs,
+systèmes d'information, projets et produits nationaux et développement des TIC).
+Le service informatique de l'académie de Rennes développe l'espace numérique de travail (ENT) Toutatice. Il est le lieu
+de convergence des usages au sein de la communauté éducative au sens large (académie, établissements, familles,
+collectivités). Il permet l’échange d’informations dans l’ensemble de l’organisation, il fournit les ressources ou services
+numériques dont une personne a besoin pour travailler, apprendre ou, en ce qui concerne les familles, accompagner la
+scolarité de leur enfant.
+Cet ENT a pour objectif de satisfaire les besoins de travail collaboratif, de réseau social d'entreprise, de publication de
+contenus WEB en même temps que d'intégrer des processus métiers et services tiers répondant aux besoins des
+directions académiques.
+Le stagiaire sera intégré dans l'équipe de développement de l’espace numérique de travail Toutatice, constituée de 5
+ingénieurs en développement logiciel.
+Descriptif
+L'objectif du stage consiste à réaliser les développements d'intégration du logiciel de gestion de cours open source
+Moodle (www.moodle.org) dans l'architecture applicative de l'environnement numérique de travail Toutatice, constituée
+d'un portail J2EE open source basé sur Osivia Portal (www.osivia.org) et de la plateforme de gestion de contenu J2EE
+Nuxeo (www.nuxeo.org).
+Réaliser les interfaces logicielles de Moodle (www.moodle.org) afin d'inter-opérer avec Nuxeo (www.nuxeo.org) :
+•                                                                                                                             développer un « plugin » de dépôt de fichier interfacé avec les espaces de personnels et de travail de Nuxeo.
+•                                                                                                                             développer un « plugin » portfolio permettant de sauvegarder les ressources et contributions   de l'usager dans
+son espace de stockage personnel Nuxeo.
+•                                                                                                                             intégrer l'espace personnel de Nuxeo dans Moodle
+                                                                                                                                                                                                                                                Réaliser les interfaces portail de présentation des informations Moodle concernant l'usager connecté :
+•                                                                                                                                                                                                                                                                                                                                                        développer une portlet JSR286 consommateur des webservices de Moodle permettant d'afficher les cours
+                                                                                                                              concernant l'individu connecté
+•                                                                                                                             développer une portlet JSR286 de création de cours depuis le portail permettant aux enseignants de l'académie
+de créer des cours selon leurs besoins et d'inviter les classes qui les concernent.
+Compétences attendues
+Maîtrise du langage PHP,
+Bonne connaissance de Javascript, SOAP, REST, JSON
+Connaissance de JAVA, J2EE, Spring, Eclipse, Maven
+Contact
+Olivier Adam (olivier.adam@ac-rennes.fr)
+Service informatique de l'académie de Rennes, Rectorat de Rennes
+96 rue d'Antrain
+35000 Rennes
+
+
+
+
+

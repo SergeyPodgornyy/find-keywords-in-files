@@ -1,0 +1,46 @@
+﻿Association Les Vieilles Charrues
+Aux dépendances de Persivien
+BP 204
+29 834 CARHAIX Cedex
+Objet : Offre de Stage
+Dans le cadre de la mise en œuvre des moyens informatiques et télécom nécessaires pour
+l’organisation du festival des Vieilles Charrues, l’association des Vieilles Charrues recherche un
+stagiaire en gestion/administration de parc informatique et déploiement de réseaux IP.
+Mission :
+Ses principales missions seront :
+    Supervision des serveurs de production.
+    Maintenance et évolution des infrastructures.
+    Sécurisation du réseau.
+    Gestion du parc informatique.
+    Veille technologique permanente.
+    Formation et assistance utilisateur
+    Inventaire et maintenance du parc destiné au festival
+    Elaboration du planning de montage et démontage des moyens informatiques pour le festival
+    Environnement technique :
+o   Serveur en production : Windows 2008 R2, Debian 6, Promox, VSphere
+o   Parc Informatique : Windows Xp, Vista, Seven, Mac Os 10.6 à 10.8
+Profil :
+   Formation supérieure en informatique au minimum Bac +2.
+   Compétence en administration de systèmes et des réseaux.
+   Compétence dans les technologies Wifi.
+   Force de proposition, autonome, réactif, disponible.
+   Certaines interventions nécessiteront un travail le weekend.
+Informations complémentaires :
+    Période : Début avril à fin juillet (4 mois), Pré stage possible.
+    Type de contrat : Stage conventionné.
+    Rémunération : Indemnité de stage.
+    Le permis B est indispensable.
+Les personnes intéressées doivent envoyer un CV accompagnée d’une lettre de motivation à Mr
+OGER Frédéric avant le 31 Janvier 2014.
+Par mail : informatique@vieillescharrues.asso.fr.
+Par courrier : Association Les Vieilles Charrues - Aux dépendances de Persivien - BP 204 - 29 834
+CARHAIX Cedex.
+Association Les Vieilles Charrues - Aux dépendances de Persivien - BP 204 - 29 834 CARHAIX Cedex
+Tel : 02 98 99 25 45 / Fax : 02 98 99 25 46
+Siret 398 143 479 000 69 - APE 9001Z / Licences de Spectacles 102 9168 - 102 9051 - 102 9052
+www.vieillescharrues.asso.fr
+
+
+
+
+

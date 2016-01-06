@@ -1,0 +1,34 @@
+﻿INTERSHIP R&D- SEARCH ENGINE (m/f)
+Our Mission
+The  LeGuide  Group,  operator  of  online  shopping  guides,  comparison  websites,  shopping  search
+engines  and  platforms  for  consumer  ratings,  is  Europe’s  leader  with  22  million  unique  visitors
+(ComScore  5/2013). The group and its subsidiaries follow a multi-site strategy and operate in  14
+European countries.
+Your Mission for                                                                                              IT Department
+You  will  support  the  search  engine  team  Manager,  working  on  various  projects  to  improve  our
+shopping search engine.
+You will be responsible for the following tasks:
+• Data-mining on a large number of e-commerce products offers  (artificial intelligence, statistics,
+image processing)
+• Use of image processing software
+• Storage of data in Hadoop / HBase and standard SQL
+• Contribution to the development of tools to improve the relevance mainly in Python
+• Assessment tests on the Search Engine
+• You might have to work with C++ or Java, depending on the team’ needs
+Your skills & experiences
+   Currently pursuing a 4th year of an advanced degree in Computer Science or Engineering
+   Knowledge in C++ and/or Java   and ideally scripting language (Python, Shell)
+   Your reactivity, your desire to participate in a wide technical project, your communication skills
+and your discipline will be an asset to thrive in this mission.
+   You have a professional level in English.
+Timing                                                                                                        Starting in January or February, during 6 month
+Remuneration and advantages                                                                                   competitive salary, 50% pass navigo, meal vouchers
+Contract type                                                                                                 Full-time internship (with convention)
+Place of Work                                                                                                 Paris
+Contact                                                                                                       Paris-jobs@leguide.com
+Pour en savoir plus sur LeGuide Group visitez http://www.LeGuideGroup.com
+
+
+
+
+

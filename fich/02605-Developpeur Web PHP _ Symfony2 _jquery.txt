@@ -1,0 +1,47 @@
+﻿PARIS&CO INCUBATEURS RECRUTE UN/UNE DÉVELOPPEUR WEB PHP / SYMFONY2 /JQUERY
+EN STAGE DE 4 À 6 MOIS.
+Date : 23/07/2015
+Référence de l’offre : Ref. 0715‐02-10570747
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : Paris 75013, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+ideXlab a l'ambition de s'imposer comme le leader européen de l'intermédiation en innovation ouverte et le
+seul acteur offrant une solution web exploitant l'Open Data.
+Fondée début 2011 ideXlab a développé un outil unique de recherche d'experts et une première version de
+son application utilisée par de grands groupes industriels et des PME innovantes.
+Nous recherchons un stagiaire qui se formera et contribuera à un projet européen impliquant des partenaires
+académiques prestigieux et des sociétés de pointe dans le domaine d'Analyse de Textes et Extraction
+d'Information (France, Angleterre, Slovénie,Allemagne,Italie,Grèce,Turquie).
+Description du poste :
+En tant que Stagiaire en développement logiciel vous serez partie prenante au projet de développement
+(Symfony 2 et jquery) d'une nouvelle génération de service en ligne d' «open innovation».
+Au sein d'une petite équipe,
+* Vous serez impliqué dans le processus de réflexion et de spécifications
+* Vous participerez au développement de nouveau modules de notre solution
+* Tests et recette
+* Vous pourrez développer vos compétences en Symfony2 et jquery
+Profil recherché :
+Vous êtes étudiant ingénieur ou dans un cursus infomatique, Bac +4 ou Bac+5
+Vous êtes Curieux(se) et avez une réelle envie d'apprendre. Vous avez des connaissance et de l'intérêt pour
+le web et les architectures orientées services (WS/API).
+Vous êtes créatif(ve) et souhaitez être force de proposition.
+Compétences recherchées :
+● Bon niveau en PHP / POO
+
+
+
+
+● Bon niveau en HTML / CSS / JS
+● Expérience ou projets perso sous Symfony2
+● Connaissance GIT appréciée
+● Bon niveau d'anglais
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10570747
+
+
+
+
+

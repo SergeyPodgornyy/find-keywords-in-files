@@ -1,0 +1,31 @@
+﻿JCDECAUX RECRUTE UN/UNE STAGE - ASSISTANT(E) CHEFS PROJETS H/F EN STAGE 6 MOIS.
+Date : 18/05/2015
+Référence de l’offre : 2015-12317-9730765
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Neuilly 92200, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+N°1 mondial de la communication extérieure, JCDecaux, avec 11 900 collaborateurs, est présent dans plus de
+60 pays. Seul acteur mondial à exercer exclusivement le métier de la communication extérieure et à en
+développer toutes les activités : mobilier urbain, publicité dans les transports et affichage grand format, il a
+réalisé un chiffre d'affaires de 2 813 millions d'euros en 2014.
+Description du poste :
+Vos principales missions sont le :
+* CRM : Nettoyage de base de données, implémentation de structures de données, refonte des droits d'accès,
+monitoring de l'activité  (amélioration des requêtes, création de nouvelles requêtes), communication des
+résultats obtenus
+* Digital : Création d'une base de données Access
+* Reporting  : Monitoring technique  (analyse et correction de fichiers), création de requêtes de contrôle
+(Excel, outil de reporting), communication des résultats obtenus.
+Profil recherché :
+Bac + 4/5 (Ecole de commerce / Gestion ou ingénieur),
+Maîtrise des outils de gestion de données : Access, Excel, Microsoft Dynamics…)
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9730765
+
+
+
+
+

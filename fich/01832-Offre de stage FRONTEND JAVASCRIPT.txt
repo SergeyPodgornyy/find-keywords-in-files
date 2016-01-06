@@ -1,0 +1,58 @@
+﻿Aquafadas est une société innovante, leader sur le marché de l’édition numérique
+sur tablettes et smartphones. Forte des technologies et de l’expérience développées
+au cours de ces années, elle est aujourd’hui parmi les entreprises technologiques en
+plus  forte  croissance  en  Europe.  Aquafadas  appartient  au  Groupe  Japonais
+Rakuten, leader mondial de l’ e-commerce (Priceminister, Viber, Viki…).
+Aquafadas se positionne comme une société de référence partenaire technologique
+des professionnels de l’édition, de la presse et de la communication en général à
+l’assaut du marché numérique. Elle a développé des partenariats privilégiés avec
+des éditeurs comme Bayard, Lagardère, Mondadori, des agences comme Publicis et
+Havas, des entreprises comme Air France, EDF et Véolia, elle est aussi présente
+l’international avec des partenaires comme Cambridge University, Egmont, Shueisha
+et Hürriyet.
+Découvrez les outils Aquafadas gratuitement sur http://www.aquafadas.com.
+Stage (H/F)   - Développeur Frontend Javascript
+Projet:
+Générateur de kiosk (web / desktop) à l’aide d’une application web.
+Un kiosk (web / desktop) est une application (web / desktop) permettant au client final d’un
+éditeur donné, d’acheter et de lire des parutions de magazines, journaux, etc.
+Votre rôle :
+Dans ce stage, on demandera au candidat de travailler sur l’application web qui permettra
+de  générer  et  customiser  des  kiosks  webs.  Un  travail  supplémentaire  sera  surement
+demandé sur le générateur même. Les kiosks web générés devront pouvoir être visible à la
+volée.
+Vos missions :
+Comprendre le fonctionnement du générateur actuel.
+Implémenter des nouveaux mécanismes de génération.
+Développer l’application web.
+Intégrer les ressources graphiques de l’application web et soigner l’expérience utilisateur, en
+contact direct des web designers.
+Votre profil :
+De Formation Bac+3 minimum, vous maitrisez les languages suivants : HTML5, CSS3,
+JS.
+La  connaissance  des  notions/outils  comme  NodeJS;  Express;  AngularJS;  Bootstrap;
+Grunt, Bower, Yeoman sera fortement apprécié.
+Qualités recherchées:
+Créativité, passion et curiosité.
+Autonomie.
+Bonne abstraction conceptuelle, capacité de conception sur de l’existant ou du nouveau.
+Esprit analytique et rigoureux.
+
+
+
+
+Veille technologique.
+Actif sur les réseaux sociaux techniques tels que Github, Coderwall, StackOverflow.
+Conditions:
+Stage à pourvoir dès que possible pour une durée de 3 mois minimum.
+Lieu : Montpellier, Quartier du Millénaire.Gratification de stage selon la loi en vigueur.
+Vous souhaitez participer à l'aventure d'Aquafadas et concevoir la technologie de demain
+dans le domaine de la lecture de livres, magazines, bandes-dessinées, contenus riches sur
+tablettes ?
+N'hésitez plus, rejoignez nous !
+Envoyez nous votre candidature (CV + LM) à l’adresse suivante : stages@aquafadas.com
+
+
+
+
+

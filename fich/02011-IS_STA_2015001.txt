@@ -1,0 +1,45 @@
+﻿Réf : IS_STA_2015001                                                                                                   Date :   25/11/2014
+                                                                                                                       Proposition de Stage
+Responsable de stage :                                                                                                 Email : contact@isit.fr
+Franck MONTAGNE                                                                                                        Téléphone : 05 61 30 69 00
+                                                                                                                       Lieu de stage : Région Toulousaine (31)
+Niveau du stage : Bac + 5
+Durée du stage : 5 à 6 mois
+Sujet du stage
+Titre :
+Développement d'un logiciel de surveillance de réseau industriel CANopen avec enregistrement de données sur
+plateforme Linux Embedded.
+Objectifs :
+Un grand nombre de nos clients utilisent des réseaux de communications en automatisme à base de bus CAN et de
+protocole CANopen. Afin de faciliter la maintenance et la détection de pannes, ils souhaiteraient pouvoir
+surveiller/analyser leur réseau en temps-réel et détecter les alarmes ou les dysfonctionnements qui s’y produisent.
+Notre objectif est donc de développer, sur une plateforme ARM à base de Linux Embaqué, un prototype   de système
+de surveillance de réseaux industriels CANopen couplé à un serveur web de consultation et un système d’envoi
+d’email sur évènements.
+Durant ce stage, I.S.I.T. formera le stagiaire aux différents standards ou normes en corrélation avec ce domaine
+d'activité ainsi que leurs outils :
+ Plateforme électroniques embarquées
+ Bus CAN : Bus de communication utilisé dans le monde de l’automobile, l’industrie, l’avionique,…
+ Protocole CANopen : Protocole de communication industriel
+ Analyseur de réseaux CAN
+Nature du travail :
+Le travail consistera à :
+-  Mettre en place la plateforme de développement Linux Embarqué pour la plateforme choisie et valider son
+fonctionnement
+-  Rédiger les documents de conception (archi + détail) du logiciel à développer en accord avec le cahier des
+charges et le responsable projet.
+-  Réaliser le programme.
+-  Mettre en place les tests fonctionnels (documentation et banc de test) et les réaliser.
+Compétences requises : Langage de développement C / C++, programmation web, architecture Linux, anglais. Des
+notions sur le bus de terrain CAN seraient un plus.
+Prolongation possible du stage :   Oui
+A propos de ISIT :
+La société ISIT est devenue en 20 ans d'existence, un des leaders sur le marché des Services et Outils à destination
+des acteurs du monde du Développement Temps Réel Embarqué, Informatique Industrielle, Test et
+Programmation de cartes, Tests et Validation de logiciel sécuritaire.
+Pour plus d'information, vous pouvez consulter notre site : www.isit.fr
+
+
+
+
+

@@ -1,0 +1,99 @@
+﻿Offre de stage
+15/10/2014                                                                                                 Stage KEREVAL
+   Offre de stage
+KEREVAL, laboratoire de test, spécialisé dans la qualification de composants, solutions et architectures
+logicielles, propose de rejoindre son équipe pour le sujet de stage suivant :
+Intitulé du stage                                                                                          Description
+                                                                                                           IHE est une association mondiale d’entreprises qui
+Conception et Modélisation d’un outil de validation de
+                                                                                                           fournissent des solutions technologiques pour améliorer
+documents XML basés sur le standard IHE XDS
+                                                                                                           l’interopérabilité entre les systèmes d’information de la
+                                                                                                           santé.
+Objectifs
+    Conception d’une solution de validation générique                                                     Dans le cadre du transport des documents cliniques,
+des documents XDS                                                                                          IHE a conçu un standard s’appelant XDS, et qui est
+                                                                                                           implémenté par des centaines de logiciels médicaux.
+    Proposition d’une interface graphique de
+                                                                                                           Ce standard est basé sur des webs services et des
+configuration des validateurs
+                                                                                                           structures de données XML. Ces structures de données
+    Implémentation et test complet de l’outil de                                                          XML diffèrent en fonction du contexte de transport des
+validation                                                                                                 documents cliniques. Chaque contexte de transport est
+                                                                                                           décrit par un scénario IHE. On dénombre une vingtaine
+A qui s’adresse cette offre ?                                                                              de structures XDS définies par IHE auxquelles
+                                                                                                           s'ajoutent de nombreuses extensions nationales et
+Ce stage vise les stagiaires en fin d’études, bac + 4/5,                                                   régionales.
+en master ou ingénierie informatique.
+Avoir une option dans le domaine de la santé serait un
+                                                                                                           Le stage a pour but de fournir un outil configurable
+plus.                                                                                                      permettant de créer des validateurs de structure de
+                                                                                                           documents XDS, en se basant sur un modèle de
+Période et durée
+                                                                                                           description des structures XDS. Quelques essais de
+                                                                                                           modélisations des structures XDS ont déjà été réalisés
+Durée du stage : 6 mois
+par l’équipe IHE.
+A pourvoir dès que possible
+Environnement                                                                                              Le travail du stagiaire sera de les faire évoluer vers
+                                                                                                           une description plus générique et plus robuste, puis
+Le stage est proposé au sein de l’équipe IHE en charge                                                     d’exploiter les modèles pour générer un rapport de
+du développement de la plateforme de test                                                                  validation.
+d’interopérabilité de systèmes d’information de santé :
+Gazelle (http://gazelle.ihe.net).
+                                                                                                           Le stagiaire sera intégré dans l’équipe de production
+La plateforme Gazelle est une suite d’applications Web
+                                                                                                           IHE. Les travaux réalisés pendant le stage viendront
+sous licence apache2. Accessibles 24 h/ 24, 7 j/7 la
+                                                                                                           enrichir la plateforme Gazelle et ses outils de validation
+plateforme comprend:
+                                                                                                           de la conformité.
+    des outils de vérification de la conformité (HL7,
+Dicom, CDA…)
+                                                                                                           Différentes  technologies   seront  utilisées  durant   ce
+    des simulateurs
+                                                                                                           stage. Le candidat devra être capable de travailler dans
+    des outils de gestion de tests d’interopérabilité…                                                    un environnement Linux. La connaissance du langage
+                                                                                                           Java et des technologies JEE sera considérée dans le
+                                                                                                           choix du candidat.
+Environnement de production: Linux, eclipse, svn
+                                                                                                           Il/Elle  doit  être  capable  de  lire  et  de  rédiger  de  la
+Technologie de développement : Java / JEE / Jboss /
+                                                                                                           documentation en anglais.
+seam/ maven / UML / XML / XSD
+Base de données : Postgresql
+Environnement de test : Junit
+Connaissance Linguistique : Anglais (indispensable en
+lecture / écriture)
+1-Public                                                                                                   Document validé                                                   Page 3 / 4
+
+
+
+
+Offre de stage
+15/10/2014                  Stage KEREVAL
+Identifiant du stage        Apport pour le stagiaire
+                            Au cours de ce stage, le candidat aura l’opportunité de
+                            travailler dans un milieu professionnel anglophone et de
+ODS-IHE-XDS-2015-01
+                            monter en compétence sur :
+                                les technologies JAVA et JEE (jsf, jboss, seam,
+                            richfaces,   hibernate, etc.)
+                                les technologies de modélisations et les
+Contact
+                            technologies XML
+SAS KEREVAL                 Une maîtrise d’un environnement classique de
+4 rue Hélène Boucher        production sera aussi acquise ainsi que celle de
+                            l’environnement Eclipse et de l’outil de compilation
+Z.A Bellevue
+                            Maven. Ce stage permettra aussi au stagiaire de se
+35 235 THORIGNE FOUILLARD
+                            familiariser avec la méthodologie agile.
+Tél : 02 23 20 36 64
+stage@kereval.com
+1-Public                    Document validé                                            Page 4 / 4
+
+
+
+
+

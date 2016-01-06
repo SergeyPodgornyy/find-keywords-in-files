@@ -1,0 +1,41 @@
+﻿ATOS RECRUTE UN/UNE QUALITÉ FONCTIONNELLE ET MÉTIER EN STAGE 6 MOIS.
+Date : 17/12/2014
+Référence de l’offre : 175853-8355103
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Ce stage a pour objectif de vous permettre d'acquérir la connaissance d'un domaine fonctionnel métier, de
+mettre en œuvre la méthodologie des cas de tests et de juger des informations à communiquer.
+Vous réalisez la conception, la préparation, l'exécution et la restitution de tests fonctionnels au sein d'un
+projet à forte composante métier.
+Vous serez en charge :
+-Des Tests d'intégration fonctionnelle (cohérence globale d'évolutions ou d'anomalies)
+-Des Tests d'intégration transverse (cohérence inter applicatif sur les échanges de flux)
+-Des Tests de non-régression
+Vous évoluez dans les environnements technologiques suivants : HP Application Lifecycle Management,
+ISTQB, SQL, VBA
+Profil recherché :
+De formation minimum Bac + 5 en cours de validation, vous recherchez un stage de fin d'étude d'une durée
+de 6 mois.
+Vous avez une bonne qualité rédactionnelle et de communication.
+Vous êtes rigoureux(se) avec un esprit de synthèse.
+La connaissance de VBA serait un plus.
+Stage de pré-embauche envisageable.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8355103
+
+
+
+
+

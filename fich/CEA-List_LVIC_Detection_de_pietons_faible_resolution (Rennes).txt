@@ -1,0 +1,127 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : CEA-List                                                                  Adresse : Centre de Saclay - NanoInnov
+Domaine d’activité : R&D                                                                        Ville :Gif sur Yvette
+Représentant de l’entreprise : Karine Gosse                                                     N° téléphone :+ 33 (0)1 69 08 02 87
+Sa qualité : chef de projet                                                                     N° fax : +33 (0)1 69 08 83 95
+N° de Siret :77568501900488                                                                     Site Web : http://www.kalisteo.eu/
+N° NAF :                                                                                        Courriel : karine.gosse@cea.fr
+Statut Juridique : EPIC                                                                         Signataire de la convention :
+Effectif de l’établissement :16000
+Nom de l’encadrant de stage : Bertrand Luvison                                                  Chargé du suivi administratif :
+Sa qualité : ingénieur chercheur                                                                Sa qualité :
+Service : LVIC                                                                                  N° téléphone :
+N° téléphone +33 (0)1 69 08 01 37                                                               Email :
+Email : Bertrand.luvison@cea.fr                                                                 Fax :
+Fax +33 (0)1 69 08 83 95
+Nom du service dans lequel le stage sera effectué : LVIC…..………………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): Saclay……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                              du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                                 du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                                 du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                            du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                              du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                          du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                              du 14 avril 2014 à fin août 2014
+Licence Professionnelle Electronique et Télécommunications
+SUJET DU STAGE :
+UNIVERSITE DE RENNES 1                                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Titre du stage proposé : Détection de piétons de faible résolution dans les séquences vidéos
+……………………………………………………………………………….
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Sujet proposé détaillé :
+Présentation du laboratoire d’accueil :
+Le CEA-LIST est un laboratoire de 600 personnes, localisé sur le plateau de
+Saclay,  dont  les  axes  de  recherche  s’inscrivent  dans  le  domaine  des  systèmes
+complexes  à  logiciel  prépondérant.  La  mission  du  CEA  LIST  est  le  transfert
+d’innovation vers le monde industriel. Par ce positionnement, le CEA LIST occupe une
+place privilégiée dans les réseaux de collaboration entre laboratoires académiques,
+centre de recherche et acteurs industriels à l’échelle européenne voire mondiale.
+Au sein du CEA LIST, le Laboratoire Vision et Ingénierie des Contenus (LVIC)
+regroupe                                                                                           80  chercheurs  autour  de  thèmes  de  recherche  qui  sont  l’analyse  de
+document  Multimédia  (analyse  jointe  texte  et  image),  la  localisation  de  capteurs
+(SLAM, réalité augmentée) et l’analyse de scène  (vidéo-protection, assistance à la
+conduite). A travers ses activités, le LVIC collabore avec de grands groupes THALES,
+STMicroelectronics,  Renault,  SNCF  et  un  réseau  de  PME  innovantes  Diotasoft,
+Arcure, Xedix, Ant’Inno. Consulter nos démonstrations sur www.kalisteo.eu.
+Contexte du stage
+Ce  stage s’inscrit  dans les  activités  d'analyse  de  scène du  Laboratoire  Vision  et
+Ingénierie des Contenus du CEA List. Le laboratoire développe dans le cadre de
+projets R&D, des systèmes d’analyse vidéo automatique en temps réel intégrant des
+techniques évoluées de modélisation du fond, de classification et de suivi temporel
+d’objets dans la scène. Ces projets sont menés en partenariat avec des acteurs
+industriels majeurs du domaine (Thales, Alstom, SNCF…).
+Description du stage
+Le sujet de la détection de piéton est depuis longtemps étudié dans le domaine de la
+vision par ordinateur. Ce sujet vise à répondre à une demande de plus en plus forte
+d'assistance ou d'automatisation de tâches visuelles humaines souvent fastidieuses,
+tel que la vidéo-surveillance ou l'attention nécessaire lors de la conduite.
+Le plus souvent considéré dans des conditions favorables où une dimension minimale
+des  piétons  est  garantie,  les  performances  atteintes  aujourd'hui  permettent
+l'intégration de cette technologie dans des systèmes industriels, comme c'est le cas
+du  laboratoire,  expert  sur  ce  sujet,  qui  intègre  ses  technologies  sur  des  engins
+industriel mobile (http://www.arcure.net/). En revanche, les détecteurs de l'état de l'art
+voient leur performances s'écrouler lorsque les résolutions sur les piétons deviennent
+trop  faibles                                                                                      (piéton  debout  de  moins  de                                                             80  pixels)   [1].  Pour  répondre  à  cette
+                                                                                                   problématique, il est possible de coupler différents type de primitives (d'apparence, de
+                                                                                                   mouvement, etc), ou d'intégrer l'information temporelle afin de combler le manque de
+résolution spatiale.
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+[1] P. Dollar, C. Wojek, B. Schiele, and P. Perona. Pedestrian detection: An evaluation
+of the state of the art. PAMI, 2012
+Contenu technique du stage
+L'objectif du stage est donc de se focaliser sur ces cas difficiles et de réaliser un
+démonstrateur logiciel. Après un état de l'art sur ce sujet, le stagiaire implémentera la ou les
+méthodes les plus convaincantes afin de les évaluer objectivement et de proposer des
+améliorations algorithmiques.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité  mensuelle (nette)                                                                       :  entre                    700   €  et   1300   €   Nom de l’Etudiant :
+suivant la formation.                                                                                                                                   Diplôme :
+Modalités de versement :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition : aucune
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

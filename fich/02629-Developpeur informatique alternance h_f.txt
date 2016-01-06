@@ -1,0 +1,50 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEUR INFORMATIQUE ALTERNANCE H/F EN
+APPRENTISSAGE/ALTERNANCE DE 10 À 12 MOIS.
+Date : 01/08/2015
+Référence de l’offre : 191291-10397697
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 10 à 12 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+ASGS est la solution Smart Metering et Smart Grid d'Atos Worldgrid.
+La solution ASGS implique la mise en oeuvre d'équipements de comptage  (metering) fournis par des
+constructeurs spécialisés. Ces équipements offrent des interfaces de communication variées, et notamment de
+type CPL dans le cas de comptages résidentiels.
+L'intégration de ces équipements dans le produit ou pour des projets spécifiques impliquent une validation
+complète de ces interfaces, tant que point de vue des protocoles de communication mis en oeuvre (y compris
+les couplages matériels) que du point de vue fonctionnel (Modèle de données et comportement).
+Ces tâches de validation, préalable à l'intégration proprement dite sont réalisées dans le cadre du labo. CPL.
+Ce labo. met en oeuvre des outillages de simulation et des équipements (matériels et logiciels) d'analyse pour
+réaliser ces travaux. L'activité comprend la définition / réalisation des scénarios/applications de tests, la mise
+en oeuvre des  « SetUps  » de tests puis l'exécution des campagnes de validation pour les équipements
+sélectionnés.
+Le laboratoire CPL est installé dans les locaux de Grenoble.
+Profil recherché :
+-Profil BAC+3 à BAC+5 en Informatique, orientation Réseaux et communication et/ou Systèmes embarqués
+Les connaissances ci-dessous sont requises :
+* Méthodologies de tests
+* Connaissances pratiques en électricité / électronique (mise en oeuvre de plates-formes)
+* Connaissance de l'architecture des protocoles de communication (couches, automates d'états)
+* Environnement Windows/Linux
+Les connaissances ci-dessous seraient un plus :
+* Langage/environnement TTCN
+* Développements en C# et/ou Java
+* Logiciels d'analyse de réseaux, type Wireshark
+* Capacité d'utiliser des équipements de laboratoire (oscilloscopes, générateurs)
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10397697
+
+
+
+
+

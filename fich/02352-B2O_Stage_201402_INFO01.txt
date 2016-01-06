@@ -1,0 +1,42 @@
+﻿Offre de stage
+Ingénieur Développement Logiciel
+SOCIETE :
+B2O est une jeune société (2010) de 9 personnes éditeur d’un ERP mobile 100% SaaS de solutions logicielles
+de gestion BtoB. Cette application WEB innovante peut interagir avec les plateformes mobiles telles que
+l’iPhone et l’iPad d’Apple.
+B2O  a  plus  de  80  clients  répartis  sur  l’Ouest  de  la  France  dans  différentes  secteurs  d’activité  (services/
+évènementiel/ bâtiment/ collectivités…).
+DESCRIPTION DE L’OFFRE :
+Nous  recherchons  un  ingénieur  pour  une  durée  de  4  à  6  mois  minimum  afin  d’étoffer  nos  équipes  de
+développement. Chargé de la conception et du développement des applications autour du noyau de
+notre  système,  vous  aurez  une  visibilité  complète  du  cycle  de  production.  Vous  interviendrez  sur  la
+plateforme  LAMP  de  notre  application  principale  pour  la  faire  évoluer  en  intégrant  de  nouvelles
+technologies.
+MISSIONS :
+• Analyser les besoins des clients, rechercher des solutions, concevoir et élaborer des spécifications
+techniques
+• Développer les modules en lien avec notre application principale
+• Tester et valider les développements
+• Faire un reporting technique régulier
+• Etre force de propositions de nouveaux services proposés par B2O
+B2O VOUS OFFRE :
+• Un accompagnement et suivi pour vous faire évoluer pendant toute la durée de votre stage
+• Des opportunités de CDI
+• Un environnement de travail en équipe challengeant et formateur
+PROFIL RECHERCHÉ :
+• BAC +4/+5 ayant développé des compétences en programmation PHP, MySQL
+• Bonne connaissance des technologies web : XML, AJAX, services Web.
+• Qualités recherchées : Rigoureux, méthodique, curieux, à l’écoute, autonome
+CONTACT SOCIÉTÉ :
+B2O
+Envoyez votre candidature par e-mail à Mr. Jérôme BRUHAT - Directeur Technique- E-mail:   jbruhat@b2o.eu
+B2O - 11 bis rue de la Frébardière- 35510 CESSON SEVIGNE- www.b2o.eu
+Business   Office   Oxygen                                                                                                                                11  bis   rue   de   la   Frébardière   -   35510   CESSON   SEVIGNE
+Tél   :   02   23   25   76   60   -   Site   :   www.b2o.eu
+SARL   au   Capital   de   72      400   €   -­‐   RCS   Rennes   SIRET   N°52472661900025   -   Code   APE   6201Z   -   N°   de   TVA   FR43524726619
+Siège   Social   :   14   Place   du   Vert   Buisson   -   35170   BRUZ
+
+
+
+
+

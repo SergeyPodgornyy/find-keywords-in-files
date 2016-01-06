@@ -1,0 +1,56 @@
+﻿Offre de doctorat
+Rennes, le 5 décembre 2013
+Madame, Monsieur,
+L'institut de recherche technologique b<>com invite les candidats à postuler au doctorat :
+"Représentations sémantiques de comptes rendus structurés en imagerie médicale".
+Veuillez trouver ci-joint une description détaillée de ce doctorat.
+Je vous saurais gré de bien vouloir transmettre la présente offre aux étudiants potentiellement
+intéressés.
+Cordialement,
+Yannick Morvan
+Connected Healthcare Lab Manager
+
+
+
+
+À propos de b<>com
+L'Institut de Recherche Technologique b<>com est une fondation de coopération scientifique dans les
+domaines des technologies de l’image, du réseau et de la santé  à Brest, Lannion    et Rennes. Elle
+rassemble  des  partenaires  académiques  et  industriels  majeurs  tel  que  l'Université  de  Rennes  1,
+Telecom  Bretagne,  l'INRIA,  Orange  ou  Thomson  Video  Networks.  b<>com  allie  les  domaines  de
+recherche fondamentale et appliquée dans l'idée d'explorer les technologies de demain et de mettre
+sur le marché des technologies de rupture.   Intégrer b<>com, c’est travailler sur des projets dont les
+contributeurs  sont  à  la  fois  des  chercheurs  b<>com  ainsi  que  des  collaborateurs  des  partenaires
+académiques  et  industriels.  Enfin,  c’est  entrer  de  plein  pied  dans  le  réseau  des  gros  acteurs  du
+numérique que sont les partenaires de b<>com.
+"Représentations sémantiques de comptes rendus structurés en imagerie médicale"
+Expliciter le contenu des images est essentiel à la fois pour les processus décisionnels  (diagnostic,
+traitement, suivi), pour la bonne gestion des données et pour leur réutilisation pour la recherche
+biomédicale et l’évaluation des pratiques. La notion de compte rendu structuré répond à ces besoins,
+elle  est  actuellement  couverte  par  le  standard  DICOM  au  travers  de  la  spécification  DICOM  SR
+(Structured  Reporting).  Or,  cette  spécification  est  beaucoup  utilisée  aujourd’hui  pour  les  comptes
+rendus des analyses automatisées CAD (Computer Assisted Detection), pas peu utilisée par ailleurs.
+Le but de la thèse est de proposer, d’implémenter et d’évaluer la valeur ajoutée d’un socle générique
+de représentation du contenu des comptes rendus structurés d’imagerie, basé sur des représentations
+formelles  définies  dans  des  ontologies.  L’impact  attendu  est  de  pouvoir  effectivement  requêter  et
+raisonner  sur  ces  comptes  rendus,  ce  qui  n’est  pas  possible  aujourd’hui  avec  les  comptes  rendus
+DICOM SR pour plusieurs raisons : (1) la syntaxe et les services de requêtage de DICOM ne sont pas
+adaptés à la navigation dans les comptes rendus de type SR ; (2) l’arbre SR (i.e. les relations entre
+les nœuds d’information) ne véhicule pas de sémantique formelle ; (3) les systèmes de codage utilisés
+ne  s’intègrent  pas  dans  un  cadre  de  modélisation  commun.  Le  travail  s’appuiera  sur  les  travaux
+existants  :  standard  DICOM,  modèle  AIM  issu  du  projet  CaBIG,  ontologies  du  NCBO,  initiative  «
+Radiology reporting » de la RSNA et sur les besoins identifiés dans le projet B-Com/Isimed.
+Compétences désirées :
+- Master recherche ou diplôme d'ingénieur
+- Expérience en programmation (C++)
+- Expérience avec les standards HL7 et DICOM
+- Connaissances des technologies du web sémantique sont bienvenues (ontologie, OWL)
+Contact :
+Bernard Gibaud, chargé de recherche INSERM bernard.gibaud@univ-rennes1.fr
+Yannick Morvan, Connected Healthcare Lab, b<>com Rennes yannick.morvan@b-com.com
+Delphine Monier, Manager Human Resources, b<>com Rennes job@b-com.com
+
+
+
+
+

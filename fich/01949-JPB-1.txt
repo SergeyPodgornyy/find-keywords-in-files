@@ -1,0 +1,38 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : GLPI-Report-Tickets : développement d’un outil de gestion d’un helpdesk
+   Lieu : Mayenne                                                                              Durée : 2 à 4 mois
+   Formation : Bac + 3 minimum                                                                 Date : 2014-2015
+   Référence : JPB-1                                                                           Rémunération : stage indemnisé
+Sujet : Vous participerez :
+   A la rédaction des spécifications après recensement et analyse des besoins ;
+   Au développement d’un tableau de bord permettant à tous les collaborateurs
+de la DSI (environ 100 personnes) de mieux organiser et donc faciliter leur
+travail autour des demandes d’interventions issus du helpdesk GLPI ;
+   Un cahier des charges sera fourni en début de projet. Ce cahier des charges
+s’appuie sur un fichier Excel, ayant servi de première ébauche de reporting ;
+   Votre objectif sera donc, d’étudier et de développer une solution de reporting
+qui s’adaptera en fonction du profil des utilisateurs  (techniciens, chefs de
+projet, managers) ;
+   Vous développerez sur des environnements protégés de pré-production.
+Ce stage vous permettra d’intégrer une équipe constituée de client (interne Jouve), ingénieur
+en développement, tuteur et chef de projet, ainsi que des testeurs. Vous participerez à la
+
+
+
+
+gestion du projet et développerez vos acquis en PHP et MYSQL en environnement Linux.
+Environnement :
+   LAMP
+Vous    serez    intégré    dans    l’équipe
+infogérance.
+
+
+
+
+

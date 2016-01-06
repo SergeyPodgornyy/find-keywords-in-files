@@ -1,0 +1,42 @@
+﻿PARIS&CO INCUBATEURS RECRUTE UN/UNE STAGE PROGRAMMER BACK-END EN STAGE
+DE 4 À 6 MOIS.
+Date : 01/09/2015
+Référence de l’offre : Stage back-end-10346169
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75006, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Startup High tech, créatrice d'un système innovant pour les sites marchands.
+Description du poste :
+Startup High tech,
+Créatrice d'un système innovant pour les sites marchands recherche un stagiaire pouvant assister l'équipe sur
+la gestion et le développement de son API.
+Mission :
+* Développement de nouvelles fonctionnalités pour l'API.
+* Le test au jour le jour la robustesse de l'API afin d'éviter les bugs.
+* Tests de l'API dans des environnements différents.
+* La programmation d'une interface à l'API pour des sites tiers.
+Profil recherché :
+Profil recherché :
+1. Vous adorez la programmation (ceci n'est pas juste une formulation de style - vous créerez réellement des
+solutions pour des problèmes qui n'ont jamais été étudiés par le passé et il faut vraiment aimer programmer).
+2. Vous aimeriez travailler sur un projet novateur et complex.
+3. Vous êtes de formation ingénieur ou école d'informatique (Bac+4 au moins) avec un très fort profil de
+programmeur Back-End.
+4. Niveau d'anglais : normal
+Maîtrise des outils :
+* Java Script - Back end (il est important d'avoir une bonne connaissance des technologies web).
+* PHP
+* Node.js
+* HTML
+* Linux
+Nous faisons passer un court test de code à tous les candidats.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10346169
+
+
+
+
+

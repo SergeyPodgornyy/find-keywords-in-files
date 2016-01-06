@@ -1,0 +1,38 @@
+﻿STAGE : Stratégie de tests (H/F)
+NOUS…
+Regroupant les Fédérations régionales en Bretagne, dans le Sud Ouest et le
+Massif Central, le Crédit Mutuel Arkéa développe ses activités dans les
+domaines de la banque, de la finance et des assurances.
+Fort  de  l’expertise  de  ses                                                        9000  collaborateurs  et  de  ses                                            20  filiales,
+respectueux de ses valeurs mutualistes fondatrices, le Crédit Mutuel Arkéa est
+reconnu pour sa capacité d’innovation qui lui permet de répondre aux besoins
+de ses 3,2 millions de sociétaires et clients.
+…RECHERCHONS
+Dans le cadre d'un projet de Schéma Directeur du SI, la structure a en
+charge la définition de la road map d'évolution de ce système d’information et
+la conduite des projets majeurs. Afin d'accompagner le projet de Schéma
+Directeur, la mission confiée consiste à participer à la définition de la stratégie
+de test des applications/logiciels du Système d'Informations.
+Durant ce stage vous participerez à :
+-                                                                                     La mise en place d'un référentiel d'exigences de tests fonctionnels et
+techniques.
+-                                                                                     L’optimisation de l’effort fait sur le test et la capitalisation sur les
+                                                                                      campagnes de tests des modes projets,
+-                                                                                     L’état des lieux des pratiques de test/recette,
+-                                                                                     La définition de l'approche globale de tests souhaitée,
+-                                                                                     La proposition d'outillage et d'intégration de cette démarche globale dans
+les processus de gestion des projets,
+Vous êtes étudiant(e) de niveau bac+4/5 en Formation Management des
+Systèmes d'Informations, Informatique, Ingénierie des Systèmes Informatiques
+(Ecole d'Ingénieurs ou Université, ENST, ESIR, Mastères…). Vous avez un
+fort intérêt pour les technologies (Base de Données, architecture technique,
+architecture orientée services). Vous êtes curieux(se), dynamique, volontaire
+et autonome et possédez une bonne capacité d’adaptation.
+Stage de 6 mois ou plus, basé à Brest
+Pour postuler, rendez-vous sur notre site:       www.recrutement.arkea.com
+Date 00/00/0000 - Lieu d’intervention
+
+
+
+
+

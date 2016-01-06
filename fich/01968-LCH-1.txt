@@ -1,0 +1,34 @@
+﻿Conseiller, Accompagner, Concevoir, Diffuser
+en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre Stage
+   Titre : Intégration de composants BI (Business Intelligence)
+   Lieu :   Cesson-Sévigné                                                                                       Durée : 6 à 8 mois
+   Formation : Bac + 5                                                                                           Date : mars 2015 à septembre 2015
+   Référence : LCH-1
+   Rémunération : stage indemnisé
+Sujet : Intégration et développement d’un outil de BI dans un logiciel de recherche.
+Ce  stage  vous  permettra  de  participer  au  développement  de  l'applicatif  (JAVA  et  Dojo/HML5)  en
+s'intégrant dans l'équipe de développement. Les développements réalisés dans l'équipe permettent de
+générer  des  moteurs de  recherches  (Lucene/Solr  +  MongoDB) et les  applications de  recherches
+permettant de les consulter. Dans ce cadre, le stagiaire sera amené à étudier un outil de BI, puis
+l’intégrer et développer les interfaces client/server nécessaires à son fonctionnement sur des données
+contenant plus de 85 millions de documents.
+Le travail proposé couvrira tout le cycle de développement réalisé en mode agile (Scrum) : analyse des
+besoins,  réalisation  d'analyse  technique,  réalisation  de  prototypes,  réalisation  de  spécifications  et
+conception UML, développement en intégration continue (Maven/Jenkins).
+Le travail est réalisé dans un contexte international et au minimum l'anglais technique écrit est requis.
+
+
+
+
+Environnement :
+Vous  serez  intégré  dans  l’équipe  propriété
+industrielle                                      (brevets,   marques,
+dessins&modèles) basée à Cesson-Sévigné.
+
+
+
+
+

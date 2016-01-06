@@ -1,0 +1,340 @@
+﻿Consultant développeur
+JAVA (h/f)
+DIVISION                                                                           RÉFÉRENCE DE L’OFFRE :
+ADM                                                                                ST-ADM-3467
+                                                                                   LOCALISATION
+                                                                                                                                                                             DOMAINE
+                                                                                   GÉOGRAPHIQUE
+CONTEXTE                                                                                                                                                                     DU STAGE
+                                                                                   Lille, Grenoble, Strasbourg, Toulouse,
+                                                                                                                                                                             Technique
+                                                                                   Rennes, Paris, Nantes
+L’entité ADM est une
+unité qui a pour vocation                                                          DATE DE DÉBUT                                                                             DURÉE
+la gestion industrielle de
+DU STAGE                                                                           DE STAGE
+patrimoine applicatif pour
+nos clients grands comptes.                                                        A partir de janvier 2015                                                                  6 mois
+Les principales activités
+sont la maintenance évolutive
+et de développement                                                                DESCRIPTION DU STAGE
+d’évolutions majeures (50%),
+                                                                                   Votre mission se déroule dans le cadre de la maintenance de logiciels et de
+le support fonctionnel (40%)
+                                                                                   développement d’évolutions majeures pour l’un de nos clients sur des périmètres
+et la maintenance corrective
+                                                                                   fonctionnels tels que la gestion de portefeuille grands comptes, la gestion d’offres de
+et préventive (10%) des
+services, ...
+projets de nos clients.
+Vous participez à la conception et au développement de nouvelles fonctionnalités
+d’un applicatif métier. Immergé(e) au sein d’une équipe, vous êtes formé(e) aux
+méthodologies de développement et aux processus qualité en vigueur à Capgemini.
+Le contexte technologique du projet est : Java, J2EE, Oracle, ...
+LES “PLUS”
+DU STAGE                                                                           PROFIL RECHERCHÉ
+De formation supérieure Bac+4/5 en informatique en écoles ou universités, vous :
+• aimez les challenges,
+Vous participez à des projets
+• avez une expérience en développement sur un langage de programmation,
+de grande envergure. Vous
+• maîtrisez l’anglais.
+bénéficiez d’une formation
+adaptée à nos métiers
+et évoluez au sein d’une
+équipe projet composée de
+consultants informatique.
+POUR POSTULER
+Stage de pré-embauche
+recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+Capgemini Technology Services_STAGES 2014-2015 - 53
+
+
+
+
+Consultant Microsoft (h/f)
+DIVISION                                                                          RÉFÉRENCE DE L’OFFRE :
+ADM                                                                               ST-ADM-3468
+LOCALISATION                                                                                                                                                               DOMAINE
+CONTEXTE                                                                          GÉOGRAPHIQUE                                                                             DU STAGE
+                                                                                  Lille, Strasbourg, Grenoble, Nantes                                                      Technico-fonctionnel
+La division ADM à laquelle
+vous êtes rattaché(e),                                                            DATE DE DÉBUT                                                                            DURÉE
+assure la conduite de
+DU STAGE                                                                          DE STAGE
+projets complexes allant de
+la conception à l’intégration                                                     A partir de janvier 2015                                                                 6 mois
+et la mise en œuvre de
+solutions technologiques.
+En tant que Consultant
+DESCRIPTION DU STAGE
+Microsoft, vous intervenez
+auprès de nos clients sur                                                         Votre mission consiste à prendre part à la construction de projets de transformation à
+des applications novatrices,                                                      la fois métier et technique autour des technologies Microsoft (.net, C#, sharepoint,
+axées sur l’intégration de                                                        Azure, MS Dynamics).
+systèmes, l’architecture et                                                       Vous intervenez sur les différentes phases d’un projet :
+les web services.                                                                 • la traduction technique des besoins fonctionnels,
+• la conception,
+• la réalisation,
+• les tests et la recette,
+• la mise en production,
+• la maintenance corrective ou évolutive.
+LES “PLUS”
+DU STAGE
+PROFIL RECHERCHÉ
+De formation Bac+4/5 avec une spécialisation en informatique, vous :
+Vous acquérez de fortes
+• vous justifiez d’une expérience sur les technologies Microsoft,
+expertises sectorielles,
+• vous avez un niveau d’anglais opérationnel (présentations orales et écrites),
+méthodologiques
+• êtes autonome, motivé(e) et rigoureux(se),
+et développez vos
+compétences   autour de                                                           • appréciez le travail en équipe.
+technologies Microsoft. Vous
+bénéficiez d’une formation
+adaptée à nos métiers.                                                            POUR POSTULER
+Stage de pré-embauche                                                             recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+54 - STAGES 2014-2015_Capgemini Technology Services
+
+
+
+
+Ingénieur/Développeur au
+Lab’Innovation (h/f)
+DIVISION                                                              RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                              ST-SE-3497
+                                                                      LOCALISATION                                                                            DOMAINE
+CONTEXTE                                                              GÉOGRAPHIQUE                                                                            DU STAGE
+                                                                      Nantes                                                                                  Technico-fonctionnel
+Dans le cadre de son Lab’
+Innovation et de sa Digital                                           DATE DE DÉBUT                                                                           DURÉE
+Factory, Capgemini conçoit
+DU STAGE                                                              DE STAGE
+et réalise des projets basés
+sur des technologies                                                  A partir de janvier 2015                                                                6 mois
+mobiles, tablettes, Web,
+Touch, Vocal, Cloud et la
+mise en œuvre de nouvelles
+DESCRIPTION DU STAGE
+interfaces (Google Glass,
+montre connectée, ...).                                               Vos missions portent sur :
+Vous contribuez à nos                                                 • la veille sur les nouvelles technologies et la recherche de solutions alternatives,
+projets innovants qui nous                                            • la participation aux ateliers de conception visuelle,
+permettent d’accompagner                                              • la conception technique et fonctionnelle d’applications,
+nos clients dans leur                                                 • le développement de la logique-métier et des IHM (Interface Homme Machine),
+transformation Digitale.
+• l’intégration avec le système d’information,
+• les tests et correctifs et le packaging des livraisons.
+LES “PLUS”
+DU STAGE                                                              PROFIL RECHERCHÉ
+                                                                      De formation Bac+5, vous :
+Vous participez à                                                     •  êtes motivé(e) pour monter rapidement en compétences sur des technologies
+l’exploration et la mise                                              nouvelles,
+en œuvre de nouveaux                                                  •  appréciez le travail en équipe et les défis,
+services en applicant                                                 •  possédez un bon niveau d’anglais.
+une méthodologie du
+Lab’Innovation.
+Vous apprenez à travailler
+en mode Agile en Visual                                               POUR POSTULER
+Management et distribué
+recrutement.ts.fr@capgemini.com
+Stage de pré-embauche
+Capgemini est signataire de la charte de la diversité en entreprise
+118 - STAGES 2014-2015_Capgemini Technology Services
+
+
+
+
+Ingénieur en Nouvelles
+Technologies (h/f)
+DIVISION                                                              RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                              ST-SE-3498
+                                                                      LOCALISATION                                                                             DOMAINE
+CONTEXTE                                                              GÉOGRAPHIQUE                                                                             DU STAGE
+                                                                      Nantes, Brest, Bordeaux, Rennes                                                          Technique
+Au sein de son unité
+dédiée à l’Innovation et aux                                          DATE DE DÉBUT                                                                            DURÉE
+Nouvelles Technologies,
+DU STAGE                                                              DE STAGE
+composée de 650
+consultants, Capgemini                                                A partir de janvier 2015                                                                 6 mois
+fournit à ses principaux
+clients du secteur Public,
+de la Santé, du Social, des
+DESCRIPTION DU STAGE
+Transports et des secteurs
+Privés, des applications                                              Vous êtes intégré(e) dans une équipe projet pour prendre part à une ou plusieurs
+novatrices, axées sur                                                 phases de la construction d’un projet de système d’information utilisant les nouvelles
+l’intégration de systèmes,                                            technologies (Java/J2EE, .net, PHP.).
+l’architecture et les web                                             Vous travaillez notamment sur :
+services.                                                             •  la compréhension des besoins du client et de son environnement technique et
+fonctionnel,
+•  les spécifications détaillées des fonctionnalités,
+•  la conception technique, prototypes,
+•  les développements spécifiques,
+•  l’intégration et la validation.
+LES “PLUS”
+DU STAGE                                                              PROFIL RECHERCHÉ
+                                                                      De formation Bac+5, vous :
+Vous découvrez les                                                    •  avez déjà une connaissance de certains des environnements techniques tels que :
+différentes phases                                                    Java, J2EE, JQuery, PHP, .net, Drupal, REST, JSON, HTML5, IOS, Android,
+d’un projet de Système                                                •  êtes rigoureux(se) et doté(e) d’une bonne capacité d’écoute,
+d’Information et la                                                   •  appréciez le travail en équipe et les challenges,
+méthodologie projet et                                                •  possédez un bon niveau d’anglais.
+montez en compétence sur
+le développement et/ou la
+conception sur des projets                                            POUR POSTULER
+complexes.
+recrutement.ts.fr@capgemini.com
+Stage de pré-embauche
+Capgemini est signataire de la charte de la diversité en entreprise
+Capgemini Technology Services_STAGES 2014-2015 - 119
+
+
+
+
+Consultant en Architecture
+(h/f)
+DIVISION                                                                                 RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                                                 ST-SE-3499
+                                                                                         LOCALISATION                                                                           DOMAINE
+CONTEXTE                                                                                 GÉOGRAPHIQUE                                                                           DU STAGE
+                                                                                         Nantes, Rennes                                                                         Technique
+Au sein de son entité
+dédiée à l’Innovation et aux                                                             DATE DE DÉBUT                                                                          DURÉE
+Nouvelles Technologies,
+DU STAGE                                                                                 DE STAGE
+composée de 650
+consultants, Capgemini                                                                   A partir de janvier 2015                                                               6 mois
+fournit à ses clients du
+secteur Public, de la Santé
+du Social, des Transports
+DESCRIPTION DU STAGE
+et des secteurs Privés, des
+applications novatrices,                                                                 Intégré(e) au sein d’une équipe d’architectes, vous êtes amené à participer à une ou
+axées sur l’intégration de                                                               plusieurs phases d’une mission d’architecture SI avec :
+systèmes, l’architecture et
+                                                                                         • l’analyse de la solution globale, sur les plans métier et architecture,
+les web services.
+• la réalisation de dossier d’architecture logique, applicatif ou technique,
+• le développement afférent.
+L’environnement technique du projet : portail, CMS, multicanal, BPM, CRM, architecture
+de services (SOA), architecture n-tier, ESB, MDM, BRMS, moteur de règles, base de
+données, mobilité.
+LES “PLUS”                                                                               PROFIL RECHERCHÉ
+DU STAGE
+De formation Bac+5, vous :
+•  avez déjà une connaissance des environnements techniques J2EE, mobilité, web
+services, SOA,
+Vous découvrez les différentes
+•  êtes rigoureux(se) et doté(e) d’une bonne capacité d’écoute,
+phases d’un projet de
+Système d’Information et la                                                              •  appréciez le travail en équipe et les challenges,
+méthodologie en architecture.                                                            •  possédez un bon niveau d’anglais.
+Vous trouvez des solutions
+innovantes à des
+problématiques complexes.
+POUR POSTULER
+Stage de pré-embauche
+recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+120 - STAGES 2014-2015_Capgemini Technology Services
+
+
+
+
+Consultant en Architecture
+Digitale DCX (h/f)
+DIVISION                                                              RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                              ST-SE-3501
+                                                                      LOCALISATION                                                                         DOMAINE
+CONTEXTE                                                              GÉOGRAPHIQUE                                                                         DU STAGE
+                                                                      Nantes, Rennes                                                                       Technique
+Au sein de son entité
+dédiée à l’Innovation et aux                                          DATE DE DÉBUT                                                                        DURÉE
+Nouvelles Technologies,
+DU STAGE                                                              DE STAGE
+composée de 650
+consultants, Capgemini                                                A partir de janvier 2015                                                             6 mois
+fournit à ses clients du
+secteur Public, de la Santé
+du Social, des Transports
+DESCRIPTION DU STAGE
+et des secteurs Privés, des
+applications novatrices,                                              Dans le cadre du développement de l’offre Digital Customer Experience (DCX) visant
+axées sur l’intégration de                                            à accompagner nos clients dans leur transformation digitale, vous êtes amené(e) à
+systèmes, l’architecture et                                           développer ou intégrer tout ou partie des composants de cette offre.
+les web services.                                                     Vous participez à une ou plusieurs phases du développement d’un démonstrateur ou
+d’un projet :
+• analyse de l’état de l’art,
+• analyse de la solution globale sur le plan architectural,
+• réalisation de dossier d’architecture,
+• développements afférents et mise en œuvre de solutions.
+LES “PLUS”
+DU STAGE                                                              PROFIL RECHERCHÉ
+                                                                      De formation Bac+5, vous :
+Vous découvrez les différentes                                        •  avez déjà une connaissance des environnements techniques J2EE, mobilité, web
+phases d’un projet de                                                 services, SOA,
+Système d’Information et la                                           •  êtes rigoureux(se) et doté(e) d’une bonne capacité d’écoute,
+méthodologie en architecture                                          •  appréciez le travail en équipe et les challenges,
+et prouvez votre autonomie                                            •  possédez un bon niveau d’anglais.
+en répondant à des
+problématiques complexes.
+POUR POSTULER
+Stage de pré-embauche
+recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+122 - STAGES 2014-2015_Capgemini Technology Services
+
+
+
+
+Concepteur/Développeur
+d’applications SIG (h/f)
+DIVISION                                                                              RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                                              ST-SE-3502
+                                                                                      LOCALISATION                                                                               DOMAINE
+CONTEXTE                                                                              GÉOGRAPHIQUE                                                                               DU STAGE
+                                                                                      Nantes, Brest, Paris                                                                       Technique
+Capgemini possède une
+expérience de plus de                                                                 DATE DE DÉBUT                                                                              DURÉE
+20 ans dans la mise en
+DU STAGE                                                                              DE STAGE
+place de SIG et regroupe
+une équipe pluridisciplinaire                                                         A partir de janvier 2015                                                                   6 mois
+de plus de 100 personnes
+composée de Consultants,
+d’Architectes, de Chefs de
+DESCRIPTION DU STAGE
+projet et de Développeurs
+spécialisés, ce qui fait de                                                           Dans le cadre de votre mission, vous utilisez la chaîne de production standard du centre
+Capgemini le leader sur                                                               d’excellence et pouvez ainsi appréhender la méthodologie et les activités principales du
+son marché.                                                                           rôle d’un Concepteur-Réalisateur-Intégrateur chez Capgemini.
+Vous intervenez sur les différentes phases d’un projet de SI en environnement SIG :
+• de la traduction technique des besoins fonctionnels à la conception,
+• la réalisation,
+• les tests et recettes,
+• la mise en production,
+• la maintenance corrective ou évolutive.
+LES “PLUS”
+DU STAGE                                                                              PROFIL RECHERCHÉ
+                                                                                      De formation Bac+5, vous :
+Vous montez en compétence                                                             •  avez déjà une connaissance de certains environnements techniques,
+sur le développement                                                                  •  êtes intéressé(e) par le domaine de la géolocalisation en général et des SIG en
+d’applications SOA orientées                                                          particulier,
+Webmapping reposant sur                                                               •  appréciez le travail en équipe et les challenges,
+des technologies client                                                               •  possédez un bon niveau d’anglais.
+avancées. Vous découvrez
+les différentes phases d’un
+projet SI.                                                                            POUR POSTULER
+Stage de pré-embauche                                                                 recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+Capgemini Technology Services_STAGES 2014-2015 - 123
+
+
+
+
+

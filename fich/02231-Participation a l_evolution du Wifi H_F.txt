@@ -1,0 +1,36 @@
+﻿CAPGEMINI RECRUTE UN/UNE PARTICIPATION À L'ÉVOLUTION DU WIFI H/F EN STAGE DE 5
+À 6 MOIS.
+Date : 15/01/2015
+Référence de l’offre : ST-TM-3943-8597459
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                  Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                 2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Ce stage porte sur la réalisation d'évolutions fonctionnelles/techniques de la plate-forme.
+En tant que consultant (H/F), vous serez intégré(e) dans l'équipe projet et placé(e) sous l'autorité du chef de
+projet :
+* Dans un premier temps, vous monterez en compétence sur le projet et sur les enjeux du client,
+* Vous serez en charge de la conception et la rédaction des spécifications fonctionnelles concernant les
+évolutions,
+* Vous développerez et mettrez en œuvre les évolutions demandées,
+* Vous participerez aux phases de tests d'intégration et de validation,
+* Dans le cadre de la TMA (Tierce Maintenance Applicative), vous serez amené à participer à la correction
+des anomalies survenues en opérationnel.
+Profil recherché :
+BAC + 5
+Technologies: C, FreeRadius, Java, MySQL, Grails, Oracle, Apache, Wifi Gateway
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8597459
+
+
+
+
+

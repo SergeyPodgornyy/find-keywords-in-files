@@ -1,0 +1,42 @@
+﻿Le 10 Décembre 2014
+Offre de stage : Développeur WEB (H/F)
+La société Cordon Electronics a été fondée en 1989 par son PDG Serge CORDON à Dinan (22- BRETAGNE) où est
+installé son Siège Social ainsi qu’un de ses principaux sites de production.
+En commençant son développement dans la maintenance des équipements de télématique et téléphonie filaire, elle
+s’est orientée vers la réparation des appareils GSM à partir de 1995. Cordon Electronics est aujourd’hui reconnue
+comme l’acteur incontournable de la réparation de mobiles en France.
+En parallèle de ce cœur de métier GSM, CORDON ELECTRONICS s’est développé sur d’autres activités de réparation :
+écrans plats LCD et plasma, décodeurs numériques et box, produits micro-informatiques, réparation et service
+logistique dans le domaine PABX et autres matériels professionnels, produits multimédia.
+www.cordongroup.com
+Vous intègrerez notre service Ingénierie R & D Groupe et serez sous la responsabilité du chef de projet.
+Mission :
+Dans le cadre de l’optimisation de nos interfaces site web, vous réaliserez un module qui permettera de rendre
+l’administration de nos outils plus accessible.
+Vous participerez également à la mise en place d’un module, sous forme de tableau de bord, qui permettra de
+faciliter l’analyse des données récupérées dans nos bases de données. Pour la réalisation de ce module, des
+connaissances en bibliothèques graphiques seront un plus.
+Afin de mener à bien votre mission, vous devrez respecter un cycle de projet bien précis et complet : Etude,
+Formalisation, Développement, Test et Mise en production avec les collaborateurs de notre équipe projet. Votre
+capacité d’analyse vous permettra de comprendre rapidement le fonctionnement de nos outils et l’agencement de
+nos bases de données, ce qui facilitera le déroulement de votre mission.
+Lieux de stage : DINAN (22) à 40 minutes de RENNES.
+Compétences techniques nécessaires :
+-                                                                                                                              Base de données SQL (en particulier POSTGRESQL)
+-                                                                                                                              Langages de programmation WEB (PHP) et connaissance d’un Framework (SYMPHONY 2)
+-                                                                                                                              Connaissances en bibliothèques graphiques sont un plus (ex : Highcharts)
+Profil :
+Etudiant(e) en BAC+4/5, en formation Informatique orientée développement logiciel.
+Vous disposez d’une réelle autonomie, d’une créativité, d’une organisation, d’un bon relationnel  (vous serez
+amené(e) à travailler avec plusieurs interlocuteurs internes) et vous êtes force de proposition.
+Stage à pourvoir dès que possible.
+MERCI DE NOUS TRANSMETTRE OBLIGATOIREMENT UN CV ET UNE LETTRE DE MOTIVATION
+@ : recrutement@cordonweb.com
+ 02 96 85 65 50
+Ce document est la propriété de Cordon Electronics, il ne peut être utilisé, reproduit, ou communiqué sans son autorisation.
+V 08/11/2012.
+
+
+
+
+

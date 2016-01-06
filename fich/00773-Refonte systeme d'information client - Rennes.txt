@@ -1,0 +1,46 @@
+﻿Refonte  Système  d'Information  Client  -  H/F
+PRÉSENTATION DU STAGE
+ASI  est  une  société  de  Conseil  et  d’ingénierie  créée  en                                   1993,  spécialisée  dans  les
+applications décisionnelles, les portails d’entreprise et les solutions Web 2.0 de collaboration
+et la Gestion de la Relation Client.
+ASI a connu une croissance continue de son chiffre d’affaires depuis sa création, avec 36.1
+millions d'Euros en 2012, (+16 % par rapport à 2011). Implantée dans 10 villes (Paris, Lyon,
+Marseille,  Rennes,  Brest,  Nantes,  Niort,  Tours,  Bordeaux  et  Toulouse),  ASI  offre  la
+possibilité à ses 330 collaborateurs de vivre dans la région de leur choix, et   d’intervenir
+auprès de PME/PMI, de grandes entreprises et de collectivités locales.
+CONTEXTE ET SUJET DE STAGE
+ASI Informatique est une SSII de taille moyenne dont la clientèle est constituée à parts
+égales de grands comptes et de PME. Son activité comporte une grande partie de mise en
+place de solutions métiers ou de sites Intranet et/ou Extranet pour ces clients.
+Un projet de refonte de système d'information pour un de nos clients est en cours à l'agence
+de Rennes, pour une mise à disposition finale de l'application à la fin 2014.
+Le projet est organisé en mode agile Scrum (itérations de 3 semaines), avec deux équipes
+de développement comptant chacune 6 Ingénieurs études et réalisation.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Dans le cadre de ce stage, vous serez intégré à une des deux équipes projets, en binôme
+avec  un  ingénieur  études  et  réalisation.  Le  stage  démarrera  par un  apprentissage  des
+bibliothèques  techniques  utilisées  dans  le  projet,  et  la  découverte  du  fonctionnel  de
+l'application cible, sur une durée d'environ 2 semaines.
+Vous serez ensuite amené à participer activement au projet, en :
+  prenant  part  aux  différentes  réunions  du  cérémonial  Scrum  de  chaque  sprint
+(planification, mêlée quotidienne, démonstration et rétrospective),
+  réalisant les travaux d'ingénierie logicielle : conception, réalisation et tests unitaires,
+tests intégration.
+Technologies  :
+Environnement de développement : ECLIPSE
+Langage : Java / Hibernate / Spring / GWT
+Serveur d’application : TOMCAT
+Base de données : ORACLE
+Autres : Maven, Hudson, Sonar, ...
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée : Stage d'une durée de 6 mois, avec un démarrage le 1er trimestre 2014 ; ce stage
+doit déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure pertinente par rapport
+au domaine d’intervention.
+Lieu  : situé à Rennes (35)                                                                        - Réf : BF/CNOP
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

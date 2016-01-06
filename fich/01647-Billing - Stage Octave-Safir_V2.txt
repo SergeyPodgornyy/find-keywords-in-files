@@ -1,0 +1,46 @@
+﻿Intégration en mode Agile
+d’une application Java J2EE
+                                                                                Fondée en 1976, CGI est un fournisseur mondial de services en    OFFRE DE STAGE
+technologies   de   l’information                                               (TI)   et   en   gestion   des                                   CESSON SEVIGNE
+                                                                                processus  d’affaires  qui  offre  des  services-conseils  en
+                                                                                                                                                 Contact
+                                                                                management   ainsi   que   des   services   d’intégration   de
+                                                                                                                                                 Elodie DELUGEARD
+systèmes et d’outsourcing.
+                                                                                                                                                 elodie.delugeard@cgi.com
+Avec  69  000  professionnels  présents  dans  40 pays  et répartis
+dans 400 bureaux partout dans le monde, nous conjuguons
+une présence locale à un vaste éventail d’expertises. Voilà
+la force de notre engagement.
+OBJECTIF DU STAGE
+Dans le cadre de ce stage de fin d’étude, vous aurez l’opportunité d’intégrer
+une équipe projet de 6 personnes réalisant une application de gestion des
+factures en mode agile.
+Dans  un  environnement  technique  Java/J2EE,  vous  participerez  à  la
+transformation   du   système   de   facturation   d’un   grand   groupe   de
+télécommunication français.
+Ce  stage  sera  également  l’opportunité  pour  vous  d’approfondir  votre
+connaissance des méthodes de travail et des différents métiers en SSII.
+NOTRE ENVIRONNEMENT TECHNOLOGIQUE
+Serveur d’application Tomcat
+Framework : ZK, Hibernate, Spring…
+SGBD : Oracle 11g
+Linux
+Méthodologies : Cycle en V, Scrum, Kanban
+VOTRE PROFIL
+Formation Bac +2 à Bac+5, dans une filière informatique
+Bonnes connaissances en développement orienté objet et en Java
+Autonomie, dynamisme, bon relationnel
+VOTRE MISSION
+L’acquisition   des   connaissances   méthodologiques,   informatiques   et
+fonctionnelles sur le projet
+La conception (technique et/ou fonctionnelle)
+La réalisation
+La validation
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

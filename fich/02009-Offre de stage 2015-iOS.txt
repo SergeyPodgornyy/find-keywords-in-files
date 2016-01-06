@@ -1,0 +1,38 @@
+﻿Offre De Stage
+SUJET                                                                                         Développements d’application iPhone & iPad
+iD.apps est un des leaders français du développement d’applications mobiles avec de
+nombreuses références dans des domaines métiers très variés :
+    Média : TF1, Canal+, TMC
+    Culture : Larousse
+    Santé : Vidal, Servier
+    Logistique : GEFCO, STVA, Man
+    Etc…
+Dans le cadre de son activité R&D, iD.apps souhaite renforcer ses équipes d’éléments
+passionnés et moteurs. Le but de ce stage est d’innover sur le terrain des objets connectés
+et des nouvelles fonctionnalités de l’OS qui sont pour le moment sous-exploités sur le
+marché :
+DESCRIPTION
+-                                                                                             iPhone/iPad
+-                                                                                             Apple Watch
+-                                                                                             Home Kit
+-                                                                                             iBeacons
+-                                                                                             Continuity
+-                                                                                             Health
+-                                                                                             …
+Au sein d’une équipe multiplateforme vous aurez en charge la conception et la réalisation
+des applicatifs imaginés par notre pôle R&D. Ces applications serviront de démonstrateur à
+l’occasion des nombreux salons réalisés et sponsorisés par iD.apps.
+Environnement : iOS, Mac, XCode, Swift, Objective-C
+DURÉE                                                                                         A partir de 4 mois
+En dernière année de cycle d’étude (Bac+5)
+Niveau d’anglais correct. Maitrise du développement objet.
+PROFIL
+Intérêt prononcé pour une des plateformes mobiles, bonnes connaissances web et notions
+sur les serveurs (webservices, persistance de données, …)
+fxpayet@id-apps.fr
+CONTACT
+
+
+
+
+

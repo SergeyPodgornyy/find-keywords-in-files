@@ -1,0 +1,692 @@
+﻿Madame, Monsieur,
+Vous trouverez ci-joint les propositions de stages de
+Technicolor Connected Home Rennes*
+pour l’année 2014
+Retrouvez-les également sur notre site internet via ce lien.
+Nous vous remercions d’adresser vos candidatures à : stage.rennes@technicolor.com en indiquant
+la référence mentionnée en rouge en haut à gauche de chaque sujet de stage (sans cette
+référence nous ne serons pas en mesure de donner une suite à votre candidature).
+Veuillez agréer, Madame, Monsieur, l’expression de nos salutations les meilleures.
+Le responsable des stages
+www.technicolor.com
+* Technicolor Connected Home ou Maison Connectée offre une large gamme de solutions aux opérateurs de
+télévision payante et aux opérateurs de réseaux pour la transmission de contenus vidéo numériques, de voix,
+de données et de services domestiques intelligents grâce à la conception et à la distribution de produits
+comme les décodeurs, les passerelles, les tablettes sans fil gérées par les opérateurs et d’autres terminaux
+connectés.
+                                                                                                              250 millions de produits d'accès fournis à travers le monde
+                                                                                                              #1 sur le marché des passerelles*
+                                                                                                              #2 sur le marché des décodeurs*
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                           page 1
+Technicolor Connected Home Rennes                                                                              SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                           Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                                    92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                                       341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+Liste des stages de Connected Home / Internship list
+TCHR/001:   Generic and hierarchical approach of a middleware for final customer home energy
+                                                                                               and fluids saving and profiling applications using Qeo and Android ...                                 .. 3
+                                                                                               TCHR/002 :   Conception et mise en œuvre d’une expérience utilisateur innovante pour décodeur
+numérique TV. ..                                                                                                                                                                                      . 5
+TCHR/003 :                                                                                     Développement d’une application Android pour la télévision numérique. ..                               . 6
+TCHR/004 :                                                                                     Etude et mise en place d’une chaîne de production logicielle adaptée aux exigence
+                                                                                               de packaging client et au business model du middleware HomeWare ...                                    ... 7
+TCHR_005:                                                                                      Recherche de techniques en traitement du signal pour l’extraction d’un signal utile
+dans un signal bruité ...                                                                                                                                                                             ... 8
+                                                                                               TCHR_006 : Développement logiciel distribué d’un service « Internet of Things » utilisant Qeo .... 9
+                                                                                               TCHR_007 : Modélisation et simulation thermique d’équipement électronique (Set Top Box,
+Gateway) ...                                                                                                                                                                                          . 11
+                                                                                               TCHR_008 : Analyse des solutions Smart Home déployées au niveau mondial ...                            .. 12
+                                                                                               TCHR_009 : Development of a WiFi automated test-bench in the context of the diffusion in a
+                                                                                               home network of very high rate video. ..                                                               ... 13
+TCHR_010 : Banc de test HDMI ...                                                                                                                                                                      . 14
+TCHR_011 : Automatisation des bancs Front end. ..                                                                                                                                                     ... 15
+TCHR_013:                                                                                      Assistance on software R&D outsourcing services ...                                                    ... 16
+                                                                                               TCHR_014 : Partage de bande passante entre plusieurs clients jouant des contenus accessibles
+en Adaptive bitrate streaming ...                                                                                                                                                                     . 17
+                                                                                               TCHR_015 : Développement et mise en place de drivers d’accélération graphique avec les EFL
+                                                                                               sur Set-Top-Box fonctionnant en Linux embarqué  temps réel ...                                         .. 19
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com           page 2
+Technicolor Connected Home Rennes                                                              SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                           Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                    92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                       341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR/001: Generic and hierarchical approach of a middleware for final customer home energy
+and fluids saving and profiling applications using Qeo and Android
+Summary
+Investigations and architecture of a generic and global middleware for Android and Smartphone
+applications using QEO at destination of energy saving or energy profiling, based on global data
+flows of high frequency sampled consumption of an final consumer house fluids (Electricity, gas,
+cold and hot water)
+The middleware intends to regroup all treatments of big data flows regarding fluids at home.
+Android applications will use the services provided by the fluids dedicated middleware for many
+usages, like away from home survey, senior at home survey, and final customer auto learning good
+practices regarding energy saving
+Detailed subject
+Pre-requisite  (Forecast Equipments tu put in place on the real case):
+Currently, the POC only implements the acquisition of one fluid (Global power supply consumption)
+sampled every 5 minutes. The real case should be improved by adding samples on the 3 other fluids
+of the real case.   In a first approach, the 4 data flows can be simulated but it will be necessary to
+use the real case to validate concepts.  The current real “domotic” case can be improved by adding
+for example 4 modules Raspberry with real time access to the 4 consumption data flows.
+Context
+Android applications based on Qeo that concerns a market, not for full equipped houses,
+but poorly equipped houses.
+The devices involved as data collectors are only global fluids consumption counters that
+are easy to implement in most of the houses that already exist.
+Objective
+Define architecture of a middleware that concerns global consumption fluids data flows.
+Find algorithms and services necessary to be used for many end user applications
+Implement some of these algorithms or services in a spiral approach in order to add
+structured intelligence to many applications. The added value is in the intelligence
+brought to the applications
+Task description
+Based on data collected from a real case, with working devices that collect global
+consumption of power supply and fluids, the trainee will :
+1. Help to define architecture of the middleware
+2. Specify and design the bricks of the middleware
+3. Implement and test in a spiral way, that began by the first needs and used cases
+defined, the functionalities that bring the middleware
+4. Use Android applications development to test effectively the functionalities.
+5. Use Qeo to provide services and algorithms API to applications
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                     page 3
+Technicolor Connected Home Rennes                                                                        SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                     Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                              92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                                 341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+6.  Another intern could be involved in the UI design of the applications based on QEO
+API
+Keywords
+QEO, Middlware, Algorithms, user profiling, modeling, data flows correlation, data end
+user rendering , Bigdata architecture and technologies, Android Applications
+Working environment
+Android SDK, QEO Sdk, Real uses cases using real devices implementation in a house
+occupied and equipped with global consumption collectors (power supply, hot water, cold
+water, gas)
+The intern will join the SmarHome team in order to take benefit of the environment of
+platform in usage for QEO and also be linked to Research & Innovation for research
+aspects.
+Profile of the applicant / Prerequisites
+Student in Master 1 or 2 engineering school
+This proposal includes a strong research aspect, so that the intern can use this subject in
+order to redact a Thesis
+Engineer in computing possibly specialized in algorithmic and bigdata exploitation
+Architecture in computing data’s
+Internship period & duration
+6 months, ideally from December 2013 to June 2014
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com          page 4
+Technicolor Connected Home Rennes                                                             SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                          Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                   92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                      341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR/002 : Conception et mise en œuvre d’une expérience utilisateur innovante pour décodeur
+numérique TV.
+Résumé du sujet
+Aujourd’hui, l’expérience utilisateur sur les équipements TV (STB, PVR) est extrêmement pauvre en
+comparaison de l’expérience utilisateur sur les équipements mobiles (smartphone, tablette), alors
+que les équipements TV proposent des fonctionnalités de plus en plus avancées (Media Center,
+jeux, accès à un App Store, au web …).
+On  constate  d’ailleurs  que  cette  pauvreté  freine  l’adoption  par  les  utilisateurs  de  ces
+fonctionnalités avancées, rebutés en premier lieu par l’utilisation lente et souvent fastidieuse de la
+télécommande.
+L’objet de ce stage est donc de concevoir et de mettre en œuvre une expérience utilisateur
+innovante pour décodeur numérique TV, tirant profit d’une nouvelle génération (prototype) de
+télécommande.
+Sujet détaillé
+Contexte
+Labo R&D Homeware STB (Set-Top Boxes)
+But
+Conception et mise en œuvre d’une expérience utilisateur innovante pour décodeur
+numérique TV, tirant profit d’une nouvelle génération (prototype) de télécommande.
+Description des travaux
+-                                                                                                        Réaliser une conception précise et détaillée de l'interface
+-                                                                                                        Réaliser un prototype fonctionnel
+-                                                                                                        Préparer et animer des tests utilisateurs
+l’objectif est d’avoir en fin de stage un démonstrateur fonctionnel à présenter lors de la
+soutenance.
+Mots clés : User Experience Design,  Advanced TV, Innovative Remote Control
+Environnement de travail
+Au sein d’une équipe organisée en Agile (Scrum) et chargée de développer rapidement
+des prototypes et démonstrateurs dans le domaine de la TV numérique, vous consoliderez
+vos compétences sur l’expérience utilisateur et le « look and feel ».
+Profil du stagiaire / Compétences requises
+En cours de titularisation d’un BAC+5 au sein d’une école multimédia ou de design, vous
+êtes passionné par l’expérience utilisateur et par la conception de nouveaux modes
+d’interaction avec les systèmes numériques.
+Futur UX/UI designer autonome, dynamique et entreprenant, vous avez déjà conçu des
+interfaces web desktop et mobile.
+Durée et période du stage : 6 mois dès que possible
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                     page 5
+Technicolor Connected Home Rennes                                                                        SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                     Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                              92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                                 341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR/003 : Développement d’une application Android pour la télévision numérique.
+Résumé du sujet
+L’objectif est de réaliser une application TV Android à l’état de prototype, capable de contrôler le
+module TV d’un décodeur numérique, de manière locale (l’application s’exécute sur le décodeur)
+ou distante (l’application s’exécute sur tablette ou smartphone Android et communique via un web
+service JSON avec le décodeur).
+Sujet détaillé
+Contexte
+Labo R&D Homeware STB (Set Top Boxes)
+But
+Développement d’une application Android pour la télévision numérique.
+Description des travaux
+Les différentes phases seront :
+-                                                                                                      Etude des composants et de l’API TV.
+-                                                                                                      Interfaçage des fonctions nécessaires
+-                                                                                                      Développement de l’application (incluant GUI)
+-                                                                                                      Tests et mesures de performances sur plateforme intégrée
+l’objectif est d’avoir en fin de stage une interface fonctionnelle à présenter lors de la
+soutenance.
+Mots clés
+Programmation objet, Java, Android, JNI, JSON
+Environnement de travail
+Au sein d’une équipe organisée en Agile (Scrum) et chargée de développer un middleware
+TV pour décodeur, vous consoliderez vos compétences sur le développement de GUI pour
+Android.
+Profil du stagiaire / Compétences requises
+En  cours  de  titularisation  d’un  BAC+5  au  sein  d’une  école  d’ingénieurs,  vous  êtes
+passionné  par  le  développement  d’applications  et  soucieux  de  la  satisfaction  de
+l’utilisateur en termes d’esthétique et d’utilisabilité.
+Dynamique et entreprenant, vous maîtrisez Java et le SDK Android ; une expérience
+(professionnelle ou personnelle) dans le développement mobile serait un plus ainsi
+qu’une connaissance du NDK.
+Durée et période du stage : 6 mois dès que possible
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                   page 6
+Technicolor Connected Home Rennes                                                                      SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                   Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                            92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                               341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR/004 : Etude et mise en place d’une chaîne de production logicielle adaptée aux exigences
+de packaging client et au business model du middleware HomeWare
+Résumé du sujet
+Le logiciel HomeWare est la souche TCL pour construire des produits STB. Pour cela, il doit être
+packagé de façon précise, selon des exigences techniques et de distribution qu’il faudra identifier
+auprès des experts métiers et process Technicolor.
+Sur cette base, il faudra proposer un processus de production logiciel adapté, tenant aussi compte
+de l’organisation du travail proprement dite.
+Enfin, il sera demandé de mettre en place en mode POC tout ou partie de la solution proposée.
+Sujet détaillé
+Contexte
+Homeware est un middleware STB développé sur OS Linux
+But
+Etude et mise en place POC du processus de production logicielle
+Description des travaux
+   Capture des exigences
+   Etude des solutions possibles
+   Sélection de la meilleure solution
+   Déploiement en mode POC
+Mots clés
+Production logicielle, compilation, packaging, distribution Linux/Android
+Environnement de travail
+Linux/Android
+Profil du stagiaire / Compétences requises
+Formation Ingénieur - stage de dernière année
+Durée et période du stage : 6 mois - début du stage dès que possible
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                  page 7
+Technicolor Connected Home Rennes                                                                     SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                  Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                           92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                              341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_005: Recherche de techniques en traitement du signal pour l’extraction d’un signal utile
+dans un signal bruité
+Sujet détaillé
+Les réseaux LTE (Long Term Evolution) commercialisés par de nombreux opérateurs en
+Europe sous l’appellation 4G utilisent plusieurs canaux allant de 800MHz à 2.6GHz. Dans
+certaines configurations, le signal LTE peut s’avérer être une source de perturbations pour
+les équipements sur les réseaux câblés. L’objectif principal  de ce travail est de mener des
+investigations sur les méthodes mathématiques pour l’extraction d’une source de bruit, ici
+le signal LTE d’un signal utile.
+Contexte :
+R&D - Qualification and Certification Team
+But
+Définir les méthodes mathématiques les plus adaptées à notre problème. Proposer des
+axes  de  développements  si  les  solutions  existantes  ne  sont  pas  adaptées  à  notre
+problème.
+Description des travaux
+Etude de faisabilité et simulations des solutions mathématiques apportées.
+Mots clés
+DOCSIS, Réseaux câblés, LTE, Démodulation numérique et Traitement du signal
+Environnement de travail
+Laboratoire de R&D
+Profil du stagiaire / Compétences requises
+Démodulation, Traitement numérique du signal
+Durée et période du stage : 6mois, Janvier à Juin 2014
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com            page 8
+Technicolor Connected Home Rennes                                                               SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                            Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                     92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                        341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_006 : Développement logiciel distribué d’un service « Internet of Things » utilisant Qeo
+Résumé du sujet
+Développement d’une application, sous android, fournissant à l’utilisateur un service complet et
+démontrable.
+La première phase utilise un logiciel de navigation sur tablette et un téléphone, l’objectif étant de
+développer un pluggin OsmAnd (cf source forge) pour simuler un nouveau service original utilisant le
+système de navigation d’un véhicule automobile ET un téléphone.
+Dans la deuxième phase, si le stagiaire est dynamique, motivé et créatif, il pourra définir et
+implémenter ses propres extensions au service, utilisant Qeo pour la communication entre objets de
+la maison. Il s’agit donc d’introduire de nouveaux objets dans le service, comme telévision, set-top-
+box, capteur Zigbee…
+Sujet détaillé
+Contexte
+Technicolor  a  développé et  fourni  à  ses  partenaires  et  clients  Qeo,  composé  d’un
+mécanisme  de  communication  entre  appareils  domestiques,  qui  s’affranchit  des
+protocoles physiques, qui trouve et relie les appareils éventuellement à travers internet,
+qui est tolérant aux pannes, aux reconfigurations et dont la sécurité est garantie.
+Qeo est un protocole de l’Internet des Objets, qui fait le lien entre tous les autres
+protocoles et qui permet le déploiement de nouveaux services à la personne.
+Qeo permet un développement Open Source.
+Pour plus d’informations sur Qeo, voir www.qeo-app-development.com
+But
+1)  Développer un cas d’utilisation complet, qui puisse servir à la promotion de Qeo
+auprès des clients et partenaires. Cette phase permet au stagiaire de prendre
+complétement conscience des possibilités de Qeo.
+2)  Donner au stagiaire l’opportunité de définir ses propres extensions au services et
+d’apporter ainsi sa touche de créativité.
+Description des travaux
+Les travaux se déroulent sur 3 plans :
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                    page 9
+Technicolor Connected Home Rennes                                                                       SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                    Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                             92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                                341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+  Business : compréhension du service du point de vue de l’utilisateur final, définition
+de l’expérience utilisateur, puis de la façon de lui communiquer autour du projet
+  Information :  Qeo  permet  la  communication  entre  appareils.  Définir  quelles
+informations sont communiquées, par qui, quand, comment…
+  Software : développement logiciel sur les différentes cibles, pour la 1ere phase
+Smartphone  et  tablette.  Pour  la  2eme  phase  ajouter  les  nouveaux  devices,
+éventuellement  sous  linux.  Analyse,  architecture  multi-device,  spécification,
+intégration, test.
+Mots clés
+Qeo, Linux, android, iOS, Internet of Things, application, service, network, embedded,
+bridge, zigbee
+Environnement de travail
+Linux, android, iOS, eclipse, C/C++, Java.
+Profil du stagiaire / Compétences requises
+User-Oriented mindset
+Communication
+System architecture
+Embedded/real-time software development
+High-level Application
+User-Interface and design
+Testing
+Durée et période du stage : Minimum 2 mois, idéalement 6 si on veut être créatif.
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com        page 10
+Technicolor Connected Home Rennes                                                           SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                        Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                 92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                    341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_007 : Modélisation et simulation thermique d’équipement électronique  (Set Top Box,
+Gateway)
+Sujet détaillé
+Contexte
+Dans le cadre du Laboratoire de Développement Matériel de Connected Home R&D, sur le
+site de Rennes, en charge de développer des produits d’accès au réseau type Set Top Box,
+Gateway
+But
+En coopération étroite avec les équipes de développement électronique et mécanique,
+modéliser le comportement thermique d’un système électronique embarqué dans un
+ensemble  mécanique,  réaliser  des  simulations  afin  d’appréhender  les  problèmes  et
+d’optimiser les solutions retenues.
+Description des travaux
+A partiR d’une Set Top Box High End, analyser les sources de puissance à dissiper, leur
+position, leurs contraintes, les contraintes mécaniques (esthétique, ouverture, accès ),
+puis modéliser le comportement thermique de l’ensemble afin de réaliser des simulations
+dans le but de proposer des solutions optimales en terme de dissipation thermique et
+coûts.
+Mots clés
+Siemens, NX8 Electronics System Cooling, Thermal flow, heatsink, PCB, Thermal Pad
+Environnement de travail
+Technicolor- Connected Home- HW platforms R&D - Rennes Competences Center Lab
+Profil du stagiaire / Compétences requises
+Elève Ingénieur Master 1 ou 2 connaissant les outils de modélisation et de simulation
+thermique
+Durée et période du stage
+3 mois minimum, à partir de Janvier 2014 (Avril au plus tard)
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com        page 11
+Technicolor Connected Home Rennes                                                           SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                        Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                 92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                    341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_008 : Analyse des solutions Smart Home déployées au niveau mondial
+Résumé du sujet
+Inside the Connected Home division, your mission will consist in doing a word wide market study on
+deployed Smart Home solutions (Home Security, Home Automation, Home Monitor & Control,
+Home Media).  You will have to analyze what the deployed solutions are offering (services, pricing,
+distribution channels, countries) as well as identifying new solutions that are coming.   You will be
+able to provide a comparative study in a marketing approach of the different solutions on the
+market.
+Contexte
+Au sein de la division Maison Connectée, nous lançons une nouvelle entité Smart Home.
+Nous avons besoin de connaître les solutions Smart Home actuellement déployées sur le
+marché (veille marché, veille concurrentielle)
+But
+Mieux connaître les solutions actuellement déployées
+Connaître les service, prix et chaines de distribution pour ces solutions
+Description des travaux
+L’étudiant(e) devra utiliser différents moyens pour trouver l’information (réseaux sociaux,
+sites internet, presse)                                                                                 . Il/elle pourra tester quelques équipements qui seront jugés
+intéressants à étudier. Il/elle pourra demander à nos forces de ventes mondiales de lui
+envoyer des équipements de leur région pour pouvoir les tester.
+A l’issu du stage l’étudiant(e) remettra une étude comparative des différentes solutions
+du marché. Il pourra aussi expliquer les tendances à venir.
+Mots clés
+Maison connectée, domotique, smart home, vidéo surveillance, sécurité, Machine-to-
+machine
+Environnement de travail
+L’étudiant(e) travaillera au sein du département marketing produit. Il/elle sera amené(e) à
+communiquer avec des équipes au niveau mondial.
+Profil du stagiaire / Compétences requises
+Etudiant(e) intéressé(e) par l’innovation. Etudiant intéressé(e) par les objets connectés et
+comment les utiliser au sein de la maison connectée.
+Etudiant autonome dans la recherche des informations.
+Durée et période du stage : 1-2 mois dès que possible
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                    page 12
+Technicolor Connected Home Rennes                                                                       SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                    Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                             92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                                341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_009 : Development of a WiFi automated test-bench in the context of the diffusion in a
+home network of very high rate video.
+Summary of the internship
+Inside the Hardware test lab, the intern will have to develop and improve a WiFi automated test-
+bench in the domain of the Set-Top-Box and the Wi-Fi.  The test-bench is developed in Visual Studio
+C# language and uses equipments like spectrum Analyzer, Wifi Analyzer, power meter, Arbitrary
+generator through GPIB, Ethernet, USB interfaces.
+Detailed description
+Context
+Diffusion in a home network of very high rate video.
+Objective
+To develop and tune an automatic test bench for Wireless application
+Task description
+Appropriate the environment of the Wifi test-bench, to develop new modules and test
+them, test and metrology of the bench, writing of a report and a manual of the bench.
+Keywords
+Wi-Fi, 802.11, automated, test-bench
+Working environment
+PC, Visual Studio C#, GPIB bus, Excel Data files, Spectrum Analyser
+Profile of the applicant / Prerequisites
+Engineer  Student  in final  study  project,  knowing of  C  language  or  better  :  C#,             and
+automated or real time software
+Internship period & duration
+5 months from April to August
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                  page 13
+Technicolor Connected Home Rennes                                                                     SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                  Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                           92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                              341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_010 : Banc de test HDMI
+Sujet détaillé
+Contexte :
+En coopération étroite avec les équipes de développement électronique. Travaux sur un
+Banc de test HDMI de National Instrument comprenant un analyseur vidéo « VMS », un
+analyser audio « Audio Master », un analyser de qualité vidéo « PQA », un séquenceur de
+test TestStand.
+But
+Automatisation de test vidéo, audio et qualité vidéo sur la sortie HDMI de set top box.
+Définition et configuration des mesures unitaires sur le banc HDMI puis création des
+scenarios de test.
+Description des travaux
+Après une période pendant laquelle le stagiaire aura appréhendé l’environnement de nos
+produits Set Top Box High End et des contraintes Audio/Vidéo associées (Norme HDMI,...),
+il mettra en œuvre une automatisation des tests (qui seront à définir au préalable par des
+scenarios pertinents) sur notre équipement actuel.
+Mots clés
+Electronique, vidéo/audio numérique, HDMI , programmation ( TestStand, CVI, C++, VB),
+automatisation.
+Environnement de travail
+Dans le cadre du Laboratoire de Développement Matériel de Connected Home R&D, sur le
+site de Rennes, en charge de développer des produits d’accès au réseau type Set Top Box,
+Gateway
+Profil du stagiaire / Compétences requises
+Elève Ingénieur connaissant la programmation (TestStand, CVI, C++, VB)
+Durée et période du stage
+3 mois minimum, à partir de Janvier 2014 ( Avril au plus tard )
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com         page 14
+Technicolor Connected Home Rennes                                                            SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                         Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                  92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                     341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_011 : Automatisation des bancs Front end.
+Sujet détaillé
+Contexte :  Dans le cadre du Laboratoire de Développement Matériel de Connected Home
+R&D, sur le site de Rennes, en charge de développer des produits d’accès au réseau type
+Set Top Box, Gateway
+But : En coopération étroite avec les équipes de développement matériel (électronique),
+Uniformisation des différents   bancs de tests afin d’avoir les mêmes interfaces d’entrées
+et de sorties entre les différents type de réception sat/cable /terrestre.
+Description des travaux
+Après une période pendant laquelle il aura appréhendé l’environnement de nos produits
+Set Top Box High End, et plus particulièrement dans le domaine des réceptions de signaux
+modulés numérique, (DVBS, DVBT, DVBC), le stagiaire aura pour mission de proposer et
+d’implémenter une interface commune pour l’ensemble des différentes réceptions.
+Mots clés
+Electronique, Front end, modulation et démodulation numérique (QPSK, QAM, OFDM),
+programmation (TestStand, CVI, C++, VB), automatisation.
+Environnement de travail
+Technicolor- Connected Home- HW platforms R&D - Rennes Competences Center Lab
+Profil du stagiaire / Compétences requises
+Elève Ingénieur connaissant la programmation (TestStand, CVI, C++, VB)
+Durée et période du stage
+3 mois minimum, à partir de Janvier 2014 (Avril au plus tard)
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com         page 15
+Technicolor Connected Home Rennes                                                            SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                         Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                  92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                     341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_013: Assistance on software R&D outsourcing services
+Detailed description
+Context
+Technicolor, a worldwide technology leader in the media and entertainment sector, is at
+the forefront of digital innovation. Our world class research and innovation laboratories and
+our creative talent pool enable us to lead the market in delivering advanced video services
+to  content  creators  and  distributors.  We  also  benefit  from  an  extensive  intellectual
+property portfolio supporting our thriving licensing business.
+Objective
+Within the Software Sourcing department, the candidate will assist on software R&D
+outsourcing services:
+   Work with the internal stakeholders to define the outsourcing requirements;
+   Assist on the commercial discussions with the outsourcing partners;
+   Track the partners performance and prepare the business reviews.
+Finally, come up with recommendations regarding how to manage this activity.
+In case of success, this internship might be followed with a “VIE” (Volontariat International
+en Entreprise) in India or China.
+Keywords
+Sourcing software - commercial negotiation - partner management - outsourcing
+Profile of the applicant / Prerequisites
+   BAC+5 - Student from engineering school
+   Fluent in English
+   Internationally minded; willing to travel to India, China, USA, Belgium
+   Willing to evolve towards a business career
+Internship period & duration
+6 months starting as soon as possible
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com              page 16
+Technicolor Connected Home Rennes                                                                 SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                              Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                       92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                          341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_014 : Partage de bande passante entre plusieurs clients jouant des contenus accessibles en
+Adaptive bitrate streaming
+Résumé du sujet
+Aujourd'hui, la diffusion et la visualisation de contenus multimédias s'appuie essentiellement sur la
+technique de l’ «  Adaptive bitrate streaming ». Cette technique s'appuie sur une mesure continue
+de la bande passante pour ajuster la qualité vidéo présentée par le player. Si elle fournit une bonne
+expérience utilisateur lorsqu'un seul player utilise la bande passante disponible, l'implémentation
+actuelle de l’« Adaptive bitrate streaming » dans les players peut ne plus répondre au besoin si
+plusieurs players s'exécutent simultanément (partage ératique de la bande passante)
+Afin d’exploiter au mieux cette bande passante pour les besoins utilisateur, l'objectif du stage sera
+donc de mettre en place côté player une solution permettant de maîtriser le partage de la bande
+passante entre plusieurs clients
+Sujet détaillé
+Contexte
+Aujourd'hui,  la  diffusion  et  la  visualisation  de  contenus  multimédias  s'appuie
+essentiellement sur la technique de l' « Adaptive bitrate streaming ». Cette technique
+s'appuie sur une mesure continue de la bande passante pour ajuster la qualité vidéo
+présentée par le player.
+But
+L' « Adaptive bitrate streaming » fournit une bonne expérience utilisateur lorsqu'un seul
+player utilise la bande passante disponible. Mais l'implémentation actuelle de l’« Adaptive
+bitrate streaming » dans les players peut ne plus répondre au besoin si plusieurs players
+s'exécutent simultanément (partage ératique de la bande passante). Le but sera donc
+d’exploiter au mieux cette bande passante pour les besoins utilisateur, l'objectif du stage
+étant d’implémenter côté player une solution permettant de maîtriser le partage de la
+bande passante entre plusieurs clients.
+Description des travaux
+Le travail consistera à :
+- mettre en place l'«   Adaptive bitrate streaming » côté serveur et d'utiliser le
+"Traffic Control" sous Linux pour contrôler la bande passante
+- mettre en place l'«   Adaptive bitrate streaming » côté client en développant un
+player  (avec gstreamer) implémentant une solution permettant de maîtriser le
+partage de la bande passante entre les différents clients qui utiliseront ce player.
+Mots clés
+Linux, temps réel, langage C, réseau, gstreamer, adaptive bitrate streaming
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                    page 17
+Technicolor Connected Home Rennes                                                                       SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                    Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                             92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                                341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+Environnement de travail
+Développement en environnement Linux
+Profil du stagiaire / Compétences requises
+Système Linux et développement en C sous Linux, réseau
+Durée et période du stage
+Durée de 5 ou 6 mois avec un démarrage en Février ou Mars 2014
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com   page 18
+Technicolor Connected Home Rennes                                                      SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                   Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                            92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                               341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+TCHR_015 : Développement et mise en place de drivers d’accélération graphique avec les EFL sur
+Set-Top-Box fonctionnant en Linux embarqué  temps réel
+Résumé du sujet
+Les EFL (Enlightenment Foundation Libraries) sont des bibliothèques graphiques ciblant le domaine
+de l’embarqué. En plus du processeur principal, une Set-Top-Box intègre un coprocesseur dédié aux
+opérations graphiques qu’il s’agira de piloter.
+Sujet détaillé
+Contexte
+Les EFL (Enlightenment Foundation Libraries) sont des bibliothèques graphiques ciblant le
+domaine de l’embarqué. En plus du processeur principal, une Set-Top-Box intègre un
+coprocesseur dédié aux opérations graphiques.
+But
+Afin d’exploiter au mieux les ressources matérielles pour permettre une fluidité optimale
+des applications basées sur les EFL et pour répondre aux contraintes temps réel STB, le
+but  est  d’utiliser  les  possibilités  d’accélération  graphique  en  s’interfaçant  avec  le
+coprocesseur dédié.
+Description des travaux
+Le  travail consistera  à  développer  et  mettre  en  place  les  drivers  Linux  graphiques
+nécessaires au pilotage du coprocesseur graphique. Ces drivers devront s’intégrer à
+l’architecture des composants utilisées par les EFL (via Wayland par exemple) et qui
+seront embarqués sur la STB. Il s’agira ensuite de mettre en place le système Tizen dont
+toute la partie graphique repose sur les EFL
+Mots clés
+Set-Top-Box, linux embarqué, temps réel, langage C, drivers graphiques
+Environnement de travail
+Linux embarqué / temps réel sur Set-Top-Box
+Profil du stagiaire / Compétences requises
+Système Linux et développement en C sous Linux
+Durée et période du stage
+Durée de 5 ou 6 mois avec un démarrage en Février ou Mars 2014
+Propositions de stages Connected Home 2014 / postuler à stage.rennes@technicolor.com                page 19
+Technicolor Connected Home Rennes                                                                   SNC au capital de 152 000 euros
+975 avenue des Champs Blancs - ZAC des Champs Blancs                                                Siège social : 1-5, rue Jeanne d’Arc
+CS17616 -35576 Cesson-Sévigné cedex, France                                                         92130   Issy-les-Moulineaux, France
+tél. : +33 (0)2 99 27 30 00 - fax : +33 (0)2 99 27 30 01                                            341 399 558 R.C.S. de Nanterre
+www.technicolor.com
+
+
+
+
+

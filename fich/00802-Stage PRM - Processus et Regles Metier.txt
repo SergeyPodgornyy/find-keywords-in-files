@@ -1,0 +1,69 @@
+﻿Stage  PRM  -  Processus  et  Règles  Métier
+Atos  Technology  Services
+REFERENCE  :  154528
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078421
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Nice 6000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier,  des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie.  Atos est présent dans 47 pays, compte 77 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et
+l’évolution de leurs systèmes d’information. Plus de 3 000 experts de proximité accompagnent nos
+clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions
+de leurs marchés.
+DESCRIPTION  DU  POSTE  :
+Dans cette proposition nous adressons les systèmes d’informations à forte valeur métier dans un
+contexte de développement par cycles itératifs et incrémentaux. Dans ce cas la spécification de
+l’application est menée en simultané du développement. Nous constatons alors la difficulté de faire
+évoluer les développements avec la prise en compte des nouvelles spécifications. Les
+développements doivent alors (i) prendre en compte de nouvelles fonctionnalités (ii) modifier les
+fonctionnalités déjà réalisées et (iii) maintenir une version cohérente des notions métier.
+Dans ce contexte, nous avons mis en place une architecture (SOA) séparant l’implémentation des
+services  technique de la gestion des processus et des règles Métier. Notre objectif est alors de
+définir un composant sur étagère (COST) et une méthodologie associée, afin d’augmenter la qualité
+et le temps de développement des processus et règles métier.
+Le stage se focalise sur la méthodologie et la validation métier du composant. L’objectif est alors de
+mettre à l’épreuve les éléments déjà prototypés et de proposer des axes d’amélioration.
+Les travaux à réaliser sont :
+
+
+
+
+* Etudier la méthodologie proposée et proposer des améliorations
+* Définir la méthodologie de validation métier des processus et règles métier
+* Elargir les éléments suivants à d’autres types de spécifications
+Technologie :
+UML, AMC*Designer, HP Quality Center
+Objectifs pédagogiques :
+Durant ce stage vous participerez :
+* A la définition des règles de gestion et des processus métier
+* A la mise en place d’une méthodologie permettant d’améliorer la réalisation des règles et
+processus métier d’une application
+* A la mise en place de cas de test pour valider différent niveaux d’éléments métier : règles et
+processus.
+Ce stage sensibilise aussi à la méthodologie Agile (Scrum) et aux d’architectures SOA avec
+l’intégration de moteur de processus métier (BPM) et de moteur de règles (BRMS).
+Profil
+De formation Bac+5 (Ecole d'ingénieur ou université) en cours de validation, vous recherchez un
+stage d'une durée de 4 à 6 mois (dates variables selon l'école).
+Vous avez impérativement une fibre fonctionnelle, mais êtes également attirés par les aspects
+techniques afin de pouvoir participer aux discussions autour de l’architecture du composant.
+Bonne qualité rédactionnelle en français, anglais professionnel requis.
+PROFIL  :
+Le stage est localisé à Sophia-Antipolis.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078421
+
+
+
+
+

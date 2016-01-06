@@ -1,0 +1,46 @@
+﻿ETUDE ET DEVELOPPEMENT JAVA ET C/C++
+Entreprise
+Entreprise  de  maîtrise  d’œuvre  de                                                                                     200  collaborateurs,  le  GIE  SESAM-Vitale  est  au  cœur  des  échanges
+électroniques  sécurisés  entre les  Professionnels  de  Santé et  l’Assurance  Maladie.  L’infrastructure  mutualisée
+SESAM-Vitale  gère  aujourd’hui  plus  d’un  milliard  de  transactions  par  an  en  relation  avec  plus  de  300 000
+Professionnels de Santé.
+Contexte
+La Direction Infrastructure des Systèmes d'Information du Professionnel de Santé  (DISIPS) propose un stage
+"Etude et Développement" autour des technologies de programmation Java et C/C++ sous Windows dans le
+domaine des accès aux cartes à puce.
+Description de la mission
+Le composant MGC sur lequel porte ce stage est une librairie en C/C++, en charge de la gestion des accès aux
+cartes à puce, intégrée aux fournitures de facturation du GIE SV sous Windows, Mac Os X et Linux.
+Afin  de  pouvoir  étendre  l'usage  de  nos  produits  aux  architectures  Client/serveur,                               (et  dans  le  futur  aux
+environnements mobiles), nous envisageons le développement d’une couche RPC pour les appels à distance de
+ce composant.
+Description détaillée
+  Définition d’un protocole d’appel RPC aux services MGC
+  Développement d’un composant Proxy MGC en C/C++
+  Développement d’un client Proxy MGC en Java pour Windows
+Profil recherché
+Elève ingénieur en 4ème ou 5ème année ou élève universitaire niveau master, spécialisation logicielle.
+Pré-requis
+  Environnement : Windows (programmation)
+  Outils: Visual Studio, Eclipse, SVN
+  Langages : C/C++, Java, XML
+  Protocole : HTTP
+Compétences visées durant le stage
+  Mise en œuvre d’une solution d’appel à distance d’une librairie
+  Serveur Tomcat et Servlet
+  Framework Pushlet : solution de push d’évènements par un serveur
+Durée / Date
+3 à 4 mois / Début du stage au premier semestre 2015.
+Comment répondre ?
+Merci d’adresser votre candidature (CV + lettre de motivation) à :
+GIE SESAM-Vitale
+5, Boulevard Marie et Alexandre Oyon
+72019 Le Mans Cedex 2 FRANCE
+Fax : (33) 02 43 87 78 42
+E.mail : recrutement@sesam-vitale.fr
+Réf. : STAGE/DISIPS/DEV/MGC
+
+
+
+
+

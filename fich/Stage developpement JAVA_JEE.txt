@@ -1,0 +1,44 @@
+﻿Stage développement JAVA/JEE
+Altime Associates
+REFERENCE  :  StageRMdev
+POUR POSTULER  :  offre4505766.1536@syntec.contactrh.com sous la référence StageRMdev
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Neuilly 92200, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  de 2 à 6 mois
+SECTEUR  :  Services (Ingénierie/Bureau d'Etudes)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Altime Associates Revenue Management est une société d'édition de logiciel et de conseil
+spécialiste en « revenue management ». Le revenue management (ou yield management) est un
+système de gestion des capacités disponibles (chambres en hôtellerie, sièges dans le transport
+aérien…) ayant pour objectif la maximisation du chiffre d'affaires.
+Altime Associates Revenue Management développe une solution logicielle de Yield Management
+dans un secteur où ces techniques n’ont encore jamais été déployées.
+DESCRIPTION DU POSTE  :
+La solution Yield d’Altime Associates Revenue Management s’articule autour d’un moteur de
+prévision et d’un moteur d’optimisation des prix.
+Ces différents moteurs s'interfacent en web-services entre eux et avec des applications extérieures
+comme notamment les systèmes de ventes.
+Par ailleurs un client web permet à un responsable d’effectuer les paramétrages de l’application, de
+visualiser les résultats, de corriger les prévisions et globalement de piloter l’application.
+Dans ce cadre, Altime Associates Revenue Management propose un stage pour le développement
+d’une partie du moteur et pour le développement du client web.
+Les développements sont effectués en JAVA/JEE avec les framwework Spring, Hibernate,
+SpringBatch.
+L'interface est développée avec Primefaces.
+PROFIL  :
+Objectif du Stage selon le périmètre de compétences du stagiaire :
+• Développer des parties du moteur de revenue management sur la base de spécifications,
+• Développer des parties de l’interface de pilotage de l’application,
+• Intégrer des framework JAVA/JEE
+• Mettre en place des tests en volume
+• Travailler en symbiose avec les membres de l'équipe dans un environnement stimulant,
+• Contribuer aux décisions stratégiques sur les nouvelles fonctionnalités et les choix techniques.
+POUR POSTULER  :  offre4505766.1536@syntec.contactrh.com sous la référence StageRMdev
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE DÉVELOPPEUR WEB H/F  - ALTERNANCE EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2014
+Référence de l’offre : SC/ALT/99094-7045902
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +2
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement :
+Rejoignez la Direction des Systèmes d'Information de la Banque de Détail en France qui par sa technique
+novatrice maîtrisée, son approche spécifique mais exemplaire, accompagne l'évolution de l'activité du réseau
+d'agences en France.
+Votre mission :
+Vous rejoignez la Direction Systèmes d'Information qui fournit aux Réseaux France l'ensemble des services
+informatiques et applicatifs nécessaires à leur activité commerciale.
+En tant que développeur WEB et sous la responsabilité de votre tuteur ou maître d'apprentissage, vous avez
+principalement en charge la mission suivante :
+* Concevoir et développer des modules métiers de type intranet en java/J2EE, ainsi que des mini-sites métiers de
+type Internet pour les 3 Enseignes de la Banque de Détail en France (Société Générale, Crédit du Nord et Global
+Transaction Payment Services).
+Profil recherché :
+Votre profil :
+Vous préparez un Bac +5 dans le domaine de l'informatique.
+Vous avez des connaissances en développement Java/J2EE, PHP, HTML, CSS, JavaScript ainsi que de la base de
+données Mysql.
+Votre niveau d'anglais est opérationnel.
+Merci d'indiquer votre rythme d'alternance et vos dates de disponibilité impérativement sur votre CV.
+Poste basé à Val de Fontenay - Alternance de 12 à 36 mois - A pourvoir en Septembre 2014
+Pour postuler : http://socgen.contactrh.com/jobs/1536/7045902
+
+
+
+
+

@@ -1,0 +1,36 @@
+﻿Proposition de stage :
+Parallélisation de solveurs hybrides
+Equipe SAGE
+L. Lenôtre and G. Pichot
+Mots-Clés :  calcul haute performance (HPC), simulation numérique, méthodes
+de Monte Carlo, parallélisation (MPI).
+Problématique :
+La plupart des solveurs pour les problèmes d’équations aux dérivées par-
+tielles (modélisation physique des écoulements par exemple) sont soit de type
+déterministe (solveur matriciel), soit de type Monte Carlo (utilisant un générateur
+de  nombre  pseudo-aléatoires).   Chaque  principe  possède  ses  points  forts  et
+faibles.  Il parait alors naturel de vouloir créer des solveurs hybrides pour tirer
+parties des deux mondes.
+Quelque soit le cas, ces solveurs sont assez lourds et complexes. Ils requièrent
+donc le recours au parallélisme et aux superordinateurs (grille de calcul) pour de-
+venir pleinement efficients et utiles (temps de calcul raisonnable). Les méthodes
+de parallélisation sont assez différentes selon les types de solveurs.  Ce dernier
+point pose un réel problème pour les solveurs hybrides. Hors, pour être pleine-
+ment aboutis et compétitifs, ils doivent tirer au maximum partie du parallélisme.
+Déroulement :
+Le stage nécessitera la familiarisation avec deux codes : Paradis et Palmtree.
+Le  premier  est  un  solveur  hybride  dont  la  partie  déterministe  présente  une
+méthode de parallélisation intéressante.   Le second est un parallélisateur de
+solveur de type Monte Carlo en cours de développement.  L’étudiant devra en-
+suite se familiariser avec l’utilisation et l’architecture des superordinateurs. Ce
+travail commencera sur des stations de travail multi-coeur et sur une grille de
+petite taille de l’INRIA Rennes. Une fois ces deux tâches effectuées, le coeur du
+stage consistera à trouver et coder des méthodes pour la cohabitation des deux
+types de solveurs et la parallélisation massive.
+Contact : Lionel.Lenotre@inria.fr
+1
+
+
+
+
+

@@ -1,0 +1,68 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEMENT D'APPLICATIONS H/F EN STAGE 6 MOIS.
+Date : 29/01/2015
+Référence de l’offre : 2015-1599-8717543
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net.
+Description du poste :
+Nous recherchons un stagiaire en développement logiciel dans notre équipe « System Firmware » au centre
+de R des Clayes-sous-Bois.
+Cette équipe est en charge du développement des firmwares BIOS des serveurs des gammes bullion et bullx
+de Bull.
+Le BIOS a un rôle essentiel pour le fonctionnement du serveur:
+- Identifier tous les périphériques internes et externes du serveur
+- Initialiser tous les composants de la carte mère, du chipset et de certains périphériques
+- Démarrer le système d'exploitation et lui fournir un ensemble de services permettant de faire le plus
+possible abstraction de la couche matérielle
+Lors de ce stage, vos principales missions seront les suivantes:
+1/ Réaliser l'inventaire de tous les outils déjà disponibles qui pourraient être utiles à la vérification du logiciel
+BIOS. Certains sont internes à Bull (outils usine, validation, équipe mise-au-point, performance …), d'autres
+externes (outils Intel, Insyde, Microsoft, open-source …)
+2/ Spécifier dans un « plan de test » l'ensemble des éléments du logiciels à tester sous tous les différents cas
+et environnements d'exécution. Ce « plan de test » reflètera ainsi le comportement prévu par ses développeurs
+ou les demandes clients
+3/ Réaliser des tests automatiques de vérification/non-régression en python ou en C
+4/ Créer un environnement facile à exécuter qui combine 1) et 3)
+Profil recherché :
+Bac + 4/5, Ecole d'ingénieur ou cycle universitaire équivalent, avec une spécialisation en informatique ou en
+électronique.
+Langues
+Français (Bilingue)
+Anglais (Opérationnel)
+Compétences requises
+
+
+
+
+- Bonne maîtrise des langages C/C++ et Python
+- Des connaissances en composants électroniques seraient un plus (architecture processeur, DRAM …) et
+divers protocoles ou bus de communication (PCIe, i2c …)
+- Bonnes maîtrise des systèmes d'exploitation Linux et Windows
+Compétences appréciées
+- Connaissance de Python
+- Bonne communication
+- Autonomie
+- Esprit d'équipe
+- Curiosité
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8717543
+
+
+
+
+

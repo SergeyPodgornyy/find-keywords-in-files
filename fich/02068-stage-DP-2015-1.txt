@@ -1,0 +1,52 @@
+﻿Profil  préféré  de  l’étudiant  :  GL  ou  IR
+Titre  du  stage  proposé  :  Application  level  transparent  handover  for  video
+delivery  in  Wi­Fi  network
+Type  et  configuration  du  matériel  sur  lequel  le  stagiaire  travaillera
+Operating system : Linux, Android
+Languages : Python, Java, C, (Javascript, html maybe need in case the internship goes well)
+Tools: Python SimpleHTTPServer, Eclipse Android development kit, DASH, VLC
+Sujet  propose  ­   détaillé
+Loosely controlled Wi-Fi networks, such as deployed at festivals and events, typically do not
+provide a full coverage of the terrain. As a result, the user experience of a mobile user watching
+a  video  stream  is  rather  erratic,  because  of  frequent  disconnections  and  re-connections.
+However, these periods of disconnections are generally rather short  (10  -  50 seconds for a
+coverage area of around 70%). To ensure a continuous experience in this case one needs to
+graciously handle these “disconnection gaps” until a client connects to the subsequent access
+point. In this internship our ambition is to build a disconnection prediction mechanism called
+disconnection predictor (DP) and pre-fetcher (PF) to successfully initiate a transparent handover
+ensuring a continuous user experience for video streaming.
+The  DP  predicts  disconnections  and  re-connections  based  on  a  collaboratively  generated
+connectivity map. Once a disconnection is imminent, the DP also has an understanding when
+the user is expected to reconnect. This information is used to activate the pre-fetcher, which will
+start  to  download  video  material  to  the  user  device,  which  will  be  needed  during  the
+disconnected period. When the mobile user physically disconnects from the network, the video
+will continue to play as the requested data has been buffered on the mobile device. When the
+user re-enters a connected area, the wireless network connection is restored and operation is
+resumed as normal.
+In our previous work, we have realized some of the functions of the DP system, which applies a
+server client mode. The DP server is implemented using Python SimpleHTTPServer. It can
+collects the information from real mobile devices, draw the collective connection map. However,
+the  prediction  function  has  only  been  test  in  a  simulation  environment  but  not  real-world
+implementation. On the client side, an android application is developed using Android library
+4.4W. It includes a Wi-Fi Connection Manager that allows the mobile device to automatically
+connect to a Wi-Fi network that is configured to be measured when the network is available, a
+Sensor Manager  (monitoring component) that periodically collects the measured results and
+send them to DP server. But the prefetching mechanism has not been developed yet.
+
+
+
+
+The objective of this internship is to complete the implementation of the DP system. The intern
+needs firstly understand the functionalities of the components in the system, and setup a public
+DP server to collect user information. Then, he will work on Python SimpleHTTPServer to
+complete and test the prediction (scenarist) function of the server. Thereafter, he will work on
+android to continue de development of the mobile application. Here the aim is to let the mobile
+device take correct reaction (e.g., trigger prefetching mechanism) upon receiving the prediction
+from the DP server. Finally, if everything goes well, the intern will develop the prefetching
+mechanism based on Dynamic Adaptive Streaming over HTTP (DASH) on android device.
+michele.wilmet@jcp-connect.com
+
+
+
+
+

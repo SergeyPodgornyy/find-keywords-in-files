@@ -1,0 +1,57 @@
+﻿WAYZ-UP RECRUTE UN/UNE MOBILE LEAD DEV (IOS ROCKSTAR / ANDROID) EN STAGE DE 6 À
+12 MOIS.
+Date : 27/06/2014
+Référence de l’offre : WAYZUPstagemob-6795413
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Paris 75013, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Vous avez suivi la success story de Blablacar sur les trajets du weekend ? Rejoignez-nous dans l'aventure sur les
+trajets du quotidien !
+Avec Wayz-Up, nous avons réinventé le covoiturage domicile-travail sur mobile et web.
+Pour  les  salariés                                                                                                     :  une  mise  en  relation  intelligente  à  partir  des  contraintes  de  chacun,  la  possibilité  de
+communiquer instantanément avec ses covoitureurs, un coût de trajet calculé à la volée. Pour les entreprises : une
+interface de reporting pour piloter et valoriser son action en faveur du covoiturage, et la possibilité de rembourser
+les trajets en covoiturage comme pour les transports en commun.
+Depuis le lancement en septembre 2013, nous avons remporté de nombreuses récompenses (HEC Entrepreneurs,
+région Ile-de-France), signé des beaux contrats  (Renault Technocentre, HILTI, Snecma, Crédit Agricole) et
+commencé à agrandir l'équipe. Il est maintenant temps de passer à la vitesse supérieure sur mobile !
+Description du poste :
+THE JOB
+Prendre le lead sur le dev iOS puis Android.
+Au menu :
+- Refonte des couches basses de l'app iOS (stockage, réseau)
+- R sur les systèmes de tracking discrets (ex: geofencing)
+- Nombreuses évolutions + A/B testing
+- Tests fonctionnels et intégration continue
+- Bien d'autres sujets fun en perspective !
+Profil recherché :
+VOUS
+- Vous êtes passionné par le mobile et avez des belles choses à nous montrer sur l'App Store.
+- Pour vous, l'utilisateur passe avant tout. Votre talent consiste justement à trouver les solutions techniques pour
+le rendre heureux.
+- Vous êtes très sensible au design et aimez créer des apps léchées.
+- Les challenges techniques vous passionnent. Vous adhérez à la devise "Il n'y a pas de problème, il n'y a que des
+solutions !".
+- Vous voulez creuser sur Android et devenir (presque!) aussi bon que sur iOS.
+
+
+
+
+CANDIDATURES
+Envoyez-nous sur jobs@wayz-up.com :
+- votre CV
+- vos références App Store (+ Google Play)
+- vos Github / Bitbucket / Twitter
+- votre app préférée (que vous n'avez pas développé !)
+- 1 idée de fonctionnalité pour l'appli Wayz-Up
+Type et durée du contrat en fonction de votre profil (CDI, stage long).
+Pour postuler : http://parisincub.contactrh.com/jobs/1536/6795413
+
+
+
+
+

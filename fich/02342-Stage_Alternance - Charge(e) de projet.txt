@@ -1,0 +1,34 @@
+﻿JCDECAUX RECRUTE UN/UNE STAGE/ALTERNANCE  - CHARGÉ(E) DE PROJET EN STAGE  6
+MOIS.
+Date : 17/02/2015
+Référence de l’offre : 2014-1124006-8894049
+Domaine d’activité : Systèmes d'informations / télécom (Chef de Projet / MOE)
+Type de contrat : Stage
+Localisation : Plaisir 78378, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+N°1 mondial de la communication extérieure, JCDecaux, avec 12 000 collaborateurs, est présent dans plus de
+60 pays. Seul acteur mondial à exercer exclusivement le métier de la communication extérieure et à en
+développer toutes les activités : mobilier urbain, publicité dans les transports et affichage grand format, il a
+réalisé un chiffre d'affaires de 2 676 millions d'euros en 2013.
+Description du poste :
+Au sein de la DSI, la Direction des Technologies de l'Information est en charge des infrastructures, de
+l'architecture des systèmes, et du support aux développements logiciels.
+L'apprenti ingénieur intégrera l'équipe Tests Contrôle Qualité et aura pour mission de l'assister dans ses
+différentes tâches et de participer à des chantiers techniques stratégiques :
+- mise en place et customisation d'outils testing (Quality Center, Jira, TestTrack Pro) ;
+- participation à des chantiers d'automatisation de tests (QTP langage VBScript, Selenium langage Java) et
+intégration dans une plateforme d'intégration continue ;
+- suivi et assistance aux différentes équipes projets sur des problématiques testing ;
+- participation à la documentation des bonnes pratiques ainsi qu'à la mise en place de formations associées ;
+- industrialisation et automatisation des processus dans le cade de l'amélioration continue.
+Profil recherché :
+BAC + 4 - Ecole Ingénieur
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8894049
+
+
+
+
+

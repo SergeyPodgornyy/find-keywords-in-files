@@ -1,0 +1,53 @@
+﻿Proposition de Stage                                                                                              18/10/13
+Implémentation de codes électromagnétiques en Matlab sur GPU - réf.
+Intitulé du stage :
+FORFAITS IST-14-04
+Durée :                                                                                                           6 mois     Date de début :  Février 2014   Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech - Agence de Rennes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Dans le cadre de son activité R&D dans le domaine électromagnétisme, ALYOTECH Technologies
+souhaite réaliser le portage de codes de calculs électromagnétiques, afin de les accélérer.
+Figure : Module du champ (polarisation horizontale) au voisinage de deux cylindres elliptiques parfaitement
+conducteur [1]
+Objectif général :
+Ce stage a pour but d’implémenter des codes électromagnétiques développés sous Matlab sur GPU,
+afin de gagner en temps de calcul. En effet, ces codes nécessitent actuellement un espace mémoire
+et surtout un temps de calcul très importants. L’enjeu sera donc de porter ce code dans un langage
+(C, CUDA, …) permettant facilement d’utiliser les possibilités de parallélisation des GPU.
+Le code qui sera à porter est un code de calcul numérique qui permet de déterminer, à partir de la
+connaissance d’une onde électromagnétique émise par un émetteur vers un objet de caractéristiques
+connues (dimensions, forme et permittivité diélectrique), les courants électrique et magnétique induits
+à la surface de cet objet, puis d’en déduire le champ diffracté. Cette méthode numérique rigoureuse
+(ou « exacte ») de calcul est appelée la méthode des moments. Elle peut s’appliquer à des objets de
+formes  très  variées  comme  des  cylindres  (voir  figure  ci-dessus),  mais  aussi  et  en  particulier,  la
+surface de la mer. Plus particulièrement, le code à porter est la méthode des moments combinée à un
+algorithme d’accélération développé pour la surface de mer, appelé « forward-backward » [2].
+Ce stage sera l’occasion de découvrir et d’appliquer le cycle industriel de développement.
+
+
+
+
+Proposition de Stage                                                                                                            18/10/13
+[1]  C.  Bourlier,  N.  Pinel,  G.  Kubické,                                                                                    “Method  of  Moments  for  the  scattering  from  2D  problems:  Basic  concepts  and
+applications”, ISTE Ltd and John Wiley & Sons Inc., 160 pages, juillet 2013
+[2] H.-T. Chou, J. T. Johnson, “A novel acceleration algorithm for the computation of scattering from rough surfaces with the
+Forward-Backward method”, Radio Science, vol. 33, pp. 1277-1287, 1998
+Profil recherché :
+Niveau de formation du stagiaire :
+Bac + 5 (Ecole d’ingénieurs, Master Informatique, Master pro)
+Compétences techniques :
+Développement informatique, Matlab, C/C++, CUDA, GPU
+Autres :
+Windows, Linux
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                                                     02.23.21.11.11                                                                          Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

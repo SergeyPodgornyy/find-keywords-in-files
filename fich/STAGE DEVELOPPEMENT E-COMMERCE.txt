@@ -1,0 +1,51 @@
+﻿STAGE DEVELOPPEMENT E-COMMERCE
+IS Nord
+REFERENCE  :  webgfi/51-7267
+POUR POSTULER  :  offre4904896.1536@gfiinfo.contactrh.com sous la référence webgfi/51-
+7267
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Métropole lilloise 59000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  plus de 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Dans la région Nord, avec 800 collaborateurs, Gfi Informatique poursuit sa croissance en recrutant
+en 2013 plus de 200 nouveaux talents.
+DESCRIPTION DU POSTE  :
+Les objectifs de votre intégrations seront la conception et le développement d’un site marchand e-
+commerce. Vos missions seront les suivantes :
+Acquérir les compétences techniques sur le développement d’applications de gestion,
+Maitriser les langages de programmation et les bases de données du marché,
+Maîtriser les processus d’ingénierie logicielle (Cycle en V ou méthode agile SCRUM),
+Mettre en œuvre les dispositions qualité ISO9001.
+Environnement Technique et Fonctionnel :
+JAVA / J2EE
+Spring MVC
+Spring IOC
+Hibernate/JPA
+Oracle
+JUnit
+Compétences Requises :
+De formation Bac +4 à Bac+5, avec une spécialité e-commerce, au sein d’un centre de service de
+plus de 200 collaborateurs, vous serez intégré dans une équipe jeune et dynamique de 4 à 8
+personnes, rompues à la réalisation de versions logicielles en mode projet dans un contexte de
+forfaits en engagement, dans un contexte de Qualité ISO9001.
+Vous dépendrez d’un Directeur de Projet.
+PROFIL  :
+De formation Bac +4 à Bac+5, avec une spécialité e-commerce, vous serez intégré dans une équipe
+dynamique, dans un contexte de forfaits.
+
+
+
+
+Vous dépendrez d’un Directeur de Projet.
+POUR POSTULER  :  offre4904896.1536@gfiinfo.contactrh.com sous la référence webgfi/51-
+7267
+
+
+
+
+

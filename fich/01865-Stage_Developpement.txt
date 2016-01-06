@@ -1,0 +1,37 @@
+﻿Stagiaire Developpeur
+Développement d’un module de monitoring de capteurs de santé
+Fondée en 2004 par Christian Guillemot, AMA est un développeur et éditeur international de jeux et
+d’applications sur de nombreux OS actuels dans le mobile, consoles portables, ordinateurs et TV. En
+2012, AMA est nommée Super Développeur sur le Play Store de Google et s’inscrit dans le Glass
+Explorer Program. A la pointe de la technologie, AMA est une des rares entreprises européennes à
+développer sur les Google Glass, Galaxy Gear, Smartwatch, Leap Motion et autres objets connectés.
+Depuis                                                                                                2014,  AMA  a  ouvert  le  département  Advanced  Medical  Applications  consacré  au
+développement de solutions de télémédecine grâce aux lunettes connectées. Cette division au sein
+de laquelle se déroulera le stage est basée à Rennes.
+Intégré(e) à une équipe de 4 à 6 développeurs pratiquant les méthodes agiles, votre mission sera de
+développer un module de monitoring de capteurs de santé (récupération des données, affichage des
+données dans les Google Glass et dans une interface web).
+Vous travaillerez dans l'environnement technique suivant :
+   Android
+   HTML5
+   Javascript
+   CSS
+   Python
+   GIT
+Vous saurez faire preuve de :
+   Rigueur
+   Autonomie
+   Bonnes qualités relationnelles
+   Maîtrise de l’anglais technique
+Votre profil :
+   Vous êtes en deuxième ou troisième année de cycle ingénieur (4ième ou 5ième année école
+d'ingénieurs, Master 1 ou 2 Universitaire...)
+   Une expérience qui nous démontrera votre passion pour les nouvelles technologies
+Durée : 3 mois minimum
+Salaire : Non précisé.
+Intéressé(e) ? Nous attendons votre CV et lettre de motivation à recrutement@ama.us
+
+
+
+
+

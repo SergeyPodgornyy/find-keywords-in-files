@@ -1,0 +1,45 @@
+﻿ATOS RECRUTE UN/UNE STAGIAIRE INGÉNIEUR DÉVELOPPEUR PHP EN STAGE 6 MOIS.
+Date : 01/12/2014
+Référence de l’offre : 175763-8029038
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Strasbourg 67000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Mission
+Dans le cadre d'une équipe animée par un chef de projet, vous participerez au développement de nouveaux
+modules d'une application WEB dans le domaine de la gestion des interventions de maintenance en utilisant
+le Framework PHP LARAVEL.
+Les missions à accomplir sont les suivantes :
+Receuil des besoins des utilisateurs
+Développement des modules Applicatifs
+Recette de validation fonctionnelle
+Rédaction de documentation
+Ce projet vous permettra d'être immergé dans un contexte de production au sein d'une équipe dynamique et
+motivée.
+Profil recherché :
+Profil
+Actuellement en formation Bac+4/5 type école d'ingénieurs ou équivalent universitaire, vous souhaitez
+développer vos connaissances du monde OPEN source (PHP, JQUERRY, javascript, Laravel...), proposez
+des solutions innovantes aux besoins d'une équipe applicative, rédigez des documentations techniques.
+Pour postuler : http://atos.contactrh.com/jobs/1536/8029038
+
+
+
+
+

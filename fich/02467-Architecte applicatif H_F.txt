@@ -1,0 +1,40 @@
+﻿CRÉDIT AGRICOLE RECRUTE UN/UNE ARCHITECTE APPLICATIF H/F EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 2015-5721-9410826
+Domaine d’activité : Systèmes d'informations / télécom (Architecture/Urbanisme)
+Type de contrat : Apprentissage/Alternance
+Localisation : Paris 75, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Le groupe Crédit Agricole Assurances est le premier bancassureur en France et l'un des acteurs majeurs en
+Europe.
+Il conçoit des offres au plus près des besoins de ses clients dans les domaines suivants : Assurance Vie,
+Retraite, Santé, Prévoyance, Assurance emprunteur et Assurances dommages.
+Pour accompagner les compagnies du groupe Crédit Agricole Assurances, Caagis (Gestion, Informatique et
+Services) est née début 2010. Cette compagnie de services a pour objectif d'offrir une plate-forme industrielle
+fiable, performante et pérenne, en matière de gestion de contrat d'assurance de personne et de services
+informatiques.
+Par son expertise des processus des métiers de l'assurance et son appartenance au groupe Crédit Agricole,
+Caagis a vocation à proposer une offre de services complète sur l'ensemble de la chaîne de valeurs
+industrielles de la filière Assurance.
+Description du poste :
+L'équipe architecture applicative de CAAGIS a en charge les activités de veille technologique, qui réalise des
+« proof of concept » permettant de valider des technologies avant de les industrialiser.
+Dans le cadre de vos missions, vous devrez :
+- Réaliser des expérimentations informatiques dans le domaine du Big Data en testant les différentes briques
+logicielles : Hadoop, PIG, R, Elasticsearch, Spark
+- Cartographier les flux pour des applications existantes du système d'information.
+Profil recherché :
+Formation : Université, Ecole d'ingénieur ou Ecole de commerce.
+Spécialisation : Informatique.
+Compétences  recherchées  Rigoureux,  vous  aimez  travailler  en  équipe  et  en  mode  projet.  Langage
+informatique : JAVA
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9410826
+
+
+
+
+

@@ -1,0 +1,43 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR FRONT END - VIDÉODESK EN STAGE 6 MOIS.
+Date : 26/11/2014
+Référence de l’offre : Videodesk-8163952
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION, AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU LIEN:
+http://ajstage.com/offre/Developpeur-Front-End-chez-Videodesk
+Start'up innovante, Videodesk a développé pour les entreprises en ligne la première solution CRM Vidéo,
+solution unique intégrant à la fois le chat, l'audio, et surtout la vidéo, ce qui constitue une véritable révolution
+!
+Vous aurez l'opportunité d'évoluer dans un environnement start'up typique et dans une très bonne ambiance
+de travail, auprès de collaborateurs et fondateurs très expérimentés et de grande valeur.
+Ainsi, les deux fondateurs de Videodesk ne sont autres que Igor Schlumberger, qui a déjà fondé Le Guide,
+Prestashop ou encore Videomark  (agence de création vidéo) et Olivier Coste, créateur d'Alcatel-Lucent
+Mobile Broadcast et spécialiste des technologies de vidéo mobile.
+Vous cherchez un stage et avez envie de booster votre expérience au sein d'une startup à la pointe de
+l'innovation et au sein d'une équipe de dirigeants et employés très expérimentés ?
+Sous la responsabilité du Directeur Technique et du directeur fonctionnel, vous participerez activement au
+développement de notre plateforme sur supports PC, tablettes et mobiles ainsi qu'à la mise en place de
+nouvelles fonctionnalités.
+Profil recherché :
+- Connaissances requises : HTML5, CSS3, JQuery, Javascript, Responsive design avec Twitter Bootstrap,
+GitHub,
+- Connaissances facultatives : PhoneGap/Cordova
+- Rigueur
+- Esprit d'initiative, force de proposition
+- Bon niveau d'anglais
+Embauche à la clé.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8163952
+
+
+
+
+

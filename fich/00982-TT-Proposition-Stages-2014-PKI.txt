@@ -1,0 +1,38 @@
+﻿Stage 2014
+Réalisation d’une solution PKI
+(REF : PKI-2014)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sans contact NFC & Zigbee. TAZTAG développe et commercialise des objets et des
+solutions  appliquées  aux  domaines  du  transport,  paiement,  vie  urbaine,  musées,
+santé,  sécurité,  services  à  la  personne…,  permettent  de  créer  une  véritable
+interaction entre l'usager et son environnement.
+MISSION
+L'objectif de ce stage est de réaliser une solution basée sur une PKI open-source. La
+mission du stage se découpera selon les phases suivantes :
+   étude  du  rôle  de  la  PKI  dans  notre  solution  de  gestion  des  communications
+sécurisées
+   identification des packages et solutions
+   confrontation des solutions en termes de fonctionnalités et de facilité d’usage
+   développement d'une interface d’administration simplifiée, et packaging de la
+solution
+Profil recherché
+Vous êtes en dernière année d’une école d’ingénieurs. Vous avez une spécialisation en
+informatique.  Vous  avez  des  bases  solides  en  développement  web.  Vous  êtes
+passionné,  curieux,  enthousiaste  et  très  motivé  par  le  développement  autour  des
+solutions de communications sécurisées.
+Compétences requises
+   Bac+5 (stage de fin d’étude)
+   Connaissance de Linux et développements web
+   Connaissance des problématiques de chiffrement, gestions de clés.
+   Connaissance des outils de développement open-source
+   Bon niveau d’anglais
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée 6 mois, dès février 2014 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com
+
+
+
+
+

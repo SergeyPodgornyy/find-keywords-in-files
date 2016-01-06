@@ -1,0 +1,71 @@
+﻿Proposition de stage Informatique   Juin à aout 2014
+Proposition de Stage en Etude et
+Développement Informatique,
+Niveau Master 1
+Développement web sur la plateforme MEANS
+permettant  aux  chercheurs  en  agronomie  de  réaliser  des  analyses  de  durabilité
+(évaluation des impacts des pratiques agronomiques sur l’environnement, la société,
+l’économie).
+Missions
+Vous  intégrerez  une  équipe  interdisciplinaire,  enthousiaste,  ouverte  et  accueillante.  Dans  une
+plateforme  clé  au  niveau  de  l’INRA,  vous  travaillerez  sur  l’application  web  en  cours  de
+développement qui comprend :
+-                                                                                                          Une interface utilisateur ergonomique pour la création de projets d’analyse multicritère et
+                                                                                                           la saisie des données
+-                                                                                                          Une interface d’administration
+-                                                                                                          Un serveur pour les services liés aux données
+-                                                                                                          Une base de données
+Vous interviendrez afin d’ajouter différentes fonctionnalités dans la plateforme MEANS, en particulier
+des fonctionnalités très attendues d’import/export de projets au format xml et csv vers un logiciel
+commercial.
+Vous réaliserez en autonomie :
+-                                                                                                          L’étude des formats standards (Ecospold) et des fonctionnalités à intégrer
+-                                                                                                          La conception des solutions techniques à mettre en place
+-                                                                                                          L’implémentation et les tests des solutions
+-                                                                                                          La documentation associée aux développements réalisés.
+                                                                                                           Compétences requises
+-                                                                                                          Niveau Bac+ 3 minimum  - Bac  +  4 de préférence : école d’ingénieur ou Master en
+                                                                                                           informatique
+-                                                                                                          Bonne capacité de communication (écrite et orale)
+-                                                                                                          Connaissances en JAVA et technologies web (JEE, Spring, XML, xsd…) indispensables
+-                                                                                                          Connaissances  complémentaires                                                                (JSP/JSTL,  HTML5/JQuery,  Javascript,  Glassfish,
+                                                                                                           PostgreSql) souhaitables
+-                                                                                                          Le  module  ayant  une  architecture  type  Client-Serveur,  et  un  modèle  MVC,  des
+                                                                                                           connaissances sur ce type d’architecture et les designs patterns sont les bienvenues.
+-                                                                                                          Outils de gestion de versions (type SVN)
+-                                                                                                          IDE Eclipse
+
+
+
+
+Proposition de stage Informatique   Juin à aout 2014
+Contexte
+L'Institut National de la Recherche Agronomique (INRA) mène des recherches finalisées pour une
+alimentation saine et de qualité, pour une agriculture compétitive et durable, et pour un environnement
+préservé et valorisé. L’Unité Mixte de Recherche « Sol, Agro et hydrosystème Spatialisation » (UMR
+SAS) à Rennes vise notamment à élaborer des systèmes de production agricole durables et à préserver
+les ressources naturelles.
+L’Analyse de Cycle de Vie (ACV) est une méthode de référence pour l’analyse des impacts
+environnementaux des systèmes de production. Cette méthode se développe et permet
+progressivement de prendre également en compte les impacts sociaux et économiques des systèmes
+étudiés. L’ACV est utilisée de plus en plus pour l’analyse environnementale des systèmes agricoles et
+alimentaires. Les chercheurs et ingénieurs de l’INRA ressentent un fort besoin d’outils de calcul et de
+bases de données spécifiques à la mise en œuvre de cette méthodologie. C’est dans ce contexte que
+l’INRA a décidé de créer une plateforme INRA d’Analyse Multicritère de la Durabilité (plateforme
+MEANS).
+Modalités
+Stage basé au sein de l’UMR SAS sur le site d’Agrocampus Ouest à Rennes.
+Début de stage souhaité : juin 2014
+Durée de stage : 3 à 4 mois
+Gratification : 436,05€/mois
+Contacts :
+Julie AUBERGER (julie.auberger@rennes.inra.fr, 02 23 48 59 42)
+Véronique RAIMBERT (veronique.raimbert@rennes.inra.fr, 02 23 48 54 31)
+Merci d’envoyer votre CV et votre lettre de motivation à Véronique
+RAIMBERT avant le 20 février en précisant « Stage plateforme MEANS »
+dans l’objet de votre e-mail.
+
+
+
+
+

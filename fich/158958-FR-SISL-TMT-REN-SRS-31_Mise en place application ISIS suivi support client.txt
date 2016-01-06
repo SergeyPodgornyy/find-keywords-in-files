@@ -1,0 +1,69 @@
+﻿Mise en place d’outils de suivi pour support client
+Atos SE (Societas Europaea), acteur
+Votre mission
+                                                                                                                                                                                                       international des services informatiques
+                                                                                                                                                                                                       avec un chiffre d’affaires annuel de 8,8
+Contexte :
+                                                                                                                                                                                                       milliards d’euros et 77.000
+                                                                                                               Le stage est proposé dans le domaine  « Fullfillment & Assurance  » du site
+                                                                                                                                                                                                       collaborateurs dans 47 pays, fournit à
+de Rennes.                                                                                                                                                                                             ses clients du monde entier des services
+                                                                                                                                                                                                       transactionnels de haute technologie,
+Mission :                                                                                                                                                                                              des solutions de conseil, d’intégration de
+                                                                                                               Le  stage  est  réalisé  au  sein  du  pôle  "Network  Management".  Ce  pôle
+                                                                                                                                                                                                       systèmes et d’infogérance.
+                                                                                                               conçoit et développe des applications de supervision  (alarmes), diagnostic
+                                                                                                                                                                                                       Atos délivre les technologies qui
+                                                                                                               et  reporting  statistiques  de  réseau  dans  un  environnement  Intranet          /   accélèrent le développement de ses
+Extranet.
+                                                                                                                                                                                                       clients et les aide à réaliser leur vision de
+                                                                                                                                                                                                       l’entreprise du futur. Atos est le
+                                                                                                               Le but du stage est la finalisation de l’outil ISIS mis en place pour le suivi
+                                                                                                                                                                                                       partenaire informatique mondial des
+                                                                                                               des  actions  associées  au  traitement  de  tickets  transmis  à  une  équipe
+                                                                                                                                                                                                       Jeux Olympiques. Le Groupe est coté sur
+support                                                                                                        (Helpdesk)  par  les  différentes  équipes  du  client  utilisant  les                  le marché Eurolist de Paris et exerce ses
+services de supervision et de reporting.
+                                                                                                                                                                                                       activités sous les noms d’Atos, Atos
+                                                                                                                                                                                                       Consulting & Technology Services,
+Le stage s’effectuera en plusieurs étapes :
+                                                                                                                                                                                                       Worldline et Atos WorldGrid.
+                                                                                                               1.   Prise de connaissance de l’état actuel du projet ISIS : architecture,
+                                                                                                                                                                                                       Pour plus d’information : atos.net
+                                                      fonctionnalités déjà implémentées
+                                                                                                               2.   Identification des fonctionnalités restant à mettre en place
+                                                                                                                                                                                                       Ce stage est basé à Rennes
+                                                      3.   Développement de ces nouvelles fonctions
+                                                                                                               4.   Validation de toute l’application avec l’outil de test HPQC
+                                                                                                                                                                                                       Si ce stage vous intéresse,
+                                                                                                               5.   Mise à jour de la documentation (spécifications, manuels, ..)
+                                                                                                                                                                                                       déposez candidature à l’adresse
+                                                                                                               6.   Mise en exploitation opérationnelle sur plate-forme Atos
+                                                                                                                                                                                                       suivante :
+                                                                                                                                                                                                       http://fr.atos.net/fr-
+                                                                                                               En fonction de l’avancement de l’étude et des développements, le contour                fr/emplois_carrieres/postulez
+                                                                                                               du  stage  sera  revu  régulièrement  avec  le  responsable  du  stage  et  les
+                                                                                                               principaux  acteurs  du  programme.  Le  but  du  stage  est  d’obtenir  une
+                                                                                                                                                                                                       Référence du stage : 158958
+                                                      application complètement utilisable à la fin du stage.
+Environnement technologique :                                                                                                                                                                          Qui êtes-vous ?
+                                                      Linux, Java, PHP, MySQL, Eclipse, Sonar, Hudson, …
+                                                                                                                                                                                                       De formation Bac+5 en informatique
+                                                                                                               Le stage s’effectuera sous la responsabilité du chef de projet responsable du           (Ecole d’ingénieur ou université) en
+support client                                                                                                                                                                                         cours de validation, vous recherchez un
+                                                                                                                                                                                                       stage d’une durée de 4-6 mois (dates
+                                                                                                                                                                                                       variables selon l’école). Une
+Objectifs pédagogiques :
+                                                                                                                                                                                                       proposition d’embauche en fin de
+                                                                                                               Le  stage  proposé  est  une  excellente  opportunité  pour  se  former  sur  les
+                                                                                                                                                                                                       stage est envisageable, sur le site de
+                                                                                                               réseaux télécom offerts aux entreprises, ainsi que sur le déroulement d’un
+                                                                                                                                                                                                       votre stage, ou, si vous le désirez, dans
+projet industriel dans son ensemble.
+                                                                                                                                                                                                       toute autre région dans laquelle AtoS
+                                                                                                                                                                                                       recrute.
+
+
+
+
+

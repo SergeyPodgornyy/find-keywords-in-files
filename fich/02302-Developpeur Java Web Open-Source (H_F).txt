@@ -1,0 +1,52 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEUR JAVA WEB OPEN-SOURCE (H/F) EN STAGE DE 5 À 6
+MOIS.
+Date : 12/02/2015
+Référence de l’offre : Stage-JavaWeb-8839416
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Massy 91300, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Rattaché à la Direction Technique, au sein de l'équipe R, vous serez immergé au sein du projet agile
+Alien4Cloud et participerez aux activités et succès de l'équipe.
+Dans le cadre de ce stage, vous définirez, en collaboration avec l'équipe de développement et le product
+manager, les tableaux de bord permettant d'apporter de la visibilité sur le cycle de vie d'une application en
+environnement Cloud.
+Vous aurez en charge :
+* le choix des technologies de visualisation permettant l'affichage de tableaux de bord ergonomiques et
+dynamiques,
+* l'implémentation d'un Framework permettant de productiver la création de tableaux de bords par le reste de
+l'équipe,
+* le développement des premiers tableaux de bord en fonction des besoins exprimés par le product manager,
+* la participation aux activités de développement de l'équipe permettant d'améliorer le produit.
+Profil recherché :
+Créatif(ve), structuré(e) et doté(e) d'un fort esprit d'équipe, vous êtes à l'aise au sein d'environnements
+complexes et vous êtes intéressé par les problématiques de développement logiciel et déploiement en
+environnement agile. D'une manière générale vous aimez relever des défis.
+Des connaissances sur les nouvelles technologies (Cloud, NoSQL, BigData) dans les environnements Cloud
+tels  que  Amazon,  OpenStack,  Azure,  les  outils  de  gestion  de  Configuration                                  (Chef,  Puppet,   …),  les
+mécanismes de Virtualisation et de containérisation (Docker) sont un plus.
+Vous avez un bon niveau d'anglais à l'écrit et idéalement à l'oral.
+Vous souhaitez participer à la mise en place des meilleures pratiques de déploiement adaptées aux besoins
+des développeurs et utilisateurs, et rejoindre le mouvement DevOps et Open-Source.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8839416
+
+
+
+
+

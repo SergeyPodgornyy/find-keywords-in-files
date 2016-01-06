@@ -1,0 +1,45 @@
+﻿Titre : Apprentissage automatique, graphes et traitement d'images pour l'IRM fonctionnelle
+Durée: 5 mois ou plus
+Niveau: dernière année d'école d'ingénieur, M2
+Dates envisagées: début du stage avant Mai 2015
+Encadrants:                                                                                           - Sylvain Takerkart (Ingénieur de Recherche en traitement d'images)
+- Pascal Belin (Professeur de Neurosciences)
+Descriptif:
+Ce stage s'inscrit dans le cadre d’un projet de recherche interdisciplinaire  (Neurosciences  /
+Informatique) dont l'objectif est d'explorer les représentations corticales liées au traitement de
+l'information  vocale.  A  cette  fin,  nous  analysons  des  données  d'imagerie  cérébrale          (IRM
+fonctionnelle) enregistrées sur un grand nombre de sujets pendant qu'ils écoutent des stimuli
+vocaux.
+Dans un premier temps, le/la stagiaire sera initié aux techniques actuellement disponibles pour
+analyser les données d'IRM fonctionnelle, et en particulier les techniques dites de « Multi-Voxel
+Pattern Analysis » (MVPA) qui permettent de faire du « Brain Reading » . En particulier, il/elle
+appliquera une méthode de MVPA nouvellement développée dans l'équipe, basée sur l'analyse
+de graphes pour la classification automatique des images disponibles en fonction du type de
+voix écouté par le sujet. Dans un second temps, le/la stagiaire poursuivra le développement de
+cette méthode pour étendre son application à deux nouveaux problèmes intrinsèquement liés : 1.
+la classification des sujets en plusieurs groupes, de manière supervisée  (et ainsi produire un
+outil de type « aide au diagnostic » pour l'imagerie médicale) ; et 2. le clustering de ces mêmes
+sujets afin d'identifier ces groupes de manière non supervisée.
+Compétences requises:
+- apprentissage statistique, classification (par exemple Support Vector Machines)
+- traitement d'image
+- bon niveau en programmation (python ou autre langage)
+- bon niveau en anglais
+Contexte: L'Institut de Neurosciences de la Timone (INT, http://www.int.univ-amu.fr ) est une
+unité mixte de recherche qui a pour objectif de développer des recherches interdisciplinaires en
+neuroscience. Situé sur le Campus de la Faculté de Médecine d'Aix Marseille Université, il
+est doté de plateformes technologiques de haut niveau au service d'équipes de recherche en
+neurosciences théoriques et expérimentales.
+Gratification : ce stage donnera lieu à une gratification au niveau du standard légal.
+Envoyer  CV  +  lettre  de  motivation  à  Sylvain.Takerkart@univ-amu.fr  et  Pascal.Belin@univ-
+amu.fr
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                 5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

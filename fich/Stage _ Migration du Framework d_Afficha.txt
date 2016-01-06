@@ -1,0 +1,46 @@
+﻿Stage  / Migration du Framework d'Afficha
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226610
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899039
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 4 à 6 mois.
+Cassidian CyberSecurity a mis en place une solution de gestion de la sécurité des réseaux
+informatiques. Notre outil dispose de capacités de communication afin de récupérer des
+informations sur l'état de sécurité d'un ou plusieurs systèmes d'information et d'offrir des services
+permettant de gérer les incidents de sécurités.
+Le but de ce stage est de migrer le framework d'affichage WEB vers la dernière version disponible
+et d'adapter le code existant avec cette nouvelle version.
+Cette offre de stage est à pourvoir à compter du 1er Février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Prendre connaissance de notre application et plus particulièrement la partie WEB,
+- Prendre connaissance du framework d'affichage,
+- Réaliser un POC sur une partie du serveur d'affichage pour mesurer les impacts,
+- Généraliser l'utilisation de cette nouvelle version à tout le serveur d'affichage WEB.
+Le travail réalisé s'intègrera dans la démarche qualité du projet (documentation, process de
+développement, tests).
+PROFIL  :
+Bac+5
+Bonne culture générale sur les systèmes, réseaux et la sécurité ainsi que sur Linux/Windows
+travaille en équipe
+Anglais:intermédiaire
+Français:courant
+
+
+
+
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899039
+
+
+
+
+

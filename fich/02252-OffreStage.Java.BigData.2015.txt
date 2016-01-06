@@ -1,0 +1,48 @@
+﻿Advalo recherche un(e) stagiaire Ingénieur Java - Big Data
+Stage rémunéré - Rennes (35000) - à partir de mars / avril 2015 pour une durée minimum de 3 mois
+Contact : Clément Juste - cjuste@advalo.com
+Présentation de la société
+Le data marketing ou marketing de données est une approche innovante qui rend possible la collecte,
+le traitement et l’analyse simultanés et en temps réel de millions d’informations, afin de mettre en
+place des actions marketing beaucoup plus personnalisées et performantes.
+L’enjeu pour les enseignes/annonceurs est de pouvoir donner de la valeur et de la cohérence à toutes
+ces données, souvent dispersées entre les mains de différents prestataires, afin de booster leurs
+actions marketing.
+La technologie au cœur du data marketing est la DMP (Data Management Platform), une plate-forme
+unifiée de gestion de données à très grande échelle.
+Advalo, startup fondée à Rennes en 2013, propose une DMP dédiée principalement aux entreprises
+de la distribution, du ecommerce et de la presse.
+Description du stage
+L'équipe d'ingénierie Backend chez Advalo est responsable de toute l'infrastructure supportant notre
+activité. Nous avons besoin d'architectures scalables et performantes pour processer les données et
+également des systèmes en temps réel pour nos produits interactifs. Nous travaillons avec des
+technologies innovantes dans l’univers du BigData comme Hadoop, Redis, Cassandra ou Node.js
+conjointement à des systèmes plus traditionnels comme Mysql, Tomcat, Nagios, ...
+Au sein de l’équipe d’ingénierie backend vous participerez à l’intégration de nouveaux applicatifs
+permettant le traitement en temps réel des données collectées.
+Mission
+    Participer au développement et/ou à la conception d'applications en utilisant les technologies
+Java/J2EE.
+    Effectuer des tests de scalabilités et de résilience
+    Intégration framework de gestion/monitoring des applications (Graphite / Nagios)
+    Effectuer les tests unitaires.
+    Participer à la résolution des anomalies constatées et à la livraison des applications.
+    S'assurer du respect des normes qualité.
+Profil recherché
+-                                                                                                      De formation BAC+4/5 de type école d'ingénieur (Mines-Télécom, INSA, EPITECH, ...) ou filière
+universitaire, vous avez une spécialisation en développement logiciel / système d'information.
+
+
+
+
+-                                Très bonne maîtrise de Java en général (Spring est un plus)
+-                                La connaissance d’un gestionnaire de version comme Git ou SVN est un plus
+-                                Envie d'évoluer dans un environnement Big Data orienté temps réel.
+-                                Vous aimez les petites structures, le mode de fonctionnement et l’ambiance start-up.
+-                                Vous n'avez pas d'expérience dans une des choses listées ? Peu importe, du moment que vous
+êtes capable d'apprendre vite.
+
+
+
+
+

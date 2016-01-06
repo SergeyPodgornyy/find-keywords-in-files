@@ -1,0 +1,49 @@
+﻿CHEF  DE  PROJET  POLE  WEB  (H/F)
+CJS
+REFERENCE  :  01MD5230
+POUR  POSTULER  :  http://cjs.contactrh.com/jobs/1536/5087529
+TYPE  DE  CONTRAT  :  CDI
+LOCALISATION  :  75000 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  4-5 ans
+DUREE  :  Indeterminé
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Internet - E-commerce (Webplanner)
+SOCIETE  :
+CJS Cabinet de Conseil en Recrutement et Gestion de Carrière, recherche pour un de ses clients
+dans le secteur de la distribution un(e): Chef de Projet pour son Pôle Web (H/F). Intégrez une
+société pérenne implantée sur un contexte international et travailler sur des projets stimulants.
+DESCRIPTION  DU  POSTE  :
+Responsable du pôle web de la société, vous serez en charge de:
+- Définir avec le département opération l'infrastructure cible et participer à sa mise en œuvre et à
+son fonctionnement
+- Décrire les guidelines de développement et les architectures dans votre domaine d'expertise,
+- Garantir la cohérence fonctionnelle et technique des applications Web entre elles et avec les
+applications traditionnelles (SAP, BI, …)
+- Piloter le processus de veille technologique en liaison avec le plan de développement et le
+département innovation de la société
+- Définir et encadrer l'évolution et le maintien du parc applicatifs web et des développeurs web
+interne et externes.
+- Cadrer les différents projets en définissant le périmètre, les enjeux, le planning et le budget dans le
+contexte de définition et de validation du Plan de développement des Systèmes d'Information.
+- Diriger l'implémentation des projets en pilotant les ressources qui lui sont affectées,
+- Animer les comités de pilotage en relation directe avec les Directions utilisatrices,
+- Mettre en place et diffuser les indicateurs de réussite des projets.
+PROFIL  :
+Bac+5 en informatique
+Vous maîtrisez le langage JAVA/j2EE ainsi que le langage Javascript et les technologies Web
+autour des applications Web 2.0.
+La connaissance de Play framework est souhaitée.
+Architecture: WOA, REST, HTML5
+Infrastructures Web/Cloud : Google Apps, Cloud
+Méthodologie de gestion de projet : Agile.
+
+
+
+
+POUR  POSTULER  :  http://cjs.contactrh.com/jobs/1536/5087529
+
+
+
+
+

@@ -1,0 +1,62 @@
+﻿Offre  de  STAGE:  DID_VTS_TST‐01_2014
+STAGE : AUTOMATISATION DES TESTS
+LOGICIELS
+H/F ‐ Lieu : Laval ‐ Durée : 4 mois (mini)‐ Stage Rémunéré
+(Stage niveau bac+3)
+Société  :
+DIDHAPTIC  est  une  jeune  société,  qui  crée  des  plates‐formes  complètes  de  formation  appliquée
+pour  les  métiers  de  la  santé.  Particulièrement  pour  les  métiers  où  la  mise  en  situation  réelle  du
+praticien   en   formation   ou   de   l’étudiant   peut   se   révéler   dangereuse,   trop   onéreuse,   ou
+techniquement  impossible.
+De  taille  humaine,  DIDHAPTIC  fédère  ses  collaborateurs  autour  de  sa  culture  de  proximité  et  de
+son  écoute.
+Contexte  :
+DIDHAPTIC  développe  et  maintient  un  simulateur  d’apprentissage  avant‐gardiste  appelé  VirTeaSy
+Dental  utilisé  pour  l’apprentissage  des  chirurgiens‐dentistes.  Avec  la  plate‐forme  de  réalité  virtuelle,
+le  praticien  en  formation  retrouve  l’environnement  d’intervention  de  son  cabinet.  Le  geste,  l’image
+et  le  son  l’immergent  dans  l’action  pour  mieux  maîtriser  la  technicité.
+Afin   de   garantir   la   qualité   de   ses   produits,   DIDHAPTIC   est   engagé   dans   une   démarche
+d’amélioration  des  outils  logiciels  utilisés  par  l’ensemble  de  ses  équipes  de  développement.
+1
+
+
+
+
+Offre  de  STAGE:  DID_VTS_TST‐01_2014
+Sujet  de  stage  :
+Dans  un  objectif  d’amélioration  de  la  qualité  de  ses  produits  et  de  sa  productivité,  DIDHAPTIC
+désire  automatiser  l’ensemble  de  ses  tests  actuels.  Pour  cela,  DIDHAPTIC  souhaite  intégrer  un  outil
+de  test  d’IHM  dans  son  processus  de  validation  du  simulateur.
+DIDHAPTIC  recherche  un  stagiaire  motivé,  curieux  de  nature  et  ayant  des  connaissances  dans  le
+test  logiciel,  afin  de  nous  aider  dans  la  mise  en  œuvre  de  cette  automatisation.
+Au  sein  d’une  petite  équipe  et  sous  la  responsabilité  directe  d’un  ingénieur  expérimenté,  le
+stagiaire  aura  la  charge  des  activités  suivantes  :
+   Réalisation  d’une  étude  complète  des  outils  de  test  d’IHM  applicable  à  la  réalité  virtuelle.
+   Adaptation  de  fiches  de  test  DIDHAPTIC  (sous  Excel)  pour  les  exécuter  avec  l’outil  choisi.
+   Mise  en  œuvre  d'un  Serveur  d'Industrialisation  compatible  avec  les  technos  utilisées  sur
+VirTeaSy.
+   Intégration  de  l’outil  de  test  d’IHM  sur  la  plateforme  d’intégration  continue  DIDHAPTIC.
+   Rédaction  de  la  documentation  associée  à  cette  mise  en  œuvre.
+Bénéfices  pour  le  stagiaire  :
+Au  travers  de  ce  stage,  le  stagiaire  comprendra  les  enjeux  actuels  du  développement  logiciel  et  de
+son  outillage.  Par  ailleurs  il  fera  connaissance  avec  des  nouvelles  techniques  et  méthodologies  qui
+lui  procureront  des  compétences  très  recherchées  sur  le  marché  du  travail  dans  un  contexte  de
+technologies  liées  à  la  réalité  virtuelle.
+Connaissances  demandées  :
+Outil  de  test  IHM,  Visual  Studio
+Technologies  abordées  durant  le  stage  :
+Visual  Studio,  Outil  de  test  IHM,  Hudson,  Maven,  Scripting
+Comment  postuler  :
+Candidature  sur  contact@didhaptic.com  à  l’attention  de  Mélanie  RAPINE  ‐  Responsable  RH
+Code  stage  :  DID_VTS_TST‐01_2014
+DIDHAPTIC
+6, Rue  Léonard  de  Vinci
+BP  0119
+53001 LAVAL  cedex
+www.didhaptic.com
+2
+
+
+
+
+

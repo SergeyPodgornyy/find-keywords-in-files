@@ -1,0 +1,50 @@
+﻿« DEVELOPPEMENT GWT WEB ET MOBILE (H/F) »
+PRESENTATION DU STAGE
+ASI  est  une  société  de  Conseil  et  d’ingénierie  créée  en                                    1993,  spécialisée  dans  les
+applications décisionnelles, les portails d’entreprise et les solutions Web 2.0 de collaboration
+et la Gestion de la Relation Client.
+ASI a connu une croissance continue de son chiffre d’affaires depuis sa création, avec 36.1
+millions d'Euros en 2012, (+16 % par rapport à 2011). Implantée dans 10 villes (Paris, Lyon,
+Marseille,  Rennes,  Brest,  Nantes,  Niort,  Tours,  Bordeaux  et  Toulouse),  ASI  offre  la
+possibilité à ses 330 collaborateurs de vivre dans la région de leur choix, et   d’intervenir
+auprès de PME/PMI, de grandes entreprises et de collectivités locales.
+CONTEXTE ET SUJET DE STAGE
+ASI Informatique est une SSII de taille moyenne dont la clientèle est constituée à parts
+égales de grands comptes et de PME. Son activité comporte une grande partie de mise en
+place de solutions Intranet et/ou Extranet pour ces clients.
+Les solutions extranets mises en place pour les PME intègrent de plus en plus souvent des
+fonctionnalités  en  rapport  direct  avec  le  commerce  de  type  B2B  et  des  accès  sur  les
+plateformes mobiles (Tablette / Smartphone).
+Dans  ce  contexte,  notre  société  souhaite  développer  une  application  basée  sur  une
+architecture en couche permettant d’adresser des environnements web et mobile respectant
+les standards du moment.
+SUJET A CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Mise en place d’une application destinée à une utilisation web et tablette.
+Organisation projet en mode AGILE tout en respectant une approche CMMI.
+Respect de norme en vigueur :
+    Qualimétrie
+    Tests unitaires (Industrialisés)
+    Intégration continu
+    Gestion de dépendance
+Dans le cadre de ce stage, vous serez amenés à réaliser les activités suivantes :
+    Apprentissage de framework J2EE (Struts / Spring / Juice) (+ Thrift)
+    Développement de composants GWT / MGWT / CSS3 / HTML5
+    Analyse de méthodologie projet et enrichissement dans le cadre de démarche
+AGILE.
+Environnement de développement : ECLIPSE
+Langage : Java / GWT / MGWT
+Serveur d’application : TOMCAT
+Autres : Maven, IVY, Hudson, Sonar, ...
+DUREE ET PERIODE THEORIQUES :
+Durée :  Stage  pour  6  mois  (durée  à  préciser),  démarrage  dès  que  possible  pouvant
+déboucher sur une proposition d’emploi concrète.
+Profil du stagiaire : Idéalement Bac + 5 d’une formation supérieure ou Bac +4 avec une
+année d’alternance à suivre
+Lieu : situé à Brest (29)
+Réf : BF/J2EE
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿Offre de stage                                                                                2015 - PS - 05 -LJ
+
+Mise en œuvre d’une application mobile (tablettes et Smartphones) pour piloter,
+Sujet
+configurer et surveiller  à distance des équipement TV Numérique.
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Video  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+6 mois à partir de février/mars
+Lieu / Site                                                                                   Cesson-Sévigné                                                                         Période / Durée
+2015
+Contexte :
+Missions                                                                                      Développement de produits pour des systèmes et réseaux de transmission en télévision
+numérique  SD/HD  MPEG2-4-HEVC.    Les  systèmes  sont  typiquement  des  têtes  de
+réseaux (Head-end) numériques câble, satellite ou terrestre.
+L’équipe « Upstream Studies & Architectures » est engagée dans l’étude et la réalisation
+de solutions innovantes adaptées aux besoins de la TV numérique.
+Sujet de stage :
+Conception et développement d’une application mobile de supervision pour tablettes
+et Smartphones, offrant aux opérateurs une exploitation intuitive et simplifiée de nos
+équipements  de  diffusion  TV  numérique.  Cette  application  offrira  une  ergonomie
+innovante et adaptée aux différents formats des terminaux mobiles.
+Environnement de travail :
+Modélisation UML
+Architecture Orientée Services (JSON, REST)
+Environnement serveur : Linux, Java
+Environnement client : HTML5, CSS3, JQuery, JavaScript, …
+Gestion de configuration SVN
+Méthode AGILE
+Niveau d’études : Bac+5 - Ingénieurs/Mastère en informatique industrielle/télécom.
+Profil
+Ouverture d’esprit, fortes capacités d’initiative et de proposition. Curieux et autonome.
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    lahcen.jerid@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

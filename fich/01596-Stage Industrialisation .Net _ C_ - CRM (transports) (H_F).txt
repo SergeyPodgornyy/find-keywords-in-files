@@ -1,0 +1,44 @@
+﻿ATOS RECRUTE UN/UNE STAGE INDUSTRIALISATION .NET / C# - CRM (TRANSPORTS) (H/F)
+EN STAGE 6 MOIS.
+Date : 10/10/2014
+Référence de l’offre : 175203-7743214
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur international
+des services informatiques qui fournit à ses clients du monde entier, des solutions de conseil, d'intégration de
+systèmes, d'infogérance et des services transactionnels de haute technologie. Atos est présent dans 48 pays,
+compte 74 000 collaborateurs dans le monde et réalise un chiffre d'affaires annuel de 8,5 milliards d'euros
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres aux nouvelles technologies afin de satisfaire la demande
+croissante de solutions.
+Description du poste :
+Atos développe pour un acteur majeur du monde des transports publics un CRM de gestion de la relation
+client (campagnes marketing, réclamations).
+NTIC :
+Microsoft Dynamics CRM, Visual Studio, .Net, C#, SqlServer. PHP.
+Le stage proposé est une excellente opportunité pour découvrir et assimiler les outils, techniques et processus
+d'un projet de développement. Il sera aussi l'occasion de monter en compétence sur MS CRM Dynamics, un
+des progiciels leader du marché du CRM.
+De formation Bac+4-5 en informatique  (Ecole d'ingénieur ou université) en cours de validation, vous
+recherchez un stage d'une durée de 6 mois (dates variables selon l'école et la formation en cours)
+Profil recherché :
+Le stage est réalisé au sein du pôle CRM, à Rennes. Celui-ci conçoit et développe des applications de CRM
+pour de nombreux clients, dans de nombreux contextes métiers et technologiques.
+Le but du stage est de concevoir, développer et mettre en œuvre des outils d'intégration continue, des tests
+automatiques,l'analyse de code de génération automatique et le packaging, afin d'optimiser la qualité et
+l'efficacité du travail de l'équipe.
+Ces outils seront à identifier parmi les standards du marché, puis à déployer et configurer dans le contexte
+technique et organisationnel du projet.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7743214
+
+
+
+
+

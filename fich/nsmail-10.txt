@@ -1,0 +1,92 @@
+﻿Cahier des charges logiciel choix stage
+L’objectif d’un tel logiciel est de dématérialiser les procédures de choix de stages des
+externes  en médecine  se déroulant  de manière annuelle  en  4ème  année, puis  bi-annuelle  les
+suivantes (5ème et 6ème année); le tout lors d’une demi-journée en amphithéâtre où tous les étudiants
+sont convoqués et donnent leurs vœux tour à tour.
+Un logiciel informatique permettrait de faire ces vœux à distance, d’éviter de déplacer les
+étudiants et l’administration, de mobiliser les amphithéâtres et enfin offrirait la possibilité d’une
+répartition des externes dans les différents services de façon plus calme et moins stressante à gérer
+pour le bureau des stages.
+Le présent document détaille les procédures de choix pour la  4ème année, les années
+suivantes étant un peu plus spécifiques, un éventuel choix informatisé viendra plus tard.
+Répartition des étudiants en 4ème année
+Les étudiants sont répartis en 2 demi-promo que l’on nommera A et B pour la suite du
+document. « n » étant le nombre total d’étudiants dans la promo, « n’ » le nombre d’étudiants par
+demi promo (n’ = n/2).
+Chaque étudiant effectuera 2 pôles durant cette année, un sur chaque semestre ; il s’agit des
+pôles « spécialités médicales » et « tête-cou-membres ».
+Nous détaillerons ici la procédure pour le groupe A ; elle est bien sûr strictement identique
+pour le groupe B (la seule différence réside dans l’ordre dans lequel l’étudiant réalisera ses pôles : A
+fera spécialités médicales au 1er semestre et tête-cou-membres au 2ème quand B commencera par
+tête-cou-membres avant de faire le pôle spécialités médicales au 2ème semestre).
+
+
+
+
+Choix de stage pôle spécialités médicales
+1.  Le nom d’un étudiant est tiré au sort au sein de A
+2.  A partir de ce nom, il s’agit de former 2 groupes « Aa » et « Ab » de taille égale, ayant comme
+effectif n’/2
+3.                                                                                                       « Aa » commencera par 3 mois de stage en cardiologie. Pour les 3 mois suivants, chaque
+étudiant présente ses choix hiérarchisés parmi dermatologie, pneumologie et endocrinologie.
+L’affectation dans ces différents services se fait à partir des choix hiérarchisés en suivant
+l’ordre alphabétique, le tout en fonction du nombre de places disponibles dans chaque
+service hospitalier.
+4.                                                                                                       « Ab » commencera par un stage de 3 mois dans l’un des services parmi dermatologie,
+pneumologie et endocrinologie ; selon le même type de répartition que pour « Aa ». Puis ce
+groupe fera 3 mois en cardiologie.
+Choix de stages pôle tête-cou-membres
+1.  Le groupe A est divisé en 3 groupes de taille égale : « a1 », « a2 » et « a3 » (effectif de chacun
+d’entre eux = n’/3)
+2.  Dans ce pôle chacun des stages dure 2 mois. Les étudiants sont répartis ainsi :
+Un service parmi                                                                                         Aout-septembre                                                                           Octobre-novembre   Décembre-janvier
+Neurologie
+Site A                                                                                                   Neurochirurgie                                                                           a1                 a2                 a3
+MPR
+ORL
+Site B                                                                                                   Ophtalmologie                                                                            a3                 a1                 a2
+Psychiatrie
+Rhumatologie
+Site C                                                                                                   a2                                                                                       a3                 a1
+Orthopédie
+Il s’agit ensuite de répartir les étudiants au sein des différents sites. Nous prendrons
+l’exemple du sous-groupe « a1 », exemple applicable de la même manière aux autres sous-
+groupes.
+
+
+
+
+3.                                                                                                     Répartition des étudiants au sein du site A :
+٠   Les étudiants hiérarchisent leurs vœux parmi neurologie, neurochirurgie, MPR et
+sont affectés aux différents services en fonction des places disponibles dans les
+services, en suivant l’ordre alphabétique.
+4.                                                                                                     Répartition des étudiants au sein du site B :
+٠   Les étudiants hiérarchisent leurs vœux parmi ORL, ophtalmologie, psychiatrie et
+sont affectés aux différents services en fonction des places disponibles dans les
+services, en suivant l’ordre anti-alphabétique.
+5.                                                                                                     Répartition des étudiants au sein du site C :
+٠   Les étudiants hiérarchisent leurs vœux parmi rhumatologie, orthopédie et sont
+affectés aux différents services en fonction des places disponibles dans les
+services, en suivant un ordre un peu particulier.
+٠   En effet, pour ce 3ème choix, on commence au niveau de l’étudiant « médiane »
+du groupe « a1 », puis on prend le nom suivant dans un ordre alternativement
+alphabétique puis anti-alphabétique ; (1 « en dessous », puis 1 « au dessus »
+dans la liste alphabétique).
+Cahier des charges du logiciel
+Le logiciel de choix devra donc :
+  Respecter ces modalités d’attribution des stages
+  Etre accessible aux étudiants  (via une adresse url qui pourra leur être diffusée par la
+messagerie universitaire personnelle ?)
+  Permettre un accès unique et personnel pour chaque étudiant (via un identifiant ?)
+  Bien sûr, être accessible au bureau des stages afin qu’ils puissent en utiliser les données
+pour les afficher, les transmettre aux services hospitaliers etc…
+  Pouvoir intégrer les redoublants dans la procédure
+  A  terme,  l’objectif  étant  de  généraliser  ces  choix  dématérialisés  à  toutes  les  années
+d’externat, le logiciel devra avoir une « mémoire » des stages effectués par l’étudiant afin
+d’être capable de retracer son parcours au fil du temps et de vérifier qu’il a bien effectué les
+stages obligatoires (qui existent en 5ème et 6ème année)
+
+
+
+
+

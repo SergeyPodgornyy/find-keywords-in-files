@@ -1,0 +1,65 @@
+﻿Offre de STAGE: HRV_DEV01_2015
+STAGE : DEVELOPPEMENT D'UN
+DISPOSITIF DE TRACKING DE TETE
+Lieu : Laval - Durée : 2-4 mois - Stage Rémunéré
+(Stage niveau bac+4/5)
+Société :
+HRV est une jeune société innovante en réalité virtuelle, née en 2013 de l’association de fortes
+compétences complémentaires, sur l’acquis de travaux conduits depuis plusieurs années. Plus
+précisément, nous créons des plates-formes complètes de formation appliquée pour les métiers de
+la santé. Particulièrement pour les métiers où la mise en situation réelle du praticien en formation
+ou de l’étudiant peut se révéler dangereuse, trop onéreuse, ou techniquement impossible.
+HRV est également fournisseur de service de référence pour l’amélioration des conditions de travail
+dans l’industrie avec pour mission d’améliorer l’ergonomie des postes de travail en s’appuyant sur
+les technologies de la réalité virtuelle.
+Contexte :
+HRV développe et maintient plusieurs simulateurs d’apprentissage des gestes médicaux :
+   Un simulateur appelé VirTeaSy Dental utilisé pour l’apprentissage des chirurgiens-dentistes.
+   Un simulateur de chirurgie maxillo-faciale pour l’apprentissage des chirurgiens
+Avec la plate-forme de réalité virtuelle, le praticien en formation retrouve son environnement
+d’intervention. Le geste, l’image et le son l’immergent dans l’action pour mieux maîtriser la technicité.
+1
+
+
+
+
+Offre de STAGE: HRV_DEV01_2015
+Sujet de stage :
+Dans un objectif d’amélioration de l’immersion 3D de nos simulateurs, HRV désire enrichir sa
+plateforme avec un dispositif de tracking de tête afin d’immerger encore un peu plus l’utilisateur
+dans l’environnement virtuel.
+Ainsi, il sera demandé au stagiaire d’étudier différents dispositifs permettant le tracking de tête en
+temps réel  permettant  d’améliorer  l'immersion  dans l'image  de  l'utilisateur. Le  choix et  le
+développement d’une solution low cost sera à privilégier (utilisation de webcam, kinect, …).
+HRV recherche un stagiaire motivé, créatif, curieux de nature et ayant des connaissances dans le
+développement  informatique  temps  réel,  afin  de  nous  aider  dans  l’enrichissement  de  nos
+simulateurs.
+Au sein d’une petite équipe et sous la responsabilité directe d’un ingénieur expérimenté, le stagiaire
+aura la charge des activités suivantes :
+   Etude des dispositifs de tracking existants
+   Conception et développement du système de tracking
+   Intégration logicielle dans notre plateforme de simulation
+   Test et essai du dispositif
+Bénéfices pour le stagiaire :
+Au travers de ce stage, le stagiaire comprendra les enjeux actuels du développement de simulateur.
+Par ailleurs il approfondira ses connaissances avec des nouvelles techniques et méthodologies qui
+lui procureront des compétences très recherchées sur le marché du travail dans un contexte de
+technologies liées à la réalité virtuelle.
+Connaissances demandées :
+C++, OpenCV, Unity 3D, OpenGL
+Technologies abordées durant le stage :
+C++, OpenCV, Unity 3D, OpenGL, Visual Studio
+Comment postuler :
+Candidature sur contact@didhaptic.com
+Code stage : HRV_DEV01_2015
+HRV
+6, Rue Léonard de Vinci
+BP 0119
+53001 LAVAL cedex
+www.didhaptic.com
+2
+
+
+
+
+

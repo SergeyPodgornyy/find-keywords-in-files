@@ -1,0 +1,42 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEMENT JAVA TMA EN STAGE 6 MOIS.
+Date : 17/12/2014
+Référence de l’offre : 175555-8354892
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Sous la responsabilité d'un chef de projet et pour le compte de nos plus grands clients, vous participez à la
+conception, au développement et à la mise en production des applications dans des domaines fonctionnels
+variés.
+Vous intégrez une équipe et participez à l'ensemble des activités de TMA:
+- Analyse et correction de bugs
+- Développement de nouvelles fonctionnalités
+-Tests, qualification, revues, livraison, assistance à la recette, etc...
+Vous évoluez dans un environnement Java J2EE, GWT, Oracle.
+Profil recherché :
+De  formation  supérieure  minimum  Bac+4,  vous  recherchez  un  stage  orienté  programmation  en
+environnement Java.
+Vous êtes :
+-Motivé(e) pour évoluer au sein d'une équipe projet
+-Passionné(e) d'informatique
+-Créatif(ve)
+-Curieux(se)
+-Vous avez le sens des priorités
+-Une bonne connaissance de la langue anglaise est indispensable
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8354892
+
+
+
+
+

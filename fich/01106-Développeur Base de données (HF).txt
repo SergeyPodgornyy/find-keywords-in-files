@@ -1,0 +1,53 @@
+﻿SMALL  IZ  BEAUTIFUL  RECRUTE  UN/UNE  DÉVELOPPEUR  BASE  DE  DONNÉES
+(H/F)  EN  STAGE  DE  6  À  12  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  BD_EG­5576858
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Système  /  Réseaux  /
+Base  de  Données)
+Type  de  contrat    :  Stage
+Localisation    :  Orsay  (91)  91400,  FR
+Durée  du  contrat    :  De  6  à  12  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Solution  d'aide  au  recrutement  cadre  dédié  aux  PME  de  croissance,  small  IZ  beautiful
+recrute  pour  l'entreprise  EGIDIUM.
+Jeune  société  innovante,  Egidium  Technologies  développe  et  commercialise  un  progiciel
+révolutionnaire  en  matière  de  sécurisation  des  sites  sensibles.
+En  quelques  années,  le  contexte  sécuritaire  a  connu  de  profondes  mutations.  Face  à
+l'émergence  de  nouveaux  conflits,  les  réglementations  ont  évolué,  contraignant  les  sites
+dits  sensibles  à  adapter  leurs  moyens  de  sécurisation.  Désormais,  afin  d'assurer  le
+meilleur  déroulement  possible  des  événements,  les  stades,  gares,  centres  d'affaires  etc.
+doivent  être  protégés  efficacement.
+Dans  ce  contexte,  Egidium  Technologies  a  conçu  un  progiciel  unique.  Destiné  à  équiper
+les  centres  de  décision  des  services  de  sécurité,  il  offre  une  visualisation  unifiée  en  3D  et
+une  aide  à  la  décision  en  temps  réel  !
+Faisant  la  synthèse  de  toutes  les  composantes  de  sécurité  sur  un  seul  écran,  il  permet
+d'appréhender  au  mieux  la  situation  et  de  coordonner  les  solutions  à  mettre  en  place.  Il
+assure  ainsi  la  personnalisation  de  chaque  modélisation,  une  meilleure  maîtrise  de
+l'information  en  direct  et  une  réaction  dans  les  meilleurs  délais.
+Précurseur  dans  le  domaine,  Egidium  Technologies  cible  6  marchés  clés  :  la  sécurité
+urbaine,  le  sport  et  les  événements,  l'industrie,  les  bâtiments  publics,  les  bases  militaires,
+ainsi  que  le  transport  et  la  logistique.  Les  objectifs  sécuritaires  sont  multiples  et
+concernent  tant  les  risques  d'agressions  ou  d'intrusion  que  les  menaces  terroristes  ou  les
+accidents  industriels.
+Description  du  poste    :
+Au  sein  de  l'équipe  produit  et  R&D,  vous  prendrez  en  charge  la  conception  et  le
+
+
+
+
+développement  des  évolutions  d'amélioration  de  la  base  de  données  déjà  en  place.
+L'optimisation  de  la  base  de  données  devra  être  prise  en  compte  à  chacune  des  étapes  par
+rapport  à  l'utilisation  qui  en  est  faite  :  au  niveau  du  modèle  logique  et  du  modèle
+physique,  au  sein  du  serveur  applicatif  et  dans  les  requêtes  SQL  utilisées.
+Profil  recherché    :
++4/5  en  informatique.  Rigueur,  autonomie,  esprit  d'équipe.  SQL  Server,  C++,  Java  et  un
+outil  de  modélisation  (PowerAMC).  Connaissances  en  optimisation  d'un  SGBD  seraient
+un  plus.
+Pour  postuler    :  http://smalliz.contactrh.com/jobs/1536/5576858
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿Création  d’un  socle  technique  Drupal  -  H/F
+PRÉSENTATION DU STAGE
+Entreprise de Services du Numérique créée en  1993, ASI est spécialisée dans les solutions de
+Business Analytics, le Social Business (réseaux sociaux d’entreprise, messagerie, portail, CRM…) et
+les applications mobiles intégrées avec le système d’information de l’entreprise.
+Implantée dans  10 villes  (Paris, Lyon, Marseille, Rennes, Brest, Nantes, Niort, Tours, Bordeaux et
+Toulouse),  ASI  compte                                                                                      320  collaborateurs  qui  interviennent  auprès  de  PME/PMI,  de  grandes
+entreprises et de collectivités locales.
+Rejoignez une entreprise qui allie performance et sens écologique, positionnée sur des projets à taille
+humaine et partagez notre éthique basée sur la transparence, le respect, la simplicité, la convivialité et
+le plaisir.
+CONTEXTE ET SUJET DE STAGE
+Afin de regrouper et renforcer notre savoir-faire, l'activité PHP est organisée autour d'un centre de
+services dédié basé à Nantes.
+Ce centre de services propose un panel d'offres autour des technologies Linux Apache MySQL et
+PHP, comme :
+•                                                                                                                                                                                         le développement d'applications de type Intranet  / Extranet  / Internet et mobiles (Symfony,
+Zend Framework),
+•                                                                                                            l'intégration du CMS Drupal
+•                                                                                                            l'expertise sur PHP, MySQL (audit technique, conseil)
+•                                                                                                                                                                                         la maintenance de sites ou d'applications web en TMA (tierce maintenance applicative)
+Dans ce contexte varié, aussi bien fonctionnellement que techniquement, nous réalisons différents
+projets et souhaitons améliorer l'industrialisation de nos développements Drupal autour d’un socle
+technique commun.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Intégré au centre de services, vous devrez étudier et analyser la conception d’une usine à sites,
+autour du CMS Drupal  8. Après l’analyse que vous aurez effectuée avec le responsable de l’offre
+Drupal, vous devrez concevoir le socle technique basé sur Drupal 8.
+   Etude technique du CMS Drupal 8
+   Compréhension de la problématique du centre de services
+   Choix de modules, tests et validation
+   Conception et paramétrage du modèle de site
+   Mise en œuvre de modules fonctionnels réutilisables
+-                                                                                                            Workflow de validation des contenus
+-                                                                                                            Gestion des communautés et des sous-communautés
+-                                                                                                            Interfaces WebServices
+-                                                                                                            …
+                                                                                                                Recherche de solutions d’intégration avec des outils tiers
+-                                                                                                            Intégration  de  contenus  provenant  d’applications  métiers                (MASHUP)  :  Symfony/Zend
+                                                                                                             Framework,
+-                                                                                                            Fournitures de contenus à des applications mobiles
+-                                                                                                            GEID : Alfresco, …
+-                                                                                                            ElsaticSearch
+-                                                                                                            Authentification (SSO): LDAP, NTLM, …
+   Mise en œuvre de tests unitaires et de tests fonctionnels sur le socle
+   Réalisation de l’interface de duplication/génération d’un nouveau site
+
+
+
+
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée : Stage d'une durée de 6 mois, avec un démarrage le 1er trimestre 2015 ; ce stage doit
+déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure pertinente par rapport au domaine
+d’intervention.
+Lieu  : situé à Nantes (44)
+Réf : PM/Drupal
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

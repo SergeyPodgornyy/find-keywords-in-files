@@ -1,0 +1,46 @@
+﻿Le 19 Janvier 2015
+Offre de stage : Développeur WEB (H/F) Ref : INFODEVWB15
+La société Cordon Electronics a été fondée en 1989 par son PDG Serge CORDON à Dinan (22- BRETAGNE) où est
+installé son Siège Social ainsi qu’un de ses principaux sites de production.
+En commençant son développement dans la maintenance des équipements de télématique et téléphonie filaire, elle
+s’est orientée vers la réparation des appareils GSM à partir de 1995. Cordon Electronics est aujourd’hui reconnue
+comme l’acteur incontournable de la réparation de mobiles en France.
+En parallèle de ce cœur de métier GSM, CORDON ELECTRONICS s’est développé sur d’autres activités de réparation :
+écrans plats LCD et plasma, décodeurs numériques et box, produits micro-informatiques, réparation et service
+logistique dans le domaine PABX et autres matériels professionnels, produits multimédia.
+www.cordongroup.com
+Vous intègrerez notre service Informatique Groupe et serez sous la responsabilité du Chef de Projet.
+Mission :
+Notre service informatique développe nos outils en interne (selon besoins) et intervient pour nos clients externes sur
+le  développement  d’outils  spécifiques.  Pour  exemple,  nous  avons  réalisé  récemment                                     2  sites  publics
+www.econectik.com et www.recyclez-moi.fr que vous pouvez consulter. Ces types de site peuvent être des projets
+alloués au futur stagiaire.
+Vous aurez pour mission la conception technique de divers projets qui seront mis en place au sein du groupe.
+Avec l’appuie de votre responsable hierarchique, vous devrez respecter un cycle de projet bien précis : Etude,
+Formalisation, Développement, Rédaction d’un compte rendu et formation des nouveaux utilisateurs. Votre capacité
+d’analyse  vous  permettra  de  comprendre  rapidement  le  fonctionnement  de  nos  outils,  ce  qui  facilitera  le
+déroulement de votre mission.
+Lieux de stage : DINAN (22) à 40 minutes de RENNES.
+Compétences techniques nécessaires :
+-                                                                                                                              Base de données MySQL et ORM Doctrine2
+-                                                                                                                              Langages de programmation WEB (PHP5, javascript, css, html5)
+-                                                                                                                              Maîtrise du Framework Symfony2 , Jquery, bootstrap3
+-                                                                                                                              Serveur web Linux (Debian / Apache2)
+-                                                                                                                              La connaissance technique de Sugar CRM serait un plus
+-                                                                                                                              Moteur de templates : Twig
+-                                                                                                                              Maitrise du PackOffice (Word)
+Profil :
+Etudiant(e) en BAC+4/5, en formation Informatique orientée développement web.
+Vous disposez d’une réelle autonomie, d’une créativité, d’une organisation, d’un bon relationnel  (vous serez
+amené(e) à travailler avec plusieurs interlocuteurs internes) et vous êtes force de proposition.
+Stage à pourvoir dès que possible.
+MERCI DE NOUS TRANSMETTRE OBLIGATOIREMENT UN CV ET UNE LETTRE DE MOTIVATION
+@ : recrutement@cordonweb.com
+ 02 96 85 65 50
+Ce document est la propriété de Cordon Electronics, il ne peut être utilisé, reproduit, ou communiqué sans son autorisation.
+V 08/11/2012.
+
+
+
+
+

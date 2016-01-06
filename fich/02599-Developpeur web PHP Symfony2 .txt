@@ -1,0 +1,38 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR WEB PHP SYMFONY2 EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : devsymfony2-10310911
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Marseille 13000, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+optimisation des fonctionnalités existantes, des performances ou du référencement,
+compréhension et résolution des difficultés rencontrées par nos utilisateurs,
+développement de nouvelles fonctionnalités, de la conception à la mise en production.
+Il y a aussi des projets plus vastes (site mobile, appli mobile) auxquels vous pouvez prendre part.
+Profil recherché :
+De formation bac +3 à +5 en développement informatique.
+Vous savez développer sous Symfony2 (ou autre architecture MVC), maîtrisez HTML CSS JavaScript, et
+parlez le SQL.
+Vous aimez les nouvelles technologies et avez envie d'aventure dans un projet web. Vous faites preuve
+d'initiative, d'autonomie et d'un sens des responsabilités.
+Et c'est encore mieux si vous avez une âme de devops/sysadmin, ou des talents en design ou graphisme, ou
+encore de l'expérience en analyse d'audience (analytics).
+Nous sommes…
+Une équipe de 5 personnes passionnées de découvertes, de tourisme de proximité, et de solutions qui rendent
+la vie plus simple à tous.
+Nous sommes basés à Marseille, au Pôle Média de la Belle de Mai, dans une pépinière avec des locaux très
+cools et une bonne ambiance entre startups.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10310911
+
+
+
+
+

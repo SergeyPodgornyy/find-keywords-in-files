@@ -1,0 +1,53 @@
+﻿Développement d’un serious
+game
+Fondée en  1976, CGI est un fournisseur mondial de s    ervices en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  de                          s  processus
+                                                                                                             DUREE : 6 MOIS
+d’affaires  qui  offre  des  services-conseils  en  manag                           ement  ainsi
+                                                                                                             LIEU : NANTES
+que des services d’intégration de systèmes et d’out                                 sourcing.
+Avec  69  000  professionnels  présents  dans  40  pays  et                         répartis                 Contactez ?
+Keiza BARBIN : keiza.barbin@cgi.com
+dans  400 bureaux partout dans le monde, nous conjug                                uons une
+et Stéphanie LEPEIGNEUL :
+présence  locale  à un vaste  éventail  d’expertises.  V     oilà  la force
+stephanie.lepeigneul@cgi.com
+de notre engagement.
+Offre de stage référence :
+ST/NTS/PIM-SG/01
+OBJECTIFS DU STAGE
+Ce  stage  de  fin  d’études  consiste  à  concevoir  et  développer  un  serious
+game  2D avec la technologie Flash et le décliner en  3D-temps réel avec
+Unity 3D.
+Le   serious   game   développé   doit   illustrer   les   séquences   d’actions
+préalablement  définies,  relatives  à  un  contexte  client  précis.  Il  doit
+permettre : la projection et simulation de l’utilisateur dans son contexte, la
+sensibilisation et la formation, une scénarisation interactive et ludique.
+Ce  stage  de  fin  d'études  vous  permettra  d'intégrer  l'entité  PIM            (Pôle
+Innovation et Mobilité).
+Au sein de cette communauté d'experts reconnus, vous serez impliqué sur
+des   projets   innovants   et   enrichissants.   Ainsi   vous   acquerrez   des
+connaissances et des compétences à forte valeur ajoutée.
+MISSIONS
+   Conception et scénarisation du serious game : storyboarding, définition
+de l’immersion et du type d’interaction, gameplay, etc.
+   Intégration des composants graphiques/objets 3D
+   Développements avec les technologies C#/Unity3D, Flash/ActionScript
+   Participation aux phases de tests
+   Rédaction de la documentation
+   Apprentissage des méthodologies projets
+PROFIL
+   BAC+5, dernière année de cycle d’ingénieur
+   De solides connaissances en développement objet : C++, C#, Java
+   Autonomie, écoute, rigueur, esprit critique, force de proposition,
+constructif, dynamisme, capacité à s’intégrer dans une équipe
+   La connaissance de Flash et/ou des bases 3D-temps réel est un plus
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr                                                                  © 2013 GROUPE CGI INC.
+
+
+
+
+

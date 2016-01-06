@@ -1,0 +1,32 @@
+﻿MYINTERNSHIPABROAD  RECRUTE  UN/UNE  STAGE  DÉVELOPPEMENT  WEB  LONDRES  EN
+STAGE DE 4 À 12 MOIS.
+Date : 15/10/2014
+Référence de l’offre : ULonCJ2035-7783214
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Londres 00000, GB
+Durée du contrat : De 4 à 12 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Entreprise spécialisée dans la gestion de module de paiement en ligne
+Description du poste :
+* Travailler en étroite collaboration avec les Front-End Developers
+* Participer aux réunions avec les Chefs de produits et collaborer avec nos designers
+* Participer à la construction d'une nouvelle application de paiement
+* Apporter des idées neuves dans le développement du projet
+Offre à pourvoir entre le 2014-10-01 et le 2014-10-31 pour une durée de 4 à 12 mois
+Profil recherché :
+* HTML5 / CSS3
+* Javascript
+* JQuery
+* AngularJS / Backbone.js / Ember.JS / RequireJS
+* LESS (un langage dynamique de génération de feuilles de style)
+* Avoir de l'expérience dans la construction de plug-ins / widgets (JQuery, AngularJS, etc)
+* Bonne connaissance de UX et Responsive Web Design
+Pour postuler : http://myinternshipabroad.contactrh.com/jobs/1536/7783214
+
+
+
+
+

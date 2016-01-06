@@ -1,0 +1,66 @@
+﻿Ingénieur d’études C, JAVA/J2EE
+Atos, acteur international des services
+Votre mission
+informatiques avec un chiffre d’affaires
+annuel de 8,7 milliards d’euros et
+Contexte :                                                                      78.500 collaborateurs dans 42 pays,
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue
+                                                                                fournit à ses clients du monde entier des
+Management ont la responsabilité de projets d’évolutions d’applications de      services transactionnels de haute
+facturation et de gestion des offres pour un opérateur Telecom figurant
+                                                                                technologie, des solutions de conseil,
+parmi les leaders mondiaux des prestations de services de
+                                                                                d’intégration de systèmes et
+télécommunications destinées aux multinationales.                               d’infogérance.
+                                                                                Atos délivre les technologies qui
+Mission :                                                                       accélèrent le développement de ses
+Intégré au sein d’une équipe projet et encadré par un ingénieur                 clients et les aide à réaliser leur vision de
+expérimenté, vous participerez aux différentes phases d’un projet
+                                                                                l’entreprise du futur. Atos est le
+informatique.                                                                   partenaire informatique mondial des
+Le stage s’organisera autour des phases successives d’un tel projet :
+                                                                                Jeux Olympiques. Le Groupe est coté sur
+- Analyse des besoins du client,
+                                                                                le marché Eurolist de Paris et exerce ses
+- Etude d’impact & estimation des charges,                                      activités sous les noms d’Atos, Atos
+- Rédaction des spécifications,
+                                                                                Consulting, Atos Worldline et Atos
+- Développement,                                                                WorldGrid.
+- Validation.
+                                                                                Pour plus d’information : www.atos.net
+Environnement technologique :                                                   Ce stage est basé à Rennes
+C/C++, JAVA/J2EE, Log4j, Weblogic, Oracle 10g, Eclipse, UML, Power AMC,         Si ce stage vous intéresse,
+Shell Unix.                                                                     déposez votre candidature à l’adresse
+suivante :
+http://fr.atos.net/fr-
+Objectifs pédagogiques :
+fr/emplois_carrieres/postulez
+Ce stage vous permettra d'acquérir l’expérience d’un cycle complet d’un
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+ou contactez: Jean-Charles.Coeuru@atos.net
+solution définie. Le produit de ce stage devra être conduit conformément
+Référence du stage : 157004
+aux règles projet en vigueur (processus, qualité). Cela offre au stagiaire la
+possibilité de s’intégrer dans une équipe projet, de participer et de
+découvrir le fonctionnement d’un projet . Techniquement, ce stage permet
+Qui êtes-vous ?
+d’acquérir des compétences dans un environnement C/C++, Java/J2EE,
+De formation Bac +5 en informatique
+Shell unix.
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois (dates
+variables selon l’école). Anglais
+souhaité. Une première expérience en
+technologies JAVA/J2EE serait un plus
+apprécié.
+Une proposition d’embauche en fin de
+stage est envisageable, sur le site de
+votre stage, ou, si vous le désirez, dans
+toute autre région dans laquelle AtoS
+recrute.
+
+
+
+
+

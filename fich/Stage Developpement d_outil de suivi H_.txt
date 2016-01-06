@@ -1,0 +1,55 @@
+﻿Stage Développement d'outil de suivi H/
+Société Générale France
+REFERENCE  :  ST/SM/ITEC/0613
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4240346
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  4-5 ans
+DUREE  :  de 1 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION DU POSTE  :
+Votre environnement :
+LYXOR est la branche du groupe Société Générale dédiée à la gestion d'actifs. Elle est spécialisée
+dans la gestion structurée, quantitative, indicielle et alternative.
+Vos missions :
+Au sein de l'équipe informatique dédiée aux outils de suivi du risque sur les fonds de la gamme
+Alternative, vous participerez à la mise à niveau des outils existant en C#.
+Cela ira de la conception à la réalisation d’interface graphique en C# et de composant serveur en
+Java pour le suivi de la production d’indicateurs de risque de marché.
+Votre profil H/F :
+Vous êtes étudiant de niveau Bac +4/5 en École d’ingénieurs ou Université, avec une spécialisation
+en Système d’information.
+Votre niveau d’anglais est opérationnel. Vous maîtrisez le Pack Office ainsi que C#.
+Les apports du stage :
+Durant ce stage, vous approfondirez votre connaissance de la programmation objet et du langage
+C#.
+Vous découvrirez l'univers des produits financiers et du suivi de risque et les bases des méthodes de
+travail en mode Agile / Scrum.
+
+
+
+
+Et si c'était vous? :
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis
+rencontrerez un opérationnel pour un entretien de motivation.
+Durée du stage : 6 - 12
+mois/Stage basé à : Paris-La Défense
+Gratification selon grilles SG.
+PROFIL  :
+Vous êtes étudiant de niveau Bac +4/5 en École d’ingénieurs ou Université, avec une spécialisation
+en Système d’information.
+Vous maîtrisez le Pack Office ainsi que C#.
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4240346
+
+
+
+
+

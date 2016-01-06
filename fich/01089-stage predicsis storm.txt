@@ -1,0 +1,43 @@
+﻿PredicSis
+Stage en R&D
+Maîtrise des flux de données en environnement BigData
+PredicSis est une start-up issue d’Orange, en fort développement d’environ quinze ingénieurs
+créée en juillet 2013. Elle fournit des services de Predictive Analytics en environnement Big
+Data. Nos clients sont la distribution, l'e-commerce et les banques-assurances.
+Predicsis  recherche  des  étudiants  motivés,  agiles,  technophiles  et  passionnés  par  la
+découverte de ces technologies. Leur mission sera de soutenir nos efforts au sein de son
+équipe R&D. Le stage peut être prolongé par un contrat de travail.
+Sujet et objectif du stage :
+Ce stage s’intègre dans la mise en œuvre d’une chaîne complète d’enrichissement en temps
+réel de contenus provenant de réseaux sociaux (twitter, facebook, Google Analytics…), par
+l’analyse de ces contenus à l’aide des technologies prédictives proposées par PredicSis.
+L’objectif est d’une part d’étudier l’intégration de solutions de Stream (Storm, Parstream…),
+au sein d’une solution de traitements distribués pour des flux de donnés temps réels, au sein
+d’un applicatif complet ; d’autre part de comparer différentes solutions de déploiement de cette
+technologie.
+Les différentes étapes du stage porteront sur :
+   La familiarisation avec les technologies (Storm, Parstream…)
+   L’intégration dans la solution retenue des composants d’analyse prédictive proposés
+par PredicSis
+   Le développement de connecteurs avec les sources de données choisies
+   L’analyse des performances obtenues sur un cluster de calculs
+Environnement technique :
+Les technologies principalement utilisées seront : Java, Storm, Parstream, Hadoop
+Lieu du stage :
+Lannion
+Durée du stage :
+6 mois
+Indemnité :
+1000                                                                                               € par mois
+Personne à contacter :
+Laurent Cogné, lco@predicsis.com
+Jean-Louis Fuccellaro, jlf@predicsis.com
+PREDICSIS S.A.S.
+Société par Actions Simplifiée au capital de 70 000 euros
+Siège social : 4 rue Ampère, 22300 Lannion
+RCS SAINT BRIEUC 794 365 098
+
+
+
+
+

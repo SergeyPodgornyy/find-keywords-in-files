@@ -1,0 +1,61 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE STAGE DANS LE DOMAINE DÉCISIONNEL : RAT
+EN STAGE 6 MOIS.
+Date : 01/04/2014
+Référence de l’offre : ST/SB/SIOP97983-5933844
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement
+Dans le cadre de la banque de détail France (enseigne Société Générale), le département décisionnel de la DSI
+réalise un projet de migration de ses entrepôts de données sur une plate-forme Teradata. Cette migration donne
+l'opportunité de rationaliser les entrepôts dédiés d'une part au marketing, d'autre part au pilotage, en supprimant
+des redondances d'informations. L'enjeu est important en termes de cohérence du dispositif global et de coûts de
+maintenance. La rationalisation traite aussi bien les aspects fonctionnels que techniques.
+Votre stage
+Sous la responsabilité de votre tuteur, vous participez  au
+projet de rationalisation de structures redondantes dans les bases de données (par exemple les tables Tiers-clients)
+: étude de l'existant, recueil des besoins, conception, réalisation/programmation (requêtes, vues), tests.
+Apport du stage
+Ce stage vous permettra de  :
+- participer à un projet de bout en bout
+- comprendre les modèles et structures propres aux environnements décisionnels
+- appréhender les technologies de type appliance décisionnelle massivement parallèles sur des volumétries très
+importantes
+Votre profil
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  école  d'ingénieur  ou  université  avec  une  spécialisation  en
+informatique.
+Vous êtes à l'aise avec SQL.
+Vous possédez un esprit d'analyse et une bonne capacité de synthèse afin de traiter de multiples informations et
+d'accomplir, avec succès, les travaux qui vous seront confiés.
+Et si c'était vous?
+Si  votre  CV  est  sélectionné  par  le  recrutement,  vous  rencontrerez  un  opérationnel  pour  un  entretien  de
+motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+
+
+
+
+Profil recherché :
+Votre profil
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  école  d'ingénieur  ou  université  avec  une  spécialisation  en
+informatique.
+Vous êtes à l'aise avec SQL.
+Vous possédez un esprit d'analyse et une bonne capacité de synthèse afin de traiter de multiples informations et
+d'accomplir, avec succès, les travaux qui vous seront confiés.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/5933844
+
+
+
+
+

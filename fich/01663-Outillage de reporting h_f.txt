@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE OUTILLAGE DE REPORTING H/F EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175658-7786866
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+L'entité Atos Systèmes Intégration  (SI) a pour vocation d'imaginer, de développer et de maintenir les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Vous  évoluez  au  sein  du  pôle  "Network  Management"  qui  conçoit  et  développe  des  applications  de
+supervision, de diagnostic et de reporting statistiques de réseau.
+Le stage porte sur la finalisation de l'outil ISIS (suivi des actions associées au traitement de tickets - transmis
+à une équipe support (Helpdesk).
+Le stage s'effectuera en plusieurs étapes, avec notamment :
+la prise de connaissance de l'état actuel du projet ISIS  (architecture, fonctionnalités déjà implémentées,
+identification des fonctionnalités restant à mettre en place, le développement de ces nouvelles fonctions, la
+validation de toute l'application avec l'outil de test HPQC), la mise à jour de la documentation (spécifications,
+manuels, ..), la mise en exploitation opérationnelle sur plate-forme Atos.
+Ntic :
+Linux, Java, PHP, MySQL, Eclipse, Sonar, Hudson, …
+Profil recherché :
+De  formation  Bac+4-5  en  informatique                                                                               (Ecole  ingénieurs,  Université)  en  cours  de  validation,  vous
+recherchez un stage d'une durée de 4-6 mois (dates variables selon l'école). Une proposition d'embauche en
+fin de stage est envisageable, sur le site de votre stage, ou, si vous le désirez, dans toute autre région dans
+
+
+
+
+laquelle ATOS recrute.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7786866
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿Réf :Bcom/2014-                                                                                        Rennes, le 6 Janvier 2014,
+003
+Objet :                                                                                                Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+Technologique b<>com dans le domaine AEV
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur      3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                            Déploiement   d’une   architecture   de   type   IaaS :   logiciel   de   gestion   de
+stage                                                                                                  l’infrastructure, framework de pilotage de cette infrastructure
+Descriptif de la mission :
+Le  stage  se  déroule  dans  le  programme  Réseaux  de  b<>com,  au  sein  du  laboratoire  AEV
+(Architecture Et Virtualisation).
+Sous l’autorité du responsable du laboratoire AEV, le stagiaire a pour mission de déployer une
+infrastructure logicielle de type IaaS. Il/elle :
+    déploiera un logiciel de gestion d'infrastructure de type Cloud IaaS
+    intégrera  un  framework  fondé  sur  l'ingénierie  des  modèles  pour  le  pilotage  de  cette
+infrastructure
+Le  (la)  stagiaire  sera  intégré(e)  dans  une  équipe  d'ingénieurs  chargés  du  développement
+d'une plateforme Cloud.
+Profil recherché :                                                                                     Formation Master 2 ou ingénieur en informatique
+Le/la candidat(e) doit posséder des connaissances en :
+    systèmes d'exploitation
+    génie logiciel
+Une bonne connaissance de l’environnement technique du cloud sera appréciée.
+Intérêt   pour   le                                                                                    Réelle intégration au sein d’équipes pluridisciplinaires
+stagiaire                                                                                              Expérience au sein d’une structure innovante
+Participation à un projet de grande ampleur
+Modalités                                                                                              Durée : 4 à 6 mois
+Date de démarrage : Mars 2014
+Localisation : Rennes
+Date de fin de dépôt des candidatures : 7 Février 2014
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                 140106
+
+
+
+
+

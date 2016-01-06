@@ -1,0 +1,57 @@
+﻿Développement d’un Centre de
+Contacts hébergé dans le cloud
+Fondée en 1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies de l’information (TI) et en gestion des
+PARIS/CESSON SEVIGNE
+processus d’affaires qui offre des services-conseils en
+management ainsi que des services d’intégration de
+Contact
+systèmes et d’outsourcing.                                                      Elodie DELUGEARD
+elodie.delugeard@cgi.com
+Avec 69 000 professionnels présents dans 40 pays et répartis
+dans 400 bureaux partout dans le monde, nous conjuguons
+une présence locale à un vaste éventail d’expertises. Voilà
+la force de notre engagement.
+OBJECTIF DU STAGE
+Toutes les grandes marques dans tous les domaines (Axa, Orange, etc.)
+ont des centres de relations clients. Les Data Centers et les solutions Cloud
+permettent aujourd’hui de répondre en partie aux problèmes de flexibilté
+des solutions actuelles.
+Les  buts  de  ce  stage  :
+  comprendre le fonctionnement et les contraintes d’architecture des
+centres de contacts (architecture SI et fonctionnelle),
+  faire  un  état  de  l’art  des  solutions  Cloud  et  Data  Center  qui
+permettraient d’héberger des solutions centres de contacts,
+  architecturer  une  solution  basée  sur  les  modèles                       (model-based
+design) de relation clients en mode cloud ou semi-externalisée,
+  développer   les   composants   qui   vont   permettre   d’intégrer
+entièrement  un  centre  de  contacts  de  10  positions  cross-canal
+(voix,email, chat, réseaux sociaux).
+Le  stagiaire  va  rejoindre  un  consultant  expert  immergé  aux  cœur  des
+contraintes des grands comptes sur Paris. Il mettra en œuvre les méthodes
+et techniques asquises et les appliquera aux contraintes des centres de
+contacts en mode Cloud.
+MISSIONS
+Analyser le domaine des centres de contacts et de la relation clients
+Avoir une vision sur les solutions existantes (principalement Genesys)
+Proposer et mettre en œuvre une solution innovante et flexible de centre de
+contacts appliquée à un cas client
+PROFIL
+De  formation  supérieure,  école  d’ingénieur,  de  commerce  ou  Université
+(Bac+4/5)
+www.cgi-recrute.fr
+© 2014 GROUPE CGI INC.
+
+
+
+
+cgi.com
+© 2013 GROUPE CGI INC.
+Option Informatique
+Anglais
+
+
+
+
+

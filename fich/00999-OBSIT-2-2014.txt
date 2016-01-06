@@ -1,0 +1,72 @@
+﻿Offre de stage   « Edition en ligne de contenu Web »   (f/h)
+Le groupe Orange est l'un des principaux opérateurs de télécommunications dans le monde. Au
+service de plus de 200 millions de clients sur les cinq continents, dont les deux tiers sous la marque
+Orange.
+Présentation de l’entité / service / division
+Orange Business Services est leader dans l'intégration de solutions de communication, au niveau mondial
+pour les entreprises multinationales, et dans un certain nombre de pays pour les petites et moyennes
+entreprises. Grâce à une expérience étendue dans les solutions de communication globales, un réseau
+couvrant 220 pays et un support local dans 166 pays, nous nous assurons que nos clients bénéficient d'une
+solution homogène partout où ils sont présents. Notre stratégie, ainsi que tout ce que nous entreprenons,
+est basée sur notre engagement à ce que nos clients vivent une expérience de qualité exceptionnelle.
+IDITS/OSS/Customer Solution & Portal est l’entité en charge des solutions :
+- Web clients (portails et Customer care services) déployés aux clients Orange Business Services
+(marché Grande entreprise et Petite Entreprise (France)
+- Portail interne, pour les utilisateurs du périmètre CS&O (Customer Services & Operation)
+Le Portail d’Exploitation France permet au client via un accès unifié (couche portail et authentification)
+l’exploitation de son réseau : Gestion d’Incident, Change Management, Suivi de Production,
+Inventaire, Supervision et Statistiques.
+Mission :
+La mission consiste dans un premier temps à étudier des solutions de type open source sur l’édition en
+ligne de contenu web en vue de répondre à un besoin immédiat sur la gestion des aides en ligne. Dans un
+deuxième temps, il faudra mettre en place une phase pilote d’implémentation de ces aides en ligne.
+Sujet annexe : La mission consiste à contribuer à l’exploitation des statistiques d’usage du portail client au
+travers de la génération d’exports, de Tableaux de Bord et via l’évolution de l’outillage en place
+Activités :
+Sujet principal
+                                                                                                                Vous étudierez les solutions adaptées à l’hébergement d’une nouvelle aide en ligne
+                                                                                                                Vous générerez un document d’architecture/design de la solution avec les process
+d’utilisation envisagés (Maj, administration)
+                                                                                                                Vous mettrez en œuvre la solution dans le cadre d’une expérimentation et/ou phase
+pilote
+Sujet Annexe
+                                                                                                                Vous générerez des exports et des Tableaux de Bord via l’outil de reporting en place
+sur une souche logicielle AWStats
+   Vous analyserez les éventuelles incohérences ou décalage avec les logs applicatives des
+composants du Portail
+   Vous analyserez les Demandes d’évolution de l’outil en place en lien avec le Marketing, la
+Maitrise d’Ouvrage et la Maitrise d’Oeuvre
+   Vous ferez évoluer l’outil via du code
+Formation préparée :
+BAC +4/5 avec spécialité dans Informatique
+
+
+
+
+ECOLES  SOUHAITEES  :
+Niv Bac +4/5 (Université, …)
+Ou INSA Rennes
+Ou ISTIC
+Profil et compétences :
+   Vous avez des compétences de programmation Web
+   Vous maitrisez des éditeurs de contenu Web
+   Vous avez des qualités relationnelles et d’autonomie
+Environnement technique
+Fortement Souhaité :
+Editeur de contenu Web : Wiki, ..
+Technologies web : WebServices SOAP, php, …
+Apprécié :
+Apache
+Linux RedHat
+Le + de la mission :
+Environnement opérationnel et dynamique.
+Aspects techniques et fonctionnels riches
+Date de début et durée souhaitées :
+1er semestre 2014 - 4 à 6 mois
+Localisation :
+Cesson Sévigné - Rue de La Touche Lambert - Bât 7
+
+
+
+
+

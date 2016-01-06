@@ -1,0 +1,44 @@
+﻿BUREAUX À PARTAGER RECRUTE UN/UNE DÉVELOPPEUR(SE) WEB STARTUP EN STAGE DE 6
+À 12 MOIS.
+Date : 01/01/2015
+Référence de l’offre : Stage DEV-8360677
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : Paris 75003, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Bureaux A Partager (BAP) est le specialiste du partage de bureaux en France. Creee en 2012, la societe
+developpe 2 activites en parallele :
+1. le site www.bap.fr dont l'objectif est de mettre en relation d'un cote des petites entreprises cherchant des
+bureaux pour se developper, et de l'autre des societes ayant de l'espace en trop.
+2. BAP aide les proprietaires fonciers a optimiser leurs espaces de bureaux vacants en proposant la creation
+et la gestion d'espaces partages.
+￼
+Leader sur le marche francais, BAP souhaite democratiser une nouvelle forme de travail qui permet, au-dela
+de l'aspect financier, de dynamiser l'environnement professionnel. BAP s'inscrit dans une tendance de fond,
+celle de l'economie collaborative qui vise a optimiser l'utilisation des ressources existantes par le biais des
+nouvelles technologies.
+Description du poste :
+Dans le cadre du développement d'une application web innovante et d'envergure, nous cherchons une
+personne volontaire et force de proposition pour nous aider dans le développement de ce projet.
+Il s'agit d'une application type one page app basée sur Angular JS + API Restfull (servie par Symfony 2).
+L'API et le front sont testés unitairement sur un serveur d'intégration. Nous travaillons en agile.
+Vous avez de bonnes compétences ? Vous êtes curieux ? Envie d'apprendre et de progresser ? Vous toquez à
+la bonne porte !
+Technos
+Symfony 2 / Angular JS / Bootstrap / LESS
+Restfull / SSL / OAuth
+git / phpunit
+Profil recherché :
+Vous savez à quoi correspondent les technos ci dessus
+Vous avez une expérience à faire valloir dans l'une d'elles
+Vous habitez à Paris ou proche banlieue
+Vous êtes curieux(se), avez des idées et souhaitez intégrer une équipe dynamique
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8360677
+
+
+
+
+

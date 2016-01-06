@@ -1,0 +1,48 @@
+﻿INFORMATIQUE                                                                                                   STAGE   2013-2014
+SUPERVISION APPLICATIVE SNMP
+Stage rémunéré
+REF: 04_2014_DOPSI_INTEGRATION                                                                                                                                        Créé en mai 2011 U GIE-IRIS, est le prestataire
+                                                                                                                                                                      informatique  interne  au  Groupement  U
+                                                                                                                                                                      (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 6 mois - Période : 2ième semestre 2014
+                                                                                                                                                                      mission  la  centralisation  et  l'uniformisation
+                                                                                                                                                                      des ressources informatiques des magasins U
+                                                                                                                                                                      et des centrales.
+                                                                                                               Chaque  année  nous  accueillons  une  douzaine  de
+Système  U  souhaite  mettre  en  place  un  nouveau  protocole  de                                            stagiaires   qui   rejoignent   une   équipe   de      500
+supervision  sur  lequel  s’appuiera  un  ensemble  d’outils  et  de                                           collaborateurs qui travaillent dans un environnement
+processus. Ce protocole sera basé sur le standard SNMP et implique                                             technique constitué de 500 serveurs (Unix, Windows,
+une phase de création des MIBs et des méthodes qui seront utilisées                                            AS400), 1800 équipements réseaux et une centaine de
+par les agents déployés sur les systèmes AIX, HP-UX, Linux RED-                                                bases de données, répartis dans les Datacenters et
+HAT,  Windows  2008  et  OS400.  Ce  socle  servira  de  base  à  la                                           reliés aux 1423 points de vente du groupe.
+supervision des applications critiques qui soutiennent le métier de
+En immersion complète dans des projets
+Système U.
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+La mission se décomposera en 3 parties :
+Prospective : état de l'art, étude des socles d'agents SNMP étendus existants
+Théorique : mise en place d’un protocole complet de supervision, élaboration de la structure
+des données (définition de MIB), création des méthodes de stockage et d’accès…
+Pratique : développement et intégration des agents sur les différents systèmes et tests
+L’ensemble des activités doit être documenté au fil de la mission.
+Supervision : Nagios, Infovista, NNM
+SNMP : Agents IBM et Net-SNMP
+OS: AIX, HP-Ux, Linux RedHat, Windows 2008, iSeries OS400
+Bac + 5 Informatique, Ecole d'Ingénieurs ou Universitaire
+Connaissances techniques :
+o   Connaissances préalables du protocole SNMP souhaitées mais pas indispensables
+Qualités requises :
+o   Autonomie, motivation et rigueur exigées
+o   Faculté à rédiger
+o   Esprit de synthèse obligatoire
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

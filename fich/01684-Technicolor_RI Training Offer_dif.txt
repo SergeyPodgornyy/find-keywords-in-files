@@ -1,0 +1,83 @@
+﻿With more than 95 years of experience in entertainment innovation, Technicolor is a leading provider of production, postproduction,
+and distribution services. With strong historical ties to the largest Hollywood studios, this unique environment presents an exceptional
+opportunity to explore cutting-edge video technologies that will reach homes in the years to come.
+Work on the leading edge of media and entertainment technology. Join the 300 Technicolor researchers who are breaking new ground
+in digital innovation and inventing the future of digital media to create outstanding content and deliver unique consumer experiences
+for the home, theaters and on-the-go.
+In any of Technicolor Laboratories, you will discover a group of talented individuals from diverse backgrounds working together in
+a stimulating, state-of-the-art environment that fosters new ideas and unleashes ingenuity.
+Bring your sense of creativity, hard work, team spirit and join us!
+Technicolor Research & Innovation Labs - Internships
+YOUR MISSION                                                                                                                               YOUR PROFILE
+Our interns’ mission is to help researchers identify new
+                                                                                                                                                                                                                               •  Student in Master 2 in an engineering school or university
+approaches, implement new algorithms, perform tests and
+                                                                                                                                           •  Specialization in one of the fields beside.
+benchmarks and contribute to the implementation of demos and
+                                                                                                                                           •  Inquiring mind, inventive, passionate .
+prototypes within research teams.
+                                                                                                                                                                                                                               •  Skills in prototyping applications on PC or embedded platforms
+                                                                                                                                           •  Fluent in English
+We offer research internship opportunities in multiple fields (have a look at the next page to see the                                                                                                                         internship list - regularly
+updated):
+Computer Graphics (CG)                                                                                                                     Data Mining (DM)                                                                    Human Factors (HF)
+Computer Vision (CV)                                                                                                                       Film Making (FM)                                                                    Security and privacy (SP)
+Distributed Computing (DC)         Human Computer Interaction (HCI)        Video Processing (VP)
+If you are interested in joining us, please visit our website  to see the detailed internship open positions at
+http://www.technicolor.com/en/innovation/student-day/job-internship-opportunities-ri-labs
+Company / Group: Technicolor (www.technicolor.com)
+Position: 6-month intern
+Monthly allowance:                                                                                                                         €1200 gross / contribution of Technicolor to transportation expenses and catering
+Location: Rennes, 35 - FRANCE
+Application at: stage.rennes@technicolor.com
+Technicolor   R&D France - 975, avenue des Champs Blancs - CS 17616 - 35576 Cesson Sévigné Cedex, France
+
+
+
+
+Technicolor Research & Innovation internships - 2015
+Reference                                                                                                         Internship title
+DPL_2015_DM_FM_HCI_008                                                                                            Exploring the social network of movie characters: friend or foe ?
+DPL_2015_SP_009                                                                                                   Design and Development of a LLVM Module  for Code Renewability
+DPL_2015_HCI_010                                                                                                  Contribution tracking in multi modal and multi user production environment
+DPL_2015_FM_011                                                                                                   Narrative structures transformation/transcoding
+                                                                                                                  Implementation of a secure video player application for Android making use of the Trusted
+DPL_2015_SP_012
+                                                                                                                  Execution Environment available on a common Android device
+DPL_2015_HCI_013                                                                                                  Spaceboard: a geo-localized mobile social platform
+MCL_2015_VP_014                                                                                                   Digital correction of lens aberrations using plenoptic cameras
+MCL_2015_HF_015                                                                                                   Haptic Texturing: Perception and Display of Image Texture Based on Tactile Sensation
+MCL_2015_VP_016                                                                                                   Mixing Light-Field Video Content
+MCL_2015_HF_017                                                                                                   Human Perception of Spatial Orientation and Motion
+MCL_2015_CV_VP_018                                                                                                Light-Field Video Processing
+DPL_2015_SP_VP_019                                                                                                Signal Processing for Multimedia Security
+DPL_2015_DM_020                                                                                                   Wireless detection of home appliances activity using RFID sensing system
+DPL_2015_DM_021                                                                                                   Big data analytics of home gateway traces with Spark
+MCL_2015_HCI_VP_022                                                                                               Automatic extraction of haptic effects from audiovisual content
+                                                                                                                  Estimation of illumination and reflectance via video+depth processing and application to
+MCL_2015_CG_CV_VP_024
+                                                                                                                  augmented reality
+ISL_2015_VP_025                                                                                                   Big data coding
+ISL_2015_HF_VP-026                                                                                                Vocal double
+ISL_2015_VP_027                                                                                                   Automatic audio post-production for UGC content
+ISL_2015_CG_VP_028                                                                                                Color Spaces for Calibrated HDR Processing
+ISL_2015_VP_029                                                                                                   Evaluate HEVC tools for coding High Dynamic Range video
+ISL_2015_HF_VP_030                                                                                                Perception and HDR
+ISL_2015_CG_VP_031                                                                                                Special effects on Home environment
+ISL_2015_CV_032                                                                                                   Give access to a Color Science C++ library using Python
+ISL_2015_VP_033                                                                                                   Automatic Detection and Classification of Over-Exposure in Images and Videos
+ISL_2015_VP_034                                                                                                   Correction of Over-Exposure in Videos
+ISL_2015_VP_035                                                                                                   HDR and Immersive video coding
+If you are interested in joining us, please visit our website  to see the detailed internship open positions at
+http://www.technicolor.com/en/innovation/student-day/job-internship-opportunities-ri-labs
+Company / Group: Technicolor (www.technicolor.com)
+Position: 6-month intern
+Monthly allowance:                                                                                                €1200 gross / contribution of Technicolor to transportation expenses and catering
+Location: Rennes, 35 - FRANCE
+Application at: stage.rennes@technicolor.com
+Technicolor   R&D France - 975, avenue des Champs Blancs - CS 17616 - 35576 Cesson Sévigné Cedex, France
+
+
+
+
+

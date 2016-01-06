@@ -1,0 +1,61 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEMENT LOGICIEL C# EN STAGE 6 MOIS.
+Date : 02/10/2014
+Référence de l’offre : Evitech-7666027
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Antony 92, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION, AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU LIEN:
+http://ajstage.com/offre/Developpement-logiciel-C-chez-Evitech
+EVITECH  (www.evitech.com)  est  une  start-up  d'une  douzaine  de  personnes  basée  à  Antony  (92)  et
+spécialisée dans le développement et la commercialisation de progiciels d'analyse d'images pour la sécurité
+globale.
+Membre du pôle SYSTEM@TIC et du réseau Optics Valley, EVITECH est lauréate 2009 du Trophée de
+l'Innovation de l'Expansion (catégorie Produits innovants) et adhérente du Comité Richelieu.
+Les logiciels visent à acquérir les images issues de capteurs d'images, à les analyser, à transmettre le résultat
+de ces analyses (interprétation d'événements), et à dialoguer avec les capteurs. Ces capteurs surveillent et
+protègent notamment des grappes de sites éloignés ou peu accessibles.
+Dans le cadre du déploiement des logiciels d'analyse intelligente d'images de la société (analyse vidéo), il est
+nécessaire de fournir des interfaces de connexion avec  3 ou  4 des grands logiciels du marché de la
+vidéosurveillance (produits assurant les fonctions de supervision vidéo, et d'enregistrement vidéo, utilisés sur
+des grands projets de type grands sites, sites urbains ou transports).
+De telles interfaces se nomment des "passerelles" et servent d'articulation entre les données issues de
+l'analyse d'images, transmises par réseau, et ces grands logiciels du marché, qui proposent des librairies de
+programmation (SDK) en C# pour piloter l'arrivée des alarmes et des événements, les enregistrer, afficher les
+vidéos d'alarme, etc.
+Durant ce stage, vous travaillerez au sein d'une petite équipe encadrée par le responsable produit, et serez en
+charge de développer des fonctions de ce ces passerelles, au sein d'une équipe logicielle jeune et dynamique.
+Vous devrez imaginer des moyens ergonomiques, performants et fiables pour réaliser des fonctions de
+transmission et d'affichage des données d'analyse d'imagesdans l'environnement logiciel de ces produits
+(jouer la vidéo, afficher les alarmes, les décomptes, etc). Vous vous appuierez sur l'API mise à disposition
+par ces logiciels, et sur des templates de conception facilitant la maintenabilité du logiciel réalisé (réaliser un
+logiciel  tronc  commun  unique  et  en  adapter  quelques  composants  variants  spécifiques  pour  chaque
+supervision du marché).
+Nos développements sont menés au sein d'une équipe d'ingénieurs logiciels encadrés par le Directeur
+Technique de la société.
+
+
+
+
+Profil recherché :
+- Développer en C# sur Windows
+- Intégrer de nouvelles applications à l'infrastructure
+- Créer et gérer des applications
+- Développer l'IHM (Interface Homme Machinne) correspondant aux services implémentés
+Les langages utilisés sont principalement C# et C++, les IDE correspondants sont Kdevelop, Eclipse; enfin,
+pour la gestion de configurations multi-projets nous utilisons Mercurial.
+L'environnement technique sur lequel vous serez amené à travailler est le suivant : Windows, C#, JavaScript,
+HTML, XML, CSS
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7666027
+
+
+
+
+

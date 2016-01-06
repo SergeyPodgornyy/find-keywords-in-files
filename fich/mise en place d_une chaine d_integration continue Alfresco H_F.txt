@@ -1,0 +1,63 @@
+﻿mise en place d'une chaine d'intégration continue Alfresco H/F
+Orange Business Services
+REFERENCE  :  IT/EBIZ/STAGE38-1608
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4871070
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Brest 29200, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Sur la base d'un projet d'envergure, en cours de Tierce Maintenance Applicative, et fort d'un
+premier retour d'expérience, le stage consiste en une immersion au sein de l'équipe projet dans le
+but de concevoir, développer, améliorer le processus d'intégration et l'automatisation des tests
+autour de l'outil Alfresco.
+L'objectif sera d'automatiser les processus de compilation / tests / déploiement du poste d'un
+développeur en passant par les plates-formes d'intégration jusqu'à la recette. Le stage comprendra
+également l'ajout d'outils d'analyse de code afin de disposer d'un suivi régulier de la qualité du code.
+Vous participerez aux différentes phases du projet :
+- Etude des solutions Maven, Jenkins, Sonar.
+
+
+
+
+- Recueil des besoins de l'équipe projet.
+- Rédaction d'un document de conception.
+- Développement et intégration (en cycle itératif / agile).
+- Définition des métriques en lien avec la Direction Technique Nationale.
+- Recette et tests.
+- Rédaction des manuels d'installation / exploitation / utilisation.
+- Déploiement / validation.
+PROFIL  :
+Vous recherchez un stage de fin d'études idéalement d'une durée de six mois, vous êtes passioné(e)
+par les nouvelles technologies et vous avez déjà utilisé le langage JEE...
+Vous maitrisez l'anglais.
+Vous êtes motivé(e), force de proposition et aimez le travail en équipe.
+Enfin, vous commniquez facilement.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4871070
+
+
+
+
+

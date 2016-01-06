@@ -1,0 +1,52 @@
+﻿Stagiaire  (H/F)  'conception  et  réalisat
+DCNS
+REFERENCE  :  /29042013
+POUR  POSTULER  :  http://dcns.contactrh.com/jobs/1536/5304630
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  F-Ruelle/Angoulême 16600, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Dès que possible
+DUREE  :  6 mois
+SECTEUR  :  Industries (Construction Navale)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+UN LEADER MONDIAL DU NAVAL DE DEFENSE - UN INNOVATEUR DANS L'ENERGIE.
+DESCRIPTION  DU  POSTE  :
+Dévoilez vos talents… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense et un
+innovateur dans l’énergie.
+Avec 2,6 milliards d'euros de chiffre d'affaires et 13 000 collaborateurs en France et à l'étranger, le
+groupe DCNS offre de réelles opportunités de carrières dans les métiers d'ingénierie de systèmes,
+d'architecture navale, de maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de
+services.
+Vous êtes passionné(e) par la mer, les navires, les sous-marins, le nucléaire civil, les énergies
+marines renouvelables ?
+Vous rêvez d'imaginer le futur ?
+Vous voulez évoluer au cœur d'un environnement d'excellence ?
+Rencontrons-nous !
+Nous recherchons pour notre division Simulateurs et Formation située à Ruelle sur Touvre (16600)
+un
+Stagiaire (H/F) "conception et réalisation d'IHM pour les simulateurs d'entrainement"
+La division Simulateurs et Formation est l'entité de DCNS qui réalise les simulateurs d'entraînement
+et la formation associés à la livraison des sous-marins et des bâtiments de surface.
+Les simulateurs d'entraînement sont des systèmes informatiques possédant de nombreuses
+fonctionnalités.
+
+
+
+
+L'objet du stage est de concevoir et réaliser des IHMs en 2D en C++/Qt dialoguant via le réseau
+avec un noyau de simulation "temps réel" des installations de propulsion, d'énergie et de sécurité
+plongée d'un sous marin.
+Compétences requises : Elève ingénieur informaticien 2ème ou 3ème  année. Connaissances en C+
++, Qt, unity 3D
+PROFIL  :
+Compétences requises : Elève ingénieur informaticien 2ème ou 3ème année. Connaissances en C+
++, Qt, unity 3D
+POUR  POSTULER  :  http://dcns.contactrh.com/jobs/1536/5304630
+
+
+
+
+

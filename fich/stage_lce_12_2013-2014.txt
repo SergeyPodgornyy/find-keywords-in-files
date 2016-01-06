@@ -1,0 +1,50 @@
+﻿Stage n°12 du LCE
+Sujet :  Analyse  de  l’activité  interne  des  circuits  intégrés  à  haut
+niveau d’abstraction
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en Île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser l’innovation dans le domaine des systèmes embarqués.
+Le stage proposé concerne l’analyse des circuits intégrés à haut niveau d’abstraction.
+La complexité croissante des circuits intégrés conduit à la nécessité d’une phase d’exploration à haut
+niveau d’abstraction en vue de leur optimisation sur la base de critères comme la consommation ou la
+fiabilité. Cependant, plus le niveau d’abstraction est élevé, plus on perd des informations sur le circuit.
+C’est le cas de l’activité du circuit. Par exemple, au niveau Register Transfer Level (RTL), l’activité est
+observable seulement sur les signaux  RTL, qui sont une petite partie de la liste des données au
+niveau  d’abstraction  inférieur.  Les  autres  signaux  ne  sont  pas  observables.  L’estimation  de  la
+consommation ou de la fiabilité à haut niveau d’abstraction requiert l’évaluation de l’activité de certains
+signaux  pas  observables.  La  non  prise  en  compte  de  ces  signaux  peut  entraîner  une  erreur
+d’estimation de l’ordre de 80%.
+Le stage proposé vise à mettre en œuvre une approche existante dans la littérature pour l’estimation
+de l’activité des signaux pas observables à haut niveau d’abstraction. Le but est déterminer comment
+l’activité du circuit se propage à partir de ses entrées jusqu’aux sorties.
+Le stage se déroule sur trois phases. La première phase est l’analyse de l’état de l’art, qui a l’objectif
+de sélectionner l’approche à mettre en œuvre. La deuxième phase est l’implémentation de l’approche
+sélectionnée  au  sein  de  notre  environnement  d’exploration  d’architecture.  La  troisième  phase  est
+l’application de l’approche sur un cas d’étude et la comparaison des résultats d’analyse d’activité au
+niveau RTL et netlist.
+Niveau demandé : Master Recherche (BAC+5)
+Durée : 6 mois
+Compétences : Notions de programmation, bon niveau en mathématique
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                           : Chiara Sandionigi
+Téléphone                                                                                                     : 01.69.08.37.30
+Email                                                                                                         : chiara.sandionigi@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                    Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                      Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

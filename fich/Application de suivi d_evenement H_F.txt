@@ -1,0 +1,53 @@
+﻿Application de suivi d'évènement H/F
+Orange Business Services
+REFERENCE  :  IT/IT2I/STAGE49-1631
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4912243
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Brest 29200, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+L'objectif du stage est de fournir une application permettant de saisir des événements, de les traiter
+et de les restituer sous forme de rapports.
+Pour mener à bien ce stage, vous aurez à :
+- Utiliser le système de Plugin d'Eclipse.
+- Implémenter le pattern MVC.
+- Développer le WEB service avec le framework Play !
+- Développer la partie accès aux bases de données.
+- Mettre en place des tests automatisés (intégration continue, tests, qualité de code).
+
+
+
+
+PROFIL  :
+Stage de fin d'études, intéressé(e) par du développement Java, automatisation de tests, intégration
+continue.
+Excellent relationnel et bonne qualité rédactionnelle.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4912243
+
+
+
+
+

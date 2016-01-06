@@ -1,0 +1,50 @@
+﻿DÉVELOPPEMENT APPLICATION JAVA -
+ORACLE
+(Stage rémunéré)
+REF : 001_2015_Intégration_des_services
+DUREE : 6 mois - 1er semestre
+Le GIE IRIS rationalise les systèmes de supervision de
+son   informatique.   Pour   simplifier   les   processus
+d'alimentation  des  différents  outils  de  supervision,
+une application unique doit être mise en place. Cette
+application devra s'interconnecter avec les outils de
+supervision, les référentiels de l'entreprise et l'outil de
+gestion d'incident.
+La mission consiste à mettre en œuvre le projet de
+développement de l'application dans son ensemble :
+  Rédiger des spécifications détaillées
+  Faire évoluer l'interface IHM (Java - WebLogic - Oracle)
+  Développer les interfaces d'interconnexion avec les outils (Nagios, HP NNM,
+InfoVista, Isilog, …)
+  Recetter
+  Piloter la mise en production de l'ensemble de la solution
+Les développements devront être réalisés en conformité avec les standards et les méthodes du GIE
+RIS. Des formations au mode projet propre à l'entreprise et à l'utilisation des frameworks et outils
+spécifiques seront dispensées dans le cadre de la mission.
+Supervision et outils : Nagios, Infovista, HP NNM, Isilog
+JAVA 6 et FrameWork GWT 2.4,   Spring 2.5.5 et Hibernate 3.3.0
+IDE : Eclipse
+OS : AIX, HP-Ux, Linux RedHat, Windows 2008
+BAC+5 Informatique, Ecole d'ingénieurs   ou Universitaire
+  Connaissances techniques :
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Service Formation_Stages - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+Langage JAVA et connaissance des FrameWork
+GWR 2.4, Spring et Hibernate exigé,
+Connaissance des langages de scripts
+PowerShell sous Windows et Unix (Bash, Perl, …) souhaités.
+  Qualités requises : Autonomie, motivation et rigueur exigées, aisance rédactionnelle et esprit
+de synthèse sont obligatoires.
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Service Formation_Stages - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

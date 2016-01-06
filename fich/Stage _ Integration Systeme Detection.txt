@@ -1,0 +1,63 @@
+﻿Stage  / Intégration Système Détection
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10227499 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4901151
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/03/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Élancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Cassidian CyberSecurity, une entreprise d'EADS et de Cassidian, est entièrement dédiée au marché
+rapidement évolutif de la cybersécurité, et vise à protéger, au moyen d'une gamme de produits, les
+gouvernements, les agences nationales, les industries stratégiques et les infrastructures critiques
+face à des menaces de plus en plus sophistiquées. Avec 20 % des investissements de l'entreprise
+consacrés à la R&D, Cassidian CyberSecurity emploie plus de 400 personnes.
+Cassidian CyberSecurity participe à des projets de recherche.
+L'un d'entre eux concerne l'utilisation d'un Module de Sécurité Hardware (HSM) pour offrir des
+services de confiance.
+Le service de confiance qui sera développé par Cassidian CyberSecurity est le Système de
+Détection des Intrusions (IDS) sécurisé. L'IDS contrôle le trafic du réseau, l'analyse et en cas de
+correspondance avec certains éléments définis dans un ensemble de règles, donne l'alerte auprès
+d'un centre d'analyse à distance. Modifier le comportement de l'IDS pourrait permettre à une attaque
+de contourner certains mécanismes de détection, aussi est-il important de s'assurer de l'intégrité de
+l'IDS à tout moment. Par ailleurs, les règles de détection utilisées par l'IDS sont vraiment un
+élément important de la protection, du fait qu'elles soient un facteur différentiel entre CASSIDIAN
+et les autres concurrents. Enfin, le retour d'information peut être sensible et transiter par internet,
+aussi un canal de communication sécurisé doit être employé pour garantir la protection de cette
+information.
+L'objectif de ce stage sera de sécuriser les éléments critiques d'un Système de Détection des
+Intrusions (IDS).
+Cette offre de stage est à pourvoir à compter du 3 mars 2014 (date sujette à une certaine flexibilité).
+Vous aurez par exemple les missions suivantes :
+
+
+
+
+- intégrer un système d'exploitation dans un HSM,
+- mettre en œuvre un mécanisme qui garantira l'intégrité et l'authenticité de l'IDS,
+- apporter des modifications au comportement de l'IDS afin d'utiliser l'API (Application
+Programming Interface) crypographique de l'HSM et de permettre à l'IDS de fonctionner selon des
+règles encryptées,
+- utiliser une API d'HSM pour créer un canal de communication sécurisé entre l'HSM et le centre
+d'exploitation à distance.
+PROFIL  :
+Bac+5 spé en informatique
+C/C++
+LINUX
+intérêt cryptographie serait un atout
+travaille en équipe et qualités relationnelles
+Anglais:intermédiaire
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4901151
+
+
+
+
+

@@ -1,0 +1,68 @@
+﻿DAILYMOTION RECRUTE UN/UNE FRONT DÉVELOPPEUR STAGIAIRE (H/F) EN STAGE DE 6 À 12
+MOIS.
+Date : 04/04/2014
+Référence de l’offre : FDev-042014-6102479
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : Paris 75017, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Dailymotion est l'un des sites leaders de partage vidéos avec 120 millions de visiteurs uniques sur son réseau et
+2,5 milliards de vidéos vues par mois(source : ComScore). Mettant les technologies les plus sophistiquées au
+service des utilisateurs comme des créateurs de contenu, nous donnons accès à des vidéos HD et de haute qualité
+par le biais d'un service rapide et convivial. Dailymotion, accessible depuis tous les pays, propose 34 déclinaisons
+dans 16 langues différentes de sa page d'accueil avec des contenus locaux distincts et la meilleure expérience
+possible aux utilisateurs.
+Description du poste :
+Dailymotion recrute un(e) stagiaire Front développeur pour une durée de 6 mois qui intègrera notre Squad Live.
+Vous travaillerez à l'amélioration de notre plateforme (plus de 2 milliards de pages vues par mois) notamment sur
+la partie Live et e-gaming. Ce stage peut se transformer en un recrutement en CDI. Nous utilisons: LAMP et Git
+Dailymotion is looking for someone during an intership of 6 months. Profile is Front Dev with option for hiring
+position at the end. Working into the Live Squad, you will be involved into the improvment of our platform
+regarding everything around live broadcasts and e-gaming platform. We use LAMP and git. You will push code
+on a platform receiving more than 2 monthy billions page views monthly.
+Description du stage:
+- Participer activement au développement de fonctionnalités impactant des millions d'utilisateurs tous les jours.
+- Optimiser l'actuelle codebase et participer à son maintien.
+- Proposer des évolutions de notre framework (php/twig/jquery).
+Les missions pourront être enrichies au fil de la mission, la liste n'est pas exhaustive.
+Internship description :
+- Develop new functionnalities impacting millions of users daily.
+- Optimize the current codebase and maintain it.
+- Propose new evolutions for our framework (php/twig/jquery).
+This description takes the main mission into account, it is not exhaustive.
+Profil recherché :
+Compétences requises:
+- De formation supérieure (Bac+3/5), idéalement à la recherche d'un stage de fin d'études.
+- Bonnes connaissances techniques : JavaScript, jquery, CSS3, Twig, PHP5 (object)
+- Passionné(e) d'UX et d'UI.
+- Bonne maitrise de la langue anglaise.
+- Vous êtes motivé(e), proactif(ive), vous avez un fort esprit d'équipe.
+Fortement apprécié:
+- Compréhension de l'écosystème de la vidéo en ligne
+- Connaissance de GIT / Compte GIT
+
+
+
+
+- Projets personnels
+- Expérience des méthodes Agiles et SCRUM
+Requirements :
+- Master or Bachelor degree preferred in a relevant field;
+- Strong knowledge of the following technical skills: JavaScript, jquery, CSS3, Twig, PHP5 (object)
+- Team oriented mind, motivated and proactive,team player
+- Fan of UX and UI
+- Excellent communication abilities in English
+Plusses :
+- Understanding of online video ecosystem
+- GIT knowledge, github account
+- Side project
+- Experience with Agile or Scrum methodology
+Pour postuler : http://dailymotion.contactrh.com/jobs/1972/6102479
+
+
+
+
+

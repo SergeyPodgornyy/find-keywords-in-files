@@ -1,0 +1,55 @@
+﻿DEVELOPPEMENT  OUTIL  DE  CONFIGURATION
+JENKINS
+Entreprise
+Entreprise  de  maîtrise  d’œuvre  de                                                                                     200  collaborateurs,  le  GIE  SESAM-Vitale  est  au  cœur  des  échanges
+électroniques  sécurisés  entre les  Professionnels  de  Santé et  l’Assurance  Maladie.  L’infrastructure mutualisée
+SESAM-Vitale  gère  aujourd’hui  plus  d’un  milliard  de  transactions  par  an  en  relation  avec  plus  de  300 000
+Professionnels de Santé.
+Contexte
+La Direction Infrastructure des Systèmes d'Information du Professionnel de Santé  (DISIPS) propose un stage
+dans  les  domaines  du  « Développement »  et  du  « Test »  portant  sur  la  réalisation  d’un  outil  d’aide  à  la
+configuration d’un serveur d’intégration continue.
+Description de la mission
+Dans une démarche d’amélioration de la qualité logicielle, la DISIPS est en train de mettre en place une chaîne
+d’intégration continue basée sur un serveur Jenkins. Or, la configuration d’un projet de développement dans
+Jenkins peut s’avérer complexe pour un utilisateur non averti. L’objet de ce stage est de développer un outil qui
+permettra  de  faciliter  cette  configuration.  Le  principe  est  de  proposer  via  une  IHM  des  « templates »  de
+configuration  permettant  de  pré-renseigner  certains  paramètres  lors  de  la  configuration  d’un  projet  dans
+Jenkins. Vous aurez la possibilité de partir d’un outil existant au GIE SESAM-Vitale et de l’adapter aux besoins
+de la DISIPS.
+Description détaillée
+A un rythme respectueux de votre apprentissage et avec un encadrement disponible, vous interviendrez sur les
+phases du projet suivantes :
+  Prise de connaissance de la chaîne d’intégration continue de la DISIPS
+  Recueil du besoin des utilisateurs (Développeurs et Valideurs de la DISIPS)
+  Spécifications de l’outil
+  Conception et réalisation de l’outil
+  Déploiement de l’outil sur la plateforme d’intégration continue
+  Rédaction de la documentation utilisateurs
+  Démonstration de l’outil aux utilisateurs
+Profil recherché
+Elève ingénieur en 4ème ou 5ème année.
+Pré-requis
+  Connaissance générale des méthodologies du développement et du test logiciel
+  Langage Java
+  XML
+  Scripts Shell Unix et Batch Windows
+Compétences visées durant le stage
+  Maîtrise du processus d’intégration continu
+  Maîtrise du paramétrage d’un serveur Jenkins
+  Connaissance des outils mis en place sur la chaîne d’intégration continue (Maven, C++Test, Eggplant)
+Durée / Date
+4 mois / Début du stage au second ou troisième trimestre 2015.
+Comment répondre ?
+Merci d’adresser votre candidature (CV + lettre de motivation) à :
+GIE SESAM-Vitale
+5, Boulevard Marie et Alexandre Oyon
+72019 Le Mans Cedex 2 FRANCE
+Fax : (33) 02 43 87 78 42
+E.mail : recrutement@sesam-vitale.fr
+Réf. : STAGE/DISIPS/DEV/JENKINS
+
+
+
+
+

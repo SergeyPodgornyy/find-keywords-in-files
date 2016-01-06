@@ -1,0 +1,48 @@
+﻿VALEO RECRUTE UN/UNE STAGE INFORMATIQUE H/F EN STAGE DE 6 À 12 MOIS.
+Date : 04/05/2015
+Référence de l’offre : Stage-9379933
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : 10 Rue du Revolay 38070, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Valeo est un équipementier automobile, partenaire de tous les constructeurs
+dans le monde. Entreprise technologique, Valeo propose des systèmes et
+équipements innovants permettant la réduction des émissions de CO2 et le
+développement de la conduite intuitive.
+Le Groupe a réalisé en 2013 un chiffre d'affaires de 12,1 milliards d'euros
+et a consacré plus de 10 % de son chiffre d'affaires première monte à la
+recherche et au développement. Valeo emploie 74 800 collaborateurs dans 29
+pays dans 124 sites de production, 16 centre de Recherche, 35 centres de
+Développement et 12 plateformes de distribution.
+La diversité (égalité homme/femme, handicap, seniors, cultures, etc.) est
+au coeur de la politique de recrutement de Valeo.
+Description du poste :
+- Etude et analyse des besoins de stockage et volumétrie des différents départements et mise en place du
+nouveau SAN
+-  Gestion  du  parc  informatique  Production  et  Open  Space,  sauvegarde  des  machines,  inventaires  et
+maintenance préventive
+- Analyse fonctionnelle et structurelle de Barflow, administration des données serveurs Appli et Database
+Oracle
+- Etude et analyse des infrastructures Wifi en Production, couverture et déploiement
+- Administration basique SAP et Active Directory
+Profil recherché :
+Compétences demandées :
+- Passionné(e) d'informatique
+- Bon niveau de connaissance en hardware
+- Niveau compétence souhaité en SAP et réseau infra
+- Anglais souhaité
+- Pack Office (Word, Excel, et Power Point)
+- Maitrise outils google exigée
+Niveau demandé: Bac +2 à Bac +5
+Date de démarrage: dès que possible
+Durée: 6 mois à 1 an
+Contact : CV et lettres de motivation à envoyer à franck.vilchenon@valeo.com
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9379933
+
+
+
+
+

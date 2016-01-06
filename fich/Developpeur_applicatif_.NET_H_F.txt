@@ -1,0 +1,54 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE DÉVELOPPEUR APPLICATIF .NET H/F EN CDI
+TEMPS PLEIN.
+Date : 02/05/2014
+Référence de l’offre : JD/OPER/97152-6333466
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement
+Avec  18  000 collaborateurs répartis sur  53 pays, GBIS  (Société Générale Corporate Investment Banking)
+accompagne les grandes entreprises, les institutions financières, le secteur public, les family offices et particuliers
+fortunés en leur proposant les services de banque de financement et d'investissement, de banque privée, de
+gestion d'actifs et de services aux investisseurs.
+Votre mission  :
+Vous intégrerez la direction des Operations de GBIS   qui regroupe les fonctions de middle et back office. OPER
+met en œuvre tous les moyens nécessaires pour assurer le traitement opérationnel, administratif et financier des
+opérations de marché et de crédit initiées par les lignes-métiers. OPER assure également le contrôle et la sécurité
+de traitement des opérations conformément aux législations financières en vigueur.
+La mission de l'équipe OPER Commando est la réalisation d'outils tactiques pour OPER.
+L'équipe assure le développement, les évolutions et le support des outils qu'elle développe.
+Ces outils sont développés en C# et sont intégrés dans une application centrale appelée MAMOUT.
+En tant que développeur Applicatif, vos missions seront les suivantes  :
+Participer au développement et à la conception de l'application
+* Étudier les possibilités d'amélioration de l'application
+* Proposer des solutions techniques
+* Concevoir l'architecture
+* Développer l'application en respectant les normes et règles établies
+* Assurer les tests unitaires pour garantir la conformité des développements
+Accompagner les développeurs Commando dans l'apprentissage des nouvelles fonctionnalités
+Fournir le niveau adéquat de support aux utilisateurs
+* Répondre avec réactivité aux demandes de support
+
+
+
+
+Les spécificités du poste seront précisées lors des entretiens.
+Profil recherché :
+Titulaire d'un Bac+5 en informatique, vous avez une expérience de minimum 3 ans en C# et sur l'environnement
+.NET. Vous avez une très bonne connaissance des technologies WinForm, ADO.NET et SQL et vous connaissez
+les technologies WF et WCF.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6333466
+
+
+
+
+

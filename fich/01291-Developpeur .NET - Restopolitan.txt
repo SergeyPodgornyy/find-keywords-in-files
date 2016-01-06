@@ -1,0 +1,45 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR .NET - RESTOPOLITAN EN STAGE DE 6 À 9 MOIS.
+Date : 01/04/2014
+Référence de l’offre : devnetr-5939343
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : PARIS 75000, FR
+Durée du contrat : De 6 à 9 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+Start-up créée en Décembre 2006, Restopolitan est la première carte de réduction dédiée aux restaurants.
+Pendant la durée de validité de sa Carte, le porteur bénéficie tous les jours d'une offre simple : « 1 repas acheté =
+1 repas offert » (conditions : venir à 2 personnes minimum + le repas offert est hors boisson).
+Utilisable de façon illimitée dans plus de 1200 restaurants en France, la Carte donne accès à une conciergerie de
+réservation multilingue sur www.restopolitan.com ou par téléphone.
+Nous vous proposons de rejoindre une équipe de 35 personnes dédiées à faire de Restopolitan un succès.
+Les deux missions principales seront :
+- Développement du BackOffice en ASP MVC 3/4
+- Maintenance et évolution du FrontOffice en ASP MVC 3/4
+Les missions secondaires :
+- Maintenance et évolution de l'API (Web API)
+- Maintenance du BackOffice Silverlight
+MERCI DE POSTULER VIA :
+http://www.ajstage.com/offre/Developpeur-NET-chez-Restopolitan
+Profil recherché :
+De formation ingénieur ou équivalent, vous possédez des expériences personnelles et/ou professionnelles en
+développement .NET sur des projets web ou e-commerce.
+Vous maitrisez idéalement:
+
+
+
+
+- .NET 4.0: C#, ASP.NET, ASP MVC, Web Services
+- HTML, JavaScript (jQuery), Ajax, CSS
+- Bases de données : MS SQL Server 2008
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/5939343
+
+
+
+
+

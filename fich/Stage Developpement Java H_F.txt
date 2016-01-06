@@ -1,0 +1,42 @@
+﻿Stage Développement Java H/F
+Sogeti HT  - Région Est
+REFERENCE  :  HTMU8-SOP-Stage
+POUR POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/4462419
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Sophia-Antipolis 06560, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Septembre
+DUREE  :  de 6 à 12 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Avec 3000 collaborateurs en France et plus de 20 ans d'expérience, Sogeti High Tech figure parmi
+les cinq leaders du marché de l'Ingénierie et du Conseil en Technologies. Nous intervenons dans de
+nombreux projets majeurs d'innovation et d'ingénierie technologiques des plus grands groupes
+industriels mondiaux. Nos expertises techniques et métiers dans les secteurs de l'aéronautique, du
+spatial, de la défense, du ferroviaire, de l'énergie et des télécoms renforcent la valeur ajoutée de nos
+solutions au service des challenges du monde industriel du XXIème siècle. A vous de vivre votre
+passion comme vous l'avez toujours imaginé.
+DESCRIPTION DU POSTE  :
+Au sein d'une équipe de développement logiciel travaillant sur les nouvelles technologies de
+l'information, vous développerez des tests d'intégration fonctionnels (tests automatiques), vous
+analyserez les erreurs remontées par l'outil et vous proposerez des correctifs (L'objectif de ces tests
+est d'améliorer la qualité du logiciel tout au long du cycle de développement et bien sûr de sécuriser
+les livraisons lors des passages en production)
+Ce déploiement consiste en :
+- le développement des scénarios de tests sous AutoIT (il faudra aussi réfléchir et proposer des
+moyens de paramétrer efficacement ces tests),
+- la mise en place de ces tests dans un flow d'intégration continue (Hudson),
+- la mise en place d'un rapport de test
+- l'analyse des erreurs et la correction du code natif testé par l'outil
+- la formation et le support des utilisateurs.
+PROFIL  :
+Vous avez de bonnes connaissances en Java J2EE.
+La connaissance de Clearcase et des outils d'intégration continue (Hudson,…) est un plus
+POUR POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/4462419
+
+
+
+
+

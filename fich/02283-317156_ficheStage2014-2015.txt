@@ -1,0 +1,99 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : CCM-Benchmark Group                                           Adresse : 3, rue de paris - Bât. D
+Domaine d’activité : Editeur internet                                               Ville : cesson-sévigné
+Représentant de l’entreprise : Damien Mangin                                        N° téléphone :
+Sa qualité : DSI                                                                    N° fax :
+N° de Siret : 40319180200061                                                        Site Web : http://www.ccmbenchmark.com/
+N° NAF : 7022Z                                                                      Courriel :
+Statut Juridique :                                                                  Signataire de la convention :
+Effectif de l’établissement : environs 180 personnes
+Nom de l’encadrant de stage : Benoit Damien                                         Chargé du suivi administratif : Vacca Anna
+Sa qualité : Lead Developer Responsable Framework                                   Sa qualité : Office Manager
+Service : Informatique                                                              N° téléphone :01 47 79 51 64
+N° téléphone : 02 23 45 20 14                                                       Email :avacca@ccmbenchmark.com
+Email : dbenoit@ccmbenchmark.com                                                    Fax :
+Fax : 02 99 83 39 24
+Nom du service dans lequel le stage sera effectué : …..Développement
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……Cesson-sévigné
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+x Spécialité MIAGE                                                                  du 9 mars 2015 à fin août 2015
+x Spécialité IR                                                                     du 9 mars 2015 à fin août 2015
+x Spécialité GL                                                                     du 9 mars 2015 à fin août 2015
+x Spécialité   MITIC                                                                du 9 mars 2015 à fin août 2015
+x Spécialité   SSI                                                                  du 9 mars 2015 à fin août 2015
+x Spécialité Recherche                                                              du 1er février 2015 à fin juin 2015
+UNIVERSITE DE RENNES 1                                                              TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                               FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                            www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+SUJET  DU  STAGE  :
+Titre du stage proposé :    Développeur JS
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Javascript ES6 , HTML5, Node.js, jQuery, etc
+Sujet proposé détaillé :
+CCM Benchmark Group, 4ème groupe Internet en France (derrière Google, Microsoft et Facebook,
+mai 2013 : 23M VU), et figurant dans le top 100 mondial, est à la recherche, pour son pôle de
+développement rennais, d’un développeur stagiaire intéressé par le javascript avancé, l’expérience
+utilisateur (UX) et les problématiques clients (front-end).
+Vous êtes intéressé par :
+- le véritable développement javascript
+- l’innovation et les interfaces riches.
+- le HTML 5 (nouveaux API JS, CSS3, sémantique, etc)
+- une expérience des sites à hautes performances
+- la compréhension de la mécanique interne des divers navigateurs
+Au sein du pôle js/frontend et assisté par notre lead developer vous aurez à charge :
+- l’enrichissement et la fluidification de l’expérience utilisateur (R&D UI / performances) de sites
+majeurs   (tels que : commentcamarche.net, copainsdavant.com, linternaute.com, journaldunet.com,
+journaldesfemmes.com, etc )
+- la réalisation de codes ouverts (open source)
+- le développement d’outils et d’interfaces utilisés par des millions de personnes
+Envoyez votre candidature à recrutement.technique+js@ccmbenchmark.com
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité  mensuelle (nette)                                                                           :                                                     Selon  convention        +   Nom de l’Etudiant :
+prime éventuelle selon satisfaction                                                                                                                                                       Diplôme :
+Modalités de versement : versement
+                                                                                                       Avantages en nature à préciser : tickets restaurant
+Temps horaire hebdomadaire : 35h
+                                                                                                                                                             UNIVERSITE DE RENNES 1       TÉL : 33 (0)2 23 23 39 00
+                                                                                                                                                             ISTIC                        FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Date limite de réponse à cette proposition : aucune
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Oui.
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

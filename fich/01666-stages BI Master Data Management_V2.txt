@@ -1,0 +1,47 @@
+﻿Développement d’une solution de
+Master Data Management en
+open source
+Fondée en 1976, CGI est un fournisseur mondial de services en                  OFFRE DE STAGE
+technologies de l’information (TI) et en gestion des                           CESSON-SÉVIGNÉ
+processus d’affaires qui offre des services-conseils en
+                                                                               Contact
+management ainsi que des services d’intégration de
+                                                                               Elodie DELUGEARD
+systèmes et d’outsourcing.
+                                                                               elodie.delugeard@cgi.com
+Avec 69 000 professionnels présents dans 40 pays et répartis
+dans 400 bureaux partout dans le monde, nous conjuguons
+une présence locale à un vaste éventail d’expertises. Voilà
+la force de notre engagement.
+OBJECTIF DU STAGE
+Le Master Data Management est une discipline dont l’objet est de construire
+des référentiels de données de toutes natures (client, produit, fournisseur,
+organisation) en vue de mettre à disposition une donnée de référence fiable
+au système d’information.
+Les solutions MDM du marché (Informatica, Tibco, Semarchy) proposent un
+ensemble de fonctionnalités intégrées pour assurer l’acquisition, le
+nettoyage, la consolidation et la publication des données de référence.
+L’objet de ce stage est de prototyper   une solution MDM sur mesure à partir
+des briques open sources du marché (Spring, Lucene, Open AM, CXF,
+JMS, Bonita).
+Ce stage de fin d’études vous permettra d’appréhender le métier de
+consultant en Master Data Management.
+Vous serez encadré par un Manager et pourrez vous appuyer sur les
+compétences des consultants.
+MISSIONS
+Architecture technique et fonctionnelle
+Développement et assemblage des briques
+Test et correction des anomalies
+Enrichissement de la solution
+PROFIL
+Dernière année de cycle d’ingénieur
+Développeur Java et open source
+Conception XML
+Architecture technique
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

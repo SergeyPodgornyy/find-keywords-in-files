@@ -1,0 +1,48 @@
+﻿Sujet de stage :
+CAPICO HTML5, CSS3,
+AngularJS, Cordova
+Formation professionnelle                                                                                                             Rémunération de 1000                                €   Logement possible (2)
+reconnue (1)                                                                                                                          brut/mois
+Référence : REC.StageG3.CAPICO HTML5
+Mots clés : Java/JEE, HTML5, CSS3, AngularJS, Cordova
+Mission :
+Vous maîtrisez Java, Javascript, HTML5 et vous souhaitez participer, dans un environnement professionnel, à la conception d’un
+logiciel à la pointe de la technologie.
+Vous recevrez au préalable une formation de 6 semaines à plein temps par nos experts sur les technologies Java/JEE, avec
+notamment les différents frameworks professionnels utilisés par les plus grands comptes (Spring, Hibernate, Spring Data, Spring
+MVC, Jackson, Maven, Android, AngularJS…).
+Ce projet de recherche et de développement vous conduira à mettre en application vos connaissances théoriques sur un logiciel
+existant pour lui ajouter de nouvelles fonctionnalités en particulier sur mobile.
+CAPICO - l’outil de eCoaching du Groupe Excilys - cherche à se développer sur d’autres supports que l’ordinateur individuel. Nous
+cherchons pour cela à réaliser de nouveaux usages sur tablette.
+Technologies utilisées :
+    Outils et normes Java/JEE
+    Conteneur web Tomcat
+    Web services REST
+    Clients mobiles Android, Ipad, Surface
+    Clients web HTML5, CSS3, et AngularJS
+    La méthode agile SCRUM pour le suivi du projet
+Principaux livrables attendus :
+    Etude de faisabilité et choix  techniques
+    Développement du logiciel fonctionnel, en collaboration avec l’équipe chargée de l’architecture.
+    Développement de la partie serveur et de l’IHM.
+Profil : De fortes compétences en informatique (Java, Javascript) ainsi qu’un bon sens pratique seront nécessaires pour participer
+à ce projet. Vous rejoindrez une équipe de spécialistes qui participeront activement à votre formation intensive aux technologies
+requises. Au-delà de ces capacités techniques, montrez-nous surtout que vous avez envie d’aller plus loin, et que vous êtes
+passionnés par ces technologies.
+Logique du stage : le stage est orienté (formation, projet) dans une optique d’embauche par Excilys.
+Entreprise : eBusiness Information, leader du groupe Excilys, est un cabinet d’experts des systèmes d’informations spécialisé
+dans les technologies JEE, les architectures distribuées et les applications sur smartphone.
+Lieu du stage : Région parisienne, Cachan.
+Formation : (1) Le prix catalogue de cette formation professionnelle est de 15.000                                                    €, nos stagiaires reçoivent la même gratuitement.
+Hébergement : (2) Priorité aux  personnes venant de province dans la limite des places disponibles.
+Date et durée : le stage débutera dès que possible pour une durée de 6 mois.
+Contact : Léa SERGIO, recrutement@ebusinessinformation.fr, Tél : 01.41.24.43.22
+« Nous investissons sur vous »
+Tél : +33 1 41 24 43 20 - Fax : +33 1 41 24 43 21 - email : recrutement@ebusinessinformation.fr - web : www.ebusinessinformation.fr
+eBusiness Information - 45-47 avenue Carnot- 94230 Cachan - SARL au capital de 231.000                                                € - R.C.S. Créteil B 432 709 574 - APE 6311Z
+
+
+
+
+

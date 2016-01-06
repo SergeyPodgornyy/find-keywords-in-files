@@ -1,0 +1,44 @@
+﻿Stage  / Développement d'un Outil de Gé
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226522 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911166
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Dans le cadre de ses activités de Cyber défense, Cassidian CyberSecurity met en oeuvre des ateliers
+d'attaques/défense. Afin d'optimiser ces ateliers de sécurité, Cassidian CyberSecurity évalue les
+outils open source de génération et de simulation de trafic réseau et développe ses propres outils.
+Votre mission consistera à étudier les outils de génération et de simulation de trafic réseau et à
+développer une solution.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple les missions suivantes par rapport à la solution développée :
+- Générer des pcaps avec différentes vitesses de trafic,
+- Incorporer différentes types de trafic suivant les protocoles (exemple 50% de http / 30% netbios /
+10% de ssh etc),
+- S'interfacer avec les solutions utilisées par Cassidian CyberSecurity,
+- Tester les performances et les capacités de détection des produits de sécurité,
+- Développer une interface graphique pour la configuration des différents paramètres.
+PROFIL  :
+Etudiant BAC+5 systèmes, réseaux et la sécurité ainsi que sur Linux/Windows
+Travaille en équipe, qualités relationnelles.
+Anglais:intermédiaire.
+Français:courant
+
+
+
+
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911166
+
+
+
+
+

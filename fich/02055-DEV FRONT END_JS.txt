@@ -1,0 +1,68 @@
+﻿PARIS                                                                                                             INCUBATEURS   RECRUTE      UN/UNE   DEV      FRONT      END/JS   EN
+APPRENTISSAGE/ALTERNANCE DE 6 À 12 MOIS.
+Date : 12/12/2014
+Référence de l’offre : SPARKUP / DEV-8315335
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Apprentissage/Alternance
+Localisation : Paris 75002, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Paris Région Lab Incubateurs recrute pour l'un de ses startups : Sparkup.
+SparkUp est un outil permettant aux entrepreneurs de financer leur entreprise en mobilisant leurs réseaux en
+contrepartie d'actions. En ligne depuis septembre nous avons déjà financé  3 projet pour  110  000€ et
+accompagnons  actuellement  3  projets.  Lauréat  de  BDO  Startup,  incubés  par  Essec  Ventures  et  Paris
+Incubateur Finance, nous sommes en pleine accélération.
+Description du poste :
+En tant que développeur front-end JavaScript, tu contribueras à la création from-scratch d'un espace de
+gestion de campagne pour les entrepreneurs. Tu seras également amené à intégrer des maquettes.
+Profil recherché :
+* Tu as une première expérience professionnelle ou personnelle sur EmberJS
+* Connaissance et maîtrise de HTML / CSS et du framework front-end Bootstrap
+* Tu es sensible à la qualité de l'expérience utilisateur
+* Force de proposition
+Environnement technique :
+* HTML5, CSS3 (SASS/COMPASS)
+* Ruby On Rails
+* PostgreSQL
+* Heroku
+* .GIT / Github
+Les plus du poste :
+* Esprit StartUp avec un projet motivant
+* Travail en équipe
+* Participation aux choix de l'entreprise
+* Possibilité de télétravail
+N'hésite pas à joindre à ta candidature ton compte Github/ Stackoverflow ainsi que les adresses de tes projets.
+Si tu te reconnais dans ce profil, n'hésite plus et contactes nous !
+Profil recherché :
+En tant que développeur front-end JavaScript, tu contribueras à la création from-scratch d'un espace de
+gestion de campagne pour les entrepreneurs. Tu seras également amené à intégrer des maquettes.
+Profil recherché :
+* Tu as une première expérience professionnelle ou personnelle sur EmberJS
+* Connaissance et maîtrise de HTML / CSS et du framework front-end Bootstrap
+* Tu es sensible à la qualité de l'expérience utilisateur
+* Force de proposition
+
+
+
+
+Environnement technique :
+* HTML5, CSS3 (SASS/COMPASS)
+* Ruby On Rails
+* PostgreSQL
+* Heroku
+* .GIT / Github
+Les plus du poste :
+* Esprit StartUp avec un projet motivant
+* Travail en équipe
+* Participation aux choix de l'entreprise
+* Possibilité de télétravail
+N'hésite pas à joindre à ta candidature ton compte Github/ Stackoverflow ainsi que les adresses de tes projets.
+Si tu te reconnais dans ce profil, n'hésite plus et contactes nous !
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8315335
+
+
+
+
+

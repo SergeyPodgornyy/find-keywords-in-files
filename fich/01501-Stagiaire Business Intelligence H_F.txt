@@ -1,0 +1,56 @@
+﻿JUNIOR TALENT RECRUTE UN/UNE STAGIAIRE BUSINESS INTELLIGENCE H/F EN STAGE 6
+MOIS.
+Date : 01/09/2014
+Référence de l’offre : SI/0814/000237-7359456
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Sèvres 92, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Junior Talent est un cabinet de recrutement spécialisé dans les recherches de profils étudiants  (stage,
+alternance) et de jeunes diplômés.
+À ce titre, Junior Talent est le partenaire des entreprises pour les accompagner à chaque étape du processus
+de recrutement d'étudiants ou de profils juniors.
+Partenaires des grandes écoles et universités, nous accompagnons gratuitement les étudiants dans leur
+recherche de premières expériences professionnelles.
+Nous recherchons pour la société Solocal, un(e) stagiaire en Business Intelligence.
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+En 2012, Solocal Group a réalisé un chiffre d'affaires de 1.07 milliard d'euros dont 58.4% sur Internet, et se
+classe ainsi parmi les premiers
+Description du poste :
+Le pole Media de PagesJaunes a pour mission de développer les services autour de l'annuaire en ligne sur le
+web.
+La Direction Technique du pôle Media a en charge la conduite des projets, l'adéquation de l'architecture
+technique aux contraintes de service, le prototypage, le développement et la mise en production des services
+web.
+Le stage s'effectue au sein de la Direction Technique, dans l'équipe Search, Moteur et données.
+Vous aurez pour missions principales de :
+- Participer de manière générale à la connaissance de l'équipe IODA et des autres collaborative team sur les
+recherches utilisateurs sur les applications Pages Jaunes (fixe, Mobile),
+- Construire à l'aide des outils de ML un système de mots clés en fonction des recherches utilisateurs pour
+détecter les tendances dans le temps,
+Profil recherché :
+Environnement technique du stage :
+Une très bonne approche des outils Big data (Hadoop, Hive, Pig, Sql) et d'outils Open source de Machine
+Learning : R, Python (scikit Learn, Pandas, numpy, scipy.
+Profil :
+
+
+
+
+- Vous êtes étudiant en école d'ingénieurs, passionné par les notions de Big Data et de Web
+- Vous avez un esprit de recherche, curieux, de veille technologique
+- Vous avez une expérience dans l'exploration « des datas », l'utilisation des langage R ou Python
+- Connaissance de l'éco-système Hadoop est un plus
+- Une bonne communication est nécessaire pour les échanges avec les parties prenantes
+Date de démarrage : Septembre / Octobre
+Pour postuler : http://junior.contactrh.com/jobs/1536/7359456
+
+
+
+
+

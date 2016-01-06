@@ -1,0 +1,40 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de
+Stage
+Ingénierie logicielle
+   Titre : Développement d’une solution de déploiement continue suivant les principes
+DevOps
+   Lieu : Rennes                                                                                Durée : 3 à 6 mois
+   Formation : Bac + 4/5                                                                        Date : Février 2014
+   Rémunération : stage indemnisé                                                               Référence : OG-3
+Sujet : Les développements ont besoin de mettre en place des solutions techniques devant
+être éprouvées au préalable afin de minimiser les impacts projet.
+Le  stagiaire  interviendra  dans  une  équipe  projet  en  mode  agile  avec  XP/Scrum  et/ou
+Kanban, afin d'aider au développement et à la mise en place d'une solution de déploiement
+continue suivant les pratiques DevOps.
+Ce stage a pour objectif de développer (automatiser) et éprouver
+   un système capable d'exploiter des logs,
+   de fonctionner en mode dégradé,
+   de se relancer automatiquement (ou roll-back),
+   de s'intégrer à un système de supervision tout en restant performant…
+
+
+
+
+Environnement :
+   DevOps
+   Java et/ou PHP
+   Oracle et/ou MySQL
+   Méthodologie Agile
+Vous serez intégré dans l’équipe Business
+Process Management.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_OG3@jouve.gestmail.com
+
+
+
+
+

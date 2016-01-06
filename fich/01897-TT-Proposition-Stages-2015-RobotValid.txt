@@ -1,0 +1,33 @@
+﻿Stage 2015
+RÉALISATION D'UN AUTOMATE DE TEST
+(REF : VV1-2015)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé,  services  à  la  personne,  permettant  de  créer  une  véritable  interaction  entre
+l'usager et son environnement.
+Mission
+L'objectif du stage est de participer à la conception et à la réalisation un banc de test
+automatique pour des tablettes    Androïd. Ce banc de test devra interagir avec les
+interfaces NFC et USB des tablettes. Il sera piloté par un framework sur PC permettant
+de jouer des scénarios de test et d'analyser leurs résultats.
+Le stage se concentrera essentiellement sur la partie robotique du projet pour faire
+défiler  des  cartes  NFC  devant  l'appareil  sous  test.  Il  fera  ainsi  appel  à  des
+compétences en mécanique, électronique et programmation de micro-contrôleur.
+Le stagiaire sera intégré dans le service validation de taztag et sera encadré par des
+experts techniques.
+Profil recherché
+Vous avez un niveau BAC +3 ou 4 : licence, master ou école d’ingénieurs. Vous avez
+des  compétences  en  système  embarqué,  en  électronique  et/ou  automatique.  Vous
+êtes  passionné(e),  autonome  et  très  motivé(e)  pour  mettre  en  place  une  solution
+opérationnelle.
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 3 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, claire.diehl-watrin@taztag.com
+
+
+
+
+

@@ -1,0 +1,43 @@
+﻿Évaluation de protocoles réseaux « Remote Procedure Call »
+1 / 1
+Sujet
+Evaluation  de  protocoles  réseau  permettant  l’appel  à  distance  de  méthodes  et  le  partage  de  données  entre
+processeurs.
+Description
+Une future évolution de nos produits industriels fonctionnant sous les OS QNX et Linux consistera à les rendre
+capables d’interagir entre eux pour réaliser des assemblages (vissages) complexes.
+Votre mission consistera à rechercher, évaluer et tester des protocoles ethernet permettant l’exécution à distance et
+le partage de données au sein d’une architecture multi-processeurs.
+Vous rechercherez les protocoles actuels les plus prometteurs pour cette application (e.g. DBUS, Linx, Qnet).
+Vous évaluerez ces protocoles (performance, pérennité, disponibilité multi-plateforme) en les mettant en œuvre.
+Vous réaliserez une maquette fonctionnelle du protocole sélectionné et proposerez une architecture permettant son
+intégration dans nos produits.
+Environnement
+Contrôleurs  de  vissages  industriels                                                                                                                                                                                  (www.desouttertools.com),  OS  Linux  et  QNX,  développement   UML  sous
+Rhapsody, atelier de développement Eclipse, langage C++.
+Compétences requises
+Langage C/C++
+Protocoles réseaux dont TCP/IP
+Programmation orientée objet
+Vous êtes autonome, curieux et créatif et avez de bonnes capacités de synthèse et de présentation.
+Détails pratiques
+Stage de 5/6 mois se déroulant à Nantes au sein du service logiciel de CP Technocenter.
+Rémunération attribuée.
+Contact
+Merci d’envoyer votre CV à
+Laurent Macquet
+Line manager Software
+CP Technocenter
+38 rue Bobby Sands ZAC de la Lorie
+44818 Saint Herblain - France
+Phone dir.: +33 (0)2 40 80 89 94 - Fax: +33 (0)2 40 80 20 24
+E-mail: laurent.macquet@cp.com
+Distribution :
+Stage-Remote-Protocol-Benchmark.docx                                                                                                                                                                                    4 / 12/11/2013 16:09:00                                         SUPPORT(s)-CADRE(s) : GEN-001
+Ce document et les informations qu'il contient, sont la propriété de la société GEORGES RENAULT. Ceux-ci ne doivent en aucun cas être communiqués ou transmis à des tiers sans l'autorisation préalable de la société
+GEORGES RENAULT.
+
+
+
+
+

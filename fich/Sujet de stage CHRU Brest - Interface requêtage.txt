@@ -1,0 +1,117 @@
+﻿Conception et développement d’une interface
+d’interrogation sur un entrepôt de données
+biomédicales multimodales au CHRU de BREST
+Mots-clés
+Entrepôt de données - Fouille de données - Big Data - Ontologies - Données biomédicales -
+Recherche plein texte - Interface utilisateur - Knowledge Map -TSQL
+Contexte
+Tous les hôpitaux sont confrontés au problème de la dispersion des données médicales
+numériques  sur des supports multiples qui sont indispensables à la pratique du spécialiste mais qui
+n’offrent qu’une vision fractionnée et incomplète du patient et de son dossier médical. Le Centre de
+Données Cliniques (CDC)  souhaite pallier cette carence en recueillant, organisant, standardisant  et
+exploitant les données médicales issues des différents logiciels métiers du CHRU de Brest. Sa
+composante technique est un entrepôt colligeant des données multimodales (comptes rendus
+d’hospitalisation, biologie, données omiques, médicaments, imagerie, données administratives et
+financières,..) de manière historisée pour permettre la reconstitution des parcours patients. Les
+données recueillies sont soit structurées (CIM-10, CCAM, ATC ..) autorisant des recherches
+s’appuyant sur des nomenclatures internationales ou sous forme de textes libres permettant de
+fouiller le contenu textuel des comptes-rendus. L’outil doit permettre aux équipes de recherche de
+disposer des informations produites par les équipes médicales sous une forme facilement
+exploitable.
+Objectifs
+Cet entrepôt est en cours de chargement et dispose d’une interface sommaire permettant
+d’interagir avec le système (voir annexe 1). Nous souhaitons refondre cette interface avec comme
+objectifs :
+-                                                                                                       Une épuration de l’ergonomie permettant un abord initial plus aisé des données tout en
+permettant un mode d’utilisation plus expert
+-                                                                                                       Une navigation plus conforme aux logiciels standards (menus, onglets,..)
+-                                                                                                       La création d’un module de type « Advanced Query Builder » permettant d’exploiter
+pleinement tous les niveaux de granularité des données structurées contenues dans
+
+
+
+
+l’entrepôt et les fonctions natives du SGBD ORACLE (et notamment des fonctionnalités
+de recherche plein texte)
+Matériels et Méthodes
+Le contexte technique de cet entrepôt privilégie les outils de type open source. La base de
+données en revanche s’appuie sur le SGBD ORACLE 11g2 et utilise notamment les modules ORACLE
+TEXT(recherche plein texte au sein des comptes-rendus) et ORACLE SPATIAL (stockage de
+coordonnées pour affichage cartographique) . Les développements des outils d’alimentation et de
+l’interface actuelle font appel à un serveur WEB sous Linux (RED HAT6) et le langage PHP. La couche
+ergonomique s’appuie sur AJAX.
+Sur le plan méthodologique nous proposons 3 temps à ce stage :
+-                                                                                                     Une phase exploratoire de l’état de l’art en matière d’interface homme machine dans le
+                                                                                                      domaine des entrepôts de données de santé (I2B2, Stride, KNAVE..)
+-                                                                                                     Une phase de conception qui prenne en compte cet état de l’art, les objectifs attendus et
+les contraintes techniques.
+-                                                                                                     Une phase de réalisation d’un prototype qui sera évalué ultérieurement sur des cas
+d’usage en comparaison avec l’interface actuelle
+Quelques pistes
+Un module « Advanced Filter Builder » du type GWT (voir
+http://www.smartclient.com/smartgwt/showcase/#featured_filter_builder_grid ) nous paraît
+intéressant pour créer des filtres de sélection complexes. En revanche la liste des opérateurs doit
+être contextuelle (s’adapter au type de la donnée pour ne pas noyer l’utilisateur ni l’induire en
+erreur).
+
+
+
+
+De même, la sélection des variables doit se faire en drag and drop. Enfin pour
+permettre de sélectionner des variables à différents niveaux de granularité (patient, séjour,
+document,..) un système de représentation ensembliste pourrait être utile.
+Un exemple d’interaction utilisant les diagrammes de Venn ( http://creately.com/creately-start). On
+peut imaginer que chaque niveau (le patient, le  séjour,  le document,..) soit représenté de manière
+graphique sous la forme d’un diagramme de Venn. Les variables de sélection sont « drag and
+droppées » sur le bon niveau de sélection (ex : age uniquement possible sur le patient, recherche
+plein texte uniquement sur le document, etc..) . Une fois le critère en place on peut le paramétrer
+avec le module « Advanced Filter Builder », on peut associer plusieurs critères sur un même niveau
+et les combiner.  Une maquette est présentée ci-dessous.
+
+
+
+
+De même il est possible de rajouter par exemple un deuxième document et lui appliquer des
+critères de sélection qui seront appliqués. Les différents éléments de sélection peuvent enfin être
+positionnés relativement les uns aux autres sur une échelle de temps en utilisant l’algèbre de Allen,
+exemple : l’INR est mesurée x heures après la délivrance du médicament. Un papier examine
+notamment ces aspects ici : « Visualizing Queries on Databases of Temporal Histories: New
+Metaphors and their Evaluation » par Luca Chittaro et Carlo Combi.
+
+
+
+
+Modalités pratiques et contacts
+Le stage se déroulera au Centre Hospitalier Régional et Universitaire de Brest sur le site de la
+« Cavale Blanche » au sein du Département d’Information Médicale dirigé par le Dr Jean-Michel
+CAUVIN.
+L’encadrement sera assuré sur place par :
+-                                                                                                  Clara LE GUILLOU  clara.leguillou@chu-brest.fr
+-                                                                                                  André HAPPE  andre.happe@chu-brest.fr
+                                                                                                   La gratification légale obligatoire sera versée au stagiaire, soit 436,05   €/mois pour un temps
+complet  (35 heures par semaine).
+Tout complément d’information peut-être obtenu en appelant au 02.98.34.75.56
+
+
+
+
+Annexes
+Interface actuelle
+
+
+
+
+I2B2 (Informatics for Integrating Biology and the Bedside) voir http://www.i2b2.org
+STRIDE (Stanford Translational Research Integrated Database Environment) voir
+(https://clinicalinformatics.stanford.edu/services/index.html)
+
+
+
+
+KNAVE (Knowledge-based Navigation of Abstractions for Visualization and Explanation) voir
+(http://medinfo.ise.bgu.ac.il/medLab/ResearchProjects/RP_KNAVE.htm)
+
+
+
+
+

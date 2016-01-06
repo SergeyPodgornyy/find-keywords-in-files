@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE DEVELOPPEMENT REDHAT SOA (H/F) EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 159325-7724858
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Ce stage est proposé par le centre de compétences EPI (Enterprise Process Integration) d'ATOS à Toulouse.
+Le pôle EPI est spécialisé dans le domaine de l'échanges de données, au coeur des systèmes d'information des
+entreprises : architectures SOA, Bus d'entreprises (EAI,ESB, ETL), modélisation de process BPM, portails
+d'entreprises (ECM, EIM), ...
+Intégré(e) au sein d'une équipe projet, votre stage sera composé de 2 phases :
+- une phase d'étude : Plateform SOA Redhat via la réalisation d'une étude de cas mettant en pratique entre
+autres les notions de Business Process Management (BPM) et Business Activity Monitoring (BAM).A ce
+titre, un comparatif de la solution SOA Refhat versus autres solutions du marché sera réalisé.
+- une phase d'immersion projet, pendant laquelle vous contribuerez à la réalisation d'un projet logiciel (en
+phase de développement, de spécification ou de tests)
+Pour information, la plateform SOA Redhat est un des leaders « open-source » dans les solutions SOA/ESB.
+Environnement : Technologies: Architectures SOA, SOA webMethods, JAVA/J2EE, Eclipse, SOA RedHat
+Profil recherché :
+De formation bac  +  4/5  (école d'ingénieur ou université) en cours de validation, vous avez une bonne
+connaissance du monde JAVA. Vous êtes dynamique et avez l'esprit d'équipe, rejoignez-nous !
+Ce stage se déroulera à Atos - Département ESP-EPI à Toulouse. Minimum 5 mois.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7724858
+
+
+
+
+

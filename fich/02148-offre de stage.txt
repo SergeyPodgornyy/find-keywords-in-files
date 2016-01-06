@@ -1,0 +1,31 @@
+﻿STAGE DEVELOPPEMENT INTERFACE
+HOMME MACHINE POUR BANC DE TESTS
+COTROLIA est le spécialiste de la maintenance électronique embarquée sur l’automobile. Le service
+Atelier/R&D vous propose de rejoindre son équipe en tant que :
+INTITULE DU STAGE :                                                                                            SERVICE :
+Stagiaire développement  d’une interface homme                                                                 Atelier/R&D
+machine pour banc de tests électronique.
+DUREE :                                                                                                        DEBUT :
+4 à 6 mois.                                                                                                    Dès que possible
+STAGE BASE A COUERON :
+7 rue du fonteny - ZAC des hauts de Couëron
+44220 Couëron
+MISSIONS PRINCIPALES :
+  Etablir le cahier des charges structuré pour la programmation.
+  Développer une Interface Homme Machine pour un banc de tests électronique déjà en fonctionnement.
+  Programmer les différents microcontrôleurs présents sur le banc de tests pour la réalisation de l’IHM
+(microcontrôleurs ATMEL ATMEGA2560).
+  Faire évoluer les fonctionnalités déjà existantes pour tester d’autres systèmes embarqués avec ce banc de
+tests.
+  Etablir une notice de fonctionnement du banc de tests.
+PROFIL :
+   Ecole d’informatique / électronique
+   Maîtrise de programmation en langage C, JAVA, C++
+   Compétences en électronique
+   Notions sur le bus CAN
+Merci d’adresser vos candidatures à l’adresse suivante : alhenoret@cotrolia.fr
+
+
+
+
+

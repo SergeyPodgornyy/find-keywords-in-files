@@ -1,0 +1,24 @@
+﻿ roposition    e  stage    ur              ois
+Développement  d’une  application  de  vidéophonie  sur  Iphone
+1.                                                                                                      ravaux    nvisagés
+                                                                                                      Amélioration  d’un  logiciel  Android  :  Durée  anticipée  :  2  semaines
+­                                                                                                      Le  smartphone  devient  vidéophone  :  Lors  d’un  appel  depuis  la  porte  d’entrée  de  sa  maison  ou  de  son
+                                                                                                       immeuble,  l’image  du  visiteur  apparait  en  pop­up  sur  son  smartphone.  Voir
+                                                                                                       http://www.diesetelecom.com/page.php?identifiant=Visiophonie+IP
+                                                                                                       Le  cahier  des  charges  a  été  établi  en  2014  et  mérite  d’être  analysé  et  amélioré.
+                                                                                                      Développement  d’un  logiciel  sous  l’environnement  IOS  d’Apple  Xcode  :  Durée  anticipée  :  3  mois  et
+demi
+­                                                                                                      Le  smartphone  devient  vidéophone  :  Réaliser  l’équivalent  de  ce  qui  a  été  fait  sous  Android
+en  2014
+2.                                                                                                      ompétences    equises
+­                                                                                                      Formation  supérieure  en  informatique  de  type  bac+3/5
+­                                                                                                      Avoir  réalisé  des  développements  de  projet  sous  Android
+3.                                                                                                      émunération    roposée
+­                                                                                                      Fixe  de  500  €
+Stage  basé  à  Clamart  (92).
+Merci  de  transmettre  votre  candidature  à  joel.nogues@diesetelecom.com    /  01  45  36  17  71
+
+
+
+
+

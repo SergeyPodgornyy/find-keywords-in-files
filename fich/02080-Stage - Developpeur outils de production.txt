@@ -1,0 +1,46 @@
+﻿JCDECAUX RECRUTE UN/UNE STAGE - DÉVELOPPEUR OUTILS DE PRODUCTION EN STAGE 6
+MOIS.
+Date : 01/02/2015
+Référence de l’offre : 2014-1164206-8327650
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Plaisir 78378, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +2
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+N°1 mondial de la communication extérieure, JCDecaux, avec 12 000 collaborateurs, est présent dans plus de
+60 pays. Seul acteur mondial à exercer exclusivement le métier de la communication extérieure et à en
+développer toutes les activités : mobilier urbain, publicité dans les transports et affichage grand format, il a
+réalisé un chiffre d'affaires de 2 676 millions d'euros en 2013.
+Description du poste :
+Objet : mise en place d'une CMDB (Configuration Management DataBase = base de données de gestion de
+configuration)
+L'objectif est de faire évoluer ou remplacer les différents outils, notamment dbahost (outil maison) pour
+automatiser plusieurs flux qui ne le sont pas encore.
+L'objectif (à clarifier avant le démarrage du stage) sera de rassembler dans cet outil et de manière automatisée
+l'ensemble des informations de notre parc informatique comme par exemple:
+- Export BSA à intégrer
+- Vcenter
+- Export AD
+- Export sapcewalk
+- Export Jboss
+- Accostage OVH et AWS
+- Reprise des fonctionnalités existantes sur la BD
+- Enrichir la CMDB des informations : applications, stockage SAN (switch et baies), supervision, backup, …
+Ce stage présente l'avantage d'avoir un projet global avec toutes ses composantes : POC (pour valider l'outil),
+conception, développement, documentation, tests et implémentations
+Il est riche pour le stagiaire car
+- Il s'appuie sur des outillages et standards du marché comme bladelogic, vmware, AD, linux, windows,
+oracle, mysql, postgres, sqlserveur, jboss et cloud
+- il y a une forte composante développement avec besoin de scripting et de connaissance postgres (bdd
+cmdbuild est en postgres) + Talend (ETL pour chargement)
+Profil recherché :
+BTS informatique 2ème année ou miage
+ou élève d'une école d'ingénieur
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8327650
+
+
+
+
+

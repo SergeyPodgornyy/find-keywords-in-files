@@ -1,0 +1,47 @@
+﻿Développement  module  web  analytics  et     reporting  -  H/F
+PRÉSENTATION DU STAGE
+Entreprise de Services du Numérique créée en 1993, ASI est spécialisée dans les solutions
+de Business Analytics, le Social Business (réseaux sociaux d’entreprise, messagerie, portail,
+CRM…) et les applications mobiles intégrées avec le système d’information de l’entreprise.
+Implantée  dans  10  villes                                                                          (Paris,  Lyon,  Marseille,  Rennes,  Brest,  Nantes,  Niort,  Tours,
+Bordeaux  et  Toulouse),  ASI  compte                                                                320  collaborateurs  qui  interviennent  auprès  de
+PME/PMI, de grandes entreprises et de collectivités locales.
+Rejoignez une entreprise qui allie performance et sens écologique, positionnée sur des
+projets à taille humaine et partagez notre éthique basée sur la transparence, le respect, la
+simplicité, la convivialité et le plaisir.
+CONTEXTE ET SUJET DE STAGE
+ASI Informatique est une SSII de taille moyenne dont la clientèle est constituée à parts
+égales de grands comptes et de PME. Son activité comporte une grande partie de mise en
+place de solutions décisionnelles et de développement de portails   pour ces clients.
+Pour les solutions déployées, l'analyse de l'activité des utilisateurs connectés et la restitution
+des informations sous forme de rapports opérationnels ou de tableaux de bord est un besoin
+récurrent, dont l'importance n'est plus à démontrer.
+Dans ce contexte, notre société souhaite étudier et implémenter une solution de reporting
+dédiée  portail.  Vous  serez  amené  à  rencontrer  ou  intégrer  nos  équipes  projets  devant
+répondre à ce besoin pour mener à bien votre mission.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Dans le cadre de ce stage, vous serez intégré à l’équipe projet en binôme avec un ingénieur
+études et réalisation. Le stage démarrera par un apprentissage des bibliothèques techniques
+utilisées dans le projet, et la découverte du fonctionnel de l'application cible, sur une durée
+d'environ 2 semaines. Vous serez amenés à réaliser les activités suivantes:
+   Etude générale du besoin (définitions des indicateurs, impacts de la volumétrie,...)
+   Conception de la solution (entrepôt de données, alimentation, outil de restitution),
+   Réalisation de bout en bout en collaboration avec les experts applicatifs/portail et
+décisionnels,
+   Recette,
+   Documentation.
+Technologies:
+Environnement open source, java, ETL Talend, reporting et analyse à définir (Birt, Jasper,
+QlikView, SAP BO, …), portail java (Liferay, JCMS,...)
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée : Stage d'une durée de 6 mois, avec un démarrage le 1er trimestre 2015 ; ce stage
+doit déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure pertinente par rapport
+au domaine d’intervention.
+Lieu  : situé à Rennes (35)                                                                          - Réf : BG/Webanal
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT SI - MEDIA PUBLICITÉ H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-TM-3480-8373276
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                    Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                   2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Le Système d'Information de gestion de la publicité est un élément clé dans le business des opérateurs Média
+(chaînes de télévision). Ce système doit permettre la publication du catalogue d'offres, l'aide à la vente des
+espaces publicitaires, la création des contrats, la planification des spots en fonction des audiences ainsi quela
+facturation des clients. Dans ce cadre, Capgemini développe et déploie son offre de services dans le secteur
+des Médias et accompagne ses clients dans ce domaine.
+Intégré(e) à l'équipe de développement, vous :
+* avez en charge la conception, la réalisation et l'intégration de développements de parties du système
+d'information, orienté MEDIA (catalogue, planification, facturation, gestion contractuelle, ect…),
+* mettez en oeuvre les technologies adaptées pour la réalisation des aspects IHM  (Interface Homme
+Machine), Bases de Données et Moteur de règles métier,
+*  vous  travaillez  sur  les  environnements  techniques  suivants                                                 :  JAVA,  GWT,  Eclipse,  SQL  Server,
+modélisation objet, WEB, Média et JBoss, Drools.
+Profil recherché :
+De formation Bac+ 5, vous :
+* avez acquis des compétences dans la conception et le développement lors de vos études et souhaitez les
+mettre en application sur le terrain,
+* avez un niveau opérationnel en anglais (présentations écrites et orales),
+* êtes volontaire et dynamique,
+* appréciez le travail en équipe.
+Ce stage vous permet de :
+* travailler dans un environnement technique et fonctionnel de haut niveau basé sur des engagements forts,
+* acquérir la visibilité complète sur un projet de développement, de la conception à la livraison, dans un
+environnement opérationnel,
+* bénéficier d'une formation adaptée à nos métiers.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373276
+
+
+
+
+

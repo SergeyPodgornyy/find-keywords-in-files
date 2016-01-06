@@ -1,0 +1,62 @@
+﻿Stage Chargé d’étude d’une technologie anti-piratage d’Orange TV sous Androïd (f/h)
+ref  :  0007209  |  07  janv.  2014
+4 rue  du  clos  Courtel  35510  CESSON  SEVIGNE  ­  France
+société
+Orange
+en  savoir  plus  sur  nos   étapes  de  recrutement
+entité
+Au  service  de  231  millions  de  clients  sur  les  cinq  continents,  Orange  est  l'un  des  principaux  opérateurs  de
+télécommunications  au  monde.  C'est  aujourd'hui  un  opérateur  intégré,  fixe,  mobile,  internet  et  télévision.
+La  recherche  et  l'innovation  du  Groupe  sont  portées  par  le  réseau  mondial  des  Orange  Labs  et  des  Technocentres.
+Les  5000  chercheurs,  ingénieurs,  concepteurs,  développeurs  sont  répartis  sur  4  continents  pour  être  au  plus  près
+des  besoins  des  pays.  L'activité  de  Recherche  et  de  Développement  est  l'une  des  sources  principales  de
+l''innovation  d'Orange  qui,  avec  près  de  7500  brevets  à  son  actif  à  fin  2012,  contribue  à  développer  la  nouvelle
+génération  de  services  de  communication  intégrés,  innovants  et  simples  d'utilisation.
+L’unité  Protection  et  Transport  des  Contenus  (PTC)  d’Orange  Labs  participe  à  l’expertise  du  groupe  France
+Télécom  sur  la  distribution  de  contenus  à  travers  tout  type  de  réseaux  (téléphone  mobile,  TV  sur  IP,  vidéo  à  la
+demande).  Elle  participe  à  la  conception  de  nouveaux  services  en  étroite  collaboration  avec  les  autres  entités  du
+groupe.  En  parallèle,  elle  est  impliquée  dans  la  communauté  scientifique  internationale  et  dans  les  groupes  de
+normalisation  .
+votre rôle
+Les  solutions  de  protection  de  contenus  et  de  gestion  de  droits  sont  aujourd’hui  essentielles  si  l’on  souhaite
+déployer  des  offres  légales  de  consommation  de  contenus.
+L’efficacité  de  ces  solutions  repose  principalement  sur  la  présence  d’un  environnement  d’exécution  sécurisé
+(EES)  dans  les  terminaux  cibles  (tablettes,  mobiles,  TV  connectées).
+Trustzone  est  une  des  principales  technologies  d’EES  mises  à  disposition  des  opérateurs  comme  Orange
+Accompagné  par  votre  tuteur,  Responsable  de  la  recherche  en  protection  des  contenus,  vous  monterez
+progressivement  en  compétence  et  gagnerez  en  autonomie  sur  les  missions  suivantes  :
+Le  stage  s’attachera  à  étudier  cette  technologie  en  cherchant  à  comprendre  ses  principes  de  sécurité  et  à  évaluer
+
+
+
+
+les  impacts  sur  nos  offres  légales  de  consommation  de  contenus.
+En  particulier,  on  s’attachera  à  analyser  les  contraintes  d’intégration  dans  un  player  HTML5  sous  Androïd  et  les
+contraintes  de  développement  et  de  déploiement  d’une  application  sur  un  terminal  utilisant  Trustzone
+Un  développement  d’une  application  test  intégrant  la  technologie  Trustzone  sera  réalisé  au  cours  de  ce  stage  pour
+valider  les  résultats  de  l’analyse  d’impacts.
+votre profil
+­ Vous  terminez  une  formation  Master  Pro  ou  élève­ingénieur  en  informatique  ou  réseaux  dans  le  domaine  de
+la  sécurité  et/ou  de  la  cryptographie.
+­ Vous  êtes  à  l’aise  avec  langages  de  programmation  (C,  C++  et  JAVA)
+­ Vous  êtes  à  l’aise  avec  les  environnements  androïd  et  IOS
+­ Vous  maitrisez  les  principaux  concepts  de  cryptographie.
+­ La  langue  anglaise  est  indispensable  (lu)
+Stage  conventionné  de  6  mois  à  temps  plein,  à  pourvoir  pour  février/mars
+Intéressé(e)  par  ce  poste?  N'hésitez  pas  à  postuler  en  ligne!
+Merci  de  préciser  dans  votre  lettre  de  motivation  :
+­ l’école/université  dans  laquelle  vous  êtes  inscrit,
+­ l’intitulé  exact  de  votre  formation
+­ vos  dates  de  disponibilités
+le plus de l'offre
+Le  stage  a  lieu  au  sein  d’une  équipe  de  R&D  multidisciplinaire  (sécurité,  cryptographie,  multimédia,  réseau),  ce
+qui  permettra  au  stagiaire  de  découvrir  de  nombreux  aspects  de  la  distribution  de  contenus  multimédia.
+contrat
+Stage  de  fin  d'études
+Pour postuler
+http://orange.jobs/jobs/offer.do?joid=36953&lang=fr&verifdiploma po
+
+
+
+
+

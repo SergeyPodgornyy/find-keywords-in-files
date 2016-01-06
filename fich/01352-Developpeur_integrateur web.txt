@@ -1,0 +1,60 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR/INTÉGRATEUR WEB EN STAGE DE 4 À 6 MOIS.
+Date : 01/06/2014
+Référence de l’offre : fatalpa-6194511
+Domaine d’activité : Internet - E-commerce (Webplanner)
+Type de contrat : Stage
+Localisation : Paris 75011, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : None
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Lancée en 2008, Fatal Panda est une agence de développement web à taille humaine spécialisée dans la gestion,
+le développement et la direction artistique de projets web (sites internet responsives, web apps, etc.)
+Nous  exerçons  nos  activités  conjointement  à  d'autres  agences  localisées  dans  les  mêmes  locaux  à  Paris
+-Strasbourg Saint Denis et travaillons sur plusieurs projets communs.
+Description du poste :
+Fatal Panda recherche un développeur / intégrateur Web stagiaire H/F
+Dans le cadre de l'expansion de nos activités et en collaboration étroite avec le directeur de l'agence, nous
+sommes à la recherche d'un stagiaire développeur front-end avec de bonnes connaissances concernant le CMS
+wordpress afin de nous assister dans la gestion des tâches quotidiennes:
+Intégration HTML
+Développement et évolution de fonctionnalités
+Création de thèmes et personnalisations de back office.
+D'autres tâches concerneront également la mise en place d'intégration HTML libre ainsi que la mise en place
+d'applications Facebook.
+Le stagiaire sera également susceptible de participer à la mise en place d'outils d'organisation afin de contribuer à
+l'optimisation de la production et de son suivi (git, svn, systèmes de déploiement, etc).
+Nous travaillons avec plusieurs types de clients : petites et grandes agences publicitaires/digitales, organisateurs
+d'événements, labels, sociétés B to B et B to C.
+Poste basé à Paris dans le 3ème arrondissement.
+pour postuler: http://www.ajstage.com/offre/Developpeur-integrateur-web-chez-Fatal-Panda
+
+
+
+
+Profil recherché :
+Profil recherché :
+Vous êtes actuellement étudiant en développement internet.
+Vous êtes opérationnel en intégration et développement web : HTML, XHTML, PHP, etc...
+Rigoureux et autonome, vous possédez une première expérience dans la gestion de projets impliquant des notions
+d'intégration et de développement.
+Vous possédez ainsi une excellente approche des environnements dynamiques.
+Vous connaissez le CMS wordpress.
+Compétences liées à la fonction :
+- Force de proposition
+- Dynamique et enthousiaste
+- Autonome
+Compétences requises :
+- Programmation sur PHP5 (objet ou procédural)
+- Programmation HTML5, CSS3, Javascript, xml
+- Manipulation de bases MySQL
+- Maitrise du framework Jquery
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/6194511
+
+
+
+
+

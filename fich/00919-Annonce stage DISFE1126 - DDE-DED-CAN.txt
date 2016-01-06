@@ -1,0 +1,83 @@
+﻿Participez avec La Poste à l’aventure de La Banque Postale
+DISFE/DDE/DED/CAN Mission : Accompagnement au déploiement du SI ARIS
+Localisation : Nantes (44)
+Type de contrat : Stage
+Niveau d'études : B+4 ou B+5
+Début : ASAP
+Présentation  Entreprise
+La Direction des Systèmes d’Information de La Banque Postale (DSI) et la Direction de l’Informatique des Services
+Financiers et de l’Enseigne (DISFE) assurent la maîtrise d’œuvre informatique des systèmes d’informations de
+La Banque Postale et de l’Enseigne La Poste, avec pour objectifs de délivrer la meilleure qualité de service aux
+clients, aux utilisateurs, et d’optimiser les coûts.
+« Faire du SI un levier de performance de La Banque Postale et de l’Enseigne La Poste » : telle est l’ambition de la
+DSI-DISFE  pour  conjuguer  satisfaction  des  utilisateurs  et  fidélisation  des  clients  au  service  de  l’efficacité
+commerciale. Dans un univers concurrentiel, répondre aux attentes des clients, en développant un sens du service
+exigeant et renouvelé, est un véritable état d’esprit.
+La DSI-DISFE accompagne les enjeux stratégiques de La Banque Postale et de l’Enseigne en assurant cinq
+principales missions :
+    Conduire  la  politique  d’investissement  en  matière  de  système  d'information  en  conjuguant
+productivité, réactivité et rentabilité. Il s’agit d’adapter les systèmes d’informations selon les besoins des
+utilisateurs,  pour  assurer  la  réalisation  et  l’intégration  des  projets  de  la  Banque  et  de  l’Enseigne  en
+garantissant la cohérence et l’exploitabilité des SI.
+    Mettre à disposition de l’ensemble des utilisateurs des services optimisés et conformes à leurs
+attentes.  Objectif  qualité  de  service  afin  d’améliorer  la  satisfaction  des  utilisateurs  internes                  (les
+collaborateurs) et externes (le grand public).
+    Maîtriser les risques d’altération du service rendu dans le respect des contraintes réglementaires et
+économiques.
+    Rationaliser l'activité informatique et innover en introduisant une analyse permanente de la valeur.
+Parce que l’innovation n’est pas  une  fin en soi, la capacité de mutualisation  et de simplification des
+systèmes d’informations contribue au développement commercial du Groupe.
+    Maîtriser le développement professionnel de chaque collaborateur dans le respect des besoins de
+l'entreprise et des valeurs du Groupe.
+Rattachée aux Services Financiers de La Poste, la DISFE est structurée par directions opérationnelles, directions
+d’appui et fonctions communes de gestion. Au 31 décembre 2012, elle compte 1 873 collaborateurs répartis sur 13
+sites en France.
+Contexte  de  la  mission
+Au sein de la DDE (Direction du Développement de l’Enseigne), le Département des Etudes et Développements
+de l’Enseigne (DED) est en charge de :
+                                                                                                                            Concevoir, réaliser et valider les applications métiers du Système d’Information de l’Enseigne La Poste,
+                                                                                                                            Prendre en charge la maintenance corrective et évolutive de ces applications,
+                                                                                                                            Assurer le support de niveau 3.
+                                                                                                                            Les domaines métiers concernés sont en particulier les suivants : Guichets, Points de contacts en
+partenariat, Automates, Internet, Centres d’appels, Logistique, Ressources humaines, Marketing, Commercial,
+Qualité, Sûreté, Logistique, Immobilier, Communication, …
+Au sein de ce département, le service Canaux a pour missions :
+  Assurer la cohérence des solutions mises en œuvre dans le domaine des nouveaux canaux de distribution de
+l’Enseigne : Internet, Centres d’appels (3631), Automates, Points de contacts en partenariat (APC, RPC et
+Buralistes)
+1/2
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr -
+Rubrique « Nous rejoindre »
+
+
+
+
+Participez avec La Poste à l’aventure de La Banque Postale
+                                                                                                                        Piloter les moyens nécessaires à la réalisation et à la maintenance des applications, organiser les
+contributions des autres Directions
+                                                                                                                        Gestion de projets MOE : piloter les équipes MOE des projets métiers portés par le service
+                                                                                                                        Prendre en charge les applications, entre autres : CRC, BdP.fr, CAD, LISA, NABUCCO, Postacom, RPC
+                                                                                                                        Assurer le support d’exploitation de 3ème niveau sur demande DPI
+                                                                                                                        Assurer le support de 3ème niveau sur demande DET (Supervision des automates), à savoir l’expertise sur
+les matériels Automates (analyse de pannes, relations avec les constructeurs …)
+Missions
+Intégré(e) au sein de l’équipe en charge du SI des points de contact en partenariat, le/la stagiaire se focalisera sur
+la partie déploiement du SI ARIS. Il/Elle aura les principales missions suivantes :
+- ARIS : Accompagnement au déploiement au sein des 5 000 Agences Postales Communales (APC),
+- définition et mise en place de l'outillage pour suivre le déploiement (tableaux de bord, reporting, statistiques,…),
+- participation au support Niveau 2 et soutien aux acteurs de la DSEM (Direction du Support et de la Maintenance),
+- recensement et analyse des problèmes rencontrés, mise en place de résolutions.
+Environnement technique  : architecture java, bureautique, access.
+Profil
+Etudiant(e) en 4ème ou 5ème année d’école d’ingénieur ou Master 1 ou Master 2   informatique, vous possédez un bon
+relationnel et appréciez le travail en équipe.
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante : julie.boisaubert-
+prestataire@labanquepostale.fr
+2/2
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr -
+Rubrique « Nous rejoindre »
+
+
+
+
+

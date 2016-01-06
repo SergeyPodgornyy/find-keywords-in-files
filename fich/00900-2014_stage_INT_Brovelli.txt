@@ -1,0 +1,44 @@
+﻿Proposition de stage « ingénieur » (2014)
+Sujet de stage
+Connectivité cérébrale dynamique
+Durée et date envisagées
+2-3 ou 6 mois entre février et septembre 2014
+Responsable du stage
+Responsable:                                                                                              Andrea Brovelli (CR1 CNRS)
+Institut:                                                                                                 Institut  de  Neurosciences  de  la  Timone               (INT),  UMR   7289
+CNRS-AMU
+                                                                                                          http://www.int.univ-amu.fr
+                                                                                                          Campus Santé Timone, 27 Bd Jean Moulin, 13385 Marseille
+Page Web:                                                                                                 https://sites.google.com/site/andreabrovelli/
+Email:                                                                                                    andrea.brovelli@univ-amu.fr
+Téléphone:                                                                                                04 91 32 40 31
+Descriptif du projet
+Ce stage se cadre dans un projet en neuroscience cognitives qui vise à identifier les bases
+neuronales des fonctions exécutives chez l'homme. Plus précisément, l'objectif est de mieux
+comprendre comment les différentes aires corticales impliquées dans  l'apprentissage  et les
+comportements  adaptatifs  interagissent  entre  eux  (connectivité  cérébrale).  Des  nouveaux
+méthodes  d'analyse  ont  été  développés  permettant  l’étude  de  relations                             « causales »  ou
+directionnelles entre régions du cerveau. Ces méthodes intègrent des outils d'estimation de
+l'activité cérébrale au niveau des aires cérébrales (méthodes de « beamforming » appliquées
+aux    signaux    neurophysiologiques    enregistrés    chez    l'homme    en    utilisant    la
+magnetoencephalographie, MEG) avec des méthodes d'analyse du signal basés sur la causalité
+de Granger et la « Transfer Entropy ». Cet approche permet d'estimer des matrices d'adjacence
+qui évoluent au cours du temps et qui quantifient la connectivité entre aires cérébrales. Selon
+la théorie des graphes, il s'agit de graphes dynamiques, pondérées et dirigées  (connectivité
+cérébrale  dynamique).  L’objectif  du  stage  sera  de  se  former  à  ces  outils,  contribuer  au
+développement des nouvelles méthodes pour l'analyse des graphes afin de mieux caractériser
+les  interactions  entre  aires  et  l’émergence  de  réseaux,  et  de  participer  a  l’implémentation
+informatique  sur  un  cluster  de  calcul  présent  à  l'Institut  de  Neurosciences  de  la  Timone
+(https://frioul.int.univ-amu.fr/).
+Compétences requises
+Ce  stage  est  idéal  pour  un  étudiant  intéressé  à  une  démarche  multidisciplinaire  entre
+l'informatique,  les  mathématiques  appliquées  et  les  neurosciences.  Ce  stage  pourrait
+également  être  valorisé  dans  le  cas  d’un  souhait  de  poursuite  en  thèse  en  neurosciences
+computationelles et/ou cognitives.
+Connaissances  en  analyse  spectrale,  problème  inverse,  théorie  des  graphes  ainsi  que  des
+connaissance en programmation Matlab et/ou Python sont souhaitées.
+
+
+
+
+

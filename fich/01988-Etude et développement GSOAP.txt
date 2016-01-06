@@ -1,0 +1,52 @@
+﻿ETUDE ET DEVELOPPEMENT GSOAP
+Entreprise
+Entreprise  de  maîtrise  d’œuvre  de                                                                                      200  collaborateurs,  le  GIE  SESAM-Vitale  est  au  cœur  des  échanges
+électroniques  sécurisés  entre les  Professionnels  de  Santé et  l’Assurance  Maladie.  L’infrastructure  mutualisée
+SESAM-Vitale  gère  aujourd’hui  plus  d’un  milliard  de  transactions  par  an  en  relation  avec  plus  de  300 000
+Professionnels de Santé.
+Contexte
+L’assurance Maladie met à disposition des éditeurs de logiciels de santé, des fichiers WSDL décrivant les Web-
+Services auxquels le logiciel doit accéder.
+Afin de garantir la bonne utilisation de ces WSDL, des tests d’intégration dans différentes plates-formes sont
+effectués  (Java,  .net) qui consistent à générer le code d’accès au Web-service et tester l’accès à partir de ce
+code généré.
+Description de la mission
+Souhaitant   étendre   la   liste   des   plates-formes   supportées,   la   Direction   Infrastructure   des   Systèmes
+d'Information  du  Professionnel  de  Santé  (DISIPS)  propose  un  stage  "Etude  et  Développement"  autour  des
+technologies  de  programmation  C/C++  sous  Windows  dans  le  domaine  des  accès  aux  Web  Services  de
+l’Assurance maladie.
+Description détaillée
+Vous serez amené(e) à étudier le framework GSOAP qui offre la possibilité de générer automatiquement du
+code C++ d’accès à un Web-Service à partir de son fichier WSDL.
+  Analyse des fonctionnalités du framework GSOAP
+  Définition du processus de mise en œuvre d’un WSDL avec GSOAP
+  Test de génération d’une application d’accès (2 Web-Services représentatifs seront utilisés)
+  Adaptation et finalisation du code de l’application de test (pour les 2 WS)
+Profil recherché
+Elève ingénieur en 4ème ou 5ème année ou élève universitaire niveau master, spécialisation logicielle.
+Pré-requis
+  Environnement : Windows (programmation)
+  Outils : Visual Studio
+  Langages : C/C++
+  Protocoles : HTTP, SOAP-XML
+  Web Service : XML, WSDL
+Compétences visées durant le stage
+  Mise en œuvre de Web-Services côté client
+  Développement d’une application d’accès à un Web-Service en C/C++
+  Découverte  et  maitrise  des  protocoles  et  normes  sur  lesquelles  s’appuient  les  Web-Services
+(SOAP/XML, WSDL, WS-Addressing, WS-Security, SAML, XML-Signature …)
+Durée / Date
+3 à 4 mois / Début du stage au premier semestre 2015.
+Comment répondre ?
+Merci d’adresser votre candidature (CV + lettre de motivation) à :
+GIE SESAM-Vitale
+5, Boulevard Marie et Alexandre Oyon
+72019 Le Mans Cedex 2 FRANCE
+Fax : (33) 02 43 87 78 42
+E.mail : recrutement@sesam-vitale.fr
+Réf. : STAGE/DISIPS/DEV/GSOAP
+
+
+
+
+

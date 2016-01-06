@@ -1,0 +1,49 @@
+﻿STERIA RECRUTE UN/UNE IED STAGIAIRE .NET H/F EN STAGE DE 4 À 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : 1410/MPT/NE-7697218
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : MONTPELLIER 34000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+A propos de Steria
+Steria est un leader des services du numérique qui accompagne les entreprises et les administrations à relever
+leurs défis IT complexes et à appréhender les enjeux métier propres à leur secteur.
+Partenaire de la transformation de ses clients, Steria travaille en étroite collaboration avec eux pour leur
+apporter ses conseils, son expertise du numérique, ainsi que ses services d'optimisation des infrastructures,
+des applications et des processus métier. Pour plus d'informations, rendez-vous sur www.steria.com et suivez
+@Steria sur Twitter.
+Suite au rapprochement de Steria et de Sopra, Groupe Steria SCA et l'ensemble de ses filiales font partie de
+Sopra Steria Group, constitué en septembre 2014 et figurant parmi les leaders européens de la transformation
+numérique avec l'un des portefeuilles d'offres les plus complets du marché. Fort de 35 000 collaborateurs
+dans plus de 20 pays, Sopra Steria Group affiche un chiffre d'affaires pro forma 2013 de 3,1 milliards
+d'euros.
+About Steria
+Steria delivers end-to-end IT-enabled business services that help private and public organisations meet
+today's complex business challenges. As a Trusted Transformation partner with a highly collaborative
+approach, Steria provides consulting, digital expertise, as well as optimised infrastructures, applications and
+business process services. Find out more at www.steria.com and @Steria.
+Following the merger of Steria and Sopra, Groupe Steria SCA and its subsidiaries are now part of the Sopra
+Steria Group, a European leader of digital transformation established in September 2014. With one of the
+most complete portfolios of offers in the market, and 35 000 professionals in over 20 countries, Sopra Steria
+Group had pro forma revenue of €3.1 billion in 2013.
+Description du poste :
+Dans le cadre de votre stage vous intégrez les équipes projet Web sur le plateau Steria à Montpellier, où vous
+prendrez part aux phases d'étude fonctionnelle et technique, de développement, de test et d'intégration usine
+rédaction des manuels d'installation et d'exploitation sur des projets concernant le domaine métier de l'eau et
+environnement et d'autres projets en cours.
+Environnement technique du stage : .NET ; AJAX/jQuery ; MSChart ; Crystal Reports ; Oracle 11g
+Profil recherché :
+Vous êtes étudiant(e) en école d'ingénieurs ou université, de formation niveau Bac+4 à +5, vous justifiez de
+solides connaissances théoriques sur les technologies mentionnées.
+Vous avez des connaissances en développement d'applications et avez la volonté d'apprendre les nouvelles
+technologies. Vous êtes curieux(se), dynamique, rigoureux(se) et autonome. Vous avez l'esprit de synthèse,
+le sens du relationnel et de la communication.
+Pour postuler : http://steria.contactrh.com/jobs/1536/7697218
+
+
+
+
+

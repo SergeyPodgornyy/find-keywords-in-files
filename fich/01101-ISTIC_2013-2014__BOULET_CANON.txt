@@ -1,0 +1,95 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : PENNTIC                                                                   Adresse : 2, rue du Courtil - Centre d’Affaires CICEA 2
+Domaine d’activité : Internet des Objets                                                        Ville : 35170 BRUZ
+Représentant de l’entreprise : Jean-Luc PHILOUZE                                                N° téléphone : 09 53 32 36 96
+Sa qualité : Fondateur / Président                                                              N° fax : -
+N° de Siret : 79462221700014                                                                    Site Web : http://www.penntic.fr
+N° NAF : 6202A                                                                                  Courriel : philouzej@penntic.fr
+Statut Juridique : SAS                                                                          Signataire de la convention :   Jean-Luc PHILOUZE
+Effectif de l’établissement : 3
+Nom de l’encadrant de stage :   Jean-Luc PHILOUZE                                               Chargé du suivi administratif :   Jean-Luc PHILOUZE
+Sa qualité : Chef de Projet                                                                     Sa qualité :   Fondateur / Président
+Service : -                                                                                     N° téléphone : 09 53 32 36 96
+N° téléphone : 09 53 32 36 96                                                                   Email :   philouzej@penntic.fr
+Email :   philouzej@penntic.fr                                                                  Fax : -
+Fax : -
+Nom du service dans lequel le stage sera effectué : …..………………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□                                                                                               Spécialité                                                MITIC   du 10 mars 2014 à fin août 2014
+SUJET  DU  STAGE  :
+Stage Ingénieur : développement d’applications web associées
+à un nouvel Objet Communicant - Bruz (35)
+Présentation
+PENNTIC  est  une  jeune  société  qui  développe  ses  activités  dans  le  domaine  de
+l’Internet des Objets.  Son  expertise  est  vaste  :  Cloud,  plateforme  de  services  web,
+réseaux IP, électronique et logiciel embarqués dans les Objets, applications, .…
+PENNTIC est partenaire des industriels et des fabricants pour les aider à déployer de
+nouveaux services à valeur ajoutée sur des produits existants. PENNTIC est aussi le
+partenaire technologique des designers pour les aider à libérer leur créativité en co-
+UNIVERSITE DE RENNES 1                                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+conception de produits connectés innovants.
+Mission
+Dans le cadre de son activité Studio de Développement, PENNTIC recherche 1 stagiaire
+pour participer à son projet BOULET DE CANON. Le stage consistera à :
+ suivre la mise au point d’un  nouvel objet communicantà caractère ludique et  sportif,
+ aider à la définition des story-boards complets de  2 applications :
+o  l’application   1  (locale)   permettra  le pilotage  et    la gestion   de     l’Objet   depuis    une
+tablette et  réalisera l’interface entre l’Objet et  le Cloud,
+o  l’application 2 (cloud) proposera la gestion complète de   la communauté des joueurs
+depuis le Cloud.
+ développer les maquettes des 2 applications,
+ participer au pré-lancementcommercial du  projet,
+ faire évoluer les maquettes pour tenir compte des premiers retours des clients,
+ suivre le lancementdu  produit.
+Méthodes
+ les  développements   s’appuieront   sur      des  frameworks    web     et      des  outils     de       nouvelle
+génération,
+ les  développements   s’intégreront avec      les  process       et      workflows    mis      en  place      dans
+l’entreprise.
+Profil
+Ce stage s’adresse  à des élèves Bac+5 en dernière année d’Ecole  d’Ingénieurs ou équivalent.
+Vous maîtrisez les technologies web parmi lesquelles AngularJS, Bootstrap, Phonegap, …
+Des talents de  graphiste et  la maitrise des outils  associés  seraient des plus  incontestables !
+Vous êtes   organisé(e),  créatif(ve),  autonome et   vous    souhaitez  vous investir dans une jeune
+start-up à fort potentiel !
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité   mensuelle (nette)                                                                                          :                                                  436€   minimum                                                                  -         Nom de l’Etudiant :
+possibilité de CDI à suivre                                                                                                                                                                                                                                         Diplôme :
+Modalités de versement : -
+Avantages en nature à préciser : -
+Temps horaire hebdomadaire : 35h
+                                                                                                                       Date limite de réponse à cette proposition : fin                                                                                   janvier   2014
+                                                                                                                                                                          Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+                                                                                                                                                                                                                                                                    Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                                 TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                  FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

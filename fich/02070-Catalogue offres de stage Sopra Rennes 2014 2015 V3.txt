@@ -1,0 +1,904 @@
+﻿Site de RENNES   (mise à jour décembre 2014)
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Intégration du programme d’industrialisation   des déploiements
+applicatifs d'un opérateur telecom H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                           700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Dans  le  cadre  du  développement  d’un  nouveau  système  d’information  de  prise  de  commande  et
+facturation  pour  un  opérateur  telecom  majeur,  vous  serez rattaché(e)  à  l’équipe  projet  en  charge
+d’industrialiser le déploiement des applications.
+Encadré(e) par un Chef de Projet, vous serez amené(e) à travailler sur les tâches suivantes :
+- réalisation des évolutions de l’outil de gestion des demandes d’installation
+- amélioration des scripts de déploiement et création de nouveaux outils
+- participation à la   réalisation des déploiements applicatifs
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production ainsi que le système qualité de Sopra.
+Intérêt du stage
+- travailler en équipe
+- renforcer les compétences techniques Java
+- acquérir une méthodologie projet
+- participer à l’un des plus grands projets télécom européens
+Environnement technologique/fonctionnel
+Java JEE, JBOSS, Oracle, Postgres Intégration continue (maven, jenkins, sonar) , rundeck , shell unix
+Framework (Hibernate, Spring, JaxB), CXF, Oracle, UML
+Environnement humain
+Piloté(e) par un Chef de projet, vous pourrez vous appuyez sur une équipé expérimentée qui saura
+vous aider à progresser et à atteindre votre but.
+Profil recherché
+En  dernière  année  d’école  d’ingénieurs  ou  de  Master                                                     2  informatique,  vous  êtes  passionné(e)
+d’informatique, créatif(ve), curieux(se) et motivé(e). Votre capacité à travailler en équipe et à acquérir
+rapidement de nouvelles compétences techniques (Java et XML) sont les atouts qui vous permettront
+d’évoluer au cœur d’une équipe, dans le cadre d’une application majeure du système d’information.
+Réf. du sujet : STAGE/TELCO/RENN/001
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Mise en place d’un système d’information de provisionning
+pour les offres Cloud d’un grand opérateur telecom
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur l'un de
+ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons nos clients dans
+l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la réalisation de projets
+innovants. Rejoignez nos  700 collaborateurs et intervenez sur des domaines fonctionnels variés  :
+portails, applications mobiles, CRM, chaîne de valeur, BI/Big Data, OSS, Broadcasting, etc…
+Mission
+Le projet sur lequel vous interviendrez est en charge de la mise en place d’un système de
+provisionning pour les offres Cloud d’un opérateur Télécom  (prise de commande, gestion de
+catalogue, valorisation, facturation).
+Rattaché(e) au site de Rennes, vous participerez aux différentes phases du cycle de vie du
+projet en appliquant la méthode Scrum :
+- animation du projet par le Scrum Master
+- réalisation des travaux au cours de Sprints
+- échanges réguliers avec le client au cours des journées Agiles
+Si vous avez envie de découvrir toutes les phases d’un système de provisionning, l’architecture
+SOA, les démarches agiles et le Continous Delivery, ce projet est fait pour vous.
+Intérêt du stage
+- pratiquer une méthodologie projet Agile avec Scrum
+- appréhender des environnements techniques variés et innovants
+- renforcer les compétences techniques sur les architectures SOA
+- acquérir une première expérience du travail en équipe
+- développer le sens de la communication
+Environnement technologique/fonctionnel
+Java  J2EE,  Java  7,  Wicket  1.4,  Maven,  Spring                                                        4,  Spring  Data,  JPA                                          (Hibernate/MySql),
+                                                                                                           MongoDB, CXF, Petals 4.3., Implémentation SID du tmforum.org.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Scrum
+Master qui assurera un suivi détaillé de l’activité. L’environnement permet une grande diversité
+des activités à réaliser ainsi qu’une forte proximité client.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez au moins des
+connaissances sur Java et Spring et idéalement sur les autres technologies utilisées sur le
+projet. Vous avez la capacité à acquérir rapidement de nouvelles connaissances techniques et
+fonctionnelles.  Vous  êtes  curieux(se)  et  avez  un  bon  relationnel,  l’esprit  de  synthèse  et
+d’analyse.Vous  adhérez  à  l’idée  que  le  développement  de  la  société  s’appuie  sur  la  veille
+technologique et l’esprit d’innovation de collaborateurs/trices.
+Réf. du sujet : TELCO/RENN/STAGE/008
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage  - Déploiement et évolution d’une application majeure en JAVA
+utilisant les principes de génération MDA H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                         700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Le projet sur  lequel  vous  interviendrez    gère  l’ensemble des commandes autour des services de
+téléphonie fixe pour les clients PME et TPME d’un opérateur telecom majeur : portail Web de prise de
+commande, traitements back office; nombreuses communications externes au travers d’interface et de
+Web Services…
+Dans  le  cadre  d’une  refonte  des  applications  qui  présentent  une  forte  obsolescence  technique,
+plusieurs projets sont initiés pour « ouvrir » ces applications :
+                                                                                                             -                                                                                                                                                                                                                                                      utilisation de mécanismes de publication ou d’utilisation de services métier
+                                                                                                             -                                               mise en œuvre de Webservices
+                                                                                                             -                                                                                                                                                                                                                                                                                                                                                                                                                                           modernisation des interfaces homme-machine (IHM) en implémentant des solutions de type
+                                                                                                                                                             Web
+                                                                                                             -                                               ouverture multicanaux
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   Rattaché(e) au site de Rennes, vous intégrerez l’équipe d’ingénieurs en charge d’accompagner le
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   déploiement de cette nouvelle application. Vous participerez également aux différentes phases d’une
+                                                                                                             nouvelle version de cette application :
+                                                                                                             -                                                                                                                             modélisation UML   des spécifications (Logiciel EA)
+                                                                                                             -                                               développement Java
+                                                                                                             -                                               automatisation des tests (QTP)
+                                                                                                             -                                                                                                                                                                                                                                                                                                                                                                                                                                           utilisation des principes de génération MDA pour implémentation de nouvelles évolutions
+                                                                                                                                                             et maintenance de l’application
+Intérêt du stage
+                                                                                                             -                                               travailler en équipe
+                                                                                                             -                                                                                 renforcer les compétences techniques Java
+                                                                                                             -                                                                                                                             appréhender MDA et les techniques de modélisations
+                                                                                                             -                                                                                                                                                                                   découvrir et participer aux différentes phases d’un grand projet
+Environnement technologique/fonctionnel
+JAVA JEE - PostGréSQL -Talend -   Jonas - Intégration continue (Maven - Hudson) - Mercury QTP
+- MDA - UML
+Environnement humain
+Intégré(e)  directement  dans  une  équipe  opérationnelle  à  taille  humaine  autour  d’un  projet         (12
+personnes), vous serez encadré(e) par un Chef de projet qui assurera un suivi détaillé de l’activité
+dans le cadre des procédures   appliquées sur les projets clients.
+Profil recherché
+En  dernière  année  d’école  d’ingénieurs  ou  de  Master                                                   2  informatique,  vous  êtes  passionné(e)
+d’informatique, créatif(ve), curieux(se) et motivé(e). Votre capacité à travailler en équipe et à acquérir
+rapidement de nouvelles compétences techniques sont les atouts qui vous permettront d’évoluer au
+cours de votre stage.
+Réf. du sujet : TELCO/RENN/STAGE/111
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage                                                                                                             -  Participation  à  un  projet  de  refonte  d’une  application  de
+commissionnement en Java
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                              700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Au sein du système d’information d’un opérateur Telecom, vous interviendrez sur un projet de refonte
+d’un système de commissionnement / valorisation / facturation autour de la vente de produits de cet
+opérateur par des distributeurs. Cette refonte est basée sur la mise en œuvre de solutions innovantes.
+La première phase de votre stage vous permettra de vous familiariser à l’environnement :
+-                                                                                                                                                                                        présentation de l’application et de son contexte au sein du système d’information du client
+-                                                                                                                 formation aux outils spécifiques du projet
+-                                                                                                                 développements d’outils spécifiques au projet
+                                                                                                                                                                                         Dans un seconde phase, vous participerez aux différentes phases de la mise en œuvre de ce projet :
+-                                                                                                                 conception
+-                                                                                                                 développement / réalisation
+-                                                                                                                 qualification et intégration
+-                                                                                                                 écriture de tests automatisés
+Vous  utiliserez  les  méthodologies,  les  techniques  d’industrialisation  de  la  production  ainsi  que  le
+système qualité de Sopra.
+Intérêt du stage
+- acquérir des compétences techniques sur des technologies innovantes
+- travailler en équipe et appliquer une méthodologie projet itérative
+- contribuer aux différentes activités du projet
+- participer à l’industrialisation du projet
+Environnement technologique/fonctionnel
+Technologies Java, Oracle, ETL Talend, Moteur de règles DRools
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                                        2  informatique,     vous  serez  intégré(e)
+directement dans une équipe opérationnelle. Un Chef de projet assurera un suivi détaillé de l’activité
+dans le cadre des procédures appliquées sur les projets clients.
+Réf. du sujet : TELCO/RENN/STAGE/125
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Contribution à un projet majeur de portail d'applications en
+.Net/Java H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                       700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Dans le cadre d'un vaste programme visant à prendre en charge la gestion des applications
+Web orientées service client, vous serez intégré(e) au coeur d'une équipe projet en charge de
+faire évoluer un portail Web d'accès unique.
+Après une  prise  de connaissance des environnements technologiques  et fonctionnels, vous
+participerez  à  l'élaboration  du  portail.  Ce  portail  permet  aux  grandes  entreprises  de  suivre
+l'exploitation de leurs réseaux nationaux ou internationaux :
+- représentation graphique des positionnements d'incidents
+- gestion de demande de changements et du portail Front/Back
+- visualisation des informations relatives à la production de l'offre client
+- gestion de vue synthétique des applications (mode iGoogle)
+Vous contribuerez aux différentes activités du projet : spécification, développement, écriture de
+tests unitaires automatisés et qualification.
+Le projet s'appuie sur la méthodologie Scrum :
+- animation du projet par le Scrum Master
+- réalisation des travaux au cours de Sprints
+- échanges réguliers avec le client lors des démonstrations
+Intérêt du stage
+- travailler dans un environnement technologique et fonctionnel varié et innovant
+- appréhender la méthodologie projet Scrum/Agile
+- renforcer les compétences techniques .Net/Java
+- travailler en équipe avec la proximité du client
+Environnement technologique/fonctionnel
+Microsoft .Net 2.0 à 4.5, C#, Jquery, Angular JS, Oracle - Intégration continue (Jenkins, N-Unit,
+Selenium)
+Environnement humain
+Intégré(e)  directement  dans  une  équipe  opérationnelle  (environ  15  personnes),  vous  serez
+encadré(e) par un Scrum Master qui assurera un suivi détaillé de l'activité. L'environnement
+permet une grande diversité des activités à réaliser ainsi qu'une forte proximité client.
+Profil recherché
+En dernière année d'école d'Ingénieurs ou de Master  2 informatique, vous avez la capacité
+d'acquérir  rapidement  de  nouvelles  connaissances  techniques  et  fonctionnelles.  Vous  êtes
+curieux(se) et avez un bon relationnel ainsi qu'un bon esprit de synthèse et d'analyse. Vous
+avez une bonne maîtrise de l'anglais.
+Réf. du sujet : TELCO/RENN/STAGE/618
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage                                                                                                          -  Participation   aux  activités  de   la  cellule  Bench  &
+Performance H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                           700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+La cellule Bench & Performance intervient de façon transverse sur de nombreux projets de
+l'agence  rennaise.  Constituée  d'une  équipe  d'Experts,  elle  propose  des  méthodes,  outils,
+expertises  et  savoir-faire  industriels.  L'objectif  étant  de  permettre  la  détection,  l'analyse,  la
+résolution et l'anticipation de problèmes de performance sur des environnements hétérogènes.
+Intégré(e) au cœur de la cellule, vous participerez à la réalisation d'audits de performance en
+terme de fiabilité, robustesse, rapidité et capacité.
+Accompagné(e) du Chef de Projet et d'un Expert technique, vous aurez en charge :
+- de spécifier des objectifs du projet, méthodes et outils, environnements techniques
+- de développer des outils spécifiques en fonction des besoins des projets
+- d'automatiser des audits de performance (monitoring et rapport)
+- de proposer des solutions et recommandations
+Intérêt du stage
+- acquérir une méthodologie projet
+- comprendre le fonctionnement global d'une application, d'un système
+- appréhender les problématiques de performance à tous les niveaux d'une application ou d'un
+système
+- mettre en place des solutions innovantes et industrielles
+Environnement technologique/fonctionnel
+JAVA, Oracle et/ou Microsoft .NET/VB, SQL Server
+Environnement humain
+Intégré(e) dans une équipe opérationnelle où règnent esprit d'équipe et convivialité, vous serez
+accompagné(e) par un Expert technique. Un Chef de Projet assurera un suivi détaillé de votre
+activité dans le cadre des procédures appliquées sur les projets clients ou internes, et d'un
+Expert technique qui vous accompagnera dans la réalisation des activités.
+Profil recherché
+En dernière année d'école d'Ingénieurs ou en Master 2 informatique, vous avez des capacités à
+appréhender  un  contexte  projet  multi-domaines  (applicatif,  base  de  données,  systèmes  et
+réseaux). Votre relationnel, rigueur et esprit de synthèse sont les atouts qui vous permettront
+d'évoluer rapidement au sein d'une équipe.
+Réf. du sujet : TELCO/RENN/STAGE/717
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Intégration du programme de développement de la prise de
+commande abonné d'un opérateur Telecom H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                       700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Dans le cadre de la réalisation d'un nouveau système de gestion des commandes et de la
+facturation pour un opérateur majeur Telecom, vous serez amené(e) au sein de l'équipe projet à
+mettre en oeuvre le traitement des commandes pour les différents canaux de ventes.
+Au cours de la première phase de votre stage, vous découvrirez l'application (présentation de
+l'application,  de  son  contexte  au  sein  du  système  d'information  client,  formation  aux  outils
+spécifiques, participation aux activités de tests, analyse et corrections d'anomalies).
+Lors de la seconde phase, vous serez chargé(e) de participer aux développements :
+-  des  IHM  de  prise  de  commande  déployées  dans  les  centres  d'appels  et  en  boutique
+(couverture nationale, très forte visibilité)
+-  des  services  métiers  et  des   webservices   exposant  ces  fonctionnalités   aux  autres
+consommateurs
+- des traitements batch (purges, mises à jour de masse...)
+Vous contribuerez directement au développement de l'application utilisée en production
+Vous utiliserez les méthodologies de développement, les techniques d'industrialisation de la
+production ainsi que le système qualité de Sopra.
+Intérêt du stage
+- intégrer une équipe avec un accompagnement par un binôme expérimenté
+- renforcer les compétences techniques Java
+- acquérir une méthodologie sur un projet fortement industrialisé
+- découvrir toutes les activités depuis la conception jusqu'à la mise en production
+- participer à l'un des plus grands projets européens
+Environnement technologique/fonctionnel
+Java JEE, JBOSS/Tomcat, Google Web Toolkit, Oracle, SOAP, Intégration continue  (Maven,
+Jenkins, Sonar)Framework (Hibernate, Spring, JaxB), CXF, Oracle, UML, Eclipse/EA/SQL*Dev
+Environnement humain
+Vous  intégrerez  une  équipe  de                                                                          30  personnes  dans  laquelle  vous  trouverez  de  réelles
+possibilités  de  monter  en  compétences.  Des  points  périodiques  avec  un  Chef  de  Projet
+permettront de vous apporter l'aide nécessaire et trancher les choix proposés.
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                                 2  informatique,  vous  avez  des
+connaissances  en  programmation  Java.  Vous  avez  un  réel  intérêt  pour  le  marché  des  SI
+telecom. Vous êtes curieux  (se) et avez un bon relationnel, l'esprit de synthèse et d'analyse.
+Vous avez la capacité à appréhender de nouveaux concepts et des processus métiers.
+Réf. du sujet : TELCO/RENN/STAGE/720
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Participation à un projet de prise de commandes en .Net H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                 700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Lors de votre stage, vous intégrerez une équipe en charge de la gestion d'une application de
+prise de commande des offres complexes du catalogue destiné aux grandes entreprises d'un
+opérateur Telecom.
+Après   une   prise   de   connaissance   de   l'environnement   technologique/fonctionnel,   vous
+participerez aux différentes phases du projet :
+- études et conception
+- développement et réalisation
+- qualification et intégration
+- écriture de tests automatisés
+- déploiement
+Vous utiliserez les méthodologies de développement, les techniques d'industrialisation de la
+production ainsi que le système qualité de Sopra.
+Intérêt du stage
+- renforcer les compétences techniques .Net
+- acquérir des compétences fonctionnelles dans le domaine Telecom
+- appréhender les processus de production mis en oeuvre sur les projets Sopra
+- découvrir l'organisation d'une équipe projet
+Environnement technologique/fonctionnel
+Intégration Continue, Microsoft, .Net 4.0, Windows Server 2008, Oracle 11G.
+Environnement humain
+Intégré(e) dans une équipe opérationnelle (environ 10 personnes), vous serez encadré(e) par
+un Chef de Projet qui assurera un suivi détaillé de votre activité dans le cadre des procédures
+appliquées sur les projets clients.
+Profil recherché
+En dernière année d'école d'Ingénieurs ou en Master 2 informatique, vous avez la capacité à
+acquérir rapidement de nouvelles connaissances techniques et fonctionnelles. Votre rigueur et
+esprit de synthèse sont les atouts qui vous permettront d'évoluer rapidement au sein de nos
+équipes. Vous avez une bonne maîtrise de l'anglais.
+Réf. du sujet : TELCO/RENN/STAGE/721
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage  - Participation à un projet d'administration de solutions de
+Business Intelligence H/F
+Mission
+Dans le cadre d'un centre de compétences pour un opérateur Telecom, vous serez associé(e) à
+l'équipe projet en charge d'administrer les solutions de Business Intelligence mises en place par
+le client.
+Lors de la première phase de votre stage, vous suivrez un cycle de formation technique et
+fonctionnel en relation avec les produits.
+La seconde phase de votre stage vous permettra de participer aux activités d'administration des
+plateformes BI, de développement d'outils BI, de support/expertise et de mise en oeuvre des
+bonnes pratiques sur ces outils. Vous appréhenderez les différentes activités d'un projet dans
+un contexte national ou international.
+Vous utiliserez les méthodologies de développement ainsi que le système qualité de Sopra.
+Vous aurez en charge des activités variées en relation avec les différentes MOE d'un domaine
+BI :
+- administration des plateformes Business Objects, Cognos et MSBI
+- expertise/assistance aux MOE pour des projets BI
+- support aux utilisateurs
+- gestion des habilitations utilisateurs
+- développement/maintenance d'outils de supervision
+Intérêt du stage
+- acquérir des compétences techniques autour de solutions de Business Intelligence (Business
+Objects, Cognos, MSBI, Qlikview)
+- développer des compétences techniques en bases de données (MySql, Oracle, Sql Server)
+- travailler en équipe et contribuer aux différentes activités d'un projet
+- appréhender les processus de production mis en oeuvre sur les projets Sopra ainsi que la
+démarche qualité.
+Environnement technologique/fonctionnel
+Business Objects XI 3.1, Cognos, MSBI, SGBD Oracle/Sql Server,MySQL, Perl, Html
+SI décisionnel d'un grand opérateur Telecom
+Environnement humain
+Piloté(e) par un Chef de Projet, vous pourrez vous appuyer sur son équipe expérimentée qui
+vous aidera à progresser et à atteindre votre but.
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                          2  informatique,  vous  disposez  de
+connaissances  en  Business  Intelligence,  techniques  de  programmation,  bases  de  données
+Oracle/Sql Server. Vous avez une bonne capacité de synthèse et souhaitez vous impliquer
+dans un travail d'équipe. Vous faites preuve de curiosité et d'implication.
+Réf. du sujet : TELCO/RENN/STAGE/724
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Développement d'applications finances Oracle E-Business
+Suite pour un acteur Telecom H/F
+Mission
+Dans le cadre d'un programme majeur de gestion d'applications, vous intégrerez l'équipe projet
+chargée de faire évoluer les modules applicatifs d'une solution business répondant aux process
+métiers.
+Immergé(e)  dans  les  équipes  projets,  vous  suivrez  un  cycle  de  formation  fonctionnel  et
+technique en relation avec le produit.
+Vous collaborerez aux différentes phases du projet en relation avec la MOA et les business :
+- études et cadrage des besoins avec le business
+- conception fonctionnelle et technique
+- développement/paramétrage, qualification et intégration
+- assistance aux business durant leurs recettes métiers
+-  assistance  au  déploiement  et  installation  en  environnement  de  production  des  équipes
+techniques
+- analyse et suivi des incidents de production en contact avec le business
+Vous utiliserez les méthodologies de développement ainsi que le système qualité de Sopra.
+Intérêt du stage
+-  acquérir  des  compétences  ERP  (Enterprise  Resource  Planning)  et  métiers  autour  de  la
+finance et du Procurement
+- appréhender un contexte Telecom
+- développer des compétences techniques sur le SGBD
+- travailler en équipe et contribuer aux différentes activités d'un projet
+-  découvrir  les  processus  de  production  mis  en  oeuvre  sur  les  projets  Sopra  ainsi  que  la
+démarche et les processus CMMI
+Environnement technologique/fonctionnel
+-  OeBS  11i,  PL/SQL,  Shell  UNIX,  SGBD  Oracle,  OA  Framework,  XML  Publisher,  Suite  de
+développement Oracle
+- procurement et finance entreprise
+Environnement humain
+Intégré(e) à une équipe dynamique, vous participerez pleinement à la réussite du projet. Vous
+serez encadré(e) d'un Chef de Projet qui assurera le suivi de votre activité dans le cadre des
+procédures appliquées sur les projets clients.
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                                2  informatique,  vous  avez  des
+connaissances  en  architecture  des  systèmes  d'information,  techniques  de  programmation,
+bases de données Oracle.
+Vous êtes doté(e) d'un esprit d'équipe et de service, vos capacités d'analyse, de synthèse ainsi
+que votre curiosité vous permettront de mener à bien les différentes missions confiées.
+Réf. du sujet : TELCO/RENN/STAGE/725
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Évolution des systèmes applicatifs de la chaine d'activation
+d'un opérateur Telecom (portabilité) H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                  700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Au sein du système d'information d'un opérateur Telecom majeur, le domaine activation assure
+l'interface entre les systèmes de commercialisation et les éléments du réseau. Ceci permet aux
+clients de disposer de leur service en quelques minutes.
+L'une des applications vise à gérer le processus de portabilité d'un numéro, permettant aux
+clients  mobiles  de  changer  d'opérateur  sans  changer  de  numéro  de  téléphone.  Cette
+application s'appuie sur un progiciel de gestion de workflows, W4.
+La première phase de votre stage vous permettra de vous familiariser à l'environnement projet :
+- présentation de l'application et de son contexte au sein du système d'information client
+- formation aux outils du projet
+- développements d'outils spécifiques au projet
+Vous serez amené(e) ensuite  à  participer  aux  développements d'évolution et  à rédiger  des
+spécifications  fonctionnelles.  Vous  serez  accompagné(e)  d'un(e)  encadrant(e)  lors  de  vos
+développements  (revue  de  code,  support  technique,  conseil)  et  de  votre  participation  aux
+phases fonctionnelles.
+Vous utiliserez les méthodologies de projet, les techniques d'industrialisation de la production
+ainsi que le système qualité de Sopra.
+Intérêt du stage
+- acquérir une première expérience dans un projet d'outsourcing applicatif
+- renforcer ses compétences techniques
+- participer à la définition de solution basée sur des besoins client
+- intégrer une équipe projet
+Environnement technologique/fonctionnel
+W4, Java/J2EE, Oracle / SQL & PL/SQL, Webservices, MQ Series
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de
+Projet qui assurera un suivi détaillé de votre activité dans le cadre des procédures appliquées
+sur les projets clients.
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                            2  informatique,  vous  avez  des
+connaissances en programmation Java. Vous faites preuve de bonnes capacités d'analyse et
+d'intérêt pour la définition de solutions.
+Vous disposez également d'une aptitude aux métiers de service. La maîtrise de l'anglais sera
+appréciée.
+Réf. du sujet : TELCO/RENN/STAGE/734
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Gestion d'un puits de données à destination des réquisitions
+judiciaires d'un opérateur Telecom H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                    700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Au sein du système d'information d'un opérateur Telecom, les systèmes de collectes récupèrent
+les tickets d'appels  (voix, données...) issus du réseau, et les distribuent vers des systèmes
+avals chargés de la facturation, la détection de la fraude, la fourniture d'informations pour les
+systèmes marketing...
+Vous intégrerez une équipe en charge d'assurer l'évolution et la disponibilité d'une application
+gérant le « puits de données » de l'ensemble des appels téléphoniques d'un opérateur.
+Rattaché(e) au site de Rennes, vous appréhenderez les différentes activités du projet dans un
+contexte technologique varié et innovant.
+Vous participerez aux différentes phases du projet :
+- prise de connaissance de l'application
+- études et conception
+- développement / réalisation
+- qualification et intégration
+- déploiement et installation en environnement de production
+Vous utiliserez les méthodologies de développement ainsi que le système qualité de Sopra.
+Intérêt du stage
+- travailler en équipe
+- découvrir un Environnement technologique/fonctionnel complexe et varié
+- contribuer aux différentes activités d'un projet
+- appréhender un environnement de production à forte contrainte de disponibilité et scalabilité
+Environnement technologique/fonctionnel
+Technologies Teradata, ETL Datastage, WebServices, JBoss, Shell Unix
+Environnement humain
+Sous la responsabilité d'un Chef de Projet, vous serez intégré(e) à une équipe Sopra qui vous
+accompagnera dans votre montée en compétences.
+Profil recherché
+En dernière année d'Ingénieurs ou en Master 2 informatique, vous avez une première approche
+des  bases  de  données.  Vous  êtes  curieux(se)  et  montrez  un  réel  intérêt  pour  l'innovation
+technologique. Vous êtes doté(e) d'un esprit d'équipe et de service.
+Réf. du sujet : TELCO/RENN/STAGE/735
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage                                                                                                -  Développement  d'un  outil                   (Java/Flex)  d'avant-vente  de
+                                                                                                     solution Telecom avec la méthode SCRUM H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                 700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Au sein du système d'information d'un opérateur Telecom majeur, le projet gère une application
+commerciale B to C lors des phases d'avant-vente et de vente d'offres de réseaux destinées
+aux entreprises.
+Rattaché(e) au site de Rennes, vous participerez aux différentes phases du cycle de vie du
+projet en appliquant la méthode Scrum :
+- animation du projet par le Scrum Master
+- réalisation des travaux au cours de Sprints
+- échanges réguliers avec le client au cours des journées Agiles
+Vous participerez également au suivi opérationnel du projet en appliquant la méthode Kanban :
+- supervision des environnements de production
+- prise en compte d'évolutions mineures
+- correction d'anomalies de production
+Après  une  formation  initiale  sur  le  fonctionnel  de  l'application,  vous  contribuerez  au
+développement des évolutions applicatives.
+Intérêt du stage
+- pratiquer une méthodologie projet Agile avec Scrum et Kanban
+- appréhender des environnements techniques variés et innovants
+- renforcer les compétences techniques Java/Flex
+- acquérir une première expérience du travail en équipe
+- développer le sens de la communication
+Environnement technologique/fonctionnel
+Intégration Continue, Java JEE (Spring / Hibernate), FLEX (Flex Builder), Oracle
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Scrum
+Master qui assurera un suivi détaillé de l'activité. L'environnement permet une grande diversité
+des activités à réaliser ainsi qu'une forte proximité client.
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                           2  informatique,  vous  avez  des
+connaissances en programmation objet et bases de données Oracle. Vous avez la capacité à
+acquérir  rapidement  de  nouvelles  connaissances  techniques  et  fonctionnelles.  Vous  êtes
+curieux (se) et avez un bon relationnel, l'esprit de synthèse et d'analyse.Vous adhérez à l'idée
+que le développement de la société s'appuie sur la veille technologique et l'esprit d'innovation
+des collaborateurs/trices.
+Réf. du sujet : TELCO/RENN/STAGE/737
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Évolution du système de réservation d'espaces publicitaires
+pour un acteur des medias H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                      700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Au sein du système d'information d'un acteur majeur de l'audiovisuel, le domaine de la publicité
+est clé. Les recettes publicitaires contribuent à plus de 60% au chiffre d'affaires.
+Le  cœur  de  métier  de  notre  client  est  la  commercialisation  des  espaces  publicitaires  des
+chaines TV du Groupe audiovisuel, mais également des espaces publicitaires des nouveaux
+médias (internet, mobile...).
+L'équipe que vous rejoindrez gère plus de  45 applications représentant le coeur du système
+informatique (SI) du client.
+Le SI devant être performant, robuste et évolutif.
+Vous appréhenderez les différentes activités liées à l'évolution du système.
+- études et conception
+- développement et réalisation
+- qualification et intégration
+- déploiement
+Après  une  formation  fonctionnelle  et  technique,  vous  participerez  à  l'activité  productive  du
+projet.
+Vous utiliserez les méthodologies de développement ainsi que le système qualité de Sopra.
+Intérêt du stage
+- renforcer ou développer des compétences techniques .Net
+- acquérir des compétences fonctionnelles dans le domaine des medias
+- appréhender les processus de production mis en oeuvre sur les projets Sopra
+- intégrer une équipe et travailler en méthodologie projet Agile/Cycle en V (selon les projets)
+Environnement technologique/fonctionnel
+Technologies Microsoft .NET, WPF
+Base de données SQL server
+Environnement humain
+Intégré(e)  dans  une  équipe  opérationnelle  à  taille  humaine                                         (10  personnes),  vous  serez
+encadré(e) par un Chef de Projet qui assurera un suivi détaillé de votre activité.
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                                2  informatique,  vous  avez  des
+connaissances  en  programmation  .Net.  Vous  êtes  curieux  (se)  et  avez  un  bon  relationnel,
+l'esprit de synthèse et d'analyse. Vous avez la capacité à appréhender de nouveaux concepts
+et des processus métiers.
+Réf. du sujet : TELCO/RENN/STAGE/738
+
+
+
+
+TELECOM & MEDIA
+RENNES
+Stage - Développement d’une application de gestion de processus
+au cœur de la chaîne de production de réseaux d’entreprise d’un
+acteur Telecom avec la méthode SCRUM H/F
+Notre entité Telecom & Media, leader sur son marché par son savoir-faire, vous accueille sur
+l'un de ses quatre sites en France : Paris, Rennes, Nantes ou Orléans. Nous accompagnons
+nos clients dans l'évolution et la transformation de leurs Systèmes d'Information, du conseil à la
+réalisation  de  projets  innovants.  Rejoignez  nos                                                            700  collaborateurs  et  intervenez  sur  des
+domaines fonctionnels variés  : portails, applications mobiles, CRM, chaîne de valeur, BI/Big
+Data, OSS, Broadcasting, etc.
+Mission
+Le projet sur lequel vous interviendrez vise à développer une nouvelle application remplaçant
+plusieurs applications de la chaîne actuelle de production de réseaux d'entreprise du système
+d'information d'un opérateur télécom majeur.
+Au cours des premières semaines de votre stage, vous serez amené(e) à monter en compétences
+techniques sur le progiciel PEGA (pas de connaissances PEGA pré-requises) et découvrir les process
+en vigueur sur le projet via une participation active à toutes les séquences des sprints agiles.
+Rattaché(e) aux équipes développement et architecture du projet, vous contribuerez aux missions
+suivantes :
+- étudier les possibilités de mobilité du progiciel PEGA et de l'application développée (tablettes, email)
+- développer/améliorer les outils d'administration de l'application (portail administrateur, utilisateurs...)
+- industrialisation: test unitaires automatisés, déploiement automatisé, outillage des outils de
+configuration, optimiser le poste de développement (mise en place machine virtuelle)
+Dans une seconde partie du stage, vous participerez pleinement à l'activité quotidienne du projet aux
+différentes phases du cycle de vie du projet en appliquant la méthode Scrum.
+Tout au long du projet, vous aurez la visibilité sur l'ensemble du processus projet : pilotage projet,
+relations client, rédaction de proposition de réalisation, architecture, recevabilité et recette client...
+Vous utiliserez les méthodologies de développement, les techniques d'industrialisation ainsi que le
+système qualité du groupe.
+Intérêt du stage
+- découvrir un progiciel de Business Process Modeling : PEGA Pega Rules Process Commander
+- pratiquer une méthodologie projet Agile
+- acquérir des compétences fonctionnelles dans le domaine Télécom
+- appréhender les processus de production mis en œuvre sur les projets Sopra
+Environnement technique
+Environnement technique: .Progiciel PEGA PRPC, Oracle 11G
+Outils utilisés: SVN, Quality Center, Quick test pro, Jenkins, Soap UI
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de projet
+et l’architecte référent du programme qui assureront un suivi détaillé de votre activité.
+Connaissances requises
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation objet et bases de données Oracle.
+Vous avez la capacité à acquérir rapidement de nouvelles connaissances techniques et
+fonctionnelles. Vous êtes curieux (se) et avez un bon relationnel. Votre esprit de synthèse et d'analyse
+ainsi que votre rigueur vous permettront de mener à bien les missions qui vous seront confiées.
+Réf. du sujet : STAGE/TELCO/RENN/1171
+
+
+
+
+SECTEUR PUBLIC
+RENNES
+Stage  - Ingénieur intégration et tests dans le domaine de la Défense
+(H/F)
+Mobilité, Portail, TéléServices, SIG, RFID, Géodécisionnel, SAP, Oracle... sont les technologies
+employées au quotidien par les 800 collaborateurs de la Division Secteur Public dans le cadre
+de projets au forfait. Nos projets sont au cœur des enjeux du secteur public projetant plus de
+services rationalisés et innovants pour l'Etat et les citoyens : Télémédecine, Espace Numérique
+de Travail, refonte des systèmes opérationnels de commandement de la défense, Réseaux
+ubiquitaires  des  collectivités...  Rejoignez  la  Division  Secteur  Public  de  Sopra                          !  En  forte
+croissance, notre entité accompagne les fusions et les réformes des systèmes d'information des
+grands organismes du Secteur Public avec des savoir-faire métiers et techniques reconnus.
+Mission
+Dans le cadre d’un projet stratégique dans le domaine de la Défense, vous intégrerez une équipe
+d’ingénieurs  en  charge  de  l’intégration,  du  test  et  de  la  validation  de  logiciels  et  de  systèmes
+complexes.
+La démarche de tests à laquelle vous participerez s’inscrit dans une architecture complexe et couvre
+les  aspects  flux,  performances,  robustesse,  sécurité  et  complétude  par  rapport  aux  exigences  du
+client et aux besoins opérationnels dans le cadre des opérations militaires des différents milieux (Air,
+Terre, Mer, Inter-Armée) de la Défense.
+Intégré(e) au sein d’une équipe, vous participerez aux différentes phases d’un  projet d’intégration
+(analyse, conception, réalisation, qualification).
+Intérêt du stage
+-   travailler en équipe au sein d’un projet majeur en forte visibilité (>150 collaborateurs)
+-  acquérir  une  méthodologie  en  intégration  de  système,  gestion  d’exigences  et  production
+documentaire
+- renforcer les compétences techniques et testing avec l’utilisation d’un outillage industriel
+- découvrir le domaine de la Défense
+Environnement technologique/fonctionnel
+Système : Windows 2003, 2008, Unix/Linux
+Virtualisation (VMWare, HyperV)
+Réseaux et services système (SSO, NTP, authentification Kerberos, Exchange, …)
+Autres : Sharepoint, suite IBM JAZZ (DOORS, SA, RQM, RTC), svn
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un chef de projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou en Master 2 informatique, vous avez la capacité à acquérir
+rapidement de nouvelles connaissances techniques et fonctionnelles. Vous êtes curieux(se) et avez
+un bon relationnel, l’esprit de synthèse et d’analyse.
+Qualités requises : autonomie, rigueur, travail en équipe, communication, capacité d'adaptation.
+Réf. du sujet : SP/RENN/STAGE/679
+
+
+
+
+SECTEUR PUBLIC
+RENNES
+Stage - Ingénieur infra réseau & système (H/F)
+Mobilité, Portail, TéléServices, SIG, RFID, Géodécisionnel, SAP, Oracle... sont les technologies
+employées au quotidien par les 800 collaborateurs de la Division Secteur Public dans le cadre
+de projets au forfait. Nos projets sont au cœur des enjeux du secteur public projetant plus de
+services rationalisés et innovants pour l'Etat et les citoyens : Télémédecine, Espace Numérique
+de Travail, refonte des systèmes opérationnels de commandement de la défense, Réseaux
+ubiquitaires  des  collectivités...  Rejoignez  la  Division  Secteur  Public  de  Sopra                      !  En  forte
+croissance, notre entité accompagne les fusions et les réformes des systèmes d'information des
+grands organismes du Secteur Public avec des savoir-faire métiers et techniques reconnus.
+Mission
+Dans le cadre d’un nouveau projet stratégique dans le domaine de la Défense, vous intégrerez une
+équipe d’ingénieurs en charge de la gestion des plateformes et de l’infrastructure.
+Vous interviendrez sur des missions variées telles que :
+- l’administration de serveur Windows et Linux, VMWare
+- la gestion de réseau / IP
+- la sécurité : firewall, matrice de flux
+- la configuration switch et FW (Netasq, Arkoon)
+- le support technique niveaux 1 et 2
+- la connaissance d'un Datacenter : câblage / maintenance / supervision
+- la mise en œuvre de plateformes techniques
+- la gestion d’inventaire sur la plateforme
+Intérêt du stage
+- développer des compétences techniques réseau et système
+- appréhender un environnement technique varié et exigeant
+- travailler au sein d’un Datacenter
+- découvrir le domaine de la Défense
+Environnement technologique/fonctionnel
+Système : Windows 2003, 2008\2008 R2, Unix\Linux
+Virtualization : VMWare
+Réseaux  : configurations, commutateurs, firewalls, routeurs, câblages, connectiques, TCP/IP, LAN,
+DHCP, DNS, FTP
+Autres : Exchange, Sharepoint, Baie de stockage
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle (8 personnes), vous serez encadré (e) par un
+ingénieur  qui  vous  pilotera  dans  vos  activités.  L’environnement  permet  une  grande  diversité  des
+activités à réaliser et un cadre idéal pour progresser techniquement sur les parties système et réseau.
+Profil recherché
+En dernière année d'école d'ingénieurs ou Master  2 informatique, vous avez la capacité à acquérir
+rapidement de nouvelles connaissances techniques et fonctionnelles. Vous êtes curieux(se) et avez
+un bon relationnel, l’esprit de synthèse et d’analyse.
+Qualités requises : autonomie, rigueur, travail en équipe, communication, capacité d'adaptation
+Réf. du sujet : SP/RENN/STAGE/680
+
+
+
+
+SECTEUR PUBLIC
+RENNES
+Stage -   Évolutions de systèmes applicatifs pour le secteur de la défense
+et découverte des activités projet d’un programme d’envergure
+Mobilité, Portail, TéléServices, SIG, RFID, Géodécisionnel, SAP, Oracle... sont les technologies
+employées au quotidien par les 800 collaborateurs de la Division Secteur Public dans le cadre
+de projets au forfait.
+Nos projets sont au cœur des enjeux du secteur public projetant plus de services rationalisés et
+innovants pour l'État et les citoyens : Télémédecine, Espace Numérique de Travail, refonte des
+systèmes   opérationnels   de   commandement   de   la   défense,   réseaux   ubiquitaires   des
+collectivités...
+En  forte  croissance,  notre  entité  accompagne  les  fusions  et  les  réformes  des  systèmes
+d'information  des  grands  organismes  du  Secteur  Public  avec  des  savoir-faire  métiers  et
+techniques reconnus.
+Mission
+Dans le cadre d’un projet stratégique dans le domaine de la Défense, vous intégrerez une équipe
+d’ingénieurs en charge de la spécification, de la réalisation et de la validation de composants logiciels
+complexes dans un environnement technique varié.
+La  première  phase  de  votre  stage  vous  permettra  de  vous  familiariser  avec  l’environnement
+technologique et fonctionnel:
+- présentation de l’application et de son contexte au sein du système d’information client
+- formation aux outils spécifiques du projet
+Puis, vous serez amené(e) à participer aux développements de modules spécifiques en tant qu’un
+acteur à part entière de l’équipe projet. Lors de cette étape, vous serez accompagné(e) pour vos
+premiers développements (revue de code, support technique, conseil) par votre tuteur ainsi que par
+l’équipe projet.
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production ainsi que le système qualité de Sopra.
+Intérêt du stage
+- découvrir le domaine de la Défense
+-  acquérir  une  première  expérience  du  travail  en  équipe  dans  un  environnement  multi-sites
+(Rennes/Paris) au sein d’un projet majeur en forte visibilité (>150 collaborateurs)
+- appréhender les processus de production mis en œuvre sur les projets
+-  renforcer  vos  compétences  fonctionnelles  et  techniques  avec  l’utilisation  d’un  outillage  industriel
+adapté à nos métiers
+Environnement technologique/fonctionnel
+Système : Windows 7, Debian 6, Windows Server 2008 R2
+Technologies : Java, C#, SCCM, Postgre SQL, XML (Web services, XSLT, SOAP, REST,…)
+Réseaux et services système (authentification Kerberos, Exchange, …)
+Autres : Sharepoint, suite IBM JAZZ (DOORS, SA, RQM, RTC), SVN
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un chef de projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou en Master 2 informatique, vous avez des connaissances en
+programmation  objet  Vous  avez  la  capacité  à  acquérir  rapidement  de  nouvelles  connaissances
+techniques et fonctionnelles. Vous êtes curieux(se) et avez un bon relationnel, l’esprit de synthèse et
+d’analyse.  Qualités  requises                                                                                     :  autonomie,  rigueur,  travail  en  équipe,  communication,  capacité
+d'adaptation.
+Réf. du sujet : SP/RENN/STAGE/682
+
+
+
+
+SECTEUR PUBLIC
+RENNES
+Stage - Ingénieur MCO et support (H/F)
+Mobilité, Portail, TéléServices, SIG, RFID, Géodécisionnel, SAP, Oracle... sont les technologies
+employées au quotidien par les 800 collaborateurs de la Division Secteur Public dans le cadre
+de projets au forfait.
+Nos projets sont au cœur des enjeux du secteur public projetant plus de services rationalisés et
+innovants pour l'État et les citoyens : Télémédecine, Espace Numérique de Travail, refonte des
+systèmes   opérationnels   de   commandement   de   la   défense,   réseaux   ubiquitaires   des
+collectivités...
+En  forte  croissance,  notre  entité  accompagne  les  fusions  et  les  réformes  des  systèmes
+d'information  des  grands  organismes  du  Secteur  Public  avec  des  savoir-faire  métiers  et
+techniques reconnus.
+Mission
+Dans le cadre d’un projet stratégique dans le domaine de la Défense, vous intégrerez une équipe
+d’ingénieurs en charge du maintien en conditions opérationnelles (MCO) de logiciels et de systèmes
+complexes.
+La mission porte sur les aspects suivants :
+- support technique aux utilisateurs
+- analyse et reproduction de faits techniques émis par le client
+- participation à la définition de solutions correctives ou de contournement
+- suivi des corrections
+- validation et livraison des correctifs
+Intérêt du stage
+- découvrir le domaine de la Défense
+- travailler dans une équipe à taille humaine
+- appréhender un processus de travail industrialisé
+- avoir des relations avec le client et pouvoir comprendre ses besoins et enjeux
+-  renforcer  les  compétences  fonctionnelles  et  techniques  avec  l’utilisation  d’un  outillage  industriel
+adapté à nos métiers
+Environnement technologique/fonctionnel
+Système : Windows 2003, 2008, Unix/Linux
+Virtualisation (VMWare, HyperV)
+Réseaux et services système (SSO, NTP, authentification Kerberos, Exchange, …)
+Autres : Sharepoint, suite IBM JAZZ (DOORS, SA, RQM, RTC), svn
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un chef de projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou en Master 2 informatique, vous avez la capacité à acquérir
+rapidement de nouvelles connaissances techniques et fonctionnelles. Vous êtes curieux(se) et avez
+un bon relationnel, l’esprit de synthèse et d’analyse.
+Qualités requises : autonomie, rigueur, travail en équipe, communication, capacité d'adaptation.
+Réf. du sujet : SP/RENN/STAGE/683
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿PredicSis
+Stage en Informatique
+Etude comparative d’outils d’intégration de données en environnement
+BigData
+PredicSis est une start-up issue d’Orange, en fort développement d’environ quinze
+ingénieurs créée en juillet 2013. Elle fournit des services de Predictive Analytics en
+environnement Big Data. Nos clients sont la distribution, l'e-commerce et les banques-
+assurances.
+Predicsis recherche des étudiants motivés, agiles, technophiles et passionnés par la
+découverte de ces technologies. Leur mission sera de soutenir nos efforts au sein de son
+équipe R&D. Le stage peut être prolongé par un contrat de travail.
+Sujet et objectif du stage :
+Ce stage porte sur l’étude de deux technologies alternatives d’intégration de données,
+Talend et Kettle (Pentaho), sous l’angle de leur couplage avec les solutions d’analyse
+prédictive en environnement BigData proposées par predicsis.
+Ces deux solutions optent chacune pour une stratégie différente quant à leur déploiement,
+l’une basée sur la génération de code, l’autre sur l’interprétation de scripts. L’objectif est ici
+d’étudier les possibilités respectives de ces options.
+Les différentes étapes du stage porteront sur :
+   La familiarisation avec les technologies Talend et Kettle
+   La mise en œuvre pour chaque technologie d’un même cas d’usage, intégrant la
+connexion en amont et en aval avec les traitements d’analyse prédictive proposés
+par PredicSis
+   L’analyse comparative de ces mises en œuvre, du point de vue des performances
+mais aussi du point de vue de leurs possibilités d’intégration
+Environnement technique :
+Les technologies principalement utilisées seront : Java, Hadoop, Talend, Kettle
+Lieu du stage : Lannion
+Durée du stage : 6 mois
+Indemnité : 1000                                                                                     € par mois
+Personne à contacter :
+Laurent Cogné, lco@predicsis.com
+Jean-Louis Fuccellaro, jlf@predicsis.com
+PREDICSIS S.A.S.
+Société par Actions Simplifiée au capital de 70 000 euros
+Siège social : 4 rue Ampère, 22300 Lannion
+RCS SAINT BRIEUC 794 365 098
+
+
+
+
+

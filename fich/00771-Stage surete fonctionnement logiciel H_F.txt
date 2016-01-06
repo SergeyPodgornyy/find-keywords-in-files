@@ -1,0 +1,42 @@
+﻿Stage  sûreté  fonctionnement  logiciel  H/F
+Valeo
+REFERENCE  :  CRE2RHSURETE
+POUR  POSTULER  :  offre4951567.1536@valeo.contactrh.com sous la référence
+CRE2RHSURETE
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Créteil 94046, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Février
+DUREE  :  6 mois
+SECTEUR  :  Industries (Auto-Moto-Cycles)
+FONCTION  :  Etudes - Recherche (Chef de Projet/Ingénierie)
+SOCIETE  :
+Valeo est un Groupe indépendant entièrement focalisé sur la conception, la fabrication et la vente de
+composants, de systèmes intégrés et de modules pour l’industrie automobile, principalement pour la
+réduction des émissions de CO2. Valeo compte parmi les premiers équipementiers mondiaux.
+Présent dans 29 pays, à travers 125 sites de production, 21 centres de Recherche, 40 centres de
+Développement et 12 plates-formes de distribution, le Groupe emploie 72 600 collaborateurs.
+La Diversité (égalité Homme / Femme, handicap, seniors, nationalités, etc.) est au coeur de la
+politique de recrutement de Valeo.
+DESCRIPTION  DU  POSTE  :
+Dans le cadre d'un projet sur des activités de mise en oeuvre des nouveaux standards ISO 26262 et à
+AUTOSAR, nous recherchons un stagiaire afin de réaliser des campagnes d'expériences par
+injection de fautes, afin de valider une solution basée sur une architecture AUTOSAR.
+Sujet de Stage :
+1. La mise en plan d'un plan de tests d'injection de fautes.
+2. La Réalisation de tests par injection de fautes par les techniques SWIFI et connexion Nexus
+3. Enrichissement de librairies de tests (langage PRACTICE et VECTOR CAPL)
+4. Application sur une plateforme AUTOSAR et la mise en place d'une méthodologie de
+vérification de la cohérence des résultats mesurés avec les comportements attendus.
+PROFIL  :
+Ecole d'ingénieur/Master 2 spécialisation en Informatique industrielle/ logiciel embarqué.Langage
+C/C++.Notions en tests et sûreté de fonctionnement.
+Anglais technique écrit/oral
+POUR  POSTULER  :  offre4951567.1536@valeo.contactrh.com sous la référence
+CRE2RHSURETE
+
+
+
+
+

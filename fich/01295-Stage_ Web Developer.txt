@@ -1,0 +1,56 @@
+﻿PARIS INCUBATEURS RECRUTE UN/UNE STAGE, WEB DEVELOPER EN STAGE DE 3 À 6 MOIS.
+Date : 05/03/2014
+Référence de l’offre : Développeur-5939309
+Domaine d’activité : Internet - E-commerce (Webplanner)
+Type de contrat : Stage
+Localisation : Paris 5ème 75005, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Storyplayr est une bibliothèque numérique d'albums jeunesse, qui donne à ses abonnés l'accès illimité à un
+catalogue d'e-books pour enfants de 3 à 8 ans.
+La mission de storyplay'r est de développer le goût de la lecture chez les jeunes enfants en utilisant la tablette
+comme support. Parce que l'album jeunesse n'est pas un livre comme les autres, mais un livre qui se raconte à
+voix haute, l'application storyplay'r permet notamment à l'utilisateur, enfant ou adulte, d'enregistrer sa voix pour
+devenir narrateur de l'histoire, puis de partager sa narration avec ses proches par internet.
+Pour constituer son catalogue, storyplay'r travaille avec les éditeurs jeunesse, et partage avec eux les revenus
+générés par les abonnés.
+Storyplayr est incubé au Labo de l'Edition, un incubateur initié par la Ville de Paris et porté par le « Laboratoire
+Paris Région Innovation », acteur de référence de l'innovation en Ile-de-France.
+Description du poste :
+Missions :
+Vous développerez de nouveaux modules et ferez évoluer la plateforme storyplayr composée :
+- de « players », applications web et mobiles permettant de feuilleter les albums, d'enregistrer sa voix et de
+partager les histoires,
+- d'un système de cloud gérant le partage des albums et des narrations,
+- d'un site web public,
+- d'un intranet de gestion du catalogue et de la base utilisateurs.
+Les technologies utilisées sont Javascript, Node.js, CouchDB (base NoSQL), ObjectiveC, HTML/CSS.
+Connaissances et compétences requises :
+Vous devez bien maitriser Javascript et être familiers avec HTML/CSS. Avoir pratiqué Node.js et/ou NoSql et/ou
+Objective C serait un plus indéniable.
+Vous devez aimer coder, ceoncevoir du code bien pensé et propre, être curieux, enthousiaste, à l'écoute et force
+de proposition.
+Vous serez encadré par le créateur de storyplayr, ingénieur en informatique ayant été développeur et architecte de
+systèmes d'informations pendant 15 ans et bénéficierez de son expérience en terme de conception et d'architecture
+logicielle.
+Profil recherché :
+Connaissances et compétences requises :
+Vous devez bien maitriser Javascript et être familiers avec HTML/CSS. Avoir pratiqué Node.js et/ou NoSql et/ou
+Objective C serait un plus indéniable.
+Vous devez aimer coder, ceoncevoir du code bien pensé et propre, être curieux, enthousiaste, à l'écoute et force
+de proposition.
+Vous serez encadré par le créateur de storyplayr, ingénieur en informatique ayant été développeur et architecte de
+systèmes d'informations pendant 15 ans et bénéficierez de son expérience en terme de conception et d'architecture
+
+
+
+
+logicielle.
+Pour postuler : http://parisincub.contactrh.com/jobs/1536/5939309
+
+
+
+
+

@@ -1,0 +1,31 @@
+﻿Nov’IT
+80 Avenue des Buttes de Coësmes
+Germanium, 35700 Rennes
+Contact: Paul Irolla
+p.irolla@uhuru-mobile.com
+Date : 29/08/2014
+Référence embauche : UM-GMA-01
+Site : https://www.uhuru-mobile.com/
+Uhuru mobile - Nov’IT
+Offre de CDD / Stage
+Dans le cadre des activités de R&D opérationnelles menées dans la société Nov’IT à Rennes, vous intégrerez
+la branche Android du projet Uhuru Mobile, anciennement DAVFI (Démonstrateurs d’Antivirus Français et
+Internationaux) au sein d’une équipe dont la mission est de concevoir et mettre en place un environnement
+Android sécurisé.
+Vous travaillerez plus précisément sur la gestion du serveur d’applications Uhuru Market. Les tâches qui vous
+seront confiées seront :
+•  L’étude et la validation d’applications selon des critères de confiance.
+•  Le déploiement et la mise à jour de markets clients.
+•  Le perfectionnement des outils et process mis à votre disposition.
+Une expérience des environnements GNU/Linux et Android et la connaissance d’un language de scripts
+(bash, ruby, perl ou python etc.) sont nécessaires.
+Durée : à définir suivant le type de contrat négocié (CDD / Stage)
+Lieu : Rennes
+Rémunération : suivant la qualification & les compétences
+Profil : de formation supérieure en informatique, vous êtes passionné(e) par les nouvelles technologies. Votre
+rigueur et votre motivation seront garantes de votre épanouissement au sein de notre société.
+
+
+
+
+

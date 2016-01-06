@@ -1,0 +1,60 @@
+﻿Dev
+Multiposting
+REFERENCE  :  Développeur Web
+POUR  POSTULER  :  gnougayrede@multiposting.fr sous la référence Développeur Web
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris 75009, France
+NIVEAU  D'ETUDES  :  Bac +3
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Dès que possible
+DUREE  :  de 6.0 à 8.0 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Internet - E-commerce (Webmaster / Webdesign)
+SOCIETE  :
+Créée en 2008 par deux jeunes entrepreneurs, Gautier Machelon et Stéphane Le Viet, Multiposting
+est une start-up française innovante devenue rapidement le leader européen des solutions
+technologiques dédiées au e-recrutement. En quelques années, l’entreprise a su s’imposer sur le
+marché du recrutement et gagner la confiance de 800 entreprises internationales dont 32 du CAC
+40.
+Depuis sa création, l’entreprise connaît une croissance entre 50 et 100% par an. Elle prévoit de
+dépasser les 10 millions d'euros en 2013. Cette hyper-croissance est accompagnée d’une politique
+active de recrutement : en 5 ans l’équipe est passée de 2 à 80 collaborateurs, dans ses bureaux
+parisiens (Paris 9).
+Située au cœur de Paris, l’entreprise accueille 80 collaborateurs (200 d’ici fin 2014 :)) au sein d’un
+cadre propice à l’épanouissement : des espaces ouverts, des fatboys, un jardin privatif idéal pour les
+afterworks, tout cela avec une âme de start up.
+https://www.facebook.com/media/set/?
+set=a.10152948837125300.1073741825.210149590299&type=3
+DESCRIPTION  DU  POSTE  :
+Au sein de notre équipe jeune et dynamique vous travaillerez en partenariat avec le directeur
+technique sur l’ensemble des développements techniques de Multiposting, au travers des missions
+suivantes :
+•Conception de l'interfaçage avec nos partenaires en relation avec leur équipe technique,
+implémentation puis suivi du fonctionnement,
+•Déploiement du module Multiposting au sein des outils RH de nos clients.
+•Développement d'un frontend riche et dynamique, basé sur l'utilisation du framework PHP
+Symfony en interaction avec la librairie jQuery,
+•Développement de fonctionnalités backend, exploitant la composante « modèle objet » de
+Symfony.
+
+
+
+
+Ces missions vous amèneront à maîtriser un large éventail des technologies du web d’aujourd’hui
+(Web services, Framework MVC, etc.), et à prendre en charge de manière autonome la gestion de
+nouveaux développements.
+PROFIL  :
+*Ecole d’ingénieur - Ecole d'informatique ou équivalent universitaire, de bac+3 à bac+5,
+*Une première expérience réussie en tant que Développeur Web, dans un cadre pro et/ou personnel,
+*Des compétences solides en programmation orientée web et maîtrise de PHP/MySQL (Ajax,
+Javascript un plus),
+*Une connaissance de l’environnement Linux ainsi que la maîtrise du Framework Symfony serait
+un plus.
+Disponibilité : Dès que possible pour une durée de 6 mois minimum. Rémunération attractive.
+Contactez-nous : gnougayrede@multiposting.fr Possibilité de CDI à la suite du stage.
+POUR  POSTULER  :  gnougayrede@multiposting.fr sous la référence Développeur Web
+
+
+
+
+

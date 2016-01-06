@@ -1,0 +1,48 @@
+﻿LEADERS LEAGUE RECRUTE UN/UNE WEB DEVELOPER (H/F) EN STAGE DE 4 À 6 MOIS.
+Date : 01/06/2015
+Référence de l’offre : Web Developer-9600832
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Paris 75116, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Leaders League est un groupe de média spécialisé dans la presse, l'audit et le référencement des conseils ainsi
+que l'organisation de sommets pour les dirigeants.
+Description du poste :
+Leaders League, groupe de médias spécialisé dans la presse, les études de marché et l'organisation de
+sommets internationaux, recherche pour son développement :
+Développeur Front JS (H/F) en Stage longue durée, basé à Paris.
+Missions :
+Rattaché au pôle Web, vous participez à des projets R ambitieux dans le domaine du Web (Web Sémantique,
+Task runner, Amazon AWS, etc…)
+Passionné par le web et dynamique, vous travaillerez au sein d'une équipe jeune et ambitieuse dans un cadre
+chaleureux (cafétéria, salle de sport, Lounge etc…)
+Vous serez en charge de la partie Frontend de nos produits (sites internet, backoffice et intranet)
+Vous dialoguerez avec les développeurs Backend mais aussi tous les autres pôles  (Studio, Marketing,
+Rédaction) pour intégrer les API mais aussi pour proposer d'autres solutions  (nodeJS, interfaces riches,
+etc…)
+L'innovation est au coeur de nos choix d'outils et d'architectures, alors à vous de jouer !
+Mots clés:
+JS, POO, Angular, bower, CSS3, Gulp, Grunt, GIT, API, REST, Amazon AWS, Jenkins
+Profil recherché :
+Profil :
+Passionné par le développement d'applications web avancées, vous souhaitez développer vos compétences
+sur les sujets suivants :
+- développement JS orienté objet (Angular + REST)
+- CSS 3 et Responsive design (media queries, fontface, etc)
+- automatisation des tâches avec Gulp/Grunt (bower, sass, minify, etc)
+- intégration continue (jenkins)
+- dépôts GIT (feature branch et Pull Request)
+- machines virtuelles et cloud (procmox, amazon AWS, etc)
+Rémunération : selon profil
+Disponibilité : ASAP
+Merci   d'adresser   votre   candidature   à                                                                      :   Aurélie   Blanchet,   Responsable   Ressources   Humaines,
+recrutement@leadersleague.com et Julien Rollin, Chef de projet Web, jrollin@leadersleague.com
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9600832
+
+
+
+
+

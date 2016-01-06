@@ -1,0 +1,32 @@
+﻿Stage Développement web
+Paris Incubateurs
+REFERENCE  :  Cibuldev
+POUR POSTULER  :  offre4868781.1536@parisincub.contactrh.com sous la référence Cibuldev
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris 75020, France
+NIVEAU D'ETUDES  :  Bac +3
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 11/10/2013
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Internet - E-commerce (Webmaster / Webdesign)
+SOCIETE  :
+Cibul est une SARL proposant un service web destiné aux organisateurs et aux réseaux
+d'organisateurs d'événements visant à simplifier la gestion et la diffusion de leur information
+événementielle. Le site cibul.net est en ligne depuis mai 2011 et dispose d'une base de plus de
+50,000 événements gérés par plus de 1500 organisateurs.
+Cibul est incubé au Welcome City Lab de Paris Incubateur depuis septembre 2013.
+DESCRIPTION DU POSTE  :
+Le stagiaire devra contribuer au développement de la plateforme, en particulier la mise en place de
+nouvelles interfaces d'export et d'affichage des agendas, ainsi que la maintenance et l'évolution du
+site existant.
+Les technologies utilisées seront les suivantes: php (symfony 1), javascript (frontend & nodejs),
+redis, mysql, git.
+PROFIL  :
+Une 1e expérience dans les langages cités est fortement conseillée.
+POUR POSTULER  :  offre4868781.1536@parisincub.contactrh.com sous la référence Cibuldev
+
+
+
+
+

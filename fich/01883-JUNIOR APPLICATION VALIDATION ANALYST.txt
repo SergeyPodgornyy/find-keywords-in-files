@@ -1,0 +1,61 @@
+﻿UBIFRANCE IS HIRING A JUNIOR APPLICATION VALIDATION ANALYST FOR VOLUNTEER
+FOR INTERNATIONAL EXPERIENCE FROM 12 TO 24 MONTHS.
+Date : 01/02/2015
+Job reference : 69780-8064440
+Function : Information systems / Telecom (Development Engineer)
+Type of contract : Volunteer for International Experience
+Localisation : BRUXELLES 00000, FR
+Contract duration : From 12 to 24 months
+Level of studies : Bachelor's Degree
+Years of experience :
+Company description :
+Le Volontariat International en Entreprise (VIE) est régi par la loi n° 2000-242 du 14 mars 2000 relative aux
+volontariats civils. Il s'adresse aux jeunes de nationalité française ou ressortissants des Etats Membres de
+l'Espace Economique Européen âgés de 18 à 28 ans.
+Job description :
+Poste et missions:
+You execute validation of computerized systems for Baxter R European sites, to ensure accuracy of data
+generated  by  critical  Science  Engineering  data  systems,  including  those  used  for  product  registration
+submission.
+You develop foundational understanding of the relationship between business processes and IT systems
+usage.
+- You utilize basic awareness of business rules and concepts, assist in moderately complex projects to
+determine systems requirements and identify alternative solutions.
+- You develop understanding of System Development Life Cycle (SDLC) principles and applies them to
+perform routine software applications analysis project activities.
+- You build knowledge of documentation and testing requirements.
+- You are able to develop software applications documentation according to predefined requirements. You
+are capable of defining basic technical testing scenarios.
+- You demonstrate understanding of the fundamental concepts of software testing and how they apply to the
+SDLC process.
+- You are able to apply basic testing techniques to SDLC projects, including regression testing.
+- You drafts and revise test plans and script to test system according to business and security requirements.
+- You demonstrate the ability to properly document software testing results according to defined procedures
+and documentation requirements.
+- You write and maintain IT procedures to sustain the IT operations, as needed.
+- You work on improvement initiatives as needed.
+-  You  develop  understanding  of  Baxter's  outsourcing  strategy,  as  well  as  service/quality  goals  and
+performance  parameters.  You  build  knowledge  of  how  Baxter  policies  impact  vendor  compliance
+requirements
+Required profile :
+Profil:
+- You have a Bachelor in IT
+- You have good understanding of scientific business and data requirements
+- You are able to challenge probe
+- You have good self-organizational skills and good communication skills
+- You have strong interpersonal skills and demonstrated ability to work in team environment
+- You are fluent in English, written and spoken. French is an asset.
+- You have knowledge in validation  (GAMP, CSV…), Quality systems knowledge and Knowledge of
+Pharmaceutical Regulations are assets.
+
+
+
+
+nb: It is possible for the candidate to live in brussels and work in Braine L'alleud, like most of the employees
+do.
+To apply : http://apply.multiposting.fr/jobs/1536/8064440
+
+
+
+
+

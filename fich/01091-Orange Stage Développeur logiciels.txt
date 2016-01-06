@@ -1,0 +1,73 @@
+﻿Stage  ­  Développeur  Logiciels  sur  la  synchronisation  des  composantes  audio­vidéo  d’Orange  TV  (f/h)
+ref  :  0007172  |  19  déc.  2013
+4 rue  du  clos  Courtel  35510  CESSON  SEVIGNE  ­  France
+sociétéOrange
+en  savoir  plus  sur  nos   étapes  de  recrutement
+entité
+Au  service  de  231  millions  de  clients  sur  les  cinq  continents,  Orange  est  l'un  des  principaux  opérateurs  de
+télécommunications  au  monde.  C'est  aujourd'hui  un  opérateur  intégré,  fixe,  mobile,  internet  et  télévision.
+La  recherche  et  l'innovation  du  Groupe  sont  portées  par  le  réseau  mondial  des  Orange  Labs  et  des  Technocentres.  Les  5000
+chercheurs,  ingénieurs,  concepteurs,  développeurs  sont  répartis  sur  4  continents  pour  être  au  plus  près  des  besoins  des  pays.
+L'activité  de  Recherche  et  de  Développement  est  l'une  des  sources  principales  de  l''innovation  d'Orange  qui,  avec  près  de  7500
+brevets  à  son  actif  à  fin  2012,  contribue  à  développer  la  nouvelle  génération  de  services  de  communication  intégrés,  innovants
+et  simples  d'utilisation.
+L’unité  Protection  et  Transport  des  Contenus  (PTC)  d’Orange  Labs  participe  à  l’expertise  du  groupe  Orange  sur  la
+distribution  de  contenus  à  travers  tout  type  de  réseaux  (téléphone  mobile,  TV  sur  IP,  vidéo  à  la  demande).  Elle  participe  à  la
+conception  de  nouveaux  services  en  étroite  collaboration  avec  les  autres  entités  du  groupe.  En  parallèle,  elle  est  impliquée
+dans  la  communauté  scientifique  internationale  et  dans  les  groupes  de  normalisation.
+Sous  la  responsabilité  d’un  ingénieur  expert  en  architecture  des  têtes  de  réseau  IPTV  d’Orange,  vous  serez  intégré  au  sein
+d’une  équipe  pluri  disciplinaire  chargée  d’anticiper  les  nouveaux  services  audiovisuels.  Vous  serez  chargé  de  la  réalisation
+d’une  maquette  logicielle  démontrant  un  service  TV  multilingue  tirant  partie  de  la  complémentarité  du  grand  écran  TV  et  du
+terminal  mobile  personnel  (tablette/smartphone).
+votre  rôle
+Les  services  TV  et  VOD  proposés  par  l’opérateur  IPTV  utilisent  encore  majoritairement  un  décodeur  (la  Set  Top  Box  ou
+STB),  mais  de  plus  en  plus  le  terminal  mobile  personnel  propose  des  fonctions  complémentaires.
+On  s’intéresse  ici  à  un  service  hybride  qui  s’appuie  sur  la  STB  et  le  grand  écran  du  salon  pour  l’affichage  de  la  vidéo  avec  la
+possibilité  de  choisir  sa  langue  de  façon  personnalisée  sur  son  mobile.  Pour  ce  faire,  chacune  des  composantes  audio  et  vidéo
+doit  être  dotée  d’éléments  de  synchronisation  cohérents  interprétés  par  chaque  terminal  pour  restituer  audio  et  vidéo  avec  une
+synchronisation  labiale  très  précise  (ordre  de  la  centaine  de  msec.).
+
+
+
+
+Accompagné  par  votre  tuteur,  Ingénieur  expert  en  tv  numérique,  vous  monterez  progressivement  en  compétence  et  gagnerez
+en  autonomie  sur  les  missions  suivantes  :
+­ vous  prendrez  connaissance  de  l’état  de  la  normalisation  en  cours,  européenne  et  mondiale,  en  particulier  à  DVB  (digital
+vidéo  broadcasting)  et  MPEG
+­ vous  serez  amené  à  développer  du  logiciel  pour  faire  évoluer  les  outils  existants  au  laboratoire  :  générateur  de  flux  TV
+MPEG­2  TS  et  de  fichiers  MPEG  ISO  BMFF,  streaming  sur  internet  et  players  sur  PC  (VLC)  et  mobiles
+­ vous  ferez  l’intégration  de  ces  éléments  dans  une  maquette  qui  permettra  d’illustrer  le  service  en  vraie  grandeur  sur  l’écran
+TV  et  le  mobile
+­ vous  démontrerez  que  les  objectifs  sont  atteints  en  élaborant  les  méthodes  de  mesure  et  de  test  pertinents
+votre  profil
+Formation  souhaitée:
+­vous  êtes  en  dernière  année  de  formation  d’ingénieur  de  niveau  Bac  +5  dans  le  domaine  de  l’informatique  des  réseaux
+­vous  avez  impérativement  de  bonnes  connaissances  en  audiovisuel
+Stage  conventionné  de  6  mois  à  temps  plein,  à  pourvoir  pour  Février/Mars  2014
+­vous  disposez  de  bonnes  compétences  en  développement  C/C++  sur  Windows  et  d’une  pratique  du  Java.  La  pratique
+d’Androïd  sera  appréciée
+­votre  connaissez  les  bases  du  codage  vidéo  et  audio
+­vous  connaissez  les  protocoles  TV  sur  réseaux  IP  (MPEG­2  système,  http  streaming,  multicast/  unicast)  et  avez  la
+connaissance  du  format  de  fichier  ISOBMFF
+­vous  maitrisez  l’anglais  technique,  en  priorité  lecture
+­vous  aimez  le  travail  en  équipe
+Intéressé(e)  par  ce  poste?  N'hésitez  pas  à  postuler  en  ligne!
+Merci  de  préciser  dans  votre  lettre  de  motivation  :
+­ l’école/université  dans  laquelle  vous  êtes  inscrit,
+­ l’intitulé  exact  de  votre  formation
+­ vos  dates  de  disponibilités
+le  plus  de  l'offre
+Vous  serez  intégré  dans  une  équipe  d’ingénieurs  techniques  disposant  d’une  solide  expérience  dans  le  domaine  du  codage  et
+du  transport  des  services  de  télévision  numérique  sur  les  réseaux  télécom  fixes  et  mobiles.
+Il  s’agira  d’explorer  les  services  audiovisuels  qui  font  appel  à  la  complémentarité  des  réseaux  et  des  terminaux  et  dont  la  mise
+en  œuvre  requiert  une  expertise  pointue  des  dernières  normes  en  vigueur  ou  en  cours  de  définition.
+contrat
+Stage  de  fin  d'études
+Pour  postuler  :
+http://orange.jobs/jobs/offer.do?
+joid=36796&lang=fr&wmode=light&board_name=Verifdiploma
+
+
+
+
+

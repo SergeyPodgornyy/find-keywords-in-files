@@ -1,0 +1,46 @@
+﻿Stage Intégration DevOps H/F
+CLOUDWATT
+REFERENCE  :  Singdv
+POUR POSTULER  :  http://cloudwatt.contactrh.com/jobs/1536/4592026
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Boulogne 92100, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 6 à 12 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Cloudwatt est un nouvel acteur français qui propose des infrastructures de Cloud Computing (IaaS),
+permettant à la France et à l'Europe de se positionner sur un marché en pleine croissance. Cloudwatt
+a pour objectif d'offrir à chaque entreprise, ainsi qu'au secteur public, une haute capacité de
+stockage et de puissance en mode cloud sécurisé.
+DESCRIPTION DU POSTE  :
+Au sein de notre Direction des Opérations, nous recherchons un :
+Stagiaire - Intégration DevOps- H/F
+Stage de 6 mois minimum basé à Boulogne (92)
+Début : janvier 2014
+Votre mission
+Nous vous proposons une mission de stage formatrice et enrichissante au cœur de notre équipe
+Opérations. Rattaché(e) au Responsable de l’intégration et en relation avec la Direction des
+Développements, vos missions seront les suivantes :
+- Développer les outils de l’usine d’intégration continue autour de la suite Git-Jenkins-Sonar,
+- Développer les tests d’intégration et de performance Ruby, JMeter,
+- Intégrer le code des Développeurs PHP, Java, Ruby.
+Motivé(e) pour participer à une aventure ambitieuse et contribuer au développement d’une structure
+en pleine création, votre potentiel et votre personnalité feront la différence.
+PROFIL  :
+- Formation Bac +5 minimum
+- Fan de développement open source
+
+
+
+
+- Ruby, Python et Linux.
+Vous souhaitez intégrer une équipe d’intégration DevOps et découvrir le marché du Cloud.
+POUR POSTULER  :  http://cloudwatt.contactrh.com/jobs/1536/4592026
+
+
+
+
+

@@ -1,0 +1,74 @@
+﻿Stage  PRM  Moteurs  de  règles  métier  H/F
+Atos  Technology  Services
+REFERENCE  :  154521
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078331
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Nice 6000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier,  des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie.  Atos est présent dans 47 pays, compte 77 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et
+l’évolution de leurs systèmes d’information. Plus de 3 000 experts de proximité accompagnent nos
+clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions
+de leurs marchés.
+DESCRIPTION  DU  POSTE  :
+Mission
+Dans cette proposition nous adressons les systèmes d’informations à forte valeur métier dans un
+contexte de développement par cycles itératifs et incrémentaux. Dans ce cas la spécification de
+l’application est menée en simultané du développement. Nous constatons alors la difficulté de faire
+évoluer les développements avec la prise en compte des nouvelles spécifications. Les
+développements doivent alors (i) prendre en compte de nouvelles fonctionnalités (ii) modifier les
+fonctionnalités déjà réalisées et (iii) maintenir une version cohérente des notions métier.
+Dans ce contexte, nous avons mis en place une architecture (SOA) séparant l’implémentation des
+services  technique de la gestion des processus et des règles Métier. Notre objectif est alors de
+définir un composant sur étagère (COST) et une méthodologie associée, afin d’augmenter la qualité
+et le temps de développement des processus et règles métier.
+
+
+
+
+Le stage consiste, sur la base d’un premier prototypage, d’effectuer une intégration indépendante du
+métier d’un moteur de règles, d’un gestionnaire de processus et d’une IHM de visualisation de
+l’environnement métier en un outil indépendant du domaine métier possible.
+Travaux à réaliser :
+Prise en main de l’existant.Participer aux travaux de recherche et d’étude technique (R&D) sur le
+choix des solutionsRédiger un rapports/synthèses d’étude (Recommandations, …)Effectuer la
+conception et le développement de l’outil.
+Livrables attendus :
+Document de conception et de mise en œuvre, réalisation de l’outil.
+Technologie :
+Moteur de processus (Activiti), Moteur de règles (DROOLS), Serveur d’application (JBOSS)Linux,
+Eclipse, Git, JEE6 (CDI, EJB3.1, JSF2…), Jsefa, ESB (Fuse/ServiceMix), Jenckins, etc…
+Objectifs pédagogiques :
+Participation à un projet transverse.Mise en œuvre d’une méthode agile (scrum).Effectuer tous les
+étapes de développement logiciel (étude, conception, réalisation, tests,
+documentation…),Interaction avec la conception fonctionnelle,Intégration dans un projet de grande
+envergure.
+La concrétisation sur le terrain de vos connaissances techniques acquises durant votre formation
+initiale.
+Profil
+De Formation Bac+5 (Ecole d'ingénieur ou université) en cours de validation, vous recherchez un
+stage d'une durée de 4 à 6 mois (dates variables selon l'école) et avais une première expérience
+(stage ou projet d’étude) en développement JEE. Sensibilisé aux méthodologies Agile
+(Lean/Kanban),
+Vous êtes créatif(ve), avez le sens du travail en équipe et maîtrisez la langue anglaise.
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le
+désirez, dans toute autre région dans laquelle Atos recrute.
+PROFIL  :
+Le stage est localisé à Sophia-Antipolis.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078331
+
+
+
+
+

@@ -1,0 +1,76 @@
+﻿SOGETI HT - RÉGION SSE RECRUTE UN/UNE STAGE INGÉNIEUR INTÉGRATION ET DÉPLO EN
+STAGE 6 MOIS.
+Date : 31/10/2014
+Référence de l’offre : MU9-STA-IL-JJU--7927035
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+La Market Unit Software Engineering de Sogeti High Tech Toulouse recherche des stagiaires en Ingénierie
+PLM.
+Au sein de notre Skill de Compétences PLM (Product Lifecycle Management), nous accompagnons nos
+clients grands comptes industriels des secteurs de la Défense et de l'Aéronautique dans la transformation de
+leurs systèmes d'information lié à l'optimisation de la conception de produits complexes, via la mise en place
+de solutions innovantes, tant au travers de prestations dans le domaine fonctionnel  (analyse du besoin,
+conduite du changement, refonte de processus) que technique (développement de SI, migration de données,
+implémentation de solutions PLM ou ERP, etc...).
+Dans le cadre de votre stage, vous intervenez sur des missions de gestion de données techniques liées à la
+Conduite de projet d'implémentation ou mise à niveau d'application Product Lifecycle Management du
+marché (par exemple Teamcenter, PDMLink, Enovia, etc.).
+Plus précisément à la conception, le développement et l'intégration autour des outils PLM :
+* A la mise en place et installation de logiciel PLM, au paramétrage, et à la configuration
+* le recueil, la compréhension et l'analyse des besoins des utilisateurs,
+* la traduction de ces besoins en des spécifications fonctionnelles
+* A la définition des fonctions mises en place pour y répondre
+* A l'analyse d'impact des nouvelles fonctions PLM sur les méthodologies de travail
+* Analyse des processus d'utilisation et d'interfaçage avec les systèmes extérieurs.
+* A la refonte des méthodologies de travail en collaboration avec les métiers
+* A l'écriture des scénarios et use-cases avec les métiers
+* Au développement des nouvelles fonctionnalités,
+* Participer aux Tests (unitaires et fonctionnels) et support au déploiement
+* Au people change management : communication, conduite du changement, formations
+Sur des problématiques de :
+* Gestion documentaire
+
+
+
+
+* Outils CAO et méthodologies associées
+* Gestion de la maquette numérique
+* Gestion des changements au produit
+* Gestion de configurations du produit
+* méthodologie de réconciliation et cohérence EBOM/MBOM entre PLM / ERP
+* etc.
+Dans ce contexte les stagiaires pourront suivre des conseillers Sogeti High Tech en clientèle pour observer
+comment se déroule la collaboration entre les conseillers et les clients.
+Profil recherché :
+Etudiant(e) en dernière année d'Ecole d'Ingénieur ou en Université, vous préparez un diplôme Bac+4/5,
+cursus systèmes mécaniques, informatique, généraliste ou ingénieur d'affaire.
+Vous disposez idéalement de connaissances dans les Technologies de l'information pour la mécanique, le
+PLM, ou la CAO ou d'une bonne compréhension des concepts de développement de logiciels et des méthodes
+de customisation d'un PLM ou PDM (administration, paramétrage, développement).
+En complément de vos compétences techniques, vous devrez :
+* Avoir une bonne capacité d'analyse et de synthèse
+* Faire preuve d'initiative et d'autonomie
+Pour postuler : http://sogeti-high-tech.contactrh.com/jobs/1536/7927035
+
+
+
+
+

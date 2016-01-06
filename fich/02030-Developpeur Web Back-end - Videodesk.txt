@@ -1,0 +1,45 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR WEB BACK-END - VIDEODESK EN STAGE DE 5 À
+6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : devwebbackend-8305825
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75010, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +1
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION AUCUNE CANDIDATURE NE SERA TRAITEE EN DEHORS DU LIEN SUIVANT :
+http://www.ajstage.com/offre/Developpeur-Web-Back-End-chez-Videodesk
+Start'up innovante, Videodesk a développé pour les entreprises en ligne la première solution CRM Vidéo,
+solution unique intégrant à la fois le chat, l'audio, et surtout la vidéo, ce qui constitue une véritable révolution
+!
+Vous aurez l'opportunité d'évoluer dans un environnement start'up typique et dans une très bonne ambiance
+de travail, auprès de collaborateurs et fondateurs très expérimentés et de grande valeur.
+Ainsi, les deux fondateurs de Videodesk ne sont autres que Igor Schlumberger, qui a déjà fondé Le Guide,
+Prestashop ou encore Videomark  (agence de création vidéo) et Olivier Coste, créateur d'Alcatel-Lucent
+Mobile Broadcast et spécialiste des technologies de vidéo mobile.
+Maintenance et développement de l'existant :
+Vous serez amené(e) à faire des évolutions importantes sur notre site web.
+Développé en PHP5 / Symfony 1.4 2 + html / css / jQuery, vous pourrez monter en compétence sur ces
+technos.
+Profil recherché :
+Vos compétences :
+Développement sous Symfony (version 2 idéalement), donc PHP 5
+Modélisation UML, et gestion de base de données sous MySQL 5
+JQuery, Ajax et XML
+Environnement Unix (Debian)
+Git
+Intégration HTML 5, CSS 3, compatibilité navigateurs et terminaux c
+Avec par-dessus tout, un gout prononcé pour le travail bien fait (W3C, accessibilité, etc.) et un savoir-faire en
+matière de tests avant mise en ligne.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8305825
+
+
+
+
+

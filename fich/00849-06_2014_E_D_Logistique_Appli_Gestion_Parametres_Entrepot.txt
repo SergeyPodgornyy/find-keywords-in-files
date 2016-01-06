@@ -1,0 +1,57 @@
+﻿INFORMATIQUE                                                                                                                            STAGE   2013-2014
+APPLICATION DE GESTION DES
+PARAMETRES ENTREPÔT
+Stage rémunéré
+Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 06_2014_E&D_LOGISTIQUE
+informatique  interne  au  Groupement  U
+(Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 5 mois - Période : Février à Juin 2014
+mission  la  centralisation  et  l'uniformisation
+des ressources informatiques des magasins U
+et des centrales.
+Chaque  année  nous  accueillons  une  douzaine  de
+stagiaires   qui   rejoignent   une   équipe   de                                                                                       500
+Au sein du GIE IRIS, l'équipe Logistique est en charge des applications
+collaborateurs qui travaillent dans un environnement
+nécessaires  au  bon  fonctionnement  des  entrepôts  de  Système  U.
+technique constitué de 500 serveurs (Unix, Windows,
+L'application  Gestion  d'Entrepôt  est  actuellement  déployée  sur                                                                    18
+AS400), 1800 équipements réseaux et une centaine de
+entrepôts.  Celle-ci  comporte  des  centaines  de  paramètres  gérant  les
+bases de données, répartis dans les Datacenters et
+spécificités de chaque entrepôt.
+reliés aux 1423 points de vente du groupe.
+L'équipe Logistique souhaite aujourd'hui disposer d'un référentiel exhaustif
+et fiable des paramètres sur lesquels s'appuie l'application.
+En immersion complète dans des projets
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+L'objectif du stage est de concevoir une application Web permettant de gérer et comparer les paramètres de chaque entrepôt.
+Après une période d'intégration au sein du service (présentation du métier, visite d'entrepôts, présentation des méthodes de travail
+et du mode projet), vous intervenez en situation de chef de projet informatique pour les phases de :
+Etude de l'existant et des besoins
+Rédaction des dossiers de spécifications fonctionnelles et techniques, ainsi que de la documentation
+Développement des IHM et des services
+Rédaction des fiches descriptives des tests d'intégration, participation aux tests d'intégration
+Gestion de projet
+Transfert de compétences
+Votre tuteur vous assiste durant toutes ces phases. Vous aurez l'opportunité de suivre un projet en conditions réelles et d'approcher
+les métiers de la grande distribution.
+La mission est à la fois fonctionnelle (études des besoins, propositions de solutions), organisationnelle (lotissement du projet,
+application de méthodes agiles) et technique (développement Web, connexion multi-bases...).
+Java/J2EE - GWT - UML - Weblogic - Maven
+Bac + 5 informatique, Ecole d'Ingénieurs ou Universitaire
+Connaissances techniques :
+UML, JAVA/J2EE, Eclipse, la connaissance des méthodes agiles serait un plus
+Qualités requises : qualité relationnelle, travail en équipe, curiosité, autonomie
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

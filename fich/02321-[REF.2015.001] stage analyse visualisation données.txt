@@ -1,0 +1,46 @@
+﻿Référence : [REF.2015.001]
+Offre de stage
+Développement d'un outil
+d'analyse et de visualisation de données
+1                                                                                                      À Propos de RUBYCAT-Labs
+RUBYCAT-Labs est un éditeur de logiciels spécialisé dans la traçabilité et le contrôle
+d’accès au système d’information. Basée à Rennes, la société propose une gamme de produits
+destinés à la supervision des accès sensibles.
+2                                                                                                      Sujet
+L'objet du stage est de réaliser un outil visant à recueillir et indexer un ensemble de données
+et d'événements (de formats hétérogènes).
+L'outil devra notamment permettre :
+•   d'analyser ces données ;
+•   de les représenter sous forme graphique ;
+•   de consolider et de générer des rapports synthétiques ou détaillés.
+L'outil devra s'intégrer à l'écosystème et aux contraintes existantes. L'environnement
+technologique s'appuiera principalement sur le langage Python et des technologies web (HTML5,
+angularJS, Bootstrap, etc.)
+Vous serez rattaché au pôle R&D sous la direction du directeur technique. La durée du stage
+est de préférence 6 mois (minimum 3 mois).
+3                                                                                                      Profil recherché
+De formation (BAC+4 ou BAC+5 en informatique), vous aimez développer des applications
+graphiques à l'aide de technologies novatrices avec un intérêt prononcé pour l'analyse et la fouille
+de données (data mining).
+Vous maîtrisez les technologies du web (HMTL5, javascript, CSS) et un langage de
+progammation type Python.
+Rigoureux et autonome, vous savez faire preuve de créativité dans vos réalisations. Vous
+portez une attention particulière à l'ergonomie et la présentation des interfaces.
+Vous avez envie de travailler au sein d'une startup avec une équipe R&D dynamique,
+motivée et accueillante.
+Copyright © RUBYCAT-Labs 2015                                                                          Page 1/2
+
+
+
+
+Référence : [REF.2015.001]
+4                               Contact
+                                Pour postuler à cette offre, merci d'envoyer un CV et une lettre de motivation par mail à
+l'adresse suivante :
+                                stages@rubycat-labs.com
+Copyright © RUBYCAT-Labs 2015   Page 2/2
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿Titre du stage: Dynamique de la connectivité cérébrale fonctionnelle
+Durée: 2-3 ou 6 mois
+Niveau: dernière ou avant-dernière année d'école d'ingénieur, ou master
+Dates envisagées: entre février et septembre 2015
+Encadrant:    Andrea Brovelli
+https://sites.google.com/site/andreabrovelli/
+andrea.brovelli@univ-amu.fr
+04 91 32 40 31
+Descriptif:
+Ce stage se cadre dans un projet en neuroscience cognitives qui vise à identifier les bases
+neuronales des fonctions exécutives chez l'homme. Plus précisément, l'objectif est de mieux
+comprendre  comment  les  différentes  aires  corticales  impliquées  dans  l'apprentissage  et  les
+comportements  adaptatifs  interagissent  entre  eux  (connectivité  cérébrale  fonctionnelle).  Des
+nouveaux méthodes d'analyse ont été développés permettant l’étude de relations « causales »
+ou directionnelles entre régions du cerveau. Ces méthodes intègrent des outils d'estimation de
+l'activité cérébrale au niveau des aires cérébrales (méthodes de « beamforming » appliquées aux
+signaux neurophysiologiques enregistrés chez l'homme en utilisant la magnetoencephalographie,
+MEG)  avec  des  méthodes  d'analyse  du  signal  basés  sur  la  causalité  de  Granger  et  sur  la
+corrélation linéaire. Cette approche permet d'estimer des matrices d'adjacence qui évoluent au
+cours du temps et qui quantifient la connectivité entre aires cérébrales. Selon la théorie des
+graphes, il s'agit de graphes dynamiques (pondérées et/ou dirigées). L’objectif du stage sera de
+se former à ces outils, contribuer au développement des nouvelles méthodes pour l'analyse des
+graphes afin de mieux caractériser les interactions entre aires et l’émergence de réseaux (leur
+dynamique), et de participer à l’implémentation informatique sur un cluster de calcul présent à
+l'Institut de Neurosciences de la Timone (https://frioul.int.univ-amu.fr/).
+Compétences requises:
+Ce  stage  est  idéal  pour  un  étudiant  intéressé  à  une  démarche  multidisciplinaire  entre
+l'informatique, les mathématiques appliquées et les neurosciences. Ce stage pourrait également
+être valorisé dans le cas d’un souhait de poursuite en thèse en neurosciences computationnelles
+et/ou cognitives. Connaissances en analyse spectrale, problème inverse, théorie des graphes
+ainsi que des connaissances en programmation Matlab et/ou Python sont souhaitées.
+Contexte: L'Institut de Neurosciences de la Timone (INT, http://www.int.univ-amu.fr ) est une
+unité mixte de recherche qui a pour objectif de développer des recherches interdisciplinaires en
+neuroscience. Situé sur le Campus de la Faculté de Médecine d'Aix Marseille Université, il est
+doté  de  plateformes  technologiques  de  haut  niveau  au  service  d'équipes  de  recherche  en
+neurosciences théoriques et expérimentales.
+Gratification : ce stage donnera lieu à une gratification au niveau du standard légal.
+Envoyer CV + lettre de motivation à andrea.brovelli@univ-amu.fr
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                   5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

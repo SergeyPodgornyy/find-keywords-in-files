@@ -1,0 +1,42 @@
+﻿CAPGEMINI RECRUTE UN/UNE STAGE CONSULTANT BIG DATA H/F EN STAGE 6 MOIS.
+Date : 22/01/2015
+Référence de l’offre : BGI-stageBGData-8665935
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                               Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                              2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En 2014, le Groupe a réalisé un chiffre d'affaires de plus de 10 milliards d'euros et emploie
+aujourd'hui plus de 140 000 personnes dans 44 pays.
+Le domaine du Big Data est aujourd'hui en pleine effervescence, technologies et solutions se multiplient.
+Dans ce cadre nous désirons aujourd'hui effectuer un état de l'art et des développements exploratoires.
+Les tâches qui vous seront confiées seront les suivantes :
+- Réalisation d'un état de l'art des technologies et solutions disponibles dans le domaine « Big Data ».
+- Mise en place d'une plate-forme de démonstration « Big Data ».
+- Préparation de jeux de données, analyse et synthèse des résultats.
+- Documentation des travaux effectués.
+L'environnement technique est le suivant :
+- Linux
+- Java
+- SGBD SQL et NoSQL
+Profil recherché :
+De  formation  Bac                                                                                             +  5  en  Ecole  d'Ingénieur  spécialisée  en  informatique,  vous  êtes  passionné  par
+l'informatique et les technologies innovantes, et vous avez déjà des connaissances dans le domaine du Big
+Data.
+Aisance relationnelle, expression écrite fluide, sens de l'innovation et maitrise de l'anglais sont requis
+Le projet est mené dans le Centre de Services de Capgemini Sophia Antipolis.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8665935
+
+
+
+
+

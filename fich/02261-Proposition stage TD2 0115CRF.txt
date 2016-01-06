@@ -1,0 +1,38 @@
+﻿Canon Research Centre France S.A.S.
+Le  Centre  de  Recherche de CANON situé à RENNES ATALANTE,  dont  la mission
+consiste   à  développer   des   technologies   fondamentales   afin   de   contribuer   au
+développement de produits innovants pour le groupe CANON, propose un
+STAGE
+Etudes et réalisation d’algorithmes pour la vérific                                               ation des
+propriétés géométriques de maillage 3D à des fins
+d’impression 3D.
+Durée du stage                                                                                    : 4 à 6 mois à partir de mars 2015
+MISSIONS:
+Un objet/maillage  3D doit vérifier certaines propriétés géométriques pour pouvoir être
+imprimé. Par exemple, il doit être manifold au niveau des points ou des arêtes, être
+« watertight » ou encore avoir des normales correctement orientées…Le stage portera
+sur  l’étude  et  la  réalisation  d’algorithmes  pour  garantir  les  propriétés  géométriques
+permettant une impression 3D. Les missions seront les suivantes :
+- Effectuer un état de l’art sur les algorithmes existants
+- Tester certains logiciels existants
+- Développer des briques logiciels intégrant des outils de transformation d’un maillage
+3D quelconque en un maillage 3D imprimable.
+PROFIL :
+Vous êtes candidat à un diplôme de Master 2 informatique traitement d’images ou d’une
+école  d’infographie  avec  des  connaissances  en  informatique                                  (C,  C++,  interface
+graphique…), géométrie 3D, vision par ordinateur.
+Vous êtes curieux, ouvert d’esprit et avez de réelles qualités relationnelles pour vous
+intégrer dans un environnement innovant et multiculturel.
+CONTACT :
+Adresser votre lettre de motivation, CV en mentionnant la référence TD20115CRF à :
+CANON Research Centre France
+A l’attention de Mme Lydie BUFFARD
+Rue de la Touche Lambert
+CS 91716
+35517 CESSON SEVIGNE CEDEX
+Ou par mel : info@crf.canon.fr
+
+
+
+
+

@@ -1,0 +1,286 @@
+﻿Capgemini Division Telecom & Media Rennes
+Catalogue des stages 2015
+Contact : isabelle.villotte@capgemini.com
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Développement d’un Système d’Information de la Publicité
+pour un opérateur Média
+CONTEXTE
+Le   Système   d’Information   de   gestion   de   la
+publicité est un élément clé dans le business des
+opérateurs Média (chaînes de télévision).
+Ce   système   doit   permettre   l’élaboration   des
+Conditions  Générales  des  Ventes,  l’aide  à  la
+vente des espaces publicitaires, la création des
+contrats,  la  planification  des  écrans  en  fonction
+des audiences ainsi que la facturation des clients.
+Dans  ce  cadre,  Capgemini  a  développé  un
+système  opérationnel  pour  un  opérateur  majeur
+dans la télévision.
+STAGE PROPOSE
+Stage SI PUB MEDIA
+Intégré à l’équipe de développement, vous avez en charge la conception, la réalisation et l’intégration de
+développements   de   nouvelles   fonctionnalités   du   système   d’information                             (Catalogue   des   offres,
+Planification des spots, Administration des Ventes, Echanges de Données Informatisées, …)
+En collaboration étroite avec le client et dans un
+environnement  Agile,  vous  participez  aux  Daily
+Meeting  et  contribuez  aux  développements  des
+Sprints.
+Par   ailleurs,   vous   mettez   en   œuvre   les
+technologies  adaptées  pour  la  réalisation  des
+aspects  IHM                                                                                                 (Interface  Homme  Machine),  des
+Services WEB et   des Tests automatisés
+Vous serez   éventuellement amené à participer à
+d’autres travaux pour cet opérateur Media dans le
+cadre    de    son    Système    d’Information    de
+Ressources Humaines.
+MOTS CLES
+Technologies: JAVA, GWT, Angular JS, Eclipse, Oracle, EJB, JBOSS 7, Hibernate
+Méthodologies : Méthode Agile, Visual management, Intégration Continue, GIT, JIRA
+Capgemini France
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Service IMS - RCS
+CONTEXTE
+A  l’heure  où  les  réseaux  télécom  convergent  vers  le  tout  IP                                            (Voix
+Wifi/LTE,  Vidéo,  IM,  File  Transfer…),  les  opérateurs  remplacent  leurs
+infrastructures de téléphonie traditionnelles et veulent lancer des services
+de   communication   innovants   rivalisant   ou   complétant   les   services
+proposés par les acteurs majeur d’Internet (Google, WhatApps, …)
+Pour répondre à ces enjeux les Opérateurs orientent Capgemini vers des
+activités  d’anticipation,  de  conception,  de  réalisation  et  d’intégration  de
+services SIP sur les plateformes IMS industrielles du marché.
+STAGE PROPOSE
+Stage Services RCS / IMS
+Dans le cadre de votre mission vous contribuez pleinement au pôle Rich Communication Service dans
+le  cadre  de  travaux  d’anticipation,  de  conception,  de  développement  et  de  validation  de  services
+innovants pour les réseaux mobiles.
+Les développements et tests sont réalisés dans un environnement Télécom
+complet et hétérogène intégrant Smartphones, Serveurs d’Application SIP
+intégrés avec un cœur de réseau IMS, service de médiation avec les SI
+opérateurs, Gateway d’interfonctionnement avec service internet.
+En fonction du besoin des services cibles, la réalisation demandée peut se
+situer sur les mobiles, dans le cœur de réseau au niveau des AS SIP, à
+l’interface  avec  des  services  Internet  ou  bien  sur  des  applications  Web
+permettant le contrôle et de suivi d’usage des services RCS déployés.
+Le  sujet  du  présent  stage  permet  d’aborder  l’ensemble  des  phases  d’un  projet  de  la  conception  à
+l’intégration du produit fini. Le stagiaire devra réaliser les étapes suivantes :
+    Montée en compétence / Compréhension de l’environnement, de l’existant et des enjeux,
+    Participation aux activités de réalisation du projet (spécifications, développements, tests unitaires)
+    Intégration et validation sur les plateformes Capgemini;
+    Production d’un rapport décrivant l’ensemble de ces étapes.
+Les stagiaires seront intégrés à l’équipe projet, composé de responsables fonctionnels, d’architectes et
+d’ingénieurs de développement. Il sera éventuellement amené à participer à plusieurs types de travaux
+sur plusieurs sujets connexes en fonction du volume des tâches qui lui seront affecté : par exemple, des
+travaux anticipations sont possibles autour de Bases de Données Big Data: Cassandra, Storm, Elastic
+Search HadHoop,….
+MOTS CLES
+Technologies: AS J2EE, SIP Server Mobicents, Android, Multi-Protocol Test Suite  (MTS), Eclipse,
+MySQL
+Mots clés: IM, RCS, GSMA, IMS, SIP, MSRP, RTP, WebRTC, REST API, Statistics & Big Data.
+Capgemini France
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Service MMS-C
+CONTEXTE
+Le  déploiement  des  architectures  de  plateforme  de
+service  chez  les  Opérateurs  oriente  Capgemini  vers
+des   activités   de   conception,   de   réalisation   et
+d’intégration  s’appuyant  sur  des  solutions  innovantes
+et sur des partenaires leader mondiaux du marché
+A  ce  titre,  Capgemini déploie  une  plateforme MMSC
+permettant  la  gestion  des  messages  multimédia  en
+interface avec le réseau de l’opérateur mobile. Cette
+plateforme  est  déployée  dans     un  environnement
+virtualisé  dimensionné  pour  absorber  des  pics  de
+charge importants.
+STAGE PROPOSE
+Stage Services MMS-C
+Dans  le  cadre  de  votre  mission  vous  assurez  la
+conception, le développement de l’interface de contrôle
+des simulateurs d’interfaces MMS  (MM1- MM5- MMx)
+et participez à la validation des tests en charge de la
+plateforme MMS hébergée par Capgemini.
+    Prise                                                                                              en                                  compte   des   contraintes
+opérationnelles pour l’ergonomie et l’affichage
+des  champs  nécessaires  au  lancement  des
+charges  (débit                                                                                         /  contrôle  d’erreur,  temps  de
+réponse)
+    Définition   de   l’interface   de   lancement   des
+simulateurs   pour   le   pilotage   simultané   et
+réalisation  d’une  application  performante  et
+robuste
+Vous serez   éventuellement amené à participer à d’autres travaux dans le cadre de la plateforme MMSC
+(Supervision, Métrologie, Administration)
+MOTS CLES
+Technologies: MMS, Application Server, Web Services, Java, VMWARE et Eclipse
+Méthodologie : Visual Management, Intégration Continue
+Capgemini France
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Plateforme d’exposition de services
+CONTEXTE
+La  plateforme  d’exposition  de  services  est
+basée  sur  des  matériels  IBM  qui  permettent
+par   configuration   d’exposer   des   services
+WEB  tout  en  contrôlant  et  enrichissant  les
+requêtes.
+Ces  équipements  permettent  une  séparation
+nette  des  aspects  métier  des  plateformes
+supportant les services et les aspects sécurités
+et contrôle.
+Les  équipements  interagissent  en  Front-End
+avec les BOX ADSL, les mobiles, les tablettes
+et en Back-End avec les serveurs du Système
+d’Information de l’opérateur.
+Les                                                                                                                 services                actuellement   exposés
+concernent :
+                                                                                                                                                                     1 Exemple de l'IHM de Configuration
+                                                                                                                        Authentification
+    Streaming, TV sur mobile
+    VOD
+    Micropaiement
+                                                                                                                   …
+STAGE PROPOSE
+Stage Etude et déploiement de
+services
+Le stage se  déroulera  dans les équipes
+en charge des études et de la réalisation
+du déploiement des services.
+Le  stage  commence  par  la  prise  en  main  de  la  plateforme  d’exposition  de  services.  L’objectif  étant
+d’arriver  au  déploiement  et  à  la  validation  d’un  service  tant  au  niveau  fonctionnel  qu’au  niveau
+exploitation.
+Les composants d’exploitation (injecteurs, hyperviseur et simulateurs) pourront être amenés à évoluer.
+MOTS CLES
+Technologies: Architecture SOA, DataPower, Linux, XML, XSL, Cryptographie
+Capgemini France
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Service IPTV
+CONTEXTE
+Le rôle grandissant des opérateurs dans l’IPTV a
+permis  à  Capgemini  de  se  positionner  en  tant
+qu’acteur majeur de ce secteur.
+A ce titre, Capgemini intègre, en partenariat avec
+ViaccessOrca,   une   solution   permettant   le
+déploiement de services IPTV pour la télévision,
+le  mobile  ou  tout  équipement  connecté  à
+internet.
+STAGE PROPOSE
+Stage Services IPTV
+Dans  le  cadre  de  votre  mission  vous  contribuez
+pleinement,  au  sein  d’un  projet  d’intégration,  à  la
+conception,  au  développement  et  à  la  validation  de
+plateformes de services IPTV
+Vous acquérez ainsi la visibilité complète sur un projet
+de bout en bout, dans un environnement opérationnel
+et d’envergure international.
+MOTS CLES
+Technologies: IPTV, Java et Eclipse, Webservices, REST, SQL
+Méthodologie : Visual Management, Intégration Continue
+Capgemini France
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Centre de Contacts
+CONTEXTE
+Canal  essentiel  de  la  relation  client,  les  centres  de  contacts  occupent  une
+attention privilégiée pour   les grandes entreprises de tous les secteurs d’activité.
+Depuis  quelques  années,  les  centres  de  contacts  ont  acquis  une  dimension
+multimédia, en mêlant téléphonie, mail, chat, réseaux sociaux, applications pour
+smartphone. Ces solutions sont basées sur des produits du marché (Genesys,
+Cisco, Avaya, …), performants et reconnus.
+Afin de répondre de manière optimale aux sollicitations des clients, les chargés
+de  clientèle  utilisent  des  interfaces  graphiques  adaptées  et  personnalisées
+intégrant  de  manière  dynamique  et  ergonomique  l’ensemble  des  fonctions
+nécessaires (fiche client, prise de commande, facturation, …)
+Dans ce contexte, Capgemini réalise pour plusieurs entreprises, dont des opérateurs télécommunications et
+de grands acteurs financiers, la mise en place et la personnalisation de ces solutions de centre de contacts
+adaptés aux besoins particuliers de ses clients
+STAGE PROPOSE
+Stage Centre de Contacts
+Afin de développer cette activité, Capgemini souhaite mettre
+en place, dans le cadre du Lab’Innovation de Capgemini,
+une démonstration de son savoir-faire.
+Capgemini  souhaite  développer  une  interface  Web  de
+paramétrage permettant de piloter la distribution des contacts
+multimédia (voix, email, chat, réseaux sociaux…).
+Cette interface sera à développer soit comme une application
+web  indépendante  ou  soit  comme  un  plug  in  Java  d’une
+application existante (GAX de Genesys).
+Encadré au jour le jour par un ingénieur expérimenté, le stagiaire participera à toutes les phases de la mise
+en place du Lab’Innovation (spécifications, réalisation, intégration).
+Sa mission portera en particulier sur :
+   La mise en œuvre des technologies .Net et Java/J2EE
+   Le développement d’un ensemble cohérent d’éléments de ces interfaces graphiques,
+   La rédaction de la documentation associée.
+MOTS CLES
+Technologies:  Centre  de  contacts,  Web  2.0,  Genesys,  Web  Services,  .Net,  Java,  AJAX,  Jetty,  JSF,
+Hibernate
+Capgemini France
+
+
+
+
+Capgemini Application Services France
+Division Telecom & Media
+Participation aux évolutions d’une plateforme d’accès au
+Wifi
+CONTEXTE
+OWA  est  une     plateforme  de  services  permettant
+l’accès  au  Wifi  des  abonnés  mobile  et  Internet  des
+clients  d’un  opérateur  français                                                                                  (à  travers  le  wifi
+communautaire et les hotspots déployés sur tout le
+territoire).
+Elle  permet  d’offrir  également  des  offres  d’accès  Wifi  dédiée    B2B  à  des  entreprises  (PME,  Hôtel).
+L’entreprise dispose alors de son propre service internet, à son   nom, pour l’ensemble de ses clients.
+Capgemini assure la maintenance et les évolutions de cette plateforme composée de
+plus   de 10 composants majeurs (Portail d’authentification, Serveur de contenu, DNS,
+Proxy, Connexion sécurisée en Radius, Gestion de la sécurité d’accès, gestion du
+Roaming, serveur DHCP,   Bases de   données des abonnés, Wifi Gateway).
+STAGE PROPOSE
+Stage Plateforme WIFI
+Ce stage porte sur la réalisation d’évolutions fonctionnelles/techniques de la
+plate-forme.
+En tant que consultant  (H/F), vous serez intégré(e) dans l'équipe projet et
+placé(e) sous l’autorité du chef de projet :
+    Dans un premier temps, vous monterez en compétence sur le projet
+et sur les enjeux du client,
+    Vous  serez  en  charge  de  la  conception  et  la  rédaction  des
+spécifications fonctionnelles concernant les évolutions,
+    Vous   développerez et mettrez en œuvre les évolutions demandées,
+    Vous participerez aux phases de tests d'intégration et de validation,
+    Dans  le  cadre  de  la  TMA  (Tierce  Maintenance  Applicative),  vous
+serez amené à participer à la correction des anomalies survenues en
+opérationnel.
+MOTS CLES
+Technologies: C, FreeRadius, Java, MySQL, Grails, Oracle, Apache, Wifi Gateway
+Capgemini France
+
+
+
+
+

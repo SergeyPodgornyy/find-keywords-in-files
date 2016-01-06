@@ -1,0 +1,62 @@
+﻿Stage Analyse d'impact & bases NoSQL  (H/
+Atos Technology Services
+REFERENCE  :  154524
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4862084
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Nice 6000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier,  des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie.  Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et
+l’évolution de leurs systèmes d’information. Plus de 3 000 experts de proximité accompagnent nos
+clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions
+de leurs marchés.
+DESCRIPTION DU POSTE  :
+Mission
+Pour des besoins d’intégration dans un système de releasing et de tests, nous vous confierons
+l’étude, la conception et le développement d'un outil d'Analyse d'impact et de Root Cause.
+Cet outil sera utilisé à des fins de gestion, d’aide à la décision, de traçabilité et de reporting,
+Pour mener ce projet une étude en deux phases est nécessaire :
+Etablir l’état de l’art dans les domaines d’Analyse d’impact et de recherche de Root Cause.
+Concevoir et développer un outil d'Analyse d'impact et de Root Cause à base de Base de Données
+Orientée Graphes.
+Vous serez intégré(e) au sein d’une équipe et encadré(e) par un ingénieur expérimenté, vous
+contribuerez aux différentes phases du projet.
+Technologie :
+
+
+
+
+Java/JEE, NoSQL/Neo4J, REST, HTML5, JavaScript, Eclipse, UML, Ant/Maven, Git/CVS, Test
+JUnit/TestNG, Docbook (documentation)
+Objectifs pédagogiques :
+Les objectifs de ce stage sont:
+La participation à un projet transverse suivant toutes les phases du cycle de développement logiciel
+(étude, conception, réalisation, tests, documentation…),
+La sensibilisation aux méthodologies Agile (Lean/Kanban),
+La concrétisation sur le terrain de vos connaissances techniques acquises durant votre formation
+initiale.
+Profil
+En dernière année d’une école d’ingénieurs, vous avez une première expérience (stage ou projet
+d’étude) en développement JAVA J2EE.
+Vous êtes mobile, créatif(ve), avez le sens du travail en équipe et maîtrisez la langue anglaise.
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le
+désirez, dans toute autre région dans laquelle Atos recrute.
+PROFIL  :
+Le stage est localisé à Sophia-Antipolis.
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4862084
+
+
+
+
+

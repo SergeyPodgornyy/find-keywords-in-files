@@ -1,0 +1,53 @@
+﻿Stage n°8 du LCE
+Sujet :  Evaluation et  comparaisons  des  chaines  de  compilations
+existantes adaptées aux architectures parallèles modernes
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser l’innovation dans le domaine des systèmes embarqués.
+Pour faciliter le transfert technologique l’exploitation des derniers composants programmables est un
+enjeu majeur. Pour autant, l’évaluation et la comparaison de performance des architectures parallèles
+pose de nombreux   problèmes de méthodologie. Ces problèmes sont principalement liés à l’absence
+de chaines de compilations uniques capables de générer du code pour n’importe quelle architecture
+parallèle.   La méthodologie COTS du CEA LIST permet de résoudre le problème en proposant une
+suite  de  micro-benchmarks  pour  lesquelles  des  versions  parallèles  portables  sont  disponibles.
+L’évaluation de ces micro-benchmarks sur plusieurs architectures parallèles cibles (Multi-core Intel &
+ARM,   Tilera, ST, GPUs), permet alors l’obtention de métriques de comparaisons objectives.
+Le stage s’intègre dans le projet, en proposant d’utiliser la base de micro-benchmarks, non plus pour
+évaluer les architectures parallèles, mais pour évaluer les outils de parallélisation automatique de
+l’état de l’art. Le but de cette évaluation est de comprendre les limites des chaines de compilations
+parallèles afin de mieux caractériser les difficultés en matière de programmation parallèle et les choix
+les plus judicieux tant sur le plan architectural qu’au regard des modèles de programmation.
+La première phase du stage est dédiée à la réalisation d’un état de l’art sur les chaines de compilation
+avec parallélisation automatique disponibles et prêtes à l’emploi. La deuxième phase du stage portera
+sur la mise en œuvre des outils de parallélisation identifiés comme les plus pertinents avec les micro-
+benchmarks existants. La dernière phase du stage concerne l’analyse critique des résultats obtenus
+(faisabilité  et  performances)  sur  les  différentes  architectures  cibles  disponibles  au  laboratoire.  Le
+stage  pourra  donner  lieu  à  une  continuité  en  thèse  portant  sur  l’opportunité  de  la  compilation
+dynamique pour le transfert de données dans les architectures parallèles à mémoire distribuées.
+Niveau demandé : Master Recherche (BAC+5)
+Durée : 6 mois ;
+Début souhaité : février/mars 2014
+Compétences : Programmation parallèle, architectures numériques avancées
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                                : Yves Lhuillier
+Téléphone                                                                                                          : 01 69 08 23 07
+Email                                                                                                              : yves.lhuillier@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                         Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                     Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                           Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

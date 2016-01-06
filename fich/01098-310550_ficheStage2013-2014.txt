@@ -1,0 +1,133 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : ORANGE                                                                       Adresse :   3, rue François Château
+Domaine d’activité : Télécommunications                                                            Ville : RENNES
+Représentant de l’entreprise : Olivier Augizeau                                                    N° téléphone : 02 99 87 63 59 / 06 89 98 28 89
+Sa qualité : responsable « coordination technique                                                  N° fax :
+N° de Siret :380 129 866 46850                                                                     Site Web :
+N° NAF :                                                                                           Courriel : olivier.augizeau@orange.com
+Statut Juridique :SA                                                                               Signataire de la convention :
+Effectif de l’établissement : 250
+Nom de l’encadrant de stage : Thierry BUCHOT                                                       Chargé du suivi administratif :   Aline PERTEL
+Sa qualité : ingénieur en méthodes d’automatisation                                                Sa qualité :   RH
+Service : Coordination technique (CT)                                                              N° téléphone :
+N° téléphone : 02 99 87 64 22 / 06 37 30 64 32                                                     Email :   aline.pertel@orange.com
+Email :
+thierry.buchot@orange.com
+Nom du service dans lequel le stage sera effectué : …..……Coordination Technique à   la direction
+de l’exploitation des Réseaux.…………………………………………
+Lieu  du  stage                                                                                    (s’il  est  différent  de  l’adresse  de  l’entreprise):   …………Rennes  -  3,  avenue  François
+Château…………………………………………….
+                                                                                                   PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□
+□ Spécialité GL                                                                                    du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                               du 10 mars 2014 à fin août 2014
+□
+SUJET  DU  STAGE  :
+Titre du stage proposé : Refonte des fonctions d’administration du système de gestion agile
+du réseau IP
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+VM Linux
+Java/Eclipse-Maven-JUnit
+Méthode Scrum
+Liferay-JBoss
+IHM (Portlet - Vaadin)
+SGBD (MySQL-Hibernate-JPA).
+ Voir détails dans le document fourni par Orange
+Sujet proposé détaillé :
+Contexte
+Le département EEIP (Exploitation et Expertise IP), basé à Rennes, a pour mission d'assurer l’exploitation des
+équipements IP du réseau fixe d’Orange France (RBCI : Réseau Backbone et Collecte Internet).
+Dans ce département, l'équipe CT Automatisation a en charge le développement de solutions informatiques pour
+faciliter la gestion, la configuration et l’exploitation automatisée des équipements réseaux (routeurs, équipements de
+VOIP, BAS, CDN…) de la DERX (Direction de l'Exploitation des RéseauX) ou d'autres entités.
+Dans ce cadre, l'équipe a développé et déployé une nouvelle solution dénommée ExperIP (EXPploitation PERi IP). Il
+s'agit d'une infrastructure d'hébergement des péri-applications locales pour une exploitation agile du réseau IP
+(principalement du RBCI).
+Cette infrastructure est en production depuis plusieurs mois et héberge déjà plusieurs applications métiers.
+Le serveur fournit un socle logiciel commun, EXPERIP Core pour l'exécution d'une série d'applications métiers de
+type EXPERIP Applis. Ces applicatifs sont hébergés dans un portail d'agrégation de contenus Open Source Liferay.
+Vu des utilisateurs finaux ou administrateurs, EXPERIP est constituée de diverses IHM pour le fonctionnement des
+applicatifs web métier et l’accès aux rapports d'exécution de ceux-ci. Ces IHM métiers sont développées sous forme
+de portlets qui peuvent être déployées et administrées en grande partie 'à chaud'.
+Activités  principales
+Le sujet du stage consiste à refondre la portlet actuelle dénommée 'Portlet Catalogue' qui est utilisée par les
+administrateurs pour le déploiement, la configuration et l'administration des applications métiers.
+Il s'agit de scinder cette portlet en deux :
+-                                                                                                                        Une nouvelle portlet Catalogue de gestion des applications métiers refondue, enrichie fonctionnellement et à
+l'ergonomie plus intuitive ;
+-                                                                                                                        Une portlet d'administration regroupant toutes les fonctions d'administration d'ExperIP existantes ou nouvelles
+(exemple : indicateurs d'usage ou de charge de l'applicatif…)
+Le travail consistera en partie dans la définition de solutions IHM permettant de répondre aux besoins fonctionnels.
+Le travail sera constitué en plusieurs étapes :
+-                                                                                                                        Montée en compétences sur le domaine : principe de fonctionnement
+-                                                                                                                        Appropriation technique du projet : DAT, DAL, code Java, environnement J2EE, Vaadin, environnement de
+                                                                                                                         développement et de test…
+-                                                                                                                        Analyse du fonctionnement de l'application Catalogue existante
+-                                                                                                                        Recueil des besoins fonctionnels existants et des évolutions souhaitées
+-                                                                                                                        Définition des priorités et des différents lots
+-                                                                                                                        Validation des choix (techniques et non techniques) et des différentes IHMs auprès des futurs utilisateurs
+-                                                                                                                        Développement logiciel
+-                                                                                                                        Validation des développements (tests…)
+-                                                                                                                        …
+                                                                                                                         Pour mener à bien ce projet, il faut être intéressé par le développement de portlets sous Vaadin, être sensibilisé aux
+                                                                                                                         UNIVERSITE DE RENNES 1                                                                                                   TÉL : 33 (0)2 23 23 39 00
+                                                                                                                         ISTIC                                                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+aspects ergonomie et performances.
+Il faudra également être capable de s'approprier l'environnement technique assez complexe, ainsi que certains
+aspects métiers propre à ExperIP comme par exemple le cycle de vie des applications.
+Les aspects interfaçage avec la base de données seront également un point important du projet. Une attention
+particulière devra être apportée sur les aspects performances et mise à jour des IHMs par rapport à la base.
+En parallèle de ces tâches techniques, une attention particulière devra être apportée à la rédaction de la
+documentation afin d'assurer l'appropriation de la solution et à terme la reprise du sujet par les autres membres de
+l'équipe, ainsi que la justification des choix techniques d'implémentation.
+Des présentations techniques seront réalisées auprès des autres membres de l'équipe ou utilisateurs finaux.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle :   1283€ bruts                                                                                    Nom de l’Etudiant :
+Modalités   de   versement :   mensuel,   via   virement                                                               Diplôme :
+bancaire
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :   35 heures
+Date limite de réponse à cette proposition : 20 janvier 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui. Contacter Mr Buchot.
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                                 TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                  FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

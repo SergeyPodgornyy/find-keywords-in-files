@@ -1,0 +1,41 @@
+﻿CAPGEMINI RECRUTE UN/UNE SERVICE IMS - RCS H/F EN STAGE DE 6 À 8 MOIS.
+Date : 01/01/2015
+Référence de l’offre : ST-TM-3937-8287517
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 6 à 8 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                  Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                 2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Dans le cadre de votre mission vous contribuez pleinement au pôle Rich Communication Service dans le
+cadre de travaux d'anticipation, de conception, de développement et de validation de services innovants pour
+les réseaux mobiles.
+Les développements et tests sont réalisés dans un environnement Télécom complet et hétérogène intégrant
+Smartphones, Serveurs d'Application SIP intégrés avec un cœur de réseau IMS, service de médiation avec les
+SI opérateurs, Gateway d'interfonctionnement avec service internet.
+En fonction du besoin des services cibles, la réalisation demandée peut se situer sur les mobiles, dans le cœur
+de réseau au niveau des AS SIP, à l'interface avec des services Internet ou bien sur des applications Web
+permettant le contrôle et de suivi d'usage des services RCS déployés.
+Le sujet du présent stage permet d'aborder l'ensemble des phases d'un projet de la conception à l'intégration
+du produit fini. Le stagiaire devra réaliser les étapes suivantes :
+* Montée en compétence / Compréhension de l'environnement, de l'existant et des enjeux,
+* Participation aux activités de réalisation du projet (spécifications, développements, tests unitaires)
+* Intégration et validation sur les plateformes Capgemini;
+* Production d'un rapport décrivant l'ensemble de ces étapes.
+Profil recherché :
+BAC +5
+Technologies: AS J2EE, SIP Server Mobicents, Android, Multi-Protocol Test Suite (MTS), Eclipse, MySQL
+Mots clés: IM, RCS, GSMA, IMS, SIP, MSRP, RTP, WebRTC, REST API, Statistics Big Data.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8287517
+
+
+
+
+

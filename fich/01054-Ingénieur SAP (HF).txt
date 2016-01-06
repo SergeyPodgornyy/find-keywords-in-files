@@ -1,0 +1,62 @@
+﻿STERIA  RECRUTE  UN/UNE  INGÉNIEUR  SAP  (H/F)  EN  STAGE  DE  1  À  6  MOIS.
+Date  :  1/12/13
+Référence  de  l’offre    :  LSO/SAP/ST­5506251
+Domaine  d’activité    :  20500  (20518)
+Type  de  contrat    :  Stage
+Localisation    :  MEUDON  LA  FORET  92366,  FR
+Durée  du  contrat    :  De  1  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Steria  délivre  des  services  qui  s'appuient  sur  les  nouvelles  technologies  et  qui  permettent
+aux  administrations  et  aux  entreprises  d'améliorer  leur  efficacité  et  leur  rentabilité.  Grâce
+à  une  excellente  connaissance  des  activités  de  ses  clients  et  son  expertise  des  technologies
+de  l'information  et  de  l'externalisation  des  processus  métiers  de  l'entreprise,  Steria  fait
+siens  les  défis  de  ses  clients  et  les  aide  à  développer  des  solutions  innovantes  pour  y  faire
+face.
+Créé  en  1969,  Steria  est  présent  en  Europe,  en  Inde,  en  Afrique  du  Nord  et  en  Asie  du
+Sud­Est.  Le  Groupe  a  réalisé  un  chiffre  d'affaires  de  1  750  millions  d'euros  en  2011.  Son
+capital  est  détenu  à  hauteur  de  21%  par  ses  collaborateurs.  Steria,  dont  le  siège  social  est
+basé  à  Paris,  est  coté  sur  Euronext  Paris.
+Description  du  poste    :
+Notre  client  souhaite  gérer  à  travers  un  grand  Programme  la  transformation  vers  un  SI
+intégré.
+Ce  SI  intégré  vise  à  :
+­ améliorer  les  modes  de  fonctionnement  actuels  de  façon  à  supporter  le  développement
+des  missions  de  notre  client;
+­ soutenir  les  processus  associés  à  ses  fonctions  supports.
+Le  choix  central  du  progiciel  SAP  a  été  effectué.
+Le  principal  objectif  de  ce  programme  est  la  mise  en  œuvre  du  système  d'information
+développant  l'informatisation  des  métiers  et  portant  :
+­ des  fonctionnalités  indispensables  au  meilleur  exercice  des  métiers  supports  ;
+­ un  allègement  de  la  charge  administrative  pour  les  utilisateurs  ;
+­ la  mise  en  place  de  nouveaux  services  performants  ;
+­ un  renforcement  de  la  cohérence  entre  domaines  applicatifs  couverts.
+Intégré(e)  à  l'équipe  projet  en  fin  de  phase  de  conception,  vous  participerez,  au  sein  d'un
+des  10  domaines  applicatifs  constituant  le  périmètre  de  la  partie  SAP,  aux  travaux  de
+paramétrage,  aux  tests  unitaires  liés  aux  développements  spécifiques  ainsi  qu'aux  tests
+d'intégration  qui  doivent  aboutir  à  la  mise  à  disposition  de  la  solution.
+
+
+
+
+Sous  la  responsabilité  du  Responsable  de  domaine,  vous  serez  partie  prenante  dans  un
+projet  important  de  construction  d'une  solution  autour  de  SAP,  dans  un  environnement
+applicatif  riche  et  stimulant.
+Vous  serez  ainsi  intégré  dans  un  projet  stratégique  de  notre  client  et  dans  une  équipe
+composée  de  consultants  confirmés  qui  vous  permettront  de  monter  très  vite  en
+compétences.
+Votre  mission  portera  sur  :
+­ Le  paramétrage  et  la  mise  en  œuvre  de  certains  processus  applicatifs,
+­ Les  tests  unitaires  et  d'intégration  de  certains  processus  adossés  à  un  des  domaines
+applicatifs  constituant  la  solution,
+­ L'accompagnement  du  client  en  phase  de  recette.
+Profil  recherché    :
+De  formation  école  d'ingénieur  en  informatique  ou  Bac+5,  vous  cherchez  un  stage  de  fin
+d'études  en  pré­embauche,  afin  de  booster  votre  début  de  carrière  !
+Pour  postuler    :  http://steria.contactrh.com/jobs/1536/5506251
+
+
+
+
+

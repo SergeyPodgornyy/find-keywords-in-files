@@ -1,0 +1,44 @@
+﻿INFORMATIQUE                                                                                                          STAGE   2013-2014
+                                                                                                                      ETUDE BUSINESS INTELLIGENCE
+                                                                                                                      EN MAGASIN
+                                                                                                                      Stage rémunéré
+                                                                                                                                                                             Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 12_2014_E&D_PDV
+                                                                                                                                                                             informatique  interne  au  Groupement  U
+                                                                                                                                                                             (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 5-6 mois - Période : à partir du 2ème trimestre 2014
+                                                                                                                                                                             mission  la  centralisation  et  l'uniformisation
+                                                                                                                                                                             des ressources informatiques des magasins U
+                                                                                                                      et des centrales.
+                                                                                                                      Chaque  année  nous  accueillons  une  douzaine  de
+                                                                                                                      stagiaires   qui   rejoignent   une   équipe   de      500
+Le Domaine Point de Vente du GIE IRIS développe les outils de                                                         collaborateurs qui travaillent dans un environnement
+gestion  des  magasins  U.  Le  Back-Office  ULIS  est  au  cœur  du                                                  technique constitué de 500 serveurs (Unix, Windows,
+Système d'Information du Point de Vente. Il propose l'ensemble des                                                    AS400), 1800 équipements réseaux et une centaine de
+fonctions clés de la Gestion Commerciale du magasin : gestion des                                                     bases de données, répartis dans les Datacenters et
+produits et des prix, approvisionnement et gestion des stocks, suivi                                                  reliés aux 1423 points de vente du groupe.
+des ventes.
+En immersion complète dans des projets
+Les  magasins  souhaitent  analyser  leurs  données  de  gestion  de
+concrets, ces stages leur permettront de
+manière flexible et autonome.
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+Etude des  fonctionnalités de type Business Intelligence proposées par SQL Server 2012 et déterminer
+les conditions de mises en œuvre de telles fonctionnalités dans l'environnement d'un magasin U.
+Réalisation d'une maquette permettant de juger de la pertinence de ces fonctions en magasin.
+SQL server 2012
+Bac + 5 informatique, Ecole d'Ingénieurs ou Universitaire
+Connaissances techniques : le candidat devra posséder de solides compétences techniques lui permettant d'être force
+de proposition dans le choix de solution.
+Qualités requises : une grande ouverture d'esprit est nécessaire afin de proposer une solution opérable dans
+l'environnement magasin.
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

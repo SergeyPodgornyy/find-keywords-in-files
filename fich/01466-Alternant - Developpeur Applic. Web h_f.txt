@@ -1,0 +1,39 @@
+﻿EXPERIS EXECUTIVE RECRUTE UN/UNE ALTERNANT  - DÉVELOPPEUR APPLIC. WEB H/F EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 25/07/2014
+Référence de l’offre : TCU 08-7045986
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Lyon 69006, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Experis Executive est un cabinet de recrutement de cadres supérieurs et de dirigeants qui associe évaluation,
+motivation et intégration, grâce au savoir-faire de 35 consultants spécialisés par secteurs et métiers.
+Experis Executive accompagne Agixis dans la recherche d'un Stagiaire Ingénieur Développeur d'Applications
+Web en alternance.
+Description du poste :
+Dans le cadre du développement de son centre d'expertise « portails et solutions mobiles » à Lyon, Agixis recrute
+un  alternant  qui  pourra  se  spécialiser  dans  le  développement  de  solutions  Web  autour  des  technologies
+Microsoft.Net.
+Encadré par un chef de projet et avec le support des équipes techniques, vous participez à l'ensemble des phases
+du projet :
+* Analyse du besoin et des technologies,
+* Définition des normes d'ergonomie,
+* Réalisation de composants graphiques et de template d'IHM,
+* Mise en œuvre des solutions,
+* Réalisation de la documentation technique.
+Profil recherché :
+Ayant pour objectif d'obtenir un diplôme d'ingénieur, vous recherchez votre prochaine alternance. De formation
+initiale bac+4/5, vous justifiez idéalement d'un premier stage ou d'une première expérience et vous avez envie de
+vous spécialiser en environnement Microsoft.Net (C#, ASP.Net, MVC4, knockout.js, SQL server 2012, entity
+framework).
+Dynamique, doté d'un excellent relationnel vous avez le sens du service. Vous êtes passionné par votre métier et
+par les technologies. Vous avez un réel goût du challenge et de l'entrepreneuriat.
+Pour postuler : http://experis.contactrh.com/jobs/1536/7045986
+
+
+
+
+

@@ -1,0 +1,46 @@
+﻿AXON' CABLE SAS RECRUTE UN/UNE INGÉNIEUR DÉVELOPPEMENT LOGICIEL H/F EN CDD
+DE 12 À 18 MOIS.
+Date : 01/12/2014
+Référence de l’offre : FEM 1114 INFO-7974610
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDD
+Localisation : Montmirail 51210, FR
+Durée du contrat : De 12 à 18 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Depuis 50 ans Axon' Cable développe, conçoit et fabrique des câbles et systèmes d'interconnexion innovants
+pour l'électronique de pointe. Destinés à l'aéronautique et le spatial, l'automobile, le militaire, le médical et la
+recherche pétrolière, les produits Axon' sont utilisés par des sociétés comme EADS, Schneider, Thales,
+Valeo. Aujourd'hui, le groupe Axon' emploie plus de 1700 salariés en Europe, Amérique et Asie.
+Description du poste :
+Rattaché au Responsable du service, vous développerez une nouvelle application pour ce système de vision.
+Après vous être familiarisé(e) avec le processus de fabrication, vous analyserez l'application existante
+(application multilingue français, hongrois, chinois ; code source en VB6 ; librairie de Vision Industrielle
+COGNEX). Par la suite vous serez chargé (e) :
+- d'élaborer le design de la nouvelle solution, ainsi que sa documentation,
+- de développer la nouvelle application multitâches/multi-cœurs sur PC avec OS Microsoft,
+- d'écrire les tests unitaires.
+Vous utiliserez les outils suivants :
+- produits Microsoft : Visual Studio 2013 / SQL Server / Suite Office,
+- librairie de Vision Industrielle : HALCON de MVtec Software GmbH.
+Vous travaillerez dans un contexte international. Plusieurs séjours (de 1 à 4 semaines chacun) dans notre
+filiale en Hongrie sont à prévoir.
+Profil recherché :
+- Etudes : Bac + 5 Informatique (Ecole d'ingénieur ou Université).
+- Connaissances spécifiques : développement orienté objet (concepts SOLID, Design Pattern), applications
+multicouches, plateforme C#/ .Net, technologie WPF pour l'IHM, Task Parallel Library, asynchronisme,
+traitement d'images ou vision industrielle. Des connaissances en programmation cross-platform (utilisation
+de tablettes tactiles) seraient un plus.
+- Anglais courant permettant une pratique régulière (documentations, e-mails, conférences téléphoniques,
+réunions, déplacements dans notre filiale en Hongrie).
+- Qualités recherchées : bonne capacité de communication, esprit d'analyse, aptitudes pour la résolution de
+problèmes, rigueur du travail, envie d'apprendre. De nature curieuse vous vous intéressez aux nouvelles
+technologies.
+- Débutant(e) accepté(e).
+Pour postuler : http://axon.contactrh.com/jobs/1536/7974610
+
+
+
+
+

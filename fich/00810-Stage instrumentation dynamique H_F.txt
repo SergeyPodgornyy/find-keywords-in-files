@@ -1,0 +1,63 @@
+﻿Stage  instrumentation  dynamique  H/F
+Société  Générale  France
+REFERENCE  :  ST/ITEC/1013
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4989997
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement :
+Le stage se déroule au sein de la direction de l'Informatique de la SGCIB, et plus particulièrement
+dans le département Front-Office « Accès Marchés ».
+De nouvelles solutions, issues notamment du monde des supercalculateurs, permettent de
+s'affranchir de ces contraintes en permettant l'instrumentation dynamique d'un binaire, sans
+nécessiter de le modifier ou le recompiler.
+Vos missions :
+En collaboration avec votre maitre de stage qui assurera votre formation, vous participerez aux
+tâches suivantes:
+* Etablir un état de l'art des bibliothèques d'instrumentation dynamique permettant de développer
+des outils de mesure de performances,
+* Mettre au point en C++ un prototype d'outil d'instrumentation démontrant les avantages et les
+inconvénients de chacune de ces techniques,
+* Développer un système permettant de corréler le code source de l'application ainsi que ses inputs
+avec les mesures prises grâce à l'instrumentation dynamique du binaire.
+Votre profil H/F :
+Vous êtes étudiant de niveau Bac +4/5 en Écoles d’ingénieur ou Université avec une spécialisation
+en Informatique.
+
+
+
+
+La connaissance de C++ est indispensable. Vous avez de façon souhaitable de bonnes
+connaissances sur Unix/Linux.
+Vous aimez développer et vous avez un intérêt pour la conception logicielle.
+Les apports du stage :
+Ce stage vous permettra d'avoir une vision globale du fonctionnement de l'IT Front Office en
+Banque de Financement et des enjeux associés. Il vous permettra d'appréhender les techniques de
+mesure de performance et les outils associés.
+Et si c'était vous?
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis
+rencontrerez un opérationnel pour un entretien de motivation.
+Durée du stage : 6 mois
+Stage basé à : Paris-La Défense
+Gratification selon grilles SG.
+PROFIL  :
+Bac +4/5 en Écoles d’ingénieur ou Université avec une spécialisation en Informatique.
+Connaissance de C++ : indispensable.
+Connaissances sur Unix/Linux : souhaitable.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4989997
+
+
+
+
+

@@ -1,0 +1,68 @@
+﻿Benchmarks  .Net  /  C#  dans  un  projet  de  CRM  (H/F)
+Atos  Intégration
+REFERENCE  :  158961
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/4942090
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 21/10/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION  DU  POSTE  :
+Mission
+Contexte :
+Atos développe pour un acteur majeur du monde des transports publics (France, Europe, monde) un
+CRM (gestion de la relation client, campagnes marketing, réclamations).
+Mission :
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce pôle conçoit et développe
+des applications de CRM pour de nombreux clients, dans de nombreux contextes métiers et
+technologiques.
+Le but du stage est de concevoir, développer et mettre en œuvre des outils de mesure de la
+performance (temps de réponse, montée en charge, etc.) de l’application développée par l’équipe
+·                                                                                                          Etude du besoin et des performances attendues
+
+
+
+
+·                                                                                                       Conception des solutions, identification des progiciels utilisables
+·                                                                                                       Développements des outils et scénarii
+·                                                                                                       Exécution des tirs de mesure des performances
+·                                                                                                       Analyse des résultats
+Vous serez intégrés à l’équipe de réalisation, constituée d’architectes techniques, de concepteurs
+fonctionnels, de développeurs et de recetteurs. Cette équipe travaille en forte proximité client à
+maintenir et à faire évoluer cette application CRM structurante.
+Environnement technologique :
+Microsoft Dynamics CRM, Visual Studio, .Net, C#, SqlServer. PHP.
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour découvrir et assimiler les outils, techniques et
+process d’un projet de développement. Il sera aussi l’occasion
+·                                                                                                       de monter en compétence sur MS CRM Dynamics, un des progiciels leader du marché du
+CRM.
+·                                                                                                       De se sensibiliser à l’aspect essentiel des performances applicatives, de découvrir les bonnes
+pratiques de développement associées
+PROFIL  :
+Profil
+De formation Bac +5 en informatique (Ecole d’ingénieur ou université) en cours de validation, vous
+recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle AtoS recrute.
+Ce stage se déroulera à Rennes.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/4942090
+
+
+
+
+

@@ -1,0 +1,68 @@
+﻿                                                                                                            Offre de stage   «Ingénieur Informatique - Solution de
+virtualisation»                                                                                             (f/h)
+Le groupe France Télécom Orange est l'un des principaux opérateurs de télécommunications dans le
+monde. Au service de plus de 200 millions de clients sur les cinq continents, dont les deux tiers sous
+la marque Orange.
+Présentation de l’entité / service / division
+Orange Business Services est leader dans l'intégration de solutions de communication, au niveau mondial
+pour les entreprises multinationales, et dans un certain nombre de pays pour les petites et moyennes
+entreprises. Grâce à une expérience étendue dans les solutions de communication globales, un réseau
+couvrant 220 pays et un support local dans 166 pays, nous nous assurons que nos clients bénéficient d'une
+solution homogène partout où ils sont présents. Notre stratégie, ainsi que tout ce que nous entreprenons,
+est basée sur notre engagement à ce que nos clients vivent une expérience de qualité exceptionnelle.
+Au sein d’Equant, l’entité Customer Services & Operations - IT Services Operations -   France Customer
+Applications Management est en charge du déploiement et de l’exploitation des systèmes d’information des
+clients d’Orange Business Services.
+Mission :
+Au sein du dispositif d’exploitation, encadré par le Responsable de l’industrialisation, ce stage a pour
+objectif de mettre en œuvre des actions/chantiers permettant d’améliorer la productivité des équipes
+d’Orange Business Services sur l’ensemble du périmètre d’exploitation de notre grand compte.
+Le stagiaire interviendra sur l’ensemble des processus d’exploitation (Cf ITIL - Lean & Devops) et sur
+l’ensemble des domaines d’exploitation, à savoir :
+                                                                                                           la conduite applicative
+                                                                                                           l’administration des Bases de données
+                                                                                                           l’administration des middlewares
+                                                                                                           l’administration Hardware et système
+                                                                                                                                                                                                     l’administration des solutions de stockage et de backup
+                                                                                                           l’administration des infrastructures de virtualisation
+Activités :
+                                                                                                           Vous analyserez en lien avec le Responsable d’industrialisation qualitativement et
+quantitativement les actions/chantiers d’industrialisation sur les activités réalisées par
+chaque équipe d’exploitation
+                                                                                                           Vous travaillerez avec les équipes pour définir et spécifier les axes d’optimisation
+(scripting, processus, développement spécifique d’outillages internes, consignes…)
+                                                                                                           Vous contribuerez et suivrez les chantiers en lien avec les porteurs de chantiers de la
+mise au point jusqu’à son déploiement auprès des équipes OBS
+                                                                                                           Vous contribuerez directement au développement de chantier (scripting shell,
+outillage web interne par exemple)
+                                                                                                           Vous participerez aux différents comités de validation et de suivi des chantiers
+Formation préparée :
+BAC +4/5 école informatique
+ECOLES  SOUHAITEES  :
+
+
+
+
+Profil et compétences :
+   Vous avez une forte capacité d’analyse et de synthèse,
+   Structuré et rigoureux, vous aimez évoluer dans des environnements dynamiques, multi-
+compétences et en transverse
+   Vous avez envie de développer vos connaissances de la production informatique, de
+l’automatisation dans le domaine du SI, connaissance des outils de reporting,
+d’automatisation
+   Vous avez envie de compléter vos connaissances de l’administration système au sens
+large et de l’administration d’applications dans un environnement virtualisé
+   Vous possédez un esprit d'analyse et de synthèse permettant de construire un plan
+structuré et de communiquer sur l’avancement d’un projet
+Le + de la mission :
+Ce stage se déroule dans un environnement opérationnel en transverse aux différentes équipes de
+production et d’ingénierie. Une interaction avec ces différentes équipes et une intégration dans un
+dispositif structuré et complet permettra au candidat d’évoluer dans un contexte technologique varié et
+des domaines divers (infra, application, ingénierie…)
+Date de début et durée souhaitées : 2014­6  mois
+Localisation : Rennes
+
+
+
+
+

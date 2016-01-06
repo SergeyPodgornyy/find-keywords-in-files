@@ -1,0 +1,54 @@
+﻿ATOS RECRUTE UN/UNE STAGE MEMORY IMAGE EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 173765 -7799991
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur international
+des services informatiques qui fournit à ses clients du monde entier, des solutions de conseil, d'intégration de
+systèmes, d'infogérance et des services transactionnels de haute technologie.
+Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise un chiffre d'affaires
+annuel de 8,5 milliards d'euros.
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Pour cela, notre entité dispose d'un riche portefeuille d'offres d'intégration de systèmes à forte valeur ajoutée
+qui garantissent une rentabilité et une croissance optimale à ses clients.
+Description du poste :
+Intégré à nos équipes projets pour le compte de nos plus grands clients, vous participez à la conception, au
+développement et à la mise en production des applications dans des domaines variés.
+Votre mission :
+- Modifier des programmes conformément à l'analyse détaillée,
+- Planifier et exécuter des tests unitaires jusqu'à obtenir un résultat conforme,
+- Seul ou en équipe vous spécifiez les interfaces utilisateurs/système.
+- Développer l'IHM de cet éditeur et les modules de traitement associés
+- Intégrer dans une architecture orientée service.
+- Connaissances en Qt et C++ seraient appréciées.
+Profil recherché :
+Le stage se déroulera en trois parties :
+Stage Memory Image :
+Produire un éditeur de fichier binaire (type éditeur hexadécimal) destiné à visualiser les versions binaires des
+logiciels de vol et des autres logiciels d'instruments embarqués d'un satellite.
+Stage Report :
+Développements pour un centre de contrôle satellite d'un générateur automatique de rapport se basant sur
+toutes les données disponibles dans un centre multi-mission.
+Ajout des fonctionnalités à une suite bureautique libre, LibreOffice.
+Stage Mimic View :
+Développements d'un outil de génération de mimics en Qt/Inskape
+Développement d'un affichage permettant la lecture, l'animation de ce fichier SVG en fonction des données
+temps réels envoyés sur un bus de communication développé avec Zero MQ.
+Le rendu du SVG sera réalisé via le graph de scène du framework Qt. L'accent sera mis sur les performances
+de la vue, celle-ci s'intégrant dans une plus grande application de Visualisation
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7799991
+
+
+
+
+

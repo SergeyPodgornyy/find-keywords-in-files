@@ -1,0 +1,57 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  STAGE  SUR  LES  TESTS
+AUTOMATIQUES  EN  STAGE  6  MOIS.
+Date  :  01/02/2014
+Référence  de  l’offre    :  ST/SB/ITEC96598­5761800
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Parce  qu'il  n'y  a  pas  de  succès  collectif  sans  réussite  individuelle,  de  progrès  d'entreprise
+sans  évolutions  personnelles,  Société  Générale  propose  à  chacun  de  ses  collaborateurs
+une  aventure  professionnelle  épanouissante  et  enrichissante,  qui  respecte  la  diversité  des
+talents  avec  plus  de  159  000  collaborateurs  dans  77  pays.
+Description  du  poste    :
+Votre  stage
+L  objectif  du  stage  est  de  faire  évoluer  les  outils  de  tests  de  non  régression  automatiques
+afin  d  en  étendre  la  couverture  en  terme  de  fonctionnalités  et  de  périmètres  couverts.
+Au  cours  de  ce  stage,  vous  participez  aux  missions  suivantes  :
+­ Prise  en  main  des  outils  de  tests  existants  de  non  régression  automatiques
+­ Recueil  et  échange  avec  les  autres  équipes  IT  sur  leurs  attentes
+­ Proposition  des  évolutions  à  mener,  puis  implémentation
+Apport  du  stage
+Ce  stage  vous  permettra  :
+­ D  entrer  dans  le  domaine  fonctionnel  des  produits  dérivés  sur  actions  et  indices
+(options,  futures,  forwards,  variance  swap,  )
+­ D  approfondir  vos  connaissances  techniques  en  C++
+Votre  profil
+Vous  êtes  étudiant(e)  de  niveau  bac+5  en  école  d'ingénieur  ou  université  avec  une
+spécialisation  en  informatiques.
+Vous  avez  des  notions  en  anlais  et  vous  êtes  à  l'aise  avec  C++.
+Vous  possédez  un  esprit  d'analyse  et  une  bonne  capacité  de  synthèse  afin  de  traiter  de
+multiples  informations  et  d'accomplir,  avec  succès,  les  travaux  qui  vous  seront  confiés.
+
+
+
+
+Et  si  c'était  vous?
+Si  votre  CV  est  sélectionné  par  le  recrutement,  vous  rencontrerez  un  opérationnel  pour  un
+entretien  de  motivation.  La  décision  de  vous  recruter  pour  ce  stage  appartiendra  à  ce
+manager.
+Durée  :  6  mois
+Type  :  Convention  de  stage
+Gratifications:  Selon  grilles  Société  Générale
+Profil  recherché    :
+Vous  êtes  étudiant(e)  de  niveau  bac+5  en  école  d'ingénieur  ou  université  avec  une
+spécialisation  en  informatiques.
+Vous  avez  des  notions  en  anlais  et  vous  êtes  à  l'aise  avec  C++.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5761800
+
+
+
+
+

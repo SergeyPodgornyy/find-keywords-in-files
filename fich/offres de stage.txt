@@ -1,0 +1,90 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+C&S-01 « Audit LTE » (6 mois)
+Description du stage proposé
+La Business Unit Consultancy and Services (C&S) a pour mission de réaliser des prestations d’audit
+des  réseaux  de  télécommunications  mobiles.  Au  sein  de  ce  département,  le  stagiaire  aura  pour
+objectif en étroite collaboration avec son tuteur de :
+    Analyser les données techniques produites par nos outils LTE
+    Créer  des  Statistiques  sur  les  services                                                           3G/HSDPA/LTE  et  un  environnement  dédié  aux
+Statistiques LTE grâce à un outil de représentation graphique.
+    Participer à l’élaboration de supports Techniques LTE pour nos équipes Avant Vente
+Afin de pérenniser tous ces travaux et l’utilisation des KPIs LTE, la rédaction de manuels utilisateurs
+et notes de synthèses seront à inclure dans vos travaux.
+Vous participerez donc à la création d’une offre globale LTE en synergie avec les autres équipes
+Astellia.
+Contexte de réalisation (compétences, outils, ...):
+  Environnement technique : GSM, UMTS,  IP, LTE, outils Wireshark
+  Connaissances requises : C++, SQL,  Anglais technique exigé
+Profil
+De formation supérieure en école d'ingénieur ou équivalente, avec une spécialisation dans les
+Télécommunications, vous êtes intéressé par les technologies innovantes.
+Le stagiaire devra être autonome et proactif, force de proposition et posséder des qualités
+organisationnelles lui permettant de travailler en mode projet. Il rendra compte au maître de stage et
+au management de l'avancement de son projet.
+Période
+A partir de janvier 2014 (6 mois)
+Page 2
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+C&S-02 « Audit Qualité d’Expérience sur la Data » (6 mois)
+Dans le cadre du développement de la Business Unit Consultancy & Services (C&S), Astellia propose
+un stage sur la qualité d’expérience sur les réseaux Data.
+Description du stage proposé
+La Business Unit Consultancy and Services (C&S) a pour mission de réaliser des prestations d’audit
+des  réseaux  de  télécommunications  mobiles.  Au  sein  de  ce  département,  le  stagiaire  aura  pour
+objectif en étroite collaboration avec son tuteur de :
+   Analyser les services et applications DATA utilisés par les abonnés des réseaux mobiles,
+   Analyser les données techniques correspondant à ces applications via les outils Astellia sur
+les technos 2G, 3G et 4G
+   Créer des Statistiques complémentaires représentant la qualité d’expérience
+   Participer à l’élaboration de supports Techniques pour nos équipes Avant Vente
+Afin de pérenniser tous ces travaux et l’utilisation des indicateurs, la rédaction de manuels utilisateurs
+et notes de synthèses seront à inclure dans vos travaux.
+Vous participerez donc à la création d’une offre globale en synergie avec les autres équipes Astellia.
+Contexte de réalisation (compétences, outils, ...):
+  Environnement technique : GSM, UMTS,  IP, LTE, Video, outils Wireshark
+  Connaissances requises : outils Wireshark, C++, SQL,  Anglais technique exigé
+Profil
+De  formation  supérieure  en  école  d'ingénieur  ou  équivalente,  avec  une  spécialisation  dans  les
+Télécommunications, vous êtes intéressé par les technologies innovantes et les services data tels que
+les réseaux sociaux, les sites d’échange de vidéo…
+Le  stagiaire  devra  être  autonome  et  proactif,  force  de  proposition  et  posséder  des  qualités
+organisationnelles lui permettant de travailler en mode projet. Il rendra compte au maître de stage et
+au management de l'avancement de son projet.
+Période
+A partir de janvier 2014
+Page 3
+
+
+
+
+

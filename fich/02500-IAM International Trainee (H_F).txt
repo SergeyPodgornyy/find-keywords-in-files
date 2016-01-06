@@ -1,0 +1,56 @@
+﻿ATOS RECRUTE UN/UNE IAM INTERNATIONAL TRAINEE (H/F) EN STAGE DE 4 À 6 MOIS.
+Date : 28/04/2015
+Référence de l’offre : 186091-9536428
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid. Pour plus d'information : www.atos.net
+Description du poste :
+Vous rejoignez une équipe, dont les principales missions sont les suivantes :
+-Réaliser des missions de service professionnel pour concevoir les référentiels d'identité de grands clients.
+-Développer des Workflows d'habilitations selon les métiers
+-Participer aux avant-ventes de la solution IAM en imaginant des architectures adaptées aux besoins clients
+-Réaliser des démonstrations, maquettes, vérifications de principe afin de promouvoir et vendre les solutions
+d'Evidian.
+Profil recherché :
+BAC+5, Diplôme d'Ingénieur ou cycle universitaire équivalent. Expertise en solutions et produits de sécurité
+Capacité au développement à des fins d'intégration : développement workflow (Java), LDAP, etc…
+Bonne qualité rédactionnelle en français et/ou anglais pour rédiger les réponses aux appels d'offres
+Capacités d'écoute et compréhension des besoins clients, avec un bon sens commercial
+Autonomie et sens de l'intégration dans une équipe
+Mobilité nationale internationale (déplacements occasionnels et limités dans la durée à 15 jours)
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Information additionnel
+Le Centre d'Expertise d'Evidian (EEC) rassemble et anime les experts de l'offre Evidian qui conduisent les
+opérations d'avant-vente technique et réalisent les services professionnels pour les clients d'Evidian. L'EEC
+contribue à l'image professionnelle d'Evidian, en ajoutant à la technicité de ses produits une parfaite maîtrise
+des solutions et des projets IAM.
+Selon votre formation et votre expérience, vous serez amené(e) à développer votre expertise sur un produit,
+ou un domaine particulier : habilitation, workflow, annuaire, ... Vous participerez à l'animation du Centre
+d'Expertise en diffusant à vos collègues cette expertise, et travaillerez en étroite relation avec les équipes de
+
+
+
+
+recherche et développement.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9536428
+
+
+
+
+

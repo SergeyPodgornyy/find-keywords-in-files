@@ -1,0 +1,116 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : SAS OET                                                             Adresse :   878 avenue des champs blancs
+Domaine d’activité : Automatisme industriel                                               Ville : Cesson Sévigné
+Représentant de l’entreprise : PIQUE Patrick                                              N° téléphone : 0223211200
+Sa qualité : Président                                                                    N° fax :
+N° de Siret : 30189727800026                                                              Site Web : www.oet.fr
+N° NAF : 4321A                                                                            Courriel : mlegros@oet.fr
+Statut Juridique : SAS                                                                    Signataire de la convention : Patrick Pique
+Effectif de l’établissement : 290
+Nom de l’encadrant de stage : A définir                                                   Chargé du suivi administratif : LEGROS Marine
+Sa qualité :                                                                              Sa qualité : Chargée de RH
+Service :                                                                                 N° téléphone : 0223211200
+N° téléphone :                                                                            Email :   mlegros@oet.fr
+Email :                                                                                   Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué :   Recherche et développement
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                   13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                                       En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                                       16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                      En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                        entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                                     entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé : Intégration d’un composant cartographique dans une solution logicielle
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Sujet proposé détaillé :
+Description  du  stage  :
+Dans le cadre de ses travaux R&D, notamment sur l’évolution de nos solutions décisionnelles dédiées à l’industrie
+agro-alimentaire, OET recherche un stagiaire pour une durée de 3 à 6 mois.
+Le stage consistera à :
+    Réaliser une étude sur les composants cartographiques et de calcul d’itinéraires du marché
+    Analyser la compatibilité de ces composants avec nos solutions applicatives actuelles
+    Réaliser une maquette avec le ou les composants retenus
+Les compétences souhaitées sont :
+    Langages informatiques : C++, Java, C#
+    Base de données : Oracle, SQL ou équivalent
+Profil du  candidat :
+De formation supérieure à dominante informatique, vous suivez un cursus master ou ingénieur, possédez une réelle
+curiosité d'esprit vous ayant amené à travailler dans des domaines concrets d’application. Vous savez vous conformer
+à une confidentialité absolue sur les travaux confiés.
+Vous êtes autonome, persévérant et avez l’esprit de synthèse.
+Informations  complémentaires  :
+Stage basé à Cesson Sévigné (35) - Arrêt de bus Les Champs Blancs, lignes 1 et 35
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : A convenir                                                                               Nom de l’Etudiant :
+Modalités de versement : Virement                                                                                      Diplôme :
+Avantages en  nature  à  préciser :  Tickets  restaurant  +
+50% de remboursement sur l’abonnement transport commun
+Temps horaire hebdomadaire : 37h + 1 RTT par mois
+Date limite de réponse à cette proposition : Fin janvier 2015
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui,
+UNIVERSITE DE RENNES 1                                                                                                 TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                  FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Merci d’adresser votre CV et lettre de motivation sous référence « STAGE/INFO »   à notre
+service RH par email à rh@oet.fr
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

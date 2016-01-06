@@ -1,0 +1,45 @@
+﻿Stage  / Etat de l'Art Evaluation et Int
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226514 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899966
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 4 à 6 mois.
+Vous rejoindrez l'équipe Cyberdéfense au sein de Cassidian CyberSecurity. Cette équipe a pour
+mission la mise en place et l'opération des capacités Cyberdéfense (analyse, construction,
+supervision, réponse à incidents).
+Le stage se déroule dans un environnement d'une plateforme technique R&D représentative de
+réseaux d'entreprises multi-sites (Linux, Windows, AD, serveurs applicatifs, Firewalls, Routeurs,
+NAS, Proxy, Outils de supervision...).
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Une phase d'étude théorique sur l'état de l'art des outils SIEM ou IDS acteurs dans la supervision
+de la sécurité des SI
+- Une évaluation fonctionnelle de 2 à 3 solutions SIEM ou IDS sur la plateforme R&D
+- L'identification des possibilités d'intégration de ces outils dans la solution de supervision de la
+sécurité soutenue par EADS.
+Un état de l'art, un bilan des tests et maquettage d'interconnexion sont attendus à l'issue de ce stage.
+PROFIL  :
+Bac+5 systèmes, réseaux et la sécurité ainsi que sur Linux / Windows.
+Travaille en équipe et excellentes qualités relationnelles.
+Anglais:intermédiaire.
+Français:courant
+
+
+
+
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899966
+
+
+
+
+

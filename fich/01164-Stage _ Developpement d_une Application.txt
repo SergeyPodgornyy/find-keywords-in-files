@@ -1,0 +1,36 @@
+﻿EADS  RECRUTE  UN/UNE  STAGE  /  DÉVELOPPEMENT  D&#39;UNE
+APPLICATION  EN  STAGE  6  MOIS.
+Date  :  01/02/2014
+Référence  de  l’offre    :  10226033  TL  FR­5647060
+Domaine  d’activité    :  Information  systems  /  Telecom  (Development  Engineer)
+Type  de  contrat    :  Stage
+Localisation    :  Suresnes  92150,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  months
+Description  de  l’entreprise    :
+EADS
+Description  du  poste    :
+EADS  Innovation  Works  (Suresnes)  recherche  un(e)  stagiaire  pour  une  durée  de  6  mois.
+Cette  offre  de  stage  est  à  pourvoir  à  compter  du  3  février  2014  (sujette  à  une  certaine
+flexibilité).
+Vous  aurez  par  exemple  les  missions  suivantes  :
+­ Etudier  le  processus  actuel  de  gestion  du  Plan  de  Conférences  annuel  qui  démarre  à
+l'expression  des  besoins  dans  tous  les  pays  où  Innovation  Works  est  implanté,  et  passe  par
+une  phase  de  validation  jusqu'à  l'exécution  du  plan  (inscription  aux  conférences,  collecte
+des  compte­rendus),
+­ Prendre  connaissance  du  cahier  des  charges  qui  décrit  les  fonctionnalités  d'une
+application  informatique  qui  permettrait  d'automatiser  au  maximum  ce  processus  et  d'en
+faciliter  la  gestion,
+­ Réaliser  cette  application  et  la  tester.
+Profil  recherché    :
+Etudiant  Bac  +  5  et  spécialisé(e)  en  Informatique.
+Compétences  :  ASP.NET,  C#,  HTML,  JAVA  SCRIPT,  SQL
+Travaille  en  équipe,  qualités  relationnelles.
+Anglais  :  avancé
+Pour  postuler    :  http://airbusgroup.contactrh.com/jobs/1536/5647060
+
+
+
+
+

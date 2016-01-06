@@ -1,0 +1,261 @@
+﻿Capgemini Division Aérospatiale & Défense Rennes
+Catalogue des stages 2015
+
+
+
+
+                                                                                       Capgemini           Application Services Fra
+                                    SOMMAIRE
+Développement d’un système          de renseignement ……………………………                       ………. ..             ... 3
+Portage évolutif d'un logiciel d    e modélisation et de représentation de l’envi                          ronnement marin .... 4
+Gestion technique des stocks        de munitions ...                                                       .. 5
+Développement de composan           t de supervision de système d’information lo       gistique ...        . 6
+Mise en place d’une console d       e suivi d’évènements logistiques ...                                   .. 7
+Système de dématérialisation        de documents et de gestion des processus           de signatures ...   . 8
+Capgemini France
+AeroSpace & Défense - Skill Group   Défense - Rennes                                   Page 2
+© Capgemini - 2014 - Reproduct      ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la      charte de la diversité en entreprise
+
+
+
+
+                                        Capgemini                                          Application Services Fra
+Division Aérospatiale & Défense
+Développement                           d’un    système    de    re                        nseignement
+COLOMBE
+CONTEXTE
+COLOMBE  est  un  système  d            e  renseignement  utilisé  par  la  Marine
+Nationale.
+Cette  application  s’architecture      autour  d’un     Système  d’Information
+Géographique  (SIG)  qui  cartog        raphie  les  fonds  marins  et  stocke  les
+informations métier dans une b          ase de données centralisée. Capgemini
+développe pour la Marine Natio          nale la nouvelle version de ce système,
+qui va être entièrement remis à n       iveau.
+Ainsi, le SIG va être remplacé, l       a version de la base de données va être
+mise  à  jour  et  une  nouvelle  f     onctionnalité  de  comparaison  d’images
+basée sur le SIG va être dévelop        pée.
+STAGE PROPOSE
+Stage A&D/MCSD/COLOMBE
+Le but est de participer aux 2 ph       ases du projet :
+•La phase de remise à niveau de                                                            s logiciels utilisés, principalement axée autour de   la mise à jour de la
+base de données et du remplace          ment de la solution de SIG,
+•La phase de mises en place des                                                            nouvelles fonctionnalités principalement centrée      sur la manipulation
+d’images intégrées au SIG.
+2 stagiaires sont nécessaires et i      nterviendront sur                                  des domaines distincts.
+Le sujet du présent stage permet                                                           d’aborder l’ensemble des phases d’un projet de        la conception à
+l’intégration du produit fini. Le sta   giaire devra réaliser les étapes suivantes :
+    Montée en compétence s             ur le projet,
+    Compréhension de l’envir           onnement, de l’existant et des enjeux,
+    Participation aux activités        de réalisation du projet :
+    migration,
+    développement,
+    tests unitaires
+    Rédaction de la documen            tation utilisateur,
+    Intégration et validation s        ur les plateformes Capgemini ;
+    Production d’un rapport d          écrivant l’ensemble de ces étapes.
+Les stagiaires seront intégrés à l                                                         ’équipe projet, composé de responsables fonctio       nnels, d’architectes et
+d’ingénieurs de développement.
+MOTS CLES
+Technologies utilisées : Windows        , Java, SIG ArcGIS, Oracle, SQL, Swing.
+Capgemini France
+AeroSpace & Défense - Skill Group       Défense - Rennes                                   Page 3
+© Capgemini - 2014 - Reproduct          ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la          charte de la diversité en entreprise
+
+
+
+
+                                      Capgemini                                               Application Services Fra
+Division Aérospatiale & Défense
+Portage  évolutif                     d'un  logiciel  de  modélis                             ation  et  de
+représentation de                     l’environnement marin
+CONTEXTE
+Dans le  cadre de la lutte  anti                                                                                         sous-marine, un département de la  Marine Na     tionale utilise  le  logiciel
+DOUSSELINE à bord de ses bât                                                                                             iments de surface et de ses sous-marins.
+Le logiciel permet :
+-                                     d’acquérir des données                                                             d’environnement en temps réel (température, s    alinité, bruit ambiant,…)
+                                      grâce à des sondes en m                                 er,
+-                                     puis de les traiter afin de                                                        les présenter sous forme de graphiques ou de c   artes.
+STAGE PROPOSE
+Stage A&D/MCSD/ DOUSSELIN             E
+Le but du stage est de participer     à la réalisation d’un portage applicatif (logiciel et   matériel) afin de
+supprimer les obsolescences du        système opérationnel.
+Le stagiaire devra réaliser les éta   pes suivantes :
+    Montée de compétence s           ur le projet ;
+    Compréhension des enje           ux client ;
+    Participation au portage d       e l'application existante sous Windows NT vers          Windows 7
+    Intégration de nouveaux          matériels (cartes d'acquisition).
+    Validation de l’application      sous Windows 7
+    Prise en charge d'évoluti        ons visant à intégrer le logiciel dans un environn      ement opérationnel plus
+large
+    Implication dans les écha        nges avec le client pour la validation des évolutio     ns.
+    Mise à jour de la docume         ntation
+En tant que Consultant, vous ser      ez intégré(e) dans une équipe projet et placé(e)        sous l’autorité du chef
+de projet ou d’un chef d’équipe
+MOTS CLES
+Technologies mises en œuvre :         C++, fortran, Visual Studio 2013.
+Capgemini France
+AeroSpace & Défense - Skill Group     Défense - Rennes                                        Page 4
+© Capgemini - 2014 - Reproduct        ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la        charte de la diversité en entreprise
+
+
+
+
+Capgemini                             Application Services Fra
+Division Aérospatiale & Défense
+Gestion technique                     des stocks de munitions
+CONTEXTE
+Capgemini a dév                       eloppé et maintien une application de type Web            de gestion des stocks de
+munition de l’ens                     emble des dépôts de l’Armée de Terre. Depuis 2            011, cette application
+devient l’applicati                   on de référence pour l’ensemble des Armées : T            erre, Air et Mer.
+Le système perm                       et :
+    La gestion des données           de référence :
+    La gestion des directives        de gestion : élaboration, consultation et suivi de        l’évolution des ordres
+de mouvements de ress                 ources (munitions),
+    La comptabilité : mise à j       our en temps réel de l’état du stock des munition         s,
+    La gestion des stockage          s : positionnement physique des munitions dans            les locaux des dépôts,
+    La gestion des visites : s       urveillance de l’état des munitions lors de visites       techniques périodiques,
+    La gestion des Faits Tec         hniques : traitement des événements nécessitan            t une intervention sur
+une munition,
+    La gestion des munitions         d’instruction : planification et suivi de l’utilisation   des munitions
+d’instruction.
+STAGE PROPOSE
+Stage A&D/MCSD/GTSM
+Ce stage porte sur la réalisatio      n d’évolutions fonctionnelles/techniques de l’App         lication. Ces évolutions
+porteront sur la mise en place de     nouveaux besoins liées aux armées.
+En tant que consultant (H/F), vo      us serez intégré(e) dans l'équipe projet et placé(        e) sous l’autorité du chef
+de projet :
+- dans un premier temps, vous m       onterez en compétence sur le projet et sur les e          njeux du client,
+- Vous serez en charge de la co       nception et la rédaction des spécifications fonct         ionnelles concernant les
+évolutions,
+- Vous   développerez et mettrez      en œuvre les évolutions demandées,
+- Vous participerez aux phases d      e tests d'intégration et de validation,
+-  Dans  le  cadre  de  la  TMA  (T   ierce  Maintenance  Applicative),  vous  serez  a         mené  à  participer  à  la
+correction des anomalies surven       ues en opérationnel.
+MOTS CLES
+Technologies mises en œuvre : J       ava/J2EE, Oracle, Struts, Eclipse, Apache, Tom            cat.
+Capgemini France
+AeroSpace & Défense - Skill Group     Défense - Rennes                                          Page 5
+© Capgemini - 2014 - Reproduct        ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la        charte de la diversité en entreprise
+
+
+
+
+                                         Capgemini                                               Application Services Fra
+Division Aérospatiale & Défense
+Développement d                          e composant de supervisio                               n de système
+d’information logist                     ique
+CONTEXTE
+SILRIA est le nouveau Systèm             e d’Information
+Logistique de suivi de la Resso          urce Inter Armée.
+Ce système doit offrir à l’ensemb        le des acteurs
+de la chaîne de soutien logistiqu        e des armées
+une visibilité fiable et en quasi te     mps réel sur la
+position des ressources tout au l        ong de leur
+acheminement.
+STAGE PROPOSE
+Stage A&D/MCSD/SILRIA
+Le système SILRIA est composé            d’équipements centraux de type serveur et d’éq          uipement permettant de
+produire    des    évènements    l       ogistique    sur    les    flux    physiques    obser   vés                         (évènements    de
+chargement/déchargement, ….).
+Terminaux de
+Portique à quai
+capture
+La supervision globale du systè          me est un enjeu essentiel de réussite du projet         ; elle doit permettre une
+identification aisée et rapide des       dysfonctionnements du système.
+Intégré  à  l’équipe  projet,  le  sta   giaire  est  chargé  de  développer  des  compos        ants  de  supervision  de
+l’application. Il est encadré par        un référent technique qui l’accompagne quotidie         nnement sur l’ensemble
+des travaux à mener.
+MOTS CLES
+Technologies Web: xml/xsd, wsd           l, jms, smtp
+Langage: Java
+Capgemini France
+AeroSpace & Défense - Skill Group        Défense - Rennes                                        Page 6
+© Capgemini - 2014 - Reproduct           ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la           charte de la diversité en entreprise
+
+
+
+
+                                       Capgemini                                            Application Services Fra
+Division Aérospatiale & Défense
+Mise  en  place                        d’une  console  de  suivi                            d’évènements
+logistiques
+CONTEXTE
+SILRIA est le nouveau Systèm           e d’Information
+Logistique de suivi de la Resso        urce Inter Armée.
+Ce système doit offrir à l’ensemb      le des acteurs
+de la chaîne de soutien logistiqu      e des armées
+une visibilité fiable et en quasi te   mps réel sur la
+position des ressources tout au l      ong de leur
+acheminement.
+STAGE PROPOSE
+Stage A&D/MCSD/SILRIA
+Au sein du système SILRIA, de          nombreuses données métier sont partagées dan         s les différents modules
+de l’application. De leur cohéren      ce dépend la cohérence du système global. Les        différentes données sont
+manipulées à travers des IHM W         EB permettant aux utilisateurs de paramétrer l       e système, de suivre ou
+d’organiser les flux logistiques.
+Le  stagiaire  est  chargé  de  pro    poser  des  concevoir  les  IHM  permettant  de  c   onsulter  et  modifier  les
+différentes données métier et de       générer leur diffusion vers les différents modules   de SILRIA :
+    très ergonomique
+    légère et portable
+    sécurisée
+Intégré  à  l’équipe  projet,  le      stagiaire  est  encadré  par  un  référent  techn    ique  qui  l’accompagne
+quotidiennement sur l’ensemble         des travaux à mener.
+MOTS CLES
+Technologies Web: Grails, Wsdl,        JavaScript, Fosstrack
+Langage: Groovy, Java
+Capgemini France
+AeroSpace & Défense - Skill Group      Défense - Rennes                                     Page 7
+© Capgemini - 2014 - Reproduct         ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la         charte de la diversité en entreprise
+
+
+
+
+                                      Capgemini                                            Application Services Fra
+Division Aérospatiale & Défense
+Système de déma                       térialisation de documents                           et de gestion
+des processus de                      signatures
+CONTEXTE
+                                      Capgemini développe pour un s                                                                                  ervice du Ministère de la Défense, un système         de dématérialisation de
+                                      documents  administratifs,  inclua                                                                             nt  la  gestion  des  processus  de  signature.  Ce   tte  dématérialisation  et
+                                      formalisation de l’ensemble du p                                                                               rocessus d’un point de vue informatique est un        gage de modernisation
+du service public.
+                                      Avec l’utilisation de ce Système                                                                               d’Informations, les principaux bénéfices attendus     sont :
+                                      -                                                    L’automatisation de l’ens     emble des procédures à
+                                                                                           l’exception des étapes d      écisionnelles ;
+                                      -                                                    Le suivi des différentes é    tapes des processus ;
+                                      -                                                    La fiabilisation de la proc   édure ;
+                                      -                                                    L’amélioration de la prod     uctivité de
+                                                                                           l’Administration;
+                                      -                                                    La recentralisation des e     ffectifs sur leur cœur de
+                                                                                           métier.
+                                      STAGE PROPOSE
+Stage A&D/MCSD/JULIA
+Le but du stage est de développe      r un système de dématérialisation de document        s administratifs et de
+réaliser les évolutions demandée      s par notre client.
+Le sujet du présent stage permet      d’aborder l’ensemble des phases d’un projet de       la conception à
+l’intégration du produit fini.
+Le stagiaire devra réaliser les éta   pes suivantes :
+    Montée en compétence             sur le projet ;
+    Participation aux activité       s de réalisation du projet (développement, tests u   nitaires);
+    Intégration/validation sur       les plateformes Capgemini ;
+    Production d’un rapport.
+Le stagiaire sera intégré à l’équip   e projet, composé de responsables fonctionnels       , d’architectes et
+d’ingénieurs de développement.
+MOTS CLES
+Technologies mises en œuvre : J       ava, J2EE, GWT, PostgreSQL, OpenLDAP, SP             RING, Maven, Activity,
+Red Hat, Windows serveur
+Capgemini France
+AeroSpace & Défense - Skill Group     Défense - Rennes                                     Page 8
+© Capgemini - 2014 - Reproduct        ion interdite sans autorisation écrite préalable
+Capgemini est signataire de la        charte de la diversité en entreprise
+
+
+
+
+

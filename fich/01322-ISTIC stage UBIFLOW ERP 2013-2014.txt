@@ -1,0 +1,119 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : UBIFLOW                                                             Adresse : La Vallée
+Domaine d’activité : Web                                                                  Ville : 35830 BETTON
+Représentant de l’entreprise : Antoine KRIER                                              N° téléphone : 02 99 83 05 36
+Sa qualité : Président                                                                    N° fax :
+N° de Siret :   429 751 654 000 63.                                                       Site Web : http://www.ubiflow.net/
+N° NAF : 6312 Z                                                                           Courriel : recrutement@ubiflow.net
+Statut Juridique : SAS                                                                    Signataire de la convention : Antoine KRIER
+Effectif de l’établissement : 33
+Nom de l’encadrant de stage : Aurélien LEMAIRE                                            Chargé du suivi administratif : Magali GENTIL
+Sa qualité : Responsable R&D                                                              Sa qualité : Responsable développement des RH
+Service : R&D                                                                             N° téléphone : 02 30 95 50 52
+N° téléphone : 02 56 35 50 68                                                             Email : magali.gentil@ubiflow.net
+Email : aurelien.lemaire@ubiflow.net                                                      Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : R&D
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): La Vallée 35830 BETTON
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+ a    olution    UGAR    RM        es    RP
+L'objet  du  stage
+L'ensemble  des  activités  de  la  société  Ubiflow  est  actuellement  centralisé  dans  l'outil  Sugar  CRM,  qui  permet  de  piloter  l'activité
+marketing,  l'activité  commerciale,  le  suivi  des  commandes,  la  facturation  et  le  suivi  de  la  production.
+La  croissance  de  la  société  fait  apparaître  des  besoins  de  plus  en  plus  spécialisés  dans  chaque  service  qui  nécessitent  de  faire
+évoluer  les  outils  actuellement  utilisés,  soit  vers  une  autre  solution  centralisée,  soit  vers  un  ensemble  de  solutions  décentralisées
+et  spécifiques  à  chaque  métier,  soit  vers  un  compromis  entre  les  deux  approches.
+Dans  le  cadre  de  la  croissance  de  la  société,  nous  souhaitons  engager  un  audit  sur  nos  outils  internes  et  une  étude  sur  les
+solutions  existantes  afin  de  choisir  le  ou  les  outils  que  nous  mettrons  en  œuvre  pour  les  prochaines  années.
+L'objectif  du  stage  est  donc  de  faire  la  synthèse  des  besoins  identifiés  dans  les  différents  services,  d'étudier  et  de  faire  la  synthèse
+des  différents  outils  permettant  de  répondre  à  ces  besoins,  d'identifier  les  impacts  sur  l'existant  et  de  préparer  le  projet  de  mise  en
+œuvre  de  la  nouvelle  solution.
+Le  contexte  du  stage
+Le  stage  est  prévu  pour  une  durée  de  3  à  4  mois,  intégré  à  l'équipe  de  R&D.
+Le  stagiaire  sera  encadré  par  un  chef  de  projet  pour  le  cadrage  du  projet  et  le  suivi  d'avancement,  des  jalons  de  livraison
+intermédiaires  seront  définis.
+En  collaboration  avec  le  chef  de  projet,  le  stagiaire  sera  amené  à  définir  les  différentes  tâches  nécessaires  à  l'aboutissement  de
+chaque  objectif  intermédiaire,  ainsi  que  l'ordonnancement  de  ces  tâches.
+L'adoption  d'une  méthode  itérative  et  incrémentale  est  fortement  encouragée.
+Profil  recherché
+   Le  stage  est  ouvert  à  des  étudiants  de  4è  ou  de  5è  année  de  filière  informatique,  idéalement  MIAGE.
+   Les  travaux  intègrent  une  grande  composante  d'étude,  de  compréhension  et  de  tests.  Il  est  donc  nécessaire  que  vous
+soyez  rigoureux  dans  votre  travail  et  que  vous  ayez  des  qualités  rédactionnelles  et  de  synthèse.
+   Vous  êtes  passionné  par  l'informatique  et  les  nouvelles  technologies,  vous  êtes  ouvert  aux  nouvelles  connaissances  et
+vous  recherchez  la  satisfaction  des  utilisateurs.
+   Enfin  vous  partagez  les  valeurs  d'Ubiflow  :  transparence,  plaisir  dans  le  travail,  innovation,  respect  de  la  diversité,
+éthique  et  loyauté
+Ce  que  nous  vous  offrons  :
+Nous  proposons  un  environnement  de  travail  motivant,  convivial  et  basé  sur  nos  valeurs,  avec  la  perspective  d'une  vraie  montée
+en  compétence  associée  au  niveau  d'autonomie  et  de  responsabilité  accordé  sur  les  missions  proposées.
+  De  rejoindre  une  équipe  dynamique,  jeune,  dans  une  société  en  forte  croissance.
+  D'évoluer  dans  un  secteur  d'activité  d'avenir.
+  D'évoluer  dans  un  cadre  de  travail  d'exception,  notre  Ubiplex,  alliant  design  et  patrimoine  (Château  réaménagé  en  bureau
+et  accueillant  un  espace  de  coworking)
+UNIVERSITE DE RENNES 1                                                                                                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Localisation  :  BETTON,  La  Vallée,  35830.
+Indemnité  de  stage  selon  cadre  légal  :  436,05€ par  mois
+Référence  de  l'offre  :  UBI  _RD_ERP_14
+Merci  d'adresser  votre  dossier  de  candidature  (CV  +  lettre  de  motivation),  en  précisant  la  référence  de  l'offre,   à  :
+recrutement@ubiflow.net
+NFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 436,05                                                                                                      Nom de l’Etudiant :
+Modalités de versement : par chèque                                                                                                       Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35H
+Date limite de réponse à cette proposition : 01/06/14
+Souhaitez-vous  que  les  étudiants  intéressés  vous  contactent  directement                                                            ?  Oui  à  l'adresse :
+recrutement@ubiflow.net
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

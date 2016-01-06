@@ -1,0 +1,41 @@
+﻿MULTIPOSTING RECRUTE UN/UNE STAGE DÉVELOPPEUR WEB H/F EN STAGE DE  3 À  12
+MOIS.
+Date : 23/02/2015
+Référence de l’offre : StageDev-8934665
+Domaine d’activité : Internet - E-commerce (Webplanner)
+Type de contrat : Stage
+Localisation : Paris 75009, FR
+Durée du contrat : De 3 à 12 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Multiposting accompagne son partenaire, Intuition Software, dans la recherche dans stagiare de Développeur
+Web H/F.
+Intuition Software est entreprise du web autofinancée. Nous réalisons des outils à l'usage des professionnels
+du recrutement.
+Nos technologies sont Python, Debian, MySQL, les standards du web, Git.
+Nous pratiquons un développement agile et pragmatique sans dogmatisme.
+Description du poste :
+Votre travail sera difficile, gratifiant, et vous apportera une expérience formatrice. Vous apprendrez au
+contact du directeur technique et vous bénéficierez de son expertise technique.
+Vous contribuerez directement au succès de l'entreprise en réalisant des fonctionnalités visibles par nos
+clients.
+Vos actions porteront sur l'intégralité de la chaîne technique:
+conception d'interface utilisateur,
+modèle de données,
+programmation coté serveur et client,
+suivi en production.
+Profil recherché :
+Fier de vos réalisations, vous cherchez toujours à améliorer vos compétences et vos méthodes de travail.
+Vous avez un sens de l'élégance technique et une sensibilité pour la conception d'interfaces utilisateur.
+Vous êtes autonome et capable de travailler à distance.
+Vous lisez des livres techniques en anglais comportant des animaux sur la couverture.
+Vous participez à une communauté technique en ligne.
+En cas de succès vous pourrez intégrer notre équipe et bénéficier d'un environnement de travail qui vous
+apportera la satisfaction de contribuer directement à l'expérience quotidienne de centaines d'utilisateurs.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8934665
+
+
+
+
+

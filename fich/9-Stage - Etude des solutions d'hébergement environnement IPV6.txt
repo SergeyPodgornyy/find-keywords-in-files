@@ -1,0 +1,36 @@
+﻿Stage - Etude des solutions d’hébergement environnement IPV6
+Société de conseil en technologies de plus de 4 200 personnes, SII est structurée autour d'un réseau d'agences à taille
+humaine. Depuis plus de 30 ans, notre réussite est fondée sur une culture d'entreprise forte et des valeurs reposant
+sur la proximité et la confiance.
+L'agence de Rennes, située au cœur de la technopole Rennes-Atalante, compte déjà plus de 480 collaborateurs et
+prévoit de recruter plus de 50 personnes sur 2013 sur les secteurs des télécoms, de l'industrie et des services.
+Contexte du stage :
+Intégré au pôle Infrastructure, et encadré par un architecte système, votre mission consistera à faire l’étude et la veille
+sur les solutions d’hébergement en environnement réseau full IPv6.
+Le stage se déroulera en deux étapes :
+-Réalisation d’une étude sur les incidences de la mise en œuvre d’IPv6 sur un environnement d’hébergement orienté
+Web (serveurs Web, serveurs d’application, bases de données, répartiteurs de charge, …)
+-Montage d’une plateforme complète « full IPv6 », puis test du déploiement de différents développements sur cette
+plateforme.
+Technologies mises en oeuvre :
+IPV6, Réseaux Lan, Wan, Environnement Linux, plateformes d’hébergement web...
+Formation souhaitée :
+Ecoles d’Ingénieurs ou Master 2 en informatique
+Profil souhaité :
+Nous recherchons un stagiaire avec de bonnes connaissances des environnements Linux (Ubuntu/Debian, Red Hat) et
+des réseaux (LAN, IP, Wan). Une première approche des produits mis en œuvre sur une plateforme d’hébergement
+Web (Apache, MySQL, Tomcat, MongoDB, HAProxy, …) serait un plus. Au delà de ces connaissances techniques, nous
+recherchons un stagiaire autonome, méthodique et force de proposition.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en fonction des exigences de
+votre école.
+Si vous souhaitez répondre à cette offre, merci de nous adresser votre candidature à : drh-ouest@sii.fr
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees"  2013/2014 pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                                                1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite préalable de SII.   Usage interne SII
+
+
+
+
+

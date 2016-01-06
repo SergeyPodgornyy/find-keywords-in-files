@@ -1,0 +1,46 @@
+﻿CS COMMUNICATION ET SYSTEMES RECRUTE UN/UNE MODÉLISATION DE SI - SYST. & RÉS.
+H/F EN STAGE DE 5 À 6 MOIS.
+Date : 09/12/2014
+Référence de l’offre : SEC/LPR/N°26-8285526
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Le Plessis Robinson 92350, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Dans le cadre du développement de l'amélioration de ses produits, CS souhaite développer un nouveau mode
+de visualisation des systèmes d'information. Pour cela, le stagiaire en systèmes et réseau devra mettre en
+place le format de gestion des informations sur les SI. Ce produit pourra s'interfacer sur des outils de gestion
+de parc ou permettre la mise en place de scénarios d'attaque.
+Le modèle devra :
+- Etre capable de représenter tous les composants d'un système d'information (réseau, systèmes, services, etc)
+- Pouvoir s'interfacer avec les produits suivants : Prélude, Vigilo
+- Permettre de réaliser une démonstration de la visualisation des attaques réalisées par les testeurs en
+intrusion
+Dans un premier temps, un modèle de représentation des réseaux et des différentes instances présentes
+dedans devra être réalisé.
+Ensuite, le stagiaire devra réaliser des interfaces de récupération de données afin d'alimenter le modèle. Ces
+interfaces devront être compatibles avec les outils Vigilo et Prelude.
+Enfin, un outil de génération de scénarios visualisables avec l'outil créé devra être développé, afin de
+représenter les tests d'intrusion réalisés par les équipes C-S.
+Durée du stage : 6 mois.
+Profil recherché :
+Ingénieur  de  formation  ou  équivalent  universitaire                                                            (Bac+4/5),  en  informatique,  vous  justifiez  des
+compétences techniques suivantes : Solides connaissances en systèmes et réseaux, maîtrise de Python.
+Compétences linguistiques: Anglais technique (lu et écrit)
+Merci d'adresser votre candidature (CV + Lettre de motivation) à Gariné KELIJIAN par mail à l'adresse
+suivante : recrutement@c-s.fr , en précisant la référence SEC/LPR/N°26.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8285526
+
+
+
+
+

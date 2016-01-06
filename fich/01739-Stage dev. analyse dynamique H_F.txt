@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉV. ANALYSE DYNAMIQUE H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 174593-7820229
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Intégré à nos équipes projets et pour le compte de nos plus grands clients du secteur des Services, de
+l'Industrie,  du  Secteur  Public,  de  l'Automobile,  des  Telecom  ou  de  la  Finance,  vous  participez  à  la
+conception, au développement et à la mise en production des applications dans des domaines variés.
+Vous avez pour missions de :
+- modifier des programmes conformément à l'analyse détaillée,
+- planifier et exécuter des tests unitaires jusqu'à obtenir un résultat conforme,
+- seul ou en équipe, spécifier les interfaces utilisateurs/système.
+Le but de ce stage est l'écriture de propriétés formelles pour un logiciel critique embarqué et la vérification de
+ces propriétés par la technique de preuve déductive basée sur le calcul de la WP (weakest precondition) avec
+l'outil Frama-c, ainsi que par analyse dynamique en utilisant un outil développé en interne. Puis, finalement,
+établir une comparaison entre les deux techniques (statique et dynamique), en se basant sur les propriétés
+écrites, afin de mettre en évidence les contraintes à imposer sur le code à vérifier pour rendre l'une ou l'autre
+des techniques recevables et essayer d'en dégager une méthodologie permettant d'industrialiser le processus
+si c'est possible.
+Profil recherché :
+De formation supérieure en informatique, vous êtes à la recherche d'un stage de fin d'études pour début 2015.
+Compétences recherchées :
+- Connaissance du langage C, des techniques de vérification formelles et de programmation OCaml
+Vous êtes motivé(e) et rigoureux(se), aimez travailler en équipe et souhaitez vous investir sur un projet.
+Rejoignez-nous !
+Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous le désirez,
+dans toute autre région dans laquelle Atos Systems Integration recrute.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7820229
+
+
+
+
+

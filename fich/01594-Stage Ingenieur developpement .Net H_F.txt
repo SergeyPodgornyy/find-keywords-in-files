@@ -1,0 +1,50 @@
+﻿STERIA RECRUTE UN/UNE STAGE INGÉNIEUR DÉVELOPPEMENT .NET H/F EN STAGE DE 5 À
+12 MOIS.
+Date : 06/10/2014
+Référence de l’offre : LyonIS/1014/EDR-7696993
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Lyon 69005, FR
+Durée du contrat : De 5 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Steria est un leader des services du numérique qui accompagne les entreprises et les administrations à relever
+leurs défis IT complexes et à appréhender les enjeux métier propres à leur secteur.
+Partenaire de la transformation de ses clients, Steria travaille en étroite collaboration avec eux pour leur
+apporter ses conseils, son expertise du numérique, ainsi que ses services d'optimisation des infrastructures,
+des applications et des processus métier. Pour plus d'informations, rendez-vous sur www.steria.com et suivez
+@Steria sur Twitter.
+Suite au rapprochement de Steria et de Sopra, Groupe Steria SCA et l'ensemble de ses filiales font partie de
+Sopra Steria Group, constitué en septembre 2014 et figurant parmi les leaders européens de la transformation
+numérique avec l'un des portefeuilles d'offres les plus complets du marché. Fort de 35 000 collaborateurs
+dans plus de 20 pays, Sopra Steria Group affiche un chiffre d'affaires pro forma 2013 de 3,1 milliards
+d'euros.
+Description du poste :
+Les collaborateurs de Steria Lyon interviennent sur un ensemble de projets dans le domaine du secteur public
+pour :
+- prendre en charge la réalisation de développements et de tests sur des modules
+- appliquer les exigences fonctionnelles et techniques du projet (spécifications, conception, réalisation et
+tests)
+Descriptif de la mission:
+Vous intégrez l'équipe projet et travaillez en interface avec l'ensemble de l'équipe projet (chef de projet,
+responsable fonctionnel, responsable de validation, architectes) pour :
+- la rédaction de spécifications techniques
+- la contribution à la rédaction des dossiers de conception
+- la réalisation et le développement applicatif
+- les tests et validation
+Environnement technique du stage: .Net, C#, nhibernate, asp.net, azman, Oracle, ...
+Profil recherché :
+Vous êtes étudiant(e) en école d'ingénieurs ou université, de formation niveau Bac+4/5, vous justifiez de
+solides connaissances théoriques sur les technologies mentionnées.
+Vous avez des connaissances en développement d'applications et avez la volonté d'apprendre les nouvelles
+technologies.
+Vous êtes curieux(se), dynamique, rigoureux(se) et autonome. Vous avez l'esprit de synthèse, le sens du
+relationnel et de la communication.
+Nos opportunités de carrière sont ouvertes à tous.
+Pour postuler : http://steria.contactrh.com/jobs/1536/7696993
+
+
+
+
+

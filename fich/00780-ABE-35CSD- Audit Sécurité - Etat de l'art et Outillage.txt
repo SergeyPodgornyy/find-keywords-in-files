@@ -1,0 +1,75 @@
+﻿OFFRE DE STAGE 2013 - 2014
+INGENIEURS SECURITE des SI                                                                                  ref : 35CSD-2013-SEC-2
+Intitulé du stage
+Audit de Sécurité - Etat de l’art et Outillage
+Contexte du stage
+Dans le cadre du développement de la Practice « Sécurité » au sein de l’entité « CSD », Capgemini
+Services souhaite mettre en place les bonnes pratiques d’audit applicatif de sécurité et d’outiller son
+offre « Sécurité des développements».
+Cette démarche se fixe pour objectif d’intégrer les problématiques de sécurité au sein des projets
+internes Capgemini et notamment de permettre des audits de sécurité chez nos clients.
+Descriptif de la mission
+Au sein d’une équipe Capgemini dédiée aux problématiques de sécurité et constituée, d’architectes,
+de consultants et d’experts spécialisés en sécurité des systèmes d’information et en management de
+risques, le stagiaire aura pour mission l’étude et la contribution à la mise en place de l’offre sécurité
+des développements.
+Le stagiaire participera à la vie de la communauté « Sécurité » de Capgemini et pourra s’y appuyer
+pour sa montée en compétence et pour mener à bien son stage de fin d’étude.
+Objets du stage et activités attendues :
+Ce stage est constitué des étapes suivantes :
+Etape1 : Etude de l’existant
+1.   Etude des différents livrables, documentations et outils existant au sein de la communauté
+sécurité de Capgemini
+2.   Etude des bonnes pratiques OWASP : Règles & Outillage
+3.   Etude de la plate-forme d’audit et de tests sécurité (interne et externe)
+Etape2 : Développement et packaging de la plate-forme d’audit
+1.   Améliorer et intégrer des contrôles Top 10 OWASP dans la plate-forme interne : Java, .NET,
+PHP
+2.   Développer/Intégrer des outils d’analyse sécurité de code pour les mobiles : Androïd, iOS,
+Phone
+3.   Intégrer une plate-forme d’audit statique sécurité basée sur Sonar : (Findbugs, Sonar, Check
+Style,…)
+4.   Packager la plate-forme la plate-forme d’audit de sécurité
+Etape3 : Implication au niveau des projets
+1.   Evaluation de l’outillage : Réalisation d’audit sécurité
+Etape4 : Rapport de stage
+1.   Rédaction du rapport de stage.
+Vous utiliserez l’environnement technologique suivant :
+Sécurité : OWASP,
+Langages : JAVA/J2EE, .NET (souhaité)
+Frameworks : Spring, CXF, Struts
+
+
+
+
+Compétences acquises à la fin du stage
+1.   Compétences en sécurité des systèmes d’information :
+a.    Méthodologie de développement sécurisé
+b.   Concepts OWASP
+c.   Bonnes pratiques sécurité
+d.   Architecture Sécurité
+e.   Audit Sécurité
+2.   Une méthodologie de suivi de projet et la capacité à travailler en équipe
+3.   Une vision des différentes phases d’un projet
+4.   Une mise en œuvre sur le terrain de connaissances techniques
+Vous serez accompagné tout au long de votre stage par un maître de stage (Consultant Sénior) et un
+Manager  qui  vous  guideront  au  sein  de  la  société.  Le  stage  s’achèvera  par  un    transfert  de
+compétences oral et écrit.
+Profils
+De  formation  Bac+5,  école  d’ingénieur  ou  formation  universitaire  avec  une  composante  Sécurité
+informatique et/ou Génie Logiciel, vous recherchez un stage de fin d'études et vous connaissez au
+minima le développement Java.
+Vous disposez d’une bonne faculté d’adaptation et possédez un esprit de synthèse développé.
+Esprit d’équipe, rigueur, autonomie, et empathie sont des aptitudes les plus essentielles que nous
+souhaitons retrouver chez nos futurs chefs de projets, architectes ou consultants.
+Lieu du stage
+Rennes
+Indemnités de stage
+1000 euros brut / mois + tickets resto + avantage CE
+Durée du stage
+6 mois.
+
+
+
+
+

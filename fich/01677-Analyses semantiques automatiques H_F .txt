@@ -1,0 +1,37 @@
+﻿ATOS RECRUTE UN/UNE ANALYSES SÉMANTIQUES AUTOMATIQUES H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 174932-7804311
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse - St Martin du Touch 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques.
+Le Groupe est coté sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Atos Worldline et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Pour cela, notre entité dispose d'un riche portefeuille d'offres d'intégration de systèmes à forte valeur ajoutée,
+qui garantissent une rentabilité et une croissance optimale à ses clients.
+Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Profil recherché :
+Profil
+De formation minimum Bac + 5, vous avez acquis une culture informatique en :
+- Génie Logiciel
+- Connaissance des techniques d'analyse statique et de la programmation OCaml
+Vous êtes motivé(e), rigoureux (se) et aimez le travail d'équipe,
+Vous souhaitez vous investir sur un projet.
+Rejoignez-nous !
+Pour postuler : http://atos.contactrh.com/jobs/1536/7804311
+
+
+
+
+

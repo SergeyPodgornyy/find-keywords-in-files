@@ -1,0 +1,59 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT TÉLÉCOMS NAVALES H/F EN STAGE  6
+MOIS.
+Date : 01/02/2015
+Référence de l’offre : 175984-8583850
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulon 83000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Notre  entité  Atos  Technology  Services                                                                             (ATS)  a  pour  mission  principale  de  développer  des  services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et l'évolution
+de leurs systèmes d'information. Plus de 3 000 experts de proximité accompagnent nos clients tout au long de
+leurs projets afin de les aider à s'adapter aux contraintes liées aux évolutions de leurs marchés.
+Description du poste :
+Au sein de nos équipes de développement dans la défense (sous architecture spécialisée GEMO), vous aurez
+à votre charge la conception et le développement de fonctionnalités liées au système de télécommunications
+d'un navire : établissement de chaines radio, administration et supervision d'équipements de communication
+(modem, chiffreur, etc.).
+Vos missions :
+- Concevoir
+- Développer
+- Tester
+- Intégrer
+Environnements techniques :
+
+
+
+
+Java, Linux, Eclipse, JUnit, XML, Spring, Swing, UML, SVN
+Objectifs pédagogiques :
+Ce stage vous permet de mettre en œuvre la conception et le développement d'un module applicatif complet.
+Profil recherché :
+De formation supérieure Bac+5  (en cours de validation) en Ecole d'Ingénieur ou en université, vous
+recherchez un stage d'une durée de 6 mois (dates variables selon la formation).
+Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de
+communication écrite et orale. Votre engagement professionnel s'inscrit dans un esprit de service et de
+qualité
+Vous maîtrisez l'anglais.
+Le stage est localisé à Six-Fours-Les-Plages (83).
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8583850
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿Stage  Architecture  backend  JAVA  J2EE  (H/
+Atos  Technology  Services
+REFERENCE  :  154526
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078407
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Nice 6000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier,  des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie.  Atos est présent dans 47 pays, compte 77 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et
+l’évolution de leurs systèmes d’information. Plus de 3 000 experts de proximité accompagnent nos
+clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions
+de leurs marchés.
+DESCRIPTION  DU  POSTE  :
+Nous vous proposons d’intégrer et d’assister une équipe de consulting appartenant à la direction
+technique d’ATS Sud-Est. Cette équipe répond aux demandes d’expertises techniques, audits,
+missions d’accompagnement et conseil, très orientées J2EE pour des acteurs locaux tels que la
+CNAF (portail caf.fr ...).
+Afin de répondre à ce niveau d’expertise élevé, nous nous devons de maintenir à jour nos
+prototypes d’architecture N-Tier à l’état de l’art des standards. Il vous sera donc demander de
+contribuer à la maintenance du backend de ce prototype ou à son industrialisation durant ce stage.
+Vous prendrez également part aux diverses études clientes menée par l’équipe.
+Travaux à réaliser :
+•                                                                                                          Participer aux travaux de recherche et d’étude technique (R&D)
+•                                                                                                          Rédiger des rapports/synthèses d’étude (Recommandations, …)
+
+
+
+
+•                                                                                                        Participer à des audits pouvant porter sur la qualité ou le respect de normes/standards
+•                                                                                                        Réaliser des prototypes ou composants J2EE
+Livrables attendus :
+Synthèses d’étude, documents de restitution, développement J2EE.
+Technologie :
+JEE6 : JPA/Hibernate, EJB3, Injection de dépendances (CDI), Service Web : SOAP et REST,
+architecture SOA
+Objectifs pédagogiques :
+Mise en œuvre d’architecture backend à l’état de l’art des technologies JEE.
+Profil
+Dans ce cadre nous recherchons un étudiant en dernière année d’école d’ingénieur de spécialisation
+architecture logicielle / système d’information / SOA avec un gout prononcé pour les architectures
+backend.
+Vous êtes mobile, créatif(ve), avez le sens du travail en équipe et maîtrisez la langue anglaise.
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le
+désirez, dans toute autre région dans laquelle Atos recrute.
+PROFIL  :
+Le stage est localisé à Sophia-Antipolis.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078407
+
+
+
+
+

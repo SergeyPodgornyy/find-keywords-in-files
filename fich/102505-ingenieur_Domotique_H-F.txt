@@ -1,0 +1,43 @@
+﻿Stage informatique - Intégration de système type
+SmartHome
+Réf : TCH/2015_089_JCR
+Depuis plus de 100 ans, Technicolor innove pour servir ses clients de l’industrie du divertissement,
+du logiciel et des jeux dans le monde entier. La société est leader dans la fourniture de services de
+production,  de  postproduction  et  de  distribution  pour  les  créateurs  et  les  distributeurs  de
+contenu.   Technicolor est l’un des leaders mondiaux pour le traitement de films; un des plus grands
+fabricants et distributeurs de DVD (incluant les disques Blu-ray) et l’un des principaux fournisseurs
+dans le domaine des décodeurs et des passerelles résidentielles. La société exerce également une
+activité de propriété intellectuelle et de Licences.
+MISSION
+Le projet dataLearning suppose de déployer des kits SmartHome chez des candidats. Le stage
+consiste à prendre part à la préparation des kits, au support au déploiement des kits et à leur
+exploitation.
+Il suppose de comprendre l’architecture du système ce qui constitue un excellent sujet de formation
+aux systèmes déployés Android/Linux.
+Description des travaux :
+                                                                                                           Constitution  des  kits.  Intégration  des  capteurs,   tests   des  kits   avant   déploiement,   puis   après
+déploiement chez les candidats.
+Durée et période du stage :
+2 mois (Juillet & août 2015)
+Poste basé à Rennes
+Mots clés
+Systèmes informatiques embarqués
+Environnement de travail
+Bureautique Windows.
+Systèmes Linux et Android.
+Réseau (ADSL, Wifi).
+PROFIL
+-                                                                                                          Ecole d’ingénieur, BAC+3
+-                                                                                                          Niveau d’anglais intermédiaire exigé ;
+-                                                                                                          Maîtrise du Pack Office ;
+-                                                                                                          Compétences Linux système de base ;
+-                                                                                                          Scripting type PHP, python, perl ;
+-                                                                                                          Techno Web ;
+-                                                                                                          Notion bases SQL type MySQL.
+Pour postuler, merci d’adresser votre candidature (CV + lettre de motivation en français) sous référence
+« TCH/2015_089_JCR » à stage.rennes@technicolor.com
+
+
+
+
+

@@ -1,0 +1,40 @@
+﻿STAGE BE
+FAIVELEY TRANSPORT
+REFERENCE  :  STG TRS 03
+POUR POSTULER  :  offre3396287.1536@faiveley.contactrh.com sous la référence STG TRS 03
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  LA VILLE AUX DAMES 37700, France
+NIVEAU D'ETUDES  :  Bac +2
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Dès que possible
+DUREE  :  de 2 à 3 mois
+SECTEUR  :  Industries (Métallurgie)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Equipementier Ferroviaire, présent dans 23 pays (Europe, Chine, Etats-Unis, Inde, Australie,
+Brésil…) via 45 entités, réalisant 876 millions d'euros de CA dont 75 % à l'international, 4865
+collaborateurs, notre Groupe, en forte croissance, est un des leaders mondiaux de l’équipement
+ferroviaire. Il fonde sa notoriété sur sa créativité et la qualité de ses produits et services aux clients.
+DESCRIPTION DU POSTE  :
+Téléchargement et vérification de CPLD via un microprocesseur
+Les CPLDs étant des éléments critiques dans nos projets, nous nous devons de les sécuriser et de
+faciliter le chargement de ceux ci.
+Pour ce faire nous souhaitons développer un module logiciel pour le téléchargement et la
+vérification des CPLD via un microprocesseur.
+Activités :
+• Etude des modes de téléchargement : I2C , SPI et JTAG (configurable)
+• Rédaction de spécifications
+• Rédaction des dossiers de conception préliminaire et conception détaillée (Doxygen)
+• Développement de logiciel en C sur microcontrôleur
+• Tests unitaires
+• Validation
+PROFIL  :
+Bac+2 à Bac+4 en informatique / électronique, Connaissance du Langage C, Doxygen,
+Connaissance de base en composants programmable, Bonne capacité d'adaptation et bonne
+autonomie
+POUR POSTULER  :  offre3396287.1536@faiveley.contactrh.com sous la référence STG TRS 03
+
+
+
+
+

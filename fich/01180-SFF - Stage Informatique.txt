@@ -1,0 +1,39 @@
+﻿STAGE  INFORMATIQUE
+23/01/2014
+Ce  document  définit  les  thèmes  de  stage  proposé  au  sein  du  Département  Informatique  de  Scania  Finance  France.
+MISSION  :
+Scania  Finance  France,  société  financière  filiale  du  groupe  international  suédois  Scania,  propose  des  solutions  de  financement  et
+d’assurance  aux  sociétés  de  transport  routier.  Société  basée  à  Angers  depuis  20  ans  et  regroupant  39  personnes,
+Scania  Finance  France  est  devenu  au  fil  des  années  le  partenaire  principal  en  financements  et  assurances  pour  les
+client  achetant  des  véhicules  Scania.  Etant  devenu  un  acteur  majeur,  le  portefeuille  clients  s’élargit  d’année  en  année
+et  les  risques  financiers  peuvent  se  multiplier.
+Dans  ce  cadre,  Scania  Finance  France  souhaite  optimiser  son  système  de  gestion  des  provisions  sur  les  clients  en  difficulté  afin
+de  simplifier  les  actions  quotidiennes  mais  aussi  le  suivi  mensuel.  Pour  effectuer  votre  mission,  vous  serez  intégrer  au
+service  informatique  composé  de  trois  personnes  et  aurez  ainsi  la  possibilité  de  comprendre  les  problématiques  du
+quotidien  et  les  enjeux  de  l’intégration  de  systèmes.
+Tuteur  :  Responsable  Service  Informatique
+Parmi  les  tâches  confiées  :
+-                                                                                                                                                     Analyser  les  besoins  des  départements  Comptabilité,  Contentieux  et  de  la  Direction  financière  en  recensant  les
+                                                                                                                                                      fonctionnalités  nécessaire  à  la  gestion  quotidienne  mais  aussi  aux  reporting
+-                                                                                                                                                     Effectuer  une  étude  comparative  des  solutions  utilisées  dans  les  autres  sociétés  financières  du  groupe
+-                                                                                                                                                     Evaluer  la  capacité  des  outils  internes  à  gérer  simplement  et  efficacement  les  provisions  de  la  société
+-                                                                                                                                                     Proposer  une  solution  de  gestion  s’intégrant  dans  le  système  d’information  en  place
+-                                                                                                                                                     Mettre  en  place  cette  solution
+Profil  :
+Cette  mission  requiert  des  compétences  dans  le  domaine  informatique  (gestion  de  base  de  données  ORACLE,  SQL,  PL/SQL…,
+connaissance  de  la  programmation  avec  Microsoft  Visual  Basic.Net),  ainsi  que  des  connaissances  en  comptabilité.
+Méthodique  et  force  de  proposition,  il  sait  faire  preuve  d’ouverture  d’esprit  et  a  un  excellent  relationnel  et  un  bon  sens  de
+l’écoute.
+Les  échanges  avec  les  autres  sociétés  financières  du  groupe  impliquent  nécessairement  une  maîtrise  de  l’Anglais.
+Rigueur,  esprit  d’analyse  et  de  synthèse  sont  nécessaires  à  la  bonne  réussite  de  la  mission.
+Durée  du  stage  :  6  mois
+Date  de  début  du  stage  :  mars­juin  2014
+ ieu    e  stage   :  Angers  (49)
+Profil  :  Bac  +4/5  (MIAGE,  Informatique,  etc.)
+Gratification  de  stage  :  oui
+Pour  postuler  :  CV  +  lettre  de  motivation  sous  référence  SSFFIT2014  à  drh.emplois@scania.com
+
+
+
+
+

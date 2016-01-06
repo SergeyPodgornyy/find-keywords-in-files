@@ -1,0 +1,59 @@
+﻿ATOS RECRUTE UN/UNE ALTERNANCE D'INGÉNIEUR SYSTÈMES (H/F) EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 190630-10566085
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Toulouse 31000, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience : 2-3 ans
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Notre  entité  Atos  Technology  Services                                                                            (ATS)  a  pour  mission  principale  de  développer  des  services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et l'évolution
+de leurs systèmes d'information.
+Pour plus d'information : atos.net
+Description du poste :
+Intégré  au  sein  de  nos  équipes,  vous  interviendrez  sur  des  projets  de  conception  et  d'administration
+d'infrastructures systèmes d'envergure.
+Les compétences recherchées sont les suivantes :
+OS : Linux redHat/Suse,Windows server 2008/2012, Hyper-V
+Matériels : HP, Dell , EMC VNX
+Logiciels : AD, DFS, RDS, Forefront Identity Manager, Radius, Norskale
+SGBD : SqlServer, MySql, Oracle
+Packaging applicatif Poste de travail.
+La maîtrise de l'anglais est indispensable pour vous permettre de réaliser votre stage dans un contexte
+international passionnant.
+Objectifs pédagogiques :
+* Intégrer une équipe de projet
+* Mettre en pratique vos compétences en Ingénierie des systèmes.
+* Appréhender l'organisation, le fonctionnement et le travail sur un projet en SSII
+* Travail en équipe et esprit de service
+Profil recherché :
+De  formation  Ecole  d'Ingénieur  ou  parcours  universitaire                                                       (équivalent  BAC+5),  vous  recherchez  une
+
+
+
+
+alternance de fin de cycle de formation, d'une durée de 2 ans au minimum à partir de septembre 2015.
+Vous êtes passionné (e) par le monde des infrastructures, réseaux et systèmes. Vous avez été formé(e) et vous
+maîtrisez la plupart des technologies demandées.
+Une proposition d'embauche en fin de stage est envisageable sur le site de votre stage, ou, si vous le désirez,
+dans toute autre région dans laquelle Atos recrute.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10566085
+
+
+
+
+

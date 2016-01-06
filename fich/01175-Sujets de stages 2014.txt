@@ -1,0 +1,38 @@
+﻿Sujets  de  stages  2014  -  VO  Innovation
+Recherche  de  mots­clés  sur  les  réseaux  sociaux  :
+A partir de mots-clés stockés dans une base de données, mettre au point un système de
+recherche automatique sur le web, plus particulièrement dans les réseaux sociaux
+(Facebook, Twitter, …), déclenché à un moment précis, en fonction du mot-clé.
+Par exemple : si les mots-clés en base sont « OM-PSG » prévu le 15 juin 2014 à 20h45, la
+recherche pourra se faire sur une plage horaire d’une heure avant et après l’heure fournie en
+BDD.
+Les problématiques de création de compte et d’accès aux API des différents réseaux feront
+partie du travail envisagé.
+Compétences envisagées : Bases de données SQL(Postgresql 9, par exemple), Java,
+JavaScript, HTML, APIs « web », Linux, Cloud.
+Gestion  multi­langue  de  libellés  dans  une  base  de  données  :
+A partir d’une base de données existante, proposer une solution permettant
+d’internationaliser la présentation des informations de la base. Les champs textes de la BDD
+sont en anglais, et devraient être présentables en français, allemand, espagnol. Le champ
+lexical des informations de la BDD est lié au domaine sportif. Des propositions devront être
+faites sur la manière de trouver les équivalences linguistiques, dans un premier temps. Dans
+un second temps, une manière de mettre en œuvre l’affichage dans une langue ou une autre
+devra être proposée, tenant compte de la structure de la base de données et des solutions
+d’affichage existantes.
+Compétences envisagées : Bases de données SQL(Postgresql 9, par exemple), Java,
+JavaScript, HTML, Linux.
+Prototypage  d’une  solution  de  mesure  d’audience  «  Web  »  :
+Sur la base de liens issus d’une base de donnée, proposer une solution et la prototyper
+pour :
+   Détecter la présence d’outils permettant la mesure d’audience d’une page (compteur,
+outils de statistiques,…)
+   En fonction du fonctionnement de ces outils, proposer une ou plusieurs solutions
+permettant d’en extraire des données pertinentes
+   Mettre en œuvre dans une application prototype
+Compétences envisagées : JavaScript, HTML, APIs « web », Base de données SQL, Linux,
+Cloud.
+
+
+
+
+

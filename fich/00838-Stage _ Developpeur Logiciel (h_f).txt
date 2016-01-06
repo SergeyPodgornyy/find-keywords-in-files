@@ -1,0 +1,46 @@
+﻿Stage  /  Développeur  Logiciel  (h/f)
+EADS
+REFERENCE  :  10231374 LB FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161190
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Bezons 95873, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/03/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+SIGNALIS, filiale du groupe EADS Cassidian et d'Atlas Elektronik et leader mondial sur le
+segment des applications de surveillance (maritime, terrestre, frontières, etc), emploie actuellement
+200 collaborateurs consacrés au développement, à l’intégration et à la livraison de solutions pour
+nos clients internationaux.
+DESCRIPTION  DU  POSTE  :
+Signalis (Bezons) recherche un(e) stagiaire pour une durée de 3 à 6 mois.
+Au sein du département « Design & Development », vous réaliserez votre stage au sein d'une
+équipe dont la finalité est la conception, la réalisation et la validation d'un sous-ensemble de
+produits à partir de spécifications d'objectifs.
+Cette offre de stage est à pourvoir à compter du 3 mars 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Réalisation d'un logiciel de simulation de situation maritime
+- Réalisation d'un logiciel de supervision de nos systèmes (flux de pistes)
+- Réalisation d'un logiciel de visualisation 3D d'une situation de trafic maritime
+- Intégration d'un serveur de cartographie de nos solutions java client lourd.
+PROFIL  :
+Etudiant(e) bac+5 en dév logiciel
+Compétences :
+Linux, SVN ou CVS
+Java.
+Vous êtes curieux, autonome et bon communicant
+Anglais:intermédiaire
+Français:courant
+
+
+
+
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161190
+
+
+
+
+

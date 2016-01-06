@@ -1,0 +1,52 @@
+﻿APPLICATION DE GESTION DES PARAMÈTRES
+ENTREPÔT
+(Stage rémunéré)
+REF : 003_2015_Logistique
+DUREE : 6   mois - 1er semestre 2015
+Au sein du GIE IRIS, l'équipe Logistique est en charge
+des applications nécessaires au bon fonctionnement
+des  entrepôts  de  Système  U.  L'application  Gestion
+d'Entrepôt   est   actuellement   déployée   sur                                                                          18
+entrepôts.  L'application  comporte  des  centaines  de
+paramètres afin de gérer les spécificités de chaque
+entrepôt.  L'équipe  Logistique  souhaite  aujourd'hui
+disposer  d'un  référentiel  exhaustif  et  fiable  des
+paramètres sur lesquels s'appuie l'application.
+L'objectif du stage est de concevoir une application Web permettant de gérer et comparer les
+paramètres de chaque entrepôt.
+Après une période d'intégration au sein du service  (présentation du métier, visite d'entrepôts,
+présentation des méthodes de travail et du mode projet), vous intervenez en situation de chef de
+projet informatique pour les phases de :
+                                                                                                                         Etudier l'existant et les besoins
+                                                                                                                         Rédiger les dossiers de spécifications fonctionnelles et techniques, ainsi que de
+la documentation
+                                                                                                                         Développer les IHM et les services
+                                                                                                                         Rédiger  les  fiches  descriptives  des  tests  d'intégration,  participer  aux  tests
+d'intégration
+                                                                                                                         Gérer le projet
+                                                                                                                         Faire le transfert des compétences
+                                                                                                                          Votre tuteur vous assiste durant toutes ces phases. Vous aurez l'opportunité de suivre un projet en
+conditions réelles et d'approcher les métiers de la grande distribution.
+La  mission  est  à  la  fois  fonctionnelle                                                                              (études  des  besoins,  propositions  de  solutions),
+organisationnelle                                                                                                         (lotissement   du   projet,   application   de   méthodes   agiles)   et   technique
+(développement Web, connexion multi-bases, etc.).
+Java/J2EE - GWT - UML - Weblogic - Maven
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Service Formation_Stages - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+Bac + 5 informatique, Ecole d'Ingénieurs ou Universitaire
+                                                                                                                         Qualités requises : Qualité relationnelle, travail en équipe, curiosité, autonomie.
+                                                                                                                         Connaissance technique : UML, JAVA/J2EE, Eclipse, la connaissance des méthodes agiles serait un
+plus.
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Service Formation_Stages - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

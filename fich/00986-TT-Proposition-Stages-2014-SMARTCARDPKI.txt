@@ -1,0 +1,35 @@
+﻿Stage 2014
+SMARTCARD PKI
+(REF : SMARTCARDPKI-2014)
+TAZTAG est une société rennaise spécialisée en technologies de la communication sans contact NFC &
+Zigbee. TAZTAG développe et commercialise des objets et des solutions appliquées aux domaines du
+transport, paiement, vie urbaine, musées, santé, sécurité, services à la personne…, permettent de créer
+une véritable interaction entre l'usager et son environnement.
+MISSION
+L'objectif de ce stage est de réaliser une PKI pour élément sécurisé de type Java Card,  ainsi que d'étendre
+les fonctionnalités de base de celle-ci vers différents usages. La mission de ce stage comprend les
+spécifications et le développement à la fois des applications hébergées et exécutées dans l'élément
+sécurisé, et à la fois des librairies hors de l'élément sécurisé permettant son intégration dans des solutions
+exécutées sous différents environnements (PC, Android).
+Profil recherché
+Vous êtes en dernière année d’une école d’ingénieurs. Vous avez une spécialisation en informatique. Vous
+avez des bases solides en Java et développement objet. Vous êtes passionné, curieux, enthousiaste et très
+motivé par le développement autour des éléments sécurisés et des solutions de communications sécurisés.
+Compétences requises
+  Bac+5 (stage de fin d’étude).
+  Connaissance du langage Java.
+  Connaissance en développement d'applications sur carte à puce (ou élément sécurisé) dans un
+environnement d'exécution Java Card.
+  Connaissance des problématiques de chiffrement, gestions de clés, PKI.
+  Connaissance des outils de développement open-source.
+  Bon niveau d’anglais.
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES) ou à Caen.
+Durée 6 mois, dès février 2014 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, alexandre.ninassi@taztag.com
+
+
+
+
+

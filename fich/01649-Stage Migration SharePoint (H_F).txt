@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE MIGRATION SHAREPOINT (H/F) EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175508-7767858
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Sous la responsabilité d'un chef de projet et pour le compte de nos plus grands clients , vous participez à la
+conception, au développement et à la mise en production des applications dans des domaines fonctionnels
+variés essentiellement dans le domaine ECM et du monde Microsoft.
+Lors de votre stage, vous travaillerez sur la migration d'un intranet d'entreprise réalisé en SharePoint 2010
+vers la version SharePoint 2013. Vous participerez au portage et déploiement des solutions, identification et
+correction des composants spécifiques qui ne fonctionneraient plus.
+Vous évoluerez dans un environnement SharePoint 2010, SharePoint 2013, .NET, méthodologies agiles.
+Vous serez rattaché à notre site de Sophia Antipolis.
+Profil recherché :
+De formation supérieure (typiquement BAC+4 ou BAC+5), vous recherchez un stage en programmation en
+environnement Microsoft (C#, . Net , Sharepoint …) .
+Vous êtes motivé pour évoluer au sein d'une équipe travaillant dans un contexte de projets Sharepoint.
+Passionné d'informatique, vous êtes créatif, curieux, motivé et avez le sens du travail en équipe. Une bonne
+connaissance de la langue anglaise est obligatoire.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+Pour postuler : http://atos.contactrh.com/jobs/1536/7767858
+
+
+
+
+

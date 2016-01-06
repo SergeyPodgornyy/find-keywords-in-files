@@ -1,0 +1,62 @@
+﻿SOPRA STERIA RECRUTE UN/UNE INGÉNIEUR VALIDATION EN ALTERNANCE H/F EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 36 MOIS.
+Date : 27/08/2015
+Référence de l’offre : EU/RENN/IED/2524-11003205
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Rennes 35000, FR
+Durée du contrat : De 12 à 36 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Sopra Steria, leader européen de la transformation numérique, propose l'un des portefeuilles d'offres les plus
+complets  du  marché                                                                                                 :  conseil,  intégration  de  systèmes,  édition  de  solutions  métier,  infrastructure
+management et business process services. Il apporte ainsi une réponse globale aux enjeux de développement
+et  de  compétitivité  des  grandes  entreprises  et  organisations.  Combinant  valeur  ajoutée,  innovation  et
+performance des services délivrés, Sopra Steria accompagne ses clients dans leur transformation et les aide à
+faire le meilleur usage du numérique. Fort de 37 000 collaborateurs dans plus de 20 pays, le groupe Sopra
+Steria affiche un chiffre d'affaires pro forma 2014 de 3,4 milliards d'euros. La division Energie Utilities
+regroupe 1100 collaborateurs qui contribuent à l'amélioration de la performance opérationnelle des réseaux
+de distribution et de transport, l'optimisation de la production, la fourniture de nouveaux services aux clients
+ou l'intégration des énergies renouvelables.
+Nous  disposons  d'un  véritable  savoir-faire  sur  des  activités  stratégiques  pour  nos  clients,  concernant
+notamment : la distribution de l'électricité, la chaîne de relève/facturation, les SmartGrids, la gestion des
+interventions et la maintenance, le management de l'énergie, la prévision de consommation
+Description du poste :
+Dans le cadre de son projet de croissance, Sopra Steria recherche pour son Centre de Spécialité partagée
+Testing de Rennes des Ingénieurs Qualification and Validation en alternance afin de confirmer sa position de
+leader sur un marché en plein essor ( plus de 20 pourcents dans les 3 prochaines années)
+Vous interviendrez sur :
+- L'élaboration de la stratégie de tests de différents projets d'évolution sur base des processus Métier et cas
+d'usages modélisés, cahiers des exigences et présentation client.
+- La rédaction des plans de tests sous HP Quality Center ou ALM (objectifs, scénarios, cas, jeux de tests, jeux
+de données logiques),
+- L'exécution des campagnes de tests bout en bout orientées Métier en coordination avec d'autres acteurs du
+test et équipe de support
+- La documentation et suivi, rapports d'avancement, gestion des anomalies, rapports et bilans de tests,
+- La contribution à l'industrialisation du projet, automatisation et modélisation BPMN
+Impliqué(e) dans l'ensemble des phases d'un projet, vous assurez le suivi régulier de vos activités auprès du
+chef de projet.
+Environnement technique
+- Environnement UNIX : utilisateur
+- Bases de données SQL : utilisateur
+- UML
+- HP Quality Center ou ALM
+- Outils OpenSource : Testlink, SOAPUI, Selenium,
+Profil recherché :
+Vous préparez une formation de Bac+ 3 à Bac+ 5 et cherchez un poste en alternance, pour vous joindre à la
+
+
+
+
+vie active.
+Vous avez des connaissances sur HP Quality Center ou ALM et Unix et avez la volonté d'apprendre les
+différents métiers du test.
+L'esprit d'équipe, la méthode et la rigueur, vous permettront de vous intégrer rapidement au sein de nos
+équipes. Vous avez le sens du service et un bon relationnel.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/11003205
+
+
+
+
+

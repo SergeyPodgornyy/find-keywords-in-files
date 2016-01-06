@@ -1,0 +1,34 @@
+﻿Offre de Stage : Développement application web mobile
+pour les « commerces connectés »
+Présentation                                                                                                                                                                   Intégrer l’application avec le backend ( NodeJS, MongoDB ),
+                                                                                                                                                                               Recueillir les 1ers retours et optimiser les performances et l’expérience
+                                                                                  Créée en août 2013, PENNTIC est une startup qui intervient et se développe dans le       utilisateur,
+                                                                                  domaine de l’« Internet Of Things » et les « Objets Connectés ».                             Réaliser une veille sur les technologies de développement web.
+                                                                                  PENNTIC édite le produit BAGAD, plateforme SaaS hébergée dans le cloud qui permet        Profil
+                                                                                  de  connecter  des  objets  et  espaces  du  monde  physique  avec  des  services
+                                                                                  numériques de l’internet et de mettre ainsi en oeuvre de nouveaux usages et services     Ce stage s’adresse à des élèves d’Ecole d’Ingénieurs ou équivalent.
+                                                                                  à forte valeur ajoutée pour ses clients professionnels.                                  Vous avez déjà une expérience en développement d’applications web mobiles :
+                                                                                  De  plus,  en  partenariat  avec  des  designers,  PENNTIC  conçoit  et  développe  de       Maîtrise de JavaScript ( NodeJS ),
+                                                                                  nouveaux objets communicants qui intègrent capteurs et actionneurs (température,             Notions d’un framework frontend ( Ionic, AngularJS, BackboneJS, … ),
+                                                                                  mouvement, RFID, lumière, ...). Intégrés au produit BAGAD, ces objets participent à          Responsive design,
+                                                                                  l’élaboration de nouveaux services innovants sur mesure.                                     Interfaçage avec des services web,
+                                                                                                                                                                               Notions de process de gestion et déploiement de logiciels : Git, Grunt, …
+                                                                                  L’environnement  technologique  de  PENNTIC  est  vaste                                  :  électronique,  logiciel
+                                                                                  embarqué, télécoms, bases de données, cloud, applications web et mobiles, .…             Des  talents  de  graphiste  et  la  maitrise  des  outils  d’illustration  seraient  un  plus
+                                                                                                                                                                           incontestable ! Des notions de développement iOS seraient décisives !
+                                                                                  Les clients de PENNTIC sont des professionnels : industrie, commerce, opérateurs de
+                                                                                  services, acteurs du marketing et de la communication, qui valorisent leurs activités    Vous  êtes  organisé(e),  créatif(ve),  autonome,  doué(e)  pour  le  relationnel  et  vous
+                                                                                  grâce à l’offre technologique de PENNTIC.                                                souhaitez découvrir une jeune start-up à fort potentiel !
+Mission                                                                                                                                                                    Informations supplémentaires
+                                                                                  Dans  le  cadre  de  son  activité  « commerces  connectés  »,  PENNTIC  recherche  un   Disponibilité : février 2015 pour une durée de 6 mois.
+stagiaire                                                                         (H/F)  pour  participer  au  développement  d’une  application  web  mobile              Indemnités : selon profil (possibilité de contrat à suivre).
+innovante.                                                                                                                                                                 Lieu : Bruz ( Ligne Bus 57, arrêt Gavrinis, 25 mn depuis Rennes République )
+                                                                                  Vous interviendrez sur notre plateforme pour intégrer notre nouveau service « Tapis      Contact
+Rouge » :
+Envoyer votre CV+lettre motivation à contact@penntic.fr ( Réf. WEBMOBILE_2015 )
+    Participer au développement de l’UX/UI ( HTML 5 / CSS 3 / Javascript ),
+
+
+
+
+

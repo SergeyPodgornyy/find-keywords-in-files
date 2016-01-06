@@ -1,0 +1,68 @@
+﻿ATOS RECRUTE UN/UNE APPLI WEB DEVOPS H/F EN STAGE DE 5 À 6 MOIS.
+Date : 19/11/2014
+Référence de l’offre : 176872-8082779
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Information d'organisation
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Caractéristiques du poste
+Contexte :
+Dans le cadre d'un projet de R et d'innovation (pôle de compétitivité MINALOGIC) dans le domaine du
+logiciel embarqué
+et de la supervision industrielle ATOS WORLDGRID recherche une/un stagiaire en troisième année d'Ecole
+d'Ingénieur avec
+une première expérience académique ou personnelle en développement web HTML5, CSS3, JavaScript.
+Filière type : Ingénierie des systèmes d'information, développement web.
+Mission :
+Contribuer à la veille technologique et à la réalisation des prototypes d'interfaces graphiques innovantes du
+projet par :
+* La spécification et la réalisation d'une appli web complète (FullStack) de déploiement et gestion système
+des nœuds logiciels constituant la solution SCADA distribuée iDeviceCloud (nœuds Linux basés Debian)
+*  Le  développement  d'un  prototype  prenant  comme  cas  d'expérimentation  le  procédé  de  supervision
+industrielle de systèmes de cogénération électrique installés par GEG dans le Quartier de Bonne à Grenoble .
+Le stage se déroulera par une première phase de veille visant à identifier les éléments open-source les plus
+pertinents comme socle du développement (ex : Saltstack + Halite, Docker, Ansible,..)
+La deuxième phase consistera au développement de l'appli web complète et sa compatibilité avec une
+infrastructure VPN (openVPN)
+Ce stage contribue au développement d'un composant logiciel d'un projet industriel plus vaste dont la
+technologie de base s'applique dans le monde ARM Linux.
+Objectifs pédagogiques :
+
+
+
+
+* Intégration dans un projet R et Innovation dans le cadre d'un consortium de recherche
+* Application concrète HTML5 , frameworks JavaScript dans le cadre d'un projet industriel.
+Mots Clés : Javascript, HTML5, JQuery Mobile, Backbone.js, Leaflet.js, Linux, ARM, Qt, SaltStack, Docker
+Profil recherché :
+Profil
+De formation BAC+ 5 en Informatique en cours de validation, vous recherchez un stage d'une durée de 6
+mois à partir de Janvier 2015.
+Bonne connaissance de l'environnement Linux et des pratiques open-source (poste de travail Linux Mint
+Debian Edition).
+Fortes capacités de synthèse et d'autonomie.
+Goût prononcé pour la réalisation technique et le développement en général.
+Bonne première expérience personnelle en Javascript, jQuery, HTML5 et accessoirement Qt
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8082779
+
+
+
+
+

@@ -1,0 +1,40 @@
+﻿PredicSis
+Stage en R&D
+Internet des objets : traitements répartis
+PredicSis est une start-up high-tech, issue d’Orange, lancée en juillet 2013, d’environ quinze
+ingénieurs en fort développement international. Elle fournit des services d’analyse prédictive
+dans les    environnements Big Data. Nos clients sont la distribution, l'e-commerce et les
+banques-assurances.
+Predicsis recherche des étudiants motivés par la découverte de ces technologies en pleine
+croissance afin de soutenir ses efforts et d’explorer de nouveaux territoires au sein de son
+équipe R&D.
+Sujet et objectif du stage :
+Ce stage porte sur l’étude et le prototypage d’un cas d’usage d’analyse prédictive répartie.
+Il  s’agit  d’expérimenter  l’architecture  générale  d’une  plate-forme  permettant  d’enrichir  le
+comportement  d’objets  connectés,  en  leur  donnant  la  capacité  d’opérer  une  partie  des
+traitements dévolus à l’évaluation de modèles prédictifs. Cette plate-forme doit permettre
+également la collecte de données permettant la mise à jour centralisée des modèles de
+prédiction et leur mise à disposition pour l’ensemble des objets connectés.
+Les différentes étapes du stage porteront sur :
+   La mise au point d’un scénario d’usage
+   La spécification d’une architecture distribuée adaptée à ce cas d’usage
+   La  mise  en œuvre  des  services  centralisés  de  cette  architecture,  ainsi que  des
+composants distribués, sur cartes d’évaluation Atom ou ARM
+Environnement technique :
+Les technologies principalement utilisées seront : Java, C++, Hadoop, Linux/Android,
+Ruby on Rails
+Lieu du stage : Lannion
+Durée du stage : 6 mois
+Indemnité : 1000                                                                                       € par mois
+Personne à contacter :
+Laurent Cogné, lco@predicsis.com
+Jean-Louis Fuccellaro, jlf@predicsis.com
+PREDICSIS S.A.S.
+Société par Actions Simplifiée au capital de 70 000 euros
+Siège social : 4 rue Ampère, 22300 Lannion
+RCS SAINT BRIEUC 794 365 098
+
+
+
+
+

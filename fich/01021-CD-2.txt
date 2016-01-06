@@ -1,0 +1,49 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de
+Stage
+Ingénierie logicielle
+   Titre : Développer pour le projet Jouve Smart Publishing
+   Lieu : Rennes                                                                                                  Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                                          Date : début 2014
+   Rémunération : stage indemnisé                                                                                 Référence : CD-2
+Sujet :
+   Soyez  acteur  de  l’évolution  fonctionnelle  du  socle  de  gestion  de  documents
+composites « Jouve Smart Publishing* » et rejoignez une équipe de cinq ingénieurs
+qui travaillent sur ce projet en méthodologie agile avec Scrum et/ou Kanban
+   Saisissez l’opportunité de développer dans et autour d’Alfresco, dont la suite logicielle
+innovante est celle de la société de gestion de contenu open source N°1 au monde.
+   Rejoignez l’équipe d’experts en Document Management de Jouve, et développez sur les
+technologies WEB les plus modernes (HTML5, Dojo, Web Services Rest, …) dans un
+cadre technique J2EE basé sur Spring.
+(*)   Système de gestion de contenus « éditoriaux » qui permet de gérer un corpus documentaire très hiérarchisé,
+très structuré, organisé en fragments d’information réutilisables et communs à différents documents finaux.
+Les intérêts de ce système sont :
+-                                                                                                                  Créer  des  documents  plus  vite  en  agrégeant  plutôt  qu’en  réécrivant,  et  plus  fiables  en  réutilisant  des
+                                                                                                                   fragments d’information validés et prêts à l’emploi.
+-                                                                                                                  Assurer l’intégrité des documents agrégés et publiés.
+-                                                                                                                  Tirer parti des avantages d’un fonds d’information essentiellement géré en XML.
+-                                                                                                                  Abaisser les coûts de production de publications multicanaux  (web, mobile, iPad, eBook, papier,…) en
+
+
+
+
+exploitant un même fond d’information, en changeant uniquement les règles d’extraction et d’agrégation des
+fragments, puis en appliquant les feuilles de style des canaux ciblés.
+Environnement :
+   Alfresco
+   JAVA/J2EE, SPRING, XML
+   Eclipse, SVN, Intégration Continue (Hudson,…)
+   Technologies Web (HTML5, Dojo,…)
+   Méthodologie Agile (Scrum, Kanban)
+Vous  êtes  intégré  dans  l’équipe  ECM-Document
+Management.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_CD2@jouve.gestmail.com
+
+
+
+
+

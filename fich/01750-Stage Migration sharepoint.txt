@@ -1,0 +1,46 @@
+﻿ATOS RECRUTE UN/UNE STAGE MIGRATION SHAREPOINT EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175508-7818596
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : SOPHIA ANTIPOLIS 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Sous la responsabilité d'un chef de projet, pour le compte de nos plus grands clients, vous participez à la
+conception, au développement et à la mise en production des applications dans des domaines fonctionnels
+variés, essentiellement dans le domaine ECM et du monde Microsoft.
+Vous  travaillez  sur  la  migration  d'un  intranet  d'entreprise  réalisé  en  SharePoint                        2010  vers  la  version
+SharePoint 2013.
+Vous participez au portage et déploiement des solutions, d'identification et de correction des composants
+spécifiques qui ne fonctionnent plus.
+Vous évoluez dans un environnement SharePoint 2010, SharePoint 2013, .NET, méthodes agiles.
+Profil recherché :
+De  formation  minimum  Bac+4,  vous  recherchez  un  stage  orienté  programmation  en  environnement
+Microsoft (C#, . Net , Sharepoint …)
+Vous souhaitez évoluer au sein d'une équipe travaillant dans un contexte projet Sharepoint.
+Vous êtes :
+Passionné(e) d'informatique
+Créatif(ve)
+Curieux(se)
+Motivé(e)
+Vous souhaitez travailler en équipe
+Vous avez le sens des priorités
+Une bonne connaissance de la langue anglaise est indispensable.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7818596
+
+
+
+
+

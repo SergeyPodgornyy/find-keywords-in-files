@@ -1,0 +1,43 @@
+﻿MICROPOLE RECRUTE UN/UNE CONSULTANT BI (H/F) EN CDI TEMPS PLEIN.
+Date : 31/08/2015
+Référence de l’offre : CPN/BI/IE-10047768
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Aix-en-Provence 13854, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 2-3 ans
+Description de l’entreprise :
+Fondé il y a plus de 25 ans, Micropole est un groupe international spécialisé en conseil et technologies
+innovantes. Notre différence et notre valeur ajoutée : savoir conjuguer expertises et talents.
+Au quotidien, nos experts métiers et consultants travaillent autour de 3 grands métiers complémentaires :
+- la Transformation Digitale
+- le Pilotage de la Performance
+- la Gouvernance des Données
+Leurs compétences de spécialistes permettent un accompagnement global des projets de nos clients et nous
+rendent capables d'adresser les directions métiers grands comptes.
+Stratégiquement  implanté  en  Europe  et  en  Asie,  Micropole  s'appuie  sur  le  savoir-faire  de             1100
+collaborateurs.
+Description du poste :
+Vous interviendrez sur les différentes phases du projet :
+- études et Spécification
+- développement
+- recette et tests
+- rédaction de documentation
+Vous maîtrisez techniquement les ETL (au moins une des solutions suivantes : Datastage, Talend, BODS,
+SSIS  ou  ODI)  ainsi  que  des  solutions  de  reporting  telles  que  Business  Objects,  Cognos,  Hyperion,
+SSRS/SSAS).  Vous  avez  une  bonne  connaissance  des  SGBDR                                                    (ORACLE,  SQL  SERVER...).  La
+connaissance des problématiques OLAP est un plus.
+Profil recherché :
+De formation supérieure, vous avez au moins 2 ans d'expérience significative (hors stage/alternance) sur des
+missions de conception et de réalisation de projets décisionnels.
+Vous êtes curieux(se) et avez un fort attrait pour les innovations technologiques autour des enjeux actuels en
+termes d'exploration de l'information et d'accès à la donnée : Big Data, Search, Predictif, Data Visualization
+Autonome, impliqué(e) et doté(e) d'un bon relationnel, vous souhaitez rejoindre une entité en forte croissance
+pouvant vous faire intervenir sur des projets à forte valeur ajoutée.
+Pour postuler : http://apply.multiposting.fr/jobs/1972/10047768
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿Process Intelligence
+Région Ouest
+Sujet : Etude et analyse d’outils de Process Intelligence et mise en place de
+démonstrateur(s) basé(s) sur les applicatifs métiers du système
+d’informations.
+Lieu :                                                                             Durée :                                                                 Responsable stage :   Référence :
+Rennes                                                                             6 mois                                                                  Xavier Le Picard      Stage
+-
+Modena
+Objectif
+Dans le cadre des activités BIG DATA, Orange Application for Business
+(OAB) a pour objectif de devenir un acteur reconnu en gestion de
+données.   OAB / Direction Intégration de Système et Business
+Intelligence (ISBI)   développe une offre commerciale pour capitaliser ses
+Technologies
+compétences dans les domaines de la gestion de la donnée, mettre en
+Businees Intelligence
+SGBD                                                                               valeur les données disponibles dans les applications métier déployées
+Process Mining
+pour ses clients.
+Outils d’analyse de
+données                                                                            Dans ce cadre, une analyse d’outils de type process minning, open
+Java, Php
+source ou non sera menée au cours du stage ; avec en ligne de mire
+l’objectif d’avoir à disposition des   outils valorisant la donnée   via la mise
+en œuvre d’indicateurs:
+-   analytiques consolidés,
+-   analytiques, mutualisés ou non, en temps réel
+Un regard crititque devra être porté sur l’ergonomie et les moyens
+d’accès aux rapports proposés par les outils étudiés.
+Les objetctifs de ce stage sont :
+   une prise   de connaissance du contexte générale sur les activités
+BIG DATA chez OAB au sein de la direction métier ISBI,
+   une montée en compétence sur les applications métiers du
+système d’informations OAB, succeptibles de proposer des
+services « Big DATA » pour mettre en valeur LA data,
+   une étude et montée en compétences sur les outils retenus dans
+le cadre du stage
+Enfin, le stagiaire aura la responsablié de restituer régulièrement les
+travaux d’avancement de l’étude aux parties prenantes BIG DATA.
+Page 1
+
+
+
+
+Profil recherché
+Stage ouvert pour 1 stagiaire.
+Stage de fin d’étude niveau bac +5.
+Bonnes   connaissances   générales   des   technologies,   facultés
+d’adaptation et esprit d’équipe,
+Bonne connaissance du monde du décisionnel
+Autonomie et curiosité dans le cadre de la veille technologique
+Connaissance des environnements suivants : Linux, SGBD, javascript,
+Eclipse, Java, PHP, technologie Web.
+Bonne maîtrise de l’anglais
+Contact recrutement
+Pour candidater : http://orangenrs.profils.org
+Page 2
+
+
+
+
+

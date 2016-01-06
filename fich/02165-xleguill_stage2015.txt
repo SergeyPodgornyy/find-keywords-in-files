@@ -1,0 +1,33 @@
+﻿demande de prestation de recrutement
+stage
+informations sur le stage
+intitulé du stage : « Développement d’applications iOS / Android pour le pilotage d’un cluster de Raspberry Pi (F/H) »
+maître de   stage                                                                                                        : Xavier Le Guillou (xavier.leguillou@orange.com)
+adresse du stage : 4 rue du Clos courtel, Cesson Sévigné
+période souhaitée :    à partir de février - mars 2015
+description du stage
+Le département SADH (Smart Access in Digital Home) est en charge de la conception et du développement des
+produits (Livebox, Décodeur TV, NAS,…) et des services (TV, partage de contenus multimédia,..) Orange.
+Votre rôle
+L’objectif de ce stage est de créer des applications iOS et Android afin de simplifier l’utilisation d’un cluster de
+Raspberry Pi effectuant des mesures et des attaques sur des réseaux IP. Ce stage sera effectué sous la
+responsabilité d’un architecte en sécurité d’Orange Labs.
+Lors de ce stage
+    vous définirez l’architecture et l’ergonomie des applications mobiles
+    vous définirez le contrat d’interfaces entre les applications et le cluster
+    vous implémenterez les applications définies
+    si le temps le permet, vous participerez à l’amélioration du cluster
+Votre profil
+formation souhaitée
+    vous préparez une formation de niveau Bac +4/5 dans le domaine du développement logiciel
+compétences et qualités personnelles recherchées
+    vous développez sur iOS et /ou Android
+    vous avez une fibre designer
+    vous êtes intéressé par l’informatique embarquée
+    vous avez quelques connaissances des APIs REST
+interne Orange
+
+
+
+
+

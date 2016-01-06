@@ -1,0 +1,70 @@
+﻿OFFRE DE STAGE EN INFORMATIQUE
+Intitulé : Analyse de solution de monitoring « End User Experience »
+Lieu :
+Dimension Data Luxembourg
+WEST SIDE VILLAGE
+Rue Pafebruch 89D
+L -8308 CAPELLEN
+LUXEMBOURG
+Phone +352 25.48.25 -1
+Reference:
+Manager : Tarik Bennani,
+Titre : MS Operation Manager
+Reference : FY2014-Team MS / EUE solution
+Email: lu.stage@dimensiondata.com
+Stage rémunéré
+Durée: 6 mois, période à convenir entre Février et Septembre 2014
+Entreprise: Dimension Data -http://www.dimensiondata.com /lu
+Avec   plus   de                                                                                15   000   collaborateurs   dans   plus   de   50   pays,   le   groupe
+Dimension Data    fournisseur  spécialisé  de  solutions  et  de  services  informatiques,
+aide   ses   clients   à   concevoir,   déployer   et   exploiter   leurs   infrastructures
+informatiques.
+Dimension  Data  applique  son  expertise  dans  les  domaines  des  réseaux  IP,  de  la
+téléphonie  et  la  collaboration,  de  la  sécurité,  des  plates-formes  système  et  des
+technologies  dédiées  aux centres de contacts.  Dimension  Data met  également au
+service  de ses clients ses qualités uniques de  conseil, d'intégration  et  de gestion
+pour  leur  fournir  des  solutions  complètes  et  personnalisées  allant  de  l'intégration
+traditionnelle à des offres de service clef en main de multi -sourcing.
+Ce stage ce déroulera dans au sein de l’équipe ITO& Cloud - MS operation ou vous
+serez  encadré  d’un  point  de  vue  technique  par  un  ingénieur  sénior  dans  le
+domaine et d’un point de vu entreprise par Tarik Bennani.
+Page 1 of 2
+© Dimension Data Luxembourg SA
+
+
+
+
+OFFRE DE STAGE EN INFORMATIQUE
+Sujet :
+Dans  le  cadre  de  notre  métier  d’infogérance  et  de  gestion  de  Cloud,  nous  avons
+mis  en  place  un  certain  nombre  d’outils  de  monitoring  pour  la  gestion  de  ces
+infrastructures .
+Toutefois la disponibilité et la performance d’une infrastructure informatique passe
+par la vue de l’utilisateur final « End User Experience  ».
+Le stagiaire participera notamment aux points ci-dessous durant son stage :
+●  Analyse des produits du marché et sélection initiale de 2 produits,
+●  Tests d’utilisation poussés en Laboratoire,
+●  Rapport d’évaluation menant à la sélection d’un produit,
+●  Présentation des résultats à l’équipe ,
+●  Analyse du cout de mise en production,
+●  Rédaction de documentation
+○  Création de la documentation d’implémentation et d’architecture
+○  Création des procédures de gestion opérationnelle
+●  Si la durée du stage le permet
+○  Déploiement de la plateforme en pilote et en production
+○  Gestion de la plateforme après sa mise en place
+○  Suivi de la mise en place
+-   Incidents rencontrés
+-   Propositions d’optimisation d’architecture
+-   Proposition d’optimisation de gestion opérationnelle
+Le stagiaire sera également amené à participer aux activités Managed Services et
+particulièrement les activités liées aux solutions techniques précitées.  Ces activités
+lui  permettront  de  se  familiariser  avec  les  solutions  de  gestion  en  place  et  de
+comprendre les besoins à couvrir .
+Page 2 of 2
+© Dimension Data Luxembourg SA
+
+
+
+
+

@@ -1,0 +1,132 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : CEA-List                                                                  Adresse : Centre de Saclay - NanoInnov
+Domaine d’activité : R&D                                                                        Ville :Gif sur Yvette
+Représentant de l’entreprise : Karine Gosse                                                     N° téléphone :+ 33 (0)1 69 08 02 87
+Sa qualité : chef de projet                                                                     N° fax : +33 (0)1 69 08 83 95
+N° de Siret :77568501900488                                                                     Site Web : http://www.kalisteo.eu/
+N° NAF :                                                                                        Courriel : karine.gosse@cea.fr
+Statut Juridique : EPIC                                                                         Signataire de la convention :
+Effectif de l’établissement :16000
+Nom de l’encadrant de stage :   Nicolas Allezard                                                Chargé du suivi administratif :
+Sa qualité : chef de projet                                                                     Sa qualité :
+Service : LVIC                                                                                  N° téléphone :
+N° téléphone :+33 (0)1 69 08 14 65                                                              Email :
+Email :   nicolas.allezard@cea.fr                                                               Fax :
+Fax :+33 (0)1 69 08 83 95
+Nom du service dans lequel le stage sera effectué : LVIC…..………………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): Saclay……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                              du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                                 du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                                 du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                            du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                              du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                          du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                              du 14 avril 2014 à fin août 2014
+Licence Professionnelle Electronique et Télécommunications
+SUJET DU STAGE :
+UNIVERSITE DE RENNES 1                                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Titre du stage proposé : DETECTION DE PANNEAUX DE SIGNALISATION ROUTIERE PAR VISION
+……………………………………………………………………………….
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Sujet proposé détaillé :
+Présentation du laboratoire d’accueil :
+Le CEA-LIST est un laboratoire de 600 personnes, localisé sur le plateau de
+Saclay,  dont  les  axes  de  recherche  s’inscrivent  dans  le  domaine  des  systèmes
+complexes  à  logiciel  prépondérant.  La  mission  du  CEA  LIST  est  le  transfert
+d’innovation vers le monde industriel. Par ce positionnement, le CEA LIST occupe une
+place privilégiée dans les réseaux de collaboration entre laboratoires académiques,
+centre de recherche et acteurs industriels à l’échelle européenne voire mondiale.
+Au sein du CEA LIST, le Laboratoire Vision et Ingénierie des Contenus (LVIC)
+regroupe                                                                                           80  chercheurs  autour  de  thèmes  de  recherche  qui  sont  l’analyse  de
+document  Multimédia  (analyse  jointe  texte  et  image),  la  localisation  de  capteurs
+(SLAM, réalité augmentée) et l’analyse de scène  (vidéo-protection, assistance à la
+conduite). A travers ses activités, le LVIC collabore avec de grands groupes THALES,
+STMicroelectronics,  Renault,  SNCF  et  un  réseau  de  PME  innovantes  Diotasoft,
+Arcure, Xedix, Ant’Inno. Consulter nos démonstrations sur www.kalisteo.eu.
+Contexte du stage
+Ce  stage s’inscrit  dans les  activités  d'analyse  de  scène du  Laboratoire  Vision  et
+Ingénierie des Contenus du CEA List. Le laboratoire développe dans le cadre de
+projets R&D, des systèmes d’analyse vidéo automatique en temps réel intégrant des
+techniques évoluées de modélisation du fond, de classification et de suivi temporel
+d’objets dans la scène. Ces projets sont menés en partenariat avec des acteurs
+industriels majeurs du domaine (Thales, Alstom, SNCF…).
+Description du stage
+L'objectif  du  stage  est  la  réalisation  d'un  démonstrateur  logiciel  de  détection  de
+panneaux de signalisation en milieux routiers urbains, à partir des images issues
+d'une caméra embarquée sur un véhicule. Ce sujet est très actif dans le domaine de
+la vision par ordinateur et atteint aujourd'hui un niveau de performances permettant
+l'intégration de cette technologie dans les véhicules haut de gamme. Toutefois, les
+contraintes de coût associées aux futures normes applicables à l'ensemble du parc
+automobile européen obligent à poursuivre les efforts pour rendre cette technologie
+plus  abordable  pour  une  plus  grande  efficacité                                               (réduction  de  la  complexité
+algorithmique, robustesse, augmentation des distances de détection).
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Le Laboratoire Vision et Ingénierie des Contenus est expert sur ce sujet, et ses
+technologies de détection sont aujourd'hui intégrées dans des solutions industrielles
+(http://www.arcure.net/).  Ce  stage  a  pour  objectif    d'améliorer  les  algorithmes  de
+reconnaissance des formes déjà existants au Laboratoire. Le stagiaire travaillera au
+mode  de  sélection  des  descripteurs  image  les  plus  discriminants  et  les  moins
+complexes.
+Contenu technique du stage
+Le travail de stage inclura les étapes suivantes :
+· Synthèse bibliographique sur les techniques et systèmes existants pour la détection de
+panneaux de signalisation.
+· Recherche des bases de données publiques permettant un apprentissage de bonne
+qualité (taille de la base de données, représentativité, qualité des images...). Si cela
+est nécessaire le stagiaire devra constituer une base de données pour le test de la
+méthode implémentée.
+· Choix de modules algorithmiques et implémentation en C++.
+· Evaluation objective des performances de détection et du temps de calcul.
+· Optimisations algorithmiques.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité  mensuelle (nette)                                                                   :  entre                    700   €  et   1300   €   Nom de l’Etudiant :
+suivant la formation.                                                                                                                               Diplôme :
+Modalités de versement :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition : aucune
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                         TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                          FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                       www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

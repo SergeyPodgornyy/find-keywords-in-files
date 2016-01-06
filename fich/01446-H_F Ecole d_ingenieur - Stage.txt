@@ -1,0 +1,60 @@
+﻿CLARANET RECRUTE UN/UNE H/F ECOLE D’INGÉNIEUR - STAGE EN STAGE 6 MOIS.
+Date : 01/07/2014
+Référence de l’offre : Stage_CEPH-6827380
+Domaine   d’activité                                                                                                     :   Production   -   Maintenance   -   Qualité   -   Sécurité   -   Environnement
+(Méthodes/Process/Industrialisation)
+Type de contrat : Stage
+Localisation : Chantepie 35135, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Pourquoi Claranet ?
+Claranet propose un environnement de travail professionnel, convivial et motivant qui accompagne chaque
+collaborateur dans son évolution personnelle.
+L'entreprise est en constante évolution depuis sa création en 1996, et a su garder les caractéristiques uniques
+d'une organisation jeune et dynamique ou la contribution individuelle et le travail d'équipe sont des valeurs
+essentielles.
+Claranet offre une opportunité rare de travailler dans un secteur d'activité en croissance (Services Internet) sur
+des projets à forte visibilité pour des clients prestigieux (Chanel, Airbus, Universal music, Veolia, Téléthon, Tag
+Heuer, le musée du Louvre,…) tout en offrant un environnement de travail convivial, informel et motivant,
+résolument orienté vers la satisfaction de ses clients.
+Si  vous  êtes  ambitieux,  impliqué,  en  recherche  permanente  de  solutions  innovantes,  et  recherchez  un
+environnement dynamique et convivial pour exprimer tout votre potentiel, contactez nous…
+Le groupe Claranet (CA 165 M€) est présent dans 6 pays, et compte plus de 800 collaborateurs à travers l'Europe.
+Claranet France (130+ personnes, 21M€ de CA) est réparti sur deux sites (Paris) et Rennes (Chantepie, 35).
+L'entreprise est considérée comme un des leaders naturels de son marché en France, et jouit d'une notoriété
+importante.
+Selon  Gartner,  leader  mondial  des  analystes  IT,  Claranet  fait  partie  des  rares  prestataires  "leaders"  et
+"visionnaires" sur son marché.
+Description du poste :
+Au sein de notre équipe infrastructure et stockage vous aurez en charge :
+-Le développement des scripts et outils permettant le déploiement et la déconstruction des services acquis par nos
+clients
+-La définition et le déploiement des outils permettant la supervision des métriques de performance et de capacité
+de cette infrastructure de service
+-La définition et déploiement d'une offre de service de stockage objets multi-site s'appuyant sur l'infrastructure en
+place
+-Travailler sur des technologies en large progression et des business modèles innovants
+Environnement  technique  :  Ubuntu,  Debian,  PACEMAKER,  CEPH,  ROUTAGE  IP,  BASH,  PERL,  PHP,
+APACHE, NGINX, JSON, S3, API REST, …
+
+
+
+
+Profil recherché :
+Profil
+Vous préparez une formation de niveau Bac  +5 dans le domaine de l'informatique et une connaissance en
+systèmes d'exploitation et systèmes distribués. - Compétences - Développement logiciel en C/C++ / Java - Linux
+- Notions de cloud computing - Anglais technique
+Vous êtes dynamique et autonome et doté d'un esprit curieux, de l'esprit d'initiative et avez le sens du travail en
+équipe .
+Niveau(x) d'études : Bac +5
+Période : 6 mois
+Convention de stage : Oui
+Pour postuler : http://claranet.contactrh.com/jobs/1536/6827380
+
+
+
+
+

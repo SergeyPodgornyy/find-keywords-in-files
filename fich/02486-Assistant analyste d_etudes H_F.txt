@@ -1,0 +1,46 @@
+﻿CRÉDIT AGRICOLE RECRUTE UN/UNE ASSISTANT ANALYSTE D'ÉTUDES H/F EN
+APPRENTISSAGE/ALTERNANCE 36 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 2015-5843-9433758
+Domaine d’activité : Systèmes d'informations / télécom (Chef de Projet / MOE)
+Type de contrat : Apprentissage/Alternance
+Localisation : VILLEJUIF 78, FR
+Durée du contrat : 36 mois
+Niveau d’études : Bac +1
+Années d’expérience :
+Description de l’entreprise :
+Filiale du Groupe Crédit Agricole depuis 2003, LCL est aujourd'hui l'une des plus grandes banques de détail
+en France.
+Grâce à son réseau de 2000 agences et centres d'affaires entreprises, sa banque à distance et sa banque privée,
+LCL accompagne 6 millions de clients particuliers et professionnels, et est la banque d'une entreprise sur
+trois.
+L'ambition de LCL pour 2018 est de devenir la banque relationnelle et digitale de référence en ville en
+capitalisant sur sa démarche de qualité et d'innovation appuyée sur l'écoute client.
+Description du poste :
+Au sein de la Direction des Systèmes d'Information, le service Placements et Fiscalité Clients est en charge
+du maintien en conditions opérationnelles ainsi que des évolutions et projets relatifs au domaine Fiscalité :
+- Alimentation de l'applicatif Serveur Fiscal via les applications émettrices de revenus ;
+- Le serveur fiscal proprement dit ;
+- Les déclarations et productions réglementaires afférentes (Imprimé Fiscal Unique, déclaration Déclaration
+Générale des Impôts).
+Le service a par ailleurs en charge les domaines de valeurs mobilières, banque privée et épargne. Dans le
+cadre de votre contrat en alternance d'une durée de 36 mois, vous assisterez les intervenants MOA et MOE
+sur les sujets liés à la fiscalité des clients de LCL :
+- Suivi quotidien des applications du périmètre ;
+- Mise en oeuvre d'évolutions sur des traitements en environnement mainframe (COBOL, CICS, DB2) ;
+- Recettes fonctionnelles (non régression, évolutions) ;
+- Suivi des travaux réglementaires fiscaux de fin d'année (planification, coordination).
+Vos interlocuteurs principaux seront les collaborateurs de l'équipe accueillante, ou d'autres équipes de la
+Direction Informatique ou associés (production, autres secteurs informatiques).
+Suite à votre contrat en alternance, une embauche en CDI est possible.
+Profil recherché :
+Formation : Université, Ecole de commerce.
+Spécialisation : Systèmes d'information.
+Compétences recherchées : Capacité d'analyse et de synthèse.
+Outils informatiques COBOL, Eclipse, SQL, CICS.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9433758
+
+
+
+
+

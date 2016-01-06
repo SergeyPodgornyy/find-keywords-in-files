@@ -1,0 +1,42 @@
+﻿PredicSis
+Stage en Informatique
+Développement d’un outil d’administration back-office pour une
+application SaaS
+PredicSis est une start-up issue d’Orange, en fort développement d’environ quinze
+ingénieurs créée en juillet 2013. Elle fournit des services de Predictive Analytics en
+environnement Big Data. Nos clients sont la distribution, l'e-commerce et les banques-
+assurances.
+Predicsis recherche des étudiants motivés, agiles, technophiles et passionnés par la
+découverte de ces technologies . Leur mission sera de soutenir nos efforts au sein de son
+équipe R&D. Le stage peut être prolongé par un contrat de travail.
+Sujet et objectif du stage :
+Ce stage porte sur la mise en œuvre d’un outil de type client léger, permettant
+l’administration de la base de données d’un applicatif web.
+PredicSis propose ses solutions d’analyse prédictive sur une plateforme d’architecture SaaS,
+mettant en œuvre des éléments de back-office permettant la persistance d’information au
+sein d’une base de données. Les tâches d’administration de cette base ne font pas partie de
+l’applicatif lui-même.
+L’objectif de ce stage sera d’identifier les différentes opérations d’administration, d’analyse,
+de corrections associées à cette base et d’en proposer un accès simplifié à l’aide d’une
+interface via un applicatif web dédié.
+Environnement technique :
+Les technologies principalement utilisées seront : MongoDB, Ruby, Rails, HTML5,
+JavaScript
+Lieu du stage :
+Lannion
+Durée du stage :
+6 mois
+Indemnité :
+1000                                                                                               € par mois
+Personne à contacter :
+Laurent Cogné, lco@predicsis.com
+Jean-Louis Fuccellaro, jlf@predicsis.com
+PREDICSIS S.A.S.
+Société par Actions Simplifiée au capital de 70 000 euros
+Siège social : 4 rue Ampère, 22300 Lannion
+RCS SAINT BRIEUC 794 365 098
+
+
+
+
+

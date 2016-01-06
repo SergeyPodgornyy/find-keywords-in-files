@@ -1,0 +1,54 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+MSI-02 « Android - Application Mobile QoE Astellia » (6 mois)
+Description du stage proposé
+Rattaché au département « Innovation » d’Astellia, ce stage a pour objectif l’étude puis la mise en
+œuvre de nouvelles fonctionnalités sur une application de mesure de la qualité d’expérience utilisateur
+(QoE) sous Android.
+Les Missions du stage :
+    Etude du domaine (Mobile, Radio, QoS/QoE)
+    Prise en main de notre application
+    Proposition d’améliorations (ergonomie, fonctionnalité, mesures, ...)
+    Mise en œuvre des nouvelles fonctionnalités
+Le travail réalisé s'intègrera dans la démarche qualité projet de l’entreprise (documentation, process
+de développement, tests).
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : Android SDK, Eclipse, SVN, ...
+   Connaissances requises : Développement objet, Java.
+Profil
+    Intérêt pour les technos mobiles et web.
+    Vous êtes curieux (se) et avez une bonne culture générale internet et mobile.
+    Vous avez envie de travailler en équipe.
+    Ecole d’ingénieur Bac+5 Informatique
+    Bon niveau d'anglais souhaité.
+Période
+A partir de Février 2014
+Page 2
+
+
+
+
+

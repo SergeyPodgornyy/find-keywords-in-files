@@ -1,0 +1,62 @@
+﻿CRÉDIT  AGRICOLE  RECRUTE  UN/UNE  INGÉNIEUR  DÉVELOPPEMENT-TÉLÉDISTRIB(H/F)  EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2014
+Référence de l’offre : 9363JCO/SB-6166383
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Kremlin-Bicêtre 94270, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : None
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Le groupe Crédit Agricole, un leader européen.
+Présent dans tous les métiers de la finance, le Crédit Agricole est N°1 de la banque de proximité en France et se
+place aux premiers rangs de la banque de détail en Europe.
+Son ambition : construire un leader européen, à dimension mondiale, de la banque et de l'assurance, dans le
+respect des principes du Pacte mondial des Nations unies.
+Description du poste :
+SILCA accompagne le développement de ses clients internes au Groupe Crédit Agricole, en offrant des services
+intégrés et mutualisés (infogérance d'application, infogérance de service, infogérance de plateformes, services
+d'infrastructure, environnement de travail utilisateurs, projets et expertises).
+Présentation du service
+L'équipe Ingénierie PdT et Télédistribution (IPT) est constituée de 4 pôles:
+- Homologation technique des logiciels (pôle HIS)
+- Packaging des applications à télédistribuer (pôle HIS)
+- Télédistribution (ingénierie et exploitation) (pôle TLD)
+- Support technique aux déploiements et suivi des pilotes (pôle PPS)
+- Ingénierie des postes de travail (socle technique, qualification du matériel, virtualisation du poste de travail)
+(pôle SIM).
+- Support de niveau 3 poste de travail pour le traitement des incidents (pôle SIM).
+Le Pole Ingénierie et exploitation de la télédistribution des applications a pour missions :
+- Mise à disposition des applications sur les postes de travail des clients, maintenance des architectures de
+télédistribution, résolution des incidents en respectant les processus et SLA SILCA.
+- Étude et évolution des plateformes Altiris et Radia (HPCA)
+- Veille technologique sur les outils de télédistribution
+Descriptif de la mission
+Création d'une base de référence des applications (packages) par client
+Réalisation d'interfaces pour interagir avec la base:
+Interface Web :
+- Consultation des données
+- Rapports sur les indicateurs
+- Rapport d'intégrité des données
+Web Service :
+- Intégration dans les outils existants (importation MD5, vérification MD5)
+
+
+
+
+Développement d'un outil de vérification périodique et automatique de l'intégrité des packages dans les Software
+Library Altiris (et SCCM)
+Profil :
+Formation : Bac+4 à Bac+ 5
+Spécialisation : Ecole d'Ingénieur Informatique
+Compétences requises : Visual Studio (C#), Web Services (IIS), SQL, SGBDD (SQL server)
+Qualités recherchées : Autonomie, Rigueur
+Profil recherché :
+-
+Pour postuler : http://ca.contactrh.com/jobs/1536/6166383
+
+
+
+
+

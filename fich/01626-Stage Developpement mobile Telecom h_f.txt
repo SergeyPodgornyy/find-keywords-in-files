@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT MOBILE TÉLÉCOM H/F EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 171446-7767794
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Atos développe des applications web mobiles destinées à l'utilisation sur un parc de terminaux mobiles
+divers. Les enjeux de mobilité deviennent de plus en plus importants pour notre client, et nous souhaitons
+être force de proposition sur le développement de nouvelles applications mobiles et/ou le portage ou
+adaptation d'applications existantes en version mobile/tablette.
+Il s'agira d'étudier un ou deux cas de refonte/adaptation d'application et/ou de prototypages de fonctionnalités
+nouvelles à des applications mobiles existantes :
+- Définition/identification du besoin
+- Maquettage, ergonomie
+-Prototypage de la solution
+-Participation à des projets d'évolutions sur des applications mobiles.
+L'environnement technologique sera parmi iOS/Objective-C, Android/Java, bootstrap, angular JS, phoneGap,
+GWT, Javascript/HTML5/CSS.
+Vous serez intégré au sein de l'équipe projet de l'agence toulousaine participant au développement de
+l'application.
+Profil recherché :
+De formation Bac+4/5 en informatique  (école d'ingénieurs ou université) en cours de validation, vous
+recherchez un stage à partir de la rentrée 2014, ou courant 2015.
+En fonction de la réussite des sujets traités lors de ce stage, une embauche pourra être envisagée. Chez Atos
+la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes
+en situation de handicap, et ce quelle que soit la nature de leur handicap
+Pour postuler : http://atos.contactrh.com/jobs/1536/7767794
+
+
+
+
+

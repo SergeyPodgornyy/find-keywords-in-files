@@ -1,0 +1,41 @@
+﻿MISE EN PLACE D’UN DEPOT DE BINAIRES ET
+DE DOCUMENTATION
+Entreprise
+Entreprise  de  maîtrise  d’œuvre  de                                                                                          200  collaborateurs,  le  GIE  SESAM-Vitale  est  au  cœur  des  échanges
+électroniques  sécurisés  entre les  Professionnels  de  Santé et  l’Assurance  Maladie.  L’infrastructure mutualisée
+SESAM-Vitale  gère  aujourd’hui  plus  d’un  milliard  de  transactions  par  an  en  relation  avec  plus  de  300 000
+Professionnels de Santé.
+Description de la mission
+Intégré(e)  au  sein  de  l’équipe  Développement  de  la  Direction  Infrastructures  Intermédiaires,  votre  mission
+consistera  à  faire  évoluer  la  solution  de  livraison  des  produits  développés  vers  un  dépôt  de  binaires  et  de
+documentation, dans une perspective d’extension de la Plateforme d’Intégration Continue.
+Description détaillée
+Les activités confiées sont :
+   Analyse de l’existant
+   Etude comparative des dépôts de binaires et de documentation du marché
+   Installation de la solution retenue dans l’infrastructure existante
+   Adaptation du workflow de livraison
+   Développement d’outils, dans le cadre de l’extension de la Plateforme d’Intégration Continue
+Profil recherché
+Etudiant(e) en 4ème ou 5ème année d’école d’ingénieur en Informatique.
+Qualités requises : curiosité, facilité d’adaptation, autonomie.
+Pré-requis
+  Linux et Shell
+Compétences visées durant le stage
+  Mettre en œuvre et développer vos compétences dans un contexte de développement logiciel
+  Approfondir vos connaissances sur les outils Jenkins, Subversion, dépôt de binaires
+Durée / Date
+6 mois / Début du stage au premier trimestre 2015
+Comment répondre ?
+Merci d’adresser votre candidature (CV + lettre de motivation) à :
+GIE SESAM-Vitale
+5, Boulevard Marie et Alexandre Oyon
+72019 Le Mans Cedex 2 FRANCE
+Fax : (33) 02 43 87 78 42
+E.mail : recrutement@sesam-vitale.fr
+Réf. : STAGE/DII/DEV/BINAIRES
+
+
+
+
+

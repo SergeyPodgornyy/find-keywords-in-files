@@ -1,0 +1,31 @@
+﻿AIRBUS GROUP IS HIRING A COMPARATIVE STUDY OF OPEN SOURCE FOR INTERNSHIP 6
+MONTHS.
+Date : 01/02/2015
+Job reference : 10266194-8717657
+Function : Information systems / Telecom (Development Engineer)
+Type of contract : Internship
+Localisation : Toulouse 31060, FR
+Contract duration : 6 months
+Level of studies : Master's Degree
+Years of experience :
+Company description :
+AIRBUS GROUP
+Job description :
+Airbus (Toulouse) is looking for an intern for a 5 to 6-month internship.
+For its product engineering activities, the Avionic and Simulation department develops new model based
+methods, using tools from Eclipse and POLARSYS open source community, but customized for its specific
+business needs. In this community, different solutions exist to build or customized modelling editors.
+Required profile :
+You are in the 2nd year of a master's degree or 5th year of an engineering school or university, specialising in
+Information Technology.
+You ideally have initial experience in critical avionics software development.
+You have knowledge of:
+- Modelling: UML, EMF, OCL,
+- Systems: Java, Eclipse,
+- Projects and principles of open source community.
+To apply : http://apply.multiposting.fr/jobs/1536/8717657
+
+
+
+
+

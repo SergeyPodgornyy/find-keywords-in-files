@@ -1,0 +1,51 @@
+﻿Stage n°9 du LCE
+Sujet :  Évaluation  d'une  émulation  vectorielle  pour  l'efficacité
+énergétique   dans un multiprocesseur hétérogène
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser  l’innovation  dans  le  domaine  des  systèmes  embarqués.  Au  sein  du  LIST  le  Laboratoire
+Calcul Embarqué (LCE) est chargé de concevoir et de développer des calculateurs à haut niveau de
+performance (surface, consommation, puissance de calcul) pour les systèmes embarqués.
+Pour gagner en efficacité énergétique et surfacique dans les systèmes multiprocesseurs embarqués
+sans  réduire  les  performances,  le  laboratoire  étudie  des  solutions  se  basant  sur  l’asymétrie
+fonctionnelle. Cela revient à l’intégration de plusieurs processeurs élémentaires, couplés ou non avec
+différents accélérateurs matériels. En effet, en fonction de la charge applicative, les accélérateurs
+permettent d'obtenir plus de performance et une réduction énergétique. Mais dans d'autres cas, ils
+sont trop peu utilisés pour que les gains en performance ne justifient le coût énergétique.
+Le but de ce stage est d'évaluer l'émulation vectorielle, c’est-à-dire le remplacement d’instructions
+vectorielles non existantes par une séquence équivalente d’instructions scalaires. L’objectif final est de
+savoir si cette solution est viable pour migrer des tâches faiblement vectorielles sur un processeur
+non-vectoriel. Le stage se concentrera sur les accélérateurs vectoriels d’ARM (NEON et VFP). Dans
+un  premier  temps,  le  candidat  devra  prendre  en  main  la  plate-forme  de  simulation.  Après
+instrumentation de celle-ci, il exécutera le jeu de benchmarks de référence. Il devra ensuite proposer
+une solution pour émuler des instructions vectorielles avec des instructions scalaires. Puis il intégrera
+sa solution dans la plate-forme de simulation pour exécuter à nouveau les benchmarks de référence.
+Enfin, le candidat validera et évaluera sa solution.
+Le candidat disposera de bonnes compétences sur la partie compilation et exécution d'un programme.
+De plus, il devra faire preuve de rigueur, d’esprit d’initiative et d'autonomie.
+Niveau demandé : Diplôme Ingénieur (BAC+5)
+Durée : 6 mois
+Compétences : Architectures de processeurs, assembleur ARM, C++, python
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                          : Yves Lhuillier
+Téléphone                                                                                                    : 01 69 08 60 51
+Email                                                                                                        : yves.lhuillier@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                   Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                               Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                     Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

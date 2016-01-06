@@ -1,0 +1,37 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : GLPI-WOIS : intégration d’un workflow de demande de serveurs dans GLPI
+   Lieu : Mayenne                                                                              Durée : 2 à 4 mois
+   Formation : Bac + 1-2 avec expérience ou Bac +3                                             Date : 2014-2015
+   Rémunération : stage indemnisé                                                              Référence : EGO-1
+Sujet : Vous participerez :
+   A la rédaction des spécifications après recensement et analyse des besoins ;
+   Au développement d’un workflow de suivi d’installation de serveurs, qu’ils
+soient physiques ou virtuels. Cette application devra être intégrée à GLPI ;
+   Un cahier des charges sera fourni en début de projet. Ce cahier des charges
+s’appuie sur l’application autonome développée en PHP/MYSQL fonctionnelle
+mais ne répondant plus tout à fait aux nouveaux besoins ;
+   Votre objectif sera donc, d’étudier et de développer la nouvelle solution qui
+sera utilisée par l’ensemble de la DSI du groupe JOUVE ;
+   Vous développerez sur des environnements protégés de pré-production.
+Ce stage vous permettra d’intégrer une équipe constituée de client (interne Jouve), ingénieur
+en développement, tuteur et chef de projet, ainsi que des testeurs. Vous participerez à la
+
+
+
+
+gestion du projet et développerez vos acquis en PHP et MYSQL en environnement Linux.
+Environnement :
+   LAMP
+Vous    serez    intégré    dans    l’équipe
+infogérance.
+
+
+
+
+

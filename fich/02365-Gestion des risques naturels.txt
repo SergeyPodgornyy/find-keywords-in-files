@@ -1,0 +1,36 @@
+﻿CS COMMUNICATION ET SYSTEMES RECRUTE UN/UNE GESTION DES RISQUES NATURELS
+EN STAGE DE 5 À 6 MOIS.
+Date : 26/02/2015
+Référence de l’offre : ESP/TLS/n°8-8961920
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31500, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Enrichir une application Web SIG permettant l'ingestion et l'affichage de données liées à la prévision des
+crues.
+5 à 6 mois de stage.
+Les développements couvrent la partie interface graphique et traitements serveur.
+Les technologies : HTML5, CSS3, JQuery, AngularJS, OpenLayers3, Bootstrap pour l'interface Django,
+Python coté serveur.
+Vous connaissez les bases du développement Web et les méthodes agiles.
+Profil recherché :
+Ingénieur de formation ou équivalent universitaire (Bac+5), vous êtes
+formé au développement informatique et avez des compétences en programmation Web.
+Vous êtes rigoureux, autonome, créatif et possédez l'esprit d'équipe.
+CV + LM à envoyer à l'adresse recrutement@c-s.fr à l'attention d'Eléonore Coly
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8961920
+
+
+
+
+

@@ -1,0 +1,126 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : Refresh IT Solutions                                                Adresse : 11 Avenue des Peupliers
+Domaine d’activité : Editeur de logiciel                                                  Ville : 35510 Cesson Sévigné
+Représentant de l’entreprise : René-Philippe Mantrand                                     N° téléphone : 0299840152
+Sa qualité : PDG                                                                          N° fax :
+N° de Siret :   49262554600022                                                            Site Web :  http://www.refresh-it-solutions.com/
+N° NAF :   6202A                                                                          Courriel : simon.ferchaud@refresh-it-solutions.com
+Statut Juridique : S.A.S                                                                  Signataire de la convention :
+Effectif de l’établissement : 30
+Nom de l’encadrant de stage : Simon Ferchaud                                              Chargé du suivi administratif : Simon Ferchaud
+Sa qualité : Responsable produit                                                          Sa qualité : Responsable produit
+Service :                                                                                 N° téléphone : 0299840152
+N° téléphone : 0299840152                                                                 Email : simon.ferchaud@refresh-it-solutions.com
+Email : simon.ferchaud@refresh-it-solutions.com                                           Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …..………………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                   13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+X Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+X Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+X Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 13 avril 2015 à fin août 2015
+Licence Professionnelle Electronique et Télécommunications
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+□ Spécialité SPH                                                                                                      En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                                      16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                     En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                                      entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                                    entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre  du  stage  proposé  :  Réalisation  d’un  robot  de  validation  automatique  du  connecteur  de
+messagerie Office 365
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+    Visual Studio 2013
+    C#
+    Team Foundation Server Coded UI Tests
+    Concepts de messagerie
+    Office 365
+Sujet proposé détaillé :
+Contexte :
+Refresh IT Solutions est un éditeur de logiciel spécialisé dans la transformation et l’évolution de l’IT des
+entreprises. A ce titre, il propose des solutions innovantes de migration des postes de travail vers Windows 7 /
+8.1 et de migration des systèmes de messagerie vers Office 365, la solution collaborative complète fournie par
+Microsoft dans le cloud.
+Refresh IT Solutions souhaite renforcer son offre logicielle et propose la réalisation de modules techniques
+supplémentaires à des stagiaires d’écoles d’ingénieurs ou d’université.
+Description :
+Les solutions de migration de messagerie de Refresh IT Solutions reposent sur des composants de traitement
+de  données  de  systèmes  de  messagerie.  Le  «  Refresh  Transporter  »  est  un  de  ces  composants.  Son
+architecture logicielle repose sur des connecteurs de lecture et d’écriture adaptés aux différents logiciels du
+marché (Office 365, Microsoft Exchange, Lotus Domino, Google, Zimbra, etc…).
+Microsoft  faisant  évoluer  sa  plateforme  de  messagerie  Office  365  très  fréquemment  pour  y  intégrer  des
+correctifs ou de nouvelles fonctionnalités, Refresh IT Solutions souhaite se doter d’un mécanisme de validation
+automatique lui permettant de garantir en permanence le fonctionnement de son connecteur vers Office 365.
+Objectif :
+Réaliser un robot permettant de simuler le comportement d’un utilisateur Office 365 pour vérifier le contenu
+d’une boite aux lettres migrée avec le « Refresh Transporter » et s’assurer que la migration est correcte.
+Etapes :
+UNIVERSITE DE RENNES 1                                                                                                TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                 FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                              www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+    Spécifications fonctionnelles et techniques
+    Réalisation du robot de simulation
+    Documentation, tests et validation
+Le stagiaire sera piloté par un ingénieur confirmé maîtrisant parfaitement les méthodes et technologies
+utilisées.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) :                                                                             Nom de l’Etudiant :
+Modalités de versement :                                                                                  Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

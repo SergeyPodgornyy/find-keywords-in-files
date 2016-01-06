@@ -1,0 +1,43 @@
+﻿PLANET EXPAT IS HIRING A WEB DEVELOPER FOR INTERNSHIP FROM 3 TO 6 MONTHS.
+Date : 21/01/2015
+Job reference : 150105-8652710
+Function : Information systems / Telecom (Development Engineer)
+Type of contract : Internship
+Localisation : Santiago 3580000, CL
+Contract duration : From 3 to 6 months
+Level of studies : Bachelor's Degree
+Years of experience : 6 months - 1 year
+Company description :
+Planet Expat provides career-boosting paid internships in some of the most innovative and dynamic Start-ups
+in Latin America, Europe and the USA. We connect students with promising start-ups abroad through a
+program that allows them to gain valuable professional experience in international environments while being
+key contributors to innovative projects.
+Job description :
+We are an online tours and activities marketplace with a focus on connecting travelers with small to mid-size
+tour operators that provide off the beaten path, local and authentic experiences. Our objective is to offer
+unique tourism packages while we help developing communities.
+We have recently been selected to join the most important startup accelerator in Latin America. Our funding
+team studied at Harvard and Boston University. Our current set of products is mainly focused in Panama,
+although we are expanding to new markets such as Ecuador, Peru and Chile.
+We are currently looking for a young, entrepreneurial-minded developer to take our website to the next level
+and help us raise funds from investors.
+Main Responsibilities:
+-Building our new site and web app
+-Improving our booking and search engine
+-Developing and curing our front-end design
+-Improve our website's overall design and user experience
+-Propose ideas for improvement
+Required profile :
+-Computer science major
+-English or Spanish fluent. Both would be a plus
+-Experience building booking engines would be a plus
+-Knowledge on Ruby on rails, Django, Python
+-Savvy with HTML CSS
+-Designing skills would be a plus
+-Willing to travel internationally
+To apply : http://apply.multiposting.fr/jobs/1536/8652710
+
+
+
+
+

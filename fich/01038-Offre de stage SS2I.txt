@@ -1,0 +1,104 @@
+﻿Mise en place de la Sécurité des Systèmes
+Informatiques du domaine Industriel
+EDF - CNPE de Civaux
+Offre de stage
+Appui Pilote Sécurité
+Informatique Industrielle
+CONTACT
+Jean-Marc AUTRET
+Service IAE
+EDF - CNPE de Civaux
+Jean-Marc.Autret@edf.fr
+Tél. 05 49 83 50 73
+1
+
+
+
+
+OBJECTIF DU STAGE
+Appuyer  le  Responsable  de  la  Sécurité  des  Systèmes  Informatiques  du  domaine
+Industriel  (RSS2I)    du CNPE de Civaux dans le but d’obtenir un résultat optimal et
+conforme aux exigences des métiers du nucléaire en ce qui concerne la  sûreté, la
+production et la sécurité.
+Le stagiaire assistera le RSS2I pour la définition des besoins et des solutions à mettre
+en œuvre (ADR/Parades), dans un souci de meilleure intégration dans le système de
+management de l’unité.
+CONTEXTE
+Les systèmes d’information du domaine industriel du Centre Nucléaire de Civaux contribuent aux enjeux
+majeurs d’EDF :
+    la sûreté nucléaire ;
+    la performance économique ;
+    le respect de la réglementation ;
+    l’image de marque d’EDF.
+Pour permettre la maîtrise de ces enjeux, l’intégration de la Sécurité Informatique du nucléaire vise à
+garantir :
+    la protection contre les intrusions, attaques, agressions ou actes de malveillance internes ou
+externes ;
+    la disponibilité et l’intégrité des systèmes industriels ;
+    l’intégrité des processus de production des données de configuration ;
+    la confidentialité des données à valeur commerciale ou patrimoniale.
+L’atteinte  de  ces  objectifs  s’appuie,  quand  cela  est  nécessaire,  sur  la  traçabilité  des  opérations
+réalisées.
+ORGANISATION
+Interlocuteurs : RSS2I, correspondants métiers Sécurité Informatique Industriel
+PROFIL
+REFERENTIEL                                                                                                           Etudiant intéressé par les technologies informatiques souhaitant se
+professionnaliser dans le domaine de la sécurité
+    Double compétence fonctionnelle et technique
+FORMATION                                                                                                             Ecole d’ingénieur 5° année avec dominante sécurité informatique
+    Une connaissance en gestion du changement est indispensable
+EXPERIENCE                                                                                                           Expérience du travail en équipe
+   Idéalement,   le   candidat   a   participé   à   l’accompagnement   de
+difficultés liées au respect des règles de sécurité informatique
+SAVOIR ETRE                                                                                                          Esprit critique et pratique, rigoureux, méthodique.
+   Analyse / Perception des enjeux
+   Coopération / Travail en équipe.
+COMPETENCES                                                                                                           Compréhension   de   l’environnement   et   du   fonctionnement   de
+l’entreprise EDF
+    Culture générale Informatique & réseaux
+    Connaissances   en   informatique :   architectures   SI,   Systèmes
+d’exploitation, réseaux et télécoms
+    Des  connaissances  norme  ISO  27000  et  défense  en  profondeur
+seraient appréciées
+    Capacité  d’analyse  permettant  d’identifier  les  vulnérabilités  de
+sécurité   informatique                                                                                           (établir   un   diagnostic,   approfondir   une
+question, résoudre un problème)
+    Maîtrise des diverses suites bureautiques
+2
+
+
+
+
+PRINCIPALES ACTIVITES
+I. RESPONSABILITE DE L’INTEGRATION DE LA SECURITE INFORMATIQUE
+   Analyse de risques / parades du domaine industriel
+   Définit les besoins métiers et rédige le plan d’action
+   Conseille sur l’optimisation de l’utilisation des outils et des systèmes en place
+II. ASSISTANCE AUX METIERS
+   Assiste les métiers pour le développement des parades issues de l’analyse de risque
+   Effectue des recommandations pour la mise en œuvre d’une solution de gestion des mots
+de passe et de gestion de parc matériel
+   Effectue des préconisations sur le changement dans le cadre de l’accompagnement
+   Participe à la conception du plan d’accompagnement au changement
+III. PREQUALIFICATION DES DYSFONCTIONNEMENTS
+   Caractérisation des demandes des utilisateurs/intervenants pour orientation
+IV. CONTRIBUTION AUX ACTIONS OPERATIONNELLES
+Le stagiaire peut être appelé à épauler une équipe opérationnelle et à participer à des
+opérations telles que :
+   Accompagnement des règles de sécurité informatique
+   Mise en place de solution de sécurisation (des mots de passe, supports amovibles)
+   Validation de certaines notes ou livrables importants
+V. DUREE DU STAGE
+6 mois minimum
+VI. LIVRABLES
+    Analyse de risques/vulnérabilités (permet de connaitre s’il est opportun de lancer
+rapidement certaines actions)
+    Note de cadrage du dossier de conduite du changement en fonction des populations
+    Dossier de pré-étude pour la gestion du patrimoine
+    Spécifications générales (communication / formation - sensibilisation)
+3
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿Stage n° 9 du LCE : Implémentation et évaluation de modules matériels pour
+la parallélisation de simulation systemC sur FPGA.
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+La complexité des architectures  électroniques modernes induit une importance croissante
+aux  phases  de  prototypage  et  validation  dans  leur  flot  de  conception.  L’utilisation  de
+prototypes virtuels (le plus souvent décrits en SystemC) permet la vérification fonctionnelle
+de  l’architecture  avant  même  sa  conception.  Ainsi,  la  phase  de  développement  du  code
+système, des pilotes, des applications, peut démarrer avant que le circuit ne soit fabriqué. De
+plus, ces modèles hauts-niveaux permettent d’explorer rapidement l’espace de conception et
+d’améliorer  considérablement  la  qualité  et  les  performances  de  l’architecture  finale.  Par
+conséquent la vitesse de simulation atteinte par ses prototypes est clé dans la réduction des
+temps  de  conception  et  dans  la  réduction  des  coûts.  Avec  la  démocratisation  des
+architectures  multiprocesseurs  il  devient  nécessaire  de  disposer  de  prototypes  virtuels
+parallèles bénéficiant à plein de la puissance de calcul offerte. Le CEA s’inscrit en pointe
+quant à la parallélisation de prototypes SystemC qui est un enjeu majeur pour la conception
+des futures architectures électroniques.
+Dans  ce  contexte  le  stage  a  pour  objectif  d’évaluer  l’apport  de  matériel  dédié  pour
+l’accélération de simulation SystemC parallèle. Le stage portera sur l’implémentation VHDL
+pour cible FPGA de modules matériels permettant l’accélération de certaines phases de la
+simulation.  Le candidat  veillera ensuite à faire  le  lien entre  des processeurs  généralistes
+exécutants le reste de la simulation et les modules dédiés. Une attention particulière portera
+sur la minimisation des latences de communication entre le logiciel et le matériel. Le candidat
+devra finalement évaluer les performances de ce design tant en utilisation surfacique qu’en
+performance.  Ce  stage  permettra  au  candidat  d’acquérir  un  large  panel  de  compétences
+allant de la conception de prototypes virtuels à l’implémentation VHDL sur FPGA tout en
+passant par la programmation proche matériel.
+Profil recherché :
+Niveau demandé :                                                                                      BAC + 5
+Durée :                                                                                               6 mois
+Compétences :                                                                                         VHDL,   C/C++,   SystemC,   programmation   parallèle,
+                                                                                                      assembleur
+Pièces à fournir :                                                                                    CV + lettre de motivation + classements
+Contact:                                                                                              Tanguy Sassolas, ingénieur chercheur
+                                                                                                      tanguy.sassolas@cea.fr / 01.69.08.00.89
+Laboratoire d’Intégration des Systèmes et des Technologies                                            Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                        Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                              Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

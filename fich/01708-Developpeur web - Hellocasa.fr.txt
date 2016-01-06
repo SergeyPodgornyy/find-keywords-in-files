@@ -1,0 +1,43 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR WEB - HELLOCASA.FR EN STAGE DE 4 À 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : Hellocasa-7843540
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION, AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU LIEN:
+http://ajstage.com/offre/Developpeur-Web-chez-Recowin
+Hellocasa.fr ancien incubé HEC et lauréat de Neuilly nouveaux médias, a pour ambition de permettre à un
+internaute d'acheter en 3 clics des petits travaux et services à domicile.
+Hellocasa.fr  révolutionne  la  consommation  de  service  à  domicile  en  y  apportant  une  bonne  dose  de
+simplification mais aussi de technologies.
+Vous participerez à la conception ainsi qu'au développement des nouvelles fonctionnalités du projet
+Intégration CSS de maquettes graphiques
+Intégration d'APIs
+Rejoindre une équipe sympa
+Participer à une belle aventure !
+Pour postuler, glissez dans votre CV :
+* plusieurs exemples de réalisations
+* vos 5 blogs / sites préférés pour faire votre veille technologique
+Profil recherché :
+Vous êtes autonome, créatif, et vous avez déjà développé un site web dans le cadre d'un projet personnel ?
+Alors rejoignez l'équipe Recowin en tant que développeur web !
+On vous veut dans notre équipe si :
+* Vous avez déjà créé un site web dans le cadre d'un projet personnel ou participé à des projets open-source.
+* Vous touchez votre bille en PHP (Symfony 2), SQL, HTML, CSS et Javascript (au moins tout ça).
+* Vous êtes passionné de nouvelles technologies et vous adorez en apprendre toujours plus sur le web.
+* Vous avez une attitude positive et êtes adepte de l'expression "il n'y a pas de problème, il n'y a que des
+solutions".
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7843540
+
+
+
+
+

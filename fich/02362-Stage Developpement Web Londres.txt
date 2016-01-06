@@ -1,0 +1,31 @@
+﻿MYINTERNSHIPABROAD  RECRUTE  UN/UNE  STAGE  DÉVELOPPEMENT  WEB  LONDRES  EN
+STAGE 6 MOIS.
+Date : 01/03/2015
+Référence de l’offre : RLonKL2902-8917253
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Londres 00000, GB
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Une entreprise spécialisée dans la gestion, la protection et la sécurisation des données des entreprises
+Description du poste :
+* Assister l'équipe de Front End development
+* Développer en HTML et CSS des ressources qui seront intégrées aux applications
+* Créer des tableaux, schémas et croquis afin de communiquer au sein de l'équipe
+* Mettre à jour la bibliothèque de données en CSS
+* Définir un processus de conception pour les produits développés par l'entreprise
+Offre à pourvoir entre le 2015-03-16 et le 2015-04-30 pour une durée de 6 mois
+Profil recherché :
+* Être étudiant ou jeune diplômé(e) spécialisé(e) en informatique/développement web
+* Avoir un niveau d'anglais avancé
+* Avoir une connaissance de LESS/ SASS/ BEM syntax/ Haml/ Jade
+* Maîtriser les langages HTML et CSS
+* Avoir connaissance des spécificités des navigateurs IE8 et des navigateurs pour mobiles
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8917253
+
+
+
+
+

@@ -1,0 +1,70 @@
+﻿Stage  -  Mise  en  place  d'outils  de  suivi  pour  support  client
+Atos  Intégration
+REFERENCE  :  158958
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/4941989
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 21/10/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION  DU  POSTE  :
+Contexte :
+Le stage est proposé dans le domaine « Fullfillment & Assurance » au sein des équipes projets du
+secteur « Network Management » du site de Rennes.
+Mission :
+Le stage est réalisé au sein du pôle "Network Management". Ce pôle conçoit et développe des
+applications de supervision (alarmes), diagnostic et reporting statistiques de réseau dans un
+environnement Intranet / Extranet.
+Le but du stage est la finalisation de l’outil ISIS mis en place pour le suivi des actions associées au
+traitement de tickets transmis à une équipe support (Helpdesk) par les différentes équipes du client
+utilisant les services de supervision et de reporting.
+Le stage s’effectuera en plusieurs étapes :
+
+
+
+
+1.  Prise de connaissance de l’état actuel du projet ISIS : architecture, fonctionnalités déjà
+implémentées
+2.    Identification des fonctionnalités restant à mettre en place
+3.    Développement de ces nouvelles fonctions
+4.    Validation de toute l’applicati n avec l’outil de test HPQC
+5.    Mise à jour de la documentation
+6.    Mise en exploitation operationnelle
+En fonction de l'avancement de l’étude et des développements, le contour du stage sera revu
+régulièrement avec le responsable du stage et les principaux acteurs du programme. Le but du stage
+est d’obtenir une application complètement utilisable à la fin du stage.
+Environnement technologique :
+LINUX, Java, PHP, MySQL, Eclipse, Sonar, Hudson, …
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour comprendre les multiples aspects des réseaux
+de télécommunications clients, les différents outils de gestion de ces réseaux, les problèmes
+rencontrés, les méthodes employées pour effectuer le support et la recherche de diagnostic, la
+gestion des tickets incidents, etc. … tout ceci dans un environnement opérationnel au contact des
+équipes de développement des applications.
+PROFIL  :
+Profil
+De formation Bac +4-5 en informatique (Ecole d’ingénieur ou université) en cours de validation,
+vous recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle AtoS recrute.
+Ce stage se déroulera à Rennes.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/4941989
+
+
+
+
+

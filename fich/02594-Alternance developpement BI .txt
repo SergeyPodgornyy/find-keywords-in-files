@@ -1,0 +1,36 @@
+﻿ATOS RECRUTE UN/UNE ALTERNANCE DÉVELOPPEMENT BI EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 09/07/2015
+Référence de l’offre : 190767-10344522
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Bordeaux 33000, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Vous participerez à la réalisation d'un projet pour le Centre de Service décisionnel, situé à Bordeaux.
+Votre intrégration au sein d'une équipe projet, à taille humaine, vous permettra d'acquérir des coméptences
+sur les ETL, de modélisation Bi et de restitutions. Vous serez encadré (e) par un (e) ingénieur expérimenté
+(e).
+Vous utiliserez les technologies suivantes :
+- Datastage, Informatica, SSIS, Talend pour les ETL,
+- Business Objects, Cognos Bi et TM1, Qlikview, Obiee,
+- SQL (Oracle, DB2, Sql server).
+Profil recherché :
+De formation Bac+4/5 en informatique  (école d'ingénieurs ou université) en cours de validation, vous
+recherchez un stage en alternance à partir de la rentrée 2014, ou courant 2015.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10344522
+
+
+
+
+

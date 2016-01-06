@@ -1,0 +1,72 @@
+﻿Sujet:  segmentation  guidée  expert  de  surfaces  extraites  d'IRM  du  pelvis
+Tuteurs:
+*  Ahlem  Othmani
+*  Fakhri  Torkhani
+*  Jean-Marie  Favreau
+Description
+Le  laboratoire  ISIT  (UMR  6284  UdA  -  CNRS)  regroupe  des  scientifiques
+(mathématiques,  informatique,  vision  par  ordinateur,  géométrie
+algorithmique)
+et  des  médecins  autour  d'une  même  problématique:  explorer  les  possibilités
+offertes  par  les  sciences  de  l'image  pour  les  techniques
+interventionnelles.
+En  particulier,  l'équipe  ALCoV  explore  les  possibilités  associées  à  la
+vision
+par  ordinateur  et  au  traitement  d'images  pour  mettre  en  œuvre  des  méthodes
+de
+cœliochirurgie  gynécologique  assistées  par  ordinateur  grâce  à  la  Réalité
+Augmentée.
+Afin  de  fournir  des  modèles  3D  spécifiques  au  patient,  et  pour  que  les
+outils  de
+réalité  augmentée  fonctionnent  au  mieux,  on  travaille  à  l'extraction  de
+surfaces  3D  représentant  les  différents  organes  et  structures  qui  seront
+visibles  pendant  la  cœliochirurgie,  à  partir  d'images  pré-opératoires  type
+IRM.
+Afin  de  faciliter  les  opérations  de  recalage  nécessaires  à  la  réalité
+augmentée,  et  pour  préparer  l'affichage  de  contenus  riches  à  l'écran  du
+cœlioscope,  on  travaille  à  l'enrichissement  des  maillages  issus  de  la
+segmentation  par  des  informations  sémantiques  et  quantitatives
+(localisation
+d'organes,  de  tissus  pathologiques,  de  distance  aux  structures  sensibles
+par
+exemple).
+C'est  dans  ce  contexte  que  se  place  la  proposition  de  stage.  On  souhaite  en
+effet  explorer  les  possibilités  nouvelles  offertes  par  la  segmentation  de
+maillages  guidée  expert  [1,  2]  en  déclinant  l'expertise  développée  au  sein
+du
+projet  FUI  3DCI  à  des  données  issues  d'IRM  du  pelvis.  En  particulier,  ce
+stage
+explorera  plusieurs  aspects:
+*  échanges  avec  les  radiologues  et  chirurgiens  de  l'équipe  afin  de  produire
+une
+segmentation  d'un  IRM  en  focalisant  l'intérêt  sur  la  surface  de  l'utérus  et
+les  détails  fins  des  zones  d'intérêt  correspondants  (connexion
+utérus/trompe  de
+Fallope,  culs-de-sacs  utérins,  fundus,  col  de  l'utérus,  etc.),
+*  participation  à  l'identification  de  propriétés  géométriques  caractérisant
+ces
+zones  d'intérêts,
+*  utilisation  et  adaptation  d'algorithmes  de  segmentation  de  maillages
+basées
+caractéristiques  locales  (local  features)  pour  localiser  automatiquement
+ces
+régions  d'intérêt  sur  des  maillages  de  l'utérus.
+
+
+
+
+Mots-clés:  segmentation  guidée  expert,  maillage,  imagerie  médicale
+[1]  T.  Dietenbeck,  A.  Othmani,  M.  Attene,  Favreau  J.-M.  A  Framework  for
+Mesh
+Segmentation  and  Annotation  using  Ontologies.  In  Extraction  et  gestion  des
+connaissances  (EGC'2015),  Actes,  27  au  30  janvier  2015,  Luxembourg.  (2015)
+[2]  Hassan,  S.,  Hétroy,  F.,  &  Palombi,  O.  (2010,  February).  Ontology-guided
+mesh  segmentation.  In  FOCUS  K3D  Conference  on  Semantic  3D  Media  and
+Content.
+--
+Jean-Marie  Favreau  -  http://jmfavreau.info
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿Sujet de Stage M2/Ingénieur (Stage suivi par une thèse CIFRE)
+Titre : Gamification d’une plateforme de design : Analyse, Conception et Evaluation de
+fonctionnalités développées dans le cadre d’un serious game favorisant la conception de maquettes
+éco-responsable
+Contexte  :                                                                                                 Les  travaux  en  psychologie  sociale  ont  depuis  longtemps  montré  les  limites  des
+techniques  de  persuasion  pour  obtenir  d’autrui  un  changement  dans  ses  pensées  ou  ses
+comportements et souligné l’intérêt d’inviter l’individu à agir et à prendre des décisions dans le sens
+souhaité (Lewin, 1947 ; Beauvois et Joule, 1987). Aujourd’hui se développent les technologies dites
+persuasives  qui  désignent  des  technologies,  applications  ou  services  conçus  pour  induire  des
+changements d’attitudes et de comportements chez ceux qui les utilisent. Ces technologies nous
+rappellent  ce  qu'on  a  à  faire,  nous  permettent  de  visualiser  notre  activité  ou  encore  nous
+encouragent ou nous louangent avec l'objectif de changer notre façon de penser, d’agir.
+Par ailleurs des études ont montré qu’interagir avec un agent conversationnel dans un contexte
+d’apprentissage  augmentait  la  motivation  et  le  sentiment  propre  d’efficacité  chez  l’utilisateur
+(Rosenberg-Kima et al. 2007). De plus, l’apparence visuelle et la présence de ces agents, en plus
+d’avoir un impact majeur sur la motivation, ont aussi un impact sur les affects de l’utilisateur (Baylor,
+2009).
+Sujet :                                                                                                     L’objectif du stage est de contribuer au développement d'une plateforme de conception de
+maquettes  architecturales.  Il  s'agira  de  développer  des  fonctionnalités  visant  à  accompagner
+l'utilisateur lors de l'utilisation de la plateforme et de le motiver à s’engager dans un comportement
+écoresponsable.
+Le projet propose de s'appuyer sur l'utilisation des jeux sérieux qui ont pour objectif d'améliorer la
+motivation des utilisateurs. Les jeux sérieux permettront également de délivrer aux utilisateurs des
+retours sous forme ludique concernant leurs performances ou en réponse à des conceptions non
+adaptées, ou erronées.
+Tâches à réaliser
+‐                                                                                                           Etude bibliographique
+‐                                                                                                           Spécifications & conception des fonctionnalités technologiques relatives à la visualisation de
+l’information
+‐                                                                                                           Spécifications & conception des feedbacks à l’utilisateur
+‐                                                                                                           Evaluations expérimentales
+Profil
+‐                                                                                                           Formation master Psychologie (Cognitive ou Sociale), Ergonomie ou IHM
+‐                                                                                                           Forte attractivité pour les nouvelles technologies communicantes
+‐                                                                                                           Bonne connaissance en C++/Java
+‐                                                                                                           Bonne connaissance des méthodologies expérimentales
+‐                                                                                                           Aisance en communication écrite et orale
+‐                                                                                                           Rigueur, respect des délais, autonomie
+‐                                                                                                           Maîtrise de l’anglais appréciée
+‐                                                                                                           Poursuite d’étude vers un cycle 3 : selon les aptitudes du candidat et les résultats obtenus, le
+                                                                                                            stage est destiné à être poursuivi par une thèse CIFRE.
+Modalités
+‐                                                                                                           Durée : 6 mois (à partir de Mars)
+‐                                                                                                           Salaire : 860 euros/mois + frais de transport
+Le dossier de candidature devra comprendre un CV détaillé, une lettre de motivation et le relevé
+de notes de la dernière année
+Lieu : LIMSI - CNRS, bat 508, BP 133, 91403, Orsay Cedex. Groupe Cognition Perception Usages
+Candidature / information :
+Mehdi Ammi                                                                                                  Céline Clavel
+Mail : ammi@limsi.fr                                                                                        Mail : celine.clavel@limsi.fr
+Tel : 01 69 85 81 03                                                                                        Tel : 0 1 69 85 81 05
+
+
+
+
+

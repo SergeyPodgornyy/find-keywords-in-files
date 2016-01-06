@@ -1,0 +1,41 @@
+﻿DCNS  - TESTS RECRUTE UN/UNE STAGIAIRE  (H/F) DÉVELOPPEMENT LOGICIEL EN STAGE  6
+MOIS.
+Date : 05/05/2014
+Référence de l’offre : /11187/RUE/STA/-6352863
+Domaine d’activité : Etudes - Recherche (Chef de Projet/Ingénierie)
+Type de contrat : Stage
+Localisation : ruelle sur touvre 16600, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Dévoilez vos talents… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense et un innovateur dans
+l'énergie.
+Avec 3,3 milliards d'euros de chiffre d'affaires et 13 600 collaborateurs en France et à l'étranger, le groupe DCNS
+offre de réelles opportunités de carrières dans les métiers d'ingénierie de systèmes, d'architecture navale, de
+maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de services.
+Description du poste :
+Nous recherchons pour notre division Systèmes Navals de Surface située à Ruelle sur Touvre (16600)
+Stagiaire (H/F) 'Développement logiciel'
+Vous serez affecté au sein du département Ingénierie Développement Logiciel et votre mission principale est de
+développer  un outillage de test de performance pour nos applicatifs embarqués.
+L'objectif du stage est :
+- l'étude et le développement d'un outil de mesure de performance de rendu / chargement des symboles
+- Etude et définition d'une stratégie de mesure de performance sur les symboles (méthodes / algorithme / outils )
+- Développement d'un outil sur la base de l'étude
+- Doc de préconisation en fonction des lacunes vues
+- Appliquer les améliorations à la bibliothèque de symbole
+Pour cela, vous devrez :
+- élaborer un cahier des charges et spécifications logicielles correspondantes
+- concevoir le logiciel
+- intégrer et qualifier
+Profil recherché :
+Profil recherché                                                                                                      : bac+5, des connaissances en développement logiciel sur la base de C#  .NET dans un
+environnement ALM (TFS)
+Pour postuler : http://dcns.contactrh.com/jobs/1536/6352863
+
+
+
+
+

@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE D'ANALYSE D'ALERTES DE SÉCURITÉ EN STAGE 6 MOIS.
+Date : 23/10/2014
+Référence de l’offre : 174851-7844579
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.Pour plus d'information : www.atos.net
+Description du poste :
+Le stage se déroulera dans les locaux d‘Atos Toulouse et il s'inscrit dans le cadre d'un projet d'amélioration
+dans la gestion des alertes de sécurité sur les sites sensibles de la Direction Générale de l'Aviation Civile.
+Vous devrez prendre en main Archer, comprendre et analyser son fonctionnement, en faire une présentation
+interne pour en délimiter le contour, identifier avec l'aide de nos experts un cas d'application pour notre
+client, préparer et réaliser le paramétrage de l'outil pour ce cas d'application sur une maquette, présenter la
+maquette.
+Les objectifs sont :
+Apporter un éclairage sur l'ensemble des fonctionnalités du produit RSA/ARCHER (présentation du produit,
+ses modules, ses avantages, ses inconvénients, ses applications, sa roadmap...). Etudier les modalités et les
+coûts associés au produit, à ses modules ainsi que modalités liées à la maintenance. Rechercher les usages de
+l'outil au sein des entreprises ainsi que les entreprises visées. Identifier un cas d'utilisation pour la DSNA en
+tenant  compte  des  contraintes  techniques  et  organisationnelles.  Paramétrer  ARCHER  dans  le  cas
+d'application retenu et l'intégrer dans l'environnement de la DSNA. Présenter la solution.
+Environnement technologique et fonctionnel : Réseau de test de la navigation aérienne
+Profil recherché :
+Etudiant Ingénieur Réseaux et Informatique, fin de cycle.
+Bonne connaissance réseaux et sécurité et notion d'analyse de risque.
+Vous êtes autonome, curieux(se), et investi(e) dans l'application de vos tâches.
+Localisation : Toulouse - St Martin du Touch
+Pour postuler : http://atos.contactrh.com/jobs/1536/7844579
+
+
+
+
+

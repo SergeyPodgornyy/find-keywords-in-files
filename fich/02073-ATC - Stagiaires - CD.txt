@@ -1,0 +1,47 @@
+﻿SOGETI, filiale de CAPGEMINI, leader des services informatiques de proximité, propose, en
+France et à l'international, son expertise dans le conseil en Ingénierie informatique et Haute
+Technologie.
+Fiche de stage : Conception et Développement d’applications
+SOGETI propose dans le cadre d’un stage ingénieur de pré-embauche, le sujet suivant :
+« Participation à un projet de réalisation d’une application de gestion ou d’une application
+mobile »
+Au sein de l’Advanced Technology Center de SOGETI situé à Rennes, vous intégrez une équipe de
+développement et participez à un projet Nouvelles Technologies dans les secteurs de la Banque, des
+Télécommunications, de l’Energie, des Services Publics ou d’Organismes privés divers.
+Objectif du stage
+Participer à l’ensemble des activités de réalisation d’un projet nouvelles technologies
+(conception, codage et tests unitaires, intégration, assistance au client…) dans un
+environnement Java/J2EE, PHP ou mobile (iPhone, iPad, Android…).
+Environnement et mission
+Vous êtes intégré au sein d’une équipe projet de 3 à 8 personnes, sous la tutelle :
+    du responsable technique projet qui assure votre montée en compétences dans les technologies
+du projet et l’apprentissage de votre futur métier,
+    du chef de projet pour l’ensemble des aspects liés à la compréhension des objectifs du projet, au
+reporting d’avancement, à l’analyse des difficultés rencontrées et au soutien pour la préparation
+et la soutenance du rapport de stage.
+Ce poste est basé exclusivement à Cesson Sévigné (35)
+Au sein de l’équipe projet, vous participez aux activités suivantes :
+- participation à la conception fonctionnelle et technique,
+-  participation  à  la  mise  en  place  de  l'environnement  de  développement                         (machines,   outils,
+frameworks),
+- codage et tests unitaires,
+- qualification de l'application,
+- support à la recette client.
+Compétences souhaitées:
+Capacité d’intégration à une équipe projet et être moteur dans la réussite de la mission.
+Motivation, curiosité technique, rigueur et esprit d’équipe.
+Anglais apprécié.
+Domaines techniques, cadre du stage:
+Projets de réalisation d’applications de gestion et/ou portails et/ou applications mobiles
+Architecture Java/J2EE, ou PHP 5, ou mobile (natif et cross-plateforme)
+Stage de 4 à 6 mois à pourvoir tout au long de l’année 2015
+Nombre de postes : 3 à 5 à RENNES (35)
+Pour postuler, merci d’adresser vos CV et lettre de motivation à l’adresse mail suivante :
+par mail à : justine.tirot@sogeti.com
+Sous la référence : ATC-stage-CD
+www.meet.sogeti.com
+
+
+
+
+

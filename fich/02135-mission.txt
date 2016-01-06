@@ -1,0 +1,37 @@
+﻿PRESENTATION DE LA MISSION / Stage
+Le groupe
+Le groupe MICHEL NUTRITION est un réseau de xx entreprises à taille humaines spécialisées en Nutrition
+Animale. Nous mettons notre savoir-faire et notre expertise reconnue dans la profession au service de
+chaque PME du réseau pour gagner en compétitivité et en réactivité.
+Le projet
+L’innovation étant une valeur clé de notre action, nous travaillons aujourd’hui sur un projet ambitieux de
+construction d’un environnement unifié de données professionnelles issues de multiples applications et
+BDD. Notre objectif est de construire un outil expert d’aide à la décision.
+Mots-clé  associés                                                                                               :  environnement  BI,  DATA  PHP/Mysql,  WAREHOUSE,  BIG  DATA,  SYSTEME
+EXPERT, ETL
+Votre mission
+Vous  serez  chargé  dans  un  premier  temps  de  réaliser  l’analyse  technique  et  fonctionnelle  en  vous
+appuyant sur le dossier de cadrage du projet.
+Vous  proposerez  les  différents  scénarios  envisagés  pour  décision,  et  prendrez  en  charge  la  phase
+opérationnelle de réalisation pour construire la solution la plus adaptée et la plus pérenne.
+Vous serez assisté sur ce projet par plusieurs personnes qui vous apporteront des compétences à la fois
+fonctionnelles en systèmes d’informations et métier.
+La réussite de cette mission sera une référence pour vous et   atout indéniable dans la construction de
+votre parcours professionnel.
+Durée & Période
+Au minimum 3 mois - si possible 4/6 mois / Dès que possible
+Profil
+De formation supérieure intégrant une partie de conception de systèmes d’informations les compétences
+attendues sont les suivantes :
+-                                                                                                                Techniques : aisance dans un environnement de développement (Php/mysql ou autre), BDD, ETL et/ou
+BI
+-                                                                                                                Humaines : esprit d’analyse, de synthèse, ouverture d’esprit, bon relationnel
+Rémunération
+Une indemnité mensuelle de 1.000 euros est proposée au stagiaire.
+Contact
+Joachim Michel - Joachim MCHEL - joachim.michel@braud.fr -                                                       02.23.25.09.71
+
+
+
+
+

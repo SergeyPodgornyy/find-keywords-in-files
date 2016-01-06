@@ -1,0 +1,30 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 - Eclipse 4 RCP sur Androïd et Sécurisation
+d’applications (H/F)
+(réf. 1314383)
+Durée : 6 mois                                                                                                  Localisation : Thales Communications & Security - 110 Avenue du Maréchal Leclerc
+49300 CHOLET
+Contexte
+Ce stage se situe dans le cadre du laboratoire de produits applicatifs radio, au sein de l'équipe préparation
+de missiondes opérationnels (militaires) sur le terrain. Il se scinde en deux parties distinctes.
+Missions
+La première partie de votre mission consistera à étudier la portabilité d’une application Eclipse 4 RCP, avec
+si possible une IHM basée sur Java FX, vers la plate-forme Androïd.
+Les avantages et inconvénients des différentes solutions seront mis en avant avec une comparaison entre
+l’utilisation de la machine virtuelle Dalvik ou ART.
+                                                                                                                La seconde partie consistera à mettre en place une sécurisation d’application pour éviter, par exemple,
+l’utilisation  non-autorisée                                                                                    (dongle,  clé  de  licence,                                                                               …),  la  rétro-ingénierie   (obfuscation,  cryptage,   …),  la
+gestion en mémoire de données sensibles.
+Profil des candidats: BAC+5 - Connaissances souhaitées : Langages Java et C.Logiciels Eclipse, Android
+Developper Tool (ADT), méthodes AGILE (SCRUM).
+Indemnité mensuelle brute : 1200                                                                                €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : mireille.seme@thalesgroup.com
+1
+
+
+
+
+

@@ -1,0 +1,68 @@
+﻿Offre de stage
+2015 - PS - 03 - BL
+
+Sujet                                                                                         Mise en œuvre de la reconfiguration dynamique pour un pré-processing vidéo
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Vidéo  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Vidéo Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+6 mois à partir de février 2015
+Lieu / Site                                                                                   Cesson-Sévigné                                                               Période / Durée
+Contexte :
+Missions
+Il  est  proposé  dans  ce  stage  de  prospecter  les  nouvelles  possibilités  de
+reconfiguration dynamique des composants FPGA  (Field Programmable Gate
+Array) en la mettant en œuvre sur une application de traitement vidéo. Les
+vitesses  de  fonctionnement  du  FPGA  ainsi  que  la  capacité  de  l’outil  à
+reconfigurer partiellement un composant permettent d’envisager ce type de
+solution pour augmenter la densité de traitement sur un FPGA.
+Missions :
+1.  Prise en main du sujet et état des lieux des outils FPGA permettant la
+reconfiguration.  Le  stage  consistera  à  l’appliquer  sur                                  2  fonctions  de
+traitement   vidéo   existantes   dont   l’exécution   est   habituellement
+temporellement pipelinée.
+2.  Définition  des  évolutions  de  l’architecture  de  traitement  vidéo  pour
+permettre la reconfiguration. Chaque traitement disposera ses données en
+mémoire DDR pour l’usage suivant.
+3.  Implémentation et codage des évolutions pour chaque fonction en s’aidant
+de la simulation Modelsim.
+4.  Mise en œuvre de la reconfiguration partielle en reprogrammant le FPGA
+pour ces 2 fonctions.
+5.  Analyse  des  résultats  en  termes  de  performance                                      (tenue  du  débit),  de
+contrainte  de  conception  liée  à  la  reconfiguration,  de  gain  en  logique
+programmable                                                                                  (taux   d’occupation   du   FPGA),   de   fiabilité   de   la
+reconfiguration.
+
+
+
+
+Offre de stage                                                                  PS - 03 - BL
+
+Intérêt pour les implémentations/architecture de plateforme à base de FPGA et
+Profil
+la programmation de ces composants
+Intérêt pour le domaine de la TV numérique
+Autonomie
+Compétences :
+   Maîtrise du langage VHDL
+   Bonne connaissance des composants programmables FPGA Altera et de leur
+chaîne de développement (Quartus)
+   Connaissance de l’outil de simulation Modelsim
+   Bases du langage C et du langage de script tcl/tk
+   Bases en traitement vidéo
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :  benoit.le-ludec@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

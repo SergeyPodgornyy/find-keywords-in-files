@@ -1,0 +1,57 @@
+﻿AIRBUS  GROUP  IS  HIRING  A  REPRÉSENTATION  GRAPHIQUES  DE  RELATIONS  FOR
+INTERNSHIP 6 MONTHS.
+Date : 01/03/2015
+Job reference : 10262751 LB -8091566
+Function : Consulting (Information Systems/ Organisation Consulting)
+Type of contract : Internship
+Localisation : Elancourt 78996, FR
+Contract duration : 6 months
+Level of studies : Master's Degree
+Years of experience :
+Company description :
+Airbus Defence and Space is a division of Airbus Group formed by combining the business activities of
+Cassidian, Astrium and Airbus Military. The new division is Europe's number one defence and space
+enterprise, the second largest space business worldwide and among the top ten global defence enterprises. It
+employs some 40,000 employees generating revenues of approximately €14 billion per year.
+Job description :
+Airbus Defence and Space CyberSecurity (Elancourt) is looking for an intern for a 6-month internship.
+As part of the development of its activity, Airbus Defence and Space CyberSecurity creates innovative
+solutions in terms of cyber-security.
+You will be working within a team of experts recognised within the security community.
+This internship will start on 2nd March 2015 (subject to some flexibility).
+Your responsibilities will include:
+* collaborating in the design of a safety audit tool for an Active Directory environment,
+* drawing up a graphic representation of the relationships between objects in the Active Directory (objects,
+permissions, groups, members, etc.).
+The following deliverables are required:
+- Creating a tool to develop the graphics for relationships between Active Directory objects using data
+extracted from a Mongo database
+- Being a Point of Contact (POC)
+- Providing a weekly follow-up report
+- Designing documentation for developed tools.
+Required profile :
+You are in the final year of a Master's degree or the 5th year of Engineering school or university, specialising
+in IT security.
+You ideally have initial experience in this field.
+You have knowledge of:
+- Active Directory environment and Windows security
+- Development in Python and Json
+
+
+
+
+- Mongo database format.
+You are recognised for your autonomy and for your excellent organisational and communication capabilities.
+You are a good team player and have excellent interpersonal skills.
+English: intermediate level.
+Please apply online and attach your CV.
+Airbus Group is committed to achieving workforce diversity and creating an inclusive working environment.
+We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual
+orientation or religious belief.
+Airbus Group Recruitment Centre
+To apply : http://apply.multiposting.fr/jobs/1536/8091566
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Ingénierie test
+logicielle
+   Titre : Définition des techniques de tests dans le cadre de développement
+d’applications mobiles
+   Lieu : Rennes                                                                                 Durée : 6   mois
+   Formation : Bac + 4/5                                                                         Date : A partir de Mars 2015
+   Référence : BC-1
+   Rémunération : stage indemnisé
+Sujet : Le développement d'applications mobiles, qu'il soit natif ou hybride, nécessite des
+phases avancées de tests. Celles-ci s'effectuent pour l'instant manuellement.
+L’équipe de tests dispose de solutions d’automatisation pour les tests des applications web, il
+faut   valider et/ou adapter ces solutions pour industrialiser   les tests sur mobiles.
+Après avoir appréhendé et compris la solution d’automatisation déjà mise en œuvre sur les
+développements web (approche BDD (Behaviour Driven Development), briques techniques
+Behat, Mink, Selenium, …, Intégration continue Jenkins) ;
+Les objectifs du stage seront la suivant :
+
+
+
+
+   Appréhender et comprendre les problématiques inhérentes aux tests sur mobile
+   Rechercher et évaluer les briques techniques à mettre en œuvre pour élaborer une
+solution de tests avec une approche similaire à celle existante, mais sur une cible de
+« devices » mobiles
+   Mettre en place cette solution sur des vraies applications mobiles développées par
+Jouve
+Environnement :
+   Php (Behat) / Java
+   Selenium / Appium / …
+   JavaScript
+   SVN/GIT
+   Windows / Mac OS / Linux
+   IOS / Android
+   Jenkins
+   Techniques de virtualisation
+Vous  serez  intégré  à  l’équipe  Tests  et
+Qualification, en relation avec les équipes
+de développement mobile
+
+
+
+
+

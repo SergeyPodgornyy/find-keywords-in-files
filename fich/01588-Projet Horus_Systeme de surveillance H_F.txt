@@ -1,0 +1,42 @@
+﻿CS  COMMUNICATION  ET  SYSTEMES  RECRUTE  UN/UNE  PROJET  HORUS:SYSTÈME  DE
+SURVEILLANCE H/F EN STAGE DE 5 À 6 MOIS.
+Date : 06/10/2014
+Référence de l’offre : DEF/TLN/N°4-7698846
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulon 83000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+CS conçoit et réalise un système de surveillance et de communication à partir de ballons statiques et opérant
+à une altitude variant de 100 à 300m.
+Dans ce cadre, nous assurons une veille technologique sur des moyens optroniques très basse consommation,
+à faible encombrement et bas coût pour assurer la surveillance de zone. Vous rejoindrez une équipe de
+docteurs, d'ingénieurs et de stagiaires possédant des compétences scientifiques et techniques variées.
+La mission consiste à contribuer au développement d'un système de poursuite multicibles à implémenter sur
+des systèmes embarqués à base de microcontrôleurs.
+Les  compétences  requises  concernent  l'informatique  temps-réel  embarquée,  le  contrôle-commande,  le
+traitement du signal (filtrage prédictif) et de l'image.
+Durée du stage : 6 mois
+Profil recherché :
+Etudiant(e) en dernière année en école d'ingénieurs ou équivalent universitaire, vous avez les compétences
+suivantes:
+- Traitement d'images
+- bonnes connaissances en maths
+- bonnes connaissances en programmation en Langages C, C++
+- Esprit d'initiative et autonomie, passionné, travail en équipe.
+Compétences linguistiques: anglais niveau intermédiaire nécessaire
+Pour postuler : http://cssi.contactrh.com/jobs/1536/7698846
+
+
+
+
+

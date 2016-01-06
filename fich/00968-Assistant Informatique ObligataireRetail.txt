@@ -1,0 +1,56 @@
+﻿Assistant  Informatique  ObligataireRetail
+Crédit  Agricole  CIB
+REFERENCE  :  6478GMD/QU...
+POUR  POSTULER  :  http://ca.contactrh.com/jobs/1536/5391923
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris La Défense 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Gestion - Comptabilité - Finance (Analyse Financière)
+SOCIETE  :
+Crédit Agricole CIB est la banque de financement et d’investissement du Groupe Crédit Agricole,
+6e banque mondiale par le total de bilan (The Banker, juillet 2012).
+Crédit Agricole CIB propose à ses clients une gamme de produits et services dans les métiers de la
+banque de marchés, de la banque d’investissement, des financements structurés et de la banque
+commerciale. La Banque accompagne les clients sur les grands marchés internationaux grâce à son
+réseau mondial dans les principaux pays d’Europe, des Amériques, d’Asie et du Moyen-Orient.
+ENVIRONNEMENT :
+Le pôle Global Markets Division couvre l'ensemble des activités de trading et de vente de produits
+de marché à destination des entreprises, institutions financières et grands émetteurs. Il couvre
+également les activités d'origination, structuration et titrisation.
+Doté de salles de marchés déployées à travers le monde, Crédit Agricole CIB fournit à ses clients un
+accès à la liquidité dans les principaux centres financiers et leur offre une gamme complète de
+produits adaptés à leurs problématiques. L'ensemble des activités s'appuie sur des services de
+recherche dédiés.
+Nos activités sur les marchés de capitaux se déclinent mondialement en quatre types de sous-jacents
+: change, dettes et marchés de crédit, dérivés de taux et trésorerie.
+DESCRIPTION  DU  POSTE  :
+Les principales tâches qui vous seront confiées lors de votre mission incluent :
+- Maintenance des données Access 2010 alimentée par des données financières issues de Murex;
+- Développement de requêtes SQL sous Access et de macros VBA sous Excel à la demande du
+trading;
+- Développement de nouvelles fonctionnalités liées aux applications du desk (PNL, Analyse de
+risque...);
+- Optimisation des outils de pricing obligataires;
+- Interaction avec les fonctions support.
+
+
+
+
+PROFIL  :
+Bac +4/5
+Formation : Ecole d’Ingénieur, Ecole d’Informatique, Ecole de Commerce, Université
+Spécialisation : Finance
+Outils informatiques : Vous avez une bonne maîtrise du pack Office (Excel, Access, VBA)
+Qualités recherchées : Vous avez une bonne capacité d’analyse et une aisance avec les chiffres.
+Vous êtes force de proposition et résistez bien au stress.
+Langues : Votre niveau d’anglais est courant
+POUR  POSTULER  :  http://ca.contactrh.com/jobs/1536/5391923
+
+
+
+
+

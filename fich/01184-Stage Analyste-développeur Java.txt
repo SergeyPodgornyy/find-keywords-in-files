@@ -1,0 +1,43 @@
+﻿21, rue du Faubourg Saint-Antoine 75011 PARIS
+Tél. 01 43 73 24 74 / 06 18 12 00 19
+Levez le voile de l’informatique                                                             ela@kantena.com
+Stage d’ingénieur Java en informatique de gestion (H/F)
+Poste :
+Dans le cadre de votre stage de fin d’études et dans la perspective d’un CDI chez
+nous, vous serez intégré(e) dans une équipe d’analystes programmeurs sur un projet de
+développement  d’une  plateforme  internationale  de  gestion  de  fonds  pour  une
+importante banque.
+A ce titre, vous participerez au recueil des spécifications générales et détaillées, à la
+création de l’architecture applicative, à la définition de web services, à l’écriture des
+tests unitaires et de recettes et aux livraisons, en utilisant des méthodes agiles.
+Environnement dans lequel vous travaillerez : Java/J2ee, IBM Webshere MQ, Spring,
+Hibernate, Service Mix, Maven, Jenkins, IDE Eclipse, SGBD Oracle 11G, RTC Jazz,
+d’IBM, Synapse Datapower…
+Vous pourrez également participer à la modélisation des process clients en collaborant
+avec le client et les équipes projets de la société sur des aspects méthodologiques de
+type ITIL, CMMI, SCRUM...
+Entreprise :
+Kantena  est une société  à taille humaine  (trentaine d’ingénieurs) qui  connait une
+croissance  soutenue.  Elle  compte  parmi  ses  clients  essentiellement  des  grandes
+entreprises  (banque, industrie, BTP, distribution…) avec lesquelles elle établit des
+partenariats stables. Activité principale : assurer les développements et l’intégration de
+spécifiques sur des applications stratégiques, en répondant de manière dynamique aux
+besoins « métiers » des clients.
+Basée au cœur de Paris, sa jeune équipe est encadrée et assistée par des ingénieurs
+expérimentés.   Rejoindre   Kantena,   c’est   apprendre   à   travailler   de   manière
+professionnelle dans une ambiance agréable.
+Mais c’est surtout se mettre en situation de bâtir une carrière motivante, à la pointe des
+meilleures pratiques de l’informatique de gestion.
+Profil :
+Vous aimez Java ? Vous aimez vous impliquer dans ce que vous faîtes ? Vous aimez
+travailler  en  équipe ?  Vous  avez  le  sens  du  service ?  Vous  êtes  motivé(e)  pour
+progresser ? Contactez-nous. Nous vous accueillerons avec plaisir.
+Chez Kantena, l’intérêt pour son travail est un principe d’épanouissement personnel et
+un gage de succès pour soi, pour l’entreprise et pour ses clients.
+Rémunération :
+OUI (suivant niveau, plus tickets restaurant)
+
+
+
+
+

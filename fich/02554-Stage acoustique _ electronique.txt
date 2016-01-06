@@ -1,0 +1,33 @@
+﻿PARIS&CO INCUBATEURS RECRUTE UN/UNE STAGE ACOUSTIQUE / ÉLÉCTRONIQUE EN
+STAGE DE 5 À 6 MOIS.
+Date : 30/06/2015
+Référence de l’offre : INEM06-9955668
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Paris 75018, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+PARIS recrute pour l'une de ses entreprises Akoustic Arts.
+Description du poste :
+Depuis 2010, la startup Akoustic Arts innove dans le domaine sonore en développant une offre inédite
+d'études, de conseil et de technologies à destination des marques, des lieux et des produits.
+Profil recherché :
+L'objet du stage est de participer à la mise au point d'un haut-parleur ultra-directif fonctionnant sur le
+principe de l'antenne paramétrique.
+Cette mise au point comporte les tâches suivantes:
+- étude théorique et expérimentale du principe d'auto-démodulation,
+- mesures liées au comportement de transducteurs ultrasoniques,
+- mesures liées au comportement du haut-parleur en termes acoustiques,
+- évaluation du comportement du signal à chaque étage des prototypes,
+- programmation du processeur embarqué en langage C++.
+Une connaissance et un intérêt pour les algorithmes de traitement du signal (égalisation, compression...) et de
+leur  implémentation  en  C++  sera  fortement  appréciée,  ainsi  qu'une  familiarité  certaine  avec  les
+problématiques liées à l'audio en général.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9955668
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE INGÉNIEUR ÉTUDES ET DÉVELOPPEMENT JAV
+EN CDI TEMPS PLEIN.
+Date : 07/05/2014
+Référence de l’offre : JD/ITEC/95368-6363425
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Paris 75000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre mission  :
+Vous intervenez au sein de l'équipe en charge l'application Control Tower, dédiée aux équipes de surveillance et
+d'investigation au sein du département de prévention de la fraude.
+1.Production
+-Etre le garant d'une production de qualité pour Control tower
+-Gérer le support (niveau 1, 2 et 3)
+-Aider à la mise en place et à l'amélioration de la software factory et des outils de test.
+-Participer aux opérations de livraison et maintenance
+2.Etude, Développement et tests
+-S'approprier des besoins utilisateurs (collaboration étroite avec les utilisateurs requise au travers d'une approche
+de type « agile »).
+-Développer selon les normes et standards définis (architecture, sécurité, qualité, documentation …)
+-Organiser, paramétrer et maintenir l'environnement de développement par rapport aux besoins spécifiques
+propres aux solutions
+-Réaliser les tests unitaires et de chaines
+-Préparer et effectuer les tests d'intégration
+-Le cas échéant, réaliser des tests de performance
+-Gérer des homologations et mise en production
+3.Normes
+-Etre force de proposition en ce qui concerne les normes et les procédures
+-Fournir des éléments d'informations et d'analyse aux interlocuteurs externes à l'équipe
+4.Rôle de conseil  :
+-Assurer une veille technologique sur des points spécifiques et élaborer les propositions de solutions techniques
+sous la responsabilité du chef de projet
+-Participer à la réalisation du benchmark (informer et développer) de la solution technique actuelle
+-Être référent sur une ou plusieurs technologies et/ou un domaine applicatif
+-Anticipation des risques et mise en place des actions de mitigations
+Profil recherché :
+De formation Bac+5 en informatique, vous justifiez d'au moins 6 mois de stage en développement informatique
+sur les technologies Java et Oracle.Un anglais opérationnel est exigé
+
+
+
+
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6363425
+
+
+
+
+

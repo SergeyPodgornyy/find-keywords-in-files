@@ -1,0 +1,46 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de
+Stage
+Ingénierie logicielle
+   Titre : Développer pour les projets Jouve IntraGED et ExtraGED
+   Lieu : Rennes                                                                                                    Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                                            Date : début 2014
+   Rémunération : stage indemnisé                                                                                   Référence : CD-1
+Sujet :
+   Soyez acteur de l’évolution fonctionnelle du socle de gestion documentaire de Jouve
+utilisé pour les projets  « IntraGED1 et ExtraGED2 » et rejoignez une équipe de cinq
+ingénieurs  qui  travaillent  sur  ces  projets  en  méthodologie  agile  avec  Scrum  et/ou
+Kanban
+   Saisissez l’opportunité de développer dans et autour d’Alfresco, dont la suite logicielle
+innovante est celle de la société de gestion de contenu open source N°1 au monde.
+   Rejoignez l’équipe d’experts en Document Management de Jouve, et développez sur les
+technologies WEB les plus modernes (HTML5, Dojo, Web Services Rest, …) dans un
+cadre technique J2EE basé sur Spring.
+(1) L’IntraGED est le projet de personnalisation d’Alfresco qui répond à la problématique de partage d’information
+numérique (Texte, image et vidéo) interne à Jouve (Espaces collaboratifs de gestion de contenus pour les équipes
+et les projets informatiques de Jouve)
+(2) L’ExtraGED est le projet de personnalisation d’Alfresco qui répond à la problématique de partage d’information
+numérique (Texte, image et vidéo) avec les clients de Jouve (Entrepôts   de gestion de contenus partagés par les
+équipes projet Jouve et leur client)
+
+
+
+
+Environnement :
+   Alfresco
+   JAVA/J2EE, SPRING, XML
+   Eclipse, SVN, Intégration Continue (Hudson,…)
+   Technologies Web (HTML5, Dojo,…)
+   Méthodologie Agile (Scrum, Kanban)
+Vous  êtes  intégré  dans  l’équipe  ECM-Document
+Management.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_CD1@jouve.gestmail.com
+
+
+
+
+

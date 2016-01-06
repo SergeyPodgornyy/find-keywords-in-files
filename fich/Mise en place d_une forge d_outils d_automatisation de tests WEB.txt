@@ -1,0 +1,57 @@
+﻿Mise en place d'une forge d'outils d'automatisation de tests WEB
+Orange Business Services
+REFERENCE  :  IT/MBA/STAGE22-1588
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4860424
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  RENNES 35700, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Votre mission consiste à fédérer la mise en place d'une plateforme d'outils d'automatisation de tests.
+Cet environnement permettra de s'adapter à différents scénarios que ce soit en web, IOS, Android,
+W8 ou bien BlackBerry.
+De plus, vous devez avoir un regard critique et interactif sur le travail demandé (choix techniques et
+spécifications fonctionnelles) et proposer des améliorations en conséquence.
+PROFIL  :
+
+
+
+
+Stage de fin d'études niveau Bac+5.
+Compétences techniques :
+- Eclipse.
+- Android et IOS.
+- Connaissance de logiciel d'automatisation de test : Robotium, MonkeyTalk, Eggplant, …
+Profil requis :
+- Esprit d'équipe.
+- Bonne gestion de temps et de priorités.
+- Force de proposition.
+Une maîtrise de l'anglais technique sera appréciée.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4860424
+
+
+
+
+

@@ -1,0 +1,52 @@
+﻿Stage  outils  de  gestion  informatique  H/F
+Valeo
+REFERENCE  :  VMS/ST/INF1
+POUR  POSTULER  :  offre5240767.1536@valeo.contactrh.com sous la référence VMS/ST/INF1
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  La Verrière 78321, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Février
+DUREE  :  plus de 6 mois
+SECTEUR  :  Industries (Equipementier auto-moto-cycles)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Valeo est un Groupe indépendant entièrement focalisé sur la conception, la fabrication et la vente de
+composants, de systèmes intégrés et de modules pour l’industrie automobile, principalement pour la
+réduction des émissions de CO2. Valeo compte parmi les premiers équipementiers mondiaux.
+Présent dans 29 pays, à travers 125 sites de production, 21 centres de Recherche, 40 centres de
+Développement et 12 plates-formes de distribution, le Groupe emploie 72 600 collaborateurs.
+La Diversité (égalité Homme / Femme, handicap, seniors, nationalités, etc.) est au coeur de la
+politique de recrutement de Valeo.
+DESCRIPTION  DU  POSTE  :
+Au sein du Centre de Compétences des outils projets du Groupe Valeo, dans un contexte
+international, vous participerez et aiderez au portage de l'application de gestion des risques et de la
+qualité des projets de la technologie ASP vers la technologie Google.
+La mission consistera à :
+-Aider à la définition de ce qui doit être porté
+- Assister lors de la phase de test des livraisons intermédiaires du nouvel outil sous technologie
+google
+- Aider pour la mise en place et le test des interfaces entre cette nouvelle application et SAP
+- Développer et maintenir les outils de contrôle des référentiels autour de l'outil (Organisation
+Valeo, liste des clients, listes des plateformes et modèles de voiture...) en utilisant le langage vbs
+intégré à Excel
+- Mesurer les temps de réponses depuis différents sites clés en Asie, Amérique et Europe et
+analysant les causes racins des ralentissements potentiels pour améliorer le comportement de l'outil
+grâce à des outils de type imacros
+
+
+
+
+- Aider à automatiser la création des utilisateurs et des projets
+- Mettre à jour le site Web Google dédié à la capitalisation du savoir faire autour de cette
+application
+PROFIL  :
+- Formation: Bac+3 à +5 , Formation Informatique
+- Compétences Professionnelles: Connaissances en Systèmes d'Information
+- Informatique: outils de monitoring, outil Microsoft Excel
+POUR  POSTULER  :  offre5240767.1536@valeo.contactrh.com sous la référence VMS/ST/INF1
+
+
+
+
+

@@ -1,0 +1,69 @@
+﻿Médiateur européen
+Secrétariat général
+Unité communication
+Offre de Stage
+Stagiaire développeur web-java
+OMB/TRAINEE/2014/1/WEB
+Chaque année, le Médiateur européen offre l'opportunité à un stagiaire
+développeur web-java de collaborer au développement des sites Internet et
+Extranet du Médiateur (http://www.ombudsman.europa.eu).
+Description
+Le profil demandé est le suivant :
+•    Bonne connaissance de Java, J2ee et HTML/CSS
+•    Connaissance souhaitée de JavaServer Faces (JSF), Hibernate, Spring et
+Oracle SQL
+•    Environnement de développement : Eclipse
+•    Langues de travail : anglais et/ou français
+Lors du stage, vous serez amenés à prendre en main les outils suivants :
+•    Analyse : Magic Draw (UML)
+•    Conception : Eclipse, SQL Developer
+•    Tests : JUnit, Silk Performer, Selenium
+•    Gestion projet : Jira
+•    Qualité : Sonar
+•    Intégration continue : Jenkins, Maven
+•    Gestionnaire de version : Subversion (SVN)
+Lieu, dates et durée du stage
+Le stage se déroulera à Strasbourg. La date de début de stage est définie avec le
+candidat retenu.
+Le stage a une durée minimum de quatre mois. Il peut être renouvelé pour une
+période laissée à la discrétion du Médiateur, normalement pour une durée
+maximum de 12 mois.
+Le stage sera rémunéré selon les conditions définies par la décision du
+Médiateur européen concernant les stages (cf. informations complémentaires).
+La bourse de stage versée par le Médiateur à Strasbourg est de l'ordre de 1400      €
+par mois.
+OUT2014-003959
+1 avenue du Président Robert Schuman                                                T. + 33 (0)3 88 17 23 13   www.ombudsman.europa.eu
+17-09-2014
+CS 30403                                                                            F. + 33 (0)3 88 17 90 62   eo@ombudsman.europa.eu
+Public INT
+F - 67001 Strasbourg Cedex
+
+
+
+
+Candidature
+La date limite de candidature est fixée au 20 octobre 2014 minuit.
+Pour postuler, veuillez envoyer votre CV accompagné d’une lettre de
+motivation à :
+Marc Kamran Amir-Tahmasseb
+Responsable du développement web
+Courriel : marc.amir-tahmasseb@ombudsman.europa.eu
+Contact
+Pour plus d'information concernant les stages développeur web-java, veuillez
+contacter :
+Marc Kamran Amir-Tahmasseb
+Tél. : +33 3 88 17 44 10
+Courriel : marc.amir-tahmasseb@ombudsman.europa.eu
+Informations complémentaires
+Pour plus d'information concernant les termes et les conditions du stage, merci
+de vous référer à la Décision du Médiateur européen relative aux stages qui a
+été élaborée pour les stagiaires avec un profil juridique et qui s'applique par
+analogie pour le stage de développeur web-java.
+http://www.ombudsman.europa.eu/shortcuts/document.faces/en/3460/html.bookmark
+2
+
+
+
+
+

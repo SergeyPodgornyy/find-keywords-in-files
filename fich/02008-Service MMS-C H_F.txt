@@ -1,0 +1,34 @@
+﻿CAPGEMINI RECRUTE UN/UNE SERVICE MMS-C H/F EN STAGE DE 6 À 8 MOIS.
+Date : 01/01/2015
+Référence de l’offre : ST-TM-3939-8287599
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Télécom)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 6 à 8 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                              Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                             2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Stage Services MMS-C
+Dans le cadre de votre mission vous assurez la conception, le développement de l'interface de contrôle des
+simulateurs d'interfaces MMS (MM1- MM5- MMx) et participez à la validation des tests en charge de la
+plateforme MMS hébergée par Capgemini.
+* Prise en compte des contraintes opérationnelles pour l'ergonomie et l'affichage des champs nécessaires au
+lancement des charges (débit / contrôle d'erreur, temps de réponse)
+* Définition de l'interface de lancement des simulateurs pour le pilotage simultané et réalisation d'une
+application performante et robuste
+Profil recherché :
+BAC + 5
+Technologies: MMS, Application Server, Web Services, Java, VMWARE et Eclipse
+Méthodologie : Visual Management, Intégration Continue
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8287599
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿Stagiaire Statistique et Informatique H/F
+Ingénieriste de l’énergie et du bâtiment, ALTEREA accompagne ses clients à travers une démarche
+raisonnée,  dans  tous  leurs  projets  de  réhabilitation,  de  construction  et  d’optimisation,  en  leur
+garantissant  des  résultats  performants,  durables  et  mesurables.  Afin  de  répondre  au  mieux  aux
+attentes de ses clients, ALTEREA est répartie en 3 pôles :
+-                                                                                                                  Un pôle Assistance à Maitrise d’Ouvrage / Conseil,
+-                                                                                                                  Un pôle Maîtrise d’Œuvre TCE,
+-                                                                                                                  Un pôle Ingénierie Environnementale.
+Créée en 2004, ALTEREA se compose aujourd'hui d'une équipe pluridisciplinaire d'une cinquantaine
+de  collaborateurs  hautement  qualifiés.  Dans  le  cadre  de  notre  développement,  nous  recherchons
+un(e)  stagiaire  pour  travailler  sur  un  projet  de  développement  d’outils  informatiques  opérationnels
+« métier ».
+Poste et missions :
+L’objectif  principal  du  stage  sera  de  concevoir  et  de  développer   un  outil  informatique,  destiné  à
+évaluer les gains d’énergie réalisés suite à la mise en œuvre de solutions d’efficacité énergétique
+(dans le cadre du protocole IPMVP). Pour cela, avec le support des experts au sein d’ALTEREA,
+vous :
+    Vous  familiarisez  avec  les  variables  dont  l’évolution  a  un  impact  sur  les  consommations
+énergétiques
+    Déterminez  les  méthodes  statistiques  en  vue  de  définir  les  variables  influentes  sur  la
+consommation d’énergie
+    Etablissez une méthodologie de calcul de la performance énergétique rigoureuse et fiable
+    Créez l’outil informatique adapté pour standardiser l’évaluation de la performance sur la base
+de spécifications techniques déjà rédigées.
+Par ailleurs, vous serez amené/e à travailler sur des sujets d’organisation interne complémentaires :
+- mise en place d’un outil informatique de management de projet collaboratif
+- mise en place d’un serveur Wiki au sein de l’entreprise.
+Stage de 4 mois minimum
+Profil :
+De  formation  BAC+3/+5  liée  à  l'ingénierie  décisionnelle  (informatique,  statistique,  mathématiques
+appliquées,  bases  de  données,  aide  à  la  décision,…),  vous  justifiez  idéalement  d'une  première
+expérience professionnelle / stage dans ces domaines.
+Vous recherchez un stage formateur et responsabilisant vous permettant de monter un projet de A à Z
+en  faisant  preuve  de  rigueur  et  de  volonté  de  satisfaire  vos  clients  internes.  Vos  connaissances
+informatiques en applications web (php…) et bases de données SQL, ainsi qu’en en statistique sont
+indispensables.  Votre  capacité  à travailler  à  la  fois  en autonomie et  en  équipe seront  des atouts
+essentiels pour réussir ce challenge.
+Localisation des stages :    Paris (12ème) Des déplacements respectivement sur Nantes (44) seront à
+prévoir.
+Rémunération :  Indemnité de stage + Tickets Restaurants + remboursement abonnement transport
+Transmission des candidatures :
+CV + lettre de motivation + précisions sur les disponibilités et le lieu du stage à adresser par email
+recrutement@alterea.fr à Ralitsa BONEVA, Chargée RH, sous la référence INT/STI
+
+
+
+
+

@@ -1,0 +1,50 @@
+﻿Réf :Bcom/2014-                                                                                         Rennes, le 6 Janvier 2014,
+010
+Objet :                                                                                                 Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                        Technologique    b<>com    dans    la    Direction    Infrastructure    &
+Technologies
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur       3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                             Mise en place d’un système de gestion de références documentaires
+stage
+Descriptif de la mission :
+Problématique :
+Il existe au sein de b<>com un besoin de gestion de références/d’indexations documentaires
+:  gestion  de  bibliographie,  veille  technologique,  journal  d’information  interne.Des  outils
+commerciaux  comme  Evernote/paperapps  permettent  de  répondre  au  besoin.  Des  outils
+OpenSource comme Zotero/NixNote permettent également d’adresser la problématique.
+Objectifs :
+L’objectif est d’identifier, de développer et de mettre à disposition, l’infrastructure et les outils
+permettant au sein de b<>com d’offrir un service de gestion de références documentaires.
+Etapes principales :
+Spécification :
+Analyse des besoins utilisateurs b<>com.
+Analyse des solutions commerciales et open-source.
+Analyse  de  l’infrastructure  b<>com  pour  l’intégration  du  système  de  gestion  de  références
+documentaires.
+Développement de l’outil sur une base open source.
+Développement du serveur
+Développement du client/plugin
+Intégration dans l’infrastructure b<>com.
+Profil recherché :                                                                                      Elève ingénieur dernière année,
+Compétences souhaitées :
+    Développement Open Source
+    Linux, C/C++, PHP, SQ.
+Intérêt   pour   le                                                                                     Intégration au sein d’une équipe alliant développement & exploitation
+stagiaire
+Modalités                                                                                               Durée :6 mois
+Date de démarrage : mars/avril 2014
+Localisation : Rennes
+Date de fin de dépôt des candidatures :
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                  140106
+
+
+
+
+

@@ -1,0 +1,35 @@
+﻿Nous  recherchons  un(e)  stagiaire  Concepteur  Développeur  H/F  à  BREST  d’Avril  /  Mai  à
+Septembre  avec  les  compétences  ci­dessous  :
+                                                                                                  Formation  informatique  (université,  école  d'ingénieur...)  bac+4/5
+                                                                                                  Domaine  d'intervention  :
+o   Conception/Développement
+o   Intégration/Validation
+                                                                                                  Compétences  techniques  :
+o   Langages  :  Java,  Javascript,  HTML,  CSS3.  Une  connaissance  AngularJS  et
+Twitter  Bootstrap  serait  un  plus
+o   Services  :  Frameworks  REST  (Jersey,  RESTLet,  ...)
+o   Outils  :  Eclipse/IntelliJ,  Git.  Une  connaissance  Titanium  Mobile  serait  un  plus
+o   Environnements  :  J2EE,  Application  mobile
+o   Base  de  données  :  MongoDB,  une  connaissance  Elasticsearch  serait  un  plus
+                                                                                                  Gestion  de  projet  :
+o   Méthodes  Agiles  Scrum  ou  Kanban
+                                                                                                  Savoir­être  :
+o   Autonomie
+o   Force  de  proposition
+o   Rigueur
+o   Communication
+o   Bon  sens  de  l’ergonomie
+o   Créativité
+o   Curiosité
+Si cette offre vous intéresse, merci d’envoyer votre candidature (cv + lettre de motivation) par
+mail à maxime.padiolleau@sogeti.com
+Maxime PADIOLLEAU - Chargé de recrutement
+BU OUEST
+1 rue Charles Lindbergh - Immeuble Le Concorde - 44340 BOUGUENAIS
+LD : +33 (0)2 40 32 42 26 - Fax : +33 (0)2 40 32 42 30
+Avant d'imprimer ce mail, merci de considérer l'impact sur l'environnement
+
+
+
+
+

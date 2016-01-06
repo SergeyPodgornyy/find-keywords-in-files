@@ -1,0 +1,105 @@
+﻿Sujets de Stages 2014 - profils ingénieurs (5ième
+année)
+Ubikod, startup de 16 personnes créée en 2008 et basée a Rennes (R&D) et Paris (MarCom) vous offre l'opportunité de participer au
+développement de sa plateforme Capptain, solution SaaS/PaaS destinée aux éditeurs d'application connectées (iOS, Android, Web, TV
+connectés, etc.) intégrant des fonctionnalités de statistiques, de monitoring temps réel et de notifications (push) ciblées.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                Vous évoluerez en environnement SCRUM, et vous aurez l'occasion d'acquérir une expérience sur des technologies en plein essor  : Cloud
+computing                                                                                                                                                                                             ,              architectures distribuées   ,                  Big data                                                                                                                                               , bases de données                                                                                                                                            NoSQL   , traitements                                                                                           temps réel
+                                                                                                                                                      Nous proposons plusieurs stages soit orientés                                                                                                                                                                                                         Data Science                                                                                                                                                                                         , métier très prisé actuellement et en pleine explosion, soit orienté amélioration de
+                                                                                                                                                                                                                                                                               notre produit dans lequel vous acquérerez une expérience concrète sur un produit mêlant back-end et interface utilisateur.
+Le lieu des stages : Rennes (35) quartier Gare
+Contact : Vincent BARAT — 02 99 65 69 13 — vbarat@ubikod.com
+Développement produit
+Développement du moteur de statistiques temps réel (Monitor) v2
+Profile recherché: Ingénieur développement backend + Web
+Connaissances souhaitées ou a acquérir  : Java,                                                                                                       ,                                               Hadoop Storm   , SQL                       GWT, HTML5,   D3
+Le but du stage est de développer une nouvelle version du moteur de statistiques temps réel de la plateforme Capptain (le "Monitor") en
+s'appuyant sur la technologie Storm (cluster de calcul distribué temps réel utilisé par Twitter et Facebook).
+Cette nouvelle version, au minimum iso-fonctionnelle avec la version actuelle, permettra d'améliorer la monté en charge et   la robustesse de la
+solution.
+prototypage du nouveau modèle de calcul
+implémentation de nouvelles métriques pertinentes et de l'IU associée
+tests de tolérance aux fautes et de monté en charge
+mise en production
+Développement du parcours utilisateur (User Path) v2
+Profile recherché: Ingénieur développement backend + Web
+Connaissances souhaitées ou a acquérir  : Java, Hadoop Pig,                                                                                           ,                                               GWT            , SQL                       HTML5,   D3
+Le but du stage est d'améliorer la fonction "parcours utilisateurs" de plateforme Capptain. Le "User Path" est un graphe interactif représentant le
+parcours des utilisateurs au sein des différents écrans d'une application.
+définition des améliorations IU/UX (zoom sur un nœud, regroupement des nœuds, placement automatique des nœuds, etc.)
+définition de nouvelles métriques pertinentes
+implémentations des nouveaux calculs et des nouveaux modes de représentation
+mise en production
+Amélioration des fonctions de "scraping" de la plateforme Capptain
+
+
+
+
+Profil recherché : ingénieur développement backend + Web
+Connaissances souhaitées ou a acquérir  :                                                                                                         Groovy                                                                   /Java,                                                                                                                GWT,                          HTML5                                                                                                                                                , Web APIs, SQL
+                                                                                                                                                                                                                           Le but du stage est d'améliorer les fonctions de la plateforme Capptain permettant de récupérer a partir des divers                                                                                                                                                                                                        stores   applicatifs (Apple Store,
+                                                                                                                                                                                                                                                                                                                                                                               Google Play, Windows Store, etc.) les informations sur les applications (icônes, notation, classement, commentaires, etc.) et de les présenter sur
+le frontend Capptain.
+                                                                                                                                                                                                                                                                                                                                                                               Étude de l'existant, proposition des améliorations et développement de ces améliorations au sein de la plateforme (service                                                      backend                     en
+Groovy/Java et du site Web en GWT)
+Axes d'amélioration identifiés :
+Stockage des icônes côté Capptain
+Historisation des données afin de pouvoir afficher des courbes de tendances
+Segmentation des données (notation, classement, commentaires) par catégorie, par pays, et en fonction des stores
+Affichage des commentaires par langue/pays, etc.
+                                                                                                                                                  Développement d'une API permettant de récupérer les données "scrapées"
+Support d'autres                                                                                                                                  stores                                                                   (Windows Store, Chrome Web Store, Amazon Store, Samsung Apps, etc.)
+Développement d'un moteur de templates pour les campagnes de push
+Profil recherché: ingénieur développement Web orienté UI/UX
+Connaissances souhaitées ou a acquérir:                                                                                                           Java                                                                     ,                                                                                                                     GWT, Web frameworks, HTML5,   UI/UX
+Le but du stage est de développer un moteur de templates (ainsi qu'un ensemble de templates associés) pour le gestionnaire de campagnes de
+push, afin de simplifier la création de campagnes sur le frontend Capptain.
+Étude des différents types de campagnes effectuées par les utilisateurs
+Propositions d'un ensemble de templates couvrant les cas d'usage les plus courants
+Spécification et implémentation du moteur de template et des templates
+Mise en production
+Développement de tests automatisés pour les SDKs Capptain
+Profil recherché : ingénieur développement mobile + backend
+Connaissances souhaitées ou a acquérir  : iOS et/ou Android et/ou Windows
+Le but du stage est d'automatiser au maximum les procédures de tests de nos SDK embarqués dans les applications connectées (Android, iOS,
+Web, Windows Phone/8)
+Étude des procédures de tests manuels existants
+Étude des possibilités d'automatisation et proposition d'architecture
+Implémentation de l’architecture de test
+Implémentation des tests
+Documentation
+Data Science
+Création de tableaux de bord avancés basés Big Data
+Profil recherché:  ingénieur développement backend, data miner
+Connaissances souhaitées ou a acquérir : Java,                                                                                                    Groovy                                                                   , SQL,                                                                                                                Pig
+Le but du stage est de produire des tableaux de bords (dashboard) avancés basés sur les données collectées par les applications de nos clients,
+afin de leur proposer des analyses avancées de leurs applications. Ces tableaux de bords incluront des informations comme la "Life Time Value"
+indiquant la valeur générée par un utilisateur par exemple
+Il est aussi l'occasion d'appréhender le sujet porteur des Big Data, la technologie Hadoop (HDFS, Map/Reduce et HBase) et ses langages
+spécifiques PIG, Hive.
+
+
+
+
+Écriture de scripts Pig/Groovy d'ETL pour transformer les données
+Mise en place de l'automatisation du calcul des données
+Design et implémentation des dashboards sous Tableau Software pour faire des graphs avancés présentant les données
+Exemples de tableaux de bords: Travail sur LTV, Top de consultations de contenus, analyse de rétention, Stickyness, Viral factor,
+Abandons de paniers
+Étude d'impact des campagnes de push sur le comportement des utilisateurs
+Profil recherché: ingénieur développement backend, data miner
+Connaissances souhaitées ou a acquérir : Java,                                                                                                        Groovy   , SQL,   Pig
+Le but du stage est d'étudier l'impacte des campagnes de push effectuées par nos clients sur le comportement de leurs utilisateurs, afin de définir
+un ensemble de nouvelles métriques simples et génériques qui permettant d'optimiser l'utilisation du push.
+Il est aussi l'occasion d'appréhender le sujet porteur des Big Data, la technologie Hadoop (HDFS, Map/Reduce et HBase) et ses langages
+spécifiques PIG, Hive.
+Étude des données existante
+Définition et calcul des métriques comportementales
+Étude des résultats et extraction de métriques génériques et pertinentes
+implémentation des nouvelles métriques coté backend
+suivi de l'intégration des nouvelles métriques coté UI
+
+
+
+
+

@@ -1,0 +1,44 @@
+﻿ATOS RECRUTE UN/UNE INGÉNIEUR DE DÉVELOPPEMENT R&D HPC (H/F) EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 186064-10527430
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid. Pour plus d'information : www.atos.net
+Description du poste :
+Votre mission consiste à évaluer plusieurs applications de traitement de données (kafka , elasticsearch, flume
+..) et les intégrer dans un supercalculateur HPC pour :
+- Classifier et caractériser les solutions de traitement de données BigData.
+- Evaluer l'environnement technique de chaque application et mesurer à quel point cela peut être intégré dans
+un environnement HPC (empreinte mémoire, cpu etc .. )
+Des jeux de données seront mis à votre disposition.
+Profil recherché :
+Diplômé(e) d'un Bac+4, vous préparez un Bac+5, diplôme d'ingénieur ou cycle universitaire équivalent.
+Compétences
+Vous avez des compétences en développement Java, devops . Vous maîtrisez les environnements Linux.
+Vous possédez un bon niveau d'anglais.
+Vous faîtes preuve de curiosité, d'autonomie et de méthode. Par ailleurs, vous êtes reconnu(e) pour votre
+aptitude à travailler en équipe.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10527430
+
+
+
+
+

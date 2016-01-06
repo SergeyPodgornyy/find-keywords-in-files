@@ -1,0 +1,42 @@
+﻿ATOS RECRUTE UN/UNE DEVELOPPEUR PHP / SCRIPTING H/F EN STAGE 6 MOIS.
+Date : 16/03/2015
+Référence de l’offre : 183480-9134558
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Lyon 69000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Description du poste :
+Atos anime des équipes projets sur Lyon pour concevoir, réaliser et mettre en œuvre les besoins d'évolutions
+fonctionnels et ou technique.
+Dans ce contexte, vous participerez, au sein d'une équipe projet, aux développements d'applications en PHP5/
+MyQL et au développement d'outils de type scripting (perl, python, powershell, awk, …)
+Langage / BDD : Php5, SGBD Oracle et MySQL, Zend 2.0, Doctrine.
+Outillage : Perl, Python, Powershell, Awk
+Profil recherché :
+Profil
+De formation Bac+4 ou Bac+5, type école d'ingénieurs ou équivalent universitaire, vous recherchez un stage
+de fin d'études d'une durée de 4 à 6 mois.
+Passionné(e) d'informatique, vous êtes créatif(ve), curieux(se), motivé(e) et avez le sens du travail en équipe
+et du relationnel.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9134558
+
+
+
+
+

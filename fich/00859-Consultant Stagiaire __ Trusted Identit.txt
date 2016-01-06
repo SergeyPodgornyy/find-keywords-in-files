@@ -1,0 +1,52 @@
+﻿Consultant  Stagiaire  «  Trusted  Identit
+Orange  Business  Services
+REFERENCE  :  OC/SECU/AM/STRE
+POUR  POSTULER  :  http://OBS.contactrh.com/jobs/1536/5182993
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35700, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 15/11/2013
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Conseil/Audit)
+FONCTION  :  Systèmes d'informations / télécom (Sécurité)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités. Orange Business Services a
+remporté quatre fois le titre de meilleur opérateur mondial aux World Communication Awards.
+DESCRIPTION  DU  POSTE  :
+Avec la multiplication des utilisateurs du système d'information et le nombre croissant
+d'applications hébergées dans le Cloud, le contrôle de l'identité devient un enjeu clé pour les
+entreprises dans la protection de leur patrimoine informationnel. Cet impératif doit se combiner
+avec une simplicité d'utilisation pour les collaborateurs qui ont besoin d'accéder rapidement à leurs
+ressources et ce, où qu'elles soient et depuis le terminal de leur choix (pro/perso).
+Au sein du centre de compétence et d'expertise « Consulting Security Practice », vous contribuerez
+à la rédaction d'un livre blanc sur la maîtrise de l'identité en entreprise.
+Sous la direction d'un Consultant Senior, vous participerez aux actions suivantes :
+• Segmentation des usages, identification des nouveaux risques
+• Etat de l'art des standards et des bonnes pratiques techniques et organisationnelles visant à
+maîtriser les identités et les accès dans le Cloud (SCIM, SAML, OAUTH, identity broker…)
+• Analyse comparative des solutions techniques du marché
+• Création d'une grille d'évaluation visant à mesurer la maturité des pratiques de gestion de l'identité
+dans l'entreprise et d'identifier les « quick wins » face aux enjeux business et sécurité de nos clients
+PROFIL  :
+
+
+
+
+Diplôme d'Ingénieur (ou niveau universitaire équivalent) formé aux Technologies de l'Information
+et de la Communication.
+POUR  POSTULER  :  http://OBS.contactrh.com/jobs/1536/5182993
+
+
+
+
+

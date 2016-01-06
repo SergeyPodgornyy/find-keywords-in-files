@@ -1,0 +1,67 @@
+﻿KER4-MDD-QUALITE-OFFRE_STAGE-2.02                                                                          Offre de stage
+14/10/2010                                                                                                 Modèle de document
+  Offre de stage
+KEREVAL, laboratoire de test, spécialisé dans la qualification de composants, solutions et architectures
+logicielles, propose de rejoindre son équipe pour le sujet de stage suivant :
+Intitulé du stage                                                                                          Description
+Développement de nouvelles fonctionnalités pour
+un utilitaire de sécurité web de type WAF (Web                                                             KEREVAL laboratoire indépendant d’ingénierie de
+application Firewall)                                                                                      tests, est reconnu comme un des spécialistes de la
+                                                                                                           qualité logicielle.
+Objectifs
+                                                                                                           Fort de ses 12 années d’expérience, KEREVAL
+   Développement et test d’un module de
+                                                                                                           conseille ses clients pour professionnaliser leur
+validation de réponse HTTP
+                                                                                                           démarche de qualité logicielle et les aide dans
+A qui s’adresse cette offre ?                                                                              l’élaboration de leur stratégie de test jusqu’à la mise
+Etudiant en dernière année d’école d’ingénieur ou                                                          en place des équipes de tests certifiées CFTL.
+de master en Informatique avec des notions en
+                                                                                                           KEREVAL est aussi présent dans le domaine de la
+sécurité informatique.
+                                                                                                           sécurité informatique par ses activités d’audit et de
+Compétences :
+                                                                                                           recherche et développement.
+   Développement Web
+   Développement d’interface graphique.
+                                                                                                           Le stage en question s’inscrit dans un projet de
+   Sécurité du Web
+                                                                                                           développement d’un WAF (Web Application
+   Java, Webservices
+                                                                                                           Firewall) avec un principe de fonctionnement
+   Méthode de développement agile
+                                                                                                           innovant.
+Période et durée
+                                                                                                           Les travaux réalisés pendant le stage viendront
+6 mois
+                                                                                                           enrichir les fonctionnalités du produit par :
+                                                                                                              le   développement d’un module de validation
+Environnement
+des réponses HTTP.
+Eclipse, Java, SVN, GIT, Jenkins, Maven                                                                       l’ajout d’une interface graphique pour le
+                                                                                                           module créé.
+                                                                                                              la conception d’un module d’apprentissage
+Identifiant du stage
+permettant de créer automatiquement des
+validateurs. Les algorithmes utilisés seront
+STAGE-ROCAWEB-01-2014                                                                                      discutés pendant le stage.
+Apport pour le stagiaire :
+Contact
+Le stagiaire sera intégré dans l’équipe sécurité de
+KEREVAL.
+SAS KEREVAL
+Il pourra mettre en pratique les connaissances en
+4 rue Hélène Boucher
+matière de développement tout en étant encadré et
+Z.A Bellevue
+en apprenant la méthodologie de KEREVAL.
+35 235 THORIGNE FOUILLARD
+Ce stage est aussi un moyen de travailler dans le
+Tél : 02 23 20 36 64                                                                                       milieu de la sécurité informatique sur un projet
+recrutement@kereval.com                                                                                    prenant.
+4-Confidentiel (personnel)                                                                                 Document validé                                           Page 3 / 3
+
+
+
+
+

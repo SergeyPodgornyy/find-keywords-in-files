@@ -1,0 +1,31 @@
+﻿Stage - Etude et Développement d’un générateur de code pour la norme HLA FOM IEEE 1516
+Sogitec Industries est une société leader sur le marché des produits et services de soutien aux systèmes
+aéronautiques et de Défense. La société a été fondée en 1964 et est une filiale à 100% de Dassault
+Aviation depuis 1984. Ses domaines d’expertise concernent :
+-                                                                                                          La documentation technique et les systèmes documentaires
+-                                                                                                          La formation, la simulation et l’entraînement
+                                                                                                                                                                      Le sujet du stage consiste à écrire un générateur de code transformant un modèle de données  FOM
+                                                                                                                                                                      HLA IEEE 1516 en code C++.  Le modèle produit devra être utilisé dans un bus de données propriétaire.
+                                                                                                           Le nouveau système d’interprétation devra être :
+-                                                                                                          modulaire, on devra pouvoir utiliser des parties de FOM,
+-                                                                                                          optimisé pour réduire les temps de compilation,
+-                                                                                                          totalement objet,
+-                                                                                                          réflexif,
+-                                                                                                          gérer des interactions génériques,
+-                                                                                                          multi plates-formes Windows et Linux, 32 et 64 bits
+-                                                                                                          être pensé pour interagir avec des interfaces C#.
+Mots clés : simulation de vol, générateur de code, C++,  XML, TDD, intégration continue
+Niveau requis pour le stage : BAC+4/+5 en Informatique.
+Caractéristiques technique : Langage  C++, Système Windows et Linux
+Durée du stage : 6 mois, début souhaité : février / mars
+Lieu du stage : à Bruz dans les locaux de Sogitec
+Contact :
+M. Philippe BOINOT, pboinot@sogitec.fr
+24, av. Lavoisier,  ZA du champ Niguel, BP 37408 - 35175 Bruz Cedex
+Tel : 02.99.05.47.58
+Prévoir un CV et un entretien technique.
+
+
+
+
+

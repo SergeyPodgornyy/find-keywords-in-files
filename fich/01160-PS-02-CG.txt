@@ -1,0 +1,45 @@
+﻿Demande de stagiaire                                                                      Ref PS-02-CG
+
+Audit et mise en place d’une base de données entre un ERP et un logiciel de CAO
+Sujet
+électronique.
+Thomson Vidéo Networks est une entreprise internationale dans le domaine de la
+création et diffusion de contenu pour le marché professionnel de l’image. Notre site de
+Entreprise                                                                                Rennes est un centre de développement de 400 personnes principalement dédié à la
+fourniture d’équipements et systèmes de compression et transmission de l’image sur tous
+types de réseaux pour les opérateurs et professionnels de télévision.
+Lieu / Site                                                                               Cesson Sévigné                                                                     Période / Durée   6 mois
+Faire un état des lieux des bases de données existantes permettant le transfert
+Missions
+d’information entre l’ERP actuel de l’entreprise et le logiciel de CAO cadence.
+Suite à cela identifier les axes de simplification sur les informations à échanger.
+Mettre en place une nouvelle base de données entre  le futur ERP (En cours de
+choix) et le logiciel Cadence. Cela conformément à la politique de gestion des
+bases de données de notre IT.
+Développement d’une interface IHM spécifique si besoin (Type client léger).
+Définir une  méthodologie avec l’équipe BE sur le renseignement de cette base.
+Documenter la structure, la gestion, les interfaces et l’utilisation de ces nouvelles
+bases.
+
+
+
+
+Ref PS-02-CG
+Offre de stage
+
+Profil
+Ingénieur systèmes
+DIIC
+Informatique de gestion IUP MIAGE
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    christian.gallais@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+Document à remettre aux Ressources humaines
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿ATOS RECRUTE UN/UNE HPC SCALABLE ERRORS REPRESENTATION H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 05/02/2015
+Référence de l’offre : 2014-1495-8793042
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Bruyères-le-Châtel 91680, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Dans le cadre du développement d'une nouvelle génération de supercalculateurs, Bull a besoin d'un outil
+permettant de détecter et d'analayser les problèmes liés au réseau d'interconnection.
+La représentation des données de cet outil est un challenge en soit en raison de la dimension de ces
+supercalculateurs. En effet, outre les problèmes de performance -- l'outil doit être interactif -- l'affichage de
+plusieurs milliers d'informations n'est pas pertinent. Il faut trouver des moyens d'agréger l'information afin de
+présenter à l'utilisateur une information claire et concise lui permettant de prendre des décisions.
+L'objectif de ce stage, est d'intégrer à l'outil d'analyse des mécanismes efficaces permettant une meilleure
+représentation des données collectées.
+Votre mission consistera à :
+- Comprendre les réseaux d'interconnexion des supercalculateurs (topologies, routage)
+- Intégrer les processus de développement de l'équipe (spécifications, git/svn, développement dirigés par les
+tests unitaires, serveur d'intégration continue)
+- Définir une spécification légère de votre logiciel (entrées/sorties, architecture, dépendances)
+- Développer votre logiciel de manière incrémentale en fonction des retours de l'équipe (agilité)
+- Rédiger le manuel d'utilisation de votre logiciel ainsi que le manuel de maintenance
+- Former les utilisateurs
+Profil recherché :
+Bac + 5, diplôme d'ingénieur en Informatique, ou cycle universitaire équivalent.
+Langues
+Français (Bilingue)
+Anglais (Courant)
+Compétences requises
+- Conception orientées objets
+- Environnement UNIX/Linux
+
+
+
+
+Compétences appréciées
+- Développement incrémental (test-driven)
+- Language C, Python
+- Monde open-source et GNU/Linux en particulier
+- API pour interface graphique (opengl par exemple)
+- Autonomie, capacité à travailler en équipe, et force de proposition
+Des connaissances en parallélisme ou en topologies HPC ne sont pas requises.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8793042
+
+
+
+
+

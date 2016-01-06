@@ -1,0 +1,69 @@
+﻿Ingénierie et déploiement de plates-formes IT H/F
+Orange Business Services
+REFERENCE  :  IT/FCPOS/SUJET78-1601
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4870292
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  RENNES 35700, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Le Cloud Computing est au coeur de la stratégie de développement d'Orange Business Services et
+l'intégration de plates-formes IT chez nos clients s'inscrit complètement dans cette stratégie. Au
+travers d'une structure nationale, IT&L@bs est à même de servir les besoins IT de ses clients avec
+les dernières technologies d'infrastructure disponibles sur le marché, grâce aux partenariats noués
+avec les principaux éditeurs et constructeurs.
+Intégré(e) aux équipes du centre de compétences Datacenter, en collaboration avec les experts de
+l'équipe, votre stage comporte plusieurs volets qui seront à mener en parallèle :
+
+
+
+
+- L'ingéniérie système, qui consiste à définir les architectures techniques des plates-formes pour
+répondre aux besoins exprimés dans le cahier des charges des clients, en positionnant les solutions
+optimales d'un point de vue technique et financier.
+- L'implémentation des plates-formes chez nos clients, dans le cadre de nos projets de déploiement,
+dans le respect des contraintes de planning et de qualité de service.
+- La gestion des changements, l'accompagnement de nos clients la transformation de leur SI et la
+migration de leur existant.
+- La documentation associée aux projets (documentation de référence, spécifications,
+documentation d'exploitation..).
+Vous travaillerez en étroite collaboration avec les experts et architectes techniques d'Orange
+Business Services sur des solutions innovantes et sur des environnements critiques à haute
+disponibilité.
+Vous êtes amenés à intervenir sur le terrain, en lien avec nos clients, et vous contribuez ainsi à la
+réussite de nos projets.
+PROFIL  :
+Pour ce stage, nous recherchons un(e) étudiant(e) BAC+5 en Informatique, avec bon niveau
+rédactionnel et un excellent sens de la relation client.
+Connaissances demandées en infrastructures réseau et systèmes (serveurs, systèmes d'exploitation,
+virtualisation).
+Connaissances appréciées : sécurité, stockage, sauvegarde, bases de données.
+Des déplacements sur toute la France et/ou des travaux en horaires décalés seront possibles.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4870292
+
+
+
+
+

@@ -1,0 +1,46 @@
+﻿Proposition de stage Master 2 Génie Logiciel
+Développement J2E
+Sujet : Développement d’un système d’information (base de données, interface web)
+Société : INRA (http://www.inra.fr/) ; Unité expérimentale d’Ecologie et d’Ecotoxicologie
+aquatique (U3E) (http://www6.rennes.inra.fr/u3e)
+Adresse : INRA-U3E, 65 rue de St Brieuc, CS 84215, 35042 Rennes Cedex
+Candidature : envoyer lettre de motivation et CV à Nadine Herrard,
+Nadine.Herrard@rennes.inra.fr (tel : 02 23 48 57 73)
+Durée du stage : 6 mois
+Environnement et mission
+L’U3E est une Unité Expérimentale dotée d’outils spécifiques permettant de mener des
+travaux  de  recherche  sur  les  milieux  aquatiques  continentaux                                (cours  d’eau,  mares,
+étangs...), sur les organismes, les populations ou les communautés qui les peuplent.
+Certains de ces dispositifs sont plus particulièrement adaptés à de « l’observation », d’autres
+à de « l’expérimentation ». Dans le premier cas, ce sont les réseaux hydrographiques de
+l’Oir,  en  Basse-Normandie  et  du  Scorff  en  Bretagne,  diversement  instrumentés  pour
+mesurer,  comparer  et  décrire  les  différentes  évolutions  de  ces  écosystèmes  et  des
+populations ou communautés qu’ils hébergent. Dans le second, ce sont les sites de Rennes
+et Le Rheu où grâce aux différents systèmes développés  (microcosmes ou mésocosmes
+aquatiques, étangs...), il est possible de maîtriser bon nombre de paramètres pour permettre
+des approches expérimentales.
+La plupart des installations de ce dispositif s'inscrit dans l'Observatoire de Recherche en
+Environnement sur les « Poissons Diadromes dans les Fleuves Côtiers » (ORE Dia PFC).
+L’U3E a en charge le développement du Système d’information  (SI) de cet ORE en vue
+d'intégrer les données produites par l'ORE dans une base de données et de les mettre à
+disposition des chercheurs et d'un public ciblé.
+Une cellule « Eco-informatique ORE »   a été créé à l’INRA afin de structurer et mutualiser les
+moyens destinés à la création et la gestion des systèmes d'information des ORE. Il est basé
+sur un fonctionnement en réseau avec un noyau central localisé à l’INRA d’Orléans et des
+correspondants des différents ORE.
+Chaque système d’information ORE repose ainsi sur un noyau développé par la cellule.
+C'est un composant générique de l'architecture qui permet de reproduire à l'identique toutes
+les fonctionnalités communes d'un SI à un autre (gestion des utilisateurs, des droits, dépôts,
+publication, etc.).   Toute la logique de programmation pour réaliser le traitement d'un type de
+données  spécifique  aux ORE  (insertion,  Interfaces  homme machine  d’extractions…)  est
+regroupée dans un module.
+Le stagiaire aura en charge le développement du module pour le type de données « Suivi
+des Poissons ».
+Les développements seront réalisés en Java avec les framework Spring, JPA/Hibernate, JSF
+et Richfaces et la base de données est sous Postgresql. L’outil Maven sera utilisé pour la
+gestion du projet.
+
+
+
+
+

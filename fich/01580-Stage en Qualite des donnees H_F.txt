@@ -1,0 +1,64 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE STAGE EN QUALITÉ DES DONNÉES H/F EN
+STAGE 6 MOIS.
+Date : 09/10/2014
+Référence de l’offre : 107058-7729920
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société
+Générale propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante,
+qui respecte la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+L'environnement de la banque est en pleine mutation : contraintes réglementaires de plus en plus fortes,
+opportunités technologiques de plus en plus rapides…
+Dans ce cadre, la connaissance fine de notre clientèle ainsi que la bonne adéquation de notre offre sont
+indispensables.
+Prenez votre place dans l'équipe
+Vous intégrez l'équipe en charge de l'administration des données, qualité des données et gestion des données
+communes de la Banque de Détail.
+L'entité a pour rôle de déterminer des anomalies pouvant avoir un impact sur le fonctionnement des
+applicatifs, d'analyser les causes et de corriger.
+Devenez un réel atout pour la Société Générale et nos clients
+A ce titre et en collaboration avec votre maître de stage qui assurera votre formation, vous participez aux
+missions suivantes :
+* Participer à la création des macro VBA
+* Faire la réalisation pratique
+* Mise en oeuvre des macro VBA utilisées pour faire l'analyse des anomalies et pour envoyer des messages
+au réseau.
+* Maintenir les macro existantes ainsi que la documentation
+Ce que vous avez à y gagner
+Ce stage vous permettra de participer au traitement de l'information, au développement du module VBA dans
+le cadre opérationnel des données tiers et la connaissance des règlementations s'appliquant aux banques.
+Votre profil nous intéresse
+Vous êtes étudiant de niveau Bac+4/5 en Ecole d'Ingénieur, de Commerce ou Université avec une spécialité
+en Système informatique, Développement informatique Qualité des données avec une très bonne maîtrise de
+VBA.
+Par ailleurs, vous maîtrisez le Pack Office et le langage VBA.
+Et si c'était vous?
+Postulez dès maintenant !
+Si votre candidature est sélectionnée, vous serez directement contacté par un opérationnel pour un entretien
+de motivation.
+
+
+
+
+Merci de préciser votre mobilité géographique ainsi que vos dates de disponibilité !
+Stage basé à : Val de Fontenay
+Gratification selon grilles SG.
+Profil recherché :
+Votre profil nous intéresse
+Vous êtes étudiant de niveau Bac+4/5 en Ecole d'Ingénieur, de Commerce ou Université avec une spécialité
+en Système informatique, Développement informatique Qualité des données avec une très bonne maîtrise de
+VBA.
+Par ailleurs, vous maîtrisez le Pack Office et le langage VBA
+Pour postuler : http://socgen.contactrh.com/jobs/1536/7729920
+
+
+
+
+

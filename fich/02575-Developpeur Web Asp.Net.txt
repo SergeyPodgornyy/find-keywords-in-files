@@ -1,0 +1,45 @@
+﻿FINELOG RECRUTE UN/UNE DÉVELOPPEUR WEB ASP.NET EN CDI TEMPS PLEIN.
+Date : 01/09/2015
+Référence de l’offre : IEDMS-ST/0115-10126655
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Ile de France 92100, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+FINELOG, société de services et conseils en informatique située à Boulogne-Billancourt, est un spécialiste
+des solutions Microsoft au niveau Application Platform et Business Productivity.
+Nos équipes se positionnent sur 4 pôles d'intervention depuis la phase de conception d'un projet jusqu'à sa
+réalisation :
+* Assistance à Maîtrise d'Œuvre et maîtrise d'ouvrage
+* Business Intelligence
+* Maîtrise d'œuvre IT (Régie, Forfait, TMA)
+* Expertise SI Bases de Données
+Description du poste :
+Passionné(e) par les nouvelles technologies, vous désirez aujourd'hui évoluer dans une structure jeune et
+dynamique où des opportunités vous seront données de monter en compétence et en responsabilité.
+Nous recherchons actuellement un profil :
+Ingénieur études et développements Web Asp.Net / JavaScript / HTML 5 (H / F)
+Vous  souhaitez  intégrer  une  société  à  l'écoute  de  vos  aspirations  professionnelles  et  proches  de  ses
+collaborateurs.
+Profil recherché :
+Diplômé d'une formation supérieure (de Bac +3 à Bac+5) ou universitaire en informatique, vous avez :
+- Une expérience minimum de 3 ans en tant que développeur dont 2 ans consécutifs dans le développement
+Web
+- Des compétences bases de données (SQL Server ou Oracle)
+- Une bonne connaissance des designs pattern MVC
+Compétences requises :
+- C# .Net sur les Framework .Net 3.5 ou supérieurs
+- Expérience sur une bibliothèque Majeure (Jquery, angularJS, …)
+- HTML 5 et CSS
+Ces compétences seraient un plus :
+- NLog ou équivalent
+- Conception de requêtes SQL complexes.
+- Responsive design
+Pour postuler : http://apply.multiposting.fr/jobs/1972/10126655
+
+
+
+
+

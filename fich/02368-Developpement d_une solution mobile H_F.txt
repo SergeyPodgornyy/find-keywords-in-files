@@ -1,0 +1,53 @@
+﻿CAPGEMINI RECRUTE UN/UNE DÉVELOPPEMENT D'UNE SOLUTION MOBILE H/F EN STAGE
+DE 4 À 6 MOIS.
+Date : 20/02/2015
+Référence de l’offre : ST-ADM-3727-8917819
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                  Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                 2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+CONTEXTE :
+Le Manufacturing Execution System est devenu aujourd'hui un maillon essentiel pour le cycle de production
+des entreprises. Couvrant les domaines de l'ordonnancement, de l'exécution des fabrications, de la traçabilité,
+de la gestion de la qualité et de l'analyse de performance, il y apporte une solution homogène, dont les
+fonctions et interfaces avec l'ERP ou les équipements de production sont aujourd'hui largement normalisées.
+Capgemini est intégrateur des principaux logiciels du MES du marché : OSIsoft PI, AspenTech, Apriso,
+Wonderware, SAP ME
+DESCRIPTION DU STAGE :
+Au sein de l'équipe chargée des projets d'intégration MES, votre mission est de réaliser une application
+mobile (pour tablettes) couvrant certaines fonctionnalités utilisées par le personnel de production. Vous avez
+en charge :
+L'expression des besoins avec l'équipe Capgemini et les clients
+Le choix de la technologie
+La rédaction des spécifications techniques et fonctionnelles
+La réalisation et les tests de l'application
+ENVIRONNEMENT TECHNIQUE :
+Android, HTML 5
+Profil recherché :
+PROFIL RECHERCHE :
+Master 2 ou Ecoles d'Ingénieurs, vous êtes autonome et créatif, vous aimez la technique et les nouvelles
+technologies.
+LES « PLUS » DU STAGE :
+A l'issue de ce stage :
+Vous aurez acquis des compétences sur un sujet innovant
+Vous aurez travaillé sur un sujet couvrant toutes les étapes du cycle de vie sur un projet Capgemini
+d'envergure
+
+
+
+
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8917819
+
+
+
+
+

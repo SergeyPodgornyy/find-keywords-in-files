@@ -1,0 +1,52 @@
+﻿Stage : Support au projet Finance OneBI
+(H/F)
+A propos d’Alcatel-Lucent
+Présentation des missions:
+Partenaire privilégié des opérateurs, des
+A la pointe des technologies de communications, Alcatel-Lucent conçoit
+entreprises et des administrations du
+des produits  et  innovations  dans  les  domaines  de  l’IP,  du  cloud  et  de
+monde entier, Alcatel-Lucent est à la
+l’accès fixe et mobile très haut débit, pour les fournisseurs de services,
+pointe de l’innovation technologique en
+leurs clients, les entreprises et les institutions à travers le monde.
+matière de produits et de services
+télécoms.
+Dans le cadre du projet OneBI de transformation de la fonction Finance
+Le Groupe est le berceau des Bell Labs,                                            au sein de l’équipe GFS&O nous recherchons un(e) stagiaire qui pourra
+l'un des centres de recherche les plus                                             nous   aider   à   développer   des   outils/solutions   d’automatisation   de
+réputés au monde, à l'origine de                                                   récupération d’informations à partir des databases Corporate ALU afin de
+découvertes qui ont façonné le secteur
+les intégrer dans les nouveaux outils du OneBI solution.
+des réseaux de communication.
+Les innovations réalisées par Alcatel-
+Mission sous la responsabilité du tuteur:
+Lucent sont régulièrement saluées par
+les grandes organisations internationales
+Il (elle) pourra nous aider à mettre en place un base de donnée centrale
+pour leur influence positive sur la
+société. Présent à l'échelle du globe,                                             de stockage des référentiels liés au projet OneBI et à ses composantes
+Alcatel-Lucent est un partenaire local et                                          afin de rendre ces informations facilement disponible aux utilisateurs via
+acteur international.                                                              une interface unique.
+Pour plus d’informations,
+rejoignez nous                                                                     Qualifications:
+http://www.alcatel-lucent.fr
+http://www.alcatel-lucent.fr/blog /
+Profil : MIAGE
+http://twitter.com/AlcatelLucent
+Connaissances approfondies de la suite MS Office (Excel/Access/Sharepoint)
+ainsi que des connaissances en programmation (VBA).
+Connaissances en finance
+Anglais requis
+Bon relationnel pour travailler en équipe
+Durée : 6 mois
+Date de début: dès que possible
+Lieu : Nozay
+Merci d’adresser vos candidatures à l’adresse mail suivante:
+ramona.diaconu@alcatel-lucent.com
+Copyright © 2012 Alcatel-Lucent. All rights reserved
+
+
+
+
+

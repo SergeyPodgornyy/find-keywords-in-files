@@ -1,0 +1,42 @@
+﻿DCNS RECRUTE UN/UNE STAGIAIRE - MÉTHODES D'OPTIMISATION POU EN STAGE DE 5 À 6
+MOIS.
+Date : 01/02/2015
+Référence de l’offre : 2014-5138-7817061
+Domaine d’activité : Etudes - Recherche (Direction R & D)
+Type de contrat : Stage
+Localisation : BAGNEUX 92220, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Dévoilez vos talents… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense et un innovateur
+dans l'énergie.
+Avec 3,3 milliards d'euros de chiffre d'affaires et 13 600 collaborateurs en France et à l'étranger, le groupe
+DCNS offre de réelles opportunités de carrières dans les métiers d'ingénierie de systèmes, d'architecture
+navale, de maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de services.
+Description du poste :
+Le CMS (Combat Management system) d'un bâtiment de surface est le système informatique qui exploite les
+informations fournies par les senseurs de bord (radars, caméras,…) pour décrire l'environnement autour du
+bâtiment : position et natures des mobiles (avion de ligne, bateaux …). Une des fonctions critiques assurée
+par le CMS est l'association de données multi-capteur. Alors que chaque capteur fournit des informations
+élémentaires (positions, angles, …) décrivant les cibles qu' il a détectées, la fonction d' association vise à
+regrouper les informations des capteurs qui désignent la même cible.
+DCNS dispose de modèles qui formalisent la fonction d'association de données. Ces modèles aboutissent à
+des problèmes d'optimisation combinatoires. L'objet du stage est l'étude des solutions techniques pour
+résoudre le problème d'optimisation combinatoire qui modélise la fonction d' association.
+La mission comprend:
+- Une étude théorique des méthodes envisagées.
+- L'application au problème de l'association de données.
+- Une étude de performances sur données simulées.
+Profil recherché :
+Vous êtes en dernière école d'ingénieur/ master à dominante mathématiques appliquées
+- Compétences en optimisation discrète.
+- Maitrise des languages matlab ou java
+- Vous êtes capables de lire des articles en anglais
+Pour postuler : http://dcns.contactrh.com/jobs/1536/7817061
+
+
+
+
+

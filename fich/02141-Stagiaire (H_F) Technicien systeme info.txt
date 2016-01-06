@@ -1,0 +1,49 @@
+﻿DCNS RECRUTE UN/UNE STAGIAIRE (H/F) TECHNICIEN SYSTÈME INFO EN STAGE DE 2 À 4
+MOIS.
+Date : 06/01/2015
+Référence de l’offre : 2014-5906-8519667
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : ruelle sur touvre 16600, FR
+Durée du contrat : De 2 à 4 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Dévoilez vos talents… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense et un innovateur
+dans l'énergie.
+Avec 3,3 milliards d'euros de chiffre d'affaires et 13 600 collaborateurs en France et à l'étranger, le groupe
+DCNS offre de réelles opportunités de carrières dans les métiers d'ingénierie de systèmes, d'architecture
+navale, de maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de services.
+Description du poste :
+Nous  recherchons  un  étudiant  en  administration  système  afin  de  mettre  en  place  une  solution
+d'automatisation des déploiements de postes Windows XP et Windows 7.
+Il sera important de déterminer les avantages et les inconvénients des différents choix techniques et logiciels
+possibles, les limitations, la facilité d'utilisation et l'adaptation à notre infrastructure.
+La possibilité de déployer, facilement et à moindre coût, un système de déploiement identique sur les
+plateformes projets serait un plus.
+-Prise de connaissance des différentes solutions possibles
+-Déterminer leurs avantages et inconvénients.
+-Etude et prise en main du logiciel choisi
+-Mise en place de la solution choisie sur une plateforme de tests
+-Tests des fonctionnalités principales
+-Test et livraison d'un prototype pour un usage expérimental et de démonstration
+-Rédaction d'une documentation décrivant l'architecture, les fonctions, les principaux choix techniques, les
+avantages et les inconvénients
+-Rédaction de procédure d'installation / configuration
+-Rédaction de procédure d'administration
+En fonction des compétences et de l'avancement du projet, le stagiaire pourra participer à d'autres actions de
+cette phase d'étude et de test.
+Profil recherché :
+-Bac +2 ou +3.
+- BTS/DUT/Licence spécialité informatique.
+Compétences :
+-Administration système : Windows XP, Windows 7, Active Directory et GPO
+- Scripting(powershell)
+-Compétences Linux et autre langages de script appréciés.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8519667
+
+
+
+
+

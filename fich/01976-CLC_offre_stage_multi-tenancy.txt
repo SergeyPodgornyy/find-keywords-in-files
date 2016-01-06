@@ -1,0 +1,52 @@
+﻿Réf  :Bcom/2014­xxx                                                                                                                                      Rennes,  le  8  Octobre  2014,
+ bje                                                                                                                                                     Proposition  de  stage  au  sein  de  l’Institut  de  Recherche  Technologique  b<>com  dans  le  domaine  du
+Cloud  Computing
+A   propos   de   B­
+com
+L'Institut  de  Recherche  Technologique   (IRT)  b<>com  a  pour  but  de  conduire  un  programme  d'innovation  technologique  de
+dimension  mondiale  dans  le  domaine  des  sciences  et  technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela
+focalisé  sur  3  domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle  génération  et  de  leurs
+applications  à  la  santé.
+ ntitulé  du  stage                                                                                                                                      Mise  en  oeuvre  d’une  base  de  données  multi­locataires  dans  un  environnement  de  cloud  distribué
+ escriptif  de  la  mission
+Le  Cloud  permet  de  regrouper  efficacement  des  ressources  dans  une  infrastructure  virtuelle  autogérée  et  disponible  à  la  demande,
+utilisée  sous  forme  de  service.  Parmi  les  différentes  architectures,  nous  pouvons  distinguer  les  architectures  single­tenant  et  multi­
+tenant  :  la  première  consiste  à  isoler  les  clients  dans  des  environnements  virtualisés  indépendants,  alors  que  la  seconde  permet  de
+partager  les  ressources  physiques  et  logiques  (base  de  données)  entre  les  clients.
+Dans  le  cadre  du  projet  INDEED  dont  l’objectif  est  le  développement  et  la  mise  en  œuvre  d’une  infrastructure  de  cloud  réparti
+économe  en  énergie  basé  sur  OpenStack,  le  stagiaire  a  pour  mission  de  :
+   étudier  le  concept  de  multi­tenancy  et  les  différentes  approches  de  persistance  de  données  ;
+   proposer  le  cas  d’étude  d’une  application  utilisant  une  base  de  données  adaptée  à  un  environnement  cloud  (SQL  ou
+NoSQL);
+   s’initier  à  Docker  et  aux  conteneurs  Linux  pour  le  développement  de  ce  cas  d’étude  en  utilisant  des  conteneurs  ;
+   développer  deux  variantes  ou  plus  de  ce  cas  d’étude  :  une  application  utilisant  des  données  partagées  ou  isolées  pour
+ses  clients  ;
+   déployer  ces  deux  variantes  dans  un  cloud  centralisé  sur  OpenStack  ;
+   établir  une  synthèse  générale  de  l’évaluation  du  cas  d’étude  en  terme  de  performance,  de  consommation  d’énergie  et  de
+coût.
+ rofil  recherché                                                                                                                                        Bac+5  (école  d’ingénieur,  Master  Recherche  ou  Professionnel),
+Spécialité  Informatique/Génie  Logiciel
+Compétences  recherchées  :
+   Bonne  connaissance  des  outils  &  techniques  de  virtualisation  et  de  la  pile  logicielle  OpenStack
+   Bases  de  données  MySQL,  Hibernate
+   Principes  d’architecture  distribuée  et  de  bases  de  données  multi­locataires
+   Langages  :  Python,  Java
+   Une  connaissance  de  Docker  serait  un  plus
+   Un  bon  niveau  d’anglais
+   Un  bon  niveau  d’autonomie
+Intérêt  pour  le  stagiaire                                                                                                                                Réelle  intégration  au  sein  d’une  équipe  pluridisciplinaire  :  architectes,  développeurs,  chercheurs
+                                                                                                                                                            Secteur  de  la  recherche  et  de  l’innovation
+   Un  enjeu  industriel  fort  :  une  mission  liée  au  développement  d’un  produit  commercial  innovant
+   Un  environnement  de  travail  de  grande  qualité
+Modalités                                                                                                                                                Durée  :  6  mois
+Date  de  démarrage  :  Février/Mars  2015
+Localisation  :  Cesson­Sévigné  ou  Plouzané
+Date  de  fin  de  dépôt  des  candidatures  :  15/11/2014
+Candidature  à  envoyer  à  :  job@b­com.com  avec  la  référence  du  stage
+b<>com
+140106
+
+
+
+
+

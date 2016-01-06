@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE INGÉNIEUR LOGICIEL EMBARQUÉ H/F EN STAGE DE 4 À 6 MOIS.
+Date : 28/01/2015
+Référence de l’offre : 2014-1475-8715408
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Vous rejoindrez une équipe de 8 personnes en charge du développement logiciel embarqué des produits de
+sécurité Bull TrustWay.
+Dans le cadre d'un projet visant à définir et développer une plateforme de sécurisation de serveurs NAS, vous
+aurez en charge une analyse des protocoles FTP, SMB et NFS en vue de développer des outils de mesures de
+performances et de simulation de charge en Python.
+Profil recherché :
+Bac + 5, Ecole d'ingénieur avec une spécialisation en Sécurité ou Master 2 équivalent.
+Compétences requises
+- Maitrise du langage Python
+- Connaissance des protocoles FTP, SMB et NFS
+- Connaissance des technologies NAS
+Compétences appréciées
+- Maitrise du langage C ou C++
+- Maîtrise de la chaine de développement GNU/gcc et gdb
+- Connaissance des bonnes pratiques de la programmation sécurisée
+- Connaissance des systèmes de fichiers (ext2/3/4, zfs…)
+- Autonomie
+- Esprit d'équipe
+- Rigueur
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8715408
+
+
+
+
+

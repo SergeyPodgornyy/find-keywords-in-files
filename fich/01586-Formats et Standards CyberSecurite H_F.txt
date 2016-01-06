@@ -1,0 +1,39 @@
+﻿CS  COMMUNICATION  ET  SYSTEMES  RECRUTE  UN/UNE  FORMATS  ET  STANDARDS
+CYBERSÉCURITÉ H/F EN STAGE DE 3 À 6 MOIS.
+Date : 06/10/2014
+Référence de l’offre : SEC/LPR/N°14-7699314
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Le Plessis Robinson 92350, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+PRELUDE IDS est un SIEM, une solution de supervision qui collecte, normalise, filtre, corrèle et centralise
+l'ensemble des événements de sécurité de l'entreprise. PRELUDE utilise différents format pour chacun de ses
+besoins. Ces formats sont tous standard.
+Vous intégrez l'équipe produit PRELUDE (www.prelude-ids.org).
+L'objectif de ce stage est d'analyser les nouveaux formats relatifs à la cybersécurité.
+Les principales étapes sont les suivantes :
+* Analyse des formats disponibles : IDMEF, IODEF, CEF, CEE, OpenIOC, SCAP.
+* Rôle de chaque format, maturité, retex, complémentarité/concurrence.
+* Prototypage d'implémentation de passerelles entre les formats
+* Prototypage d'une interface IODEF dans Prelude
+Durée du stage : 3 à 6 mois.
+Profil recherché :
+Ingénieur  de  formation  ou  équivalent  universitaire                                                            (Bac+4/5),  en  informatique,  vous  justifiez  des
+compétences techniques suivantes : Linux, système, réseau, sécurité et IDS.
+Compétences linguistiques: Anglais technique (lu et écrit)
+Pour postuler : http://cssi.contactrh.com/jobs/1536/7699314
+
+
+
+
+

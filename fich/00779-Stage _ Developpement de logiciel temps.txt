@@ -1,0 +1,53 @@
+﻿Stage  :  Développement  de  logiciel  temps
+DCNS
+REFERENCE  :  /10057/STZ/1310
+POUR  POSTULER  :  http://dcns.contactrh.com/jobs/1536/4955894
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  F-Saint Tropez 83997, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  plus de 6 mois
+SECTEUR  :  Industries (Armement)
+FONCTION  :  Etudes - Recherche (Ingénieur R & D/Chercheur)
+SOCIETE  :
+UN LEADER MONDIAL DU NAVAL DE DEFENSE - UN INNOVATEUR DANS L'ENERGIE.
+DESCRIPTION  DU  POSTE  :
+--- Descriptif de la société
+Dévoilez votre talent… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense. Avec 2,6
+milliards d'euros de chiffre d'affaires et 13 000 collaborateurs en France et à l'étranger, le groupe
+DCNS offre de réelles opportunités de carrières dans les métiers d'ingénierie de système,
+d'architecture navale, de maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de
+services.
+Vous êtes passionné(e) par les sous-marins, les navires, le nucléaire civil, les énergies marines
+renouvelables ? Vous rêvez d'imaginer le futur ? Vous voulez évoluer au cœur d'un environnement
+d'excellence ? Rencontrons-nous !
+--- Intitulé du stage
+Développement de logiciel temps réel embarqués (H/F)
+--- Description de l'annonce
+Le stagiaire aura pour missions :
+- Analyse des fonctionnalités de deux bibliothèques "framework" et rédaction de la spécification
+d'une bibliothèque générique.
+- Codage du logiciel à partir de l'existant, portage C++ vers langage C.
+- Réalisation des tests avec Logiscope.
+- Réalisation des tests unitaires.
+
+
+
+
+--- Profil recherché
+Vous êtes étudiant(e) en dernière année d’Ecole d’Ingénieur avec spécialisation en informatique
+industrielle.
+Vous savez faire preuve d’organisation, de méthodologie, d’autonomie et de réactivité.
+Vous maîtrisez le langage de programmation C/C++ ainsi que le Pack Office.
+Déposez votre candidature (CV+lettre de motivation) sur : www.dcnsgroup.com, site de Saint-
+Tropez
+PROFIL  :
+Vous êtes étudiant(e) en dernière année d’Ecole d’Ingénieur avec spécialisation en informatique
+industrielle.
+POUR  POSTULER  :  http://dcns.contactrh.com/jobs/1536/4955894
+
+
+
+
+

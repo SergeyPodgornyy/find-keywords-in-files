@@ -1,0 +1,59 @@
+﻿SOGETI HIGH TECH RECRUTE UN/UNE STAGE INGÉNIEUR INTERFACE GRAPH  3D H/F EN
+STAGE DE 6 À 12 MOIS.
+Date : 15/01/2015
+Référence de l’offre : MU3-STA-IS-JJU -8598861
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+La Market Unit Systems Simulation de Sogeti High Tech basée à Toulouse, recherche un(e) stagiaire dans le
+cadre du développement d'un centre de compétences orienté Interaction Homme Machine, créé il y a plus de
+10 ans.
+Nos ingénieurs conduisent un ensemble de travaux de R et de veille technologique ; l'un d'eux concerne
+l'affichage 3D.
+Dans la plupart des applications utilisant un rendu en 3D, les interfaces graphiques ne sont présentes qu'en
+surcouche 2D à l'affichage en 3D, que ce soit grâce à l'utilisation d'un Head Up Display, comme dans de
+nombreux jeux vidéo, ou de composants 2D classiques simplement plaqués sur l'affichage 3D.
+Le stage consiste à étudier la possibilité de concevoir et d'utiliser des interfaces graphiques en réelles 3D, où
+la profondeur pourrait être utilisée comme vecteur d'informations supplémentaires.
+Le stage se déroulera en 2 étapes :
+- rédaction d'un état de l'art sur les GUI en 3d,
+- définition, conception et implémentation du POC.
+Ce POC sera utilisable dans la partie "Display3D" d'une application déjà existante visualisée avec un Oculus
+Rift DK1. Les moyens d'interaction envisagés à ce jour sont le Leap Motion (https://www.leapmotion.com/)
+et le Myo (https://www.thalmic.com/en/myo/); cependant d'autres moyens pourront être proposés et retenus
+en fonction de leur pertinence sur ce POC.
+Profil recherché :
+Issu(e)  d'une  formation  supérieure  en  informatique                                                             (Ecole  d'ingénieur  ou  université),  vous  souhaitez
+développer vos compétences sur les nouvelles technologies émergentes.
+Vous maîtrisez les méthodologies de conception orientées objets et faites preuve d'esprit d'analyse du besoin
+; vous êtes créatif, innovant, autonome, organisé et méthodique, avec une bonne capacité à travailler en
+équipe, et un goût pour la veille technologique et la R
+
+
+
+
+Motivé, curieux, doté d'un excellent relationnel, vous souhaitez vous intégrer au sein d'une entreprise
+d'envergure mondiale.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8598861
+
+
+
+
+

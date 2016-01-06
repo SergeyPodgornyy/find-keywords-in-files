@@ -1,0 +1,58 @@
+﻿ISSF / APS
+Stage                                                                                                           -  Participation  à  un  projet  décisionnel  dans  le  domaine
+Assurances et Protection Sociale H/F
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe,
+accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs  métiers  et  systèmes
+d'information. Combinant valeur ajoutée et innovation dans les solutions apportées, qualité industrielle
+et performance des services délivrés, Sopra est le partenaire de référence des grandes entreprises et
+organisations qui recherchent le meilleur usage du numérique pour assurer leur développement et
+leur compétitivité. Le Groupe compte plus de 16 000 collaborateurs et a réalisé un chiffre d'affaires
+2013 de 1,349 milliard d'euros.
+Sopra   est   coté   sur   NYSE   Euronext   Paris.   Pour   plus   d'informations,   retrouvez-nous   sur
+www.sopra.com<http://www.sopra.com>
+Au sein de Sopra, vous êtes rattaché(e) au Marché Assurances et Protection Sociale qui regroupe
+550 collaborateurs et intervient sur les grands projets de transformation métiers et SI de nos clients
+assureurs, Groupes de protection sociale et mutuelles.Nous accompagnons nos grands clients en
+apportant  une  forte  valeur  ajoutée  métier  à  travers  des  prestations  de  Conseil  (optimisation  des
+processus métier et  des  organisations, schéma directeur et gouvernance IT…) et des prestations
+d’assistance  à  maîtrise  d’ouvrage  et  d’intégration  de  systèmes                                           (projets  de  développement,
+outsourcing applicatif, intégration de solution) autour notamment de la mobilité, du digital de la BI et
+du big data et core system métier. Si vous souhaitez participer à des projets d’envergure et relever de
+nouveaux challenges, rejoignez-nous et boostez votre carrière professionnelle.
+Au  sein  du  centre  de  compétences  Assurance  et  Protection  Sociale  basé  à  Orléans,  vous  serez
+intégré(e) dans une équipe projet décisionnelle intervenant pour un client majeur de type mutuelle ou
+grand  groupe  de  protection  sociale.  Après  une  formation  aux  outils  de  développement  BI,  vous
+participerez aux phases suivantes :
+- développement ETL
+- réalisation de tests unitaires
+- qualification
+- traitement des retours client
+- optimisation des performances
+Intérêt du stage
+- appréhender les problématiques décisionnelles au sein d'une équipe projet pluridisciplinaire et en
+relation avec le client
+- acquérir les compétences techniques d'outils BI reconnus sur le marché
+- approfondir vos connaissances fonctionnelles dans le domaine de la protection sociale
+- contribuer à un projet décisionnel chez un acteur majeur du secteur
+- découvrir le quotidien d'une équipe et les méthodes de gestion d'un projet au forfait
+Environnement technologique/fonctionnel
+Informatica, ODI, Oracle, SQL.
+Environnement humain
+Intégré(e)  au  sein  d'une  équipe  Sopra,  vous  serez  encadré(e)  par  un  Chef  de  Projet  et
+accompagné(e) d'un tuteur durant toute la durée de votre stage.
+
+
+
+
+Profil recherché
+Actuellement  en  dernière  année  d'école  d'Ingénieurs  ou  Master  2  Informatique,  vous  avez  des
+connaissances en développement et connaissez une technologie ETL (Datastage, Informatica, ODI).
+Vous faites preuve de qualités rédactionnelles, d'un esprit d'analyse, d'un sens du service et disposez
+de  connaissances  métier  sur  le  décisionnel  et/ou  la  protection  sociale.  Vous  êtes  autonome,
+rigoureux(se) et réactif(ve) et possédez un bon relationnel.
+Réf. du sujet : ISSFAPS/ORL/STAGE/926
+
+
+
+
+

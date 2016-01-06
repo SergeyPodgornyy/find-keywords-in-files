@@ -1,0 +1,47 @@
+﻿CAPGEMINI RECRUTE UN/UNE INTÉGRATION D'UNE NOUVELLE SOLUTION MES EN STAGE
+DE 4 À 6 MOIS.
+Date : 20/02/2015
+Référence de l’offre : ST-ADM-3729-8917894
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                  Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                 2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+CONTEXTE :
+Le Manufacturing Execution System est devenu aujourd'hui un maillon essentiel pour le cycle de production
+des entreprises. Couvrant les domaines de l'ordonnancement, de l'exécution des fabrications, de la traçabilité,
+de la gestion de la qualité et de l'analyse de performance, il y apporte une solution homogène, dont les
+fonctions et interfaces avec l'ERP ou les équipements de production sont aujourd'hui largement normalisées.
+Capgemini est intégrateur des principaux logiciels du MES du marché : OSIsoft PI, AspenTech, Apriso,
+Wonderware, SAP ME
+DESCRIPTION DU STAGE :
+Au sein de l équipe Capgemini, votre mission est de qualifier un nouveau progiciel MES du marché:
+Définir le périmètre de la qualification
+Participer à la formation au progiciel
+Mettre en œuvre le progiciel et les fonctions MES définies dans le cadre d'une maquette :
+Rédaction des spécifications fonctionnelles
+Paramétrage du progiciel et tests
+Documentation
+Mise en œuvre d'un démonstrateur
+Profil recherché :
+PROFIL RECHERCHE :
+Master 2 ou Ecoles d'Ingénieurs, vous êtes volontaire, dynamique, curieux et autonome
+LES « PLUS » DU STAGE:
+A l'issue de ce stage :
+Vous aurez acquis des compétences dans le domaine métier des chaines de production et logistique
+Vous serez intervenu(e) aussi bien sur le fonctionnel que la technique (paramétrage du produit)
+Vous aurez évolué au sein d'une équipe Capgemini sur un projet d'envergure
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8917894
+
+
+
+
+

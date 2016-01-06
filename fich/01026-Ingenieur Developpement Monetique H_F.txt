@@ -1,0 +1,74 @@
+﻿Ingénieur  Développement  Monétique  H/F
+Steria
+REFERENCE  :  FINANCE/1213/AB
+POUR  POSTULER  :  offre5452674.1536@steria.contactrh.com sous la référence
+FINANCE/1213/AB
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  V 78140, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Janvier
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Les 20 000 collaborateurs de Steria, répartis dans 16 pays, prennent en charge les systèmes, les
+services et les processus qui facilitent la vie quotidienne de millions de personnes chaque jour.
+Créé en 1969, Steria est présent en Europe, en Inde, en Afrique du Nord et en Asie du Sud-Est. Le
+Groupe a réalisé un chiffre d’affaires de 1,83 milliard d’euros en 2012. Son capital est détenu à plus
+de 20 %(*) par ses collaborateurs. Steria, dont le siège social est basé à Paris, est coté sur Euronext
+Paris.
+(*): dont les « SET Trust » et « XEBT Trust » (4,15% du capital)
+DESCRIPTION  DU  POSTE  :
+L’équipe monétique développe, édite et commercialise un Front-Office monétique Stecard, qui
+regroupe plusieurs fonctions/modules : Gestionnaire De GAB (GDG), Serveur d’Autorisation
+Acquéreur (SAA), Serveur d’Autorisation Acquéreur (SAE), Télécollecte et Téléparamétrage
+(TLC/TLP), Vente A Distance (VAD).
+Dans le cadre de notre stratégie de développement européen, nous renforçons notre pôle de
+compétence Monétique. Pour accompagner cette stratégie et le niveau de performance attendu, nous
+vous proposons d’effectuer un stage au sein de l’Equipe produit Stecard.
+Contexte de la mission
+Vous serez intégré(e) à une équipe de projet d’intégration Stecard et participerez à la mise en œuvre
+des fonctionnalités SAE et GDG.
+Descriptif de la mission
+Directement rattaché au chef de projet, vous prendrez en charge des travaux de conception et de
+
+
+
+
+développement sur les différents modules du SAE/GDG.
+Pour un grand compte client et dans un environnement riche fonctionnellement vous participerez à
+la vie du projet au travers des nombreuses évolutions depuis les phases de recueil des besoins et de
+spécifications jusqu’à celles de livraison et de maintenance.
+Forces
+Vous intégrez l’une des 10 premières ESN* en Europe, et profitez de l’expérience de Steria auprès
+de ses clients Grands Comptes.
+Ainsi, vous étendrez vos connaissances dans le domaine de l’étude et développement en société de
+services et vous appréhenderez des méthodes et des outils de travail éprouvés, pragmatiques et
+industrialisés.
+Vous serez accompagné(e) par le Responsable Apprentissage Steria ou tuteur qui vous apportera le
+support nécessaire.
+Le stage se déroule sur le plateau monétique ou vous êtes intégrés à l’équipe d’édition du progiciel
+Stecard.
+*ESN : Entreprises de Services du Numérique
+Environnement technique et fonctionnel
+Langages : C, SQL, XML, Java (Struts), J2EE, JSP
+Middlewares : Oracle Tuxedo
+Bases de données : INFORMIX, ORACLE
+Plate-forme : Serveurs Unix et Linux
+Serveur d’application : Websphere, Weblogic, Tomcat
+Métier : Monétique Front-Office, SAE, GDG
+Vous êtes étudiant(e) en école d’ingénieur ou université, de formation niveau Bac+4/5, vous
+justifiez de solides connaissances théoriques sur les technologies mentionnées.
+Vous avez des connaissances en développement d’applications et avez la volonté d’apprendre les
+nouvelles technologies.
+PROFIL  :
+Vous êtes curieux(se), dynamique, rigoureux(se) et autonome. Vous avez l’esprit de synthèse, le
+sens du relationnel et de la communication.
+POUR  POSTULER  :  offre5452674.1536@steria.contactrh.com sous la référence
+FINANCE/1213/AB
+
+
+
+
+

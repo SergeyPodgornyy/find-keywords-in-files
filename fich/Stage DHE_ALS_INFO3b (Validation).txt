@@ -1,0 +1,46 @@
+﻿Titre du stage
+Stagiaire BAC+2 « Vérification et Validation »
+Référence du stage
+DHE/ALS/INFO3b.
+Entreprise et localisation
+Né de la réunion d’IT Link System et d’IPSIS en 1999, le Groupe IT Link est,
+depuis deux décennies, un acteur majeur du Conseil en Technologies.
+De son cœur de métier historique, la conception de systèmes embarqués pour
+l’automobile et de systèmes critiques pour la Défense, le Groupe a su capitaliser
+une expérience unique en Recherche-Développement et Industrialisation pour le
+compte de tiers.
+Ce savoir-faire lui permet aujourd’hui d’anticiper et de satisfaire les clients les
+plus exigeants et pragmatiques d’autres secteurs économiques, où l’innovation
+n’est pas une fin en soi mais un moyen impérieux de conserver sa place de
+leader.
+Ce stage se déroulera dans les locaux IPSIS de Cesson-Sévigné (35 510).
+Descriptif
+Pour renforcer nos équipes en interne, nous proposons un stage de fin d’études
+(environ 3 mois) afin de participer à la validation d’une application complexe
+d’analyse de signal utilisant de nombreuses IHM :
+   Définition des tests de validation ;
+   Automatisation des tests ;
+   Réalisation des tests.
+L’objectif de ce stage est d’utiliser les outils mis en place pour définir, réaliser,
+diagnostiquer et présenter les résultats des tests de validation de l’application.
+Profil
+De  formation  supérieure  en  informatique                                                                                  (niveau  Bac+2),  vous  avez  pu
+pratiquer lors de votre cursus :
+   le développement en langage Java / Swing ;
+   les IDE Eclipse et/ou Netbeans.
+Esprit d'équipe, autonomie et rigueur seront nécessaires pour mener à bien le
+stage.
+Durée, indemnités et perspectives
+   Stage pour une durée à définir en fonction des exigences de votre école ;
+   Indemnités de stage suivant profil + chèques restaurant + avantages CE.
+Adresse
+Merci de nous envoyer votre candidature à aliot@ipsis.com en précisant la
+référence DHE/ALS/INFO3b dans l’objet du message.
+Siège social : 3 square du Chêne Germain - 35510 Cesson-Sévigné - Tél. : +33 (0)2 99 27 53 27 - Fax : +33 (0)2 99 27 53 28
+Agence PARIS : 11   boulevard Brune - 75014 Paris - Tél. : +33(0)1 53 90 15 90 - Fax : +33(0)1 53 90 15 91
+Site Web : www.ipsis.com - Email : ipsis@ipsis.com                                                                           Edité le 25 octobre 2011
+
+
+
+
+

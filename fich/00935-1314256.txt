@@ -1,0 +1,24 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 - Mise en place d'un portail d'hébergement (H/F)
+(réf. 1314256)
+Durée : 6 mois                                                                                                    Localisation : Thales Communications & Security - 110 Avenue du Maréchal Leclerc
+49300 CHOLET
+Contexte
+Au sein du Secteur "Intégration Déploiement Exploitation", vous intégrez le Service "IVQ Outils Support".
+Missions
+Dans  le  cadre  d’un  stage  dans un  environnement  industriel,  vous  aurez pour  objectif  de concevoir  et
+développer un portail pouvant héberger n’importe quel type d’application et s’imbriquer dans un autre portail
+quelconque (portail mère) en respectant la technologie Standard JSR-168.
+Profil des candidats: BAC+5  - Connaissances souhaitées : J2EE, XSL, CSS, XSLT, Portlets,    Spring,
+Maven, LDAP, UML, MDA sont des plus.
+Indemnité mensuelle brute : 1200                                                                                  €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : mireille.seme@thalesgroup.com
+1
+
+
+
+
+

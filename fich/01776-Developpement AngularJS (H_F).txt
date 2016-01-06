@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE DEVELOPPEMENT ANGULARJS (H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 176213-7895103
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Nous sommes amenés à développer des solutions web à base de client riche, en utilisant les solutions du
+marché. Afin d'offrir la meilleure expérience utilisateur tout en industrialisant nos solutions, nous souhaitons
+packager nos solutions pour une meilleure réutilisabilité.
+Ce stage permet de développer des compétences autour des nouvelles technologies (AngularJS, Javascript,
+REST, HTML/CSS), et de l'outillage professionnel (conception UML, gestion de configuration SVN, tests
+HPQC, Selenium…)
+Le stagiaire est accompagné par des spécialistes en matière d'implémentation de solution web et pourra
+découvrir et mettre en pratique des compétences clés, sur un métier de pointe, en matière de technologie. Le
+stage proposé est une excellente opportunité pour découvrir et assimiler les outils, techniques et processus
+d'un projet de développement.
+De formation Bac+4-5 en informatique  (Ecole d'ingénieur ou Université) en cours de validation, vous
+recherchez un stage d'une durée de 6 mois (dates variables selon l'école et la formation en cours)
+Profil recherché :
+Encadré par une équipe spécialisée dans les technologies web, vous aurez en charge la réalisation de
+composants  AngularJS  permettant  l'implémentation  rapide  de  ces  solutions.  Basé  sur  des  réalisations
+existantes,  vous  aurez  en  charge  l'implémentation  de  ces  composants  dans  les  projets  ainsi  que  leur
+documentation.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7895103
+
+
+
+
+

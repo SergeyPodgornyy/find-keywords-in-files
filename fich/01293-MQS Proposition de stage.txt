@@ -1,0 +1,323 @@
+﻿1.  Objet du stage : Elaboration d’un logiciel d’optimisation de l’organisation centrée
+sur les attentes et besoins des bénéficiaires en maison de retraite et services de
+soins hospitaliers pour le compte de la SARL MQS (conseil et management de la
+qualité, de la gestion des risques et des organisations)
+2.  Personne à contacter
+Christian PHILIPPE
+Directeur Gérant
+Tél 02 99 05 04 43
+Mail : cphilppe@mqs-formation.com
+Site internet : mqs-formation.com
+3.  Présentation du produit attendu (non exhaustif)
+Ce logiciel   doit permettre de recueillir les attentes et besoins de chacun des bénéficiaires au
+cours de sa journée.
+Ce questionnaire a été élaboré par MQS et couvre les activités suivantes :
+   le lever
+   le petit déjeuner
+   la toilette
+   le déjeuner
+   la sieste
+   le gouter
+   le dîner
+   le coucher
+   les transferts
+   la prévention de l’incontinence
+   la prise en charge de l’incontinence
+   la prévention des escarres
+   la distribution des médicaments
+   les actes AS/ASH autres que ceux précités
+   les soins IDE
+   les actes personnalisés (animation, sorties, aide à la marche,…)
+   la réfection quotidienne des lits
+   la réfection quotidienne de la chambre
+   les bains et/ou douches et/ou toilette complète
+Entièrement paramétrable il doit pouvoir permettre de définir les items incontournables à
+cette étude.
+A partir des données recueillies seront calculées les données nécessaires à l’obtention d’une
+représentation graphique de la photographie chiffrée de l’organisation actuelle service par
+service, pour une ou plusieurs activités et pour l’ensemble des activités quotidiennes liées à
+la prise en charge des résidents.
+L’analyse des données recueillies doit permettre   :
+   de définir la charge de travail induite par chacun des bénéficiaires,
+
+
+
+
+   de  définir  la  charge  de travail  induite  pour  l’ensemble  des  résidents  d’un
+établissement, service, secteur, …
+   de piloter en temps réel l’organisation lors de mouvement de bénéficiaires
+(transfert, départ, …)
+   d’anticiper une nouvelle organisation lors de changement dans le cadre de
+restructuration, réhabilitation et « d’opération tiroir ».
+Les différentes étapes pourraient être les suivantes :
+  Validation des données saisies : comparaison saisie informatique/saisie papier
+(réalisée par la formatrice)
+  Calculs des données recueillies
+                                                                                          Calcul de la charge de travail par type d’activité
+                                                                                              Ex : Activité 1 secteur 1,   Activité 2 secteur 1, Activité 3…….
+                                                                                           00 :00                                                                 23 :30
+ACTIVITE 1   - SECTEUR 1
+00 :30                                                                                     00 :00
+Nombre d'aides au lever par tranche horaire
+Temps requis pour ces aides par tranche horaire
+Nbre d'agents théoriques requis par tranche horaire
+00 :00                                                                                     23 :30
+ACTIVITE 2   - SECTEUR 1
+00 :30                                                                                     00 :00
+Nombre d'aides aux transferts   par tranche horaire
+Temps requis pour ces aides par tranche horaire
+Nbre d'agents théoriques requis par tranche horaire
+Etc…
+                                                                                          Calcul de la charge de travail par secteur
+    Les calculs sont alors effectués pour l’ensemble des activités pour le
+secteur concerné
+00 :00                                                                                     23 :30
+ENSEMBLE DES ACTIVITES - SECTEUR 1
+00 :30                                                                                     00 :00
+Nombre total d’aides par tranche horaire
+Temps requis pour ces aides par tranche horaire
+Nbre d'agents théoriques requis par tranche horaire
+00 :00                                                                                     23 :30
+ENSEMBLE DES ACTIVITES - SECTEUR 2
+00 :30                                                                                     00 :00
+Nombre total d’aides par tranche horaire
+Temps requis pour ces aides par tranche horaire
+Nbre d'agents théoriques requis par tranche horaire
+Etc…
+
+
+
+
+                                                                                                         Calcul de la charge globale de travail
+                                                                                                          Les calculs sont ensuite effectués pour l’ensemble des activités pour tous les secteurs
+ENSEMBLE DES ACTIVITES - TOUS LES                                                                         00 :00                                                                                    23 :30
+SECTEURS                                                                                                  00 :30                                                                                    00 :00
+Nombre total d’aides par tranche horaire
+Temps requis pour ces aides par tranche horaire
+Nbre d'agents théoriques requis par tranche horaire
+  D’autres données devront pouvoir   également être générées :
+    Durée moyenne d’un acte
+    Nombre d’actes/résident
+    Charge de travail (en min)/tranche horaire
+    Temps passé auprès des résidents en regard de ces activités
+                                                                                                         …….
+  Représentation graphique des résultats (réalisée par la formatrice)
+Pour chaque cas étudié, une représentation graphique est effectuée ; voir exemples ci-
+dessous.
+   Charge de travail par activité pour un secteur
+Exemple de représentation du nombre de résidents aidés                                                    Exemple de représentation du nombre d’agents mobilisés
+pour le lever par tranche horaire (secteur 1)                                                             pour cette activité par tranche horaire (secteur 1)
+                                                                                                         Charge de travail toutes activités pour tout l’établissement
+Exemple de représentation de la charge globale de travail, tous services et toutes activités confondus.
+
+
+
+
+Ce module doit permettre :
+   de tracer en temps réel les courbes de charge de travail globale, par fonction,
+par poste
+   de définir les besoins en personnel par ½ heure ou par heure, par fonction,
+par poste
+   de formaliser la fiche de prise en charge personnalisée pour chacun de vos
+bénéficiaires
+  Précisions
+Nous utilisons à ce jour un logiciel développé par nos soins mais qui présente ne
+nombreuses imperfections (notamment des bugs qui le rendent instable) mais également
+une interface de saisie pas conviviale, etc ….
+4.  planification, durée et rémunération du stage :
+Pour ce qui concerne la planification : le plus tôt possible.
+La durée est à définir avec le stagiaire, à noter que ce stage fera l’objet d’une
+rémunération attractive et inclura une prime pour l’atteinte de l’objectif.
+5.  Lieu du stage :
+SARL MQS
+Campus universitaire de Ker Lann à BRUZ.
+Rue Maryse Bastié - Bât C
+35170 BRUZ
+6.  Présentation de MQS
+6.1 Historique
+1997 - 2000
+Modélisation d’une démarche d’amélioration de la qualité pour les établissements de soins et d’hébergement
+au sein d’une unité de recherche composée de dirigeants d’établissements  (CHU, CH, HL, MR, cliniques),
+enseignants  et  chercheurs  de  l’ENSP                                                                          (Ecole  Nationale  de  la  Santé  Publique),  responsables  AFNOR
+normalisation, Vice - Président et responsable branche santé du MFQ (Mouvement Français pour la Qualité),
+chercheurs de la faculté de sociologie de Rennes, enseignants EDHEC de Lille, ingénieurs en organisation
+(industrie et santé).
+Obtention de la certification ISO  9001  (version  1994) pour un secteur d’activité de soins. Enseignement à
+l’ENSP : maîtrise des processus et cartographie.
+Obtention du prix Bretagne Qualité, du prix chrysalide Santé récompensant le projet le plus innovant en Santé.
+Création d’une cellule de recherche au sein de MQS dédiée au secteur médico social.
+Modélisation d’un produit : Mise en place des 35 heures dans les établissements sanitaires et médico sociaux
+(validé   par   l’ANACT).   Modélisation   d’un   produit :                                                      « Formation   action   à   l’élaboration   de   projets
+d’établissement ».
+
+
+
+
+2001- 2002
+Obtention de la première certification ISO 9001 (version 2000) pour un secteur d’activité de soins.
+Recrutement de 6 collaborateurs.
+Partenariat avec l’ENSP.
+Modélisation d’un produit : Elaboration de convention tripartite (dont le projet institutionnel).
+Enseignement au DESS « Economie et Gestion des Etablissements Sanitaires et Sociaux » Université de Rennes 1.
+Enseignement à l’ENSP au D3S sur la mise en place de démarche d’amélioration continue de la qualité et sur la
+mise en place d’outils d’évaluation et de mesure (audit, indicateurs, …).
+Réalisation d’un séminaire « Elaborer et négocier votre Convention Tripartite » : 35 participants.
+Animation de la cellule qualité en Santé du MFQ Bretagne.
+2003 - 2004
+Animateur lors de la journée nationale présidée par J.P Raffarin « L’entreprise à la portée de tous ».
+Partenariat d’Intervention pour le SNAPEI sur les droits des usagers.
+Ouverture de l’unité de recherche et développement - campus universitaire de Ker Lann - Bruz.
+Ouverture des IFMQS de Rennes et Nantes « Institut de Formation » destiné à former des Responsables Qualité
+et des consultants dédiés aux secteurs sanitaire, social et médicosocial.
+                                                                                                                      Partenariat  avec  la  société  ICADE                                                     (Caisse  de  dépôt  et  consignation)  pour  la  réalisation  de  projets
+                                                                                                                      architecturaux.
+                                                                                                                      Participation à Hôpital Expo 2004.
+2005
+                                                                                                                      Réalisation  séminaires                 « Préparer  votre  accréditation  version   2 »   :  Rennes :                                                                 31  participants   -  Paris :   20
+                                                                                                                      participants
+Les autres séminaires programmés :
+- Maîtriser les processus de l’élaboration de la cartographie à la mise en œuvre d’améliorations.
+- Faire  émerger un projet architectural  répondant parfaitement à  vos enjeux humains, économiques et
+sociaux.
+- Elaborer son projet d’établissement.
+2006
+Signature du 210ème client.
+Modélisation de la procédure d’élaboration, mise en œuvre, suivi et évaluation du projet individuel de prise en
+charge en secteur sanitaire, médico-social et social.
+2007
+Mise en œuvre de formations « type alternance » de référents qualité pour le personnel des établissements
+médico sociaux à Niort et Rennes
+Mise en place nouvelle formation destinée aux référents qualité Pôles « type alternance » sur un an.
+Organisation et participation à un séminaire en partenariat avec : ICADE G3A, Caisse d’épargne et Crédit
+foncier intitulé « Comment réussir un projet architectural »
+Organisation  d’un  séminaire  intitulé  « Démarche  qualité,  projet  d’établissement  et  évaluation  externe  en
+EHPAD »
+Organisation d’un séminaire intitulé « Mise en œuvre et suivi   des indicateurs en secteur sanitaire »
+Signature du 285ème nouveau client
+2008
+Modélisation d’accompagnement destiné à concevoir une organisation qui intègre les attentes et besoins de
+chaque résident qui favorise ainsi une prise en charge individualisée et prévient la maltraitance.
+Mise en œuvre d’un programme de recherche intitulé : développement durable en Hôpital local et en EHPAD.
+2009
+Habilitation à l’évaluation externe par l’ANESM.
+2012
+Habilitation par SGS au sein du comité de certification social et médico-social - Membre du Collège d’experts.
+2014
+Mise en œuvre de formations   de référents qualité certifiés pour le personnel des établissements médicosociaux
+en partenariat avec SGS - ICS - (Rennes, Paris, Lyon, Marseille, Toulouse, Poitiers).
+Enregistrement de MQS comme organisme de DPC, habilité à dispenser des programmes de DPC.
+
+
+
+
+6.2 Activités
+Accompagnement des établissements médico-sociaux et sociaux
+-                                                             Réalisation d’évaluations interne et externe
+-                                                             Etude de charge de travail et réorganisation
+-                                                             Autoévaluation (TQM, AQUALI, ANGELIQUE, QUALICERT, NFX 50, VALORIS, PERICLES, référentiel
+                                                              personnalisé)
+-                                                             Mise en œuvre d’une démarche d’amélioration continue de la Qualité et Amélioration des
+                                                              pratiques professionnelles - Préparation à l’évaluation externe, certification
+-                                                             Gestion des Risques pour l’établissement, le résident, le personnel  (élaboration du document
+                                                              unique)
+-                                                             Mise en œuvre et Evaluation HACCP, RABC,…
+-                                                             Elaboration du projet d’établissement, des projets de vie individualisés, convention tripartite,
+                                                              CPOM, …
+-                                                             Audits financiers
+                                                              Accompagnement des établissements sanitaires
+-                                                             Etude de charge de travail et réorganisation
+-                                                             Mise en œuvre, suivi et évaluation de la procédure de certification V2010
+-                                                             Gestion des Risques pour l’établissement, le résident, le personnel  (élaboration du document
+                                                              unique)
+-                                                             Mise en œuvre d’un système de pilotage par indicateurs
+-                                                             Formation à l’Audit Qualité Interne
+-                                                             Mise en œuvre et Evaluation HACCP, RABC,…
+-                                                             Elaboration du projet d’établissement…
+                                                              Formation de responsables/référents Qualité
+-                                                             Formation de référents qualité en ESSMS   avec certification de compétence délivrée par SGS-
+                                                              ICS organisme indépendant habilité par le comité français de certification (COFRAC)- Rennes,
+                                                              Paris, Lyon, Marseille, Toulouse, Poitiers
+                                                              Réalisation de séminaires inter-établissements sanitaires et médico-sociaux
+-                                                             Préparer l’évaluation externe et réaliser l’évaluation interne
+-                                                             Certification V2010 - Evaluation des pratiques professionnelles
+-                                                             Gestion des risques
+-                                                             Maîtrise des Indicateurs
+-                                                             Audit Qualité Interne
+-                                                             Mise en œuvre et suivi de démarche Qualité
+-                                                             Projet d’établissement
+-                                                             Réorganisation
+-                                                             …
+
+
+
+
+Document unique; 42
+Gestion des risques et                                                                                  Evaluation interne; 116
+vigilances; 62                                                                 Certification V2007 et
+Démarche qualité                                                               v2010; 62
+services  HACCP, RABC;                                                                                  Evaluations externes;
+45                                                                                                      105
+Divers; 110
+Conventions tripartites
+et renouvellement; 145
+Projets d'établissement
+médico-social; 102
+Auto évaluation; 150
+Projets
+d'établissement
+sanitaire ; 57
+Organisation du travail -
+Démarche
+étude de charge de
+d'amélioration continue
+travail; 87
+de la qualité; 210
+Amélioration des
+Pratiques, Elaboration
+de la documentation
+qualité associée; 160
+   NOMBRE D'ETABLISSEMENTS AYANT SIGNE AU MOINS UNE CONVENTION DE FORMATION
+AVEC MQS
+2014                                                                           745
+695
+2012                                                                           632
+598
+2010                                                                           560
+515
+2008                                                                           408
+349
+2006                                                                           298
+247
+2004                                                                           163
+                                                                               135
+2002                                                                           101
+                                                                               65
+2000                                                                           7
+
+
+
+
+    REPARTITION DES CLIENTS PAR SECTEURS D'ACTIVITES
+38%                                                                                                  Médico-social
+51%
+Social
+11%
+sanitaire
+   Nombre de Responsables Qualité formés par MQS
+74
+200                                                                                                  RQ Sanitaire (2004-2006)
+ RQ  ESSMS* (2007-2014)
+Formation alternance (12j/an)
+*ESSMS : (*établissements et services sociaux ou médico-sociaux visés à l’article L 312-1 du CASF)
+6.3 Ressources humaines
+-                                                                                                    Directeur Gérant : Christian PHILIPPE
+-                                                                                                    Responsable finance et ressources humaines : Pascale TELENCZAK
+-                                                                                                    Responsable développement produits : Cécile BUSSY
+-                                                                                                    Responsable gestion : Anne Sophie RUBION
+-                                                                                                    Responsable commerciale : Sandra BEUVAIN
+-                                                                                                    Consultants   /  formateurs : 16 personnes
+
+
+
+
+

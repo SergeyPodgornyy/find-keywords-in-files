@@ -1,0 +1,42 @@
+﻿St développeur/intégrateur web  (H/F)
+Paris Incubateurs
+REFERENCE  :  RF10
+POUR POSTULER  :  offre4248313.1536@parisincub.contactrh.com sous la référence RF10
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris 75018, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 02/09/2013
+DUREE  :  de 3 à 12 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Paris Incubateurs recrute pour l'entreprise Greenbureau : Elle propose la première solution web
+gratuite pour récupérer, classer, analyser et archiver automatiquement les factures et relevés de plus
+de 100 marques (Orange, EDF, GDF, Axa, etc.) et services public (Impôt, Assurance Maladie,
+CAF, etc.)
+En simplifiant la vie des consommateurs, Greenbureau augmente l'usage des outils de relation client
+numériques et permet ainsi aux marques de réaliser des économies, notamment en réduisant le
+volume d'appels inutiles ou en augmentant le taux de dématérialisation de factures.
+DESCRIPTION DU POSTE  :
+Greenbureau vous propose un stage dans une start-up ultra dynamique qui mise sur l'excellence de
+tous ses acteurs, salariés comme stagiaires !
+Pour une personne qui souhaite avoir de fortes responsabilités et faire partie intégrante de la vie de
+l’entreprise…
+Nous recherchons un(e) stagiaire passionné(e) par les technologies web et open source, qui aime
+travailler en équipe dans une ambiance de startup et a déjà conçu des sites web.
+Au sein de l'équipe de développement, vous participerez :
+- Au développement de nouvelles fonctionnalités frontend et backend du site web greenbureau.fr
+- A la conception de nouvelles applications: choix des technologies, architecture, modèle de
+données, système de stockage, stratégie de sécurité
+- A l'analyse, qualification et correction des défauts de production
+PROFIL  :
+- Expérience dans le domaine du développement web (HTML, CSS, Javascript)
+- Connaissances du language Python et du framework Django est un plus
+- Connaissances des bases de données
+POUR POSTULER  :  offre4248313.1536@parisincub.contactrh.com sous la référence RF10
+
+
+
+
+

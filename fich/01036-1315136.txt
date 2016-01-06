@@ -1,0 +1,31 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 - Développement de services sur tablette androïd (H/F)
+(réf. 1315136)
+Durée : 6 mois                                                                                                     Localisation : Thales Communications & Security - 110 Avenue du Maréchal Leclerc
+49300 CHOLET
+Contexte
+Au sein du laboratoire Produits Applicatifs de Cholet,  votre stage s'inscrit dans une démarche globale
+d'étude  de  pilotage  de postes  radios  via  des  applications  tactiques sur  des  plateformes  Androïd.  Ces
+fonctions, telles que l’exploitation des positions GPS sur une cartographie, la récupération de photos/vidéos
+au travers d’une association WIFI ou Bluetooth avec la tablette ou le PC, etc., seront démontrées lors de
+présentations faites à nos Clients.
+Missions
+Vos missions principales seront :
+• Réalisation de la phase de spécifications,
+• Phase de conception en collaboration avec les autres membres de l’équipe,
+• Codage et les tests unitaires ,
+• Tests fonctionnels,
+• Démonstration.
+Profil des candidats: BAC+5 - Connaissances souhaitées : Eclipse, JAVA, Androïd, XML, Windows XP/7,
+Linux, Bluetooth, IP
+Indemnité mensuelle brute : 1200                                                                                   €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : mireille.seme@thalesgroup.com
+1
+
+
+
+
+

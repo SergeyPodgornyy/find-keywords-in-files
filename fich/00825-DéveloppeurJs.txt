@@ -1,0 +1,24 @@
+﻿Développeur JS
+CCM  Benchmark  Group,  4ème  groupe  Internet  en  France  (derrière  Google,  Microsoft  et
+Facebook,  mai  2013  :  23M  VU),  et  figurant  dans  le  top  100  mondial,  est  à  la  recherche,  pour  son
+pôle  de  développement  rennais,  d’un  développeur  stagiaire  intéressé  par  le  javascript  avancé,
+l’expérience  utilisateur  (UX)  et  les  problématiques  clients  (front­end).
+Vous  êtes  intéressé  par  :
+­ le  véritable  développement  javascript
+­ l’innovation  et  les  interfaces  riches.
+­ le  HTML  5  (nouveaux  API  JS,  CSS3,  sémantique,  etc)
+­ une  expérience  des  sites  à  hautes  performances
+­ la  compréhension  de  la  mécanique  interne  des  divers  navigateurs
+Au  sein  du  pôle  js/frontend  et  assisté  par  notre  lead  developer  vous  aurez  à  charge  :
+­ l’enrichissement  et  la  fluidification  de  l’expérience  utilisateur  (R&D  UI  /  performances)  de  sites
+majeurs    (tels  que  :  commentcamarche.net,  copainsdavant.com,  linternaute.com,
+journaldunet.com,  journaldesfemmes.com,  etc  )
+­ la  réalisation  de  codes  ouverts  (open  source)
+­ le  développement  d’outils  et  d’interfaces  utilisés  par  des  millions  de  personnes
+Envoyez  votre  candidature  à  recrutement.technique+js@ccmbenchmark.com
+Contact  :  02  23  45  66  99
+
+
+
+
+

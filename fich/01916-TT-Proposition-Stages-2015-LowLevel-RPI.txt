@@ -1,0 +1,38 @@
+﻿Stage 2015
+RÉALISATION D'UN BANC DE TEST SUR
+RASPBERRY PI POUR SYSTÈMES EMBARQUÉS
+(ANDROID)
+(REF : BTEST-2015)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé,, services à la personne…, permettant de créer une véritable interaction entre
+l'usager et son environnement.
+Mission
+L'objectif  du  stage  est  de  réaliser  un  banc  de  test  pour  des  plate-formes  Android
+(téléphones, tablettes)  basé sur un  Raspberry  PI connecté  à travers  différents bus
+(USB,  SPI,  I2C,  divers  GPIO)  aux  modules  électroniques  (carte  mère,  périphériques
+etc).
+Ce banc de test est destiné à être utilisé sur la chaîne de production, il devra donc
+gérer   efficacement   la   vitesse,   l'interface   utilisateur   simplifiée,   ainsi   que
+l'administration à distance (mises à jour, récupération de logs etc).
+Le stage s'articulera autour des technologies embarquées dans les produits de TazTag,
+notamment les éléments sécurisés, les capteurs biométriques, le NFC, et le système
+d'exploitation Android.
+Le  stagiaire  sera  intégré  dans  le  recherche  et  développement  de  TazTag  et  sera
+encadré  par  des  experts  techniques  en  sécurité,  systèmes  embarqués  et  en
+développement sur plate-formes Android.
+Profil recherché
+Vous avez un niveau BAC +3 ou 4 : licence, master ou école d’ingénieurs. Vous avez
+des compétences en système embarqué et en électronique. Vous êtes passionné(e),
+autonome et très motivé(e) pour mettre en place une solution opérationnelle.
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 3 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, sp@taztag.com
+
+
+
+
+

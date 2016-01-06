@@ -1,0 +1,46 @@
+﻿Offre de stage                                                                            2015-PS-12-CL
+
+Sujet                                                                                     UNIFORMISER ET OUTILLER LA GESTION DE LICENCE DES PRODUITS
+Thomson Video Networks est une entreprise internationale dans le domaine de la
+création et diffusion de contenu pour le marché professionnel de l’image. Notre site de
+Entreprise                                                                                Rennes est un centre de développement de 300 personnes principalement dédié à la
+fourniture d’équipements et systèmes de compression et transmission de l’image sur
+tous types de réseaux pour les opérateurs et professionnels de télévision.
+6   mois à compter de
+Rue du clos Courtel, Cesson-
+Lieu / Site                                                                               Période / Durée                                                                    janvier/février 2015
+Sévigné
+Contexte : Le service Tools & Methods (TMS) est une entité transverse de Thomson
+Missions
+Video Networks ayant entre autre pour mission de proposer et d’uniformiser
+l’utilisation d’outils visant à améliorer la productivité des équipes de développement.
+Objectif : Uniformiser et outiller la gestion des licences des différents produits de
+Thomson Video Networks (TVN).
+Intégré à l’équipe TMS, l’apprenti devra à partir d’un cahier des charges et d’un
+prototype existants :
+   Participer à la revue du cahier des charges
+   Spécifier l’IHM graphique du portail web (Zope) et l’API d’un composant logiciel
+réutilisable (C++)
+   Participer à la définition de l’architecture logicielle
+   Développer une première version du portail et du composant logiciel
+   Participer au déploiement
+Mots clefs: UML, Python, HTML, Zope, C/C++, svn, linux, encryptage, outils internes,
+Scrum, IHM graphique
+Ingénieur - Stagiaire
+Profil
+Langages : Python, C++/C, UML, HTML
+OS : Linux, Windows
+Outils : Zope, svn, Modelio
+Travail en équipe, rigueur, autonomie, curiosité
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    caroline.landry@thomson-networks.com
+Tél : 02 99 28 51 42                                                                      Retrouvez nous sur : www.thomson-networks.com
+Document à remettre aux Ressources humaines
+
+
+
+
+

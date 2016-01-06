@@ -1,0 +1,81 @@
+﻿OFFRE DE STAGE 2014 - 2015
+INGENIEURS SECURITE                                                                                              ref : Capgemini-Services-35CSD - SEC1
+Intitulé du stage
+Digital Customer Experience : Etat de l’art de la sécurisation du DcX
+Contexte du stage
+Au  sein  de  son  entité  dédiée  à  l'Innovation  et  aux  Nouvelles  Technologies,  composée  de  650
+consultants, Capgemini fournit à ses clients du secteur Public, de la Santé du Social, des Transports
+et des secteurs Privés, des applications novatrices, axées sur l'intégration de systèmes, l'architecture
+et les web services.
+Descriptif de la mission
+Au sein d’une équipe Capgemini spécialisée en sécurité des systèmes d’informations, et dans le cadre
+du  développement  de  l’offre  Sécurisation  du  Digital  Customer  Experience                                  (DCX)  visant  à
+accompagner  nos  clients  dans  leur  transformation  digitale,  vous  êtes  amené(e)  à  développer  ou
+intégrer l’ensemble des aspects liés à la sécurité et à la gestion du risque opérationnel et métier.
+Vous êtes amené(e) à participer à une ou plusieurs phases du développement des aspects sécurité
+autour du démonstrateur DcX au sein d’une équipe transverse et dédiée à l’innovation autour du DcX.
+Cette offre couvre la gestion de la relation client en incluant les nouveaux canaux, de la mobilité aux
+réseaux  sociaux.  Mais  aussi  la  gestion  des  contenus  et  les  solutions  de  portail,  ainsi  que  l'e-
+commerce
+Ainsi, le stagiaire aura pour principale mission d’enrichir l’offre sécurité DcX en suivant les étapes ci-
+dessous :
+1.   Etape1 : Etude de l’état de l’art du DcX
+-                                                                                                                Objectifs du DcX
+-                                                                                                                Définition des aspects fonctionnels DcX
+-                                                                                                                Définition des briques technologiques DcX : Mobilité, Cloud, Big Data, CRM, CMS, BRMS,
+                                                                                                                 BPM, ESB, MDM, NoSQL, REST, JSON, SOA, HTML5, etc.
+                                                                                                                 2.   Etape2 : Etude de la sécurisation du DcX
+-                                                                                                                Définition des services de sécurité nécessaires à la sécurisation des briques fonctionnelles du
+DcX
+-                                                                                                                Gouvernance de la sécurité dans le DcX : Iso 27K, PCI-DSS, Analyse de risque, etc.
+-                                                                                                                Modélisation de l’architecture de sécurité DcX: JERICHO, Sécurité de bout-en-bout, Défense
+                                                                                                                 en profondeur, etc.
+                                                                                                                 o   Proposition de
+-                                                                                                                Définition briques techniques de sécurisation des composants DcX
+                                                                                                                 o   Sécurisation des socles ESB/BPM
+o   Sécurisation des socles MDM/Big Data
+o   Sécurisation dans la mobilité : Angular JS, HTML5,
+o   Sécurisation des architectures : SOA/REST
+o   Sécurisation dans le cloud : IDaaS, Cloud IAM, etc.
+o   Etc.
+3.   Etape3 : Implémentation et démonstrateur
+-                                                                                                                Démonstrateur et implémentation selon les technologies utilisées.
+-                                                                                                                Utilisation des frameworks de sécurité pour l’implémentation.
+-                                                                                                                Mise en place d’un PoC
+
+
+
+
+4.   Etape4 : Rapport de stage
+-                                                                                                            Rédaction du rapport de stage.
+Vous utiliserez l’environnement technologique suivant :
+Architecture d’entreprise de Sécurité : SABSA, JERICHO Style, Sécurité de bout-en-bout, défense
+en profondeur.
+Architecture : SOA, Mobile, REST, etc.
+Environnement  technologique :  multi  devices,  multi  canal,  CRM,  CMS,  BRMS,  gestion  d'offres,
+BPM, ESB, MDM, NoSQL
+Sécurité: WS-Security, WS-*, SAML, Liberty Alliance, XACML, OAUTH, OpenID Connect, etc.
+Frameworks: Spring ou CXF
+Langages : JAVA, SOAP, WSDL, XML, etc.
+Compétences acquises à la fin du stage
+-                                                                                                            Compétences certaines en sécurité des systèmes d’information
+-                                                                                                            Compétences certaines en architecture de sécurité et architecture SI
+-                                                                                                            Une méthodologie de suivi de projet et la capacité à travailler en équipe
+Vous serez accompagné tout au long de votre stage par un  maître de stage  (Architecte Sécurité
+Sénior) et d’ingénieurs d’études qui vous guideront au sein de la société et lors de votre stage
+Il s'agit d'un stage de pré-embauche.
+Lieu du stage
+Rennes ou Nantes
+Indemnités de stage
+Selon le profil
+Durée du stage
+6 mois.
+Contact :
+Merci de nous faire parvenir votre CV, en précisant la référence de l’offre « ref : 35CSD-2014-SEC-4 » à :
+ali.bekkali@capgemini.com
+Tel : +33 6 88 63 83 45
+
+
+
+
+

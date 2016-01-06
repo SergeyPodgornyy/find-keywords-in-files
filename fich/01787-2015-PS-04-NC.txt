@@ -1,0 +1,45 @@
+﻿Offre de stage                                                                                2015 - PS - 04 -NC
+
+Sujet                                                                                         Développement d’une application client-serveur d’analyse MPEG2 temps réel
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Video  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+6 mois à partir de février 2015
+Lieu / Site                                                                                   Cesson-Sévigné (35)                                                          Période / Durée
+Contexte :
+Missions
+Afin de fournir aux labos un outil interne d’analyse de flux MPEG2 Transport,
+THVN  souhaite  développer  un serveur d’analyse  utilisant une carte interne
+d’acquisition de Transport Stream MPEG2.
+Missions :
+-                                                                                             Auto-formation (MPEG2-DVB, outils internes)
+-                                                                                             Développement d’un serveur d’analyse temps réel de Transport Stream
+                                                                                              MPEG2 (couche transport) sur Linux. Le serveur devra être codé en C++,
+                                                                                              et  utilisera  une  librairie  interne  pour  communiquer  avec  la  carte
+d’acquisition.
+-                                                                                             Développement d’un client en ligne de commande, multi-plateformes
+                                                                                              (codé en C++ ou python), permettant  de lancer les analyses et récupérer
+le résultat de ces analyses.
+                                                                                              -                                                                            Bon niveau de programmation C/C++.
+Profil                                                                                        -                                                                            Bonnes notions d’architecture client-serveur (sockets …).
+                                                                                              -                                                                            Des notions de télévision numériques seraient un plus.
+                                                                                              -                                                                            Des notions de programmation python seraient un plus.
+                                                                                              -                                                                            Autonomie et bonne capacité de communication (recueil d’informations
+auprès de différents intervenants, passage de connaissances).
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    nicolas.chaplain@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

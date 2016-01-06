@@ -1,0 +1,37 @@
+﻿24/12/2013
+Société : ARSOE de Bretagne
+Au plan régional et national, notre société spécialisée dans la conception, le développement
+et l’hébergement de systèmes informatiques destinés au secteur agricole et agroalimentaire,
+mobilise la haute qualification de ses 95 collaborateurs.
+Lieu de travail : Pacé
+Type de contrat : Stage 2014
+Durée : fonction convention de stage
+Poste : Stagiaire développement informatique (H/F)
+Au sein du pôle Etudes, vous développerez une application innovante
+Vous interviendrez sur l’ensemble du cycle de projet, vous aurez notamment pour missions :
+-   Rédaction spécifications
+-   Conception et développement l’application.
+-   Tests unitaire, d’intégration de qualification
+-   Installation et mise en production
+-                                                                                              …
+L’environnement logiciel sera orienté Open-Source  (MySQL/PHP ou Java/JEE/Android ou
+HTML5/CSS3) en fonction des compétences du stagiaire retenu.
+Etudiant  en  master,  école  d’ingénieur  en  informatique,  vous  possédez  une  bonne
+compréhension de la programmation, des services Web, et êtes familier avec les outils de
+développement. Vous alliez qualités rédactionnelles et esprit de synthèse et êtes doué d’un
+certain relationnel.
+Vous avez acquis une curiosité technique que vous aurez à cœur d’appliquer pour mener à
+bien vos missions.
+Rémunération : 30% du SMIC,
+Mots clés : Spécifications, Développement, Tests, Open-source, Java, JEE, PHP, MySQL,
+IHM, Android, HTML5, …
+Profil : Bac+5
+Pour  préparer  notre  rencontre, merci de nous adresser votre candidature  (CV) sous la
+référence : STFGO2014-2, à l’adresse suivante :
+Direction Ressources Humaines, SCA ARSOE de Bretagne, 7 boulevard Nominoë BP 74118
+35741 PACE Cedex ou à notre adresse e mail arsinoe@arsoe-bretagne.com
+
+
+
+
+

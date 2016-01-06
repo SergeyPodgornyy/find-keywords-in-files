@@ -1,0 +1,56 @@
+﻿Stage n°5 du LCE
+Sujet : Conception de modules matériels d’observation   adaptés à
+la vérification d’architectures multi-cœur émulées sur FPGA
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser l’innovation dans le domaine des systèmes embarqués.
+Dans  le cadre  de ses  travaux  sur les architectures  avancées, le CEA étudie  la  performance des
+architectures qu’il conçoit à tous les niveaux de prototypage dans le flot de développement. Le CEA
+dispose pour cela d’un environnement de simulation unique en SystemC permettant de répondre à
+toutes les problématiques d’exploration architecturale et de prototypage virtuel. Il intègre également
+des outils d’évaluation de la consommation, de la température et du vieillissement et prend en compte
+leur impact sur les performances du système simulé. Le CEA a également investi dans des solutions
+d’émulation  industrielles  à  base  de  FPGA,  Zebu                                                             (Synopsys)  et  Veloce                                          (Mentor  Graphics),  qui
+permettent  de  raffiner  les  évaluations  de  performance  lors  des  étapes  de  vérification  du  flot  de
+conception.. A cette fin le CEA a développé des modules d’observation matériels de performances
+des architectures multiprocesseurs avancées qui s’intègrent dans l’architecture émulée sur le FPGA.
+Dans  un  premier  temps  le  stage  portera  sur  l’amélioration  de  ces  moniteurs.  Le  candidat  devra
+prendre en main les moniteurs existants décrits en VHDL ainsi que la chaine d’émulation. Une phase
+d’optimisation devra permettre de réduire leur empreinte surfacique pour en généraliser l’utilisation.
+On  veillera  à  ce  que  les  moniteurs  ainsi  développés  soient  compatibles  avec  les  deux  chaines
+d’émulation Zebu et Veloce. On pourra alors comparer les vitesses et précision des simulateurs et
+émulateurs  puis alimenter des simulateurs  physiques  (consommation, température) en  information
+d’activité. Dans un deuxième temps on viendra concevoir de nouveaux modules matériels permettant
+d’injecter dans l’émulateur des informations issues des simulateurs physiques.. Cette dernière étape
+fournira ainsi un environnement d’émulation aussi complet que l’environnement de simulation, pour
+des performances et une précision améliorés. Le stage permettra au candidat d’acquérir de fortes
+compétences en conception matérielle en travaillant à tous les niveaux du flot de conception avec une
+vision système sur les problématiques de consommation, d’échauffement et de fiabilité en utilisant des
+moyens logiciels et matériels à la pointe des besoins industriels.
+Niveau demandé : Diplôme ingénieur (BAC+5)
+Durée : 6 mois ;
+Début souhaité : février/mars 2014
+Compétences : VHDL, C/C++, SystemC, FPGA
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                              : Tanguy Sassolas
+Téléphone                                                                                                        : 01 69 08 00 89
+Email                                                                                                            : tanguy.sassolas@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                       Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                   Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                         Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

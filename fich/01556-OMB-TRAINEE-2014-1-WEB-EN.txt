@@ -1,0 +1,65 @@
+﻿European Ombudsman
+Secretariat-General
+Communication Unit
+Traineeship offer
+Java-web developer trainee
+OMB/TRAINEE/2014/1/WEB
+Each year, the European Ombudsman offers the opportunity to a java-web
+developer trainee to assist in the development of the Ombudsman's Internet
+and Extranet sites (http://www.ombudsman.europa.eu).
+Description
+The profile sought is as follows:
+•   Good knowledge of Java, J2ee, and HTML/CSS
+•   Knowledge of JavaServer Faces, MyFaces, SVN, Maven, Hibernate, Spring,
+Tomcat, and SQL would be an advantage
+•   Development environment: Eclipse
+•   Working languages: English and/or French
+During the traineeship, you will be using the following tools:
+•   Analysis: Magic Draw (UML)
+•   Design: Eclipse, SQL Developer
+•   Testing: JUnit, Silk Performer, Selenium
+•   Project Management: Jira
+•   Quality: Sonar
+•   Continuous Integration: Jenkins, Maven
+•   Manager Version: Subversion (SVN)
+Location, timing, and length of the traineeship
+The traineeship will take place in Strasbourg. The start date will be defined
+with the selected trainee.
+The traineeship has a minimum duration of four months. It can be extended for
+a period left to the Ombudsman's discretion, normally up to a maximum of 12
+months.
+The traineeship will be paid according to the conditions defined by the decision
+of the European Ombudsman concerning traineeships (see additional
+information). The allowance paid by the Ombudsman in Strasbourg is about
+€1400 per month.
+1 avenue du Président Robert Schuman                                               T. + 33 (0)3 88 17 23 13   www.ombudsman.europa.eu
+CS 30403                                                                           F. + 33 (0)3 88 17 90 62   eo@ombudsman.europa.eu
+F - 67001 Strasbourg Cedex
+
+
+
+
+Application
+The deadline for applications is 20 October 2014 at midnight.
+To apply, please send your CV with a covering letter to:
+Marc Kamran Amir-Tahmasseb
+Web Development Officer
+E-mail: marc.amir-tahmasseb@ombudsman.europa.eu
+Contact
+For further information regarding the java-web developer traineeships, please
+contact:
+Marc Kamran Amir-Tahmasseb
+Tel.: +33 3 88 17 44 10
+E-mail: marc.amir-tahmasseb@ombudsman.europa.eu
+Additional Information
+For further information concerning the terms and conditions of the traineeship,
+please refer to the Decision of the European Ombudsman concerning
+traineeships which was drawn up for trainees with a law profile and which
+applies by analogy for the java-web developer traineeship.
+http://www.ombudsman.europa.eu/shortcuts/document.faces/en/3460/html.bookmark
+2
+
+
+
+
+

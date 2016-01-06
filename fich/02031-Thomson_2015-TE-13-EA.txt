@@ -1,0 +1,48 @@
+﻿                                                                                              Offre de stage                                                                      2015-TE-13-EA
+
+                                                                                              Document à remettre aux Ressources humaines
+                                                                                              Intégration et évaluation d’une configuration HEVC temps réel et conception de
+Sujet
+pattern de test théorique et pratique.
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Video  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+5 à 6 mois (01/02/14 -
+Lieu / Site                                                                                   Cesson-Sévigné                                                                      Période / Durée
+30/07/14)
+Le stage consistera   à intégrer et tester une solution expérimentale de compression
+Missions
+vidéo  HEVC  temps  réel  et  la  comparer  en  termes  de  qualité  aux  standards  de
+compression existants pour le transport de contenus vidéo TVHD et UHD (4k).   La
+comparaison de qualité se fera sur des tests objectifs et subjectifs, et la conception d’un
+environnement de test comparatif  (AVC : HEVC : profils : levels) avec définition de
+pattern de test particuliers fera partie du stage. L’aspect théorique des moyens de
+mesure objectifs et le comportement des patterns de test seront à étudier puis à valider
+par l’expérience.
+Stage de fin d’études en traitement du signal.
+Profil                                                                                        Le  candidat  doit  être  intéressé  par  le  traitement  de  la  vidéo  et  plus
+particulièrement par la compression.
+Bonnes connaissances en C++ et intégration de carte PCi-Express sous LINUX et
+x86 indispensables.
+Intéressé à manier les concepts de traitement linéaire et non linéaire quantifié
+dans un environnement théorique (SCILAB/MATLAB) et pratique (expérience).
+Bon  esprit  de  synthèse  demandé  pour  réaliser  des  démos  comparatives
+explicites et présenter les résultats des simulations.
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    eric.auffret@thomson-networks.com
+Référence à rappeler : 2015-TE-13-EA
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

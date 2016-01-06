@@ -1,0 +1,36 @@
+﻿PARIS&CO INCUBATEURS RECRUTE UN/UNE DÉVELOPPEUR MOBILE EN STAGE DE 6 À 12
+MOIS.
+Date : 01/09/2015
+Référence de l’offre : ST Dev_Mob_ONP-10364815
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75020, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Paris and Co recrute pour l'une des starts-up : Onprint
+ONprint relie le physique au digital. ONprint propose aux éditeurs, auteurs, imprimeurs, marques ou agences
+de relier les images, les imprimés avec les contenus digitaux ou multimédia associés. Par la reconnaissance
+d'image directement, et à travers une application mobile iOS et Android, les utilisateurs peuvent découvrir
+des contenus reliés à une image. Créée en 2013, ONprint est une start-up d'une dizaine de personnes basée à
+Paris, au sein de Paris and Co.
+Description du poste :
+Passionné par le dév. + particulièrement par le Mobile, IoT et Wearables, vous intégrez l'équipe de dév.
+(Front/API/Back) en étroite collaboration avec le développeur Mobile.
+Objectifs :
+● Développer des évolutions sur les applications Android et/ou iOS de ONprint, les marques blanches et le
+SDK,
+● Expérimenter et étudier la faisabilité de nlles applications et technologies,
+● Suivre les avancées technologiques et l'arrivée de nouveaux supports et objets.
+Profil recherché :
+● Bac+5 (école d'ingénieur ou équivalent), incluant formation au développement logiciel, avec idéalement
+une composante Web et Mobile (iOS ou Android)
+● Anglais lu, écrit, parlé
+● Motivé et autonome, curieux, forte capacité d'adaptation, passionné...
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10364815
+
+
+
+
+

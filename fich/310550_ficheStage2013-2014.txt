@@ -1,0 +1,104 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : Tellus Environment                                                  Adresse : Centre des affaires Cicea 2
+Domaine d’activité : Cartographie du sous sol                                             Ville : 35170 Bruz
+Représentant de l’entreprise : Geoffroy Etaix                                             N° téléphone : 09 53 32 36 96
+Sa qualité : PDG                                                                          N° fax :
+N° de Siret : 752 182 824 00017                                                           Site Web : www.tellus-environment.com
+N° NAF : 6201Z                                                                            Courriel : contact@tellus-environment.com
+Statut Juridique : SAS                                                                    Signataire de la convention : Geoffroy Etaix
+Effectif de l’établissement : 4
+Nom de l’encadrant de stage : Laura Munoz                                                 Chargé du suivi administratif :   Geoffroy Etaix
+Sa qualité : Ingénieure R&D                                                               Sa qualité : PDG
+Service : Tellus Environment                                                              N° téléphone : 09 53 32 36 96
+N° téléphone : 09 53 32 36 96                                                             Email : geoffroy.etaix@tellus-environment.com
+Email : laura.munoz@tellus-environment.com                                                Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : Tellus R&D produit…………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                           2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                           16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                          16 septembre au 27 septembre 2013
+                                                                                                           4 novembre 2013 au 10 janvier 2014
+                                                                                                           17 février 2014 au 11 avril 2014
+                                                                                                           19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                           entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                         entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET DU STAGE :
+Titre du stage proposé : Etude et développement d'une interface graphique d'un logiciel de
+cartographie développé sous matlab
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Serveur Xeon E5, Matlab, C.
+Traitement d'images, reconnaissance de formes,...
+Environnement technique du stage : géophysique, drone, instrumentation, calcul, cartographie, SIG
+Environnement économique du stage : éolien offshore, archéologie, diagnostic de polluants.
+Sujet proposé détaillé : Tellus Environment est une spin off de l'UBO qui propose des cartographies
+du  sous  sol  de  haute  résolution                                                                       3D  à  partir  de  mesure  laser,  magnétométriques  ou  sonar
+multifaisceaux. Le procédé Magsalia développé par le laboratoire de mathématique de l'UBO et
+exploité exclusivement par Tellus Environment est un ensemble de lignes de commande Matlab
+séquentielles  qui  nous  permettent  de  proposer  nos  services  de  retraitement  de  données
+géophysiques.
+L'objectif du stage est de définir une ou plusieurs architectures logicielles pour optimiser le temps de
+calcul et de développer des interfaces graphiques 3D avec des modules développés en Matlab. La
+gestion des entrées sorties de tailles importantes est primordiale à chaque étape de calcul.
+Le calcul pourra être déporté sur serveur et le client léger doit avoir une visualisation des résultats.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                              Nom de l’Etudiant :
+Modalités de versement :                                                                                   Diplôme : Master 2
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition : 31/12
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                     TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                      FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                   www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

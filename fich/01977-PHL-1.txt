@@ -1,0 +1,36 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : Zimlet Calendriers Visio
+   Lieu : Rennes                                                                               Durée : 3 à 6 mois
+   Formation : Bac + 4/5                                                                       Date : 2014-2015
+   Référence : PHL-1                                                                           Rémunération : stage indemnisé
+Sujet :
+Jouve a déployé une solution de visioconférence de salles et la réservation de celles-ci
+s’effectue via le gestionnaire de ressource intégré de Zimbra.
+L’objet de ce stage consistera à développer un zimlet (extension Zimbra) permettant d’obtenir
+une vue synthétique  (sur une seule page) de l’occupation de l’ensemble des différentes
+salles de visioconférence du groupe Jouve.
+Missions :
+  Participer à la rédaction des spécifications après recensement et analyse du besoin
+  Développer un zimlet permettant d’avoir une vue multi-calendriers sur une période
+
+
+
+
+donnée
+  Rédiger le guide utilisateur
+Environnement :
+   Zimbra 8.5
+   XML, JavaScript, SOAP
+Vous    serez    intégré    dans    l’équipe
+Communications Unifiées.
+
+
+
+
+

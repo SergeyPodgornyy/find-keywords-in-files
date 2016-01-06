@@ -1,0 +1,45 @@
+﻿LEADERS LEAGUE RECRUTE UN/UNE DÉVELOPPEUR BACK PHP SF2 (H/F) EN STAGE DE 4 À 6
+MOIS.
+Date : 08/04/2015
+Référence de l’offre : Dev-9337654
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Paris 75116, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Leaders League est un groupe de média spécialisé dans la presse, l'audit et le référencement des conseils ainsi
+que l'organisation de sommets pour les dirigeants.
+Description du poste :
+Leaders League, groupe de médias spécialisé dans la presse, les études de marché et l'organisation de
+sommets internationaux, recherche pour son développement :
+Développeur Back PHP Sf2 (H/F)
+CDI ou stage longue durée, basé à Paris.
+Missions :
+Rattaché au pôle Web, vous participez à des projets R ambitieux dans le domaine du Web (Web Sémantique,
+Task runner, Amazon AWS, etc…)
+Passionné par le web et dynamique, vous travaillerez au sein d'une équipe jeune et ambitieuse dans un cadre
+chaleureux (cafétéria, salle de sport, Lounge etc…) Au sein de l'équipe Backend, vous développerez des
+applications et webservices pour tous nos produits (Web, intranet, mobile etc)
+Si API, REST et d'autres mots tels que Continuous Delivery et Service Layer sont des mots qui comptent
+alors rejoignez-nous !
+L'innovation est au coeur de nos choix d'outils et d'architectures alors à vous de jouer !
+Mots clés:
+POO, Symfony, Git, jenkins, phpunit, behat, REST, Hateoas, capistrano
+Profil recherché :
+Passionné par le développement d'applications web avancées, vous souhaitez développer vos compétences
+sur les sujets suivants :
+● développement PHP orienté POO (Sf2, dependency injection, service layer)
+● qualité de code via phpunit / behat
+● intégration continue (jenkins)
+● dépôts GIT (feature branch et Pull Request)
+● machines virtuelles et cloud (procmox, amazon AWS, etc)
+Rémunération : selon profil
+Disponibilité : ASAP
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9337654
+
+
+
+
+

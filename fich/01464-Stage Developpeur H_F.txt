@@ -1,0 +1,53 @@
+﻿MULTIPOSTING RECRUTE UN/UNE STAGE DÉVELOPPEUR H/F EN STAGE 6 MOIS.
+Date : 28/08/2014
+Référence de l’offre : stagedev-7349289
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75009, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Créée en 2008 par deux jeunes entrepreneurs, Gautier Machelon et Stéphane Le Viet, Multiposting est une
+start-up française innovante devenue rapidement le leader européen des solutions technologiques dédiées au
+e-recrutement. En quelques années, l'entreprise a su s'imposer sur le marché du recrutement et gagner la
+confiance de 800 entreprises internationales dont 32 du CAC 40.
+Depuis sa création, l'entreprise connaît une croissance entre 50 et 100% par an. Elle prévoit de dépasser les 10
+millions d'euros en 2014. Cette hyper-croissance est accompagnée d'une politique active de recrutement : en 5 ans
+l'équipe est passée de 2 à 80 collaborateurs, dans ses bureaux parisiens (Paris 9).
+Située au cœur de Paris, l'entreprise accueille 80 collaborateurs (200 d'ici fin 2015 : )) au sein d'un cadre propice
+à l'épanouissement : des espaces ouverts, de détente, un jardin privatif, une borne d'arcade fabrication maison,
+tout cela avec une âme de start up.
+https://www.facebook.com/multiposting/photos_stream?fref=photo
+Description du poste :
+Au sein de notre équipe jeune et dynamique vous travaillez en partenariat avec l'équipe de développeurs de
+l'application phare de Multiposting, la solution de multi-diffusion d'offres d'emploi.
+Votre rôle :
+- Vous participez activement aux nouvelles versions du produit afin de l'améliorer et de le rendre plus robuste.
+- Vous êtes amené à développer les nouvelles features de l'application, à écrire des tests automatiques mais aussi
+intervenir avec réactivité en cas de problème.
+- Vous codez en django/python et utiliser MySql et MongoDB comme système de base de données.
+A la fin de votre stage vous serez un développeur "full stack" et la programmation web n'aura plus de secret pour
+vous.
+Profil recherché :
+Vous cherchez un stage de fin d'études pour compléter votre scolarité et votre parcours est orienté informatique et
+développement web.
+* Le paradigme objet est votre façon de penser naturelle et vous avez déjà développé des projets en PHP ou
+Python, en utilisant également jQuery.
+* Vous savez comment manipuler vos données dans une base MySQL ; la connaissance de MongoDB serait très
+appréciable.
+* Vous aimez travailler en équipe et êtes à l'aise avec un gestionnaire de version comme Git.
+* Un bon niveau d'anglais est un point fort.
+
+
+
+
+Si cette description vous correspond, ce stage est fait pour vous.
+Stage de 6 mois à pourvoir dès que possible !
+Rejoignez-nous ! Julie Videgrain jvidegrain@multiposting.fr
+Pour postuler : http://multiposting.contactrh.com/jobs/1536/7349289
+
+
+
+
+

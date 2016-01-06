@@ -1,0 +1,113 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : ID PUB                                                             Adresse : 12 Allée de la Haute Gasniais
+Domaine d’activité : Sérigraphie, Impression numérique,                                  Ville : 35500 VITRE
+découpe de lettres, tampographie et gravure laser                                        N° téléphone : 02.99.75.16.75
+Représentant de l’entreprise : TEMPLON François                                          N° fax : 02.99.74.03.16
+Sa qualité : Co Gérant                                                                   Site Web : www.id-pub.fr
+N° de Siret: 395 043 094 00022                                                           Courriel : contact@id-pub.fr
+N° NAF : 1812 Z                                                                          Signataire de la convention : TEMPLON François
+Statut Juridique : SARL
+Effectif de l’établissement : 19
+Nom de l’encadrant de stage : TEMPLON François                                           Chargé du suivi administratif : POMMEREUIL Sandra
+Sa qualité : Co Gérant                                                                   Sa qualité : Secrétaire - Comptable
+Service : Gestion                                                                        N° téléphone : 02.99.75.16.75
+N° téléphone : 02.99.75.16.75                                                            Email : sandra@id-pub.fr
+Email : ftemplon@id-pub.fr                                                               Fax : 02.99.74.03.16
+Fax : 02.99.74.03.16
+Nom du service dans lequel le stage sera effectué : Service Gestion
+Lieu du stage (s’il est différent de l’adresse de l’entreprise):
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+■ Licence 3                                                                              13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                           8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                  13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                       du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                     du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                       du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                   du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+UNIVERSITE DE RENNES 1                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+□ Spécialité   CCI                                                                                               du 13 avril 2015 à fin août 2015
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                                 En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                                 16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                                 entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                  entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                               entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé :
+Création de tableur Excel pour calcul de devis
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Le stagiaire travaillera sur ordinateur à partir du logiciel Excel. Il devra utiliser différentes formules tel
+que : Recherche V, menu déroulant, méthode Si ...etc. Nous mettrons à disposition de l'étudiant nos
+catalogues fournisseurs, nos grilles tarifaires et autres documents interne lui permettant de concevoir
+ce tableur automatisé. Le stagiaire aura accès à internet si besoin.
+Sujet proposé détaillé :
+Nous souhaitons mettre en place un tableur de devis par domaine de production (Sérigraphie textile,
+Sérigraphie à plat, Impression numérique et tampographie). Pour cela l'étudiant devra procéder par
+étapes :
+Dans un premier temps, il devra analyser les différents poste de production pour comprendre le
+déroulement  de  notre  entreprise;  Il  devra  ensuite  détailler  les  différents  supports  et  matières
+premières que nous utilisons afin de rentrer ces données dans le tableur. Il pourra ensuite intégrer les
+prix d'achats et de ventes en prenant en compte les remises et marges de la société. Enfin l'étudiant
+intégrera les formules adaptées à la réalisation du tableur de devis.
+L'etudiant pourra circuler librement dans l'entreprise et solliciter si besoin l'aide des co-gérants et
+salariés pour l'aider dans l'avancement du projet.
+UNIVERSITE DE RENNES 1                                                                                           TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                            FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                         www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : Selon réglementation                                 Nom de l'étudiant :
+Modalités de versement : Chèque                                                    Diplôme :
+Avantages  en  nature  à  préciser                                                 :  A  voir  lors  d'un
+entretien
+Temps horaire hebdomadaire : 7H
+Date limite de réponse à cette proposition : Réponse souhaité avant fin Décembre
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

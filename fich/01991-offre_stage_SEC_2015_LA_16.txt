@@ -1,0 +1,46 @@
+﻿Lieu du stage : Lanester (56) 2015                                                                  Secteur d’activité : R&D (Informatique)
+Durée du stage : 6 mois en 2015                                                                     Profil recherché : Master 2 en informatique
+PRESENTATION DE L’ENTREPRISE
+SEGULA Technologies est l’un des principaux groupes d’ingénierie et de conseil en
+innovation. Nos prestations couvrent toutes les étapes du cycle de vie des produits et process,
+et s’adressent à l’ensemble des secteurs d’activités Industriels  : automobile,  véhicules
+industriels, aéronautique, naval, ferroviaire, industrie et énergie. D’origine  française, SEGULA
+Technologies est implanté partout dans le monde en 19 pays sur 4 continents : Afrique, Asie,
+continent américain, avec une présence massivement concentrée  en France et en Europe. Le
+groupe compte actuellement 6800 collaborateurs.
+DESCRIPTIF DE POSTE
+Les études menées précédemment par SEGULA Technologies ont abouti à la définition d’une
+démarche  de  conception  conjointe  de  programme  de  commande  et  d’interface  de
+supervision. Afin de vérifier un certain nombre de critères ergonomiques de ces interfaces,
+une méthode de validation d'un modèle de conception des interfaces écologiques a été
+proposée. Cette méthode est basée sur les concepts de la machine de Turing. Le but de ce
+stage est de développer un démonstrateur informatique sous Eclipse pour la méthode
+précédemment citée.
+Le travail consiste tout d’abord à réaliser un état de l’art sur les concepts de la Machine de
+Turing et ses dérivées. Proposer une solution pour intégrer la méthode aux travaux déjà
+existants. Implémentation et expérimentation de la solution.
+Résumé de la démarche envisagée :
+1.  Etat de l’art sur la Machine de Turing et la méthode TMTA (Turing Machine Task
+Analysis).
+2.  Proposition d’une solution pour l’intégration de la méthode aux travaux déjà existants.
+1.  Définition du protocole expérimental
+2.  Implémentation de la solution
+3.  Expérimentation de la solution
+PROFIL :
+De formation bac +5 en informatique, vous êtes à la recherche d’un stage. Vous avez de
+solides compétences en théorie des langages (spécialement Machine de Turing) et en
+développement informatique (JAVA), des connaissances en ergonomie sont un plus. Vos
+qualités relationnelles, associées à votre sérieux et à votre motivation seront un atout
+indispensable pour évoluer pendant le stage. Face à une grande diversité des sujets, nous
+vous offrons la possibilité d’intégrer un environnement de travail valorisant, au sein d’une
+équipe dynamique.
+CONTACT :
+Merci de nous faire parvenir votre candidature (lettre de motivation, CV) sous la référence
+SEC_2015_LA_16   à l’adresse suivante : Soraya.KESRAOUI@segula.fr
+Copyright © SEGULA Technologies - Tous droits réservés - 2012-2013
+Page 1
+
+
+
+
+

@@ -1,0 +1,58 @@
+﻿Stage n°11 du LCE
+Sujet : Automatisation de la boucle d’exploration architecturale à
+partir d’un modèle IP-XACT paramétré
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser l’innovation dans le domaine des systèmes embarqués. Au sein du LIST, le laboratoire calcul
+embarqué développe des calculateurs à haut niveau de performance à base d’architectures multi-
+cœurs pour les systèmes embarqués.
+L’exploration de l’espace de conception des architectures multi-cœur est une phase essentielle du
+cycle  de  conception  qui  se  positionne  assez  haut  dans  le  flot  et  qui  permet  d’avoir  des
+retours/tendances  sur  les  grandeurs  clefs  pouvant  caractériser  telle  ou  telle  configuration                (taille
+mémoire,  nombre  de  processeurs…)  du  système  à  savoir  sa  performance,  sa  consommation
+d’énergie, sa taille silicium… L’exploration part d’un modèle architectural paramétrable et simule le
+comportement d’une configuration du système, pour un cas applicatif donné, et exploite les résultats
+de  simulation  pour  guider  le  choix  des  configurations  suivantes  jusqu’à  la  convergence  vers  un
+modèle efficace en vue des objectifs considérés. La modélisation de l’architecture qu’on considère
+dans cette étude se base sur le standard IP-XACT IEEE1685, qui permet un assemblage aisé des
+sous-composants  et  de  paramétrer  les  configurations  du  système.  D’autre  part,  le  CEA  LIST
+développe  un  simulateur  SystemC  TLM  précis  en  temps  et  instrumenté  en  énergie  [SESAM]  qui
+servira de base pour l’évaluation des différentes configurations.
+Le  lien  entre  le  modèle  architectural  et  le  simulateur  étant  déjà  établit,  le  but  de  ce  stage  est
+d’automatiser la boucle d’exploration en travaillant sur l’interprétation des résultats de simulation bruts
+pour guider les choix de la boucle d’exploration et accélérer sa convergence. Le candidat devra entre
+autres  mettre  en  place  ce  flot  d’exploration  architecturale  et  démontrer  sa  pertinence  sur  une
+architecture multi-cœur modulaire de type P2012 [P2012].
+[SESAM]                                                                                                              N. Ventroux, A. Guerre, T. Sassolas, L. Moutaoukil, G. Blanc, C. Bechara, R. David, "SESAM: An MPSoC
+Simulation Environment for Dynamic Application Processing," Computer and Information Technology, 10th
+IEEE International Conference on Computer and Information Technology, 2010.
+[P2012]                                                                                                              Benini, L.; Flamand, E.; Fuin, D.; Melpignano, D.; , "P2012: Building an ecosystem for a scalable, modular and
+high-efficiency embedded computing accelerator," Design, Automation & Test in Europe Conference &
+Exhibition (DATE), 2012 , vol., no., pp.983-987, 12-16 March 2012.
+Niveau demandé : Diplôme ingénieur (BAC+5)
+Durée : 6 mois
+Compétences : C/C++, SystemC TLM, connaissances du langage de balisage (XML) et du
+TCL souhaitables
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                                  : Karim Ben Chehida
+Téléphone                                                                                                            : 01.69.08.86.45
+Email                                                                                                                : karim.benchehida@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                           Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                       Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                             Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

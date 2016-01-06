@@ -1,0 +1,71 @@
+﻿Fabrice BELLOIR
+DSI - Service Etudes - Chef de Projets & Ingenieur d’études
+Tel : 02 99 13 03 03                                                                              Poste : 3193
+Mail : f.belloir@biocoop.fr
+www.biocoop.fr
+BIOCOOP SA COOP
+Plateforme Grand Ouest
+Zone de Confortland
+CS 46851 MELESSE
+35768 SAINT GREGOIRE Cedex
+STAGE
+FBE- 20140101-A
+Version n° 03
+Date : 12 aout 2014
+Page 1 sur 2
+Outils Web (Php, MySql)
+Ce stage a pour but la réalisation d’outils web innovants et utiles pour la DSI.
+Objectifs :
+   Répartiteur des JVM : interface WEB de configuration d’un service Apache
+   Superviseur des JVM : Interface WEB de consolidation et d’analyse de fichiers de
+logs applicatifs.
+   Outil de Suivi des projets : Application WEB d’analyse, d’enrichissement et de
+synthèse des données d’une application de gestion des temps (Linux Apache MySql
+Php).
+   Outils de Suivi des budgets : Application WEB d’analyse, d’enrichissement et de
+synthèse des données d’une application de suivi des Budgets en lien avec l’Outil de
+suivi des Projets.
+Sous la responsabilité d'un chef de projet, vous aurez pour mission de concevoir et réaliser
+ces outils.
+Sur la base d'un cahier des charges défini par le chef de projets   et avec le support des
+équipes , vous aurez en charge les missions suivantes :
+- Rédaction des spécifications techniques et fonctionnelles   du produit,
+- Réalisation de la solution complète (développement),
+- Test unitaire des développements,
+- Participation à la correction des anomalies applicatives,
+- Regard critique sur le travail demandé (choix techniques et spécifications fonctionnelles) et
+proposition d’améliorations en conséquence,
+- Rédaction de la documentation associée au produit.
+- Formation   associée au produit.
+- Accompagnement de la mise en production.
+Vous êtes actuellement en parcours de formation BAC + 3 et plus.
+
+
+
+
+Fabrice BELLOIR
+DSI - Service Etudes - Chef de Projets & Ingenieur d’études
+Tel : 02 99 13 03 03                                                                   Poste : 3193
+Mail : f.belloir@biocoop.fr
+www.biocoop.fr
+BIOCOOP SA COOP
+Plateforme Grand Ouest
+Zone de Confortland
+CS 46851 MELESSE
+35768 SAINT GREGOIRE Cedex
+STAGE
+FBE- 20140101-A
+Version n° 03
+Date : 12 aout 2014
+Page 2 sur 2
+Vous avez des connaissances en Informatique, Analyse, Programmation et Gestion de
+bases de données.
+Vous maitrisez la syntaxe SQL pour MySQL, et les langages PHP, HTML,   JavaScript...
+Vous connaissez les outils tels que SVN.
+Dynamique, doté(e) d'un bon relationnel, vous aimez travailler en équipe.
+Durée estimé du stage 3 mois minium.
+
+
+
+
+

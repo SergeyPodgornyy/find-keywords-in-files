@@ -1,0 +1,41 @@
+﻿2015-PS-08-YP
+Offre de stage
+
+Sujet                                                                                     Améliorations d’une base de donnée de flux audio/vidéo.
+Thomson Video Networks est une entreprise internationale dans le domaine de la
+création et diffusion de contenu pour le marché professionnel de l’image. Notre site de
+Entreprise                                                                                Rennes est un centre de développement de 300 personnes principalement dédié à la
+fourniture d’équipements et systèmes de compression et transmission de l’image sur
+tous types de réseaux pour les opérateurs et professionnels de télévision.
+Lieu / Site                                                                               CESSON-SEVIGNE                                                                     Période / Durée   6 mois dès janvier 2015
+                                                                                          CONTEXTE :
+Missions
+Le service Tools & Methods (TMS) est une entité transverse de Thomson Video
+Networks  ayant  entre  autre  pour  mission  de  proposer  et  d’uniformiser
+l’utilisation  d’outils  visant  à  améliorer  la  productivité  des  équipes  de
+développement.
+Le stagiaire aura pour mission de participer à l’amélioration de la base de
+donnée de Flux Audio/Video actuellement en production (IHM, intégration de
+plugins d’analyse, optimisation de la base de donnée et des requêtes, ajout de
+nouvelles fonctionnalités).
+MOTS CLEFS: Zope/Plone, HTML, Python, Mysql, Debian Linux,  Scrum, svn, outils
+internes
+INGENIEUR - STAGIAIRE - BAC +5
+Profil
+Connaissance en base de données (MySQL, …) et du langage SQL, Framework
+Zope
+Langages :  Python, C++/C,  Linux, HTML
+Des compétences en standard audio/vidéo serait un plus.
+Travail en équipe, rigueur, curiosité, soif d’apprendre  et autonomie
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    yann.perzo@thomson-networks.com
+Tél : 02 99 28 53 35                                                                      Retrouvez nous sur : www.thomson-networks.com
+Document à remettre aux Ressources humaines
+
+
+
+
+

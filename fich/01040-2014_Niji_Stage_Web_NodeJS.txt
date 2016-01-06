@@ -1,0 +1,59 @@
+﻿Niji est une société de conseil, de design et de réalisation logicielle entièrement dédiée aux usages et
+aux technologies de la convergence numérique. Niji accompagne ses clients, acteurs économiques
+privés et publics, dans la transformation digitale de leurs offres de produits et de services, de leurs
+dispositifs de relation client et de leurs processus organisationnels. Société indépendante, présente à
+Paris, Rennes, Lille et Nantes, Niji compte 450 salariés pour un chiffre d’affaires de 36M€ en 2012.
+Vous intégrerez la Software Factory de Niji, notre entité spécialisée dans le développement logiciel,
+composée d’experts Mobile, Web, en technologies digitales et SI. Ce stage sera stage fortement
+ancré  dans  la  technologie,  le  développement  dans  des  environnements  techniques  pointus,  et
+l’innovation tournée vers le service rendu aux utilisateurs finaux. Vous pourrez également, en fonction
+de la durée de votre stage et du sujet proposé, être amené(e) à intervenir sur des projets pour les plus
+grands comptes nationaux  (Médias, Opérateurs, Energie, Automobile, Banque/Assurance, Grande
+distribution, E-commerce, etc.)
+Sujet du stage                                                                                             Evaluation  de  Node.JS  face  à  PHP  ou  J2EE  dans  différents
+                                                                                                           contextes, et mise en application au sein d’un projet
+Durée envisagée                                                                                            6 mois
+Année d’étude                                                                                              5
+Aptitudes humaines                                                                                         Esprit  d’innovation,  curiosité  intellectuelle,  autonomie  et  prise  d’initiative,
+attendues                                                                                                  technophilie, motivation, bon relationnel, rigueur et   organisation, Esprit de
+                                                                                                           synthèse et d'analyse, Qualités d'expression orales et écrites
+Aptitudes                                                                                                  Bonne compréhension des architectures web client et serveur.
+techniques attendue                                                                                        Bonne   connaissance   des   langages   de   programmation   HTML  CSS,
+s                                                                                                          JavaScript et MySQL, et d’au moins un langage côté serveur parmi PHP et
+                                                                                                           Java J2EE.
+Livrables de fin de                                                                                        Document d’évaluation de NodeJS,   application d’évaluation.
+stage
+Localisation du                                                                                            Locaux de Niji à Cesson-Sévigné
+stage
+Contact(s)                                                                                                 sixtine.descamps@niji.fr
+Description détaillée                                                                                      Niji réalise depuis plusieurs années des sites web et applications alimentés
+du stage                                                                                                   par des serveurs délivrant un ensemble de Web Services.
+Si le JavaScript est répandu côté client, NodeJS l’utilise côté serveur pour
+une réactivité maximale. LinkedIn a remplacé Ruby On Rails par Node.js, et
+est passé de 30 serveurs nécessaires sous Ruby On Rails à 3 seulement
+sous NodeJS.
+Il semble donc aujourd’hui nécessaire d’évaluer l’intérêt du JavaScript côté
+serveur.
+Ce stage comprend :
+o                                                                                                          La prise en main de Node.JS et l’évaluation des possibilités
+offertes par Node.JS
+o                                                                                                          Le développement d’une application d’évaluation de NodeJS
+   Définition d’une application test correspondant à la typologie, à la
+fois des projets Niji et Node.JS
+   Réalisation d’une ’application côté client et de   2 serveurs : en
+NodeJS et en Java J2EE ou PHP
+o                                                                                                          La rédaction d’un bilan sur la technologie Node.JS (intérêt,
+performances, déploiement)
+o                                                                                                          Si possible, la mise en œuvre de la technologie sur un projet
+Stages de fin d’études                                                                                     Niji - 2014
+
+
+
+
+réel.
+Stages de fin d’études   Niji - 2014
+
+
+
+
+

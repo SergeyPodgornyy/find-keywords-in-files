@@ -1,0 +1,58 @@
+﻿Lieu du stage : Lanester (56) 2015                                                                 Secteur d’activité : R&D (Informatique)
+Durée du stage : 6 mois en 2015                                                                    Profil recherché : Ingénieur en Informatique
+PRESENTATION DE L’ENTREPRISE
+SEGULA Technologies est l’un des principaux groupes d’ingénierie et de conseil en
+innovation. Nos prestations couvrent toutes les étapes du cycle de vie des produits et
+process,  et  s’adressent  à  l’ensemble  des  secteurs  d’activités  Industriels :  automobile,
+véhicules  industriels,  aéronautique,  naval,  ferroviaire,  industrie  et  énergie.  D’origine
+française, SEGULA Technologies est implanté partout dans le monde en  19 pays sur  4
+continents : Afrique, Asie, continent américain, avec une présence massivement concentrée
+en France et en Europe. Le groupe compte actuellement 6800 collaborateurs.
+DESCRIPTIF DE POSTE
+Le besoin majeur de la programmation utilisateur finale est l'intégration des de système
+d'enregistrement, de généralisation et de rejeu des actions de l'utilisateur finale dans
+l'application interactive graphique. La généralisation reste un problème central et complexe
+de la programmation utilisateur. Bien qu'il existe différents techniques de généralisation,
+elles ne sont pas adaptées dans le cadre de la supervision industrielle complexe car elles
+peuvent faire intervenir l'utilisateur à plusieurs niveaux.  L'approche basée sur les agents est
+utilisée depuis plusieurs années notamment pour la conception des systèmes multi-agents
+et peut permettre de résoudre le problème de la généralisation par la conception d'un agent
+générique et la liaison d'un agent générique aux systèmes de supervision.
+Rattaché(e) au service R&I (Recherche et Innovation) de la branche Marine, vous travaillerez
+sous la responsabilité du Chef de Projet R&I et participerez au développement d'un outil
+d’aide à la généralisation de programmes obtenus par les technique de programmation
+utilisateur finale. Cet outil sera utilisé pour la spécification d’un système de supervision
+industrielle. Un cas d'application lié à l’interface de supervision d’un système de production
+et de distribution d'eau sur un navire vous est proposé.
+Vous aurez alors pour missions principales :
+- État de l'art des techniques de généralisation existants.
+-  Etude de  l’approche basée  sur  les  agents et  son  utilisation dans la  programmation
+utilisateur finale.
+- Développement d’un système d’agent aidant à la généralisation.
+- Intégration, test et validation des spécifications.
+PROFIL :
+De formation bac +5 en informatique, vous êtes à la recherche d’un stage de fin d'études de
+6 mois minimum. Vous avez de solides compétences en génie logiciel et développement
+informatique. Dynamique, motivé et ambitieux,                                                      vous faites preuve d’une réelle envie
+d’apprendre et vous appréciez le travail en équipe, rejoignez notre structure avec l'envie
+d'exprimer vos talents.
+Copyright © SEGULA Technologies - Tous droits réservés - 2012-2013
+Page 1
+
+
+
+
+Domaines techniques concernés :
+Informatique (programmation utilisateur finale, programmation orientée agent,
+programmation orienté objet (java)), génie logiciel (conception et réalisation de logiciel).
+Connaissance de l'environnement Eclipse, et des concepts de l'IDM serait un plus.
+CONTACT :
+Merci de nous faire parvenir votre candidature (lettre de motivation, CV) sous la référence
+SEC_LA_08 à l’adresse suivante : olga.goubali@segula.fr
+Copyright © SEGULA Technologies - Tous droits réservés - 2012-2013
+Page 2
+
+
+
+
+

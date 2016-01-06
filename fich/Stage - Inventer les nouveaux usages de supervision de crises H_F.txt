@@ -1,0 +1,76 @@
+﻿Stage  - Inventer les nouveaux usages de supervision de crises H/F
+Sopra Group
+REFERENCE  :  STAGE/ATL/NANT/4116364
+POUR POSTULER  :  offre4598316.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/NANT/4116364
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Nantes 44800, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Intégrez la Division Atlantique de Sopra Group : 800 collaborateurs, une forte croissance et des
+projets d'envergure auprès de clients de tous secteurs.
+DESCRIPTION DU POSTE  :
+Sur un marché dynamique et en perpétuelle évolution technologique, les opportunités de progresser
+et de s’épanouir sont nombreuses. Si vous recherchez simultanément la force d’un grand groupe et
+les qualités d’une structure à taille humaine offrant une évolution de carrière sur mesure, rejoignez
+notre agence de Nantes et participez à son rayonnement local.
+Mission
+Sopra Group mène pour un acteur majeur du transport français, un programme ambitieux de
+supervision de son trafic et de gestion de crises. Vous participerez à la validation de nouvelles
+solutions collaboratives dans le but de proposer de nouveaux usages et de nouvelles approches dans
+les échanges entre professionnels. Ainsi, vous aurez en charge :
+- d’étudier, de proposer et de comparer des solutions novatrices pour en valider l’éligibilité à la
+promesse métier
+- de valider ces solutions dans toutes les dimensions d’usage requises, que ce soit en salle de
+supervision, en poste classique, ou en mobilité
+- d’intégrer ces outils au sein de leur écosystème technologique
+- de participer à la réalisation de POCs permettant d’évaluer les points critiques
+
+
+
+
+- de participer au lancement du projet de développement en mode Agile (scrum), sur la base de la
+solution retenue
+Intérêt du stage
+- inventer les usages qu’offrent les nouveaux supports technologiques et les nouvelles générations
+de solutions
+- appréhender une étude de marché et le benchmark de solutions
+- comprendre les critères de définition d’un POC et, au travers de sa mise en œuvre, approfondir vos
+connaissances sur les langages et la portabilité multi-support
+- acquérir la méthode de mise en œuvre et la pratique de démarches Agiles en mode projet
+Environnement technologique/fonctionnel
+Java (JEE, Spring Core, JAX-RS/WS, Hibernate) - JavaScript (AngularJS, JQuery, Bootstrap)-
+Industrialisation : maven, grunt
+Composantes logicielles : Workflow/BPM (Activi), Portail Social/RSE, Moteur de règle, Moteur
+d’indexation, Knowledge Management.
+Environnement humain
+Dans le cadre de ces études, vous serez entouré(e) d’un Architecte et d’un Chef de Projet au sein
+d’une équipe R&D constituée d’Ingénieurs d'études. Vous serez ensuite intégré(e) à une équipe
+projet Sopra Group pluridisciplinaire (Chef de Projet, Architectes, Analystes fonctionnels,
+Référents techniques, Ingénieur d’études…) qui compte environ 15 collaborateurs.
+PROFIL  :
+Vous êtes en dernière année d'école d'ingénieurs ou Master 2 informatique.
+Vous avez déjà réalisé des développements en environnements Java et avez un intérêt ou des
+connaissances pour les technologies utilisées. Autonomie, esprit d'analyse, rigueur, réactivité,
+qualités rédactionnelles, bon relationnel et sens du service sont les qualités requises.
+POUR POSTULER  :  offre4598316.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/NANT/4116364
+
+
+
+
+

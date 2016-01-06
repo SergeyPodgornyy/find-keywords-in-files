@@ -1,0 +1,41 @@
+﻿Voici la description de l’offre de stage.
+S’il vous manque des informations, n’hésitez pas à me questionner.
+La durée du stage sera de 6 mois : De début Mars à fin Août 2015 (le début du stage sera
+impérativement la première semaine de Mars).
+Le lieu est Antananarivo, capitale de Madagascar. Plus précisément : Ambohibao, à 15Km du
+centre-ville d’Antananarivo.
+JM-Contacts est une société de services informatiques créée en 2000 et d’un effectif de 30
+collaborateurs.
+Nous travaillons principalement en régie pour des SSII françaises et des éditeurs de progiciels
+dans le cadre de développements de gestion ou de TMA.
+Nos domaines techniques sont :
+-                                                                                                  Windev, Webdev et Windev Mobile
+-                                                                                                  PHP avec les frameworks Zend 2, Symfony 2 et Code igniter.
+                                                                                                   L’objet du stage sera, dans le cadre du développement du service Qualité, la mise en place
+                                                                                                   d’un système de reporting interne et d’un espace collaboratif externe :
+-                                                                                                  Intégration et généralisation des outils de ticketing
+-                                                                                                  Analyse des données de reporting
+-                                                                                                  Conception de la structure des rapports internes (Chefs de projets et direction)
+-                                                                                                  Conception de la structure des rapports externes destinés aux clients, comprenant la gestion
+                                                                                                   des plannings prévisionnels et des rapports de production réelle
+-                                                                                                  Participation au choix de la technologie pour l’intranet et l’extranet « clients »
+-                                                                                                  Participation à l’analyse et à la conception des fonctionnalités de l’espace collaboratif
+« clients » (comprenant la formalisation des échanges entre les clients et les chefs de projet :
+Compte rendu des réunions, Compte rendu des livraisons, gestion électronique de documents,
+etc…)
+-                                                                                                  Développement (encadrement de l’équipe de développement) et mise en service des outils
+La société pourra prendre en charge le transport du stagiaire (billet d’avion) et hébergement
+sur place : Logement à côté de la société.
+Merci de me préciser les éventuelles modalités de rémunération des stages.
+Afin de sélectionner le (ou la) stagiaire, nous souhaiterions que les candidats intéressés nous
+fassent parvenir une lettre de motivation décrivant l’intérêt pour le stage, mais aussi pour le
+pays.
+Dans l’attente de vous lire.
+Cordialement,
+Jean MORVAN
+Tel VoIP : 02 44 10 01 02
+
+
+
+
+

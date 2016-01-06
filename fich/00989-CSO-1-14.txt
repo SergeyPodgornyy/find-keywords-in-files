@@ -1,0 +1,38 @@
+﻿Offre de stage   «   Ingénieur Informatique »   (f/h)
+Le groupe France Télécom Orange est l'un des principaux opérateurs de télécommunications dans le
+monde. Au service de plus de 200 millions de clients sur les cinq continents, dont les deux tiers sous
+la marque Orange.
+Présentation de l’entité / service / division
+Orange Business Services est leader dans l'intégration de solutions de communication, au niveau mondial
+pour les entreprises multinationales, et dans un certain nombre de pays pour les petites et moyennes
+entreprises. Grâce à une expérience étendue dans les solutions de communication globales, un réseau
+couvrant 220 pays et un support local dans 166 pays, nous nous assurons que nos clients bénéficient d'une
+solution homogène partout où ils sont présents. Notre stratégie, ainsi que tout ce que nous entreprenons,
+est basée sur notre engagement à ce que nos clients vivent une expérience de qualité exceptionnelle.
+La division Cloud Factory   est en charge du Build et du RUN des offres Cloud d’Orange Business
+Services.
+Mission :
+Analyser et mettre en place un outils permettant aux équipes opérationnelles d’améliorer l’efficacité
+dans le traitement des incidents et de supervision
+Activités :
+                                                                                                           Analyse des processus de support au MSC Maurice
+                                                                                                           Mise en place du cahier des charges
+   Développement d’un outil en VBA (ou autre) d’une base FAQ à destination du DCSC
+MRU
+   Mise en place d’une documentation technique à usage des clients sur FC V2
+   Formation des utilisateurs
+Formation préparée :
+BAC +4/5 école en technologie de l’information
+ECOLES  SOUHAITEES  :
+Profil et compétences :
+   Connaissance des environnements VMware
+   Connaissance des OS Linux, Windows
+Le + de la mission :
+Travail dans un environnement novateur pour Orange.
+Date de début et durée souhaitées : 3/6 mois
+Localisation : Cesson Sévigné
+
+
+
+
+

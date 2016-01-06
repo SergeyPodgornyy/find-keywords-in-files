@@ -1,0 +1,51 @@
+﻿Stage n° 2 du LCE : Accélération sur GP-GPU de la simulation au niveau
+porte logique
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+La complexité des systèmes sur puces (SoC) étant de plus en plus importante, les temps de
+vérification après synthèse logique, nécessaire à la réalisation de circuits ASIC, deviennent
+considérables.  Heureusement,  des  solutions  à  base  de  FPGA,  appelées  émulateurs
+matériels  (Veloce de Mentor Graphics ou Zebu de Synopsys), permettent d’atteindre des
+accélérations  de  l’ordre  de  x10000  et  ainsi  de  réduire  considérablement  les  coûts  de
+conception et de vérification. Cependant, ces moyens d’émulation sont très chers et le plus
+souvent  inaccessibles  pour  les  PME.  De  plus,  leur  utilisation  s’accompagne  d’un  grand
+nombre de limitations comme l’incapacité de faire des simulations avec une librairie ASIC. Le
+CEA se propose donc d’utiliser un autre type d’émulateur matériel basé sur un GP-GPU.
+L’objectif  de ce stage consiste donc à développer  un noyau de simulation parallèle pour
+permettre la vérification au niveau porte logique sur GP-GPU  (Nvidia Geforce  580GTX ou
+plus). Il faudra d’abord étudier les solutions existantes dans la littérature pour comprendre
+comment fonctionne un simulateur logique et un GP-GPU, puis mettre en œuvre une solution
+capable  d’exploiter  efficacement  ce  type  d’architecture  initialement  prévue  pour  des
+applications graphiques. Ce stage constitue une étude originale au niveau international et
+pourra faire l’objet d’une publication. Le candidat au stage pourra par ailleurs candidater à
+une thèse pour continuer ces travaux.
+Niveau demandé :                                                                                      Master recherche, diplôme ingénieur  (BAC+5)  - étudiant intéressé
+                                                                                                      pour poursuivre en thèse
+Durée :                                                                                               6 mois
+Compétences :                                                                                         C/C++,  architecture  des  calculateurs,  programmation  sur  GPU
+                                                                                                      (CUDA ou OpenCL), bonne maîtrise de l’anglais
+Pièces à fournir :                                                                                    CV + lettre de motivation + classements
+Contact :
+Nom :                                                                                                 Nicolas Ventroux
+Téléphone :                                                                                           01.69.08.55.43
+Email :                                                                                               nicolas.ventroux@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                            Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                        Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                              Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

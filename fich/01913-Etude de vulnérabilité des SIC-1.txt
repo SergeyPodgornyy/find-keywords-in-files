@@ -1,0 +1,163 @@
+﻿1.                                                                            STAGE  -  ETUDE  DE
+VULNÉRABILITÉ  DES  SYSTÈMES
+D’INFORMATION  ET  DE
+COMMUNICATION  DU  SDIS  DE  L’ORNE
+2.
+1. PROBLÉMATIQUE
+Les   Systèmes   d’Information   et   de   Communication   sont   devenues
+stratégiques pour le SDIS de l’Orne : l’ensemble de son activité en dépend.
+Les  Systèmes  d’Information  et  de  Communication  du  SDIS  de  l’Orne
+remplissent deux fonctions majeures :
+                                                                             1 fonction opérationnelle qui vise à réceptionner et à diffuser l’alerte et à gérer
+les opérations de secours ;
+                                                                             1 fonction administrative qui doit permettre une bonne gestion administrative,
+                                                                              financière et technique de l’établissement public.
+LCL  G.  KERLIDOU    ­     CDT  Th.  FOLTZER                                  27 November 2014
+
+
+
+
+1.   LES  SYSTÈMES  D’INFORMATION  ET  DE  COMMUNICATION  OPÉRATIONNELS
+Les demandes de secours sont réceptionnées et traitées au Centre de
+Traitement des Appels (CTA) à Alençon. Les alertes sont ensuite diffusées
+par  le  CTA vers  les  47  Centres  d’Incendie  et  de  Secours,  répartis  sur
+l’ensemble du territoire départemental.
+La  fonction  opérationnelle  des  SIC  doit  être  assurée  de  manière
+pérenne 24 heures sur 24, 7 jours sur 7.
+Elle  a  vocation  à  s’inscrire  dans  le  cadre  d’un  Plan  de  Continuité  des
+Activités (PCA).
+La continuité des activités peut être obtenue en s’appuyant sur différents
+niveaux de fonctionnement dégradés.
+2.  LES  SYSTÈMES  D’INFORMATION  ET  DE  COMMUNICATION  ADMINISTRATIFS
+Les SIC administratifs recouvrent principalement les métiers suivants :
+   Gestion financière et comptable ;
+   Gestion des ressources humaines ;
+   Gestion de la formation ;
+   Suivi médical ;
+   Gestion patrimoniale ;
+   Cartographie opérationnelle ;
+   Bureautique ;
+   Messagerie électronique ;
+   Accès Internet et Intranet ;
+La fonction administrative des SIC du SDIS de l’Orne a vocation à s’inscrire
+dans le cadre d’un Plan de Reprise des Activités (PRA).
+Ainsi, en cas d’incident majeur sur un des systèmes, le SDIS doit être en
+capacité  de  rétablir  les  SIC  administratifs  dans  son  mode  de
+fonctionnement normal en moins de deux semaines.
+
+
+
+
+RAPPEL  DU  TITRE  DU  DOCUMENT  SDIS  ORNE
+Dans un premier temps le service peut être rétabli de manière provisoire,
+dès lors que les fonctionnalités sont opérationnelles.
+2. OBJECTIFS
+Dans le cadre de la présente étude de vulnérabilité, les objectifs suivants
+sont assignés :
+Evaluer la vulnérabilité des systèmes et des organisations en vue de
+garantir  la  continuité  de  service  pour  les  SIC  opérationnels  et  la
+reprise d’activité pour les SIC administratifs ;
+Identifier tous les systèmes et processus nécessaires à la continuité ou à
+la reprise d’activité ;
+Identifier  les  processus  sensibles  pour  la  continuité  ou  la  reprise  de
+l’activité qui nécessitent des tests et essais réguliers et proposer une
+périodicité ;
+Identifier les ressources humaines critiques nécessaires à la continuité
+ou à la reprise des activités ;
+Mesurer les conséquences de l’indisponibilité des services ;
+Identifier les seuils d’indisponibilité des différents systèmes ou processus
+acceptables sans remettre en cause la continuité ou la reprise des
+activités ;
+Identifier  les  points  forts  à  pérenniser  qui  permettent  de  garantir  la
+continuité ou la reprise d’activité ;
+Identifier  et  qualifier  les  points  de  vulnérabilité  susceptibles  de
+compromettre   la continuité ou la reprise d’activité ;
+Identifier  et  évaluer  les  risques  supportés  par  le  SDIS  du  fait  des
+vulnérabilités identifiées ;
+Proposer différentes solutions pour améliorer la résilience des systèmes
+et ainsi garantir les qualités de service précisées dans le paragraphe
+« Problématique ».
+8 janvier 2014
+
+
+
+
+Les objectifs couvrent tous les domaines des SIC, y compris réseaux,
+téléphonie et radiocommunications.
+3. ENJEUX
+1.  ENJEUX  FONCTIONNELS
+   Garantir en tout temps une distribution des secours optimale au bénéfice des
+populations ;
+   Garantir la sécurité matérielle des personnels du SDIS en versant la paie en
+temps et en heure ;
+   Assurer un taux de disponibilité des systèmes le plus grand possible ;
+2.  ENJEUX  HUMAINS
+   Garantir la disponibilité des ressources humaines nécessaires à la continuité ou
+à la reprise des activités, qu’elles soient internes ou externes (fournisseurs et
+prestataires) ;
+   Optimiser  l’organisation  du  service  pour  exploiter  au  mieux  les  ressources
+humaines dévolues aux SIC ;
+3.  ENJEUX  FINANCIERS
+   Eviter  le  paiement  d’intérêts  aux  fournisseurs  du  fait  de  l’indisponibilité  des
+systèmes de la chaîne comptable ;
+   Mesurer les risques financiers liés aux dysfonctionnements des systèmes.
+4. CONTRAINTES
+1.  CONTRAINTES  FINANCIÈRES
+   Eviter autant que faire se peut les coûts supplémentaires, ou, pour le moins, les
+limiter :  le  SDIS  évolue  dans  un  cadre  budgétaire  contraint avec  l’obligation
+prévisible de  diminuer  ses dépenses de  fonctionnement dans les années à
+venir ;
+
+
+
+
+RAPPEL  DU  TITRE  DU  DOCUMENT  SDIS  ORNE
+2.  CONTRAINTES  HUMAINES
+   Prendre  en  compte  la  charge  de  travail  et  le  niveau  de  compétences  des
+techniciens SIC du SDIS ;
+5. MÉTHODOLOGIE
+Le stagiaire s’appuiera sur des méthodes de gestion de risque des SIC
+telles que EBIOS ou MEHARI.
+1.  ETUDE  DE  L’EXISTANT
+   Audit des systèmes existants : taux de disponibilité actuels ;
+   Recensement et étude des problèmes rencontrés par le passé ;
+   Analyser et évaluer les risques ;
+2.  ANALYSE  COMPARATIVE
+   Benchmarking auprès d’autres SDIS, collectivités ou établissements ;
+   Dégager les avantages et inconvénients de ces différentes solutions d’un point
+de vue :
+   Fonctionnel ;
+   Humain : aspect organisationnel ;
+   Economique, y compris les aspects matériels.
+6. RÉSULTAT  ATTENDU
+Bilan du fonctionnement et de la disponibilité actuelle des systèmes et
+des organisations ;
+Cartographie des systèmes et des processus actuels ;
+Cartographie des risques ;
+Evaluation des conséquences de l’indisponibilité des services ;
+8 janvier 2014
+
+
+
+
+Cartographie des systèmes et des processus cibles avec les niveaux
+d’indisponibilité acceptables pour chacun de leurs composants ;
+Etat des tests et contrôles à réaliser avec la périodicité préconisée ;
+Etat des ressources humaines, internes et/ou externes, nécessaires ;
+Etude financière comparée du coût des solutions préconisées par rapport
+au  coût  des  conséquences  de  l’indisponibilité  des  services :  cette
+étude pourra se décliner en différents seuils d’indisponibilité ;
+Etat  des  risques  avec  leurs  conséquences  possibles,  du  fait  des
+vulnérabilités identifiées ;
+Récapitulatif des vulnérabilités avec leur évaluation et les préconisations
+pour améliorer la résilience des systèmes.
+LCL  GEORGES  KERLIDOU
+SDIS  DE  L’ORNE
+02 33 81 35 03
+GEORGES.KERLIDOU@SDIS61.FR
+I  ­
+
+
+
+
+

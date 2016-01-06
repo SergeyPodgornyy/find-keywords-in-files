@@ -1,0 +1,48 @@
+﻿«  ANALYSE  ET  DEVELOPPEMENT  WEB  ET  TABLETTE
+(H/F)  »
+PRÉSENTATION DU STAGE
+Entreprise de Services du Numérique créée en 1993, ASI est spécialisée dans les solutions
+de Business Analytics, le Social Business (réseaux sociaux d’entreprise, messagerie, portail,
+CRM…) et les applications mobiles intégrées avec le système d’information de l’entreprise.
+Implantée  dans  10  villes                                                                     (Paris,  Lyon,  Marseille,  Rennes,  Brest,  Nantes,  Niort,  Tours,
+Bordeaux  et  Toulouse),  ASI  compte                                                           320  collaborateurs  qui  interviennent  auprès  de
+PME/PMI, de grandes entreprises et de collectivités locales.
+Rejoignez une entreprise qui allie performance et sens écologique, positionnée sur des
+projets à taille humaine et partagez notre éthique basée sur la transparence, le respect, la
+simplicité, la convivialité et le plaisir !
+CONTEXTE ET SUJET DE STAGE
+Dans le cadre de son développement ASI enrichi son Système d’information par des
+applications destinées à faciliter la vie de ses collaborateurs. Nous vous proposons de
+contribuer à la mise en œuvre d’une application dans le domaine de l’évaluation de
+compétences.
+Cette application possèdera une déclinaison web (Administration / Utilisation) et une mobile
+(Tablette) d’utilisation.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Contribution à la réalisation (Analyse et développement) d’applications destinées à une
+utilisation web et tablette.
+Organisation projet en mode AGILE.
+Respect de norme en vigueur :
+• Qualimétrie
+• Tests unitaires (Industrialisés)
+• Intégration continu
+• Gestion de dépendance
+Dans le cadre de ce stage, vous serez amenés à réaliser les activités suivantes :
+• Apprentissage de framework : AngularJS, Spring, Hibernate, Jersey
+• Utilisation des langages : Javascript, CSS3, HTML5, Java
+• Base de données : MySQL
+• Analyse de méthodologie projet et enrichissement dans le cadre de démarche AGILE.
+• Environnement de développement : ECLIPSE
+• Autres: Maven, Coverage, Checkstyle, PMD, EasyMock...
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée  : Stage pour 6 mois (durée à préciser), démarrage dès que possible pouvant
+déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure ou Bac +4 avec une
+année d’alternance à suivre
+Lieu  : situé à Brest (29)
+Réf : YL/tab
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

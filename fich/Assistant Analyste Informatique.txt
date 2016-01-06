@@ -1,0 +1,58 @@
+﻿Assistant Analyste Informatique
+BNP Paribas
+REFERENCE  :  RHG14S_RBIS_09
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4806705
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  MONTREUIL 93100, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 03/10/2013
+DUREE  :  de 3 à 12 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Développez vos compétences et faites grandir votre potentiel en intégrant les équipes informatiques
+Retail Banking Information Systems (RBIS) de BNP Paribas pour préparer le futur de la banque
+d’un monde qui change.
+Rejoignez l’informatique du Retail Banking du Groupe BNP Paribas et participez à la conduite de
+grands projets dans des environnements multi-technologiques ; découvrez une très large palette de
+métiers et des parcours évolutifs au sein d’une équipe de plus de 1 000 collaborateurs au service des
+réseaux bancaires du Groupe et de ses clients finaux dans le monde entier.
+DESCRIPTION DU POSTE  :
+L’entité RBIS a pour objectifs de :
+- Mutualiser les grands investissements informatiques, en particulier entre les réseaux bancaires du
+Groupe BNP Paribas,
+- Favoriser les échanges de savoir-faire et les bonnes pratiques entre les différentes entités du Retail
+Banking.
+Retail Banking Information Systems recherche à Montreuil (93) un(e) stagiaire :
+Assistant Analyste Informatique Conformité H/F
+Vos missions
+Vous intervenez au sein de l’équipe en charge des outils informatiques destinés à la conformité de
+la banque de détail France.
+Au sein de la DSI de la Banque De Détail en France, l’entité « Conformité et Risques», le
+patrimoine « Conformité et Pilotage du risque» est dédié aux outils de lutte contre le blanchiment
+d’argent, contre le terrorisme, le respect des embargos financiers, le contrôle permanent et la
+gestion des personnes sensibles de la Banque de détail France.
+Les technologies sont diverses, aussi bien systèmes ouverts (ORACLE, DATASTAGE, progiciels
+du marché) que gros système (MVS/IMS/DB2/COBOL).
+
+
+
+
+En tant que Assistant Analyste Informatique, vous:
+Etudiez les référentiels des exigences de chacune des applications,
+Définissez et implémentez les référentiels de tests correspondant à chaque application
+Spécifiez et définissez la couverture de tests.
+Modélisez les applications au sein du patrimoine.
+Elaborez les cahiers de recette ,
+Industrialisez l’activité test
+Participez à la maintenance et aux évolutions des applications
+PROFIL  :
+Formation : BAC+4/5 Ecole d’Ingénieur ou équivalent Universitaire avec une spécialisation en
+Informatique
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4806705
+
+
+
+
+

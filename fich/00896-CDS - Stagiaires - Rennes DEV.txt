@@ -1,0 +1,39 @@
+﻿STAGE  :  Concepteur  Développeur  1  H/F
+Que  vais­je  faire  ?
+Au  sein  de  l’Advanced  Technology  Center  de  SOGETI  FRANCE  situé  à  Rennes  :  intégrer  une  équipe  de  développement  et
+participer  à  un  projet  de  réalisation  pour  un  grand  compte  client  (principaux  :  Banque,  Assurance  et  Finance,
+Télécommunications  et  Média,  Industrie,  Distribution,  Energie,  Services  Publics).
+Missions  au  sein  d’une  équipe  projet  dédiée  (sous  la  responsabilité  d’un  chef  de  projets)  :
+    participation  à  la  conception  fonctionnelle  et  technique,
+    participation  à  la  mise  en  place  de  l'environnement  de  développement  (machines,  outils,  frameworks),
+    participation  aux  développements  et  aux  tests  unitaires,
+    Participation  à  la  qualification  et  l’intégration  de  l'application,
+    support  à  la  recette  du  client.
+3 types  d’environnement  possibles  :  JAVA/JEE,  PHP  &  Web  technologies,  mobile  (SmartPhone,  tablette)
+Que  vais­je  apprendre  ?
+   A  participer  à  l’ensemble  des  activités  de  réalisation  d’un  projet  nouvelles  technologies  (conception,  codage  et  tests
+unitaires,  qualification  et  intégration,  assistance  au  client…)
+   A  travailler  dans  une  équipe  projet  de  4  à  10  personnes
+   Les  méthodes  de  travail  et  d’organisation  d’un  projet  à  engagement  de  résultats
+   A  devenir  un  futur  Concepteur  Développeur
+L’équipe  projet  est  également  constituée  d’experts  techniques  de  Sogeti  transverses  à  l’ensemble  des  projets  qui  interviennent
+en  support  technique  aux  développeurs.
+Pour  qui  vais­je  travailler  ?
+Sogeti,  filiale  à  100%  du  groupe  Capgemini,  est  l’un  des  leaders  des  services  informatiques  et  d’ingénierie  de  proximité,
+spécialisé  dans  la  gestion  des  applicatifs  et  des  infrastructures  ainsi  que  le  testing.  Son  expertise  se  positionne  dans  les
+domaines  de  la  sécurité,  la  mobilité,  le  BI  et  les  solutions  liées  au  Workplace  Data  Center  Transformation.
+Sogeti  aide  les  entreprises  et  les  organismes  du  secteur  public  à  créer,  déployer,  optimiser,  gérer  et  migrer  leurs  systèmes
+d’informations.
+Sogeti  emploie  aujourd’hui  plus  de  20  000  personnes  dans  plus  de  15  pays  dont  10000  en  France.
+Plus  d’informations  sur  :  www.fr.sogeti.com
+Ce  poste  est  exclusivement  basé  à  Rennes  (35).
+Comment  avoir  plus  d’infos  ou  candidater  ?
+Tout  d’abord,  il  s’agit  d’un  stage  de  4  à  6  mois  ou  d’un  contrat  en  alternance  pour  des  profils  à  partir  de  bac+4/5.
+Vous  pouvez  postuler  dès  à  présent  en  envoyant  votre  CV  et  votre  lettre  de  motivation  à  l’adresse  suivante  :
+chloe.nadiras@sogeti.com
+Sous  la  référence  :  CDS­STAGE­DEV
+
+
+
+
+

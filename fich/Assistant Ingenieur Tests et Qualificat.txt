@@ -1,0 +1,68 @@
+﻿Assistant Ingénieur Tests et Qualificat
+BNP Paribas
+REFERENCE  :  RHG14S_FONC_ITP
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4901914
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  PARIS 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 11/10/2013
+DUREE  :  de 3 à 12 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+BNP Paribas est une banque leader de la zone euro et un acteur bancaire de premier plan dans le
+monde, avec une forte présence internationale. Nous rejoindre, c’est partager notre volonté d’aller
+de l’avant.
+Développez vos compétences et faites grandir votre potentiel en intégrant les équipes informatiques
+de BNP Paribas pour préparer le futur de la banque d’un monde qui change. Participez à la conduite
+de grands projets dans des environnements multi-technologiques internationaux, et découvrez une
+très large palette de métiers et des parcours évolutifs au sein d’une filière de plus de 13 000
+collaborateurs au service du Groupe et de ses clients finaux dans le monde entier.
+DESCRIPTION DU POSTE  :
+BNP Paribas recherche pour sa fonction Informatique & Technologies (ITG) à Montreuil un(e)
+stagiaire:
+Assistant Ingénieur Tests et Qualification H/F
+Vos missions
+Au sein de la filière Informatique du Groupe BNP Paribas, la fonction informatique Informatique &
+Technologies Groupe (ITG) a pour grandes missions :
+- d’assurer la Gouvernance du Groupe dans les domaines informatique, télécoms, processus et
+projets ;
+- de constituer une référence en matière de développement de systèmes d’information et de
+production informatique ;
+de développer des solutions télécoms en adéquation avec les besoins d’un grand groupe bancaire
+international
+En tant qu’ Assistant Ingénieur Tests et Qualification, vous:
+- Vous effectuez les études préalables
+- Vous partager les besoins avec les équipes opérationnelles
+- Vous définissez les scénarios elligibles
+
+
+
+
+- Vous réalisez le scripting des scénarios sous l’outil Quick Test Pro
+- Vous rédigez les modes opératoires nécessaires à une utilisation dynamique des scénarios
+automatisés.
+Apport de la mission
+Ce stage vous permettra de développer votre connaisance des recettes techniques et fonctionnelles
+en abordant la partie des tests de non régression. Vous développerez également vos connaissances
+sur l’outil Quick Test Pro, l’une des principales références sur le marché en terme d’outil
+d’automatisaton des tests. Vous intégrerez des équipes dynamiques et serez associés aux différents
+cycle des projets et activités de maintenance.
+Votre environnement de travail
+Intégré(e) au département Technologies et processus, Groupe GAO (Ged, Archivage et Outils ITG),
+vous participerez à la définition et à l’élaboration de scripts automatisés destinés aux tests de non
+régression d’application fonctionnelle. Au sein des activités transverses du domaine GAO07, le
+stage est organisé principalement autour de l’étude de faisablité, de la sélection de scénarios
+fonctionnelles automatisables, de leurs mises en œuvre et de leurs exécutions
+PROFIL  :
+Formation : BAC+4/5 Ecole d’Ingénieur ou équivalent univeristaire avec une spécialisation en
+Informatique / Management des SI
+Durée et disponibilité
+Janvier 2014 pour 6 mois
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4901914
+
+
+
+
+

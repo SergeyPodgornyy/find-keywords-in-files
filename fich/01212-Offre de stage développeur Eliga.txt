@@ -1,0 +1,30 @@
+﻿Offre  de  STAGE
+Développement  d’applications  web  multi­écrans  HTML5  ­  JavaScript
+Début  :  entre  Février  et  Avril  2014                                                            Durée  :  3  à  6  mois
+Localisation  :  Cesson­Sévigné,  Maison  de  la  Technopole  au  15  Rue  du  Chêne  Germain
+Société
+Eliga développe des applications web multi­écrans dans l’objectif de faciliter les interactions
+avec  les  grands  écrans  (TVs,  vidéo­projecteurs,  écrans  dans  la rue) à partir des mobiles,
+tablettes  et  nouveau  objets  connectés  (Google  Glass,  montres  connectées…)
+Site  web  Eliga  :  http://eliga.fr
+YouSlide,  notre  première  application  multi­écrans,  permet  de  réaliser  des  présentations
+interactives et d'interagir en temps réel avec son auditoire. Le présentateur peut dynamiser sa
+conférence grâce à des quiz ou des votes envoyés au public. Le public peut également réagir à
+la conférence en envoyant des questions et commentaires à l’orateur. Le grand écran affiche en
+temps  réel  ces  interactions  et  le  résultat  des  votes  ou  quiz.
+Site  web  YouSlide  :  http://youslide.net
+Mission
+Au cours de ce stage votre principale mission sera de développer de nouveaux modules autour
+de l’application multi­écrans YouSlide. Vous utiliserez essentiellement le langage javascript mais
+aussi  les  langages  html5  et  css3
+Vous êtes actuellement en école d’ingénieur ou équivalent, vous êtes spécialisé en informatique
+et passionné par les technologies du web, avec une préoccupation permanente des besoins de
+l’utilisateur final. Vous souhaitez effectuer un stage d'une durée de 6 mois au sein d'une StartUp
+ambitieuse sur des application et usages innovants. Alors n’hésitez pas à venir postuler pour un
+stage  chez  Eliga.
+Pour  postuler  à  ce  stage  merci  de  nous  envoyer  un  email  à  :  stage@eliga.fr
+
+
+
+
+

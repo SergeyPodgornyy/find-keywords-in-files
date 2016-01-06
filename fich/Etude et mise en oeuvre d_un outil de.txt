@@ -1,0 +1,64 @@
+﻿Etude et mise en œuvre d’un outil de
+Atos Intégration
+REFERENCE  :  157006
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4561291
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 06/09/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION DU POSTE  :
+Mission
+Contexte :
+Dans le cadre des activités du site de Rennes, les équipes CRM (gestion de la relation client) ont la
+responsabilité de projets d’évolution et de maintenance de plusieurs applications centrées sur le
+multicanal, le support, la gestion des forces de ventes et le marketing pour les opérateurs de
+téléphonie fixe et mobile et le secteur de l’énergie. Les travaux sur ces applications représentent des
+projets de taille importante (plus de 100 personnes en France et une équipe importante en Inde).
+Mission :
+Suite à une étude préparatoire, vous serez en charge de l’installation d’un outil standard du marché
+permettant la gestion de la relation client. Vous serez ensuite en charge du développement de cet
+outil sur la base de scénarii fonctionnels définis.
+Encadré par un ingénieur expérimenté spécialiste du domaine, vous intégrerez une petite équipe
+mixte fonctionnelle et technique et interviendrez sur l’ensemble du scope de la gestion de la relation
+
+
+
+
+client.
+Le stage s’organisera autour des phases suivante :
+- Analyse fonctionnelle et technique des solutions du marché (logiciel commercial ou libre),
+- Mise en place de l’outil CRM avec les scénarios définis,
+- Rédaction des spécifications,
+- Développement des évolutions et intégration de systèmes,
+- Validation du bon fonctionnement.
+Environnement technologique et fonctionnel :
+Business process CRM
+A définir au cours de l’analyse des solutions du marché : Client léger, Microsoft .Net, php.
+PROFIL  :
+Profil
+De formation Bac +5 en informatique (Ecole d’ingénieur ou université) en cours de validation, vous
+recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle AtoS recrute.
+Ce stage se déroulera à Rennes.
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4561291
+
+
+
+
+

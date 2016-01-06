@@ -1,0 +1,61 @@
+﻿Stage n° 17 du LCE : Calibration temps-réel pour vision stéréoscopique adaptative
+embarquée
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines
+de compétences, le CEA est pleinement inséré dans l'espace européen de la recherche et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+L’évolution récente du domaine des capteurs 3D (Kinect, Leap Motion) a ouvert la voie à des
+systèmes  embarqués  capables  d’analyser  finement  leur  environnement  (assistance  à  la
+conduite, interaction homme-machine avancée, robotique, etc). La stéréovision (utilisation de
+deux caméras) offre un bon compromis performance/complexité mais nécessite une phase
+de calibration pour assurer une détection précise de la profondeur. Du fait de sa complexité,
+cette calibration est le plus souvent effectuée au démarrage du système et de manière non
+temps-réel.
+Le laboratoire Calcul Embarqué du LIST a pour objectif de proposer une solution embarquée
+de calibration temps-réel ouvrant la voie à l’extraction de profondeur par stéréovision sur
+caméras  mobiles,  technologie  porteuse  dans  des  domaines  d’application  comme  la
+robotique, le multimédia ou la réalité augmentée. L’objectif de ce stage est d’explorer les
+méthodes algorithmiques de calibration existantes afin de proposer une solution matérielle
+de calibration temps-réel et embarquée. Le candidat sélectionnera les algorithmes les plus
+pertinents afin de considérer les adaptations nécessaires au portage sur une plateforme
+embarquée  (type  processeur  ARM).  Ainsi,  une  première  étape  d’implémentation  en  C
+permettra d’effectuer l’analyse d’une chaine de rectification compatible et de proposer des
+accélérateurs matériels pour les sections critiques. Enfin, le candidat effectuera le portage de
+la solution de calibration sur une carte électronique munie d’un FPGA type Zynq (ARM +
+logique  programmable)  et  caractérisera  les  performances  temps-réel  et  la  précision  du
+système. Ce sujet de stage pourra constituer un point d’entrée pour une thèse au laboratoire
+orientée sur la proposition d’une chaîne de traitement d’image innovante pour la stéréovision
+dans un contexte très faible latence.
+Moyens : Analyse d’un état de l’art, adaptation et intégration de code embarqué, conception
+de briques matérielles, simulation numériques
+Niveau demandé : diplôme master recherche (BAC+5)
+Durée : 6 mois
+Laboratoire d’Intégration des Systèmes et des Technologies                                            Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                        Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                              Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+Compétences : Traitement d'images, Electronique embarquée, Architecture des systèmes
+embarqués, langage C/C++, VHDL, Programmation FPGA
+Pièces à fournir : CV + lettre de motivation + relevés de notes des 3 dernières années
+Contact :
+Nom                                                                                      : Mehdi Darouich
+Téléphone                                                                                : 01 69 08 60 51
+Email                                                                                    : mehdi.darouich@cea.fr
+
+
+
+
+

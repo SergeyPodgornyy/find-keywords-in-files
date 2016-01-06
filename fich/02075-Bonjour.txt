@@ -1,0 +1,51 @@
+﻿Bonjour,
+Dans le cadre du développement d’un Système d’Information, la Direction de
+l’Administration Pénitentiaire (DAP) cherche un stagiaire (de formation minimale bac+1),
+pour une période comprise entre 3 et 6 mois (gratification minimum, 500                            €), pour
+accompagner le pilotage de ce projet, à partir de janvier 2015.
+Ce stage se déroulera dans les locaux de la DAP, 8-10 rue du Renard, 75004 PARIS.
+Je vous prie de bien vouloir trouver ci-dessous le descriptif du stage :
+Assistance à maitrise d’ouvrage, analyse et expertise technique pour le développement
+(conception et réalisation) d’un Système d’Information visant au pilotage des prestations
+concourant au fonctionnement des établissements pénitentiaires
+La Direction de l’Administration Pénitentiaire (DAP) souhaite mettre en place un Système
+d’Information visant à permettre le pilotage et le contrôle de l’exécution des services
+d’exploitation-maintenance (maintenance, nettoyage, gestion des déchets, entretien des
+espaces verts, …) et des services à la personne (restauration, hôtellerie, transport, travail
+pénitentiaires, …) dans les établissements pénitentiaires.
+Ce système d’information comprendra notamment un module de workflow, une Gestion
+Electronique des Documents (GED) et une visualisation de GMAO (Gestion de la
+Maintenance Assistée par Ordinateur).
+Au niveau du calendrier, le projet est en cours de développement chez notre prestataire. Quant
+à la phase de recette métier, elle aura lieu en parallèle du développement de fonctionnalités  à
+partir de mi- février.
+Dans le cadre de la maîtrise d’ouvrage de ce projet, la DAP souhaite que le stagiaire assure :
+-                                                                                                  L’accompagnement au pilotage du projet (conception fonctionnelle et technique,
+réalisation, participation aux réunions avec la société en charge de la maitrise d’œuvre, suivi
+de la remise des livrables, …)
+-                                                                                                  Une expertise de premier niveau sur les aspects techniques (analyse des besoins
+exprimés par la DAP et traduction auprès de la société en charge de la maitrise d’œuvre,
+analyse des propositions techniques faites par la maitrise d’œuvre, …)
+-                                                                                                  Un dialogue avec les différents intervenants sur ce projet afin d’assurer la réussite
+globale de celui-ci (MGD, SD4, SDIT, …).
+Les personnes à contacter sont :
+-           M Nicolas POULAIN : stagiaire.dap-gd@justice.gouv.fr / 01 49 96 27 73
+-           M Hugues MARTIN : Hugues.Martin@justice.gouv.fr / 01 49 96 26 22
+-           M Nicolas GRELLIER : Nicolas.Grellier@justice.gouv.fr / 01 49 96 28 52
+-           M Cyril GRENON : Cyril.Grenon@justice.gouv.fr / 01.49.96.27.77
+Cordialement.
+Nicolas POULAIN
+Assistant à maitrise d’ouvrage, projet ISIS
+
+
+
+
+Mission Gestion Déléguée (MGD)
+Direction de l'Administration Pénitentiaire (DAP)
+stagiaire.dap-gd@justice.gouv.fr
+01.49.96.27.73
+
+
+
+
+

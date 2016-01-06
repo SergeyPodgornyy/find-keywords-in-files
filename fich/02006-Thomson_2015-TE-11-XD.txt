@@ -1,0 +1,46 @@
+﻿                                                                                              Offre de stage                                                            2015-TE-11-XD
+
+                                                                                              Analyse du schéma de compression vidéo VP9 de Google et comparaison aux
+Sujet
+standards de compression AVC / HEVC
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Video  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+Lieu / Site                                                                                   Cesson-Sévigné                                                            Période / Durée   5 mois (01/02/14 - 30/06/14)
+Le stage consistera  à analyser le schéma de compression vidéo mis en œuvre par
+Missions
+Google dans sa solution VP9 et le comparer en termes d’efficacité (débits pour une
+qualité donnée) aux standards de compression existants AVC / HEVC pour la diffusion
+de contenus vidéo SD/HD/UHD.
+Le stagiaire devra bâtir un tutoriel sur les outils du schéma de compression VP9 et
+mettre en évidence les analogies et différences par rapport aux standards de
+compression vidéo AVC et HEVC. Ensuite, il prendra en main le modèle SW de référence
+VP9 pour lancer des simulations permettant de déterminer la qualité objective et
+subjective  à différents débits et de la comparer à celles des codeurs AVC ou HEVC.
+En fonction de la durée du stage et de l’avancée de ses travaux, on pourra orienter la
+poursuite du stage dans l’analyse d’une solution de transcodage « bas coût » de flux
+vidéo HEVC en VP9.
+Stage de fin d’études en traitement du signal.
+Profil
+Le candidat doit être intéressé par le traitement de la vidéo et plus
+particulièrement par la compression.
+Bonnes connaissances en C++ indispensables.
+Bon esprit de synthèse demandé pour bâtir un tutoriel et présenter les résultats
+des simulations.
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    xavier.ducloux@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT SOA/EAI/PORTAIL H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 139379-7908260
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Ce stage est proposé par le centre de compétences EPI (Enterprise Process Integration) d'Atos à Toulouse. Le
+pôle EPI est spécialisé dans le domaine de l'échange de données, au cœur des systèmes d'information des
+entreprises : architectures SOA, Bus d'entreprises (EAI,ESB, ETL), modélisation de process BPM, portails
+d'entreprises (ECM, EIM), ...
+Intégré(e) au sein d'une équipe projet, votre stage sera composé de 2 phases :
+- une phase d'étude sur un sujet lié à une problématique de développement logiciel (outillage du développeur,
+suivi d'activité du projet, ou autre sujet d'étude),
+- une phase d'immersion projet, pendant laquelle vous contribuerez à la réalisation d'un projet logiciel (en
+phase de développement, de spécification ou de tests).
+Au cours de ce stage, vous aurez l'occasion d'appréhender toutes les phases du cycle de vie d'un projet
+industriel en étant intégré(e) et accompagné(e) au sein d'une équipe projet.
+En tant que gestionnaire de votre projet de stage, vous devrez effectuer un reporting régulier de votre activité,
+assurer la planification de vos tâches et le suivi des charges associées.
+Technologies :
+Architectures SOA, EAI webmethods, Weblogic Portal, JAVA/JEE, XSDL/XSD.
+A titre d'exemple, quelques sujets d'études ayant déjà été proposés :
+-  automatisation  des  phases  de  validation  via  le  développement  d'outils  de  tests                         (Selenium,  JUnit,
+Java/JEE…),
+- étude du packaging/déploiement (Maven, Hudson, Ant, scripting…),
+- étude et mise en oeuvre d'un outil de gestion des demandes (ClearQuest, Mantis, Calipso)
+Profil recherché :
+De formation minimum Bac + 5 en informatique, en cours de validation, vous recherchez un stage d'une
+durée de 5 mois minimum.
+Une connaissance du langage Java est nécessaire.
+Vous êtes dynamique et avez l'esprit d'équipe, rejoignez-nous !
+
+
+
+
+Ce stage se déroulera à Atos - Département ESP-EPI à Toulouse.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+Pour postuler : http://atos.contactrh.com/jobs/1536/7908260
+
+
+
+
+

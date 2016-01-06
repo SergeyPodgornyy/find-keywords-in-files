@@ -1,0 +1,68 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  TECHNIQUES  DE
+MACHINES  LEARNING  H/F  EN  STAGE  6  MOIS.
+Date  :  28/02/2014
+Référence  de  l’offre    :  ST/ITEC/98041­5903370
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Système  /  Réseaux  /
+Base  de  Données)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Parce  qu'il  n'y  a  pas  de  succès  collectif  sans  réussite  individuelle,  de  progrès  d'entreprise
+sans  évolutions  personnelles,  Société  Générale  propose  à  chacun  de  ses  collaborateurs
+une  aventure  professionnelle  épanouissante  et  enrichissante,  qui  respecte  la  diversité  des
+talents  avec  plus  de  159  000  collaborateurs  dans  77  pays.
+Description  du  poste    :
+Votre  environnement  :
+Le  stage  se  déroule  au  sein  de  la  direction  de  l'Informatique  (ITEC)  de  la  banque
+d'investissement  de  la  Société  Générale  (SGCIB),  et  plus  particulièrement  dans  le
+département  Front­Office  «  Accès  Marchés  ».
+La  plate­forme  de  connectivité  bourses  est  composée  d'un  très  grand  nombre  (plusieurs
+centaines)  de  serveurs  applicatifs  temps  réel  effectuant  le  passage  d'ordre  vers  les
+différentes  bourses  mondiales.
+L'analyse  des  logs  de  ces  serveurs  par  des  experts  permet  parfois  de  détecter  et  d'anticiper
+des  problèmes  de  production  (bug,  mauvaise  configuration,  ..)  ;  cependant,  la  taille  du
+parc  applicatif  ne  permet  pas  d'effectuer  cet  exercice  de  façon  systématique  et  exhaustive.
+L'objet  du  stage  vise  à  mettre  en  application  des  techniques  d'analyse  de  données  et  de
+machine  learning  dans  le  but  d'identifier  les  serveurs  dont  le  comportement  semble
+anormal,  et  sur  lesquels  les  experts  devront  se  pencher  de  façon  prioritaire.
+Vos  missions  :
+A  ce  titre  et  en  collaboration  avec  votre  maître  de  stage  qui  assurera  votre  formation,  vous
+participez  aux  tâches  suivantes  :
+
+
+
+
+*   établir  un  état  de  l'art  des  méthodes  et  technologies  pouvant  être  mise  en  œuvre  pour
+réaliser  ces  analyses  et  classifications
+*   proposer  l'implémentation  d'un  système  permettant  de  répondre  à  la  problématique  en
+identifiant  des  limitations
+*   développer  et  mettre  au  point  un  prototype  prenant  en  compte  la  contrainte  de  passage
+à  l'échelle  en  Java  et/ou  Python.
+Profil  recherché    :
+Votre  profil  H/F  :
+Vous  êtes  étudiant  de  niveau  Bac  +5  en  Écoles  d'ingénieur  ou  Université  avec  une
+spécialisation  en  Informatique.
+La  connaissance  de  Python  ou  Java  est  indispensable.  Vous  avez  également  de  façon
+souhaitable  de  bonnes  connaissances  sur  Unix/Linux.
+Par  ailleurs  la  connaissance  des  techniques  d'analyse  de  données  et/ou  de  machine
+learning  constituerait  un  vrai  atout.
+Les  apports  du  stage  :
+Ce  stage  vous  permettra  d'avoir  une  vision  globale  du  fonctionnement  de  l'IT  Front  Office
+en  Banque  de  Financement  et  des  enjeux  associés.  Il  vous  permettra  d'appréhender  et  de
+mettre  en  pratiques  des  techniques  d'analyse  de  données  et  de  machine  learning.
+Et  si  c'était  vous?
+Si  votre  candidature  est  sélectionnée,  vous  serez  contacté  par  la  Direction  du  Recrutement
+puis  rencontrerez  un  opérationnel  pour  un  entretien  de  motivation.
+Durée  du  stage  :  6  mois
+Stage  basé  à  :  Paris­La  Défense
+Gratification  selon  grilles  SG.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5903370
+
+
+
+
+

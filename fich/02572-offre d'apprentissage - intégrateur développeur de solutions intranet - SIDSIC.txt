@@ -1,0 +1,53 @@
+﻿OFFRE DE CONTRAT D’APPRENTISSAGE
+Intitulé de l’offre : Intégrateur développeur de solutions intranet
+MINISTÈRE : Ministère de l’Intérieur
+DIRECTION OU SERVICE :
+Service Interministériel des Systèmes d’Information et de Communication du Finistère (SIDSIC 29)
+LIEU D’APPRENTISSAGE :
+Préfecture du Finistère
+42 boulevard Dupleix
+CS 16033
+29320 Quimper cedex
+Le candidat aura également à se déplacer  dans les directions départementales interministérielles du département
+(DDCS - DDPP -DDTM)
+Descriptif de l’employeur :
+Le service départemental des systèmes d’information et de communication (SIDSIC) est chargé d’assurer
+l’opérationnalité des systèmes d’information et de communication des différentes directions départementales
+interministérielles (DDI) et de la préfecture.
+Il est composé de 16 agents (2 A - 14 B) organisés autour de trois pôles fonctionnels :
+- un pôle affaires générales et gestion ;
+- un pôle informatique ;
+- un pôle télécoms (auquel est rattaché le standard téléphonique de la préfecture)
+Dans ce cadre, le pôle fonctionnel «  affaires générales et gestion » assure le suivi d’un portefeuille d’une centaine
+d’applications. Il participe également à tout projet applicatif mené au sein du périmètre préfecture et DDI.
+DIPLÔME REQUIS : Bac +2 ou 3
+DIPLÔME PRÉPARÉ : Licence professionnelle - Master professionnel
+Métier et famille de métiers : :
+Informatique et réseaux - DEVELOPPEUR INTEGRATEUR DE SOLUTIONS INTRANET EXTRANET
+Descriptif de l’offre :
+Sous la responsabilité du chef de pôle « affaires générales et gestion », l’apprenti aura pour principale mission de
+participer au projet de mise en œuvre d’un portail intranet interministériel départemental fédérant les intranets
+préfecture et DDI.
+Ses missions principales consisteront à :
+- participer à la rationalisation du patrimoine applicatif des directions métier ;
+- faire évoluer  des modules développés localement pour les intégrer aux intranets ;
+-  analyser, concevoir et développer des applications web  basées sur  des solutions du libre pour répondre aux besoins
+des directions métiers ,
+- rédiger les documentations (manuels utilisateurs et spécifications techniques et fonctionnelles).
+
+
+
+
+Descriptif du profil recherché :
+- connaissances solides en matière d’analyse, de bases de données, technologie  et développement web ( Php -
+Javascript - Symfony - CSS).
+- Autonome et responsable
+- Rigoureux, impliqué et motivé
+- Force de proposition, dynamique
+Contacts pour renseignement                                                                                    sidsic@finistere.gouv.fr
+pour adresser CV + lettre de motivation                                                                        pref-drh3m@finistere.gouv.fr
+
+
+
+
+

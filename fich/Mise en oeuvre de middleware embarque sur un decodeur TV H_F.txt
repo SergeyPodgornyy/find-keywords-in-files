@@ -1,0 +1,60 @@
+﻿Mise en oeuvre de middleware embarqué sur un décodeur TV H/F
+Orange Business Services
+REFERENCE  :  IT/MTV/STAGE18-1606
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4870703
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Cesson-Sévigné 35510, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+L'objectif du stage est de participer à la mise en œuvre un nouveau Middleware pour Set Top Box
+hybride, à l'aide de composants OpenSource.
+Dans le cadre de ses activités Multimédia, Orange Business Services / IT&Labs développe des
+logiciels embarqués dans les décodeurs (Set Top Box) de télévision numérique. Dans l'optique de
+proposer des services TV innovants dans le domaine de la maison connectée, IT&Labs développe
+des solutions Middleware OpenSource pour faire interagir les terminaux (STB et tablettes).
+Sous la responsabilité d'un expert en TVnum, et au sein d'une équipe Projet, vous serez en charge
+des missions suivantes :
+- Prise de connaissance des technologies liées à la TVnum.
+
+
+
+
+- Etude des solutions OpenSource existantes et terminaux compatibles.
+- Architecture logicielle et spécification des besoins.
+- Mise en œuvre d'une solution, développement et adaptation des composants (couches graphiques,
+gestion services TV, navigateur).
+- Conception d'une application TV communicante, réalisation, tests sur une plate-forme embarquée.
+PROFIL  :
+De formation Bac+5 en génie logiciel embarqué ou informatique temps-réel.
+Connaissances en TVnum et Streaming.
+Excellent relationnel et bonne qualité rédactionnelle (anglais requis).
+Pro-activité et créativité.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4870703
+
+
+
+
+

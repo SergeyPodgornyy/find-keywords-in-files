@@ -1,0 +1,36 @@
+﻿Offre De Stage
+SUJET                                                                                          Développements backoffice web Cloud pour applicatifs sur objets connectés
+iD.apps est un des leaders français du développement d’applications mobiles avec de
+nombreuses références dans des domaines métiers très variés :
+    Média : TF1, Canal+, TMC
+    Culture : Larousse
+    Santé : Vidal, Servier
+    Logistique : GEFCO, STVA, Man
+    Etc…
+Dans le cadre de son activité iD.apps développe aussi des backoffices pour les applications
+mobiles et souhaite renforcer ses équipes d’éléments passionnés et moteurs. Le but de ce
+stage est de réaliser le backoffice d’un prototype multiplateforme exploitant des objets
+connectés :
+DESCRIPTION
+-                                                                                              Android Wear, Google Glasses,
+-                                                                                              Apple smart watch,
+-                                                                                              Etc…
+Au sein d’une équipe multiplateforme vous aurez en charge la réalisation du backoffice
+Cloud  sur  lequel  s’appuieront  des  prototypes  d’applicatifs  Android  et  iOS  d’objets
+connectés. Ce backoffice aura pour but de stocker et fournir des données à ces applicatifs
+mais aussi de synchroniser ces différents appareils.
+Environnement : HTML 5, CSS 3, Javascript, Angular JS, Symfony, Doctrine, MySQL.
+Le stagiaire intégré au centre de développement iD.apps, devra faire preuve d’autonomie
+et s’adapter aux contraintes projets.
+DURÉE                                                                                          A partir de 4 mois
+En dernière année de cycle d’étude (Bac+5)
+PROFIL
+Niveau d’anglais correct. Maitrise du développement objet.
+Intérêt prononcé pour une les plateformes mobiles, bonnes connaissances web et notions
+sur les serveurs (webservices, persistance de données, …)
+CONTACT                                                                                        kbekri@id-apps.fr
+
+
+
+
+

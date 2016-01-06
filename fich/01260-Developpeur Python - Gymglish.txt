@@ -1,0 +1,58 @@
+﻿AJSTAGE  RECRUTE  UN/UNE  DÉVELOPPEUR  PYTHON  ­  GYMGLISH  EN  STAGE
+DE  5  À  6  MOIS.
+Date  :  24/02/2014
+Référence  de  l’offre    :  dpgg­5870488
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  PARIS  75000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  None
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+AJstage  propose  aux  étudiants  des  offres  de  stages,  apprentissages,  VIE  et  premiers
+emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises
+clientes  sur  www.ajstage.com.
+Description  du  poste    :
+GymGlish  développe  une  nouvelle  approche  de  l'enseignement  de  l'anglais,  disponible  en
+France  et  à  l'international.
+Nous  sommes  une  petite  équipe  (8  nationalités  pour  moins  de  20  personnes)  de  jeunes
+passionnés  par  l'enseignement  des  langues  et  l'informatique,  et  nous  sommes  tous  fiers  de
+contribuer  au  développement  de  la  solution  GymGlish.  Voici  une  petite  présentation
+vidéo  de  l'équipe:http://www.gymglish.fr/cours­anglais­video
+Toute  la  technologie  GymGlish  (du  moteur  d'Intelligence  Artificielle  au  back­  et  au  front­
+office)  est  basée  sur  des  logiciels  libres:  Linux,  Python,  Zope  ...  et  ce  depuis  la  création
+de  la  société  en  Février  2004.
+Notre  méthode  de  développement  logiciel  est  basée  sur  l'Extreme  Programming,  avec  des
+tests  unitaires  systématiques  et  des  commits  par  équipe  de  deux  développeurs.
+Les  développeurs  GymGlish  actuels  ont  un  très  bon  niveau.
+Par  ailleurs,  avant  de  co­fonder  Gymglish,  le  directeur  technique  Antoine  Brenner  a  fondé
+en  1999  Alinka  SA,  un  éditeur  de  logiciels  de  clustering  sous  Linux,  qui  a  ensuite  été
+revendu  au  groupe  Prologue  Software:  nous  ne  manquons  pas  non  plus  d'expertise
+Linux  !
+
+
+
+
+Antoine  Brenner  est  également  un  des  initiateurs  du  projet  VLC  media  player.
+MISSIONS:
+Développements  divers  en  Python,  Django,  Zope  et  Plone  en  environnement  Linux
+Nous  offrons  un  reel  encadrement  aux  stagiaires:  nous  avons  un  reel  objectif  pédagogique
+d'accompagnement  et  de  formation.
+PROFIL:
+Très  bonne  connaissance  des  logiciels  libres  et  de  l'environnement  Linux  en  particulier.
+Bon  niveau  de  programmation  Python
+Maîtrise  de  SQL
+Capacité  à  résoudre  les  problèmes
+Maîtrise  de  l'anglais  et  du  français.
+MERCI  DE  POSTULER  VIA  :
+http://www.ajstage.com/offre/Developpeur­Python­chez­Gymglish
+Profil  recherché    :
+Passion
+Pour  postuler    :  http://ajstage.contactrh.com/jobs/1536/5870488
+
+
+
+
+

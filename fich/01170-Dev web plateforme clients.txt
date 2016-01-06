@@ -1,0 +1,54 @@
+﻿PARIS  INCUBATEURS  RECRUTE  UN/UNE  DÉV  WEB  PLATEFORME  CLIENTS
+EN  STAGE  DE  4  À  8  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  RH­003­5670520
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  18  75018,  FR
+Durée  du  contrat    :  De  4  à  8  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+eZ­nergy  est  une  jeune  entreprise  innovante  qui  fournit  des  services  opérationnels  aux
+acteurs  des  marchés  de  l'énergie  (électricité,  gaz,  ajustement  et  réserves).  Nous
+permettons  aux  producteurs,  fournisseurs,  consommateurs  et  nouveaux  acteurs  des  smart­
+grids  de  bénéficier  d'une  mutualisation  de  ressources  opérationnelles  (expertise,  systèmes
+d'information  et  équipes  24/7)  leur  permettant  de  professionnaliser  leurs  activités
+opérationnelles.
+Dans  ce  contexte,  nous  développons  une  solution  logicielle  permettant  de  gérer  de
+manière  automatisée  les  aspects  logistiques  et  opérationnels  des  activités  de  nos  clients.
+Ils  peuvent  ainsi  se  concentrer  sur  les  aspects  décisions  et  stratégie.
+Nous  recherchons  actuellement  un  ou  une  stagiaire  afin  de  développer  la  première  version
+de  notre  plateforme  web  accessible  à  nos  clients.
+Description  du  poste    :
+Développement  d'une  plateforme  web
+Nous  souhaitons  développer  une  interface  web  afin  de  permettre  à  nos  clients  d'accéder  à
+notre  solution  logicielle.  L'idée  est  qu'ils  puissent,  via  un  accès  sécurisé,  sur  un  mode
+SaaS,  accéder  à  un  espace  client  qui  leur  permette  principalement  :
+­                                                                                                                 D'afficher  les  événements  (détails,  résumé,  état…)  les  concernant,  activité  par
+activité,
+­                                                                                                                 D'afficher  les  courbes  et  graphiques  correspondant  à  leurs  activités,
+­                                                                                                                 De  configurer  un  certain  nombre  d'informations  (contacts,  email,  téléphone),
+­                                                                                                                 De  planifier  l'exécution  de  tâches  les  concernant,
+­                                                                                                                 D'importer  ou  d'exporter  des  fichiers  (Excel,  csv,  eml,  pdf…).
+Vous  travaillerez  à  la  fois  sur  la  partie  technique  et  sur  la  partie  IHM  du  site,  sur  la  base
+de  spécifications  fonctionnelle  et  d'une  charte  graphique  qui  vous  seront  fournies.
+
+
+
+
+Vous  mettrez  en  place  le  serveur  web,  sa  partie  applicative  et  disposerez  de  web  services.
+Si  besoin,  cous  pourrez  de  même  être  amené  à  développer  certains  web  services.
+Connaissances  souhaitées  :  C#  /  ASP  /  MySQL  /  HTML  /  CSS.
+Profil  recherché    :
+­                                                                                                          Bac+3/+5  avec  spécialisation  informatique,
+­                                                                                                          motivé/motivée,  fortement  autonome,
+­                                                                                                          maîtrise  du  développement  informatique,
+­                                                                                                          vous  maîtrisez  C#  /  ASP  /  MySQL  /  HTML  /  CSS  et  Java
+Pour  postuler    :  http://parisincub.contactrh.com/jobs/1536/5670520
+
+
+
+
+

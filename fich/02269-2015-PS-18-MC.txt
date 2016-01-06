@@ -1,0 +1,45 @@
+﻿Offre de stage                                                                                2015-PS-18-MC
+
+Mise en œuvre du protocole IEEE1588  PTP (Precision Time Protocol) pour la
+Sujet
+synchronisation d’équipements dans un réseau de transport  vidéo
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Video  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+4 à 6 mois à partir de
+Lieu / Site                                                                                   Période / Durée
+                                                                                              février/mars 2015
+Contexte :
+Missions                                                                                      Développement/validation de nouvelles technologies au sein d’une équipe en charge du
+                                                                                              développement d’une future plateforme pour des systèmes de diffusion de TV
+numérique.
+Sujet de stage :
+Mise en œuvre d’une pile réseau IEEE1588 (PTP) sur plateformes x86 et OS linux avec ou
+sans intégration d’une assistance hardware dédiée.
+Comparaison/optimisation des performances (précision, stabilité, temps de convergence,
+impact sur le système…) entre les différentes plateformes.
+Environnement de travail :
+Protocoles Ethernet (IP, UDP, RTP, RTCP,…)
+Normes IEEE 1588/ IEEE802.1AS
+x86_64
+Linux  et pile réseau linux
+Langage C
+Ingénieur software système et réseaux. Ouverture d’esprit, fortes capacités d’initiative et
+Profil                                                                                        de proposition. Curieux et autonome. familier de l’éco système Linux et intéressé par les
+problématiques systèmes embarqués.
+Indemnité de stage                                                                            Oui
+Cette offre vous intéresse :
+Adressez votre candidature à :    marc.cognault@thomson-networks.com
+Référence à rappeler : 2015-PS-18-MC
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

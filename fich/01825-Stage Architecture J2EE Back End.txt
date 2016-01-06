@@ -1,0 +1,44 @@
+﻿ATOS RECRUTE UN/UNE STAGE ARCHITECTURE J2EE BACK END EN STAGE 6 MOIS.
+Date : 05/11/2014
+Référence de l’offre : 175971-7964115
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Vous intégrez et assistez une équipe de consulting appartenant à la direction technique d'ATS Sud-Est.
+Cette équipe répond aux demandes d'expertises techniques, audits, missions d'accompagnement et conseil
+orientées JEE.
+Vous contribuez à l'évolution d'un framework JEE backend et à son industrialisation.
+Vous participez aux différentes activités menées par l'équipe projet :
+- Etudes clientes
+- Travaux de recherche et d'étude technique (R)
+- Rédaction des rapports/synthèses d'étude (Recommandations…)
+- Participation à des audits qualité/respect de normes/standards
+- Réalisation des prototypes ou composants JEE Vous évoluez dans un environnement technique varié, JEE 6
+et7 : JPA/Hibernate, EJB3, Service Web SOAP, Architecture SOA.
+L'objectif du stage est la mise en œuvre d'architecture backend à l'état de l'art des technologies JEE.
+Profil recherché :
+De formation minimum Bac + 5 en cours de validation, vous recherchez un stage de fin d'études d'une durée
+de 6 mois.
+Vous êtes spécialisé(e) dans l'architecture logicielle, le système d'information, la SOA avec un goût prononcé
+pour les architectures.
+Vous êtes mobile, créatif(ve) et avez le sens du travail d'équipe.
+La maîtrise de l'anglais est indispensable.
+Stage de pré-embauche envisageable.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7964115
+
+
+
+
+

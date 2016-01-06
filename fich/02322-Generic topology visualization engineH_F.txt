@@ -1,0 +1,67 @@
+﻿ATOS IS HIRING A GENERIC TOPOLOGY VISUALIZATION ENGINEH/F FOR INTERNSHIP FROM
+3 TO 5 MONTHS.
+Date : 05/02/2015
+Job reference : 2014-1496-8793067
+Function : Information systems / Telecom (Development Engineer)
+Type of contract : Internship
+Localisation : Bruyères-le-Châtel 91680, FR
+Contract duration : From 3 to 5 months
+Level of studies : Bac +3
+Years of experience :
+Company description :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Job description :
+The aim of this internship is to craft a generic HPC topology visualization engine that will be the foundation
+of an enhanced visualization environment.
+The rendering engine developed during this internship will provide:
+- Concurrent display of Multiple granularities (recursive / hierarchical sub-sets: rack, islet...)
+- Multiple graph layouts (theoretical graph, real-life organization, custom) with a GUI, allowing (Nodes
+selection                                                                                                            /  grouping,  Data  aggregation,  filtering,  processing,  Edges/vertexes,  size,  color,  positions,
+variations...)
+This engine will be provided as an MVC API as it will be extended to fits needs from various tools.
+Sugested Backends
+∙ within a browser
+* http://sigmajs.org/examples.html
+∙ stand alone
+* https://gephi.org/
+Required profile :
+Bac + 4/5, diplôle d'ingénieur en Informatique ou cycle universitaire équivalent.
+Langues
+Français (Bilingue)
+Anglais (Courant)
+Compétences requises
+- Some Visualization / Rendering experiences
+- User Interface design / Ergonomy awareness
+- Out of the box thinking
+- Will to learn, open mind
+- No HPC / network / topology knowledge required
+- Software engineering is a plus
+
+
+
+
+Compétences appréciées
+- Some Visualization / Rendering experiences
+- User Interface design / Ergonomy awareness
+- Curiosity
+- Analitycal mind
+- Rigor
+- Autonomy
+- Team spirit
+To apply : http://apply.multiposting.fr/jobs/1536/8793067
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿Offre de stage                                                                                2015 - PL - 06 - SL
+
+Amélioration d’outils d’investigation pour une application d’encapsulation et
+Sujet
+distribution de flux Audio/Vidéo dans les domaines IPTV, OTT et mobile TV
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision
+par satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet,
+Thomson  Video  Networks  offre  à  ses  clients                                              -  des  opérateurs  de  réseaux,  des
+fournisseurs de contenus ou des opérateurs Pay-TV -   la diffusion d’une qualité vidéo
+Entreprise
+supérieure vers tous types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ 400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+4 mois et + à partir de janvier
+Lieu / Site                                                                                   Rennes/Cesson Sevigne                               Période / Durée
+2015
+Intégré à l’équipe VS7000, en collaboration avec les équipes « amélioration de
+Missions                                                                                      processus» et «Cluster Manager »,  le stagiaire :
+   Etudiera le produit , l’environnement d’utilisation et les outils d’investigation et
+d’aide à la résolution de problèmes déjà existants.
+   Développera de nouveaux outils (mécanisme de collecte et de rapatriement en
+un click de toutes les traces existantes sur le système) ou modifier/enrichir les
+outils existants (Activation de trace à la demande au lieu d’activation en boucle
+de remontée d’information) ceci afin d’améliorer l’investigation en cas de
+problème client en simplifiant les procédures et en réduisant les impacts
+potentiels sur les plateformes on air.
+   Pourra proposer le développement  d’autres outils d’investigation si
+nécessaire.
+Stage 4ème ou 5eme année élève ingénieur
+Profil
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à : veronique.girault@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

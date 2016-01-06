@@ -1,0 +1,784 @@
+﻿OFFRES DE STAGE 2014-2015
+Viveris.fr
+
+
+
+
+SOMMAIRE - IDF
+2
+RUN-STA-001                                         Logiciel Embarqué
+                                                                                                   P.5
+Développement de logiciel embarqué Java/OSGI
+RUN-STA-002                                         Ingénieur Logiciel embarqué Linux              P.6
+Développement logiciel embarqué contrôle commande
+RUN-STA-003                                         Ingénieur Banc de tests
+                                                                                                   P.7
+                                                    Banc d’intégration et de tests génériques
+RUN-STA-004                                         Ingénieur Design FPGA
+                                                                                                   P.8
+                                                    Simulateur réseaux et automates
+RUN-STA-005                                         Ingénieur Design Electronique
+                                                                                                   P.9
+Carte d’interface générique pour banc de tests
+RUN-STA-006                                         Ingénieur logiciel J2EE                        P.10
+                                                    Réalisation d’un outil de gestion de version
+RUN-STA-007                                         Ingénieur LabVIEW
+                                                                                                   P.11
+Refonte d’un applicatif de collecte
+Viveris.fr
+
+
+
+
+SOMMAIRE - Provinces
+3
+TLS-STA-2015-001                             Ingénieur logiciel et réseau
+P.12
+Recherche & Intégration IP sur satellite
+TLS-STA-2015-002                             Ingénieur logiciel Java EE / RIA
+P.13
+Application pour une BOX opérateur télécom
+TLS-STA-2015-003                             Ingénieur logiciel et système/réseau
+P.14
+Application pour une BOX opérateur télécom
+TLS-STA-2015-004                             Ingénieur logiciel embarqué
+                                                                                                         P.15
+                                             Bus avion AFDX
+TLS-STA-2015-005                             Ingénieur logiciel applicatif SmartPhone
+                                                                                                         P.16
+                                             Applications de communication
+TLS-STA-2015-006                             Ingénieur logiciel embarqué sécuritaire
+                                             Développement Applications et Librairies sécuritaire avec   P.17
+SCADE Suite
+TLS-STA-2015-007                             Ingénieur logiciel instrumentation
+P.18
+Développement LabVIEW
+
+
+
+
+SOMMAIRE - Provinces
+4
+LYN-STA-001
+Développement électronique et logiciel d'un système optronique   P.19
+LYN-STA-002
+                                                                 Portage Linux embarqué temps-réel                           p.20
+LYN-STA-003
+                                                                 Séquenceur pour système temps réel                          p.21
+LYN-STA-004
+Supervision déportée                                                                                                         p.22
+LYN-STA-005                                                      Automatisation sous TestStand des tests fonctionnels d’un
+p.23
+système sécuritaire (4ème année)
+
+
+
+
+Stage RUN-STA-001 Logiciel Embarqué
+Développement de logiciel embarqué Java/OSGI
+5
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+   Logiciel
+Dans le cadre de ses activités de Recherche & Développement dans le domaine de
+(embarqué & applicatif)
+l’automobile, Viveris   participe à un projet mettant en œuvre une communication
+   Électronique                                                                                                     vehicle-to-vehicle et vehicle-to-infrastructure.  Des développements applicatifs sont à
+prévoir sur la cible embarquée dans le véhicule.
+   Ingénierie système
+   Modélisation &
+L’objectif  de  ce  stage  est  de  participer  activement  à  la    réalisation  de  ces
+développements, de la définition à la réalisation puis à la validation.                                              Simulation
+                                                                                                                        Réseau & Telecom
+Niveau Requis
+Durée : 5 à 6 mois
+Élèves ingénieurs ou universitaires en dernière année d'études.                                                      Nombre de stages : 1
+Lieu : Rungis (94)
+Connaissances nécessaires au projet :                                                                                Contact : candidature_vt@viveris.fr
+• Java, OSGI
+• Linux
+•Cycle en V,SVN, Mantis
+
+
+
+
+Stage RUN-STA-002 Ingénieur Logiciel embarqué Linux
+Développement logiciel embarqué contrôle commande
+6
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+                                                                                                                        Logiciel
+Viveris a développé un calculateur de contrôle commande basé sur un OS Windows CE.
+                                                                                                                     (embarqué & applicatif)
+Ce calculateur haut de gamme va être décliné en plusieurs versions.
+Dans le cadre de cette déclinaison, nous avons fait le choix de passer sous un OS Linux.                                Électronique
+Cela implique une refonte globale de l’architecture logicielle et le redéveloppement de
+                                                                                                                        Ingénierie système
+briques métiers qui seront utilisées sur l’ensemble des calculateurs de la gamme.
+                                                                                                                        Modélisation &
+L’objectif de ce stage est de participer activement à toutes les phases de réalisation du                            Simulation
+logiciel, de la définition, à la réalisation puis à la validation.
+                                                                                                                        Réseau & Telecom
+Niveau Requis
+Durée : 5 à 6 mois
+Élèves ingénieurs ou universitaires en dernière année d'études.                                                      Nombre de stages : 1
+Lieu : Rungis (94)
+Connaissances nécessaires au projet :                                                                                Contact : candidature_vt@viveris.fr
+•Langage C, Microcontrôleur ARM, Microcontrôleur PIC
+•Linux embarqué
+•Bus USB, I2C, TCP/IP, RS232Séquenceur de test : TestStand (serait un plus)
+•Électronique numérique
+•Instrumentation électronique
+•Cycle en V,SVN, Mantis.
+
+
+
+
+Stage RUN-STA-003 Ingénieur Banc de tests
+Banc d’intégration et de tests génériques
+7
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+   Logiciel
+Dans le cadre de ses activités de conception électronique, Viveris souhaite développer
+(embarqué & applicatif)
+des  bancs d’intégration et de test générique. La base de ces bancs sera commune et
+   Électronique                                                                                                     facilement modifiable et paramétrable en fonction des besoins des projets aussi bien
+en phase d’étude qu’en phase de production.
+   Ingénierie système
+   Modélisation &
+L’objectif de ce stage est de participer activement à toutes les phases de réalisation de
+ces bancs, de la définition, à la réalisation puis à la validation.                                                  Simulation
+                                                                                                                        Réseau & Telecom
+Niveau Requis
+Élèves ingénieurs ou universitaires en dernière année d'études.                                                      Durée : 5 à 6 mois
+                                                                                                                     Nombre de stages : 1
+Connaissances nécessaires au projet :                                                                                Lieu : Rungis (94)
+•Langage C, Microcontrôleur                                                                                          Contact : candidature_vt@viveris.fr
+•Séquenceur de test : TestStand (serait un plus)
+•Débarqué : C++, Python
+•Électronique numérique
+•Instrumentation électronique
+•Cycle en V,SVN, Mantis,
+
+
+
+
+Stage RUN-STA-004 Ingénieur Design FPGA
+Simulateur réseaux et automates
+8
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+   Logiciel
+Dans le cadre de ses activités de conception électronique, Viveris souhaite développer
+(embarqué & applicatif)
+un simulateur de trames réseaux utilisé pour la validation d’architectures de systèmes
+automatisés décentralisés.                                                                                              Électronique
+                                                                                                                        Ingénierie système
+L’objectif de ce stage est de participer activement à toutes les phases de réalisation du
+                                                                                                                        Modélisation &
+code  FPGA  embarqué  sur une  carte propriétaire  (interface  PC,  Interfaces  réseaux,
+exécution de scénario).                                                                                              Simulation
+                                                                                                                        Réseau & Telecom
+Niveau Requis
+Élèves ingénieurs ou universitaires en dernière année d'études.                                                      Durée : 5 à 6 mois
+                                                                                                                     Nombre de stages : 1
+Connaissances nécessaires au projet :                                                                                Lieu : Rungis (94)
+•FPGA (Actel serait un plus)                                                                                         Contact : candidature_vt@viveris.fr
+•Testbench Modelsim
+•Bus SPI, Ethernet, Modbus, PCI
+•Électronique numérique
+•Instrumentation électronique
+•Cycle en V,SVN, Mantis
+
+
+
+
+Stage RUN-STA-005 Ingénieur Design Électronique
+Carte d’interface générique pour banc de tests
+9
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+                                                                                                                        Logiciel
+Dans le cadre de ses activités de conception électronique, Viveris souhaite développer
+                                                                                                                     (embarqué & applicatif)
+des  bancs d’intégration et de test générique. La base de ces bancs sera commune et
+facilement modifiable et paramétrable en fonction des besoins des projets aussi bien                                    Électronique
+phase d’étude qu’en phase de production.
+   Ingénierie système
+   Modélisation &
+L’objectif de ce stage est de participer activement à toutes les phases de réalisation des
+cartes électroniques intelligentes assurant l’interface entre l’équipement testé et le PC                            Simulation
+de supervision.
+                                                                                                                        Réseau & Telecom
+Niveau Requis
+Durée : 5 à 6 mois
+Élèves ingénieurs ou universitaires en dernière année d'études.                                                      Nombre de stages : 1
+                                                                                                                     Lieu : Rungis (94)
+Connaissances nécessaires au projet :
+                                                                                                                     Contact : candidature_vt@viveris.fr
+•Microcontrôleur ARM, FPGA
+•Bus CAN, I2C,SPI,RS232/485, Ethernet
+•Électronique numérique
+•Instrumentation électronique
+•CAO électronique , Notions CEM
+•Cycle en V,SVN, Mantis
+
+
+
+
+Stage RUN-STA-006 Ingénieur logiciel J2EE
+Réalisation d’un outil de gestion de version
+10
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+                                                                                                                        Logiciel
+Dans  le  cadre  de  ses  activités  de  conception  électronique,  Viveris  gère  ses
+                                                                                                                     (embarqué & applicatif)
+bibliothèques de composants en gestion de version. Afin de gagner en productivité,
+Viveris développe un gestionnaire évolué de composants électroniques. Cet outil doit                                    Électronique
+permettre de gérer en base de données les versions d’éléments binaires, de leurs liens
+                                                                                                                        Ingénierie système
+et méta-datas, ainsi que du Workflow propre aux métiers de Viveris.
+                                                                                                                        Modélisation &
+L’objectif de ce stage est de participer activement à toutes les phases de réalisation de                            Simulation
+cet outil, de la définition, à la réalisation puis à la validation.
+                                                                                                                        Réseau & Telecom
+                                                                                                                     Durée : 5 à 6 mois
+Niveau Requis
+                                                                                                                     Nombre de stages : 1
+Élèves ingénieurs ou universitaires en dernière année d'études.                                                      Lieu : Rungis (94)
+                                                                                                                     Contact : candidature_vt@viveris.fr
+Connaissances nécessaires au projet :
+• Java J2EE, Tomcat, Spring, Hibernate, Maven, Eclipse
+• Windows/Linux
+
+
+
+
+Stage RUN-STA-007 Ingénieur LabVIEW
+Refonte d’un applicatif de collecte
+11
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Sujet du stage
+                                                                                                                     Les concentrateurs de terminaux, produits de Viveris Technologies, sont implémentés chez nos           Nos métiers :
+                                                                                                                     clients depuis plus de 20 ans. Viveris Technologies souhaite effectuer la refonte du logiciel à iso-
+                                                                                                                                                                                                                               Logiciel
+                                                                                                                     fonctionnalités sous l’environnement Linux /LabView et sur une plate-forme matériel PC104.
+Les étapes du stage sont les suivantes :                                                                                                                                                                                    (embarqué & applicatif)
+•                                                                                                                    Conception d’une architecture de code sous LabView,                                                       Électronique
+•                                                                                                                    Développement des principes de communication sous environnement Windows                                   Ingénierie système
+(démonstration),
+                                                                                                                                                                                                                               Modélisation &
+•                                                                                                                    Intégration  logicielle  et  mise  au  point  de  l’applicatif   et  des  drivers  pour
+                                                                                                                                                                                                                            Simulation
+                                                                                                                     l’environnement Linux (identification des besoins de la distribution Linux),
+                                                                                                                                                                                                                               Réseau & Telecom
+•                                                                                                                    Développement de fonctionnalités métiers complémentaires (messagerie)
+•                                                                                                                    Validation complète du produit avec comparaison des performances à celles de
+                                                                                                                                                                                                                            Durée : 5 à 6 mois
+                                                                                                                     produits existants (d’après plan de validation existant).
+                                                                                                                                                                                                                            Nombre de stages : 1
+                                                                                                                                                                                                                            Lieu : Rungis (94)
+Niveau Requis
+Contact : candidature_vt@viveris.fr
+Élèves ingénieurs ou universitaires en dernière année d'études.
+Connaissances nécessaires au projet :
+Programmation LabVIEW - Système d’exploitation : Linux (distributions), Windows
+Gestion de port série, parallèle et TCP/IP ( protocole ASCII )
+Documentation du code, Adaptation / Intégration Logiciel/matériel
+Cycle en V, Outils : SVN, Mantis
+
+
+
+
+Stage TLS-STA-2015-001 : Ingénieur logiciel et réseau
+Recherche & Intégration IP sur satellite
+12
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+   Logiciel
+Dans le cadre de ses activités de Recherche & Développement, en coopération avec le
+(embarqué & applicatif)
+CNES, Thales Alenia Space ou Airbus D&S, Viveris Technologies travaille sur des études
+d’intégration des protocoles réseaux sol sur les systèmes satellitaires.                                                Électronique
+                                                                                                                        Ingénierie système
+L’objectif de ces stages est de participer activement à la définition, à la réalisation puis
+                                                                                                                        Modélisation &
+à l’évaluation de ces plateformes de R&D.
+                                                                                                                     Simulation
+Ces stages sont orientés vers des ingénieurs réseaux ayant une bonne connaissance du
+                                                                                                                        Réseau & Telecom
+monde informatique et des systèmes Linux.
+                                                                                                                     Durée : 5 à 6 mois
+Niveau Requis
+                                                                                                                     Nombre de stages : 1
+Élèves ingénieurs ou universitaires en dernière année d'études, passionné de Linux et                                Lieu : Toulouse (31)
+des solutions Open Source, vous connaissez les protocoles réseaux,  (IPV4-V6, TCP,                                   Contact : rh@toulouse.viveris.com
+HTTP,…), et vous êtes intéressés par les nouvelles fonctionnalités réseaux (VOD, SDN,
+DASH/HLS, CDN, …) dans un contexte satellite ainsi que le développement logiciel (C++,
+Python).
+
+
+
+
+Stage TLS-STA-2015-002 : Ingénieur logiciel RIA/Java EE
+Application pour une BOX opérateur télécom
+13
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Sujet du stage
+Nos métiers :                                                                                                        Viveris Technologies dispose d’une solution de boîtier de routage réseau offrant des
+fonctions évoluées telles que :
+   Logiciel
+portail WEB de gestion de comptes et de services, VOIP, firewalling, décompte de trafic,
+(embarqué & applicatif)
+gestion QOS, gestion de contenus multimedia…
+   Électronique
+Nous souhaitons faire évoluer cette solution afin de l’adapter aux nouveaux objectifs
+   Ingénierie système
+client.  Le produit  doit  répondre  aux  exigences  de  robustesse  et  de  performances
+élevées d’un opérateur télécom.                                                                                         Modélisation &
+                                                                                                                     Simulation
+Ces stages sont réalisés dans notre équipe logicielle produit avec une participation à
+chacune des étapes projet :                                                                                             Réseau & Telecom
+•     Recueil des contraintes et spécifications du besoin,
+                                                                                                                     Durée : 5 à 6 mois
+•     Veille Technologique / Conception de la solution,
+                                                                                                                     Nombre de stages : 2
+•     Prototypage & Industrialisation.                                                                               Lieu : Toulouse (31)
+                                                                                                                     Contact : rh@toulouse.viveris.com
+Niveau Requis
+Élèves ingénieurs ou universitaires en dernière année d'études. Passionné de Linux et
+des solutions Open Source , vous connaissez les Langages  JAVA en environnement JEE
+(SOAP/Spring/Hibernate), les technologies liées aux RIA (Ajax, Jquery, AngularJS).
+
+
+
+
+Stage TLS-STA-2015- 003 : Ingénieur logiciel et système/réseau
+Application pour une BOX opérateur télécom
+14
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Sujet du stage
+Nos métiers :                                                                                                        Viveris Technologies dispose d’une solution de boîtier de routage réseau offrant des
+fonctions évoluées telles que :
+   Logiciel
+portail WEB de gestion de comptes et de services, VOIP, firewalling, décompte de trafic,
+(embarqué & applicatif)
+gestion QOS, gestion de contenus multimedia…
+   Électronique
+Nous souhaitons faire évoluer cette solution afin de l’adapter aux nouveaux objectifs
+   Ingénierie système
+client.  Le produit  doit  répondre  aux  exigences  de  robustesse  et  de  performances
+élevées d’un opérateur télécom.                                                                                         Modélisation &
+                                                                                                                     Simulation
+Ces stages sont réalisés dans notre équipe logicielle produit avec une participation à
+chacune des étapes projet :                                                                                             Réseau & Telecom
+•     Recueil des contraintes et spécifications du besoin,
+                                                                                                                     Durée : 5 à 6 mois
+•     Veille Technologique / Conception de la solution,
+                                                                                                                     Nombre de stages : 2
+•     Prototypage & Industrialisation.                                                                               Lieu : Toulouse (31)
+                                                                                                                     Contact : rh@toulouse.viveris.com
+Niveau Requis
+Élèves ingénieurs ou universitaires en dernière année d'études. Passionné de Linux et
+des solutions Open Source , vous connaissez les protocoles de communication IP, le
+système Linux, le bash et les langages de développement C et Python.
+
+
+
+
+Stage TLS-STA-2015-004 : Ingénieur logiciel embarqué
+Bus avion AFDX
+15
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+   Logiciel
+Le produit AFDXToolKit est leader du marché des interfaces AFDX@  « Hardfree  »
+(embarqué & applicatif)
+(ARINC  664). Notre solution est utilisée par Airbus et  les équipementiers pour la
+réalisation d’outils d’ingénierie et de bancs de test avionique.                                                        Électronique
+                                                                                                                        Ingénierie système
+Dans le cadre de nos activités de Recherche & Développement, nous souhaitons faire
+                                                                                                                        Modélisation &
+évoluer notre produit AFDXToolKit afin de répondre à de nouveaux besoins exprimés
+par nos clients.                                                                                                     Simulation
+   Réseau & Telecom
+L’objectif de ce stage est de participer activement à la définition, à la réalisation puis
+au déploiement de ces nouvelles fonctions.
+Durée : 5 à 6 mois
+Nombre de stages : 1
+Ce stage est orienté vers des ingénieurs logiciels ayant une bonne connaissance de
+Lieu : Toulouse (31)
+l’avionique ou des bus de communication.
+Contact : rh@toulouse.viveris.com
+Niveau Requis
+Élèves ingénieurs ou universitaires en dernière année d'études. Passionné de logiciels,
+d’avionique vous connaissez les protocoles de communication AFDX ou IP, les Langages
+C++, JAVA ainsi que les architectures temps réel.
+
+
+
+
+Stage TLS-STA-2015-005 : Ingénieur logiciel application mobile
+Applications de communication
+16
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Sujet du stage
+Viveris  Technologies  étudie  des  solutions  de  communication  tout  IP  à  base  de
+terminaux mobiles mettant en œuvre différents liens de télécommunication (terrestres
+et satellites).                                                                                                      Nos métiers :
+Nous développons des solution de communication (VOIP) et d’administration de BOX au
+                                                                                                                        Logiciel
+travers de SmartPhone ou tablette tactile de type Androïd ou IOS.
+                                                                                                                     (embarqué & applicatif)
+Les stages sont réalisés dans notre équipe logicielle produit avec une participation à                                  Électronique
+chacune des étapes projet :
+                                                                                                                        Ingénierie système
+• Recueil des contraintes et spécifications du besoin,
+                                                                                                                        Modélisation &
+• Veille Technologique / Conception de la solution,                                                                  Simulation
+• Prototypage & Industrialisation.                                                                                      Réseau & Telecom
+Niveau Requis
+                                                                                                                     Durée : 5 à 6 mois
+                                                                                                                     Nombre de stages : 1
+Élèves ingénieurs ou universitaires en dernière année d'études. Passionné des
+                                                                                                                     Lieu : Toulouse (31)
+solutions logicielles pour smartphone (Androïd ou IOS) vous connaissez les Langages
+                                                                                                                     Contact : rh@toulouse.viveris.com
+C, python,  JAVA, ainsi que les principes de communication IP.
+
+
+
+
+Stage TLS-STA-2015-006 : Ingénieur logiciel embarqué sécuritaire
+Développement Applications et Librairies sécuritair                                                                  e avec SCADE Suite
+17
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Sujet du stage
+Viveris Technologies étudie des solutions de développement sécuritaire assisté par
+ordinateur mettant en œuvre la suite d’outils SCADE de Esterel Technologies.
+Nos métiers :                                                                                                        Nous développons des librairies génériques ou personnalisées et des applicatifs pour
+des cibles embarquées tel que des PowerPC sous noyau Linux ou micro-kernel.
+   Logiciel
+(embarqué & applicatif)
+L’objectif de ce stage est de participer activement à la définition puis à la réalisation de
+ces nouvelles technologies.                                                                                             Électronique
+                                                                                                                        Ingénierie système
+Les logiciels mis en œuvre seront :
+                                                                                                                        Modélisation &
+• SCADE Suite, pour la modélisation et la vérification de la conception.
+                                                                                                                     Simulation
+• SCADE System, pour la modélisation système en SysML.
+                                                                                                                        Réseau & Telecom
+• SCADE Display, pour le prototypage et la modélisation d’IHM.
+•SCADE LifeCycle, pour les aspects Management de la Qualité.                                                         Durée : 5 à 6 mois
+                                                                                                                     Nombre de stages : 1
+                                                                                                                     Lieu : Toulouse (31)
+Niveau Requis
+Contact : rh@toulouse.viveris.com
+Élèves ingénieurs ou universitaires en dernière année d'études. Passionné des
+développements logiciel sécuritaire pour le monde de l’Avionique et du Ferroviaire,
+vous connaissez les Langages C, ADA, ainsi que les principes de la modélisation.
+
+
+
+
+Stage TLS-STA-2015-007 : Ingénieur développement logiciel
+Développement d’outils d’analyse de code sécuritair                                                                  e (Avionique & Ferroviaire)
+18
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Sujet du stage
+Viveris Technologies réalise des audits et des expertises de logiciel (embarqué ou non)
+pour les secteurs à forte contraintes normatives tel que l’avionique, le ferroviaire, le
+médical, l’automobile et l’industriel.                                                                               Nos métiers :
+Pour ce faire, nous avons réalisé des outils maisons permettant d’automatiser une
+                                                                                                                        Logiciel
+partie de ces analyses permettant de détecter à la fois des erreurs statiques (MISRA)
+                                                                                                                     (embarqué & applicatif)
+mais également dynamique (RunTime).
+                                                                                                                        Électronique
+L’objectif de ce stage est de participer activement à la définition, à la réalisation puis à
+                                                                                                                        Ingénierie système
+la validation de ces outils automatisés.
+Ces outils ont pour contraintes d’être :                                                                                Modélisation &
+                                                                                                                     Simulation
+•  Multiplateformes : Windows / Linux,
+                                                                                                                        Réseau & Telecom
+•  multi-languages : C / C++ / JAVA / ADA / Shell / C#
+•  multi-cibles : ARM / PowerPC / INTEL / …
+                                                                                                                     Durée : 5 à 6 mois
+                                                                                                                     Nombre de stages : 1
+Niveau Requis
+Lieu : Toulouse (31)
+Contact : rh@toulouse.viveris.com
+Élèves ingénieurs ou universitaires en dernière année d'études. Passionné des
+développements logiciel sécuritaire pour le monde de l’Avionique et du Ferroviaire,
+vous connaissez les Langages C, C++, ainsi que les exigences AQL sécuritaires.
+
+
+
+
+Stage LYN-STA-001
+Développement électronique et logiciel d'un système optronique
+19
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs
+de   pointe   les   plus   exigeants                                                                                 (Aéronautique,   Défense,   Ferroviaire,   Automobile,   Espace,   Énergie,
+Télécommunications, Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes
+clé en main à haute valeur ajoutée.
+Sujet du stage
+Intégré dans nos équipes Electronique et Logiciel Embarqué, vous aurez la charge de concevoir
+Nos métiers :
+et  réaliser  un  dispositif  de  protection  électro-sensible  multifaisceaux  comprenant  des
+   Logiciel
+émetteurs et récepteurs optiques. Ce dispositif est intégré dans un système sécuritaire temps
+réel.                                                                                                                (embarqué & applicatif)
+                                                                                                                        Électronique
+Vos missions principales seront de :
+                                                                                                                        Ingénierie système
+Connaitre et comprendre le système : cartes électroniques et logiciels
+Définir l'architecture électronique d'un module prototype : schémas, routage, suivi de                                 Modélisation &
+fabrication
+                                                                                                                     Simulation
+Développer les composants logiciels embarqués
+                                                                                                                        Réseau & Telecom
+Intégration et validation
+Documentation technique (spécifications, conception, validation)
+                                                                                                                     Durée : 6 mois
+Niveau Requis                                                                                                        Nombre de stages : 2
+Lieu : Villeurbanne (69)
+Élèves ingénieurs ou universitaires en dernière année d'études, vous êtes rigoureux et
+autonome.
+Premier stagiaire : compétence principale en électronique et informatique industrielle.
+Compétence complémentaire en optronique (laser, infrarouge).
+Second stagiaire : bonnes connaissances du développement d’applications embarquées. Vous
+maitrisez le langage C.
+
+
+
+
+Stage LYN-STA-002 : Portage Linux embarqué temps-réel
+20
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Nos métiers :
+Sujet du stage
+                                                                                                                        Logiciel
+Intégré dans l’équipe logicielle d’un projet de sécurité ferroviaire, vous aurez en charge
+                                                                                                                     (embarqué & applicatif)
+le portage d'une application temps réel existante vers Linux.
+                                                                                                                        Électronique
+Le stage regroupe:
+   Ingénierie système
+   Modélisation &
+• l’adaptation et la validation de l’image Linux et de ses drivers (I/O, USB, SPI…)
+• le portage de l’application sous Linux,                                                                            Simulation
+• l’intégration du logiciel sur la carte, les tests, les mesures de performance.
+                                                                                                                        Réseau & Telecom
+Niveau Requis
+                                                                                                                     Durée : 5 à 6 mois
+Élèves ingénieurs ou universitaires en dernière année d'études, vous êtes rigoureux et                               Nombre de stages : 1
+autonome.                                                                                                            Lieu : Villeurbanne (69)
+Vous avez de bonnes connaissances du développement d’applications embarquées sous                                    Contact : candidature_vt@viveris.fr
+Linux.
+Vous maitrisez le langage C.
+
+
+
+
+Stage LYN-STA-003 : Séquenceur pour système temps réel
+21
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Sujet du stage
+Nos métiers :
+Intégré dans notre équipe Vérification & Validation, vous aurez la charge de développer un
+   Logiciel
+séquenceur générique pour plateforme temps-rée de type PXI/CompactRIO de National
+Instruments.                                                                                                         (embarqué & applicatif)
+                                                                                                                        Électronique
+Vos missions principales seront de :
+                                                                                                                        Ingénierie système
+•  Définir l'architecture logicielle du séquenceur / moteur de scripting, de son éditeur
+graphique associé ainsi qu’un compilateur de type LL1.                                                                  Modélisation &
+•  Développer, en LabVIEW, les composants logiciels pour exécuter des fichiers script : des
+                                                                                                                     Simulation
+commandes simples de type assembleur (Set value, wait…) permettent de décrire pas à
+                                                                                                                        Réseau & Telecom
+pas la séquence de test en pilotant les entrées/sorties.
+•  Documentation technique (spécifications, conception, validation)
+•  Notions abordées : Compilation LL1, moteur d’exécution, Editeur de séquences / script.                            Durée : 6 mois
+                                                                                                                     Nombre de stages : 1
+Niveau Requis                                                                                                        Lieu : Grenoble (38)
+Contact : candidature_vt@viveris.fr
+Élèves ingénieurs ou universitaires électronique/informatique/instrumentation en dernière
+année d'études. Doué d'un bon esprit de synthèse, vous avez une bonne connaissance des
+environnements LabVIEW/LabVIEW RT.
+
+
+
+
+Stage LYN-STA-004    Supervision déportée
+22
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie
+en électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les
+secteurs de pointe les plus exigeants  (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie,
+Télécommunications, Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies  contribuent, depuis plus de  20  ans, à la réalisation de
+systèmes clé en main à haute valeur ajoutée.
+Sujet du stage
+Intégré  dans  nos  équipes  Electronique  et  Logiciel  Embarqué,  vous  aurez  en  charge  le
+développement d’une solution de supervision à distance d’un système sécuritaire.
+Nos métiers :
+Vos tâches principales seront de :
+•  Connaitre et comprendre le système (cartes électroniques et logiciels)
+                                                                                                                     Logiciel
+•  Proposer une stratégie de supervision des équipements (détection de défaillance, remontée
+                                                                                                                  (embarqué & applicatif)
+d’alertes fonctionnelles)
+                                                                                                                     Électronique
+•  Développer le module embarqué collecteur et émetteur des évènements via GPRS
+•  Développer le logiciel de supervision distant (traitement et affichage des évènements)
+   Ingénierie système
+   Modélisation &
+Environnement technique :
+Simulation
+•  Logiciel embarqué sur Microprocesseur ARM / Linux / C / C++ (plateforme OWASYS)
+•  Communication via Ethernet, Webservices, GSM/GPRS/UMTS                                                            Réseau & Telecom
+•  Logiciel de supervision sur environnement PC / Windows / Web, développement d’IHM
+                                                                                                                  Durée : 6 mois
+Ce stage donnera l’opportunité d’appréhender une démarche d’ingénierie système orientée
+                                                                                                                  Nombre de stages : 1
+supervision en mettant en œuvre un système complet de récupération sur site d’évènements et
+                                                                                                                  Lieu : Villeurbanne (69)
+de remontée en centre d’exploitation/maintenance ,en vue de traitement curatif, préventif ou
+analyse statistique de fonctionnement.
+Niveau Requis
+Formation école d’ingénieur généraliste en informatique industrielle/électronique embarquée,
+en troisième année. Doué d'un bon esprit de synthèse, vous avez des compétences  en
+développement logiciel embarqué et PC.
+
+
+
+
+Stage LYN-STA-005 : Automatisation sous TestStand des tests fonctionnels
+d’un système sécuritaire
+23
+Filiale du Groupe Viveris (700 collaborateurs), Viveris Technologies est une société de conseil et d’ingénierie en
+électronique et informatique industrielle spécialisée dans les systèmes embarqués. Œuvrant dans les secteurs de
+pointe les plus exigeants (Aéronautique, Défense, Ferroviaire, Automobile, Espace, Énergie, Télécommunications,
+Médical…), nous couvrons l’ensemble du cycle de développement produit.
+Les bureaux d’études de Viveris Technologies contribuent, depuis plus de 20 ans, à la réalisation de systèmes clé
+en main à haute valeur ajoutée.
+Sujet du stage
+Nos métiers :
+Intégré dans notre équipe Vérification & Validation, vous aurez la charge d'automatiser
+                                                                                                                        Logiciel
+les tests de validation d’un système sécuritaire.
+                                                                                                                     (embarqué & applicatif)
+Vos missions principales seront de :
+                                                                                                                        Électronique
+•  Connaitre et comprendre le système : cartes électroniques et logiciels
+                                                                                                                        Ingénierie système
+•  A partir d’un moyen existant, définir l'architecture logicielle du banc automatique
+temps-réel (environnement TestStand de National Instrument privilégié)                                                  Modélisation &
+•  Mettre en place l'automatisation des test : développement des séquences de tests
+                                                                                                                     Simulation
+•  Vérifier que les résultats sont identiques à ceux obtenus avec la même procédure
+                                                                                                                        Réseau & Telecom
+manuelle
+Ce stage donnera l’opportunité de comprendre le processus de validation d’un système                                 Durée : 6 mois
+électronique qui utilise les technologies les plus innovantes (logiciel temps-réel, FPGA,                            Nombre de stages : 1
+architecture redondée).                                                                                              Lieu : Villeurbanne (69)
+                                                                                                                     Contact : candidature_vt@viveris.fr
+Niveau Requis
+Élèves ingénieurs ou universitaires électronique/informatique/instrumentation en 4è
+année d'études. Doué d'un bon esprit de synthèse, vous avez une connaissance des
+environnements TestStand et/ou LabVIEW.
+
+
+
+
+

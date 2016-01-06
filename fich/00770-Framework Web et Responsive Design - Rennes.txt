@@ -1,0 +1,47 @@
+﻿R&D  :  Frawmework  Web  et
+Responsive  Design  -  H/F
+PRÉSENTATION DU STAGE
+ASI  est  une  société  de  Conseil  et  d’ingénierie  créée  en                                   1993,  spécialisée  dans  les
+applications décisionnelles, les portails d’entreprise et les solutions Web 2.0 de collaboration
+et la Gestion de la Relation Client.
+ASI a connu une croissance continue de son chiffre d’affaires depuis sa création, avec 36.1
+millions d'Euros en 2012, (+16 % par rapport à 2011). Implantée dans 10 villes (Paris, Lyon,
+Marseille,  Rennes,  Brest,  Nantes,  Niort,  Tours,  Bordeaux  et  Toulouse),  ASI  offre  la
+possibilité à ses 330 collaborateurs de vivre dans la région de leur choix, et   d’intervenir
+auprès de PME/PMI, de grandes entreprises et de collectivités locales.
+CONTEXTE ET SUJET DE STAGE
+ASI Informatique est une SSII de taille moyenne dont la clientèle est constituée à parts
+égales de grands comptes et de PME. Son activité comporte une grande partie de mise en
+place de solutions métiers ou de sites Intranet et/ou Extranet pour ces clients.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Dans le cadre de ce stage, vous serez amené à réaliser deux études pour le Centre de
+Services Java : d’une part étudier les choix d‘un framework de présentation web Java pour la
+partie serveur et d’autre part étudier l'industrialisation de la configuration des postes de
+développement pour un projet.
+Choix d’un framework web :
+  La  mission  consistera  à  faire  une  étude  des  principaux  frameworks  web  (GWT,
+Spring  MVC,  JSF                                                                                  2.2,  etc)  et     Inventorier,  pour  chacun  des  frameworks  de
+présentation, les différents composants graphiques proposés et mettre en œuvre par
+l'exemple les plus représentatifs par niveau de complexité (Simple / Moyen / Evolué)
+  Vous serez amené à prototyper une application simple pour justifier les choix.
+Industrialisation de la configuration des postes de développement :
+  Appropriation  de  l'outil  'Puppet'  pour  la  mise  en  œuvre  de  différents  scripts  de
+configuration automatique de postes de développement.
+Technologies  :
+Environnement de développement : ECLIPSE
+Langage : Java / HTML / CSS / Javascript
+Serveur d’application : TOMCAT
+Base de données : ORACLE ou MySQL
+Autres : Maven, Hudson, Sonar, ...
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée : Stage d'une durée de 6 mois, avec un démarrage le 1er trimestre 2014 ; ce stage
+doit déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure pertinente par rapport
+au domaine d’intervention.
+Lieu  : situé à Rennes (35)                                                                        - Réf : BF/J2EE
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

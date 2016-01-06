@@ -1,0 +1,62 @@
+﻿Stage  Generation  automatique  de  code  C++
+Société  Générale  France
+REFERENCE  :  ST/SM/ITEC/1013
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4961227
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement
+Le stage se déroule au sein de la direction de l'Informatique (ITEC) de la banque d'investissement
+de la Société Générale (SGCIB), et plus particulièrement dans le département Front-Office « Accès
+Marchés ».
+L'équipe Accès Marchés développe des serveurs et des librairies de passage d ordre et de réception
+de flux marché en C++, dans un contexte temps réel nécessitant de très bonnes performances.
+Ces librairies de passage d ordre et de réception de flux sont utilisées par des applications de trading
+fonctionnant dans des environnements techniques différents (par exemple C#, mais aussi java).
+Ce contexte nous impose de trouver les méthodes les plus efficaces permettant l utilisation de ces
+librairies dans d autres langages.
+Votre stage
+En collaboration avec votre maitre de stage qui assurera votre formation, vous participerez aux
+tâches suivantes:
+- Etablir un état de l'art des méthodes et outils permettant d effectuer de la génération automatique
+de code de C++ vers C# et Java
+- Mettre au point un prototype permettant d obtenir un wrapping automatique en C++ CLI dans un
+environnement C#
+- Intégrer la librairie générée dans une application de trading C# et mesurer le gain attendu de
+performances
+Votre profil
+
+
+
+
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur ou université avec une spécialisation en
+informatique.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec  les connaissance en développement.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Vous bénéficiez idéalement des connaissances en C++ et/ou C# est un plus.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+de niveau bac+5 en école d’ingénieur ou université avec une spécialisation en informatique
+d’anglais est opérationnel
+des connaissances en Développement C++ et/ou C# est un plus
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4961227
+
+
+
+
+

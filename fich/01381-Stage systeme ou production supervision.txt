@@ -1,0 +1,66 @@
+﻿ATOS  TECHNOLOGY  SERVICES  RECRUTE  UN/UNE  STAGE  SYSTÈME  OU  PRODUCTION
+SUPERVISION EN CDI TEMPS PLEIN.
+Date : 30/04/2014
+Référence de l’offre : 162084-6319085
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : CDI
+Localisation : Bezons 95000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires annuel de
+8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier des services
+informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et Infogérance BPO,
+ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son expertise technologique
+et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie, Distribution Services,
+Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services aux Collectivités.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services informatiques
+de proximité auprès de ses clients, en les accompagnant dans la mise en œuvre et l'évolution de leurs systèmes
+d'information. Plus de 2 000 experts de proximité accompagnent nos clients tout au long de leurs projets afin de
+les aider à s'adapter aux contraintes liées aux évolutions de leurs secteurs.
+Description du poste :
+Mission
+Intégré(e) chez notre Client, vous serez encadré(e) par un ingénieur expérimenté et  contribuerez aux missions
+liées à l'Ingénierie Système et/ou de production pour le compte de nos plus grands clients du secteur de la
+Finance.
+Vos missions sont  :
+Participer à la mise en oeuvre du Système de supervision  :
+-Inventaire, installation et  test de la supervision sur les environnements d'intégration et de production
+-Rédiger et/ou valider les  consignes d'exploitations associées aux alertes.
+-Rédiger les consignes et documentations spécifiques à la supervision.
+-Mettre à jour, adapter les scripts nécessaires à la supervision.
+-Mettre en œuvre les nouvelles solutions de supervision, adapter les outils et processus de supervision aux
+besoins techniques, fonctionnels et métiers
+Participer à l'administration système  :
+-Suivre et coordonner des changements et des opérations techniques
+-Rédiger/Mettre à jour des consignes
+-Rédiger la documentation sur les composants et  le fonctionnement des applications
+
+
+
+
+-Participer à la résolution des incidents de production
+Profil recherché :
+Profil
+De  formation  Bac+5  type  école  d'ingénieurs  ou  équivalent  universitaire,  vous   bénéficiez  d'une  première
+expérience en ingénierie système ou de production.
+Compétences techniques souhaitées :
+-Unix/Linux et Windows, Scripting Shell et Windows / powershell
+-SCOM et ordonnanceurs $U
+-virtualisation VMWARE
+Supervision  :
+-BMC Performance Manager dans un environnement Unix, PATROL Configuration Manager, enrichissements et
+filtrage des messages sous BMC Event Manager
+-supervision OpenSource Nagios
+La connaissance du monde bancaire est un plus. La pratique de l'anglais est nécessaire.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux
+personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Information additionnel
+Localisation : Paris et Ile de France
+Pour postuler : http://atos.contactrh.com/jobs/1536/6319085
+
+
+
+
+

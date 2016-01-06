@@ -1,0 +1,57 @@
+﻿Ingénieur informatique  (H/F)
+Crédit Agricole CIB
+REFERENCE  :  6268GIT/SP
+POUR POSTULER  :  http://ca.contactrh.com/jobs/1536/4309046
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris La Défense 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/09/2013
+DUREE  :  plus de 06 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Crédit Agricole CIB est la banque de financement et d’investissement du Groupe Crédit Agricole,
+6e banque mondiale par le total de bilan (The Banker, juillet 2012).
+Crédit Agricole CIB propose à ses clients une gamme de produits et services dans les métiers de la
+banque de marchés, de la banque d’investissement, des financements structurés et de la banque
+commerciale. La Banque accompagne les clients sur les grands marchés internationaux grâce à son
+réseau mondial dans les principaux pays d’Europe, des Amériques, d’Asie et du Moyen-Orient.
+ENVIRONNEMENT :
+Le département informatique de Crédit Agricole CIB est responsable de la conception, du
+développement, de la maintenance des applications, des systèmes, de la production informatique et
+de la gestion des infrastructures techniques de la Banque. A la pointe de l’innovation technologique,
+ses équipes accompagnent tant sur le plan technique que fonctionnel, les activités et projets de
+développement des différents métiers de la Banque de Financements et d'Investissement dans un
+environnement dynamique et international.
+DESCRIPTION DU POSTE  :
+Description de l’environnement :
+La relation client interne assure le suivi de la qualité des services fournis par la production
+informatique. Elle est l’interlocuteur privilégié des représentants Métiers et des responsables Etudes
+informatiques.
+Vos principales missions :
+Structurer et développer les outils de reporting du suivi d’activité Client. En partant d’un cahier des
+charges définissant les indicateurs d’activités, développer un outils de reporting permettant de
+publier les rapports d’activité pour chaque client de la production informatique à partir des
+informations de différentes sources et des différents outils/applications des équipes opérationnelles
+
+
+
+
+(base du personnel, outil de gestion des tickets, référentiel matériel…).
+Vos principaux interlocuteurs :
+GAM et Chargés de compte de La relation client.
+Responsables de l’équipe Reporting et Outils
+PROFIL  :
+Bac+4/5
+Formation : Ecole d’ingénieur/Informatique
+Spécialisation : Développement orientés WEB et SQL
+Outils informatiques : Outils bureautiques et outils de développement orientés WEB et SQL
+Langues : Anglais
+Qualité : Bon relationnel et force de proposition
+POUR POSTULER  :  http://ca.contactrh.com/jobs/1536/4309046
+
+
+
+
+

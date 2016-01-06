@@ -1,0 +1,46 @@
+﻿Aquafadas   est   une   société   innovante,   leader   sur   le   marché   de   l’édi4on   numérique   sur   table7es   et   smartphones.   Forte
+des   technologies   et   de   l’expérience   développées   au   cours   de   ces   années,   elle   est   aujourd’hui   parmi   les   entreprises
+technologiques   en   plus   forte   croissance   en   Europe.   Aquafadas   appar4ent   au   Groupe   Japonais   Rakuten,   leader
+mondial   de   l’   e-­‐commerce   (Priceminister,   Viber,   Viki…).
+Aquafadas   se   posi4onne   comme   une   société   de   référence   partenaire   technologique   des   professionnels   de   l’édi4on,   de
+la   presse   et   de   la   communica4on   en   général   à   l’assaut   du   marché   numérique.   Elle   a   développé   des   partenariats
+privilégiés   avec   des   éditeurs   comme   Bayard,   Lagardère,   Mondadori,   des   agences   comme   Publicis   et   Havas,   des
+entreprises   comme   Air   France,   EDF   et   Véolia,   elle   est   aussi   présente   l’interna4onal   avec   des   partenaires   comme
+Cambridge   University,   Egmont,   Shueisha   et   Hürriyet.
+Découvrez   les   ou:ls   Aquafadas   gratuitement   sur   h7p://www.aquafadas.com.
+Stage   (H/F)      -­‐   Développeur   C   ou   Objec:veC   ou   Java
+Projet:   Intégra:on   d’un   framework   de   communica:on   d’entreprise   pour   intégrer   les   tableMes/
+smartphones   dans   un   écosystème   éduca:f/académique
+Le   monde   de   l’éduca4on   s’appuie   sur   certains   standards   pour   faire   communiquer   entre   eux   toutes   les   composantes
+des   grands   systèmes   d’appren4ssage   u4lisés   dans   les   écoles,   les   grandes   universités   américaines,   etc…   Le   monde   de
+l’éduca4on    doit    s’adapter    à    de    nouveaux    challenges    liés    à    l’irrup4on    des    des    technologies    mobiles    là    où    -­‐
+précédemment   -­‐   les   étudiants   étaient   davantage   connectés   aux   réseaux   via   des   PCs.   Ce7e   nouvelle   configura4on   et   les
+probléma4ques   de   travail   hors   réseau   sur   des   supports   numériques   sont   au   coeur   du   sujet   proposé.
+Objec:fs   du   stage:
+1.                                                                                                                                                      Comprendre   et   u4liser   les   standards   d’interac4on   entre   ou4ls   éduca4fs   et   concevoir   une   architecture
+                                                                                                                                                        d’intégra4on   (framework)   perme7ant   de   les   exploiter   au   sein   d’une   applica4on   mul4média   de   lecture   de
+manuels   scolaires   et   d’exercices   interac4fs
+2.                                                                                                                                                      Intégra4on   de   ce   framework   dans   une   applica4on   de   lecture   de   contenus.
+3.                                                                                                                                                      Communica4on   /   documenta4on   du   travail   pour   que   d’autres   développeurs   puissent   faire   de   même   dans
+leurs   applica4ons.
+Votre   profil   :
+De   forma4on   Bac+3   minimum   en   développement   informa4que,   vous   avez   un   bon   niveau   en   développement   object   C+
++/Objec4ve   C   ou   Java.   Vous   possédez   idéalement   une   bonne   connaissance   des   architectures   d’applica4ons   mobiles.
+Qualités   recherchées:
+-­‐    Créa4vité,   passion   et   curiosité
+-­‐    Autonomie.
+-­‐    Bonne   abstrac4on   conceptuelle.
+-­‐    Esprit   analy4que   et   rigoureux.
+Condi:ons:
+Stage   à   pourvoir   dès   que   possible.
+Lieu   :   Montpellier,   Quar4er   du   Millénaire.
+Gra4fica4on   de   stage   selon   la   loi   en   vigueur.
+Vous   souhaitez   par4ciper   à   l'aventure   d'Aquafadas   et   concevoir   la   technologie   de   demain   dans   le   domaine   de   la
+lecture   de   livres,   magazines,   bandes-­‐dessinées,   contenus   riches   sur   table7es   e
+N'hésitez   plus,   rejoignez   nous   !
+Envoyez   nous   votre   candidature   (CV   +   Le7re   de   Mo4va4on)   à   l’adresse   suivante   :   stagesfaquafadas.com
+
+
+
+
+

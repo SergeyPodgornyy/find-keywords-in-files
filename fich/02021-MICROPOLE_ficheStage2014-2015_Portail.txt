@@ -1,0 +1,124 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : MICROPOLE                                                          Adresse : 91-95 rue Carnot
+Domaine d’activité : Conseil et intégration                                              Ville : Levallois Perret
+WEB/BI/CRM/MDM                                                                           N° téléphone : 0174187433
+Représentant de l’entreprise : Alain Phetsinghane                                        N° fax :
+Sa qualité : Chargé de recrutement                                                       Site Web : http// :www.micopole.com
+N° de Siret :                                                                            Courriel : aphetsinghane@micropole.com
+N° NAF :                                                                                 Signataire de la convention :
+Statut Juridique :
+Effectif de l’établissement :
+Nom de l’encadrant de stage : Surville Christophe                                        Chargé du suivi administratif : Aurélie Walle
+Sa qualité : Manager/directeur de projet                                                 Sa qualité : Chargé de mission RH
+Service : Micropole Grand Ouest                                                          N° téléphone : 0178147814
+N° téléphone :                                                                           Email : awalle@micropole.com
+Email : csurville@micropole.com                                                          Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …..Agence Micropole Grand Ouest
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ………Rennes ou Nantes
+……………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                              13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                           8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                  13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                       du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                     du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                       du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                   du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                       du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                      En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                      16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                     En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                      entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                    entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé :…………………  PROJET INTRANET / EXTRANET
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+HTML
+CSS
+Javascript
+Jalios JCMS
+JAVA
+Sujet proposé détaillé :
+Description  du  projet
+Ce projet a pour objectif la refonte d’un portail intranet extranet dans le secteur de la Banque  /
+Assurance.
+La solution s’appuiera sur la plateforme JCMS
+Tâches  à  réaliser
+Votre stage se déroulera dans le cadre d’un projet traitant de problématiques digitales.
+Intégré au sein d’une équipe projet, vous aurez pour rôle de travailler sur les sujets suivants :
+Conception, Modélisation, Spécifications techniques et fonctionnelles détaillées
+Développement et tests unitaires
+Tests d’intégration
+Documentation
+Assistance à la recette et retours de recette (suivi des anomalies et du reste à faire)
+Le stagiaire est accompagné par un chef de projet et un consultant senior.
+Au-delà de ces tâches, l’objectif est :
+d’apprendre et d’appliquer les bonnes pratiques dans le cadre d’un projet chez Micropole
+de participer à l’ensemble des étapes d’un projet (de la conception à la mise en production)
+de développer les capacités relationnelles (communication avec l’équipe et le client, réunions)
+d’accompagner le chef de projet dans ses tâches de gestion de projet (planification, avancement,
+estimation du reste à faire)
+UNIVERSITE DE RENNES 1                                                                                TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                 FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                              www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 900€ B                                                 Nom de l’Etudiant :
+Modalités de versement : mensuel par virement                                        Diplôme :
+Avantages en  nature  à  préciser :  ticket  restaurant                              +
+remboursement titre de transport public à 50%
+Temps horaire hebdomadaire : 35heures
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Candidature par email (cv + lettre de motivation : recrutement.ouest@micropole.com
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                               TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                             www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

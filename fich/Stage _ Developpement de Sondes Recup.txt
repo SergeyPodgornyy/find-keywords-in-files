@@ -1,0 +1,45 @@
+﻿Stage  / Développement de Sondes Récup
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226512 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4902085
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 5 à 6 mois.
+Vous rejoindrez l'équipe Cyberdéfense au sein de Cassidian CyberSecurity. Cette équipe a pour
+mission la mise en place et l'opération des capacités Cyberdéfense (analyse, construction,
+supervision, réponse à incidents).
+L'objectif du stage est d'améliorer la base de connaissances d'un outil de veille de sécurité en
+rajoutant de nouvelles sources d'information.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Comprendre les enjeux de la veille de sécurité
+- Ajouter des sondes passant les bulletins de sécurité de différents éditeurs
+- Connecter l'outil de veille à une solution de supervision de la sécurité
+- Améliorer un mécanisme de gestion de rapports.
+PROFIL  :
+Etudiant Bac+5 IT
+connaissances d'un/de langage(s) de Script, sécurité informatique
+qualités
+Autonomie
+Force de proposition
+Anglais:intermédiaire
+Français:courant
+
+
+
+
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4902085
+
+
+
+
+

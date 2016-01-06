@@ -1,0 +1,40 @@
+﻿MORPHO RECRUTE UN/UNE SIMULATEUR CAPTEURS BIOMÉTRIQUES H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 04/02/2015
+Référence de l’offre : OSN-STG-CETX-05-8782389
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : OSNY 95520, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Morpho, filiale de Safran, est le leader mondial sur le marché de la sécurité. La société emploie plus de 8 400
+personnes dans 40 pays et a généré en 2013 un chiffre d'affaires de 1,5 milliard d'euros. L'expertise unique de
+Morpho réside dans sa capacité à fournir des solutions de sécurité pour les marchés suivants : systèmes
+d'identification civile, sécurité publique, protection des infrastructures sensibles et des transports, solutions
+dédiées aux entreprises. Morpho est le leader mondial des systèmes automatisés d'identification biométrique,
+des documents d'identité biométriques et des systèmes de détection d'explosifs (SDE). Morpho est également
+l'un des principaux fournisseurs de cartes à puce, de cartes SIM, d'équipements de détection de traces et de
+terminaux de jeux. Avec des systèmes déployés dans plus de 100 pays, les solutions de Morpho sécurisent et
+facilitent la vie des personnes dans le monde entier.
+Description du poste :
+Le Centre d'Excellence Terminaux produit des capteurs, terminaux et logiciels biométriques.
+Ce stage s'inscrit dans l'amélioration de nos capteurs biométriques sur la partie traitement d'image.
+Le CET souhaite fournir un logiciel générique simulant les différents traitements images intégrés dans
+chacun des produits. Ce logiciel devra permettre de rejouer tout ou partie des traitements à partir d'une image
+fournie  en  entrée.  Il  devra  pouvoir  gérer  différents  types  de  capteurs,  présentant  des  caractéristiques
+communes mais aussi des caractéristiques spécifiques de réglage. Il servira à valider de manière unitaire les
+traitements intermédiaires. Le logiciel devra offrir une interface graphique si possible indépendante de la
+plate-forme matérielle (Windows, Linux, Android …)
+Le stagiaire devra proposer une architecture flexible et évolutive. Il sera en charge de spécifier, de développer
+et de valider le logiciel.
+Profil recherché :
+Ecole d'ingénieur (2ème année), Licence en informatique …
+Indépendant, orienté architecture logicielle, à l'aise en programmation, C/C++, Visual C++, QT ..
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8782389
+
+
+
+
+

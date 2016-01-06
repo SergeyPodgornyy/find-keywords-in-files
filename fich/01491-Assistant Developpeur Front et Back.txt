@@ -1,0 +1,39 @@
+﻿BIRD OFFICE RECRUTE UN/UNE ASSISTANT DÉVELOPPEUR FRONT ET BACK EN STAGE DE 3
+À 6 MOIS.
+Date : 01/09/2014
+Référence de l’offre : stg bird office-7352168
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : PARIS 75003, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Bird Office est la première plateforme collaborative de réservation de salles de réunion. Un service qui
+permet aux entreprises de mettre à disposition leurs salles de réunions souvent disponibles pour bénéficier
+d'une nouvelle source de revenus et d'élargir leur réseau professionnel. Bird Office est incubé à HEC et chez
+50 Partners. Lauréat de 101 Projets et du concours de levée de fonds HEC.
+Mickaël et Arnaud sont deux jeunes diplômés d'HEC aux parcours atypiques, lancés dès la fin de leurs
+études, ils ont crée ce projet qui ne cesse de grandir !
+Cette PME Beautiful recherche :
+un Assistant Développeur Front et Back Office PHP 5 (H/F)
+Description du poste :
+Bird Office est à la recherche d'un stagiaire qui aura pour mission d'accompagner le directeur technique CTO,
+notamment en ce qui concerne :
+- Le développement d'applications web (PHP objet, pas de framework nécessaire)
+- Gestion d'un serveur Debian (tâches cron,…)
+- Gestion d'une base de données MySQL
+- Connaissances requises : PHP, JavaScript, Jquery, CSS, MySQL
+- Connaissances en SEO
+Nous sommes à la recherche d'un profil polyvalent, autonome, curieux et motivé !
+Profil recherché :
+De formation minimum niveau Bac+3. Une première expérience en start up serait un plus.
+Début de stage souhaité en septembre prochain pour une durée de 3 mois minimum.
+Rémunération en fonction du profil
+Le stage aura lieu à Paris dans le Sentier.
+Pour postuler : http://smalliz.contactrh.com/jobs/1536/7352168
+
+
+
+
+

@@ -1,0 +1,70 @@
+﻿ATOS RECRUTE UN/UNE SUPPORT NIVEAU 2 H/F EN STAGE 6 MOIS.
+Date : 09/04/2015
+Référence de l’offre : 183484-9346646
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Lyon 69000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Caractéristiques du poste
+Mission
+Dans le cadre d'un projet à échelle régionale, nous recherchons des stagiaires dans le cadre d'un service de
+support sans déplacements, vous rejoindrez l'équipe de support dans nos locaux de Villeurbanne. Rattaché à
+un Responsable du service support, vous serez en contact avec le client final et aurez l'occasion de monter en
+compétences sur de nombreuses solutions logicielles d'exploitation.
+En qualité de Stagiaire support N2, vos principales responsabilités seront de :
+· Recevoir et prise en charges les incidents escaladés au Niveau 2
+· Investigation, tests complémentaires, escalade et suivi au Niveau 3 si besoin
+· MAJ de l'outil de suivi des incidents et gestion de la base de connaissances et d'inventaire
+· Diagnostiquer la panne et déclencher intervention s/site.
+· Aide téléphonique pour résolution complexe / Prise en main à distance
+· Mise en œuvre du catalogue applicatif /du paramétrage des serveurs
+
+
+
+
+Profil recherché :
+Profil
+Votre profil:
+En cours de formation maintenance et support Bac +2. Vous bénéficiez d'au moins une expérience réussie
+dans ce domaine. Vous avez le sens du service client, de l'initiative et une forte capacité à travailler en équipe
+afin de réaliser les objectifs du projet et créer de la valeur Vous avez un bon relationnelVous êtes adaptable,
+autonome, rigoureux, avez l'esprit d'équipe, le sens du service Vous savez faire preuve de créativité et d'esprit
+d'analyse dans un environnement de résolution de problèmes Vous possédez des aptitudes reconnues en
+leadership, communication orale et écrite ainsi qu'en gestion du temps
+Compétences techniques:
+Des compétences sur certains des sujets suivants seraient un plus :
+· Antivirus : Trend Micro
+· Gestion de parc : GLPI
+· Inventaire / Télédistribution : OCS Inventory NG
+· Supervision : Nagios / Centreon
+· Gestion des demandes : EasyVista
+· Administration d'infrastructure : Services DNS, WINS, DHCP, SNMP, etc.
+· Réseau : LAN, MAN, WAN, TCP/IP, IPX/SPX, WiFi, Routeur, Switch
+· Système d'exploitation : Windows Xp, Seven, 2012 serveur, Linux
+· Base de données : Mysql
+· Sauvegarde : Backup Exec, NT Back Up
+· Applications : TSE, OCS Inventory, Hyper V, Active Directory
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9346646
+
+
+
+
+

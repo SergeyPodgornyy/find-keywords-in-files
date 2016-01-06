@@ -1,0 +1,47 @@
+﻿LOGILAB RECRUTE UN/UNE ERGONOMIE APPLICATION WEB EN STAGE DE 3 À 6 MOIS.
+Date : 07/05/2015
+Référence de l’offre : Ergonomie Web-9619063
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75013, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Logilab développe des solutions logicielles, et propose des services et des formations de haut-niveau dans les
+domaines de l'informatique scientifique et de la gestion de connaissances, en utilisant des outils et méthodes
+agiles. La société s'est spécialisée dans l'utilisation de certains outils (Python, XML, CubicWeb, Salt, Debian,
+etc. et techniques                                                                                                 (génie logiciel, programmation multi-paradigmes, statistiques, logique, etc.) pour les
+appliquer aux domaines de l'informatique avancée (mise en œuvre d'agents intelligents, analyse du langage
+naturel, simulation, analyse de données, calcul scientifique, etc.) et de la gestion de connaissances (systèmes
+de gestion de connaissances, informatisation des processus de travail, agrégation de bases de données, outils
+de recherche et de veille, etc.).
+Les formations proposées dans le catalogue Logilab s'adressent en priorité aux ingénieurs désireux d'accroître
+leur culture informatique. Elles couvrent des sujets variés (Python, XML, conception orientée objet, mais
+aussi Salt) et sont systématiquement adaptées aux besoins des participants, qu'il s'agisse de sessions intra ou
+inter-entreprises.
+Acteur du Logiciel Libre, la société met à disposition certains de ses développements sur son site logilab.org.
+La plate-forme CubicWeb est un logiciel libre dont le développement a été initié par Logilab. Elle est
+aujourd'hui utilisée par de nombreux grands comptes pour déployer des applications alliant les avantages du
+Web 2.0 et du Web 3.0.
+Description du poste :
+Intégré à l'équipe R, sous la tutelle d'un ingénieur spécialiste de l'architecture Web et de la plate-forme
+CubicWeb, vous lui apporterez votre soutien sur les aspects concernant l'ergonomie et l'expérience utilisateur
+et serez amené à effectuer :
+- analyser une ou plusieurs applications CubicWeb existantes et recueillir les retours de leurs utilisateurs,
+- rédiger une série de recommandations concrètes pour améliorer l'ergonomie des applications étudiées.
+Profil recherché :
+Profil souhaité :
+- HTML (bonnes connaissances)
+- GNU/Linux (connaissances de base)
+- CSS (bonnes connaissances)
+- JavaScript (bonnes connaissances)
+- Mercurial (connaissances de base)
+- Python (connaissances de base)
+- Étudiant BAC+4/+5 en informatique.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9619063
+
+
+
+
+

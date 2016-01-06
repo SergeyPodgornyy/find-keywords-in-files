@@ -1,0 +1,31 @@
+﻿ACTEDEV
+44, rue du Grand-Jardin
+35400 SAINT-MALO
+Tél. : 02 30 96 62 75
+Fax : 02 30 96 31 65
+Mail : contact@actedev.fr
+ENTREPRISE
+La société malouine ACTEDEV éditrice de logiciel a développé 3 types de logiciels :
+   Actedev : logiciel métier pour le développement économique.
+   Sup’Hotline : logiciel de helpdesk.
+   Médiation : logiciel métier pour les services de médiation et espaces rencontre.
+L’entreprise ACTEDEV se positionne comme le spécialiste de l’édition d’une gamme de logiciel
+dédiée au métier des agences et services de développement économique, sociétés informatiques et
+association de médiation. L’entreprise emploie 4 personnes.
+MISSIONS
+   Développement d’application mobile sous Jquery.
+   Développement sous WebDev.
+PROFIL
+Nous souhaitons accueillir un(e) stagiaire dynamique, autonome et faisant preuve d’initiatives et de
+créativité.
+STAGE
+    Fonction : Développeur
+    Type de formation : Continue/initiale
+    Démarrage : Au plus tôt
+    Type de contrat : Stage conventionné. Rémunération selon législation.
+    Localisation : Saint Malo (35400)
+
+
+
+
+

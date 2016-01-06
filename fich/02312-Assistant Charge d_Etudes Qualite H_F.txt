@@ -1,0 +1,39 @@
+﻿CREDIT MUTUEL ARKEA (SIÈGE) RECRUTE UN/UNE ASSISTANT CHARGÉ D'ETUDES QUALITÉ
+H/F EN STAGE DE 4 À 6 MOIS.
+Date : 10/02/2015
+Référence de l’offre : AS CHAR ET-1060-8825399
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : BREST 29200, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Regroupant les Fédérations régionales en Bretagne, dans le Sud Ouest et le Massif Central, le Crédit Mutuel
+Arkéa développe ses activités dans les domaines de la banque, de la finance et des assurances. Fort de
+l'expertise de ses 9000 collaborateurs et de ses 20 filiales, respectueux de ses valeurs mutualistes fondatrices,
+le Crédit Mutuel Arkéa est reconnu pour sa capacité d'innovation qui lui permet de répondre aux besoins de
+ses 3,2 millions de sociétaires et clients.
+Description du poste :
+STAGE (2 à 3 mois)
+Le département Banque à Distance recherche un(e) stagiaire pour son service Pilotage Qualité Test.
+Ce service est en charge de la gestion du cycle de mise en production des outils, depuis la recette projet
+jusqu'à la surveillance de la QS en production en passant par la non-régression.
+Durant le stage, vous assisterez l'équipe à travers 5 missions essentielles :
+- Etablir un inventaire exhaustif de la documentation disponible sur les différents outils
+- Analyser et « périmétrer » le besoin
+- Définir et proposer une architecture de la solution à mettre en place
+- Mettre en place l'architecture cible et participer à sa rédaction
+- Documenter la maintenance de la solution déployée.
+Profil recherché :
+Vous préparez un diplôme Bac+ 3/+4 dans le domaine de l'informatique ou équivalent et vous souhaitez
+participer à un projet dans son intégralité au sein d'un département à forte dominante technique.
+Vous maîtrisez le langage HTML Javascript et vous avez un appétence pour les outils de documentation
+(WIKI,Webshare). Idéalement, vous avez une connaissance du XWiki.
+Enfin, vous avez une aisance rédactionnelle et vous aimez le travail en équipe.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8825399
+
+
+
+
+

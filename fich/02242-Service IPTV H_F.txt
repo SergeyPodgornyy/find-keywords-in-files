@@ -1,0 +1,34 @@
+﻿CAPGEMINI RECRUTE UN/UNE SERVICE IPTV H/F EN STAGE DE 5 À 6 MOIS.
+Date : 15/01/2015
+Référence de l’offre : ST-TM-3941-8597131
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                 Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Le rôle grandissant des opérateurs dans l'IPTV a permis à Capgemini de se positionner en tant qu'acteur
+majeur de ce secteur.
+A ce titre, Capgemini intègre, en partenariat avec ViaccessOrca, une solution permettant le déploiement de
+services IPTV pour la télévision, le mobile ou tout équipement connecté à internet.
+Dans le cadre de votre mission vous contribuez pleinement, au sein d'un projet d'intégration, à la conception,
+au développement et à la validation de plateformes de services IPTV
+Vous acquérez ainsi la visibilité complète sur un projet de bout en bout, dans un environnement opérationnel
+et d'envergure international.
+Profil recherché :
+BAC +5
+Technologies: IPTV, Java et Eclipse, Webservices, REST, SQL
+Méthodologie : Visual Management, Intégration Continue
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8597131
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿Stagiaire développement java/J2EE H/F
+Atos Intégration
+REFERENCE  :  155904
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4561160
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Nantes 44000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 18/09/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION DU POSTE  :
+Mission :
+Dans le cadre d’un Centre de Services NTIC de 80 personnes, Atos maintient et fait évoluer un
+ensemble d’applications dîtes critiques pour le service publique et des grandes entreprises dans le
+domaine l'industrie, du transport, des services et de la Finance.
+Intégré au coeur de l'équipe projet, assisté par un chef de projet et une équipe d'experts, vous
+devenez un acteur à part entière du dispositif.
+Vous prenez part à tout le cycle de fabrication.
+Vous assurez des tâches de maintenance corrective et préventive.
+Vous développez les évolutions fonctionnelles et techniques
+Vous améliorez les référentiels, la qualité du code et sa performance, et l'outillage.
+Environnement technologique :
+Java, J2EE, Eclipse, Struts, WebLogic, Spring, Hibernate, Swing, Oracle, SQL, PL/SQL, Junit,
+SVN, HP-QC, Jenkins, Sonar, EJB, JMS, Webservices, et de nombreux autres Frameworks
+Objectifs pédagogiques :
+
+
+
+
+Ce stage destiné à des étudiants performants permet de remplir les objectifs pédagogiques suivants :
+Maîtrise technique (J2EE, Oracle, Frameworks, Tests unitaires, Intégration continue)
+Compréhension des enjeux et des engagements
+Développement en mode industrialisé (Normes, Outils)
+Travail en équipe en conditions opérationnelles réelles et encadrées
+Méthodologie (approche rigoureuse et analytique)
+Adaptabilité (alternance possible sur plusieurs applications selon plan de charge et urgence)
+PROFIL  :
+Profil
+De formation Bac+5 en informatique (Ecole d’ingénieur) en cours de validation, vous recherchez
+un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Vous maîtrisez impérativement JAVA et vous justifiez de stages informatiques significatifs.
+Rigoureux et méthodique, vous avez envie de vous investir sur des projets complexes qui
+nécessitent un sens aigu du service et de la performance. Vous souhaitez exprimer vos talents au
+service de l'équipe, du projet et de l'entreprise.
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle Atos recrute.
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4561160
+
+
+
+
+

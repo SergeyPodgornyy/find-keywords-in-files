@@ -1,0 +1,67 @@
+﻿Développement Java/J2EE dans un projet international
+Atos, acteur international des services
+Votre mission
+informatiques avec un chiffre d’affaires
+annuel de 8,7 milliards d’euros et
+Contexte :                                                                     78.500 collaborateurs dans 42 pays,
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue
+                                                                               fournit à ses clients du monde entier des
+Management ont la responsabilité de projets d’évolutions d’applications de     services transactionnels de haute
+facturation et de gestion des offres pour un opérateur Telecom figurant
+                                                                               technologie, des solutions de conseil,
+parmi les leaders mondiaux des prestations de services de
+                                                                               d’intégration de systèmes et
+télécommunications destinées aux multinationales.                              d’infogérance.
+                                                                               Atos délivre les technologies qui
+Mission :                                                                      accélèrent le développement de ses
+Intégré au sein d’une équipe projet et encadré par un ingénieur                clients et les aide à réaliser leur vision de
+expérimenté, vous participerez aux différentes phases d’un projet
+                                                                               l’entreprise du futur. Atos est le
+informatique dans un mode de fonctionnement Offshore (Front Office basé        partenaire informatique mondial des
+à Rennes, Back Office basé à Mumbaï, Inde).
+                                                                               Jeux Olympiques. Le Groupe est coté sur
+Le stage s’organisera autour des phases successives d’un tel projet :
+                                                                               le marché Eurolist de Paris et exerce ses
+    Analyse des besoins du client,                                            activités sous les noms d’Atos, Atos
+    Etude d’impact,                                                           Consulting, Atos Worldline et Atos
+    Rédaction des spécifications,                                             WorldGrid.
+    Développement,                                                            Pour plus d’information : www.atos.net
+    Validation des prestations réalisées par l’équipe Back Office
+(Mumbaï, Inde).                                                                Ce stage est basé à Rennes
+Environnement :                                                                Si ce stage vous intéresse,
+Client léger, JAVA/J2EE, JSP, AJAX, JavaScript, CSS, HTML, log4j, Tomcat,      déposez votre candidature à l’adresse
+suivante :
+Frameworks JSF, Hibernate, Oracle 10g, Eclipse,UML, Power AMC
+http://fr.atos.net/fr-
+fr/emplois_carrieres/postulez
+Objectifs pédagogiques :
+ou contactez: Jean-Charles.Coeuru@atos.net
+Ce stage vous permettra d'acquérir, dans un contexte Offshore,
+Référence du stage : 157005
+l’expérience d’un cycle complet d’un projet informatique, de l’analyse des
+besoins jusqu’au déploiement de la solution définie. Le produit de ce stage
+devra être conduit conformément aux règles projet en vigueur (processus,
+Qui êtes-vous ?
+qualité). Cela offre au stagiaire la possibilité de s’intégrer dans l’équipe
+                                                                               De formation Bac +4/5 en informatique
+Front Office du projet, de participer et de découvrir le fonctionnement d’un
+                                                                               (Ecole d’ingénieur ou université) en
+projet dans un modèle Offshore (équipe Front Office à Rennes, équipe Back
+                                                                               cours de validation, vous recherchez un
+Office en Inde (Mumbaï). Techniquement, ce stage permet d’acquérir des
+                                                                               stage d’une durée de 4 à 6 (dates
+compétences dans un environnement Java/J2EE.
+                                                                               variables selon l’école). Anglais
+souhaité. Une première expérience en
+technologies JAVA/J2EE serait un plus
+apprécié.
+Une proposition d’embauche en fin de
+stage est envisageable, sur le site de
+votre stage, ou, si vous le désirez, dans
+toute autre région dans laquelle AOSI
+recrute.
+
+
+
+
+

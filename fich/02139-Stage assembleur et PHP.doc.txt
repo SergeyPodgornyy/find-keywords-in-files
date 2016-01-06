@@ -1,0 +1,23 @@
+﻿Proposition  de  stage  sur  4  à  6  mois
+Amélioration  d’un  programme  sous  assembleur
+associé  à  une  base  de  données  SQL  d’un  site  Internet
+1.                                                                                                                     ravaux  envisagés
+    Amélioration  d’un  logiciel  en  assembleur  sur  micro­contrôleur  PIC  en  association  avec  une  base  de
+données  SQL  gérée  sur  un  site  Web.
+­                                                                                                                     Gérer  un  lecteur  de  badges  de  proximité   sur  une  carte  électronique  équipée  d’un  micro­
+contrôleur  PIC  dont  le  programme  embarqué  a  été  rédigé  en  langage  assembleur.
+­                                                                                                                     Améliorer   les  services  du  produit  pour  se  former  à  l’assembleur  et  comprendre  les
+programmes  en  PHP.
+2.                                                                                                                     ompétences  requises
+­                                                                                                                     Formation  supérieure  en  informatique  de  type  bac+3/5
+­                                                                                                                     Avoir  réalisé  des  développements  de  projet  d’informatique  industrielle  en  langage  C
+­                                                                                                                     Connaitre  le  PHP  et  le  langage  SQL
+3.                                                                                                                     émunération  proposée
+­                                                                                                                     Fixe  de  500  €
+Stage  basé  à  Clamart  (92).
+Merci  de  transmettre  votre  candidature  à  joel.nogues@diesetelecom.com    /  01  45  36  17  71
+
+
+
+
+

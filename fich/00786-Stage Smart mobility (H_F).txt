@@ -1,0 +1,64 @@
+﻿Stage  Smart  mobility  (H/F)
+Atos  Technology  Services
+REFERENCE  :  154525
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078384
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Nice 6000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 04/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier,  des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie.  Atos est présent dans 47 pays, compte 77 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et
+l’évolution de leurs systèmes d’information. Plus de 3 000 experts de proximité accompagnent nos
+clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions
+de leurs marchés.
+DESCRIPTION  DU  POSTE  :
+Nous vous proposons d’intégrer et d’assister une équipe de consulting appartenant à la direction
+technique d’ATS Sud-Est. Cette équipe répond aux demandes d’expertises techniques, audits,
+missions d’accompagnement et conseil, très orientées J2EE pour des acteurs locaux tels que la
+CNAF (portail caf.fr ...).
+Afin de répondre aux nouveaux besoins qui émergent chez nos clients, nous faisons évoluer en
+permanence nos prototypes de démonstration technologique. En particulier nous avons un prototype
+de plateforme mobile hybride (crossplatform) afin d’éprouver les nouveaux framework. Vous aurez
+donc à charge de maintenir et faire évoluer ces prototypes visant les smartphones et tablettes.Vous
+prendrez également part aux diverses études clientes menée par l’équipe.
+Travaux à réaliser :
+•                                                                                                          Participer aux travaux de recherche et d’étude technique (R&D)
+
+
+
+
+•                                                                                                        Rédiger des rapports/synthèses d’étude (Recommandations, …)
+•                                                                                                        Participer à des audits pouvant porter sur la qualité ou le respect de normes/standards
+•                                                                                                        Réaliser des prototypes ou composants mobile ou tablette.
+Livrables attendus :
+Synthèses d’étude, documents de restitution, développement.
+Technologie :
+HTML5, CSS3, Framework mobile : Jquery Mobile … , Phonegap, Responsive Design, Javascript
+Objectifs pédagogiques :
+Mise en œuvre de client mobile et tablette consommant des services et ressources exposées par
+unbackend JEE.
+Profil
+Dans ce cadre nous recherchons un étudiant en dernière année d’école d’ingénieur de spécialisation
+developpement mobile ou IHM avec un gout prononcé pour les nouvelles technologies et le
+graphisme.
+Vous êtes mobile, créatif(ve), avez le sens du travail en équipe et maîtrisez la langue anglaise.
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le
+désirez, dans toute autre région dans laquelle Atos recrute.
+PROFIL  :
+Le stage est localisé à Sophia-Antipolis.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078384
+
+
+
+
+

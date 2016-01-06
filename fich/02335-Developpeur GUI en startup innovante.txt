@@ -1,0 +1,47 @@
+﻿PARIS INCUBATEURS RECRUTE UN/UNE DÉVELOPPEUR GUI EN STARTUP INNOVANTE EN
+STAGE DE 4 À 6 MOIS.
+Date : 17/02/2015
+Référence de l’offre : SI_gui_15-8891020
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 18 75018, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Paris Co recrute pour l'une de ses entreprises, Smart Impulse, une startup en croissance rapide, fondée par
+trois jeunes ingénieurs de l'Ecole Centrale Paris, qui ambitionne de révolutionner le monde de la gestion de
+l'Énergie.
+Smart Impulse a développé une technologie innovante qui permet d'obtenir la répartition de la consommation
+de chaque type d'appareil dans un bâtiment à l'aide d'un seul compteur électrique, le Smart Analyzer.
+Description du poste :
+dans des projets à la pointe de l'innovation ?
+Smart Impulse cherche un profil clé au sein de son équipe R pour développer une interface spécifique aux
+algorithmes d'analyse des consommations électriques, issus des travaux de recherche effectués à Smart
+Impulse, afin de permettre une utilisation supervisée de ces algorithmes, et donc des performances accrues.
+Vous serez amené(e) à travailler au sein de notre équipe R, notamment :
+* comprendre et se familiariser avec l'utilisation des algorithmes développés par l'équipe de recherche ;
+* développer un logiciel permettant d'interagir, à travers une interface graphique, avec les algorithmes
+d'analyse                                                                                                         (choix des données d'entrée, lancement, modification dynamique des paramètres, corrections
+humaines interactives, …) ;
+* participer à l'ensemble des étapes du projet : conception, choix des outils et du langage de programmation,
+développement.
+LE CADRE
+* Une startup en pleine expansion, dans un incubateur, jeune équipe commerciale et R de 13 personnes
+* Bureaux à Paris avec terrasse, cafétéria, ...
+Profil recherché :
+* Etat d'esprit
+Esprit d'initiative, autonomie, enthousiasme, positive attitude, envie d'apprendre/utiliser des technologies et
+outils les plus innovants, curiosité scientifique, rigueur dans le développement, travail et communication en
+équipe, attrait pour les startups.
+* Compétences techniques
+* langages orientés objets ;
+* bonnes bases en python (langage utilisé pour les algorithmes Smart Impulse);
+* interfaces graphiques : web (HTML/CSS/JS) et logicielles (Qt, etc.);
+* familiarité avec les outils de suivi de version (git), utilisation de Linux.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8891020
+
+
+
+
+

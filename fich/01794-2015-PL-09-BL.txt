@@ -1,0 +1,47 @@
+﻿Offre de stage                                                                                    2015 - PL - 09 - BL
+
+Sujet                                                                                             Développement d’une librairie java de génération automatique d’IHM
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision par
+satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet, Thomson
+Video Networks  offre  à ses clients  - des opérateurs  de réseaux, des  fournisseurs  de
+contenus ou des opérateurs Pay-TV -  la diffusion d’une qualité vidéo supérieure vers tous
+Entreprise
+types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ  500 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+4 à 6 mois à partir de
+Lieu / Site                                                                                       Rennes                                                                            Période / Durée
+février/mars 2015
+Contexte :
+Missions                                                                                          Développement logiciel au sein de l’équipe Network Management System chargée de
+développer les produits XMS/XMU d’exploitation et supervision des systèmes de diffusion
+de TV numérique.
+Sujet de stage :
+Conception et développement d’une librairie en java qui devra permettre de générer
+automatiquement une IHM de configuration pour tout ou partie des   attributs d’un objet
+Java donné en entrée.
+L’objectif final étant la possibilité de faire évoluer l’IHM à tout moment sans recompilation
+des sources Java, le paramétrage de l’IHM se fera donc sur la base de fichiers de propriétés
+décrits en XML ou dans des fichiers de scripts.
+Environnement de travail :
+Java (sous Eclipse), Swing, XML
+Introspection Java, expressions régulières, Xpath, JXpath, Scripting Groovy
+Gestion de configuration CVS/SVN
+Méthode AGILE, UML
+Ingénieur en informatique.
+Profil                                                                                            Maîtrise de Java et des concepts liés à la production d’IHMs (Swing)
+Rigoureux, communicant, créatif, capable d’initiative et force de proposition
+Forte capacité d’abstraction
+Gout prononcé pour l’écriture de code modulaire et générique
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    bruno.larrouyat@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

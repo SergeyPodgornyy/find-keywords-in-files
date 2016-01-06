@@ -1,0 +1,41 @@
+﻿Fiche de proposition de sujet pour « stagiaire ingénieur»   P2                                                                                                                                     2836
+Année 2014
+Division :      SDS
+Département / service :  SDS
+Nom du tuteur                                               ICT 2 Mathieu FOURNES
+Coordonnées                                                 Tel : 02 99 42 90 13 - email : mathieu.fournes@dga.defense.gouv.fr
+Diplôme préparé, niveau                                     Ingénieur option informatique ou Electronique Informatique
+de connaissances
+requis                                                      INSA , ENST Br, ISTIC, …
+Ecole pressentie
+Nature des travaux
+Domaine précis et                                           Intitulé réduit du stage : " Etude, développement  et mise en place d’outils pour la réalisation d’expérimentations "
+travaux demandés
+                                                            La division SDS de DGA-MI participe à la mise en place d’expérimentations au titre de différentes opérations d’armement afin de
+                                                            préparer les phases de qualification. Les intérêts de ces expérimentations sont :
+-                                                           Dé-risquer les points techniques,
+-                                                           Définir les métriques d’évaluation,
+-                                                           Aider à la définition et à la réalisation des tests de qualification.
+                                                            Les travaux à remplir par le stagiaire consisteront à :
+-                                                           Etudier des interfaces de systèmes (électroniques et/ou informatiques) constitutifs de configurations d’expérimentations,
+-                                                           Etudier et définir des architectures matérielles pour la mise en place d’expérimentations,
+-                                                           Réaliser ou adapter des outils logiciels et simulations utiles aux expérimentations (supervision, outils de déploiement, passerelle,
+                                                            analyse de métriques …),
+-                                                           Réaliser des  prototypes de solutions nécessaires à l’architecture déployée en test, et contribuer à les mettre en œuvre,
+-                                                           Effectuer de la veille technologique concernant les moyens utiles aux expérimentations.
+Compétences requises :
+    Développement logiciel (.Net C#, Java, C/C++),
+   Electronique,
+    Une connaissance de système GPS serait un plus,
+                                                                                                                                                                                                       Des compétences en simulation distribuée (HLA, DIS) seraient un plus.
+                                                            Formule administrative                                                                                                                 Convention gratifiée
+souhaitée
+Durée                                                       (court, long,                                                                                                                          5 à 6  mois
+apprentissage)
+                                                            Période souhaitée                                                                                                                      Fév. 2014 - Juil. 2014
+Habilitation *                                                                                                                                                                                     NC
+
+
+
+
+

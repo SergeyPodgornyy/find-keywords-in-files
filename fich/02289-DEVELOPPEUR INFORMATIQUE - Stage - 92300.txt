@@ -1,0 +1,51 @@
+﻿OPENSOURCING  RECRUTE  UN/UNE  DEVELOPPEUR  INFORMATIQUE  -  STAGE  -  92300  EN
+STAGE DE 4 À 6 MOIS.
+Date : 03/02/2015
+Référence de l’offre : OS/SC/STGI-8773323
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Levallois-Perret 92300, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Vous souhaitez intégrer une start-up et participer à son développement ?
+Vous souhaitez travailler dans un environnement moderne et convivial ?
+OpenSourcing, cabinet de recrutement recherche dans le cadre de son développement informatique un:
+DEVELOPPEUR INFORMATIQUE
+Stage
+Type de contrat : Stage de longue durée (6 mois ou plus)
+Lieu de travail : Levallois Perret (92)
+Dès Février 2015
+Description du poste :
+Descriptif
+Dans le cadre du développement du nouveau site de l'entreprise (disponible prochainement) et d'un nouveau
+logiciel de recrutement, vous serez en charge de la maintenance et de l'évolution de ces derniers (Back
+office/Front office).
+Profil recherché :
+Compétences requises :
+La programmation orienté objet n'a plus de secret pour vous
+Vous êtes à l'aise avec l'utilisation d'un framework MVC
+Vous savez utiliser un système de versionning (GIT)
+Vous avez de solides bases sur les serveurs Apache, MYSQL et SSH
+Langages utilisés :
+- Vous parlez couramment la langue du code (PHP / MYSQL / ELASTICSEARCH)
+- Des notions en Node.js / Redis seraient un plus
+Pour mener à bien cette mission, il est souhaitable que vous ayez un niveau d'étude minimum BAC+4 ou
+BAC+5 et plus en Ecole d'Ingénieurs.
+Vous êtes autonome et êtes capable de prendre des initiatives pour réagir rapidement aux différentes
+problématiques.
+
+
+
+
+Vous êtes flexible et faites preuve de faculté d'adaptation dans un environnement  « start-up  » à forte
+croissance.
+Indemnité de stage selon niveau et expérience.
+Intéressé ? N'hésitez plus ! Envoyez votre CV
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8773323
+
+
+
+
+

@@ -1,0 +1,35 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 : Remise en service et validation
+d'un banc de test CEM automatisé (H/F)
+Réf. 1411642
+Lieu : Thales Communications & Security - Cholet (49)
+Durée : env. 6 mois
+Contexte et missions :
+Au sein du domaine Hardware technologies, Tools and Engineering  (HTE) et du secteur Architecture et
+Maîtrise de la Solution (AMS), le service AMR offre des prestations d'expertise aux différents laboratoires de
+Thales Communications & Security dans le domaine de la radio pour la conception d'architectures et la
+définition de solutions techniques.
+Vous aurez pour missions :
+ Le démarrage du banc : remise à jour moyens PC dédiés au déploiement du logiciel de commande du
+banc, caractérisation des sondes E et H existantes, analyse du besoin labos en sondes de champ E et H
+(conception éventuelle) et définition d’une référence de mesure permettant de valider le banc.
+ La mise en œuvre de mesures sur cartes ou équipements : identification préliminaire des points sensibles
+CEM, cartographie des champs E et H au niveau des points identifiés, mesures étendues à l’ensemble de
+la carte, proposition de correction matérielle à appliquer (banc, capteur), validation banc de mesure (limite à
+définir) et étude du meilleur environnement électromagnétique hors cage de Faraday dans lequel disposer
+le banc.
+ La documentation : édition d'un guide pratique pour la mise en œuvre du banc.
+Connaissances souhaitées : MATLAB
+Indemnité mensuelle brute : 1250                                                                                  €
+Au sein de nos équipes, nous vous offrons :
+   du challenge,
+   des opportunités de carrière,
+   et des technologies innovantes pour rendre le monde plus sûr.
+Le monde mérite un bel avenir.
+Vous aussi.
+Pour postuler : https://www.thalesgroup.com/fr/homepage/carrieres (Réf. 1411642)
+
+
+
+
+

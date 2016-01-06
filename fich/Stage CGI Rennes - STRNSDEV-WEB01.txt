@@ -1,0 +1,54 @@
+﻿Intégration en équipe
+TMA pour des
+développements WEB
+Fondée en  1976, CGI est un fournisseur mondial de s    ervices en                                              OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  de                        s  processus                  RENNES
+d’affaires  qui  offre  des  services-conseils  en  manag                         ement  ainsi
+                                                                                                                Contactez ?
+que des services d’intégration de systèmes et d’out                               sourcing.
+                                                                                                                Keiza BARBIN : keiza.barbin@cgi.com
+Avec  69  000  professionnels  présents  dans  40  pays  et                       répartis                      et Stéphanie LEPEIGNEUL :
+dans  400 bureaux partout dans le monde, nous conjug                              uons une                      stephanie.lepeigneul@cgi.com
+présence  locale  à un vaste  éventail  d’expertises.  V     oilà  la force                                     Offre de stage référence :
+de notre engagement.                                                                                            ST/RNS/DEV-WEB/01
+OBJECTIF DU STAGE
+Intégrer la TMA qui couvre les évolutions des applications d’administration
+et de statistiques des réseaux mis à disposition par le client pour ses clients
+entreprises.
+Vous  intégrez  une  équipe  de  10  personnes  dans  les  locaux  de  notre
+agence de Rennes.
+Applications WEB :
+                                                                                  -                                                                   Serveur d’applications : Tomcat, JBOSS
+                                                                                  -                             Lotus Domino,
+                                                                                  -                                                                                                                                                                          Technologies J2E (Framework : Struts ; Spring ; Hibernate )
+                                                                                  -                                                                                                             OS : SUN Solaris, Linux, Windows 2000 et 2003
+                                                                                  -                             SGBD : Oracle, MySQL
+                                                                                  -                             Navigateurs : IE, Firefox
+                                                                                  -                                                                   Méthodologie : V, Scrum, Kanban
+MISSIONS
+                                                                                                                                                                                                                                                            l’acquisition des connaissances informatiques et fonctionnelles sur
+                                                                                                                                                      une ou plusieurs applications du projet
+                                                                                                                                                                                                                                                                 la  compréhension  et  la  participation  à  la  rédaction  des  analyses
+                                                                                                                (techniques et/ou fonctionnelles)
+                                                                                                                                                                                                    le   développement   sur   différentes   applications                                                                                    (évolutions   et
+                                                                                                                corrections)
+    la rédaction des plans de tests et la participation aux campagnes de
+tests
+    Vous  bénéficierez  d’une  formation  en  interne  liée  au  contexte
+spécifique (technique et fonctionnel)
+PROFIL
+    Formation BAC+2 ou plus
+    Connaissance des technologies Web   (HTML, java, …)
+    Connaissance  des  bases  de  données  (par  exemple  Oracle  ou
+mysql et le langage SQL)
+                                                                                 Bonne pratique de l’anglais
+    Bon relationnel
+                                                                                                                www.cgi-recrute.fr
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+© 2013 GROUPE CGI INC.
+www.cgi-recrute.fr
+
+
+
+
+

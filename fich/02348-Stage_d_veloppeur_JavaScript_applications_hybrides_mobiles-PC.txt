@@ -1,0 +1,39 @@
+﻿Objet : Offre de stage -
+Stage développeur JavaScript applications hybrides mobiles/PC
+Début : dès que possible                                                                          Durée : minimum 3 mois   Lieu : Madrid, Espagne
+Niveau(x) d'études : Bac +3/+4/+5
+L´entreprise :
+SPOTI.IO est une société espagnole basée à Madrid et
+présente  en  Europe  spécialiste  du  développement
+d'applications hybrides publicitaires pour mobiles et PC.
+Nous gérons également une plate-forme technologique
+publicitaire pour les mobiles et PC.
+Pour plus d´informations :    http://spoti.io
+@SpotiHD
+Mission :
+Nous recherchons des stagiaires pour:
+   Développer des applications hybrides mobiles/PC à partir du framework Ionic en
+langage Angular
+   Résoudre les problèmes en implémentation de services Web en utilisant REST
+   Connaissances en développement JavaScript MVC: AngularJS, Node.js, JavaScript,
+jQuery...
+   Expérience de travail avec HTML5, AJAX, CSS et les technologies de front-end
+   Un  acteur  qui  contribue  de  manière  significative  à  la  construction  du  code,  son
+architecture, sa performance, sa robustesse et sa fiabilité
+   Une personne dynamique qui apporte énergie, passion et créativité tous les jours
+Profil recherché :
+Rigoureux (se), impliqué(e) et autonome, vous êtes organisé(e) et faites preuve d'un bon
+esprit d'initiative et d’équipe. Le développement de logiciels open-source sur des plateformes
+collaboratives du genre GitHub est un plus. La maitrise de l´espagnol n’est pas requise (nous
+pouvons même donner des cours) mais l’anglais est indispensable. Ambiance start-up.
+Rémunération : Possibilité de bourse Erasmus stage évaluée à 500€.
+
+
+
+
+Pour postuler :    Envoyer votre candidature à :    remi@spoti.io
+
+
+
+
+

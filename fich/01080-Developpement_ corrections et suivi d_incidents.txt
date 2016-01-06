@@ -1,0 +1,61 @@
+﻿Développement,  corrections  et  suivi  d’incidents
+Atos  Intégration
+REFERENCE  :  160684
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5470519
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 17/12/2013
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION  DU  POSTE  :
+Contexte :
+Dans le cadre des activités du site de Rennes, l’équipe Atos a la responsabilité des développements
+d’une application stratégique de gestion de la relation client pour un grand opérateur de téléphonie
+fixe et mobile. Ce projet, en technologie J2EE, met en œuvre de nombreux concepts informatiques
+de pointe (architecture haute disponibilité, interconnexions par WebServices avec tout le SI de
+l’opérateur).
+Mission :
+Au sein de l’équipe Atos, vous serez intégré dans une équipe TMA Maintenance Production d’une
+application CRM Telecom.
+Vous serez en charge de l’analyse, du développement et du suivi d’incidents de production
+relativement à une application exigeante en termes de performance et de réactivité.
+Environnement :
+
+
+
+
+JAVA/J2EE, Eclipse, Amdocs Clarify, Client léger, XML, Oracle, PL/SQL, Unix, PVCS
+Dimensions, Mantis, Control M.
+Objectifs pédagogiques :
+Dans un contexte de production soumis à des contraintes fortes, ce stage vous offrira une expérience
+du travail dans une équipe au cœur de l’actualité, en lien avec les autres équipes au sein d’un grand
+projet.
+Techniquement, ce stage vous permettra d’acquérir des compétences sur de l’outillage professionnel
+(HPQC, Mantis) et d’approcher un progiciel métier de la relation client.
+PROFIL  :
+Profil
+De formation Bac +5 en informatique (Ecole d’ingénieur ou université) en cours de validation, vous
+recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle AtoS recrute.
+Ce stage se déroulera à Rennes.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5470519
+
+
+
+
+

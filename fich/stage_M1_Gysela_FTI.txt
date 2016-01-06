@@ -1,0 +1,78 @@
+﻿Stage de Master 1 :
+Tolérance aux pannes dans un code de
+simulation pour la fusion nucléaire
+Sujet Intégration de la bibliothèque de tolérance aux pannes FTI au code de simulation
+pour la fusion nucléaire Gysela5D
+Compétences requises Bonne connaissance du langage Fortran et/ou C, maîtrise de
+l’environnement Unix/Linux, intérêt pour la programmation parallèle, Anglais
+Durée Stage de Master 1, environs deux mois
+Lieu Maison de la Simulation - CEA Saclay
+Responsable Julien Bigot  (julien.bigot@cea.fr  -  01  69  08  01  75) et Guillaume Latu
+(guillaume.latu@cea.fr)
+Contexte
+Un besoin majeur pour maîtriser la fusion nucléaire
+dans des réacteurs comme ITER est de comprendre
+les mécanismes qui influent sur le confinement de la
+chaleur au sein du plasma où a lieu la fusion. Gyse-
+la5D (a 5D GYrokinetic SEmi-LAgrangian code for
+fusion plasma simulation) est un code utilisé pour
+simuler  les  instabilités  qui  se  développent  dans  le
+plasma et ont un grand impact sur ce confinement.
+L’exécution de telles simulations nécessite des res-
+sources de calcul particulièrement importantes qui
+ne peuvent être obtenues qu’en tirant parti du pa-
+Coupe d’un Tokamak :
+rallélisme massif des plus grands super-calculateurs
+réacteur pour la fusion
+disponibles.
+Une exécution récente sur la machine Juqueen (5ème machine la plus puissante au
+monde en 2012) a utilisé jusqu’à 458 000 cœurs de calcul en parallèle, une simulation sur
+la machine Jade (18ème machine en 2010) a nécessité un mois de calcul. L’utilisation
+d’un tel nombre de cœurs pendant des durées de cet ordre pose des problèmes liés aux
+pannes. En effet, même si chaque cœur est relativement fiable, la multiplication des cœurs
+multiplie les risques de panne. Aujourd’hui, les plus gros calculateurs subissent une panne
+nécessitant le remplacement de composants jusqu’à plusieurs fois par semaine. Dans ces
+conditions, l’exécution de grosses simulations (plusieurs jours sur plusieurs dizaines de
+milliers de cœurs) est quasiment assurée d’être interrompue par une panne et de ne
+jamais pouvoir terminer.
+
+
+
+
+Une solution pour tolérer ces pannes consiste à sauvegarder l’état de la simulation
+sur disque régulièrement pour pouvoir la reprendre en cas de panne, on parle de check-
+point/restart. Cette sauvegarde pose des problèmes de performances liés à la grande
+taille des données à écrire (plusieurs téra-octets). L’augmentation de la taille des ma-
+chines va rendre ce problème encore plus critique et le risque est de passer plus de temps
+à sauvegarder qu’à calculer. La bibliothèque FTI propose une approche intéressante
+pour accélérer cette opération en tirant parti des multiples disques SSD disponibles sur
+certains super-calculateurs.
+Description détaillée du stage
+Au cours de ce stage vous devrez comprendre le mécanisme actuellement implémenté
+dans Gysela5D pour la sauvegarde de son état sur disque. Gysela5D est développé en
+Fortran à 95% et parallélisé avec OpenMP et la bibliothèque MPI. Il existe deux implé-
+mentations de la sauvegarde sur disque dont l’une est en C et l’autre en Fortran. Ces
+deux implémentations utilisent la bibliothèque d’entrés-sorties HDF5.
+Vous devrez étudier et comprendre comment s’utilise la bibliothèque FTI développée
+en C. Votre travail consistera à permettre l’utilisation de cette bibliothèque en plus des
+deux implémentations actuelles pour la sauvegarde de l’état des simulations Gysela5D.
+Vous devrez valider vos modifications en vérifiant que les résultats obtenus lors de
+l’exécution de simulations ne sont pas impactés. Vous aurez pour cela accès à un cluster
+de calcul comportant plus de mille cœurs.
+Ce stage pourra se poursuivre par l’étape suivante consistant à évaluer et analyser
+les performances de cette nouvelle approche sur de très grandes machines. Cette suite
+pourrait prendre la forme d’un stage de Master 2, voir d’une thèse.
+Logiciels utilisés
+Gysela5D   est un code développé principalement au sein de l’Institut de Recherche
+en Fusion Magnétique (IRFM) du CEA Cadarache avec de nombreuses collaborations
+(Maison de la Simulation, Inria, CPT Marseille, IRMA Strasbourg, IPP Garching, LPP
+Paris, Montreal University, ...)
+FTI   est  une  bibliothèque  développée  par  l’équipe  de  Franck  Cappello  à  l’Argonne
+National  Laboratory  (ANL).  Le  code  est  disponible  sur  http://sourceforge.net/
+projects/hpc-fti/,  l’approche  adoptée  est  présentée  dans  l’article  https://wiki.
+ncsa.illinois.edu/download/attachments/18188759/fti-5.pdf.
+
+
+
+
+

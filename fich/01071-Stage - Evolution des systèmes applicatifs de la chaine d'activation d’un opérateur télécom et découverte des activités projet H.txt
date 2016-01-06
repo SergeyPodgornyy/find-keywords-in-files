@@ -1,0 +1,76 @@
+﻿SOPRA  GROUP  RECRUTE  UN/UNE  STAGE  ­  EVOLUTION  DES  SYSTÈMES
+APPLICATIFS  DE  LA  CHAINE  D&#39;ACTIVATION  D’UN  OPÉRATEUR
+TÉLÉCOM  ET  DÉCOUVERTE  DES  ACTIVITÉS  PROJET  H/F  EN  STAGE  DE  5  À  6
+MOIS.
+Date  :  1/12/13
+Référence  de  l’offre    :  STAGE/TELCO/RENN/4116378­5506769
+Domaine  d’activité    :  20500  (20518)
+Type  de  contrat    :  Stage
+Localisation    :  Rennes  35000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Sopra  Group,  acteur  majeur  du  conseil,  des  services  technologiques  et  de  l'édition  de
+logiciels  en  Europe,  accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs
+métiers  et  de  leurs  systèmes  d'information.  Combinant  valeur  ajoutée  et  innovation  dans
+les  solutions  apportées,  qualité  industrielle  et  performance  des  services  délivrés,  Sopra
+Group  est  le  partenaire  de  référence  des  grandes  entreprises  et  organisations  qui
+recherchent  le  meilleur  usage  du  numérique  pour  assurer  leur  développement  et  leur
+compétitivité.  Sa  filiale,  Sopra  Banking  Software,  est  un  éditeur  leader,  spécialisé  dans
+les  solutions  applicatives  pour  le  marché  financier.  Le  Groupe  compte  plus  de  15  000
+collaborateurs  et  a  réalisé  un  chiffre  d'affaires  2012  de  1  217  millions  d'euros.  Sopra
+Group  (SOP)  est  coté  sur  NYSE  Euronext  Paris  (Compartiment  B)  -  Code  ISIN:
+FR0000050809.  Pour  plus  d'informations,  retrouvez­nous  sur  www.sopragroup.com.
+Au  sein  de  Sopra  Group,  vous  êtes  rattaché(e)  à  la  Division  Telecom  &  Media  qui
+regroupe  plus  de  700  collaborateurs  et  qui  intervient  au  cœur  des  Systèmes  d'Information
+de  ses  clients.  Son  expertise  métier  (OSS,  Provisioning,  Mediation,  Rating/  Billing,
+Revenue  Assurance,  CRM,  Business  Intelligence,  Broadcasting...)  et  ses  compétences
+techniques  multiples  font  de  Sopra  Group  un  acteur  majeur  dans  le  domaine  des
+Télécoms  et  des  Médias.
+Description  du  poste    :
+Mission
+Au  sein  du  système  d'information  d'un  opérateur  télécom,  le  domaine  Activation  assure
+l'interface  entre  les  systèmes  de  commercialisation  et  les  éléments  du  réseau.  Cela  permet
+aux  clients  de  disposer  de  leur  service  en  quelques  minutes.
+Le  principe  de  l'application  est  de  transformer  les  ordres  commerciaux  en  ordre
+techniques.  L'application  doit  traiter  les  informations  en  haute  performance  et  surtout  en
+haute  disponibilité.
+
+
+
+
+Dans  un  premier  temps,  vous  vous  familiariserez  à  l'environnement  du  projet  sur  le  site  de
+Rennes  :
+­ présentation  de  l'application  et  de  son  contexte  au  sein  du  système  d'information  du
+client
+­ formation  aux  outils  spécifiques  du  projet
+­ développements  d'outils  spécifiques  au  projet
+Dans  un  second  temps,  vous  intégrerez  notre  site  basé  en  Inde  afin  de  participer  aux
+développements  de  modules  spécifiques  gravitant  autour  des  solutions  d'activation.  Lors
+de  cette  étape,  vous  serez  accompagné(e)  de  votre  tuteur  pour  vos  premiers
+développements  (revue  de  code,  support  technique,  conseil).
+Intérêt  du  stage
+­ travailler  en  équipe  dans  un  contexte  international  (langue  de  travail
+anglais/déplacement  en  Inde)
+­ acquérir  une  première  expérience  du  travail  en  équipe  dans  un  environnement  multi­site
+­ renforcer  ses  compétences  techniques
+­ acquérir  une  première  expérience  sur  des  activités  fonctionnelles
+­ utiliser  les  méthodologies  et  le  système  de  qualité  Sopra  Group
+Environnement  technologique/fonctionnel
+Java  /J2EE  -  Oracle  /  SQL  &  PL/SQL.
+Environnement  humain
+Intégré(e)  directement  à  une  équipe  opérationnelle,  vous  serez  encadré(e)  par  un  Chef  de
+Projet  qui  assurera  un  suivi  détaillé  de  l'activité  dans  le  cadre  des  procédures  appliquées
+sur  les  projets  clients.
+Profil  recherché    :
+Actuellement  en  dernière  année  d'école  d'ingénieurs  ou  Master  2  informatique,  vous  avez
+des  connaissances  en  programmation  Java.  Vous  faites  preuve  d'une  curiosité  pour  un
+environnement  humain  interculturel  et  maîtrisez  l'anglais.  Vous  disposez  de  bonnes
+qualités  rédactionnelles.
+Pour  postuler    :  http://sopra­group.contactrh.com/jobs/1536/5506769
+
+
+
+
+

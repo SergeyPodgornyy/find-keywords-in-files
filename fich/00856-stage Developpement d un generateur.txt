@@ -1,0 +1,62 @@
+﻿stage  Développement  d  un  générateur
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC/1113
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5212299
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement
+Au sein de la banque d’investissement, vous intégrerez l’équipe Informatique (ITEC) qui gère l
+application de Prêt-Emprunt de Titres et de Repo utilisée par les Front et Middle Office.
+Votre stage
+Sous la responsabilité de votre tuteur, vous participez aux missions suivantes : Concevoir,
+développer et tester un générateur d instruments financiers complexes en C#.
+Ce générateur sera intégré aux systèmes existants pour enregistrer de nouvelles transactions,
+notamment :Trading electronique, Import en masse de transactions, Usine de tests
+Apport du stage
+Ce stage vous permettra de :
+-Travailler sur un des plus gros framework financier de la Banque, développé par plusieurs
+centaines de développeurs simultanément.
+-Travail en équipe.
+-Découverte de nouvelles méthodologies de développement: agilité, Test Driven Development,etc.
+Mais également de découvrir des Technologies de pointe : .NET C# 4.x, cloud computing, real time
+messenging, etc.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école de commerce, d’ingénieur ou université avec une
+spécialisation en Système d’information.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec C#, Design Pattern.
+
+
+
+
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Vous bénéficiez idéalement des connaissances en SQL (Oracle), TDD est un plus.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+5 avec une spécialisation en Système d’information.
+A l’aise avec C#, Design Pattern.
+Des connaissances en SQL (Oracle), TDD est un plus.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5212299
+
+
+
+
+

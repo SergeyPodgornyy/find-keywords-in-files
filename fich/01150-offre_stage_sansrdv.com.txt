@@ -1,0 +1,37 @@
+﻿Activité de l’entreprise :
+Start-up (en pleine croissance) de prise de rendez-vous médicaux en ligne, nous permettons aux internautes de
+trouver rapidement un rendez-vous avec un médecin proche de chez eux et aux patients de prendre rendez-vous
+avec leurs médecins 7j/7 et 24h/24 directement sur Internet.
+Nous proposons également aux médecins de créer pour eux leur propre site Internet et application IPhone.
+Pour plus de détails, vous pouvez consulter notre site internet : www.sansrdv.com
+Mission :
+Nous proposons un stage de fin d’études (de 6 mois environ) en développement Web, en vue qu’une embauche à
+temps plein (CDI) en fin de stage.
+Au sein de notre société, vous participerez au développement de nos différents outils informatiques :
+- Conception et développement d’un nouveau FrontOffice
+- Optimisation des performances
+- Conception et développement d’applications mobiles
+- Interfaçage avec des applications métiers
+- Veille technologique
+Compétence(s) souhaitée(s) (La connaissance de l'ensemble de ces critères n'est pas requise) :
+- Connaissances en développement Web (côté client) avec HTML / CSS / Javascript / jQuery / AJAX
+- Connaissances en développement Web (côté serveur) avec ASP.NET C# / SQL
+- Connaissances des outils de développement Visual Studio
+- Méthodologie : Programmation objet, Design Patterns, MVC (Modèle Vue Contrôleur)
+Niveau requis :
+Etudiant de formation supérieure (Bac +5 / +4) dans le domaine informatique (Master, Ecoles d’informatique...).
+Autonome, envie d'apprendre de nouvelles technologies, esprit d'équipe.
+Accès et localisation :
+Le stage se déroulera sur 2 sites différents.
+L’un situé à Viry-Châtillon (91), l’autre situé à Paris centre (déménagement en cours du site de Viry-Châtillon vers le
+site de Paris).
+Site de Viry : Accessible en transport en commun, ligne RER D arrêt Viry-Châtillon.
+Nous faire parvenir CV + lettre de motivation à aurelien@sansrdv.com
+Merci d'indiquer dans votre CV ou votre lettre de motivation, vos expériences en développement (personnel,
+professionnel et/ou projets scolaires), les tâches que vous avez réalisées, que ça concerne les technologies
+mentionnées ci-dessus ou non.
+
+
+
+
+

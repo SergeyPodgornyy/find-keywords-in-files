@@ -1,0 +1,55 @@
+﻿Objet : Offre de stage étudiant
+Fonction :  Développeur Logiciel / Analyste-Programmeur
+Entreprise : Excel TI (Technologies de l'Information)
+Lieu : Québec (Canada)
+Date de stage : Mars/Avril 2015 à Août 2015
+Compensation : Ce stage est non rémunéré mais le logement et le loyer sont pris en charge par
+Excel TI.  De plus, l'étudiant est éligible à une bourse de stage à l'étranger
+offerte
+par son université/école (l'étudiant  doit contacter le service des Relations
+Internationales de son université/école pour déposer son dossier)
+Description  :
+Excel TI est une entreprise canadienne (Québecoise)spécialisée dans les technologies de l'information.
+Au sein d’une équipe dynamique et en contact direct avec les clients, vous intégrerez le groupe-projet
+chargé d’améliorer le comportement de solutions informatiques et  vous serez en mesure d’approfondir
+vos connaissances sur de nouvelles technologies.
+Vous aurez en charge les tâches suivantes :
+  Programmation : Coder, programmer, customiser le comportement des solutions informatiques
+en fonction des spécifications techniques définies avec le client.
+  Documentation : Documenter l'architecture, l'utilisation et le fonctionnement du code
+développé.
+  Déploiement / Mise en production : Participer à la mise en production des développements en
+s’appuyant sur votre connaissance du code.
+  Maintenance : Analyser, debugger, et réaliser la maintenance corrective et les évolutions du
+code.
+  Tests : Rédiger des plans de tests pertinents par rapport aux nouveaux développements. Créer
+des tests unitaires aidant à valider la non régression du code entre chaque version.
+Profil Recherché  :
+Etudiant en 2ème ou 3ème année d'école d'ingénieurs Informatique.
+OU
+Etudiant en Master 1 ou Master 2 en Informatique/Génie Logiciel/Mathématiques Appliquées à
+l'Informatique.
+
+
+
+
+Compétences :
+  Maîtrise de la programmation orientée objet
+  Connaissance des environnements Unix et/ou Windows
+  Connaissance d'un système de gestion de bases de données (ex :Oracle, MYSQL, etc..)
+  Connaissance en SQL
+  Connaissance en XML
+  Connaissance des protocoles de communication client/serveur
+  Connaissance d'un ou plusieurs langages de programmation (ex : Java, C, C++, C#, Cobol etc...)
+Atouts :
+  Connaissance du développement J2EE, JSP, .NET, Spring,Struts,  Hibernate, CSS, JavaScript,
+jQuery.
+Le candidat ou la candidate doit faire parvenir son curriculum vitæ, accompagné d’une lettre de motivation au
+plus tard le 31 Octobre   2014 à l'adresse suivante: excelti2000@gmail.com
+Excel TI remercie tous les candidats de leur intérêt. Cependant, nous communiquerons uniquement
+avec les candidats retenus.
+
+
+
+
+

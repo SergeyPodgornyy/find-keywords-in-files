@@ -1,0 +1,47 @@
+﻿Keyrus recrute en France plus de 260 collaborateurs en 2015 !
+Acteur international de référence du conseil et de l’intégration de solutions de Business Intelligence et d’e-Business
+pour les grands comptes et de solutions ERP/CRM pour le Mid Market, Keyrus emploie à ce jour plus de  1900
+collaborateurs dans 15 pays et accompagne ses clients dans l’optimisation de leur performance.
+Moteur de croissance du Groupe Keyrus notre activité Business Intelligence et Performance Management a pour
+mission  d’accompagner  les  entreprises  sur  trois  axes  de  services  complémentaires                                -  Conseil,  Intégration  et
+Exploitation - afin de répondre efficacement et globalement à leur besoins croissants de définition et mise en œuvre
+de solutions de gestion de la Performance au sein de leurs Systèmes d’Information.
+Dans le cadre du développement de cette activité, nous recherchons plusieurs :
+Stagiaires Ingénieur(e) Projet (H/F)
+Mission                                                                                                                  : Stage rémunéré en entreprise avec perspective d’intégration Keyrus en CDI
+Durée                                                                                                                    : 5 à 6 mois
+Localisation                                                                                                             : Lyon, Limonest (Rhône), Aix en Provence (Bouches du Rhône) et Rennes (Ille et Vilaine)
+Description du poste
+Dans  le  cadre  du  développement  de  nos  pôles  Business  intelligence  et  Stratégies  Digitales,  nous  formons
+régulièrement des stagiaires à devenir rapidement opérationnels pour accompagner nos équipes dans la réalisation
+et/ou la maintenance des systèmes de production de nos clients.
+Vous intégrerez le processus de formation, d’évaluation et d’accompagnement délivré par notre Département de
+formation interne. Vous bénéficierez en outre d’un manager de proximité durant le stage, d’une aide à la préparation
+de votre mémoire et de votre soutenance. Nous vous accompagnerons aussi sur le développement de votre savoir
+faire et savoir être. Vous apprécierez une ambiance de travail et un état d’esprit jeune et passionnant.
+Vous participerez activement à la conception et à la réalisation de nos projets :
+De mise ne place de solutions décisionnelle
+De Gestion des données d’entreprises (Big Data - MDM…)
+D’élaboration de solutions Analytiques
+De mise en place de portails WEB d’entreprise/E-commerce
+Le périmètre technique couvert par nos projets englobe les dernières versions des outils :
+SAP BusinessObjects, IBM (Cognos, Datastage), Microsoft BI, Oracle (OBIEE, ODI), Informatica, Talend, Qlikview,
+Tableau, R, SAS, Hadoop, Java, PHP, JavaScript.
+Connaissances techniques souhaitées
+Bonne connaissance des environnements des bases de données (Oracle, SQL Server ….)
+Bon niveau en développement
+Bonnes capacités rédactionnelles
+Bon niveau d’anglais.
+Qualités requises
+Dynamisme, rigueur, implication et capacité de travail en équipe
+Bonne communication écrite / orale
+Curiosité et initiative
+Niveau d’études
+Diplômé Bac +3 à Bac +5 en informatique (Ecole d'Ingénieur ou cursus universitaire)
+Votre contact pour l’envoi de votre CV & Lettre de motivation (référence : Stage BI2015) :
+Recruiting-EntreprisesEtRegions-Trainees@keyrus.com
+
+
+
+
+

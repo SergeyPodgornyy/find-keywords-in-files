@@ -1,0 +1,70 @@
+﻿Stage  - Développement d’applications Java J2EE pour les métiers
+des Assurances et de la Protection Sociale H/F
+Sopra Group
+REFERENCE  :  STAGE/ISSFAPS/ORL/4140040
+POUR POSTULER  :  offre4598149.1536@sopra-group.contactrh.com sous la référence
+STAGE/ISSFAPS/ORL/4140040
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Orléans 45000, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Assurances et Protection Sociale qui
+regroupe 500 collaborateurs et intervient sur les grands projets de transformation des SI de nos
+clients, principaux acteurs du marché. Nous offrons notre expertise des processus métier (GRC,
+BPM, BI) et accompagnons nos clients grands comptes dans leurs évolutions aux travers des
+activités de Conseil et d’intégration de systèmes et solutions.
+DESCRIPTION DU POSTE  :
+Mission
+Vous intégrerez l'une des équipes du centre de compétences Assurances et Protection Sociale basé à
+Orléans et dédié à la production des projets pour des acteurs majeurs de ces domaines (assurances,
+mutuelles, grands groupes de protection sociale, régimes spéciaux de retraite). Ces projets suivent
+une méthodologie de projet industrielle et outillée qui vous permettra de disposer d’une expérience
+solide dans un contexte professionnel reconnu. Ils exploitent des environnements techniques J2EE
+standards sur lesquels vous serez mis(e) à niveau en début de stage.
+Vous participerez à l'ensemble des étapes clés :
+- développement en Java/J2EE
+- réalisation des tests unitaires
+- réalisation de dossiers de conception
+- phases de qualification
+
+
+
+
+Intérêt du stage
+- participer à un projet d’évolution ou de maintenance du SI d’un acteur majeur dans le domaine de
+l'assurance ou de la protection sociale sur une architecture Java J2EE
+- approfondir vos compétences J2EE en intégrant une équipe d'Ingénieurs confirmés
+- mettre en œuvre les méthodes de conduite de projet Sopra Group et expérimenter les outils
+associés
+- découvrir le quotidien d’une équipe et la gestion d’un projet au forfait
+Environnement technique
+Java, J2EE, Struts, Hibernate, Spring, SQL, Eclipse, JBoss, Maven.
+Environnement humain
+Intégré(e) à l’une des équipes projet du centre de compétences Assurances et Protection Sociale,
+vous serez encadré(e) par un Chef de Projet et disposerez d’un tuteur sur toute la durée de votre
+stage.
+PROFIL  :
+Actuellement en dernière année école d’Ingénieurs ou Master 2 informatique, vous êtes curieux(se),
+vous avez le sens du service et vous aimez travailler en équipe. Vous êtes capable de vous adapter
+rapidement à différentes situations.
+POUR POSTULER  :  offre4598149.1536@sopra-group.contactrh.com sous la référence
+STAGE/ISSFAPS/ORL/4140040
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE DEVELOPPEMENT OUTIL DE TESTS DE NON
+RÉGRESSION H/F EN STAGE 6 MOIS.
+Date : 24/04/2014
+Référence de l’offre : STMH/ITEC/96133-6277312
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement :
+Au sein de la Direction des Systèmes d'Information, vous prendrez part à la définition des spécifications
+fonctionnelles et techniques des logiciels. Vous contribuerez à la conception, au développement et à l'assemblage
+de composants logiciels. Vous collaborerez aux différentes phases de test et de recette. Enfin, vous veillerez au
+respect des dispositions qualités et des normes de programmation ainsi qu'à la maintenance des applications.
+Vous intégrerez une équipe de 8 personnes qui est en charge de l'application de réconciliation du P L'équipe
+effectue régulièrement manuellement des tests de non régression.
+L'objectif du stage est de concevoir et développer un outil destiné à automatiser et sécuriser les tests de
+non-régression effectués à chaque nouvelle version de l'application. Il devra simuler l'activité quotidienne du
+logiciel  en  jouant  un  scénario  prédéfini,  puis  contrôler  et  comparer  les  résultats  obtenus  avec  la  version
+antérieure.
+Vos missions :
+A ce titre et en collaboration avec votre maitre de stage qui assurera votre formation, vous participerez à la
+conception et à la réalisation de cet outil. Pour cela, vous participerez à l'ensemble des phases de ce projet :
+- Etablissement de l'expression de besoin
+- Rédaction des spécifications fonctionnelles et techniques
+- Chiffrage
+- Développement de l'application en C# .Net 4.0 (Winforms ou ASP.Net selon votre étude) et Oracle 11g
+- Livraison
+- Assistance de l'équipe de développement pour les premières exploitations
+Dans le cadre de la phase de réalisation, nous attendons que vous intégriez la software factory en utilisant les
+librairies standards telles que Log4Net, MbUnit, NHibernate ou encore, Spring.Net et en respectant les Best
+practices en vigueur.
+Profil recherché :
+
+
+
+
+Votre profil H/F :
+Vous  êtes  étudiant(e)  de  niveau  Bac                                                                          +5  en  Écoles  d'ingénieur  ou  Université  avec  une  spécialisation  en
+Informatique (développements logiciels).
+Vous avez de bonnes connaissances en développement, idéalement en C# et .net. Vous avez également de bonnes
+connaissances développement base de données (Oracle).
+Par ailleurs, vous avez un anglais opérationnel.
+Les apports du stage :
+Ce stage constitue une très bonne initiation aux métiers de l'informatique et vous permettra d'acquérir une
+connaissance approfondie des activités de développement logiciel au sein d'un grand groupe international.
+Et si c'était vous?
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis rencontrerez un
+opérationnel pour un entretien de motivation.
+Durée du stage : 6 mois
+Stage basé à : Paris-La Défense
+Gratification selon grilles SG.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6277312
+
+
+
+
+

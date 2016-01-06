@@ -1,0 +1,57 @@
+﻿INFORMATIQUE                                                                                                             STAGE   2013-2014
+DEVELOPPEMENT APPLICATION
+JAVA  - ORACLE
+Stage rémunéré
+                                                                                                                         Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 03_2014_DOPSI_INTEGRATION
+                                                                                                                         informatique  interne  au  Groupement  U
+                                                                                                                         (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 6 mois - Période : 1er semestre 2014
+                                                                                                                         mission  la  centralisation  et  l'uniformisation
+                                                                                                                         des ressources informatiques des magasins U
+et des centrales.
+                                                                                                                         Chaque  année  nous  accueillons  une  douzaine  de
+stagiaires   qui   rejoignent   une   équipe   de                                                                        500
+Le GIE IRIS rationalise les systèmes de supervision de son informatique.
+                                                                                                                         collaborateurs qui travaillent dans un environnement
+Pour  simplifier  les  processus  d'alimentation  des  différents  outils  de
+technique constitué de 500 serveurs (Unix, Windows,
+supervision,  une  application  unique  doit  être  mise  en  place.  Cette
+AS400), 1800 équipements réseaux et une centaine de
+application  devra  s'interconnecter  avec  les  outils  de  supervision,  les
+bases de données, répartis dans les Datacenters et
+référentiels de l'entreprise et l'outil de gestion d'incident.
+reliés aux 1423 points de vente du groupe.
+En immersion complète dans des projets
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+La mission consiste à mettre en œuvre le projet de développement de l'application dans                                   capacités méthodologiques.
+son ensemble :
+Rédaction des spécifications détaillées
+Développement de l'interface (Java - WebLogic - Oracle)
+Développement des interfaces d'interconnexion avec les outils (Nagios, HP NNM, InfoVista, Isilog, …)
+Recette
+Pilotage de la mise en production de l'ensemble de la solution
+Les développements devront être réalisés en conformité avec les standards et les méthodes du GIE IRIS.
+Des formations au mode projet du GIE et à l'utilisation des frameworks et outils spécifiques seront dispensées dans le
+cadre de la mission.
+Supervision et outils : Nagios, Infovista, HP NNM, Isilog
+JAVA 6 et FrameWork GWT 2.4,  Spring 2.5.5 et Hibernate 3.3.0
+IDE : Eclipse
+OS : AIX, HP-Ux, Linux RedHat, Windows 2008
+BAC + 5 Informatique, Ecole d'Ingénieurs ou Universitaire
+Connaissances techniques :
+o   Langage JAVA et connaissance des FrameWork GWR 2.4, Spring et Hibernate exigé
+o   Connaissance des langages de scripts PowerShell sous Windows et Unix (Bash, Perl, …) souhaités
+Qualités requises :
+o    Autonomie, motivation et rigueur exigées
+o    Faculté de rédaction et esprit de synthèse obligatoire
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

@@ -1,0 +1,44 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT DÉVELOPPEUR JAVA H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-ADM-3467-8373116
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Grenoble, Rennes, Paris, Nantes 00000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                               Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                              2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+L'entité ADM est une unité qui a pour vocation la gestion industrielle de patrimoine applicatif pour nos
+clients grands comptes.
+Les principales activités sont la maintenance évolutive et de développement de d'évolutions majeures (50%),
+le support fonctionnel (40%) et la maintenance corrective et préventive (10%) des projets de nos clients.
+Votre mission se déroule dans le cadre de la maintenance de logiciels et de développement d'évolutions
+majeures pour l'un de nos clients sur des périmètres fonctionnels tels que la gestion de portefeuille grands
+comptes, la gestion d'offres de services,etc...
+Vous participez à la conception et au développement de nouvelles fonctionnalités d'un applicatif métier.
+Immergé(e) au sein d'une équipe, vous êtes formé(e) aux méthodologies de développement et aux processus
+qualité en vigueur à Capgemini.
+Le contexte technologique du projet est : Java, JEE, Oracle,etc...
+Profil recherché :
+De formation supérieure Bac+4/5 en informatique en écoles ou universités, vous :
+* aimez les challenges,
+* avez une expérience en développement sur un langage de programmation,
+* maîtrisez l'anglais.
+Ce stage vous offre la possibilité de :
+* participer à des projets de grande envergure pour nos clients grands comptes,
+* bénéficier d'une formation adaptée à nos métiers,
+* évoluer au sein d'une équipe projet composée de consultants informatique.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373116
+
+
+
+
+

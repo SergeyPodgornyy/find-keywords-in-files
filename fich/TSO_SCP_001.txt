@@ -1,0 +1,47 @@
+﻿Technicolor R&D France Snc                                                                            tél. + 33 (0)2 99 27 30 00
+Proposition de stage de fin
+975 av des Champs Blancs - CS 17616                                                                   fax + 33 (0)2 99 27 30 01
+d’études - Année 2014
+35576 Cesson-Sévigné Cedex - France
+Ref Proposition : TSO_001
+Intitulé du stage
+Ref : TSO_001 : Développement d’un scanneur de vulnérabilité pour automatiser des tests de non-
+régression sécurité
+Résumé du sujet
+Développement  d’un  scanneur  de  vulnérabilité  pour  automatiser  des  tests  de  non-régression
+sécurité. Les produits ciblés seront des Set-Top-Box ainsi que des Gateways xDSL et câble.
+Sujet détaillé
+Contexte
+Dans le cadre du processus de développement sécurisé des produits Technicolor, nous
+recherchons un stagiaire développeur orienté sécurité avec un esprit hacker pour nos
+produits Set-Top-Box et Gateways xDSL et câble.
+But
+Nous avons un prototype de scanneur de vulnérabilités qu’il faut stabiliser, améliorer et
+enrichir. Le but final étant l’automatisation des tests pour les vulnérabilités connues et
+recensées dans notre base de données.
+Description des travaux
+Le scanneur est actuellement développé en Perl. Une première partie du stage sera
+l’analyse et la compréhension de l’existant. Ensuite, en lien avec le maitre du stage, il
+faudra décider s’il faut repartir sur un scanneur complètement nouveau ou améliorer
+l’existant.
+Dans une dernière étape, le développement d’un outil de recherche de nouvelles failles
+peut être envisagé.
+Ce  stage  permettra  d’acquérir  une  compétence  en  vulnérabilités  sur  les  systèmes
+embarqués.
+Mots clés
+Développement, SVN, Linux, Perl, sécurité, vulnérabilité, audit
+Environnement de travail
+Petite équipe, beaucoup de produits cibles.
+Profil du stagiaire / Compétences requises
+Master 2
+Geek Linux/BSD orienté sécurité et un esprit hacker ayant une bonne expérience en
+développement logiciel, de préférence maîtrisant le langage Perl. Un ou des projets open-
+source sur CPAN ou équivalent serait un grand plus.
+Durée et période du stage
+6 mois, dès que possible.
+Candidater à stage.rennes@technicolor.com
+
+
+
+
+

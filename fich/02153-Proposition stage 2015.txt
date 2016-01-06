@@ -1,0 +1,79 @@
+﻿PROPOSITION DE STAGE INFORMATIQUE
+Projet de refonte d’un infocentre métier
+basé sur la solution SAP BusinessObjects
+1 - Présentation de l’établissement et du contexte
+Le  centre  hospitalier  Guillaume  Régnier  est  un  établissement  public  de  santé  mentale
+comprenant 9 secteurs de psychiatrie adulte et 3 secteurs de psychiatrie infanto-juvénile. Le
+dispositif  est  complété  par  une  Maison  d'Accueil  Spécialisée,  un  Service  Médico-
+Psychologique Régional (SMPR), une Unité Hospitalière Spécialement Aménagée (UHSA),
+un Service d'accueil et de soins pour adolescents et jeunes adultes, un département des
+Conduites addictives et un Service de Soins de Longue Durée sur trois sites  (Rennes,
+Châteaugiron et Bruz). L’hôpital emploie plus de 2000 personnes et s’étend sur 23 hectares.
+Il prend en charge uniquement des patients résidents en Ille-et-Vilaine.
+Le  Centre  Hospitalier  Guillaume  Régnier  compte  environ  une  cinquantaine  de  sites
+extérieurs en dehors de son site principal, collaborant avec d’autres institutions hospitalières,
+médico-sociales ou sociales, avec le secteur associatif, l’ensemble formant un réseau de
+soins coordonnés.
+L’établissement a déployé une solution de Dossier Patient Informatisé à partir de 2005. Ce
+DPI contient toutes les informations nécessaires à la prise en charge des patients pour tous
+les secteurs et toutes les activités sanitaires et médico-sociales de l’établissement.
+Le service informatique est composé de 13 personnes (7 ingénieurs et 6 techniciens). Ses
+principales  missions  recouvrent  le  support  aux  utilisateurs,  la  gestion  du  parc  micro-
+informatique,  la  gestion  des  applications  métiers,  la  gestion  des  serveurs  et  de
+l’infrastructure réseau et téléphonie.
+2 - Projet de stage
+2.1 - Présentation
+L’objectif est une refonte de l’infocentre « patients » alimenté des données issues du Dossier
+Patient  Informatisé.  Il  est  utilisé  par  le  Département  d’Information  Médicale              (DIM),
+responsable  de  toute  l’information  médicale  dans  l’établissement.  Il  permet  de  suivre
+l’activité à des fins de contrôle et de pilotage mais également d’évaluer la qualité de prise en
+charge des patients dans une dynamique d’amélioration continue.
+2.2 - Description de l’existant
+Un infocentre « patients » existe actuellement, mais celui-ci ne répond plus aux besoins du
+DIM.  Il  manque  un  certain  nombre  des  informations  attendues,  et  une  partie  de  la
+représentation des données existantes dans l’univers (cf. ci-après) est à revoir.
+Proposition de stage informatique 2015 - Centre Hospitalier Guillaume Régnier
+1
+
+
+
+
+L’infocentre est basé sur la solution décisionnelle SAP BusinessObjects. L’architecture peut
+être représentée schématiquement de la façon suivante :
+Univers
+Utilisateur
+alimentation                                                                                        Base
+Base
+infocentre                                                                                          production
+L’univers  donne  à  l’utilisateur  une  représentation  métier  des  données  présentes  dans
+l’infocentre. Ces données sont issues des données de production, et peuvent être agrégées.
+2.3 - Objectifs
+L’objectif du stage est de modifier et faire évoluer l’infocentre « patients » afin de répondre
+aux besoins exprimés par le Département d’Information Médicale. Le recueil des besoins
+sera fourni en début de stage.
+Le stagiaire travaillera sur :
+  l’amélioration de l’univers existant afin de le rendre plus exploitable et d’y intégrer les
+données manquantes,
+  l’évolution du modèle de données de l’infocentre afin de répondre aux nouveaux
+besoins,
+  la mise à jour de l’alimentation de la base infocentre par les données de production.
+2.4 - Déroulement du stage
+Le  stagiaire  sera  intégré  au  Service  Informatique  et  sera  sous  la  responsabilité  d’un
+ingénieur.  Il  sera  amené  à  travailler  ponctuellement  avec  le  Département  d’Information
+Médicale, et éventuellement avec l’éditeur du Dossier Patient.
+Le stage mettra en œuvre les compétences suivantes :
+  modélisation de bases de données (modèles relationnels et modèles en étoile)
+  requêtage SQL (sur bases de données Oracle 11G)
+  conception de modèle décisionnel métier
+  interfaces et alimentation de l’infocentre (ETL)
+Durée prévisionnelle du stage : 6 à 8 mois.
+Stage basé à RENNES, 108 avenue du Général Leclerc.
+Renseignements complémentaires auprès de Monsieur RANNOU, Responsable du Service
+Informatique (p.rannou@ch-guillaumeregnier.fr).
+Proposition de stage informatique 2015 - Centre Hospitalier Guillaume Régnier
+2
+
+
+
+
+

@@ -1,0 +1,35 @@
+﻿Stage  - Etude  et développement ECMASCRIPT  6  (H/F) RENNES
+L’objectif  du stage est  de  fournir  une  étude  complète  et  évaluée  des  changements
+apportés par ECMAScript 6.
+DESCRIPTIF
+Le stage se déroulera en plusieurs étapes :
+   Réalisation d’un état de l'art des fonctionnalités introduites par ECMA6
+   Réalisation d'un prototype / démonstrateur mettant en avant ces avancées
+technologiques, avec rédaction d'un retour d'expérience sur leurs mises en place
+   Développement d'un prototype Avant / Après ECMAScript6
+   Rédaction d'une formation sur les apports et les évolutions à destination de
+développeurs
+TECHNOLOGIES MISES EN ŒUVRE
+ECMAScript, Javascript, NodeJS, Google Traceur
+PROFIL
+Formation Ecole d’Ingénieurs ou Master 2 en informatique.
+Nous recherchons un stagiaire avec une bonne capacité d'analyse technique dans le
+domaine des technologies Web. Curieux, autonome, force de proposition et passionné,
+vous évoluerez dans un contexte très technique au sein de l’équipe projet, conseil et
+formation.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en
+fonction des exigences de votre école.
+Si vous souhaitez répondre à cette offre, merci d’adresser votre candidature à  : drh-
+ouest@sii.fr
+Suivez-nous sur Facebook, Twitter, LinkedIn, Viadéo
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees" pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                              1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite   Usage interne
+préalable de SII.                                                                                                  SII
+
+
+
+
+

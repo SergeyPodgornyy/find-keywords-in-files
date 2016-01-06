@@ -1,0 +1,19 @@
+﻿Ingénieur/Architecte Windows/Linux
+Job Description
+Design, conception de solutions virtuelles dans un environnement cloud
+Mise en place de serveurs virtuels HyperV
+Mise en place de machines virtuelles avec KVM
+Mise en place de bonnes pratiques
+Mise en place de patchs et d’anti virus
+Ideal Candidate
+Excellentes connaissances des environnements Windows (Hyper V) et Linux (KVM)
+Bonnes connaissances IIS, SQL Serveur.
+Aisance dans l’installation de machines virtuelles
+Aptitude à préconiser des best practices d’infrastructures
+Langue : Française et/ou Anglais
+North America        South America         Western Europe         Central Europe & Balkans         Middle East         Asia & Pacific
+
+
+
+
+

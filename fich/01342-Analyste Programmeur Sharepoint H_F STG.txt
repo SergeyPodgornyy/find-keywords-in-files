@@ -1,0 +1,56 @@
+﻿ATOS RECRUTE UN/UNE ANALYSTE PROGRAMMEUR SHAREPOINT H/F STG EN STAGE 6 MOIS.
+Date : 01/05/2014
+Référence de l’offre : 164816-6168787
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Bezons 95000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires annuel de
+8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier des services
+informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et Infogérance BPO,
+ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son expertise technologique
+et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie, Distribution Services,
+Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services aux Collectivités.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision de
+l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques. Le
+Groupe est coté sur le marché NYSE Euronext de Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting Technology Services, Worldline et Atos Worldgrid.
+Description du poste :
+Nous recherchons un Stagiaire Analyste Programmeur Sharepoint / SQL H/F pour la construction et la mise en
+service du système de pilotage L :
+Vos principales missions:
+·                                                                                                                      Référentiel documentaire:
+- Paramétrage des espaces d'archivages des référentiels documentaires (outil : SharePoint)
+- Mise au point des structures d'accueil (pages, aide)
+- Mise au point du mode opératoire d'utilisation, adressé aux propriétaires des données (équipe L)
+·                                                                                                                      Tableau de bord SLA Facilities Management:
+-Elaboration de l'outil de restitution des indicateurs de performance sur la base du contrat avec le fournisseur
+·                                                                                                                      Reporting en provenance des outils informatiques L:
+-Continuum : système de gestion du contôle d'accès
+- MyServices/Space Management
+- MyServices/réservation des salles de réunions - analyse des historiques
+- Gilif - restitution des mesures d'occupation des espaces
+- Desima - restitution des consommations en électricité
+Profil recherché :
+Profil
+Prérequis techniques :
+*  Connaissances outils bureautiques (EXCEL ++, DBASE/SQL,)
+*  Gestion documentaire : SharePoint
+*  Langage de programmation : SQL, Visual Basic, html,…
+
+
+
+
+*  Méthode d'analyseCoaching :
+Le stagiaire sera suivi et accompagné par Le responsable Qualité/Méthodes
+164816
+Programme Stagiaire.rtfProgramme Stagiaire.rtf
+Pour postuler : http://atos.contactrh.com/jobs/1536/6168787
+
+
+
+
+

@@ -1,0 +1,111 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : HARDIS Groupe                                                                Adresse : 3 rue G. Marconi
+Domaine d’activité : Services Informatiques                                                        Ville :44800 Saint Herblain
+Représentant de l’entreprise : Hadrien Boyé                                                        N° téléphone :02 51 70 82 12
+Sa qualité : Chef de Projet E-Solutions                                                            N° fax :
+N° de Siret :                                                                                      Site Web : http://www.hardis.fr
+N° NAF :                                                                                           Courriel : hadrien.boye@hardis.fr
+Statut Juridique :                                                                                 Signataire de la convention : Hadrien Boyé
+Effectif de l’établissement : 650 Personnes
+Nom de l’encadrant de stage : Hadrien Boyé                                                         Chargé du suivi administratif : Zein Srour
+Sa qualité : Chef de Projet E-Solutions                                                            Sa qualité : Directeur Agence Ouest
+Service : Pôle E-Solutions                                                                         N° téléphone : 02 51 70 82 12
+N° téléphone : 02 51 70 82 14                                                                      Email : zein.srour@hardis.fr
+Email : hadrien.boye@hardis.fr                                                                     Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : PÖLE E-Solutions
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                                 du 15 avril 2013 à fin août 2013
+SUJET DU STAGE :
+Titre du stage proposé : ETAT DE L'ART PORTAILS WEB OPEN SOURCE
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Technologies mises en œuvre : Java ; Web services REST ; Design Patterns ; Frameworks Java EE
+(JSF ; Spring MVC ) ; SDK spécifiques (Liferay ; Exo Platform ; …)
+Sujet proposé détaillé :
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+L’agence ouest du groupe HARDIS (650 personnes) est spécialisée dans le conseil, l'expertise et la
+mise  en  œuvre  de  projets  de  développement  logiciels,  sur  la  base  des  technologies  WEB  et
+Décisionnel.
+Sujet du Stage
+Vous aurez pour mission d’enrichir et mettre à jour un état de l’art des principaux « portails web »
+open  source.  Vous  vous  concentrerez  sur  leurs  capacités  d’extension  et  d’intégration  dans  un
+contexte d’entreprise. Vous interviendrez sous la responsabilité d’un chef de projet de l’agence. Votre
+intervention se déclinera selon les phases suivantes :
+1) Mettre à jour l’état de l’art des solutions de « Portail Web » open source dans le monde Java
+2) Identifier les modalités d’intégration d’applications d’entreprises à ces outils selon les standards
+existants (Portlets ; Web Components ; …)
+Cette phase sera conduite de manière itérative (méthodes agiles SCRUM et XP) et aboutira
+à la réalisation de plusieurs prototypes.
+Vous appliquerez les bonnes pratiques d’analyse et de conception objet  (UML  ; design
+patterns) ; en vous appuyant sur la documentation technique des produits évalués.
+3)  Procéder  au  développement  de  modules  déployables  dans  différents  portails  ;  en  lien  avec
+plusieurs applications existantes (exemple : outil de supervision ; logiciel de gestion d’affaires ; …)
+Vous interagirez avec d’autres équipes projet pour les spécifications fonctionnelles des modules à
+réaliser. Vous procéderez à leur validation dans un environnement d’intégration.
+Objectifs du stage
+− Maîtriser les principaux aspects fonctionnels et techniques des solutions de portail Web
+− Mettre en œuvre une démarche de veille ; d’évaluation technique et de prototypage afin de produire
+une synthèse réutilisable
+− Expérimenter un cycle de développement en interaction avec plusieurs équipes projet
+− Produire un ou plusieurs modules logiciels complètement fonctionnels et répondant au besoin
+Tâches à réaliser
+− Prise de connaissance de l’offre des portails open source et des différents standards existants
+− Réalisation de prototypes et évaluation technique
+− Recueil et analyse des besoins ; spécifications détaillées
+− Réalisation des développements
+Modalités du Stage
+− Formation : Bac +5 ; Stage de fin d'études
+− Connaissances souhaitées : développement Java / technologies WEB / modélisation UML
+− Lieu : Nantes / Durée du stage : 4 à 6 mois
+− Stage rémunéré devant déboucher sur une embauche en CDI
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                              Nom de l’Etudiant :
+Modalités de versement :                                                                                   Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35H
+Date limite de réponse à cette proposition : Janvier 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? OUI
+UNIVERSITE DE RENNES 1                                                                                     TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                      FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                   www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1        TÉL : 33 (0)2 23 23 39 00
+ISTIC                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

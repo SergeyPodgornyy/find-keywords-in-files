@@ -1,0 +1,66 @@
+﻿AJSTAGE RECRUTE UN/UNE ASSISTANT MOA - GIREVE EN STAGE DE 5 À 6 MOIS.
+Date : 01/05/2014
+Référence de l’offre : amg-5946335
+Domaine d’activité : Systèmes d'informations / télécom (Directeur de Projet/MOA)
+Type de contrat : Stage
+Localisation : Plessis Robinson 92350, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+GIREVE (Groupement d'Intérêt pour la Recharge Electrique de Véhicules) est une startup créée en juillet 2013
+par Renault, EDF, ERDF, la Caisse des Dépôts et la Compagnie Nationale du Rhône. Elle va progressivement
+déployer en France les 3 activités suivantes :
+Référencement des bornes de charges de véhicules électriques et commercialisation des données et de services
+(2013-2014)
+Itinérance des services de charge entre opérateurs (2014-2015)
+Conseil pour la mise en œuvre d'infrastructure de charge (2016)
+Au titre du premier pan d'activité, GIREVE souhaite définir les processus et outils permettant l'alimentation et
+l'administration du référentiel de points de charge (RPC) en cours de développement.
+Ce référentiel est appelé à constituer une référence incontournable pour le développement de services liés à la
+recharge de véhicules électriques (recherche sur critères, réservation, recharge en itinérance, etc.).
+400 000 bornes de recharges de nouvelle génération doivent être déployées sur le territoire en 2020.
+Relation avec le prestataire de développement:
+En tant qu'utilisateur principal du RPC, vous serez le référent de l'usage de l'application et devrez formuler des
+demandes de modifications, d'améliorations auprès du prestataire.
+Vous analyserez les besoins d'administration du RPC et ferait développer les outils permettant de faciliter le
+contrôle de la qualité des données et d'améliorer le service rendu aux utilisateurs.
+Lors des livraisons mensuelles de l'application, vous devrez effectuer les tests pour vérifier que le livrable
+correspond aux attentes.
+Qualification et intégration des données au sein du RPC:
+Vous devrez analyser:
+- les source potentielles d'alimentation de la base de données,
+- les formats de données,
+- les modalités d'alimentation (manuel ou automatisé),
+- transmettre au prestataire les développements nécessaires afin de faciliter l'intégration des données.
+Mise en place du mode opératoire:
+Création d'outils afin d'exploiter au mieux l'outil RPC (Requêtes SQL, Excel)
+Mise en place d'un "manuel utilisateur".
+Vous proposerez des améliorations du système RPC, visant à améliorer la qualité des données, leur nombre et
+l'efficacité de leur gestion.
+Vous proposerez des solutions afin de maintenir la qualité du service, en analysant sous un angle coût/valeur les
+moyens à mettre en oeuvre.
+Le stagiaire aura à travailler avec l'ensemble des acteurs de GIREVE, dans un contexte de création de l'activité de
+la société.
+
+
+
+
+Déplacements en région parisienne et au-delà à prévoir. Permis de conduire apprécié.
+MERCI DE POSTULER VIA :
+http://goo.gl/EcG33I
+Profil recherché :
+Ecole d'ingénieur, MIAGE ou Licence professionnelle en administration de BD
+Autonomie et capacité d'initiative, goût pour l'innovation
+Sens du contact et du service client
+Esprit d'entreprise
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/5946335
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿OFFRE DE STAGE : Localisation et navigation en
+souterrain (H/F)
+Lieu du stage :    GENNEVILLERS (92)
+Secteur d’activité : Recherche & Innovation
+Durée du stage : 6 mois, premier semestre 2014
+Profil recherché : Informatique/télécommunication
+   PRESENTATION DE L’ENTREPRISE
+SEGULA  Technologies  est  l’un  des  principaux  groupes  d’ingénierie  et  de  conseil  en
+innovation. Nos prestations couvrent toutes les étapes du cycle de vie des produits et procédés,
+et  s’adressent  à  l’ensemble  des  secteurs  d’activités  Industriels                                :  automobile,  véhicules
+industriels, aéronautique, naval, ferroviaire, industrie et énergie. D’origine française, SEGULA
+Technologies est implantée partout dans le monde, dans 19 pays, sur 4 continents : Europe,
+Afrique, Asie, Amérique, avec une présence prépondérante en France et en Europe. Le groupe
+compte actuellement 5500 collaborateurs.
+   DESCRIPTIF DE POSTE :
+Dans  le  cadre  de  nos  projets  de Recherche  et  Innovation  au  sein  de  notre  agence  de
+Gennevilliers nous créons un stage sur la recherche système de localisation et de navigation en
+souterrain à partir d’une technologie innovante.
+L’objectif  du  stage  est  de  développer  et  valider  une  application  mobile  permettant  à  un
+utilisateur de se déplacer dans un environnement souterrain en lui communiquant les critères
+essentiels à son cheminement.
+En grand partie en autonomie, la recherche s’articulera selon le plan suivant :
+-                                                                                                      Etat  de   l’art : A partir d’ouvrages de références, définir les contraintes spécifiques à
+l’étude ;
+-                                                                                                      Développement                                                                                  :  En  s’appuyant  sur  cet  état  de  l’art,  sur  vos  connaissances
+personnelles, et avec le support de nos experts, proposer les algorithmes bases de
+l’application en vue de la proposition d’un démonstrateur.
+-                                                                                                      Vérification   des   travaux   de   recherche  : Validation théorique et/ou expérimentale du
+système développé et des performances atteintes ;
+-                                                                                                      Finalité  : Ce projet s’inscrit dans le cadre de la fluidité de l’orientation voyageur en
+espaces souterrain
+   PROFIL :
+De formation bac +5 avec une spécialisation en Informatique/télécommunication, vous avez des
+connaissances en programmation en développement d’application mobile, et vous êtes à la
+recherche d’un stage de fin d’études.
+Vos qualités relationnelles, associées à votre sérieux et à votre motivation seront un atout
+indispensable pour évoluer pendant le stage. Face à une grande diversité des sujets, nous vous
+offrons la possibilité d’intégrer un environnement de travail valorisant, au sein d’une équipe
+dynamique.
+   CONTACT :
+Copyright © SEGULA Technologies - Tous droits réservés - 2012-2013
+Page 1
+
+
+
+
+Merci de nous faire parvenir votre candidature sous la référence ADM-03, via notre site internet,
+www.segularecrute.fr, ou,   auprès du responsable de projet : antoine.demontety@segula.fr
+Copyright © SEGULA Technologies - Tous droits réservés - 2012-2013
+Page 2
+
+
+
+
+

@@ -1,0 +1,45 @@
+﻿CAPGEMINI RECRUTE UN/UNE URBANISATION DU SI H/F EN STAGE DE 4 À 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : ST-ADM-3714-8344989
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Grenoble 38000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                      Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                     2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+CONTEXTE :
+Au sein de la division ADM Center de Capgemini, notre centre de compétence ADM Rhône Alpes réunit une
+équipe de plus de 350 consultants sur de multiples technologies. Ce centre de compétence a pour vocation
+d'accroître l'efficacité d'un SI, par la consolidation des périmètres applicatifs et des prestations, en appliquant
+des modèles industriels. Il adresse des projets de développement et de maintenance dans les domaines de
+l'industrie et de la distribution pour de grands clients internationaux.
+DESCRIPTION DU STAGE :
+Au sein d'une équipe Capgemini chargée de la maintenance d'applications SAP, votre mission consiste à :
+- Cartographier le SI existant selon les méthodes de la littérature  (approche en  4 couches  : technique,
+applicative, fonctionnelle, métier)
+- Identifier les interfaces à risque ou obsolètes,
+- Identifier les pistes d'évolution du SI
+ENVIRONNEMENT TECHNIQUE :
+SAP 4.6 c, EDI
+Profil recherché :
+PROFIL RECHERCHE :
+De formation Master 1 ou Master 2 ou Ecoles d'Ingénieurs, vous êtes rigoureux et autonome , vous avez des
+bonnes capacités d'analyse et de synthèse.
+LES « PLUS » DU STAGE :
+A l'issue de ce stage :
+- Vous aurez une première approche globale d'un système d'information
+- Vous aurez évolué au sein d'une équipe Capgemini dans un contexte professionnel
+- Vous aurez acquis une expérience dans le domaine de l'ADM (Application Development Management)
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8344989
+
+
+
+
+

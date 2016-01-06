@@ -1,0 +1,68 @@
+﻿CRÉDIT AGRICOLE RECRUTE UN/UNE DÉVELOPPEUR INFORMATIQUE (H/F) EN STAGE 6 MOIS.
+Date : 01/05/2014
+Référence de l’offre : 6717/GIT/C...-6224586
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Paris La Défense 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Crédit Agricole CIB est la Banque de Financement et d'Investissement du groupe Crédit Agricole, 5ème groupe
+bancaire mondial par le total de bilan et au 4ème rang européen par le montant de ses fonds propres Tier One
+(The Banker - Juillet 2013).
+Crédit Agricole CIB propose à ses clients une gamme de produits et services dans les métiers de la banque de
+marchés, de la banque d'investissement, des financements structurés et de la banque commerciale. La Banque
+accompagne les clients sur les grands marchés internationaux grâce à son réseau mondial dans les principaux
+pays d'Europe, des Amériques, d'Asie et du Moyen-Orient.
+ENVIRONNEMENT :
+Au sein de la Direction Informatique de Crédit Agricole CIB, le domaine CFI couvre les activités de conception,
+de  développement  et  de  maintenance/support  d'applications  dédiées  aux  fonctions  transverses  des  métiers
+Marchés de Capitaux.
+Le  client,  Capital  Markets  Operations                                                                                (Middle  et  Back  Office  Marchés),  est  basé  à  Paris,  New-York  et
+Hong-Kong. Les équipes de maîtrise d'ouvrage et maîtrise d'œuvre (25 personnes au total) sont basées à Paris, et
+le support applicatif est effectué par une équipe Offshore en Inde.
+Le domaine CFI accompagne en particulier le métier dans la gestion des fonctions suivantes :
+- Les réconciliations qui vérifient la cohérence de représentation des mêmes opérations entre différents systèmes :
+FO,  BO,  brokers  et  dépositaires.  Le  moteur  de  rapprochement  est  le  progiciel  INTELLIMATCH  et  ses
+restitutions  sont  utilisées  soit  directement  par  les  Back-Office  ou  Middle-Office,  soit  dans  le  cadre  de
+l'application GLORY qui fournit des moyens plus élaborés de détection des hétérogénéités de représentations des
+opérations et des flux financiers associés.
+- Les frais de courtage et de dépositaire modélisés dans l'application KFEE qui permet de vérifier les factures, de
+les régler et de générer les événements comptables associés.
+- Les confirmations des opérations qui sont échangées avec nos contreparties et rapprochées au travers de la suite
+SESAME et par le progiciel CITYNET MATCHING.
+- La collecte et la publication par l'application SAFIR v2 des indicateurs de fonctionnement des Back Offices.
+- Le suivi et la détection d'anomalies sur les variations des opérations et des flux financiers associés (Application
+CATS).
+Description du poste :
+La mission portera sur la plateforme GLORY de rapprochement des systèmes Front-Office et Back-Office.
+Cette application développée en C#/.net comprend un client lourd utilisant la librairie DevExpress 8.
+Au sein de l'équipe Maîtrise d'œuvre CFI, vous interviendrez en tant que développeur sur la migration du client
+GLORY vers la librairie DevExpress 13.
+Au cours de ce stage, vous participerez aux missions suivantes :
+
+
+
+
+* L'analyse d'impact de la migration ;
+* La prise en charge des développements du plan de tests techniques, des dossiers de programmation ;
+* L'analyse d'impact de la migration ;
+* En outre, vous pourrez être amené à travailler sur des sujets d'amélioration de la production ou d'optimisation
+de l'application.
+Profil recherché :
+Formation : Ecole de commerce, Ecole d'ingénieur, Université (Bac+4/5)
+Spécialisation : Informatique
+Expérience souhaitée : Un stage dans le domaine de la banque de financement ou en environnement international
+serait un plus.
+Outils informatiques : .net/C#, SQL Server, devExpress serait un plus
+Qualités recherchées : Connaissances SGBD relationnels, développement orienté objet
+Goût  pour  le  développement,  curiosité  technique,  capacité  d'analyse,  autonomie,  sens  du  service,  bonne
+communication orale et écrite
+Langues : Anglais opérationnel
+Pour postuler : http://ca.contactrh.com/jobs/1536/6224586
+
+
+
+
+

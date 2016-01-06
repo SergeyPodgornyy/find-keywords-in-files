@@ -1,0 +1,47 @@
+﻿AXON' CABLE SAS RECRUTE UN/UNE STAGE INGÉNIEUR GÉNIE INFORMATIQUE H/F EN
+STAGE DE 6 À 9 MOIS.
+Date : 02/12/2014
+Référence de l’offre : ST-SW1214-INFO-8216817
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Montmirail 51210, FR
+Durée du contrat : De 6 à 9 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Depuis presque 50 ans Axon' Cable se consacre à la conception et la fabrication de câbles et systèmes
+d'interconnexion innovants pour l'électronique de pointe. Destinés à des secteurs d'activité aussi divers que
+l'aéronautique et le spatial, l'automobile, le militaire, le médical et la recherche pétrolière, les produits Axon'
+sont utilisés par des sociétés comme EADS, Schneider, Thales, Valeo, ,...
+Ainsi, des réseaux bus de transmission de données d'Axon' sont intégrés dans la fusée Ariane, des câbles
+plats dans les cassettes airbag des voitures, des harnais robustes dans les systèmes de communication des
+fantassins, des câbles coaxiaux miniatures dans les échographes et des connecteurs micro-miniature dans les
+outils de forage pétrolier. Une liaison AXON' équipe même le robot Curiosity envoyé sur Mars .
+Aujourd'hui, le groupe Axon' emploie plus de 1700 salariés en Europe, Amérique et Asie.
+Description du poste :
+Axon' propose différents outils d'aide à la conception sur son site internet. Ces programmes permettent aux
+clients de concevoir en quelques clics les câbles à intégrer dans leurs équipements.
+AXON' souhaite proposer un nouvel outil d'aide à la conception de connecteurs micro-miniature spécifiques.
+Votre mission
+D'après le cahier des charges défini par nos ingénieurs conception, vous développerez une interface intuitive
+permettant :
+* de créer un connecteur micro miniature à partir de quelques questions simples ;
+* de générer une spécification rassemblant les informations du produit créé.
+Vous serez accueilli(e) dans l'équipe Recherche et Conception d'une vingtaine d'ingénieurs et encadré(e) par
+un tuteur dédié pendant toute la durée du stage.
+- Possibilité de logement.
+Envoyez vos lettres de candidature et CV à l'attention d'Annie Lambert, job@axon-cable.fr en rappelant la
+référence : STAGE/SW1214-INFO, dans l'objet de votre mail et sur votre lettre. Sans indication de cette
+référence votre candidature ne pourra pas être traitée.
+Profil recherché :
+* Projet pour futurs ingénieurs en génie informatique (stage professionnel)
+HTML, JavaScript, CSS\ASP.net (VB\C#)
+Librairie JQuery
+Création et exploitation de WebServices
+Base de donées SQL
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8216817
+
+
+
+
+

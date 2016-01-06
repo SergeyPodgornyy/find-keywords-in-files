@@ -1,0 +1,165 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise :ALL4TEC                                                                              Adresse : 6 rue Léonard de Vinci,  BP 0119
+Domaine d’activité :Informatique                                                                          Ville :Laval
+Représentant de l’entreprise :Laurent Cosson                                                              N° téléphone :02 43 49 75 30
+Sa qualité :PDG
+                                                                                                          N° fax :02 43 49 75 33
+N° de Siret :415 195 395 00041
+                                                                                                          Site Web :www.all4tec.net
+N° NAF :6201Z
+                                                                                                          Courriel :drh@all4tec.net
+Statut Juridique :SA
+                                                                                                          Signataire de la convention :
+Effectif de l’établissement :50
+Nom de l’encadrant de stage :Franck HORTALA                                                               Chargé du suivi administratif : Mélanie Rapine
+Sa qualité :Responsable équipe développement                                                              Sa qualité : Responsable recrutement
+Service :Edition Logicielle                                                                               N° téléphone :06 08 02 89 67
+N° téléphone :02 43 49 75 31                                                                              Email :mer@all4tec.net
+Email : frh@all4tec.net                                                                                   Fax :02 43 49 75 33
+Fax :02 43 49 75 33
+Nom    du    service    dans    lequel    le    stage    sera    effectué :    Edition    logicielle…..
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): LAVAL……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+                                                                                                          □ Licence 3                                                                                                                                                                                                                                                         8 semaines du 2 janvier au 6 mars 2013
+                                                                                                                                                                                                                                                                                                                                                                                                                                   puis 5 semaines minimum à partir du 27 mai ou 1er juillet jusque fin la
+                                                                                                                                                                                                                                                                fin août 2013
+                                                                                                          Master 1ère année
+                                                                                                                                                           □ Parcours SR et GL, Recherche                                                                                                                                                                                     8 semaines minimum à partir du 6 mai 2013
+                                                                                                          □ MIAGE                                                                                                                                                                                                                                                             13 semaines minimum à partir du 13 mai 2013
+                                                                                                                                                                                            Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□                                                                                                         Spécialité MIAGE                                                                  du                                                                  4                                                                                        mars 2013 à   fin    août                                                 2013
+□                                                                                                         Spécialité IR                                                                     du                                                                  4                                                                                        mars 2013 à   fin    août                                                 2013
+□                                                                                                         Spécialité GL                                                                     du                                                                  4                                                                                        mars 2013 à   fin    août                                                 2013
+□                                                                                                         Spécialité                                       MITIC                            du                                                                  4                                                                                        mars 2013 à   fin    août                                                 2013
+□                                                                                                         Spécialité                                       SSI                              du                                                                  4                                                                                        mars 2013 à   fin    août                                                 2013
+□                                                                                                                                                          Spécialité Recherche             du                                                                  1er                                                                                      février       2013   à fin                                         juin   2013
+                                                                                                                                                                                                                                                                Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+UNIVERSITE DE RENNES 1                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+□ Spécialité   CCI                                                                                 du 15 avril 2013 à fin août 2013
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH   (3 périodes)
+21 octobre 2012 au 28 décembre 2012
+10 février 2013 au 5 avril 2013
+13 mai 2013 jusque fin août
+□ Spécialité SEA                                                                                   16 semaines à partir du 25 février 2013 jusque fin août 2013
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                  (1 période de 2 semaines + 3 périodes de 8 semaines)
+17 septembre 2012 au 28 septembre 2012
+5 novembre 2012 au 11 janvier 2013
+18 février 2013 au 12 avril 2013
+à partir du 21 mai 2013 jusque fin août
+□ Spécialité CTS                                                                                   entre 4 mois minimum et 6 mois maximum à partir du 4 mars 2013
+□ Spécialité ST                                                                                    entre 4 mois minimum et 6 mois maximum à partir du 4 mars 2013
+□ Spécialité SISEA                                                                                 entre 4 mois minimum et 6 mois maximum à partir du 4 mars 2013
+AUTRES FORMATIONS (STAGES NON-OBLIGATOIRES) : …………………………………………………………………
+SUJET  DU  STAGE  :
+Titre du stage proposé : Développement de plug-in Eclipse
+Société  :
+ALL4TEC est un éditeur logiciel spécialisé et reconnu pour ses outils de validation. De taille
+humaine, ALL4TEC fédère ses collaborateurs autour de sa culture de proximité et de son
+écoute. Notre politique constante d’innovation nous permet de séduire de grands groupes
+européens des Télécommunications, Aéronautique, Automobile, Ferroviaire et Défense. EN
+2013, ALL4TEC reçoit le label PME innovante.
+Contexte  :
+Depuis plusieurs années, ALL4TEC développe et maintient un outil logiciel avant-gardiste appelé
+MaTeLo utilisé par de grands comptes industriels comme Audi, Renault, Schneider Electric,
+Alstom Transport ou encore Delphi. MaTeLo est un logiciel implémentant l'approche "Model
+Based Testing" qui permet d’améliorer l’efficacité des campagnes de validation.
+L’outil MaTeLo est utilisé pour modéliser l'ensemble des actions pouvant être appliquées en test
+à l'aide de diagrammes états/transitions. Les transitions de ce diagramme font référence à des
+informations : actions et vérifications à réaliser lors du test. MaTeLo permet de générer
+automatiquement les cas de test nécessaires à la validation fonctionnelle en construisant un
+"chemin" dans ce diagramme.
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Afin d’améliorer son outil et répondre aux demandes des clients, ALL4TEC souhaite faire évoluer
+le produit MaTeLo pour pouvoir travailler en client /serveur (mode Cloud).
+Sujet de  stage  :
+L’objectif de ce stage est d’identifier les modifications à apporter à la version actuelle de l’outil
+pour la faire évoluer vers une utilisation sur le Cloud.
+La mise en œuvre de la solution devra permettre :
+   D’adapter l’outil pour qu’il fonctionne en mode client /serveur (mode Cloud),
+   Aux utilisateurs de se connecter à MaTeLo à partir de « clients légers »,
+   De centraliser les données sur un serveur,
+   De sécuriser les échanges de données entre les clients et le serveur,
+   De gérer une historisation des accès et des modifications réalisés sur les projets.
+ALL4TEC recherche un stagiaire très motivé par le développement logiciel en JAVA dans un
+environnement ECLIPSE.
+Au sein d’une petite équipe, il aura la charge :
+   De rechercher et de proposer des solutions techniques permettant de répondre aux
+besoins décrits ci-dessus.
+   De prototyper ces solutions afin de choisir la plus adaptée aux produits ALL4TEC,
+   De la spécifier, de la concevoir et de l’implémenter sous forme d’un prototype sous
+Eclipse,
+   D’intégrer ces Plug-In dans MATELO, de les valider et de rédiger la documentation
+associée.
+Bénéfices  pour le  stagiaire  :
+Au travers de ce projet complet, le stagiaire comprendra les enjeux actuels du développement
+d’un outil logiciel en pleine expansion. Par ailleurs il fera connaissance avec des nouvelles
+techniques et méthodologies qui lui procureront des compétences très recherchées sur le
+UNIVERSITE DE RENNES 1                                                                                  TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                   FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+marché du travail.
+Connaissances  demandées  :
+SECURITE DES DONNEES, JAVA et ECLIPSE.
+Technologies  abordées  durant le  stage  :
+Java, Eclipse RCP et RAP, Sécurité de données, EMF, UML, SVN et BDD.
+Comment postuler :
+Candidature sur drh@all4tec.net à l’attention de Mélanie RAPINE - Responsable Recrutement
+Code stage : MTL_DEV-01_2014
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 900                                                                         Nom de l’Etudiant :
+Modalités de versement : virement bancaire                                                                Diplôme :
+Avantages en nature à préciser : possibilité de tickets
+restaurants
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition :03/2013
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui (contact drh@all4tec.net)
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

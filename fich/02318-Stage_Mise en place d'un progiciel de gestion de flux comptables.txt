@@ -1,0 +1,53 @@
+﻿Consultant en gestion de flux comptables : AI Suite H/F
+Professional services
+Présentation d’Axway :
+Axway (NYSE Euronext : AXW.PA), leader du marché de la gouvernance des flux de données, est un éditeur de
+logiciels comptant plus de  11 000 clients du secteur privé et public dans  100 pays. Depuis plus de  10  ans,
+Axway fournit  aux  grandes  entreprises  des  solutions  technologiques  permettant  de  mieux  gérer  les  flux  de
+données stratégiques circulant dans l’entreprise, avec l’extérieur entre partenaires, au sein des communautés
+B2B, vers le cloud et les périphériques mobiles. Nos solutions sont proposées pour une gestion sur site  (on
+premise) ou hébergées dans le cloud, avec une gamme complète de services. Elles couvrent notamment les
+domaines de l’intégration B2B, de la gestion des transferts de fichiers  (MFT  - Managed File Transfer), de la
+gestion des API et des identités ainsi que de la sécurisation des emails.  Axway, dont le siège social est en
+France  et  la  direction  générale  basée  aux  Etats-Unis,  compte  des filiales  déployées  dans  18  pays  dans  le
+monde. Web : www.axway.fr.
+Mission :
+Dans le cadre d’un stage de pré-embauche, vous rejoignez les équipes Professional Services France.
+L’entité Accounting Intégration d’Axway est dédiée à la mise en place de l’offre AI Suite au sein de différents
+clients  d’Axway.  Cette  solution  permet  de  gouverner  les  flux  d’informations  comptables  afin  d’assurer  une
+meilleure jonction entre les systèmes de synthèses et les systèmes règlementaires.
+Nos consultants interviennent sur différents projets chez nos clients, notamment dans le milieu des banques et
+des  assurances.  Leur  mission est  d’aider  nos  clients  à  définir  leurs  besoins                                     (architecture  fonctionnelle  et
+technique),  d’installer  la  solution  personnalisée  retenue,  d’implémenter  les  échanges  et  d’intégrer  les  flux
+comptables.
+Au sein d’une équipe de consultants Axway, le stagiaire participe à toutes les phases d’un projet de l’étude de
+besoin (spécifications techniques et/ou fonctionnelles), jusqu’à l’’implémentation de la solution chez nos clients
+en collaboration avec les autres entités d’Axway (R&D, Product Group, etc.).
+Apports du stage :
+Découverte du métier de consultant au sein de la division service d’un grand éditeur français
+Expérience professionnelle dans une société internationale avec une expertise reconnue
+Maitrise d’une suite complète de logiciels Axway
+Excellence opérationnelle d’un projet d’implémentation
+Profil et connaissances requises :
+En dernière année de Master MIAGE ou d’école d’ingénieur,   vous avez acquis des connaissances approfondies
+sur certains de ces sujets :
+-                                                                                                                          Comptabilité et informatique de gestion
+-                                                                                                                          Echanges de données et/ou écritures comptables
+-                                                                                                                          Développement Java JEE
+-                                                                                                                          Oracle Database
+Vous êtes passionné de nouvelles technologies et vous faites preuve d’une envie d’apprendre et de délivrer des
+solutions à forte valeur ajoutée pour nos clients. Votre écoute et votre compréhension des besoins clients, de
+nos exigences et standards vous permettront de mener en autonomie les activités qui vous seront confiées dans
+le respect des délais projet.
+Vous appréciez le travail en équipe et faites preuve d’une bonne capacité d’adaptation.
+La maîtrise de l’anglais est obligatoire.
+Durée : 6 mois
+Lieu du stage : Ile-de-France
+Pour en savoir plus, visitez notre site http://www.axway.com
+Pour déposer votre CV, des projets de stages ou vos questions,
+écrivez-nous sur axwayjobs@axway.com
+
+
+
+
+

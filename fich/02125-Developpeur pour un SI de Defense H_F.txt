@@ -1,0 +1,48 @@
+﻿CAPGEMINI RECRUTE UN/UNE DÉVELOPPEUR POUR UN SI DE DÉFENSE H/F EN STAGE DE 4 À
+6 MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-AD-3440-8373233
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                 Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Depuis plusieurs années, Capgemini accompagne ses clients du secteur de la Défense, dans la définition et la
+mise en oeuvre de leurs systèmes d'information, qu'ils s'agissent que ce soit au travers des Systèmes
+d'Information Opérationnels et de Communication  (SIOC), utilisés en milieu militaire et notamment en
+opérations extérieures, ou des Systèmes d'Administration et de Gestion (SIAG) de leurs activités.
+Vous rejoignez une équipe de consultants expérimentés afin de :
+* contribuer aux travaux de spécifications fonctionnelles détaillées et de conception,
+* prendre en charge le développement logiciel et les tests unitaires associés, de plusieurs fonctions du
+système,
+* participer aux travaux d'intégration et de validation du système.
+Environnement technique : UML, architectures N-tiers
+JAVA : java, JSP, GwT, Hibernate, SPRING
+Microsoft .Net : C#, ASP.Net MVC, Entity Framwork, wPF, WcF
+Bases de données : PostgreSQL, SQL Server, ORACLE
+Profil recherché :
+De formation Bac +5 en informatique, vous :
+* justifiez d'une première expérience des environnements techniques Java/J2EE, et Bases de Données,
+* faites preuve d'une bonne capacité d'analyse et de synthèse,
+* possédez un esprit d'initiative et êtes autonome,
+* appréciez le travail en équipe.
+Nos projets sont réalisés dans un environnement de travail très industrialisé. Dans ce cadre vous apprenez à :
+* gérer les exigence et configurer et automatiser des tests,
+* faire des intégrations en continue,
+* acquérir la rigueur méthodologique d'une grande SSII,
+* bénéficier d'une formation adaptée à nos métiers avec un management de proximité.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373233
+
+
+
+
+

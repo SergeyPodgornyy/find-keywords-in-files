@@ -1,0 +1,43 @@
+﻿Fondée  en  1976,  CGI  est  un=  fournisseur  mondial  de  services
+en   technologies   de   l’information                                         (TI)   et   en   gestion   des
+processus   d’affaires   qui   offre   des   services-conseils   en
+management ainsi  que  des  services  d’intégration  de  systèmes
+et d’outsourcing.
+Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans 400 bureaux partout dans le monde, nous conjuguons une
+présence locale à un vaste éventail d’expertises. Voilà la force
+de notre engagement.
+OBJECTIF DU STAGE
+Lors de ce stage de fin d’étude,   nous vous proposons d’intégrer une équipe
+de 8 personnes qui travaille dans un modèle Full Agile sur la réalisation de
+portails Web dans nos locaux de Rennes.
+Dans  un  environnement  challengeant  et  innovant,  vous  contribuerez  au
+succès  d’un  de  nos  clients  majeurs  dans  un  ambitieux  chantier  de
+digitalisation.
+Notre environnement technologique:
+Serveur d’applications : Tomcat, JBOSS
+Framework : AngularJS, Spring, Hibernate…
+Méthodologie : Scrum
+Votre profil :
+    Formation BAC+2 à Bac+5
+    Connaissance des technologies Web   (HTML, java, …)
+    Connaissance  des  bases  de  données  (par  exemple  Oracle  ou
+MySQL et le langage SQL)
+    Bonne pratique de l’anglais
+    Bon relationnel
+Notre engagement :
+Vous intégrer
+    Vous  coacher/former                                                      (Formation  sur  place  liée  au  contexte
+spécifique (technique et fonctionnel)
+Vous encadrer
+Votre mission si vous l’accepter:
+L’acquisition   des   connaissances   méthodologiques,   informatiques   et
+fonctionnelles sur une ou plusieurs applications
+La conception (technique et/ou fonctionnelle)
+La réalisation
+La validation du produit
+
+
+
+
+

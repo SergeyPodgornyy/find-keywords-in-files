@@ -1,0 +1,52 @@
+﻿Stage n°2 du LCE
+Sujet : Développement d’une interface graphique pour la gestion de base de
+données avancée pour l’évaluation de processeur haute performance
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser l’innovation dans le domaine des systèmes embarqués.
+Dans le cadre du transfert technologique et plus précisément dans l’accompagnement des industriels,
+le  projet  COTS  propose  une  méthodologie  de  micro-benchmarking  qui  a  pour  but  d’unifier  les
+comparaisons  multiprocesseurs  afin  de  prédire  des  performances  d’un  code  applicatif  sur  une
+architecture. L’évaluation et la comparaison de performance des multiprocesseurs est un problème
+actuel qui nécessite une quantité importante de résultats à trier et à comparer. Afin d’arriver à ce but,
+cette méthodologie est composée d’un ensemble de résultats expérimentaux et d’outils d’analyse.
+Ce stage s’intègre dans le projet en proposant une valorisation des résultats déjà obtenus et facilitant
+l’exploitation des résultats. En effet, l’exploitation de ces résultats n’est pas triviale du fait de leur
+nombre et de leur représentation multidimensionnelle. De plus, selon les informations que l’on cherche
+à  réunir  et  analyser,  l’extraction  des  résultats  doit  être  réfléchie  et  les  résultats  traités   (ex :
+comportement d’une application, caractérisation d’une architecture…).
+Dans ce but, le stage contiendra 3 phases. La première phase consiste à réaliser la conception d’une
+base de données capable d’accueillir au mieux les résultats d’expérience, la réalisation d’une page
+d’ajout d’expérimentations, la réalisation d’une page d’importation de résultats, réalisation d’une page
+de génération de courbes en fonction des différents points de vue. La seconde phase sera la gestion
+de la suite d’outil COTS et comportera la réalisation d’une page interne contenant l’enchainement et
+l’interface   avec   l’outil                                                                                 (lancement   à   distance   et   analyse   des   résultats)   afin   de   générer
+automatiquement  différent  type  de  rapport.    Une  dernière  phase  sera  la  combinaison  des  outils
+disponibles afin de réaliser une démonstration automatique des possibilités des outils.
+Niveau demandé : Diplôme d’ingénieur, Master (BAC+4/5)
+Durée : 6 mois
+Compétences :  base  de  données  SQL,  développement  Web  (HTML,  CSS,  JavaScript,
+PHP), C, latex
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                          : Alexandre Guerre
+Téléphone                                                                                                    : 01 69 08 56 47
+Email                                                                                                        : alexandre.guerre@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                   Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                               Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                     Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

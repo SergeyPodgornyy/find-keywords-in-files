@@ -1,0 +1,48 @@
+﻿BUBBLZ RECRUTE UN/UNE STAGE - UN(E) DÉVELOPPEUR(EUSE) IOS EN STAGE DE 6 À 12
+MOIS.
+Date : 10/11/2014
+Référence de l’offre : Dev_iOS-8021143
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75010, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Sans diplôme
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Nous ne sommes ni une marque de savon, ni une marque de chewing-gums. Bubblz est une application de
+partage de fichiers, qui te permet d'envoyer n'importe quel fichier, à n'importe lequel de tes contacts en un
+clic. Cela va de l'envoi de photos à l'envoi de vidéos. Une fois en ligne tu peux les visualiser, les commenter,
+voir qui a accès ou qui a eu accès à ces fichiers. Nous nous différencions de la concurrence grâce à notre
+superbe interface de navigation
+et nos puissantes fonctionnalités.
+Description du poste :
+C'est quoi la mission ?
+Actuellement la première version beta-ouverte de notre web-app est accessible sur bubblz.net ! Nous sommes
+en train de développer une application iPhone qui devrait sortir en version bêta d'ici la fin du mois de
+novembre. Ta mission consistera principalement à :
+* Continuer le développement de l'application iOS de Bubblz (une grande autonomie te sera confiée sur cette
+tâche, comme dirait l'oncle Ben : un grand pouvoir implique de grandes responsabilités);
+* Gérer la sortie de l'application sur l'Apple Store;
+* Essayer de battre ton maitre de stage à FIFA et CoD (si tu ne sais pas jouer à ces jeux a priori c'est mort
+pour toi mais tente quand même).
+C'est quoi nos technos ?
+* Famo.us / Angular.js / Objective C / SCSS / Jade / RoR / Redis / AWS
+Qu'est ce qui nous rend sexy ?
+* On me dit à l'oreillette que nos technos sont très pertinentes et modernes;
+* Maintenant on me dit dans l'autre oreillette que l'appli Bubblz est incroyable;
+* Tu participeras à la préparation et au lancement de notre nouvelle bêta-ouverte et de la V1;
+* On est une équipe de grands curieux polyvalents et tu en apprendras tous les jours (comme nous);
+* L'ambiance de travail est détendue et notre seul mot d'ordre est de construire de grandes choses;
+* Ta rémunération sera très compétitive (mort à l'indemnité de 430                                                 €, tu vaux mieux que ça).
+Profil recherché :
+* Envoie nous ta lettre de motivation, ton CV, ton profil github, tout ce que tu trouveras d'intéressant pour te
+vendre (dernier score FIFA ?) avec en sujet : Dev iOS
+* Quatres facteurs pourront augmenter tes chances d'être pris : Tu as déjà développé plusieurs applications
+iphones, tu as déjà travaillé en relation avec des APIs (gestion des événements asynchrones etc), tu répondras
+à cette offre avec un ton décalé, tu as réussi notre défi (https://github.com/BubblzNet/FlappyRect).
+Pour postuler : http://bubblz.contactrh.com/jobs/1536/8021143
+
+
+
+
+

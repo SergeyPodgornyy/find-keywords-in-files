@@ -1,0 +1,59 @@
+﻿ATOS RECRUTE UN/UNE ALTERNANCE BIG DATA H/F EN APPRENTISSAGE/ALTERNANCE 12
+MOIS.
+Date : 01/09/2015
+Référence de l’offre : 185604-9406233
+Domaine d’activité : Systèmes d'informations / télécom (Consultant / Audit / AMOA)
+Type de contrat : Apprentissage/Alternance
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Nous vous proposons d'intégrer et d'assister une équipe de consulting appartenant à la direction technique
+d'Atos Technology Services  (ATS) Sud-Est. Celle-ci intervient auprès de nos clients locaux dans des
+contextes, d'expertises techniques, d'audits, de missions d'accompagnement et de conseil.
+Profil recherché :
+Afin d'adresser les problématiques de nos clients sur la partie Big Data (NoSql et Hadoop) nous devons
+mettre en avant notre savoir-faire et notre expertise dans ce domaine à travers la réalisation de prototypes, de
+proof of concept (POC)
+Durant votre alternance ou votre stage, il vous sera donc demandé de contribuer à la réalisation de ces
+prototypes et d'études de faisabilité, de solutions ou d'opportunité.
+Travaux à réaliser :
+- Participer aux travaux de recherche et d'étude technique (R),
+- Rédiger des rapports/synthèses d'étude (Recommandations, benchmark technologiques, etc.),
+- Participer à la réflexion de l'implémentation du Big Data chez nos clients,
+- Réaliser des prototypes et des tests vis-à-vis des solutions du marché et de nos partenaires,
+Livrables attendus : Synthèses d'étude, documents de restitution, mis en place de prototype.
+Environnement Technique  : Avoir des connaissances en base de données orienté clé/valeur, document,
+colonne ou graphe. MongoDB, CouchDB, Cassandra, Neo4j… Java, RxJava, Hadoop
+Objectifs pédagogiques : Participer à la mise en place de démonstrateurs ou prototypes BigData pour montrer
+à nos clients les gains offerts par de telles solutions.
+Dans  ce  cadre  nous  recherchons  un  étudiant  en  dernière  année  d'école  d'ingénieur  avec  de  fortes
+
+
+
+
+connaissances en base de données ainsi qu'un gout prononcé pour l'apprentissage des nouvelles technologies.
+Vous savez développer en JAVA, et vous connaissez les différentes bases de données du marché. Une
+connaissance de la programmation réactive ou fonctionnelle est un plus.
+Vous êtes consciencieux, vous avez le sens du travail en équipe, vous êtes à l'aise à l'oral et maîtrisez la
+langue anglaise.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9406233
+
+
+
+
+

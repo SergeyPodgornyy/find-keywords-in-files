@@ -1,0 +1,38 @@
+﻿ECONOCOM OSIATIS RECRUTE UN/UNE INGÉNIEUR SYSTÈME- STAGE H/F EN STAGE DE 5 À 6
+MOIS.
+Date : 01/09/2015
+Référence de l’offre : IMPSIDF700ACH15-9277601
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Vélizy (78) 78140, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Le 22 novembre 2013, Econocom, acteur incontournable du marché européen des services numériques aux
+entreprises, a finalisé l'acquisition de la totalité du capital d'Osiatis donnant ainsi naissance à un acteur
+européen  majeur  des  services  aux  infrastructures                                                           (conseil  en  architecture,  ingénierie  d'outils  et  de
+transformation vers le Cloud, infogérance de production et des environnements de travail, maintenance
+critique des systèmes et réseaux) et des applications connexes (portails, collaboration, nomadisme, BI...).
+Dorénavant  fédérées  sous  la  marque  Econocom-Osiatis,  les  activités  et  entités  Services  d'Econocom
+représentent près de 7 000 collaborateurs présents dans 11 pays.
+Description du poste :
+Stage de fin d'étude-Pour accélérer son développement en région IDF, la BU IMS recherche un Ingénieur
+Système Microsoft.
+Vos missions :
+Concevoir,  déployer  et  mettre  en  œuvre  des  architectures  matérielles  et/ou  logiciels  des  moyens
+informatiques.
+Etudier les évolutions du système, de l'architecture et de la mobilité.
+Maintenir en conditions opérationnelles l'infrastructure.
+Rédiger des documentations d'architecture technique en environnement Windows.
+Définir les plans d'intégration
+Profil recherché :
+Etudiant(e)  préparant  un  diplôme  de  niveau  Bac                                                            +5  vous  avez  envie  d'évoluer  dans  le  domaine  de
+l'architecture  applicative  messagerie  MS.  Vous  avez  des  connaissances  sur  l'environnement  Exchange
+2003/2007/2010, Windows server 2003/2008 et Hyper V.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9277601
+
+
+
+
+

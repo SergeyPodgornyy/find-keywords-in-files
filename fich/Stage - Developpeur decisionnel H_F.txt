@@ -1,0 +1,60 @@
+﻿Stage  - Développeur décisionnel H/F
+BNP Paribas Personal Finance
+REFERENCE  :  STA1973
+POUR POSTULER  :  http://bnpperfin.contactrh.com/jobs/1536/4913165
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Saint Ouen 93000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 31/10/2013
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Avec plus de 16 000 collaborateurs présents dans une vingtaine de pays et près de 123 milliards
+d'euros d'encours gérés, BNP Paribas Personal Finance est le numéro 1 du crédit aux particuliers en
+France et en Europe. Partenaire de référence du monde du commerce, des services, des banques et
+sociétés d'assurance, BNP Paribas Personal Finance est le premier multispécialiste capable d'offrir
+une gamme complète de crédits aux particuliers. Des offres de crédit au service des clients et qui
+engagent l'entreprise au quotidien. Car BNP Paribas Personal Finance est aussi l'acteur de référence
+en matière de crédit responsable, un leader qui s'efforce d'accompagner ses clients à chaque étape
+de leurs projets, de les informer, de les conseiller, et dont la volonté est de favoriser l'accès au crédit
+au plus grand nombre tout en luttant contre le risque de surendettement.
+DESCRIPTION DU POSTE  :
+Avec plus de 550 collaborateurs, la Direction des Systèmes d'Information de BNP Paribas Personal
+Finance recherche pour son équipe Statistiques Opérationnel & Key Performance Indicators (KPI)
+en contrat de stage un développeur décisionnel H/F.
+Le stage se déroule dans le cadre du projet KPI Comex visant à doter BNP Paribas Personal Finance
+d’une plateforme de KPI utilisée par toutes les filiales. Ce projet est composé de plusieurs volets :
+intégration des données provenant des filiales internationales, modélisation de la plateforme KPI,
+création de reportings. Ces reportings seront disponibles sur l'intranet mais aussi sur iPad.
+Le stagiaire devra créer, à l'aide de l'outil de business intelligence Microstrategy, ces reportings
+iPad à destination du comité exécutif de l'entreprise. Ces reportings donneront une vision
+exhaustive de l'entreprise grâce à des données de production, d'encours, d'assurance, de risque, de
+finance et de RH.
+Vos missions consistent à :
+- Développer des méthodes et outils de reporting;
+- Etablir la recette technique des différents reportings;
+- Effectuer la mise en production.
+
+
+
+
+PROFIL  :
+Formation :
+Vous êtes issu(e) d’une formation Bac +4/5 en Ecole d'ingénieur ou équivalent universitaire avec
+une spécialisation en informatique décisionnel.
+Qualités requises :
+Curieux(se) et rigoureux(se) vous disposez de bonnes capacités rédactionnelles. Doté(e) d’un état
+d’esprit positif et constructif vous avez des qualités relationnelles.
+La maîtrise des logiciels de reporting (Microstrategy, Business Object,…) et de l’anglais est
+souhaitable.
+Informations complémentaires
+Stage de 6 mois minimum à pourvoir dès que possible.
+Stage basé à Saint Ouen (93).
+POUR POSTULER  :  http://bnpperfin.contactrh.com/jobs/1536/4913165
+
+
+
+
+

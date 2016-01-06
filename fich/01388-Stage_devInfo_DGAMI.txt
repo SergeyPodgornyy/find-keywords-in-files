@@ -1,0 +1,47 @@
+﻿Fiche de proposition de sujet
+pour stage étudiant
+Année scolaire 2013   -   2014
+Division : TEC
+Département / service : STR
+Nom du tuteur                                                                                                         Jean-Philippe Delahaye
+Coordonnées                                                                                                           Bureau T711 (02 99 42 93 52)
+Diplôme préparé                                                                                                       Bac+4-5 en informatique, écoles d’ingénieurs ou universitaires
+Niveau de connaissances requis
+Nature des travaux                                                                                                    Sujet de Stage :
+Développement et implantation de services pour une couche d’abstraction
+logicielle sur plateforme temps réel embarquée en radio logicielle.
+Contexte :
+Dans un contexte de conception des futurs terminaux mobiles de radio
+transmission de type radio logicielle, les applications de plus en plus
+complexes (forme d’onde) s’appuient sur de nombreux  services offerts par
+les  couches  d’abstraction  logicielles                                                                              (middleware).  Parmi  les  services
+offerts par le middleware (déploiement, gestion, contrôle des applications),
+des services de gestion des E/S de type Audio, Ethernet, Série complètent
+sous forme d’APIs, le middleware d’une plateforme radio logicielle.
+Travaux :
+L’objet de ce stage est de développer des services additionnels sous forme
+de composants logiciel basés sur des spécifications APIs standard. Les
+composants  logiciels  seront  développés  en  C++  sous  Linux  dans  un
+environnement de développement Eclipse/RSA.
+-                                                                                                                     Etudes des spécifications des services d’E/S
+-                                                                                                                     Développement  en  C/C++  de  nouveaux  composants  logiciels
+support plateforme (drivers) implantant les APIs
+-                                                                                                                     Implantation  des  composants  et  test  sur  plateforme  temps  réel
+embarquée (processeur ARM Cortex A8, RTOS Linux)
+Compétences techniques requises :
+Langage C++, programmation API, middleware et support plateforme,
+Linux, environnement Eclipse/RSA (IBM Rational Software Architect).
+Durée                                                                                                                 Long, 4-6mois
+(court, long, apprentissage)
+Période souhaitée                                                                                                     2014
+Habilitation *                                                                                                        Non
+Commentaires                                                                                                          Dans un contexte d’étude multidisciplinaire le candidat fera preuve
+d’autonomie, de curiosité et ouverture d’esprit.
+* : l’habilitation défense (CD) restera exceptionnelle et devra être demandée dans les délais. A défaut les travaux
+devront être adaptés avec des données non classifiées.
+F/091/DGA MI indice A
+
+
+
+
+

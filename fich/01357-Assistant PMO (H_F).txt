@@ -1,0 +1,56 @@
+﻿CRÉDIT AGRICOLE RECRUTE UN/UNE ASSISTANT PMO (H/F) EN STAGE 6 MOIS.
+Date : 01/05/2014
+Référence de l’offre : 6727GIT/MA-6224874
+Domaine d’activité : Systèmes d'informations / télécom (Chef de Projet / MOE)
+Type de contrat : Stage
+Localisation : Paris La Défense 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Crédit Agricole CIB est la Banque de Financement et d'Investissement du groupe Crédit Agricole, 5ème groupe
+bancaire mondial par le total de bilan et au 4ème rang européen par le montant de ses fonds propres Tier One
+(The Banker - Juillet 2013).
+Crédit Agricole CIB propose à ses clients une gamme de produits et services dans les métiers de la banque de
+marchés, de la banque d'investissement, des financements structurés et de la banque commerciale. La Banque
+accompagne les clients sur les grands marchés internationaux grâce à son réseau mondial dans les principaux
+pays d'Europe, des Amériques, d'Asie et du Moyen-Orient.
+ENVIRONNEMENT :
+Global  IT  est  le  département  informatique  de  la  BFI  de  Crédit  Agricole                                   (Banque  de  financement  et
+d'investissement). Un programme de transformation de la direction des systèmes d'information a été lancé en
+2013. Constitué d'un ensemble d'initiatives, il est piloté comme un véritable projet au niveau de la DSI.
+Vous intègrerez l'équipe ITO/TSR en charge du reporting et du pilotage du plan de transformation.
+Description du poste :
+Une démarche d'amélioration continue a été initiée afin d'automatiser le processus de collecte des informations
+nécessaires au pilotage des projets constituant le programme.
+Les informations collectées sont de plusieurs natures :
+- Information relative à la vie du projet : état d'avancement, risques, alerte, planning;
+- Information relative à la vision budgétaire des projets;
+- Information relative au suivi du déploiement des actions initiées (indicateurs opérationnels).
+Un outil Excel VBA, interfacé avec une base ACCESS est en cours de déploiement auprès de tous les chefs de
+projets.
+Au cours de votre stage, vous participerez aux missions suivantes :
+* Vous serez en charge du déploiement, du développement et de la maintenance de l'outil ;
+* Vous contribuerez aux réflexions menées sur l'amélioration des processus de fonctionnement;
+* Vous serez en charge du déploiement, du développement et de la maintenance de l'outil.
+Vous serez formé et encadré par l'équipe de coordination du plan de transformation, sur les aspects de gestion de
+projet, d'accompagnement au changement et de développement en Excel/Access VBA.
+Profil recherché :
+
+
+
+
+Formation : Ecole d'ingénieur, Université (Bac+4/5)
+Spécialisation : Informatique
+Expérience souhaitée : Stage et/ou une expérience significative en entreprise
+Outils informatiques : Suite Microsoft Office, langage de programmation Objet (C++ ou JAVA), Excel / Access
+VBA souhaité
+Qualités recherchées : Aptitude à travailler en équipe, capacité d'analyse, rigueur,bonne communication orale et
+écrite, esprit de synthèse, force de proposition, proactif.
+Langues : Français et anglais courant
+Pour postuler : http://ca.contactrh.com/jobs/1536/6224874
+
+
+
+
+

@@ -1,0 +1,54 @@
+﻿Conception d'objets communicants DASH7
+Paris Incubateurs
+REFERENCE  :  Wizzlab004
+POUR POSTULER  :  offre4246562.1536@parisincub.contactrh.com sous la référence
+Wizzlab004
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris 75018, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 02/09/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Etudes - Recherche (Ingénieur R & D/Chercheur)
+SOCIETE  :
+Paris Incubateur recrute pour l'une des ses entreprises: WizziLab.
+WizziLab S.A.S. est un fournisseur de solutions de communications sans fil ultra basse
+consommation, faible latence et longue portée basées sur le standard DASH7.
+WizziLab est membre de l'Alliance DASH7 et siège au Protocol Action Group de l'Alliance.
+L'Alliance DASH7 est une organisation à but non lucratif qui promeut la technologie sans fil
+DASH7 et œuvre à l'extension du standard ISO 18000-7 et à interopérabilité des solutions
+(www.dash7.org).
+WizziLab est une JEI basée à Paris soutenue par OSEO et l'Incubateur de Telecom ParisTech
+depuis novembre 2011 (entrepreneurs.telecom-paristech.fr). Elle a rejoint l'incubateur Paris
+Innovation Nord Express en Juin 2013 (parisincubateurs.com).
+Web: www.wizzilab.com
+DESCRIPTION DU POSTE  :
+Dans le cadre du développement de sa plateforme de communication sans fil, bas débit, basse
+consommation, WizziLab recherche un étudiant en développement logiciel embarqué (C).
+Durant son stage, l'étudiant concevra des applications embarquées sur plateforme WizziMote
+(www.wizzimote.com), plateforme Arduino ou Linux embarqué (OpenWRT) permettant de
+démontrer les capacités du réseau DASH7. Ce développement inclura le codage de drivers de
+périphériques (capteurs), le développement d'applications sur les objets communicants (micro-
+contrôleurs ARM Cortex M3), le contrôle de modules de communication sans fil DASH7.
+Mots clé: DASH7, MSP430, ARM Cortex M3, OpenWRT, logiciel embarqué C, langages de
+scripts (Ruby, Lua), communication sans fil, réseau de capteurs, services web, bases de données,
+internet des objets, Arduino.
+
+
+
+
+Pour se porter candidat ou toute autre information concernant cette offre, contactez
+hr@wizzilab.com.
+PROFIL  :
+De formation technique (Licence, Master, Ecole d’Ingénieur…), vous maîtrisez les technologies
+suivantes :
+-Développement en C pour plateforme embarquée
+-Linux, language de script
+POUR POSTULER  :  offre4246562.1536@parisincub.contactrh.com sous la référence
+Wizzlab004
+
+
+
+
+

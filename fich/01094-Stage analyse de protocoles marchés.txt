@@ -1,0 +1,63 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  STAGE  ANALYSE  DE
+PROTOCOLES  MARCHÉS  EN  STAGE  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  ST/SB/ITEC95129­5579437
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Parce  qu'il  n'y  a  pas  de  succès  collectif  sans  réussite  individuelle,  de  progrès  d'entreprise
+sans  évolutions  personnelles,  Société  Générale  propose  à  chacun  de  ses  collaborateurs
+une  aventure  professionnelle  épanouissante  et  enrichissante,  qui  respecte  la  diversité  des
+talents  avec  plus  de  159  000  collaborateurs  dans  77  pays.
+Description  du  poste    :
+Votre  environnement
+Au  sein  du  département  informatique  (ITEC)  de  la  SGCIB  (Banque  de  Financement  et  d
+Investissement  de  la  Société  Générale)  et  dans  l'équipe  en  charge  des  projets  de
+développement  des  accès  marchés  pour  le  trading  de  la  SGCIB.
+Votre  stage
+Au  cours  de  ce  stage,  et  sous  la  responsabilité  de  votre  tuteur,  vous  analysez  les  protocoles
+entre  les  Bourses  et  nos  systèmes  de  trading  afin  de  les  normaliser  via  des  outils  comme
+WIRESHARK.
+A  ce  titre,  vous  participez  aux  missions  suivantes  :
+­ Recherche  de  solutions
+­ Développement  de  la  solution  viaWireshark.
+Apport  du  stage
+Ce  stage  vous  permettra  de  mener  à  bien  un  projet  technique  dans  un  domaine  très  précis
+des  protocoles  applicatifs  des  marchés  (market  data,  passage  d  ordres).
+Il  faudra  partir  de  l'analyse  d'une  situation  et  en  allant  jusqu'à  la  mise  en  production  de  la
+solution  pour  les  utilisateurs.
+Votre  profil
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  école  d'ingénieur  ou  université  avec  une
+
+
+
+
+spécialisation  en  informatique  (développements  logiciels).
+Votre  niveau  d'anglais  est  opérationnel  et  vous  avez  une  bonne  connaissance  du  Pack
+Office.
+Vous  possédez  un  esprit  d'analyse  et  une  bonne  capacité  de  synthèse  afin  de  traiter  de
+multiples  informations  et  d'accomplir,  avec  succès,  les  travaux  qui  vous  seront  confiés.
+Vous  bénéficiez  idéalement  des  connaissances  en  C++  et/ou  C   est  un  plus.
+Et  si  c'était  vous?
+Si  votre  CV  est  sélectionné  par  le  recrutement,  vous  rencontrerez  un  opérationnel  pour  un
+entretien  de  motivation.  La  décision  de  vous  recruter  pour  ce  stage  appartiendra  à  ce
+manager.
+Durée  :  6  mois
+Type  :  Convention  de  stage
+Gratifications:  Selon  grilles  Société  Générale
+Profil  recherché    :
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  une  spécialisation  en  informatique
+(développements  logiciels).
+Vous  bénéficiez  idéalement  des  connaissances  en  C++  et/ou  C   est  un  plus.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5579437
+
+
+
+
+

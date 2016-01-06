@@ -1,0 +1,64 @@
+﻿ATOS RECRUTE UN/UNE INDUSTRIALISATION-L'AUDIT SÉCURITÉ H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 28/01/2015
+Référence de l’offre : 2013-1473-8713108
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Le Pôle Conseil et Audit en Sécurité des Systèmes d'Information assure des prestations d'audit Sécurité :
+- Audits techniques (audits de code, audits de configuration, tests d'intrusion…)
+- Audits organisationnels  (Systèmes de Management de la Sécurité des Informations, bonnes pratiques,
+Référentiel Général de Sécurité…) et de sécurité physique.
+Dans le cadre de ses activités d'audit en SSI, le Pôle Conseil et Audit SSI souhaite :
+- Renforcer ses processus participant à la qualité des prestations d'audit délivrées, et à la sécurité des données
+d'audit (preuves) reçues et conservées ;
+- Maintenir le niveau de sécurité atteint par l'infrastructure technique et organisationnelle.
+Bull Pôle Conseil et Audit SSI est déjà détenteur d'une certification d'auditeur qualifié PCI-DSS et est
+actuellement engagé dans une démarche pour l'obtention de la qualification « Prestataire d'audit SSI », par
+l'ANSSI
+(http://www.ssi.gouv.fr/IMG/pdf/referentiel-exigences_labellisation_prestataires-audit-teleservices_v1-0.pdf)
+Le présent stage doit entrer dans le cadre du maintien de cette qualification.
+Rattaché(e) au Consultant Sénior en Sécurité, vos missions seront les suivantes :
+- Diagnostic du référentiel existant des processus mis en œuvre pour assurer la sécurité et la qualité des
+prestations d'audit réalisées et de la préservation des données de preuve associées
+- Amélioration du dispositif suite à ce diagnostic
+- Renforcement ou l'élaboration des procédures éventuellement nécessaires et non encore mises en œuvre
+- Mise en œuvre et suivi des processus nécessaires à ce niveau de sécurité (veille, gestion du risque, maintien
+du référentiel documentaire, gestion des compétences, etc.).
+De plus, il pourra vous être demandé de participer, toujours encadré(e) par un Consultant, à des activités
+autres du Pôle Conseil et Audit en SSI, en lien avec la Sécurité des Systèmes d'Information (Politiques de
+Sécurité, Plan de Continuité d'Activité, Politiques de Certification, Audits…)
+Profil recherché :
+Compétences requises
+
+
+
+
+- Connaissances en Sécurité des Systèmes d'Information
+- Autonomie
+- Aisance rédactionnelle et relationnelle
+Compétences appréciées
+Des connaissances en gestion des risques seront également appréciées
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8713108
+
+
+
+
+

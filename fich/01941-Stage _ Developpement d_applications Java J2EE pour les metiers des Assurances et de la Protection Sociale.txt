@@ -1,0 +1,59 @@
+﻿ISSF / APS
+Stage  - Développement d'applications Java JEE pour les métiers des
+Assurances et de la Protection
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe,
+accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs  métiers  et  systèmes
+d'information. Combinant valeur ajoutée et innovation dans les solutions apportées, qualité industrielle
+et performance des services délivrés, Sopra est le partenaire de référence des grandes entreprises et
+organisations qui recherchent le meilleur usage du numérique pour assurer leur développement et
+leur compétitivité. Le Groupe compte plus de 16 000 collaborateurs et a réalisé un chiffre d'affaires
+2013 de 1,349 milliard d'euros.
+Sopra   est   coté   sur   NYSE   Euronext   Paris.   Pour   plus   d'informations,   retrouvez-nous   sur
+www.sopra.com<http://www.sopra.com>
+Au sein de Sopra, vous êtes rattaché(e) au Marché Assurances et Protection Sociale qui regroupe
+550 collaborateurs et intervient sur les grands projets de transformation métiers et SI de nos clients
+assureurs, Groupes de protection sociale et mutuelles.Nous accompagnons nos grands clients en
+apportant  une  forte  valeur  ajoutée  métier  à  travers  des  prestations  de  Conseil  (optimisation  des
+processus métier et  des  organisations, schéma directeur et gouvernance IT…) et des prestations
+d’assistance  à  maîtrise  d’ouvrage  et  d’intégration  de  systèmes                                           (projets  de  développement,
+outsourcing applicatif, intégration de solution) autour notamment de la mobilité, du digital de la BI et
+du big data et core system métier. Si vous souhaitez participer à des projets d’envergure et relever de
+nouveaux challenges, rejoignez-nous et boostez votre carrière professionnelle.
+Vous intégrerez l'une des équipes du centre de compétences Assurances et Protection Sociale basé à
+Orléans et dédié à des projets pour des acteurs majeurs de ces domaines  (assurances, mutuelles,
+grands  groupes  de  protection  sociale,  régimes  spéciaux  de  retraite).  Ces  projets  suivent  une
+méthodologie industrielle et outillée qui vous permettra de disposer d'une expérience solide dans un
+contexte  professionnel  reconnu.  Ils  exploitent  des  environnements  techniques  JEE  standards  sur
+lesquels vous serez mis(e) à niveau en début de stage.
+Vous participerez à l'ensemble des étapes clés :
+- développement en Java/JEE
+- réalisation des tests unitaires
+- réalisation de dossiers de conception
+- phases de qualification
+Intérêt du stage
+- participer à un projet d'évolution ou de maintenance du SI d'un acteur majeur dans le domaine de
+l'assurance ou de la protection sociale sur une architecture Java JEE
+- approfondir vos compétences JEE en intégrant une équipe d'Ingénieurs confirmés et au contact
+d'expertises transverses (architectes, spécialistes de la recette, business analysts)
+- mettre en oeuvre les méthodes de conduite de projet Sopra et expérimenter les outils associés
+- découvrir le quotidien d'une équipe et la gestion d'un projet au forfait
+Environnement technologique/fonctionnel
+Java, JEE, Struts, Hibernate, Spring, SQL, Eclipse, JBoss, Maven
+Environnement humain
+
+
+
+
+Intégré(e) à l'une des équipes projet du centre de compétences Assurances et Protection Sociale,
+vous serez encadré(e) par un Chef de Projet et disposerez d'un tuteur sur toute la durée de votre
+stage.
+Profil recherché
+Actuellement  en  dernière  année  d'école  d'Ingénieurs  ou  en  Master                                 2  informatique,  vous  êtes
+curieux(se), vous avez le sens du service, un bon relationnel et vous aimez travailler en équipe. Vous
+avez de bonnes capacités d'adaptation et vous êtes force de proposition.
+Réf. du sujet : ISSFAPS/ORL/STAGE/659
+
+
+
+
+

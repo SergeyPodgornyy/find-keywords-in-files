@@ -1,0 +1,39 @@
+﻿Qt Quick and Necessitas on Android Tablet
+1 / 1
+Sujet
+Portage d’un logiciel de supervision fonctionnant sur PC pour exécution sur une tablette tactile Android.
+Description
+Le logiciel est utilisé pour diagnostiquer et superviser en temps réel un contrôleur de vissage.
+Votre mission consistera à porter l’application existante sur une tablette tactile Android. Le portage devra utiliser Qt
+quick pour l’utilisation de Qt sur système Android.
+Vous devrez analyser puis réaliser des maquettes afin d’adapter l’ergonomie du logiciel à une utilisation sur tablette
+tactile.
+Vous devrez porter les librairies utilisant le framework Rhapsody OXF sur Android.
+Compétences requises
+Système Linux et Android
+Langage C/C++
+UML
+Programmation orientée objet
+Une expérience avec Qt est un plus
+Vous êtes autonome, curieux et créatif et avez de bonnes capacités de synthèse et de présentation.
+Détails pratiques
+Stage de 5/6 mois se déroulant à Nantes au sein du service logiciel de CP Technocenter.
+Rémunération attribuée.
+Contact
+Merci d’envoyer votre CV à
+Laurent Macquet
+Line manager Software
+CP Technocenter
+38 rue Bobby Sands ZAC de la Lorie
+44818 Saint Herblain - France
+Phone dir.: +33 (0)2 40 80 89 94 - Fax: +33 (0)2 40 80 20 24
+E-mail: laurent.macquet@cp.com
+Distribution :
+Portage CVI Monitor - Android.docx                                                                                                                                                                                      13 / 12/11/2013 16:08:00   SUPPORT(s)-CADRE(s) : GEN-001
+Ce document et les informations qu'il contient, sont la propriété de la société GEORGES RENAULT. Ceux-ci ne doivent en aucun cas être communiqués ou transmis à des tiers sans l'autorisation préalable de la société
+GEORGES RENAULT.
+
+
+
+
+

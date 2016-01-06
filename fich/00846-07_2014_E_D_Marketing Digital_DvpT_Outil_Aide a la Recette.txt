@@ -1,0 +1,56 @@
+﻿INFORMATIQUE                                                                                                                  STAGE   2013-2014
+DEVELOPPEMENT D'UN OUTIL
+D'AIDE A LA RECETTE
+Stage rémunéré
+                                                                                                                              Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 07_2014_E&D_MARKETING DIGITAL
+                                                                                                                              informatique  interne  au  Groupement  U
+                                                                                                                              (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 4 mois - Période : à partir de Janvier   2014
+                                                                                                                              mission  la  centralisation  et  l'uniformisation
+                                                                                                                              des ressources informatiques des magasins U
+et des centrales.
+                                                                                                                              Chaque  année  nous  accueillons  une  douzaine  de
+stagiaires   qui   rejoignent   une   équipe   de                                                                             500
+Vous  serez  intégré  au  sein  d'une  équipe  informatique  constituée                                                       collaborateurs qui travaillent dans un environnement
+technique constitué de 500 serveurs (Unix, Windows,
+d'analystes  et  de  chefs  de  projets  dont  l'objectif  est  d'assurer  la
+AS400), 1800 équipements réseaux et une centaine de
+maintenance  corrective  et  évolutive,  ainsi  que  l'assistance  aux
+bases de données, répartis dans les Datacenters et
+utilisateurs du système de fidélité du groupement U. Dans un contexte
+reliés aux 1423 points de vente du groupe.
+où   la   multiplication   des   projets   métiers   initiés   impose   une
+industrialisation de la méthodologie de test, la mise en œuvre d'outils
+En immersion complète dans des projets
+spécialisés et d'aide à la recette, se révèle désormais indispensable.
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+En tant que stagiaire, vous serez amené à développer vos compétences techniques et fonctionnelles pour répondre au
+besoin d'outillage d'une équipe du département Etude et Développement et cela dans le cadre de leur activité de recette sur
+le système de fidélité.
+Il vous sera demandé de mettre en œuvre une solution pérenne, évolutive et développée dans le respect du modèle
+projet en V.
+Accompagné par un maitre de stage, vous aurez ainsi l'opportunité de découvrir et de participer activement à l'ensemble des
+phases de ce  projet.
+Développement JAVA J2EE,  SQL et / ou PL/SQL
+Environnement Windows
+Base de données Oracle 10g
+Bac +3 Informatique, Ecoles d'ingénieurs ou Universitaires
+Connaissances techniques :
+o   Bonne connaissance des différentes phases d'un projet
+o   Maitriser le langage de développement JAVA J2EE, et le SQL
+Qualités requises :
+o   Autonome
+o   Volontaire
+o     Dynamique
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

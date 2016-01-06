@@ -1,0 +1,51 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT CALL CENTER H/F EN STAGE DE 4 À 6 MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-TM-3482-8373432
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                     Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                    2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Les centres de contact (call centers) ont maintenant une dimension multimédia, en mêlant la téléphonie, le
+mail et le chat, avec une grande automatisation des traitements. Les agents en centre de contact utilisent
+dorénavant  des  interfaces  graphiques,  adaptées  et  personnalisées,  intégrant  de  manière  ergonomique,
+l'ensemble  des  fonctions  nécessaires  pour  répondre  au  mieux  aux  clients.  Pour  ses  différents  clients,
+Capgemini prend en charge la réalisation de l'interface et son intégration dans le système d'information de
+l'entreprise.
+Partie prenante de l'équipe projet, vous contribuez à toutes les phases d'un projet de réalisation d'interface
+graphique.  Cette  interface  multi  langue  est  fondée  soit  sur  une  architecture  client  léger  Web           2.0
+(AJAX+COMET) dialoguant avec un serveur d'application J2EE, soit sur une technologie .Net WPF.
+Dans ce cadre, votre mission porte en particulier sur :
+* le développement d'un ensemble cohérent d'éléments de l'interface graphique,
+* le développement des traitements utilisant les fonctions offertes par le produit de centre de contact
+multimédia retenu,
+* la rédaction de la documentation associée.
+L'environnement technique porte sur le Call center, Web 2.0, AJAX, Genesys, Web Services, Java, Jetty. Ou
+.Net et WPF.
+Profil recherché :
+De formation Bac+ 5, vous :
+* avez acquis des compétences dans la conception et le développement lors de vos études et souhaitez les
+mettre en application sur le terrain,
+* avez un niveau opérationnel en anglais (présentations écrites et orales),
+* êtes volontaire et dynamique,
+* appréciez le travail en équipe.
+Ce stage vous permet de :
+* travailler dans un environnement technique et fonctionnel de haut niveau basé sur des engagements forts,
+* acquérir la visibilité complète sur un projet de développement, de la conception à la livraison, dans un
+environnement opérationnel,
+* bénéficier d'une formation adaptée à nos métiers.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373432
+
+
+
+
+

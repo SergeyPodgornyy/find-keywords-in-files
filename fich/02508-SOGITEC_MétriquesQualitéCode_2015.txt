@@ -1,0 +1,44 @@
+﻿SUJETS DE STAGES 2015
+Sujet de stage 4ième année
+Mise en place d’un serveur d’inspection
+continue de code C++
+SOGITEC industries, Etablissement Bruz (35170)
+SOGITEC Industries S.A., société créée en 1964, filiale à 100% de Dassault Aviation, est spécialisée dans
+les domaines de la simulation et du support logistique intégré.
+Afin d’améliorer le processus de développement de logiciel de simulation en langage C++, Sogitec cherche à
+mettre en place un processus d’intégration continue.
+L’objectif de ce stage, d’une durée de 4 mois, consiste à évaluer plusieurs solutions d’intégration continue et
+de réaliser un prototype capable de produire quotidiennement des versions. Nous souhaitons également par
+ce biais mettre en place un processus de mesure continue de la qualité du code (complexité cyclomatique,
+redondance de code, etc…)
+Les travaux suivants seront à réaliser par le stagiaire :
+Intégration continue :
+   Identifier des solutions d’intégration continues satisfaisant les contraintes Sogitec
+   Prototype 1 ou 2 de ces solutions
+   Proposer un mode de fonctionnement et de gouvernance dans le cadre Sogitec
+Concernant les métriques de qualité de code :
+   Identifier les différentes métriques de qualité de code existantes, et les outils permettant de les
+mesurer (par exemple les outils Sonar, MPD, CCC, etc).
+   Evaluer les outils qui semblent les plus pertinents. Cette évaluation devra prendre en compte :
+o  La capacité des outils à détecter des codes dont la qualité n’est pas satisfaisante, en limitant
+les faux positifs.
+o  La facilité d’usage.
+o  Donner du sens aux métriques en analysant les résultats sur du code existant.
+   Intégrer ces métriques dans la chaîne d’intégration continue
+Les candidats devront connaître le langage C++, au moins un langage de script, et avoir des notions
+d’administration système en environnement Windows.
+Contact :
+Philippe BOINOT
+pboinot@sogitec.fr
+SOGITEC Industries
+24, av Lavoisier
+ZA Le Champ Niguel / BP 37408
+35174 BRUZ Cedex
+PAGE : 1 / 1
+F6667 - SOGITEC INDUSTRIES - Ce document est la propriété intellectuelle de Sogitec Industries,
+il ne peut être utilisé, reproduit, modifié ou communiqué sans son autorisation. SOGITEC Industries Proprietary Data.
+
+
+
+
+

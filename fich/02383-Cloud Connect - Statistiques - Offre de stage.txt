@@ -1,0 +1,45 @@
+﻿www.aquafadas.com
+Aquafadas   est   une   société   innovante,   leader   sur   le   marché   de   l’édi4on   numérique   sur   table7es   et   smartphones.   Forte
+des   technologies   et   de   l’expérience   développées   au   cours   de   ces   années,   elle   est   aujourd’hui   parmi   les   entreprises
+technologiques   en   plus   forte   croissance   en   Europe.   Aquafadas   appar4ent   au   Groupe   Japonais   Rakuten,   leader
+mondial   de   l’   e-­‐commerce   (Priceminister,   Viber,   Viki…).
+Aquafadas   se   posi4onne   comme   une   société   de   référence   partenaire   technologique   des   professionnels   de   l’édi4on,   de
+la   presse   et   de   la   communica4on   en   général   à   l’assaut   du   marché   numérique.   Elle   a   développé   des   partenariats
+privilégiés   avec   des   éditeurs   comme   Bayard,   Lagardère,   Mondadori,   des   agences   comme   Publicis   et   Havas,   des
+entreprises   comme   Air   France,   EDF   et   Véolia,   elle   est   aussi   présente   l’interna4onal   avec   des   partenaires   comme
+Cambridge   University,   Egmont,   Shueisha   et   Hürriyet.
+Découvrez   les   ou:ls   Aquafadas   gratuitement   sur   h7p://www.aquafadas.com.
+Stage   (H/F)      -­‐   Développeur   Base   de   Données
+Projet:
+Inves:ga:on   et   mise   en   place   d'une   solu:on   d'enregistrement   et   de   traitement   de   données
+sta:s:ques   orientées   u:lisateurs   fournit   par   des   applica:fs   mobiles   et   serveurs.
+L'infrastructure   logicielle   de   notre   entreprise   évoluant   vers   un   environnement   décentralisé   de   grande   taille,
+nous   avons   besoin   d'ou4ls   me7ant   en   avant   des   rela4ons   sur   le   comportement   de   différentes   applica4ons.
+Objec:fs   du   stage:
+1.                                                                                                                                                   Prendre   connaissance   de   l'état   de   l'art   dans   le   cadre   d'interven4on   de   sa   mission,   définir,   énumérer
+                                                                                                                                                     et   comprendre   les   contraintes   techniques.
+2.                                                                                                                                                   Rechercher   et   tester   des   solu4ons   techniques   et   architecturales.
+3.                                                                                                                                                   Fournir   et   me7re   en   place   des   sondes   dans   les   différentes   applica4ons.
+4.                                                                                                                                                   Me7re   en   place   un   tableau   de   bord   exploitant   les   données   recueillies.
+Votre   profil   :
+De   forma4on   Bac+4   minimum   en   développement   informa4que,   vous   avez   un   bon   niveau   en   base   de
+données   :   SQL,   NoSQL,   MySQL,   PostgreSQL,   Oracle.   Vous   possédez   également   une   bonne   connaissance   des
+architectures   client-­‐serveur.
+Qualités   recherchées:
+-Créa4vité,   passion   et   curiosité.
+-Autonomie.
+-Bonne   abstrac4on   conceptuelle.
+-Esprit   analy4que   et   rigoureux.
+Condi:ons:
+Stage   à   pourvoir   dès   que   possible.
+Lieu   :   Montpellier,   Quar4er   du   Millénaire.
+Gra4fica4on   de   stage   selon   la   loi   en   vigueur.
+Vous   souhaitez   par4ciper   à   l'aventure   d'Aquafadas   et   concevoir   la   technologie   de   demain   dans   le   domaine
+de   la   lecture   de   livres,   magazines,   bandes-­‐dessinées,   contenus   riches   sur   table7es   ?
+N'hésitez   plus,   rejoignez   nous   !
+Envoyez   nous   votre   candidature   (CV   +   LM)   à   l’adresse   suivante   :   stages@aquafadas.com
+
+
+
+
+

@@ -1,0 +1,28 @@
+﻿STAGE : Informatique
+développement application (H/F)
+NOUS…
+Regroupant les Fédérations régionales en Bretagne, dans le Sud Ouest et le
+Massif Central, le Crédit Mutuel Arkéa développe ses activités dans les
+domaines de la banque, de la finance et des assurances. Fort de l’expertise
+de ses 9000 collaborateurs et de ses 20 filiales, respectueux de ses valeurs
+mutualistes fondatrices, le Crédit Mutuel Arkéa est reconnu pour sa capacité
+d’innovation qui lui permet de répondre aux besoins de ses 3,2 millions de
+sociétaires et clients.
+…RECHERCHONS
+Le Département Banque et Flux recherche un stagiaire.
+Le service Flux et services monétiques gère les flux de paiement pour le
+Crédit Mutuel ARKEA.
+Durant votre stage vous serez en charge de la mise en place d’une
+application back office de gestion des cartes virtuelles.  De plus vous devrez
+mettre en place des tests automatisés sur une application du domaine flux.
+Vous préparez un diplôme bac +4/5 dans le domaine de l’informatique et êtes
+spécialisé(e) dans le développement de logiciel, vous maîtrisez JAVA. Vous
+êtes autonome, intéressé(e) par la technique, et curieux(se) d’esprit.
+Stage de 4 à 6 mois basé à Brest
+Pour postuler, rendez-vous sur notre site:       www.recrutement.arkea.com
+Date 00/00/0000 - Lieu d’intervention
+
+
+
+
+

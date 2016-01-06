@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE CONCEPTION TÉLÉCOMS NAVALES - H/F EN STAGE DE 3 À 6
+MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175984-7846865
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : SIX-FOURS LES PLAGES 83140, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Au sein de nos équipes de développement dans la défense (sous architecture spécialisée GEMO), vous aurez
+à votre charge la conception et le développement de fonctionnalités liées au système de télécommunications
+d'un navire : établissement de chaines radio, administration et supervision d'équipements de communication
+(modem, chiffreur, etc.).
+Vos missions :
+- Concevoir
+- Développer
+- Tester
+- Intégrer
+Environnements techniques :
+Java, Linux, Eclipse, JUnit, XML, Spring, Swing, UML, SVN
+Objectifs pédagogiques :
+Ce stage vous permet de mettre en œuvre la conception et le développement d'un module applicatif complet.
+Profil recherché :
+De formation supérieure Bac+5  (en cours de validation) en Ecole d'Ingénieur ou en université, vous
+recherchez un stage d'une durée de 6 mois (dates variables selon la formation).
+Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de
+communication écrite et orale. Votre engagement professionnel s'inscrit dans un esprit de service et de
+qualité
+Vous maîtrisez l'anglais.
+Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le désirez,
+dans toute autre région dans laquelle Atos recrute.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7846865
+
+
+
+
+

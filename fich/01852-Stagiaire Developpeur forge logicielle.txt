@@ -1,0 +1,54 @@
+﻿ATOS RECRUTE UN/UNE STAGIAIRE DÉVELOPPEUR FORGE LOGICIELLE EN STAGE DE 1 À 6
+MOIS.
+Date : 01/12/2014
+Référence de l’offre : 175781-8029047
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Strasbourg 67000, FR
+Durée du contrat : De 1 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 2-3 ans
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Mission
+Vous participerez à la réalisation d'une forge logiciel, véritable espace de développement pour les projets
+ATOS. Cette forge proposera des outils de gestion ainsi qu'un espace de stokage pour les informations du
+projet. Seront également mis à disposition des outils de production de projet (gestion de versions, gestion des
+anomalies, ...). Les documents qualité issus du référentiel qualité d'ATOS seront poussés vers le projet à
+travers cette forge.
+Une première phase a été réalisée en 2014. Il s'agit à présent de reprendre ce projet et de le finaliser.
+Environnement technique :
+Java J2EE
+PostGres
+Ce  projet  permettra  d'immigrer  le  stagiaire  dans  un  contexte  d'analyse,  de  recherche,  de  synthèse  et
+production au sein d'une équipe dynamique et motivée. Il sera confronté au référentiel qualité utilisé au sein
+de notre groupe.
+Profil recherché :
+
+
+
+
+Profil
+De formation Bac+5 type école d'ingénieurs ou équivalent universitaire, vous bénéficiez d'une expérience de
+2 ans ou plus en développement JAVA. Vous souhaitez proposer des solutions innovantes, réaliser un projet
+dans un contexte industriel en se basant sur les bonnes pratiques de la société. Vous apprendrez à rédiger de
+la documentation technique.Passionné d'informatique, vous êtes créatif, curieux, motivé et avez le sens du
+travail en équipe.
+Pour postuler : http://atos.contactrh.com/jobs/1536/8029047
+
+
+
+
+

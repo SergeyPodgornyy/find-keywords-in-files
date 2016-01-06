@@ -1,0 +1,47 @@
+﻿Stage Developpement Java/Android H/F
+Sogeti HT  - Région Est
+REFERENCE  :  HTMU8-SOP-Outil
+POUR POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/4462416
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Sophia Antipolis 06560, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 6 à 12 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Avec 3000 collaborateurs en France et plus de 20 ans d'expérience, Sogeti High Tech figure parmi
+les cinq leaders du marché de l'Ingénierie et du Conseil en Technologies. Nous intervenons dans de
+nombreux projets majeurs d'innovation et d'ingénierie technologiques des plus grands groupes
+industriels mondiaux. Nos expertises techniques et métiers dans les secteurs de l'aéronautique, du
+spatial, de la défense, du ferroviaire, de l'énergie et des télécoms renforcent la valeur ajoutée de nos
+solutions au service des challenges du monde industriel du XXIème siècle. A vous de vivre votre
+passion comme vous l'avez toujours imaginé.
+DESCRIPTION DU POSTE  :
+Durant l'assemblage des satellites et des essais sur banc ou simulateur, les plate-formistes sont
+amenés à effectuer un monitoring des équipements, et des résultats de tests.
+Dans le cadre de l'amélioration de ce processus, Sogeti High Tech souhaite donner une nouvelle
+dimension aux essais en intégrant l'utilisation de la tablette tactile. Les outils utilisés aujourd'hui
+sont principalement développés en Java, et devront être adaptés au monde Android. De plus, une
+optimisation des IHM devra être élaborée afin de faciliter l'utilisation par les plate-formistes.
+Vous interviendrez sur toutes les phases du cycle en V du développement :
+• rédaction des spécifications techniques et fonctionnelles
+• modélisation - architecture, incluant les choix technologiques en collaboration avec l'architecte
+expérimenté
+• Mise en place de l'environnement de développement
+• développement
+• phase de validation
+PROFIL  :
+Vous êtes passionné(e) par les technologies mobiles et avez une connaissance de l'environnement
+Android.
+Environnement : Java, Android
+
+
+
+
+POUR POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/4462416
+
+
+
+
+

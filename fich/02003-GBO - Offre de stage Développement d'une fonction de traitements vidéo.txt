@@ -1,0 +1,65 @@
+﻿Offre  de  Stage :  Développement  d’une  fonction de
+traitements vidéo sur FPGA
+ADETEL Group
+ADETEL Group (550 pers, 55 M€ de CA) : « le service à l’électronique »
+Notre  métier :  fournisseurs  d’équipements  électroniques  et  logiciels  auprès  des  grands
+comptes industriels de l’aéronautique, du transport et de l’énergie.
+Contexte
+La société ADENEO, société du groupe ADETEL, a développé un démonstrateur vidéo multi
+flux utilisant une carte ZYNQ (Processeur ARM intégré) de XILINX.
+http://www.youtube.com/adeneo-System-video
+Afin d’accroitre les capacités du démonstrateur, un flux vidéo provenant d’une caméra est en
+cours de développement.
+Ce  nouveau  flux  vidéo  nécessite  l’ajout  de  nouveaux  traitements  vidéo.  L’utilisation  du
+logiciel XILINX VIVADO HLS est appropriée pour les développer. Il est indispensable de
+pouvoir maitriser cet outil et ses librairies afin de pouvoir développer une nouvelle fonction
+ou un nouveau filtre.
+Les  algorithmes  de  traitements  vidéo  sont  divers  et  peuvent  être  appropriés  à  un  flux
+spécifique. Il  est  donc utile  de  pouvoir  adapter  le type  de  traitement au flux reçu. Les
+composants XILINX permettent la reconfiguration dynamique et partielle de ceux-ci.
+Objectif
+L’objectif du stage est de réaliser une fonction de traitements vidéo à partir de VIVADO HLS
+qui sera implémentée dans le démonstrateur ADENEO. Après avoir acquis la connaissance
+des outils XILINX et du composant ZYNQ, vous participerez à la définition d’une fonction de
+traitements vidéo et la développerez.
+Celle-ci  sera,  ensuite,  implémentée  dans  le  démonstrateur  et  pourra  être  remplacée,
+dynamiquement, par une autre fonction sous le contrôle du processeur interne du FPGA
+Sujet / missions
+Ce stage se traduit donc par les étapes suivantes qui seront affinée en début de stage :
+    Analyse de l’architecture et des fonctions existantes du démonstrateur ;
+    Portage de l’existant sous VIVADO ;
+    Prise en main de VIVADO HLS ;
+    Choix et définition d’une fonction de traitements vidéo ;
+    Réalisation de la fonction de traitements vidéo ;
+    Rédaction d’un document de description détaillée de la fonction ;
+    Rédaction de la fiche produit permettant de présenter en interne l’IP ;
+    Analyse des différents modes de configuration dynamique du ZYNQ ;
+    Mise en œuvre de la configuration dynamique partielle ;
+    Rédaction  d’un  manuel  utilisateur  pour  la  mise  en  œuvre  de  la  programmation
+dynamique partielle et de la fonction vidéo.
+
+
+
+
+Offre  de  Stage :  Développement  d’une  fonction de
+traitements vidéo sur FPGA
+Profil recherché
+Ce stage est envisagé pour un étudiant en dernière année (bac+5), avec une spécialisation
+en électronique numérique souhaitant axer sa formation vers le développement FPGA et le
+traitement d’images
+Le stagiaire devra répondre aux critères suivants :
+    Autonomie, curiosité, bonne communication ;
+    Esprit d’analyse et de formalisation ;
+    Bonne capacité à travailler en équipe.
+Serait apprécié :
+    Premier contact avec la conception FPGA et le traitement d’images.
+Conditions
+Le stage est à pourvoir au sein de notre Département Logiciel. Il se déroulera à Palaiseau
+(91) pour une durée de 6 mois minimum.
+Pour postuler
+Connectez-vous sur notre site : adetel-jobs.com, et déposez votre candidature
+
+
+
+
+

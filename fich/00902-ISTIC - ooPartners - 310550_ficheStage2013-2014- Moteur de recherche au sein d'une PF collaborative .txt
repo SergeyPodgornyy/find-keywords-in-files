@@ -1,0 +1,129 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : ooPartners Solutions                                                        Adresse : 2 rue Gilles Roberval
+Domaine d’activité : éditeur informatique                                                         Ville :35340 LIFFRE
+Représentant de l’entreprise : Cyril Arson                                                        N° téléphone : 0299551503
+Sa qualité : DG                                                                                   N° fax :
+N° de Siret : 43789980000043                                                                      Site Web : http://oopartners.com/
+N° NAF : 6201Z                                                                                    Courriel : contact@oopatners.com
+Statut Juridique : SARL
+                                                                                                  Signataire de la convention : Cyril Arson
+Effectif de l’établissement : 9
+Nom de l’encadrant de stage : Renaud Liogier                                                      Chargé du suivi administratif :
+Sa qualité : Directeur des Opérations                                                             Sa qualité :
+Service : DirOp                                                                                   N° téléphone :
+N° téléphone : 06 81 43 42 74                                                                     Email :
+Email : renaud.liogier @oopartners.com                                                            Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : Equipe technique - direction des opérations
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+ Licence 3                                                                                       13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                                    8 semaines minimum à partir du 5 mai 2014
+ MIAGE                                                                                           13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+ Spécialité MIAGE                                                                                du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                                   du 10 mars 2014 à fin août 2014
+ Spécialité GL                                                                                   du 10 mars 2014 à fin août 2014
+ Spécialité   MITIC                                                                              du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                                du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                            du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                                du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                              2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                              16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                             16 septembre au 27 septembre 2013
+                                                                                                              4 novembre 2013 au 10 janvier 2014
+                                                                                                              17 février 2014 au 11 avril 2014
+                                                                                                              19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                              entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                               entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET DU STAGE :
+Titre du stage proposé : Mise en place d’un moteur de recherche au sein d’un portail de travail
+collaboratif
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) : php, mysql, HTML & XHTML/CSS, Javascript + JQuery, MySql5
+Sujet proposé détaillé :
+VOUS
+Petit, vos parents vantaient votre curiosité et votre débrouillardise...
+Plus tard, vos professeurs mettaient surtout en avant votre qualité d'écoute et votre rigueur...
+Pendant que vos amis soulignaient votre créativité et votre chaleur relationnelle...
+Aujourd'hui, vous êtes apprécié pour votre enthousiasme et votre réactivité...
+Et bien sûr, vous avez des connaissances en développement web, php, mysql, java, apache, et vous
+voulez en faire votre métier.
+NOUS
+Nous sommes une équipe à taille humaine et très ambitieuse, située en périphérie de Rennes,
+éditeur de solutions innovantes, qui facilitent le travail collaboratif en entreprise, et utilisées par des
+clients ravis.
+Nous sommes heureux du développement actuel de notre projet, mais il nous vient à l'idée de nous
+lancer dans un développement plus ambitieux...
+Parmi les projets qui nous tiennent à cœur, nous allons intégrer à notre solution des fonctionnalités
+de recherche basées sur un moteur de recherche nouvelle génération : les recherches par mots clés
+« à la Google », les recherches par combinaison de critères et de filtres, le tri et la pagination des
+résultats, l'extraction de texte à partir de documents, …
+L’objectif de votre stage sera d’initialiser et de réaliser ce projet, puis bien plus si affinités !
+Les tâches à réaliser seront :
+- Analyse du besoin
+- Benchmark des différentes solutions possibles (en particulier ElasticSearch)
+- Spécification, conception
+- Intégration de la recherche sur une maquette de plateforme et mise en place de l’architecture
+- Tests et présentation des résultats
+- Généralisation à l’ensemble des modules de la solution
+UNIVERSITE DE RENNES 1                                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Tout au long du stage l’équipe technique et le management de l’entreprise vous épaulera et vous
+conseillera.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                     Nom de l’Etudiant :
+Modalités de versement :                                                                          Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

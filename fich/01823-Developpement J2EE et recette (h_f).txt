@@ -1,0 +1,51 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEMENT J2EE ET RECETTE (H/F) EN STAGE 6 MOIS.
+Date : 01/12/2014
+Référence de l’offre : 176257-7964841
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+L'entité Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels
+les systèmes d'information de ses clients.
+Description du poste :
+Intégré au sein d'une équipe projet et encadré par un ingénieur expérimenté, vous serez en charge de l'analyse
+des  certaines  procédures  actuellement  appliquées  dans  le  projet  pour  proposer  puis,  pour  réaliser  des
+améliorations.
+Le stage vous permettra de couvrir les phases projets suivantes :
+- Installation de l'application, (shell, ksh, ant, connaissances SQL, java)
+- Préparation et pilotage de la phase de recette, synchronisation avec les outils utilisés par le client, (SQL, La
+connaissance du logiciel HPQC serait un plus).
+- Faciliter la supervision des plates-formes en implémentant un outil Web (langage java, html, sql, shell)
+Le produit de ce stage devra être conduit conformément aux règles projet en vigueur (processus qualité).
+Ntic : java/j2ee, SQL, Shell, ksh, ant, HPQC.
+Ce stage vous offrira l'expérience d'un cycle complet d'un projet, en mettant en place des éléments dans le
+cadre de l'amélioration continue.
+A l'issue de ce stage, vous aurez appréhendé :
+- La concrétisation sur le terrain de vos connaissances techniques acquises durant votre formation initiale,
+- L'acquisition de nouvelles compétences techniques
+- la mesure de l'impact de vos réalisations (temps gagné par l'équipe).
+Profil recherché :
+De formation Bac+4/5 en informatique  (Ecole d'ingénieur ou université) en cours de validation, vous
+recherchez un stage d'une durée de  4 à  6 mois à partir de janvier  2014. Vous justifiez d'une première
+expérience (stage ou projet scolaire) en technologies JAVA/J2EE. L' anglais professionnel est requis.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7964841
+
+
+
+
+

@@ -1,0 +1,57 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR WEB CHEZ MULTIPOSTING EN STAGE 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : Multiposting-7742347
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75009, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Créée en 2008 par deux jeunes entrepreneurs, Gautier Machelon et Stéphane Le Viet, Multiposting est une
+start-up française innovante devenue rapidement le leader européen des solutions technologiques dédiées au
+e-recrutement. En quelques années, l'entreprise a su s'imposer sur le marché du recrutement et gagner la
+confiance de 1 000 entreprises internationales dont 32 du CAC 40 (Total, Capgemini, Danone, etc.).
+Depuis sa création, l'entreprise connaît une croissance entre 50 et 100% par an. Elle prévoit de dépasser les
+12 millions d'euros en 2015. Cette hyper-croissance est accompagnée d'une politique active de recrutement :
+en 6 ans l'équipe est passée de 2 à 80 collaborateurs, dans ses bureaux parisiens (Paris 9).
+Multiposting  est  soutenue  par  des  entrepreneurs  majeurs  de  l'économie  numérique  parmi  lesquels
+Pierre-Kosciusko-Morizet (Kernel Investissements et fondateur de Price Minister), Jean-David Chamboredon
+(ISAI) ou encore Philippe Leoni (Latour Capital).
+Située au cœur de Paris, l'entreprise accueille ses collaborateurs au sein d'un cadre propice à l'épanouissement
+: des espaces ouverts, un jardin privatif, une borne d'arcade fabrication maison, une table de ping pong, tout
+cela avec une âme de start up.
+Description du poste :
+Vous participerez à la conception et au développement des passerelles de transfert d'offres d'emploi entre
+Multiposting et les acteurs de la multidiffusion :
+Vous travaillerez à la mise en place de flux d'imports d'offres depuis des sources externes à Multiposting,
+pour répondre aux besoins spécifiques de nos clients,
+Vous serez en relation avec les partenaires de Multiposting (sites d'emploi comme Monster, Pole Emploi
+etc...) en France et à l'étranger pour développer de nouvelles passerelles de diffusion.
+Vous occuperez un rôle central dans l'entreprise, en relation avec l'ensemble des services de Multiposting et
+avec les équipes techniques de nos partenaires.
+Vous  participerez  activement  au  développement  des  technologies  backend  qui  constituent  le  cœur  de
+l'activité de Multiposting, en développant des outils mettant en œuvre le framework Django (framework web
+Python), mais aussi en utilisant les bases de données MySQL et MongoDB.
+Ponctuellement vous serez amené à intervenir sur du PHP (framework Symfony).
+MERCI DE POSTULER VIA:
+http://www.ajstage.com/offre/Developpeur-Web-chez-Multiposting
+
+
+
+
+Profil recherché :
+École d'ingénieur - École d'informatique ou équivalent universitaire, de bac+3 à bac+5,
+Une première expérience réussie en tant que Développeur Web, dans un cadre pro et/ou personnel,
+Des compétences solides en programmation orientée objets sont requises, ainsi que la maitrise d'au moins un
+langage de programmation dynamique (Python, Php, Ruby…)
+Une connaissance de l'environnement Linux ainsi que la maîtrise du Framework Symfony
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7742347
+
+
+
+
+

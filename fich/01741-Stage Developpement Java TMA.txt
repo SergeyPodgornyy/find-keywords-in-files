@@ -1,0 +1,42 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT JAVA TMA EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175556-7823857
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Sous la responsabilité d'un chef de projet et pour le compte de nos plus grands clients , vous participez à la
+conception, au développement et à la mise en production des applications dans des domaines fonctionnels
+variés.
+Vous intégrez une équipe TMA et participerez à l'ensemble des activités :
+-Analyse et correction de bugs
+-Développement de nouvelles fonctionnalités
+-Tests de qualification, revues, livraison, assistance à la recette, etc...
+Vous evoluez dans un environnement web collaboratif, multi-fonctionnels et multi-technologies, Java J2EE,
+Oracle, PHP, eZPublish, LiveLink.
+Le Stage est à pourvoir sur notre agence de Sophia Antipolis.
+Profil recherché :
+De  formation  supérieure  minimum  Bac+4,  vous  recherchez  un  stage  orienté  programmation  en
+environnement Java.
+Vous êtes motivé(e) pour évoluer au sein d'une équipe travaillant dans un contexte projet Sharepoint.
+Passionné(e) d'informatique, vous êtes créatif(ve), curieux(se), avez le sens des priorités.
+Une bonne connaissance de la langue anglaise est indispensable.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7823857
+
+
+
+
+

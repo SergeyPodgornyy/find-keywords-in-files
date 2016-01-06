@@ -1,0 +1,44 @@
+﻿VALEO RECRUTE UN/UNE STAGE H/F TELECOMS/RÉSEAUX EN STAGE DE 4 À 6 MOIS.
+Date : 18/04/2014
+Référence de l’offre : ST/INF/RESEAUX-6234633
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : La verrière 78320, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Valeo est un Groupe indépendant entièrement focalisé sur la conception, la fabrication et la vente de composants,
+de systèmes intégrés et de modules pour l'industrie automobile, principalement pour la réduction des émissions
+de CO2. Valeo compte parmi les premiers équipementiers mondiaux. Présent dans 29 pays, à travers 125 sites de
+production, 21 centres de Recherche, 40 centres de Développement et 12 plates-formes de distribution, le Groupe
+emploie 72 600 collaborateurs.
+La Diversité (égalité Homme / Femme, handicap, seniors, nationalités, etc.) est au coeur de la politique de
+recrutement de Valeo.
+Description du poste :
+ToIP:
+Participation au projet ToIP Cisco groupe.
+Ecriture de documentation technique.
+Etude des nouvelles fonctionalités sur un environnement Lab.
+Support des sites Valeo dans leurs projets de remplacement de PABX.
+Integration des flux voix sur le réseau WAN de Valeo.
+Le stagiaire abordera pendant sa période de stage tous les aspects des communications unifiées (infrastructure,
+voix, video, conferencing).
+Telephonie:
+Suivi de la relation avec les opérateurs téléphohniques.
+collecte des données sur la téléphonie des pays du groupe.
+Teleconference:
+Etude sur les évolutions des solutions de partage d'écran du groupe.
+Video Conference:
+Integration des flux video sur le réseau WAN de Valeo
+Participation à la mise en place d'une infrastructure de video conference IP.
+Profil recherché :
+Diplômes : Bac + 5
+Profil Ingénieur Telecom Réseaux
+Anglais impératif
+Pour postuler : http://valeo.contactrh.com/jobs/1536/6234633
+
+
+
+
+

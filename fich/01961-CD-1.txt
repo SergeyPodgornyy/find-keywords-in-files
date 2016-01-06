@@ -1,0 +1,40 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de
+Stage
+Ingénierie logicielle
+   Titre : Développer pour les projets Alfresco de l’équipe ECM-GED de Jouve ITS
+   Lieu : Rennes                                                                               Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                       Date : 2014-2015
+   Rémunération : stage indemnisé                                                              Référence : CD-1
+Sujet : DEVELOPPEMENT ALFRESCO
+   Soyez acteur de l’évolution fonctionnelle des projets de gestion documentaire basés
+sur Alfresco  et  rejoignez  une  équipe  de  cinq  ingénieurs  (dont  4  certifiés Alfresco
+Engineer)  qui  travaillent  sur  ces  projets  en  méthodologie  agile  avec  Scrum  et/ou
+Kanban.
+   Saisissez l’opportunité de développer dans et autour d’Alfresco, dont la suite logicielle
+innovante est celle de la société de gestion de contenu open source N°1 au monde
+(cf. http://www.alfresco.com/fr).
+   Rejoignez notre équipe d’experts en Document Management, et développez sur les
+technologies WEB les plus modernes (HTML5, Dojo, Web Services Rest, …) dans un
+cadre technique J2EE basé sur Spring.
+
+
+
+
+Environnement :
+   Alfresco
+   JAVA/J2EE, SPRING, XML
+   Eclipse, SVN, Intégration Continue (Hudson,…)
+   Technologies Web (HTML5, Dojo,…)
+   Méthodologie Agile (Scrum, Kanban)
+Vous  êtes  intégré  dans  l’équipe  ECM-Document
+Management et vous êtes considéré comme un
+membre à part entière de l’équipe.
+
+
+
+
+

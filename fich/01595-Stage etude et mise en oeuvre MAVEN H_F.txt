@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE STAGE ETUDE ET MISE EN OEUVRE MAVEN H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 158260-7724793
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des services informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et
+Infogérance BPO, ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son
+expertise technologique et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie,
+Distribution Services, Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services
+aux Collectivités.
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Ce stage est proposé par le centre de compétences EPI (Enterprise Process Integration) d'ATOS à Toulouse.
+Le pôle EPI est spécialisé dans le domaine de l'échanges de données, au coeur des systèmes d'information des
+entreprises : architectures SOA, Bus d'entreprises (EAI,ESB, ETL), modélisation de process BPM, portails
+d'entreprises (ECM, EIM), ...
+Mission et objectifs :
+Intégré au sein d'une équipe projet, votre stage sera composé de 2 phases :
+- une phase d'étude portant sur la mise en place sur un projet d'un couplage fait entre Maven et webMethods :
+identification des limitations, apport d'améliorations,…
+- une phase d'immersion projet, pendant laquelle vous contribuerez à la réalisation d'un projet logiciel (en
+phase de développement, de spécification ou de tests)
+Au cours de ce stage, vous aurez l'occasion d'appréhender toutes les phases du cycle de vie d'un projet
+industriel en étant intégré et accompagné au sein d'une équipe projet.
+En tant que gestionnaire de votre projet de stage, vous devrez effectuer un reporting régulier de votre activité,
+assurer la planification de vos tâches et le suivi des charges associées.
+Environnement :
+Technologies: Architectures SOA, webmethods, JAVA/J2EE, Eclipse, MAVEN
+Profil recherché :
+Profil
+De formation bac  +  4/5  (école d'ingénieur ou université) en cours de validation, vous avez une bonne
+connaissance du monde JAVA. Vous êtes dynamique et avez l'esprit d'équipe, rejoignez-nous !
+Ce stage se déroulera à Atos - Département EPI à Toulouse. Minimum 5 mois. Chez Atos la diversité est au
+cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de
+handicap, et ce quelle que soit la nature de leur handicap
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7724793
+
+
+
+
+

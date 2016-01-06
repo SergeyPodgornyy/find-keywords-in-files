@@ -1,0 +1,59 @@
+﻿Boite  à  outils  pour  usages  mobiles  H/F
+Orange  Business  Services
+REFERENCE  :  IT/MOBILITY/STA
+POUR  POSTULER  :  http://OBS.contactrh.com/jobs/1536/5501413
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  NANTES 44300, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 02/03/2014
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION  DU  POSTE  :
+Ce stage permettra de recenser les usages mobiles et d'implémenter les solutions pouvant être mises
+en œuvre pour chaque (ex : paiment, génération de documents, géolocalisation, scrolling…). Il
+portera également sur la consolidation de composants techniques réutilisables (module de paiement,
+génération de documents, géolocalisation, scrolling…) et la constitution d'une boite à outils de
+développement mobile.
+Une démarche de type agile sera à privilégier et les travaux consisteront à ce qui suit :
+- Listing des usages mobiles (payer, générer un document, géolocaliser, scroller…).
+
+
+
+
+- Recherche de briques techniques pour chaque usage listé.
+- Implémentation de l'usage.
+- Analyse des limitations et mise en œuvre des solutions identifiées.
+- Consolidation des composants techniques réutilisables (optimisation, packaging, tests
+automatiques en js…).
+Au cours de ce stage, une attention particulière sera portée sur les failles et les vulnérabilités
+HTML5. Des frameworks du type Angular.js, node, js, swagger.js seront étudiés.
+PROFIL  :
+Étudiant BAC+5 en Informatique :
+- fortement motivé(e) pour les technologies Web et mobiles (HTML5, CSS3, Javascript, J2EE)
+Environnement: Web, Smartphones, Tablettes
+POUR  POSTULER  :  http://OBS.contactrh.com/jobs/1536/5501413
+
+
+
+
+

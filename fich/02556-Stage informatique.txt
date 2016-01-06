@@ -1,0 +1,22 @@
+﻿Le Service Informatique de l’Association
+Bretagne Ateliers recherche
+un(e) stagiaire
+stage à pourvoir immédiatement
+Le (la) stagiaire est rattaché(e) à la Direction Administrative et Financière.
+ Il / Elle devra migrer des bases SQL2000 vers SQL2008 et vérifier que
+les applications en PHP fonctionnent correctement.
+De formation analyste programmeur ou connaissant la programmation
+PHP, ce poste nécessite des connaissances en PHP, SQL, JAVASCIPT
+et HTML
+Le candidat devra être force de proposition pour améliorer les
+programmes.
+Si cette offre vous intéresse, merci d’adresser votre candidature à
+l’adresse suivante : BRETAGNE ATELIERS, à l’attention de Solen
+GLIN (sglin@bretagne-ateliers.com), ZA de la Touche Tizon Rue du
+Comte de Dion 35230 NOYAL CHATILLON SUR SEICHE avant le
+30 juin 2015.
+
+
+
+
+

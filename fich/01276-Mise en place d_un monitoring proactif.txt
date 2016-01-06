@@ -1,0 +1,83 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  MISE  EN  PLACE  D&#39;UN
+MONITORING  PROACTIF  EN  STAGE  6  MOIS.
+Date  :  03/03/2014
+Référence  de  l’offre    :  ST/ITEC/97924­5924832
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Parce  qu'il  n'y  a  pas  de  succès  collectif  sans  réussite  individuelle,  de  progrès  d'entreprise
+sans  évolutions  personnelles,  Société  Générale  propose  à  chacun  de  ses  collaborateurs
+une  aventure  professionnelle  épanouissante  et  enrichissante,  qui  respecte  la  diversité  des
+talents  avec  plus  de  159  000  collaborateurs  dans  77  pays.
+Description  du  poste    :
+Votre  environnement  :
+ITEC  est  la  direction  informatique  de  la  banque  d'investissement  de  la  Société  Générale
+(SGCIB)  et  a  pour  responsabilité,  au  plan  mondial,  de  fournir  aux  lignes  métiers  et  aux
+fonctions  support  de  SG  CIB,  l  ensemble  des  moyens  informatiques  nécessaires  à  leur
+fonctionnement,  à  des  conditions  compétitives  en  termes  de  standards  technologiques,  de
+qualité  de  service  et  de  coûts.  ITEC/DPR  est  en  charge  du  système  global  de  gestion  des
+opérations  pour  les  activités  de  marché,  de  la  saisie  à  la  transmission  aux  systèmes
+comptables  et  de  risque.  ITEC/DPR  garantit  la  livraison  des  projets  et  la  maintenance  de
+tous  les  logiciels  liés  au  traitement  des  opérations  des  activités  de  MARK  (activité  de
+marchés  financiers),  et  regroupe  les  applications  de  GBIS  (Global  Banking  &  Investor
+Solutions)  relatives  à  la  supervision  réglementaire  et  au  contrôle  des  risques
+opérationnels.
+La  SGCIB  a  engagé  un  Programme  de  transformation  du  système  back­office.  Le
+programme  arrive  à  la  finalisation  d  un  premier  périmètre,  et  à  la  création  d  une  nouvelle
+application  qui  fait  office  d  un  ESB.
+L  application  doit  posséder  un  monitoring  réactif  réalisé  à  partir  de  différents  outils
+recommandés.  Ceux­ci  permettent  de  lever  des  alertes  dès  qu'un  incident  se  produit.  L
+application  étant  critique,  il  est  important  de  pouvoir  anticiper  les  incidents  afin  de
+réduire  le  temps  d  indisponibilité.
+
+
+
+
+Vos  missions  :
+A  ce  titre  et  en  collaboration  avec  votre  maître  de  stage  qui  assurera  votre  formation,  vous
+participez  aux  tâches  suivantes  :
+­ Comprendre  les  besoins  applicatifs  et  des  équipes
+­ Recenser,  analyser  et  prioriser  les  actions  de  monitoring
+­ Mettre  en  œuvre  et  déployer  des  indicateurs  de  monitoring
+­ Mettre  en  œuvre  et  déployer  des  indicateurs  de  métrologie
+­ Designer  les  tableaux  de  bords
+­ Présenter  les  évolutions.
+Profil  recherché    :
+Votre  profil  H/F  :
+Vous  êtes  étudiant  de  niveau  Bac  +5  en  Écoles  d'ingénieur  ou  Université  avec  une
+spécialisation  en  Informatique.
+La  connaissance  de  Java  est  indispensable.  Vous  avez  également  de  façon  souhaitable  de
+bonnes  connaissances  sur  ElasticSearch  et  Unix/Linux.
+Par  ailleurs  votre  niveau  d'Anglais  est  opérationnel.
+Les  apports  du  stage  :
+Ce  stage  vous  permettra  d  évoluer  dans  un  environnement  international  :  les  contacts  sont
+situés  à  Paris,  Bangalore,  Montréal.  En  étant  au  contact  d  interlocuteurs  aux  profils  et
+besoins  variés  (équipe  de  suivi  de  la  production,  développeurs  de  support  niveau  3,
+managers  applicatifs),  vous  allez   pouvoir  développer  votre  aptitude  à  adapter  votre
+discour.
+Ce  stage  permet  de  travailler  dans  un  environnement  dynamique  et  de  constater  l
+aboutissement  rapide  et  régulier  de  vos  travaux.
+Ce  stage  permet  de  bien  comprendre  les  problématiques  d  une  application  qui  possède  de
+fortes  contraintes  comptables,  juridiques,  légales  et  réglementaires.
+Et  si  c'était  vous?
+Si  votre  candidature  est  sélectionnée,  vous  serez  contacté  par  la  Direction  du  Recrutement
+puis  rencontrerez  un  opérationnel  pour  un  entretien  de  motivation.
+Durée  du  stage  :  6  mois
+
+
+
+
+Stage  basé  à  :  Paris­La  Défense
+Gratification  selon  grilles  SG.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5924832
+
+
+
+
+

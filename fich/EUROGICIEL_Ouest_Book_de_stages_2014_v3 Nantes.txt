@@ -1,0 +1,446 @@
+﻿EUROGICIEL
+EUROGICIEL
+Ouest
+Nantes - Rennes
+BOOK DE STAGES 2014
+1
+
+
+
+
+EUROGICIEL
+SOMMAIRE
+Page 3           Présentation d’Eurogiciel
+Page 4           Témoignage collaborateur - Ancien stagiaire
+Page 5           Stage à Nantes
+Page 9       Stage à Rennes
+Page 13       Votre stage personnalisé ou vous voulez !
+2
+
+
+
+
+EUROGICIEL
+EUROGICIEL  en  quelques  lignes…
+Né   il  y   a   25   ans,  le  Groupe  Eurogiciel  est  présent  au  niveau  national,  Paris,  Rennes,  Nantes,
+Bordeaux,  Toulouse,    Sophia-Antipolis,    Marseille,    Valence    et    se    développe    également    à
+l’international. Eurogiciel réalise une croissance de 15% par an avec, un effectif de 1000 personnes
+et affiche des prévisions à plus de 1000 personnes pour 2013. Ces éléments permettent au Groupe
+d’intervenir sur  des  projets  d’envergure  et  d’offrir à  ses collaborateurs de fortes  potentialités
+d’évolutions.
+Le groupe EUROGICIEL est organisé en 3 entités métiers qui déclinent l’ensemble des étapes d’un
+projet chez des donneurs d’ordre des secteurs industriels, publics et tertiaires :
+-   ETOP International, cabinet de conseil en Management de Grands Projets,
+-   EQUERT, cabinet de conseil en Management de la Qualité,
+-   EUROGICIEL Ingénierie propose :
+La Division Information Technology      Services  (ITS) évolue sur 4 métiers en Conseil, Expertise,
+Formation et Réalisation afin d'accompagner ses clients sur l'ensemble de leurs projets avec des
+apports de solutions innovantes d'entreprises. Cette division s'articule autour de 3 axes : l'expertise
+et  la  gouvernance  des  SI,  l'industrialisation  de  l'innovation et  l'innovation à  l'e-connexion  des
+entreprises.
+La division System & Software Engineering (SSE)   s’est investi au sein des plus grands programmes
+technologiques  de  notre  temps,  lui  permettant  aujourd’hui  d’être  partenaire  des  plus  grands
+industriels européens dans les secteurs de l’aéronautique, du ferroviaire, de la défense, de l’espace,
+de l’énergie…
+Etre stagiaire chez EUROGICIEL
+Stage de fin d’étude, à Paris ou en régions… Eurogiciel propose aux étudiants en dernière année
+d’école d’ingénieurs des stages débouchant à 90% vers un CDI.
+Venez booster votre carrière chez EUROGICIEL !
+Postulez : julien.lemetayer@eurogiciel.fr
+3
+
+
+
+
+EUROGICIEL
+TEMOIGNAGE COLLABORATEUR - ANCIEN STAGIAIRE
+Sébastien - Ancien Etudiant ESEO - Ingénieur Développement / Software Engineer
+« J’ai réalisé mon stage de fin d’études à l’agence Nantaise d’Eurogiciel Ingénierie. Cette expérience a
+été très positive. Au niveau humain, il est important de remarquer que la taille raisonnable de
+l’agence permet de favoriser un suivi optimal par l’ensemble du staff. D’autre part, le coté technique
+n’est pas en reste. Ainsi, EUROGICIEL m’a offert l’opportunité de réaliser un produit en réalisant
+toutes les phases de l’étude de marché, au test. Enfin, la conclusion a été une embauche. »
+Loïc - Ancien Etudiant EFREI - Ingénieur Etudes & Développement
+« Diplômé de l’EFREI, j'ai intégré la société Eurogiciel suite à mon stage de fin d’études. Lors de ma
+recherche de stage, je ne savais pas encore vers quel secteur me diriger. La possibilité de postuler
+dans une société en informatique s'est présentée. La dynamique de ce secteur m'a tout de suite
+attiré.  Lors  de  mon  stage  chez  Eurogiciel,  j'ai  tout  de  suite  pu  travailler  sur  des  technologies
+innovantes et dans une équipe sympathique, j’ai apprécié de me sentir encadré tout en laissant la
+parole aux débutants. C'est ainsi que j'ai pu compléter ma formation technique et développer des
+compétences  dans  un  projet  de  grande  envergure.  Eurogiciel m’a  ensuite proposé  un  contrat
+d’embauche, ce   qui m'a donné   la   possibilité d'obtenir   un emploi dès   la fin de mes études me
+permettant de découvrir un secteur dynamique et passionnant.
+Je suis maintenant amené à travailler sur des projets extrêmement variés dans différents secteurs
+d’activités et à intervenir dans des entreprises de tous horizons, ce qui apporte une richesse
+incontestable à mon expérience aux travers de postes à responsabilité importante. »
+Stéphanie - Ancienne Etudiante ECE - Ingénieur Système Embarqué
+« Je cherchais une entreprise susceptible de m’accueillir en stage de fin d’étude et je me suis mise en
+relation avec le Responsable du pôle Ingénierie chez Eurogiciel. Il m’a dés lors, proposé un stage très
+intéressant accès sur les Technologies Embarqué. Ce projet m’a motivé, m’a permis de bien connaître
+tous les acteurs de l’entreprise, l’ambiance et surtout ses équipes qualifiés et sympathiques m’ont
+donné envie de continuer l’aventure au sein d’Eurogiciel.
+4
+
+
+
+
+Nantes
+104 rue Leinster, Bât. C
+Le Parc du Vieux Moulin
+44240 La Chapelle sur Erdre
++33 2 72 64 40 17
++33 2 51 13 94 38
+julien.lemetayer@eurogiciel.fr
+NAN-1     DromadR : Développement mobile sur Android et iPad
+et Windows Phone
+Contexte :  Dans le cadre de son offre d’édition logicielle autour de la gestion de contenu,
+Eurogiciel dispose d’un produit DromadR d’accès nomade aux différents outils
+de gestion de contenu du marché. Ce produit est actuellement disponible
+uniquement pour des cibles Windows. Ce produit permet de travailler sur des
+données  locales  dans  le  cadre  d’un  mode  déconnecté  mais  aussi  de  se
+synchroniser avec le système d’information lorsqu’une connexion sans fil est
+rétablie.
+Description :  Le  stagiaire  sera  chargé  de  concevoir  et  développer  le  portage  de  cette
+application sous tablettes Android, iPad et Windows 8. Les travaux seront à
+réaliser en méthode Agile/Scrum. Le stagiaire sera formé sur les technologies
+mobiles, ainsi que sur les méthodes Agile.
+Mots clés :  Tablette, Androïd, iPad, Java, iOS, objective-C, Windows 8, C#, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+4 à 6 mois (Bac +4 ou Bac +5)
+Durée :
+3
+Nombre de poste :
+NAN-2     DematR : Développement en JEE/Alfresco
+Contexte :  Dans le cadre de son offre d’édition logicielle autour de la gestion de contenu,
+Eurogiciel   dispose   d’un   produit   DematR   de   dématérialisation   des
+factures/courriers entrant dans l’Entreprise. Ce produit est basé sur la GED
+Alfresco.
+Description :  Le stagiaire sera chargé de concevoir et développer la mise en œuvre de la
+gestion de la génération des flux de réponses. Les travaux seront à réaliser en
+méthode Agile/Scrum. Le stagiaire sera formé sur les technologies mobiles,
+ainsi que sur les méthodes Agile.
+Mots clés :  Alfresco,, JEE, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+6 mois (Bac +5)
+Durée :
+1
+Nombre de poste :
+5
+
+
+
+
+NAN-3     DockR : Développement en JEE/Alfresco
+Contexte :  Dans le cadre de son offre ECM, Eurogiciel propose une solution de Gestion
+Electronique de Documents (GED)  dénommée DockR basée sur Alfresco.
+Description :  Le  stagiaire  sera  chargé  de  concevoir  et  développer   de  nouvelles
+fonctionnalités collaboratives et  d’extensions au produit pour  en faire un
+véritable produit métier. Il devra réaliser ses réalisations sous Alfresco Share
+(JEE). Le stagiaire sera intégré au plateau de développement ECM d’Eurogiciel
+où il sera encadré par nos experts Alfresco. Le stagiaire sera formé sur les
+technologies Alfresco, ainsi que sur les méthodes Agile.
+Mots clés :  Alfresco, JEE, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+6 mois (Bac +5)
+Durée :
+1
+Nombre de poste :
+NAN-4                                                                                          TaQtil : Développement sur Android et JEE/Liferay
+Contexte :  Dans le cadre de son offre d’édition logicielle Qualité, Eurogiciel dispose d’un
+produit TaQtil de dématérialisation d’inspections qualité sur tablettes Android
+avec un serveur basé sur Liferay permettant de consolider les données.
+Description :  Le  stagiaire  sera  chargé  de  concevoir  et  développer  de  nouvelles
+fonctionnalités au produit et d’envisager la migration sous Windows 8. Les
+travaux seront à réaliser en méthode Agile/Scrum. Le stagiaire sera formé sur
+les technologies mobiles, ainsi que sur les méthodes Agile.
+Mots clés :  Tablette, Androïd, Java, Windows 8, C#, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+4 à 6 mois (Bac +4 ou Bac +5)
+Durée
+2
+Nombre de poste :
+NAN-5                                                                                          PublishR : Développement XML/DocBook et JEE/Liferay
+Contexte :  Dans le cadre de son offre ECM, Eurogiciel propose une brique de publication
+documentaire   dénommée PublishR. Cette brique permet à la fois de générer
+des documents pré-paramétrés (éditique), mais aussi de produire de façon
+collaborative des documents bureautiques modulaires.
+Description :  Le  stagiaire  sera  chargé  de  concevoir  et  développer  de  nouvelles
+fonctionnalités permettant de gérer le format documentaire XML DocBook,
+que  ce  soit  l’édition  de  documents,  la  publication  et  la  diffusion.  Le
+développement sera réalisé sous Alfresco Share (JEE). Le stagiaire sera intégré
+au plateau de développement ECM d’Eurogiciel où il sera encadré par nos
+experts Alfresco. Le stagiaire sera formé sur les technologies Alfresco, ainsi que
+sur les méthodes Agile.
+Mots clés :  Alfresco, JEE, DocBook, XML, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre ou Chantepie
+6 mois (Bac +4 ou Bac +5)
+Durée :
+Nombre de poste :                                                                              1
+6
+
+
+
+
+NAN-6     In’Takt : Développement JEE/Liferay
+Contexte :  Dans le cadre de son offre d’édition logicielle Qualité, Eurogiciel dispose d’un
+produit In’Takt qui permet notamment de dématérialiser des tableaux de
+bords  Lean  dans  des  unités  de  production  industrielle.  Ce  produit  est
+actuellement déployé chez un constructeur aéronautique. Ce produit est basé
+sur le portail J22 Liferay..
+Description :  Le  stagiaire  sera  chargé  de  concevoir  et  développer  de  nouvelles
+fonctionnalités au produit et notamment ajouter des fonctions de contrôle via
+leap  motion.  Les  travaux  seront  à  réaliser  en  méthode  Agile/Scrum.  Le
+stagiaire sera formé sur les technologies mobiles, ainsi que sur les méthodes
+Agile.
+Mots clés :  Tablette, Liferay,  JEE, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+4 à 6 mois (Bac +4 ou Bac +5)
+Durée
+1
+Nombre de poste :
+NAN-7     Refonte du système d’information : mise en œuvre de
+la dématérialisation
+Contexte :  Dans le cadre de la refonte de son système d’information, Eurogiciel souhaite
+concevoir et développer des briques d’ECM (Enterprise Content Management)
+autour de la  gestion  documentaire  dans un but  de  dématérialisation.  Ces
+briques consisteront à dématérialiser le processus achat, ainsi que les dossiers
+des collaborateurs.
+Description :  Le stagiaire sera chargé de recueillir le besoin auprès de la maîtrise d’ouvrage
+MOA Toulousaine (DSI d’Eurogiciel, Service RH, Service Achats) et sera intégré
+au centre de services ECM d’Eurogiciel basé à Nantes, qui est chargé de la
+maîtrise d’œuvre (MOE). Il réalisera ensuite le développement autour de la GED
+Alfresco. Les travaux seront à réaliser en méthode Agile/Scrum. . Le stagiaire
+sera formé sur les technologies Alfresco, ainsi que sur les méthodes Agile.
+Mots clés :  Alfresco, Liferay, JEE, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+4 à 6 mois (Bac +4 ou Bac +5)
+Durée :
+3
+Nombre de poste :
+NAN-8     Création de Widgets Alfresco
+Contexte :  Dans le cadre de son offre ECM, Eurogiciel propose des solutions de Gestion
+Electronique de Documents (GED) DockR et DematR basées sur Alfresco.
+Description :  Le stagiaire sera chargé de concevoir et développer des widgets s’intégrant au
+poste de travail utilisateur permettant d’augmenter l’expérience utilisateur :
+système de notification, accès rapides… Le stagiaire sera intégré au plateau de
+développement ECM d’Eurogiciel où il sera encadré par nos experts Alfresco. Le
+stagiaire sera formé sur les technologies Alfresco, ainsi que sur les méthodes
+Agile.
+Mots clés :  Alfresco, Java, C#, API Alfresco, widget, Agile, Scrum
+Pré-requis :  Java ou C#
+Lieu :  La Chapelle sur Erdre
+4 à 6 mois (Bac +4 ou Bac +5)
+Durée :
+1
+Nombre de poste :
+7
+
+
+
+
+NAN-9     Intégration d’Alfresco au cloud Amazon
+Contexte :  Dans le cadre de son offre ECM, Eurogiciel propose des solutions de Gestion
+Electronique de Documents (GED) DockR et DematR basées sur Alfresco.
+Eurogiciel souhaite permettre à ses prospects de les tester facilement en
+ligne mais aussi à ses clients de les utiliser en production sur le Cloud.
+Description :  Le stagiaire sera chargé de concevoir et développer des widgets s’intégrant
+au  poste  de  travail  utilisateur  permettant  d’augmenter  l’expérience
+utilisateur : système de notification, accès rapides… Le stagiaire sera intégré
+au plateau de développement ECM d’Eurogiciel où il sera encadré par nos
+experts Alfresco. Le stagiaire sera formé sur les technologies Alfresco, ainsi
+que sur les méthodes Agile.
+Mots clés :  Alfresco, JEE, AWS, Amzon, Cloud, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+4 à 6 mois (Bac +4 ou Bac +5)
+Durée :
+1
+Nombre de poste :
+NAN-10  Mise en œuvre d’une plateforme de tests fonctionnels
+automatisée
+Contexte :  Dans le cadre de son activité d’éditeur logiciel, Eurogiciel souhaite mettre en
+œuvre une plateforme industrielle de tests automatisées d’applications Web en
+se basant sur Selenium.
+Description :  Le stagiaire sera chargé de mettre en œuvre une plateforme Selenium croos
+navigator puis de l’intégrer avec Jenkins (intégration continue) et TestLink
+(gestionnaire d’exigences et de tests). Le stagiaire sera intégré au plateau de
+développement ECM d’Eurogiciel où il sera encadré par nos experts leadeurs
+technique. Le stagiaire sera formé sur les méthodes Agile.
+Mots clés :  Selenium, Jenkins, testLink, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre
+                                                                                              Durée :   4 à 6 mois (Bac +4 ou Bac +5)
+Nombre de poste :                                                                             1
+8
+
+
+
+
+Rennes
+22 rue des Landelles
+35571 Chantepie cedex
++33 2 99 92 08 95
++33 2 51 13 94 38
+julien.lemetayer@eurogiciel.fr
+BRE-1                                                                                       Création d’applications embarquées pour TV Num Frog
+Wyplay
+Contexte :  Dans le cadre de son activité TV Num, Eurogiciel, partenaire technologique de
+Wyplay, souhaite mettre développer des applications qui seront publiées sur le
+market de Wyplay..
+Description :  Le stagiaire sera chargé de concevoir et développer des applications
+embarquées sur des TV connectées, tablettes Android/ipad. Le stagiaire sera
+intégré au plateau de développement TV num d’Eurogiciel où il sera encadré par
+nos experts en TV Num. Le stagiaire sera formé sur le framework Wyplay.
+Mots clés :  Linux, OpenGL ES 2.0, Webkit, HTML 5, UPnP, Dlenay, Miracast
+Pré-requis :  Linux, HTML5
+Lieu :  Chantepie
+                                                                                            Durée :                                               4 à 6 mois (Bac +4 ou Bac +5)
+Nombre de poste :                                                                           2
+BRE-2                                                                                       Création d’une application Tizen Autoradio
+Contexte :  Dans le cadre de son activité Linux, Eurogiciel, troisième contributeur du
+projet Tizen après Intel et Samsung, souhaite mettre développer des
+applications pour ivi, la version automobile du système d’exploitation.
+Description :  Le stagiaire sera chargé de concevoir et développer une application
+d’Autoradio basée sur Tizen (Linux). Le stagiaire sera intégré au plateau
+de développement Linux d’Eurogiciel où il sera encadré par nos experts
+Linux. Le stagiaire sera formé Tizen.
+Mots clés :  Linux, Tizen, HTML 5
+Pré-requis :  Linux, HTML5
+Lieu :  Chantepie
+                                                                                            Durée :                                               4 à 6 mois (Bac +4 ou Bac +5)
+Nombre de poste :                                                                           1
+9
+
+
+
+
+BRE-3                                                                                             PublishR : Développement XML/DocBook et JEE/Liferay
+Contexte :  Dans le cadre de son offre ECM, Eurogiciel propose une brique de publication
+documentaire  dénommée PublishR. Cette brique permet à la fois de générer
+des documents pré-paramétrés (éditique), mais aussi de produire de façon
+collaborative des documents bureautiques modulaires.
+Description :  Le stagiaire sera chargé de concevoir et développer de nouvelles
+fonctionnalités permettant de gérer le format documentaire XML DocBook,
+que ce soit l’édition de documents, la publication et la diffusion. Le
+développement sera réalisé sous Alfresco Share (JEE). Le stagiaire sera intégré
+au plateau de développement ECM d’Eurogiciel où il sera encadré par nos
+experts Alfresco. Le stagiaire sera formé sur les technologies Alfresco, ainsi que
+sur les méthodes Agile.
+Mots clés :  Alfresco, JEE, DocBook, XML, Agile, Scrum
+Pré-requis :  Java
+Lieu :  La Chapelle sur Erdre ou Chantepie
+                                                                                                  Durée :                                                     6 mois (Bac +4 ou Bac +5)
+Nombre de poste :                                                                                 1
+BRE-4                                                                                             Réalisation d'un repo universel pour android/ios/tizen
+Contexte :  Eurogiciel souhaite se positionner sur la distribution d’applications mobiles
+professionnelles (market privé) cross device.
+Description :  Dans le but de proposer des applis de tests en R&D, ou de façon officiel, le but
+sera de développer tant la partie serveur centralisé que la partie client native.
+Le serveur incluera un backend permettant de proposer des applications sur
+les repos. un compteur de téléchargement pourra être visible.
+Mots clés :  android, ios, kvm, php, mysql, tizen, sftp, certificats
+Pré-requis :  développement objet (java, php, ...), esprit de synthèse et d'analyse.
+Lieu :  Chantepie
+                                                                                                  Durée :                                                     6 mois (Bac +4 ou Bac +5)
+Nombre de poste :                                                                                 1
+BRE-5                                                                                             Réalisation d'un portail web d'aide à la décision sur les
+licences opensource
+Contexte : Dans le cadre de son activité Linux, Eurogiciel, développe son offre de conseil
+autour de l’open source.
+Description : Le but du stage est de développer une application web permettant d’apporter un
+conseil sur les licences mais aussi trouver la licence adaptée à ses contraintes.
+Mots clés : php, mysql, qgl, oss, opensource, merise / uml, sql adodb, jquery, html5/css3
+Pré-requis : développement objet (java, php, ...), système d'information, esprit de synthèse et
+d'analyse.
+Lieu : Chantepie
+Durée : 4 mois (Bac +4)
+Nombre de poste : 1
+10
+
+
+
+
+BRE-6                                                                                               Réalisation d'un état de l'art sur l'AET ou APT
+(advanced persistent threat)
+Contexte : Dans le cadre de son activité Linux/Open source, Eurogiciel, développe son offre
+de conseil autour de la sécurité.
+Description : Le but est de faire le tour sur les techniques fantome utilisées par les états pour
+es attaques entre états.
+Le stage devra donner lieu à un article dans MISC.
+Mots clés : sécurité, AET / APT, intrusion, hack
+Pré-requis : Esprit de synthèse et d'analyse, rédactionnel.
+Lieu :  Chantepie
+Durée :                                                                                             4 mois (Bac +4 )
+Nombre de poste :                                                                                   1
+BRE-7                                                                                               Réalisation d'un outil d'analyse automatique des failles
+d'une application android
+Contexte : Dans le cadre de son offre mobile, Eurogiciel souhaite industrialiser ses
+prestations de conseil en sécurité.
+Description : Le but est de réaliser un portail web générant un rapport synthétiques sur le
+reverse complet d'une application android.
+Mots clés : android, jar, reverse engineering, pyhon, php, jquery, html5/css3
+Pré-requis : Esprit de synthèse et d'analyse, rédactionnel.
+Lieu : Chantepie
+Durée : 4 à 6 mois (Bac +4 ou Bac +5)
+Nombre de poste : 1
+BRE-8                                                                                               Analyse des des malwares et chevaux de troie sous
+linux dont le tojan "hand of thief"
+Contexte :  Dans le cadre de son activité Linux/Open source, Eurogiciel, développe son
+offre de conseil autour de la sécurité.
+Description :  Le but est de faire le tour de tous les exploits existant autour de linux et de
+détailler le dernier connu en date à savoir "hand of thief"
+Mots clés :  hack, virus, trojan, python, pentest, exploits, metaexploits, blacktrack
+Pré-requis :  Esprit de synthèse et d'analyse, rédactionnel.
+Lieu :  Chantepie
+Durée :                                                                                             6 mois (Bac +4 ou Bac +5)
+1
+Nombre de poste :
+11
+
+
+
+
+BRE-9                                                                                             Réalisation de l'état de l'art de la sécurisation d'un
+linux
+Contexte :  Dans le cadre de son activité Linux/Open source, Eurogiciel, développe son
+offre de conseil autour de la sécurité.
+Description :  Le but est de faire une synthèse globale de tout ce qui existe pour sécuriser un
+système gnu/linux.
+Un résumé des faiblesses potentielles sera aussi un préalable.
+Le stage devra donner lieu à un article dans MISC.
+Mots clés :  hack, virus, trojan, python, pentest, exploits, metaexploits, blacktrack, selinux
+Pré-requis :  Esprit de synthèse et d'analyse, rédactionnel.
+Lieu :  Chantepie
+Durée :                                                                                           4mois (Bac +4)
+Nombre de poste :                                                                                 1
+12
+
+
+
+
+Ne cherchez plus votre stage, créez-le !
+Vous savez déjà ce que vous voulez faire, vous êtes innovant,
+vous avez une spécialité à faire-valoir, un thème à explorer,
+une idée à industrialiser, Eurogiciel a imaginé pour vous
+LA POUPONNIERE
+vous  offre  un  encadrement  professionnel  pour  donner  de  la
+valeur à votre créativité.
+La pouponnière d’Eurogiciel se met à votre disposition et vous
+permettra   de   faire   exister   votre   projet   de   stage   en   vous
+apportant les outils, l’expertise technique et méthodologique, et
+tout l’accompagnement nécessaire à sa réussite.
+Gagnez du temps, proposez-nous votre stage !
+pouponniere@eurogiciel.fr
+13
+
+
+
+
+

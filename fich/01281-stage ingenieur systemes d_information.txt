@@ -1,0 +1,60 @@
+﻿VALEO  RECRUTE  UN/UNE  STAGE  INGÉNIEUR  SYSTÈMES
+D&#39;INFORMATION  EN  STAGE  DE  5  À  6  MOIS.
+Date  :  01/04/2014
+Référence  de  l’offre    :  Valeo­info­5930208
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Système  /  Réseaux  /
+Base  de  Données)
+Type  de  contrat    :  Stage
+Localisation    :  Saint  Quentin  Fallavier  38070,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +3
+Années  d’expérience    :  <  6  mois
+Description  de  l’entreprise    :
+Valeo  est  un  Groupe  indépendant  entièrement  focalisé  sur  la  conception,  la  fabrication  et
+la  vente  de  composants,  de  systèmes  intégrés  et  de  modules  pour  l'industrie  automobile,
+principalement  pour  la  réduction  des  émissions  de  CO2.  Valeo  compte  parmi  les  premiers
+équipementiers  mondiaux.  Présent  dans  29  pays,  à  travers  125  sites  de  production,  21
+centres  de  Recherche,  40  centres  de  Développement  et  12  plates­formes  de  distribution,  le
+Groupe  emploie  72  600  collaborateurs.
+La  Diversité  (égalité  Homme  /  Femme,  handicap,  seniors,  nationalités,  etc.)  est  au  coeur
+de  la  politique  de  recrutement  de  Valeo.
+Description  du  poste    :
+Descriptions  de  la  mission  :
+­                                                                                                       Participer  au  développement  du  projet  «  Gestion  Traçabilité  Stock  et  Production  »
+o                                                                                                       Développer  la  partie  WEBSERVICE
+o                                                                                                       Rédiger  les  documentations  du  projet  et  le  guide  d'utilisation
+o                                                                                                       Migrer  le  module  checklist   de  JAVA  vers   WinDEV
+o                                                                                                       Participer  à  la  migration  de  la  base  des  données  GTSP  vers  le  nouveau  serveur
+d'application  (en  Windows  2008  R2)
+­                                                                                                       Participer  à  la  création  du  serveur  d'application.
+o                                                                                                       Installation  et  configuration  du  serveur  MYSQL
+o                                                                                                       Mettre  en  place  la  solution  «  Standby  »
+o                                                                                                       Installation,  configuration  d'IIS7  et  WEBDEV  Serveur  d'application
+­                                                                                                       Participer  à  la  migration  du  serveur  d'application  de  XP  vers  Windows  2008  R2
+o                                                                                                       Tester  le  fonctionnement  des  requêtes  BW
+o                                                                                                       Tester  le  fonctionnement  des  programmes  en  VBS.
+o                                                                                                       Tester  le  fonctionnement  de  l'application  appel  KANBAN  logistique
+o                                                                                                       Migrer  et  tester  le  fonctionnement  des  WEBSERVICEs
+­                                                                                                       Participer  à  la  gestion  du  parc  informatique
+o                                                                                                       Installation   et  assurer  le  fonctionnement  des  poste  de  travail
+
+
+
+
+o                                                                   Mettre  à  jour  les  procéduresinformatiques
+o                                                                   Création  des  portraits  webs  et  gestion  des  documents  dans  VDoc
+Profil  recherché    :
+Compétences  :
+­Connaitre  SQL  et  VBScript
+­Si  possible  connaitre  WINDEV  ou  WEBDEV
+­Bon  niveau  rédactionnel
+­Bon  niveau  technique  harware  et  software
+­Connaissances  des  infrastructures  réseaux
+Profil  recherché  :
+­BAC+3  à  BAC+5  informatique,  autonome
+Pour  postuler    :  http://valeo.contactrh.com/jobs/1536/5930208
+
+
+
+
+

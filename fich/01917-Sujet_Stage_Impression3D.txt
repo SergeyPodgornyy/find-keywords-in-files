@@ -1,0 +1,39 @@
+﻿Sujet de Stage M2/Ingénieur
+TITRE : Impression 3D & conception rapide d’Interfaces Homme-Machine
+Contexte : Le design d’interfaces d’interaction (bracelets/montres/objets connectés, stylet interactif, souris 3D,
+Joysticks/Wiimote, etc.) fait souvent appel à des processus technologiques complexes pouvant impliquer des
+procédés de fabrication hétérogènes (électronique, capteurs, actionneurs, structure mécaniques, etc.). Cette
+approche de conception ralentie considérablement le processus créatif et limite les possibilités d’investigation
+de nouveaux prototypes pouvant potentiellement aboutir à des concepts novateurs.
+Objectif : L’objectif du stage est de travailler sur l’élaboration d’une nouvelle approche de design et de
+conception  d’interfaces  d’interaction  en  utilisant  les  procédés  de  fabrication  additive.  A  l’aide  d’une
+imprimante 3D, nous souhaitons concevoir les différents composants mécaniques en prenant en considération
+les spécifications ergonomiques et fonctionnelles. Des composants électroniques modulaires seront réalisés et
+utilisés afin de doter l’objet de capacités de perception (ex. capteur de pression ou de positionnement) et
+d’actionnement                                                                                                        (ex.  vibreur  ou  moteur).  Par  la  suite,  des  études  de  caractérisation  mécaniques  et
+électroniques seront réalisées afin d’évaluer les propriétés de l’objet mécatronique final.
+Selon les aptitudes du candidat et des résultats obtenus, le stage se poursuivra par une thèse.
+Profil recherché:
+‐                                                                                                                     Formation master/ingénieur: Mécanique, Electronique, Mécatronique, Design, IHM
+‐                                                                                                                     Maitrise des outils de conception/simulation sur ordinateurs : AutoCad/CATIA,
+SPICE/Simulink etc.
+‐                                                                                                                     Compétences en programmation C/C++
+‐                                                                                                                     Forte attractivité pour les nouvelles technologies communicantes
+‐                                                                                                                     Aisance en communication écrite et orale
+‐                                                                                                                     Rigueur, respect des délais, autonomie
+‐                                                                                                                     Maîtrise de l’anglais appréciée
+Modalités :
+‐                                                                                                                     Durée : 6 mois (à partir de Mars)
+‐                                                                                                                     Salaire : 700 euros/mois + frais de transport
+Lieu : LIMSI - CNRS, bat 508, 91400, Orsay.
+Le dossier de candidature devra comprendre un CV détaillé, une lettre de motivation et le relevé
+de notes de la dernière année
+Candidature / information :
+Mehdi Ammi                                                                                                            Mehdi Boukhallel
+Mail : ammi@limsi.fr                                                                                                  Mail : mehdi.boukallel@cea.fr
+Tel : 01 69 85 81 03
+
+
+
+
+

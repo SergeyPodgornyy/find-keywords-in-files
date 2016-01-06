@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE INGÉNIEUR LOGICIEL R&D HPC H/F EN STAGE 6 MOIS.
+Date : 29/01/2015
+Référence de l’offre : 2014-1481-8717618
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Echirolles 38130, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net.
+Description du poste :
+Vous intégrerez une équipe de développement logiciel R HPC (High Performance Computing), vous aurez à
+tester dans le détail l'interface entre le système Linux et une carte réseau.
+Dans ce cadre vos principales missions seront les suivantes:
+1) acquérir une connaissance de l'interface réseau Portals 4
+2) inventorier les cas d'utilisation de la carte par le logiciel
+3) vérifier s'il existe des tests disponibles pour chaque cas et sinon en créer de nouveaux
+4) passer les tests et analyser les résultats
+Profil recherché :
+Vous êtes intéressé(e) par le domaine du calcul scientifique, vous avez envie d'acquérir des compétences
+concernant les réseaux utilisés dans ce type d'environnement.
+Vous avez des connaissances sur le système Linux (architecture et environnement de développement)
+Vous êtes TRES rigoureux(se) et autonome.
+Compétences requises
+- Développement en environnement système Linux
+- Administration système Linux
+- Connaissances réseaux
+- Langage C
+- Anglais lu/écrit (lecture/rédaction de documents techniques)
+Compétences appréciées
+Des compétences dans le domaine du HPC et des processeurs seront un atout apprécié.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8717618
+
+
+
+
+

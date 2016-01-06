@@ -1,0 +1,65 @@
+﻿Fiche descriptive du stage
+(à joindre avec la fiche de recrutement stagiaire)
+Référence. Offre :
+Intitulé de la fonction : Analyste de Test - Maitri                                                                 se d’ouvrage
+Emploi type : Chef de projets maitrise d’ouvrage
+Durée de la mission : 6 mois (possibilité 1 an si s                                                                 tage reconnu en césure)
+Date d’arrivée souhaitée : Février ou Mars 2015
+Personne à contacter                                                                                                Elise JARLAN ( elise.jarlan@hsbc.fr   ).
+                                                                                                                                                          ENVIRONNEMENT :
+Au sein de la direction Software Delivery de la filiale française du groupe HSBC, le collaborateur
+travaillera dans le   domaine Paiement , équipe Testing. La mission aura lieu dans les locaux situés   à la
+Défense.
+La direction Software Delivery est responsable de la conception des nouveaux applicatifs métiers et
+assure la maintenance du parc existant. Ses clients sont les métiers et les services centraux de HSBC
+France et du groupe. Selon le cas, elle développe et teste les applicatifs elle-même, fait appel à des
+services internes du groupe (Pologne, Inde, Chine) ou intègre des progiciels. Elle participe également au
+transfert de prestations lorsque HSBC confie la gestion et l’exploitation de ses services.
+MISSIONS PRINCIPALES :
+Description
+Au sein de SWD, vous rejoindrez le Domaine Paiement, et l’équipe Testing comme Analyste fonctionnel
+de test (Métier Type Chef de Projet Maitrise d’ouvrage)
+Vous serez rattaché hiérarchiquement au responsable de la recette Paiement de Projet (Test Manager)
+Mission
+Votre mission principale en tant qu’analyste fonctionnel de test est de définir et exécuter la bonne
+couverture de tests dans la cadre d’un projet de refonte du   système des paiements internationaux de la
+banque .
+Dans ce cadre vous participerez:
+- à la révision et à la mise a jour de   la stratégie de tests et plus généralement a la définition des objectifs
+de test
+- à la prise de connaissance fonctionnelle du domaine de tests avec le support des Business Analysts,
+Métier et équipe Testing HSBC
+RESTRICTED/CONFIDENTIEL - l                                                                                         05/03/2015
+
+
+
+
+- à l’élaboration des cahiers de tests (plan de tests, spécifications de tests, fiches de tests et jeux
+d'essais) à partir des spécifications des produits ou référentiels d’homologation
+- à la définition et préparation des environnements de tests
+- au déroulement des campagnes de tests : exécution des cas de tests, contrôles des résultats obtenus
+comparés a l’attendu, levée des anomalies
+- à la gestion des anomalies
+- à la préparation des reportings de recettes, bilans de recette et certificats de recette
+Dans le cadre de ce stage vous travaillerez en étroite collaboration avec
+-   les Test Managers en France,   en Inde   et en Pologne
+- les équipes projet SWD Business Analysts   et IT Développement
+- les équipes Métiers :   RBWM, PCM /CMB, GBM, Service Delivery
+- les équipes Change Delivery :   PM , Organisateurs
+- Les équipes Groupe HSBC responsable du moteurs de payments à UK et en Inde
+PROFIL RECHERCHE :
+Ecole de Commerce, Master, Ecole d’ingénieur généraliste avec option informatique ou spécialisée en
+informatique ou MIAGE
+Compétences recherchées :
+• bonne maîtrise de l’anglais
+• intéressé(e) par la qualité
+• intéressé(e) par le domaine bancaire et le domaine des paiements
+• bon relationnel (émettre et recevoir des critiques, influencer et négocier, travailler efficacement avec les autres)
+• organisé(e)
+• attentif aux détails
+RESTRICTED/CONFIDENTIEL - l                                                                                              05/03/2015
+
+
+
+
+

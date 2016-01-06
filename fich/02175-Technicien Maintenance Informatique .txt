@@ -1,0 +1,64 @@
+﻿IVALUA    RECRUTE    UN/UNE    TECHNICIEN    MAINTENANCE    INFORMATIQUE    EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 18 MOIS.
+Date : 15/01/2015
+Référence de l’offre : it-8595712
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Orsay (91) 91400, FR
+Durée du contrat : De 12 à 18 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Fondée en Janvier 2000, Ivalua compte aujourd'hui parmi les éditeurs leaders en Europe sur deux marchés en
+forte croissance : le marché des solutions e-achats et celui du pilotage opérationnel.
+Basée en Europe, aux Etats-Unis et au Canada, Ivalua (100 personnes en Europe, 140 dans le monde) a
+déployé avec succès au cours de ces 15 dernières années plus de 130 projets au sein de grandes entreprises
+internationales de tous secteurs d'activités, lui permettant d'afficher une forte croissance tout en étant rentable
+depuis sa création.
+Les solutions Ivalua sont aujourd'hui largement adoptées par plusieurs dizaines de milliers d'utilisateurs pour
+trois raisons majeures :
+- la conception de nos solutions est guidée par une double exigence de simplicité d'utilisation et de valeur
+apportée à l'utilisateur
+- la contribution d'experts métiers nous permet de garantir le bon niveau de richesse fonctionnelle attendue
+- une technologie standard et robuste qui sécurise les déploiements à grande échelle
+Description du poste :
+En collaboration avec l'équipe existante d'ingénieurs systèmes et réseaux, rattaché au Directeur Technique,
+vous intervenez sur le déploiement, l'administration et la sécurisation des postes utilisateurs.
+Vos missions principales :
+- Installer les nouveaux matériels informatiques
+- Installer et mettre à jours les logiciels.
+- Former les utilisateurs
+- Diagnostiquer des défaillances et proposer des solutions
+- Conseiller et assister techniquement les utilisateurs
+- Vérifier et faire appliquer les consignes de sécurités
+- Assurer le support aux utilisateurs sur site ou à distance.
+Profil recherché :
+Profil recherché
+Vous connaissez plusieurs des technologies suivantes :
+- Microsoft Windows 8.1
+- Microsoft IIS
+- Active Directory
+- Powershell
+- Windows updates (WSUS)
+- Déploiement d'images (PXE, WDS, …)
+
+
+
+
+- Kaspersky Anti-Virus
+- SQLServer
+- Matériel DELL
+- Réseau LAN, VLAN, DHCP, DNS.
+Etudiant en dernière année (impérativement) en informatique (bac+2 - bac + 3) , à la recherche de votre stage
+de fin d'études ou d'un contrat de professionnalisation pour effectuer votre dernière année d'études, vous êtes
+organisé, dynamique et capable
+d'adaptation.
+Votre rigueur et votre fiabilité sont reconnues.
+Votre anglais est opérationnel.
+Possibilité d'embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8595712
+
+
+
+
+

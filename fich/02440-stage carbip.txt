@@ -1,0 +1,31 @@
+﻿Date : 26 mars 2015
+Sujet de stage : participation au développement d’une solution IoT Connected Car
+Date de démarrage : Mai 2015
+Localisation : Rennes / Cesson-Sévigné
+Durée : 4/5 mois
+Rémunération :
+Contact : eric.barault@gmail.com
+La société : Carbip est une start-up fondée début  2015 par  3 ingénieurs en essaimage
+d’Orange.  Son  objectif  est  d’apporter  aux  usagers  de  voitures  personnelles,  dans  les
+périphéries urbaines des grosses agglomérations françaises puis européennes, une nouvelle
+manière d’améliorer la mobilité personnelle, de fluidifier l’usage et le partage de sa voiture au
+sein de son cercle  (amis, famille) ou au-delà dans les déplacements au quotidien, et de
+rentabiliser cet asset sous-utilisé qu’est la voiture personnelle.
+L’objet du stage : Pour délivrer cette promesse la plateforme Carbip consiste en un module
+hardware communiquant branché dans la voiture, une infra de serveurs déployée dans le
+cloud, et une application pour Smartphone. Le stage porte principalement sur la conception
+et le développement de la relation application/serveur  : architecture et choix techno  du
+serveur  web,  exposition  des  API  Rest,  communication  avec  les  bases  de  données,
+applications natives iOS et/ou Android, Webapp html5. Toutefois compte-tenu de la nature de
+la société le stagiaire sera appelé à participer en fonction de ses capacités et des priorités au
+développement d’autres composants de la solution : consolidation/analyse fast data, analyse
+big data, device management, logiciel embarqué, API B2B.
+Le stage se déroulera en couplage avec les activités de design IHM des applications Carbip
+qui auront lieu au même moment.
+Compétences recherchées : node.js & express, java, spring boot, angular.js, jhipster, storm,
+mongodb, JSon/Rest, docker
+
+
+
+
+

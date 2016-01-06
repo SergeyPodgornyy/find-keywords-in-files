@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE STAGE VALIDATION D’APPLICATIONS MOBILES H/F EN STAGE 6
+MOIS.
+Date : 01/11/2014
+Référence de l’offre : 176068-7895672
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Notre  entité  Atos  Technology  Services                                                                            (ATS)  a  pour  mission  principale  de  développer  des  services
+informatiques de proximité auprès de ses clients, en les accompagnant dans la mise en œuvre et l'évolution de
+leurs systèmes d'information. Plus de 2 000 experts de proximité accompagnent nos clients tout au long de
+leurs projets.
+Description du poste :
+Le stage s'inscrit dans un projet de validation d'applications mobiles dans le domaine de la TV numérique.
+Il portera sur l'étude de l'automatisation des tests sur différentes applications mobiles.
+Pour cela, vous participerez aux différentes phases de qualification des applications mobiles sur différents
+types de terminaux (smartphones ou tablettes) et d'OS variés (iOS, Android, Tizen, BlackBerry, Windows
+Phone…). Vous découvrirez l'environnement associé pour comprendre les besoins et les contraintes.
+Vous étudierez ensuite le plan de tests pour évaluer les possibilités d'automatisation de tout ou partie des tests
+et vous veillerez à comparer les solutions déjà existantes.
+NTIC  : Devices Mobile iOS, Windows Phone, Android, BlackBerry, Tizen…- Outils HPQC, JMeter,
+WireShark…
+Le stage proposé est une excellente opportunité pour appréhender les méthodes et outils de tests d'un projet
+de qualification dans un contexte industriel. Il permet également d'approcher les nouvelles technologies et les
+solutions mobiles de dernière génération.
+Profil recherché :
+De formation Bac+4/5 en informatique  (Ecole d'ingénieur ou université) en cours de validation, vous
+recherchez un stage d'une durée de 4-6 mois (dates variables selon l'école).
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7895672
+
+
+
+
+

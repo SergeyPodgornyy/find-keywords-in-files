@@ -1,0 +1,63 @@
+﻿Ingénieur d’études C, JAVA/J2EE h/f
+Atos Intégration
+REFERENCE  :  157004
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4561281
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 11/09/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION DU POSTE  :
+Contexte :
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue Management ont la
+responsabilité de projets d’évolutions d’applications de facturation et de gestion des offres pour un
+opérateur Telecom figurant parmi les leaders mondiaux des prestations de services de
+télécommunications destinées aux multinationales.
+Mission :
+Intégré au sein d’une équipe projet et encadré par un ingénieur expérimenté, vous participerez aux
+différentes phases d’un projet informatique.
+Le stage s’organisera autour des phases successives d’un tel projet :
+- Analyse des besoins du client,
+- Etude d’impact & estimation des charges,
+- Rédaction des spécifications,
+- Développement,
+- Validation.
+
+
+
+
+Environnement technologique et fonctionnel :
+C/C++, JAVA/J2EE, Log4j, Weblogic, Oracle 10g, Eclipse, UML, Power AMC, Shell Unix
+Objectifs pédagogiques :
+Ce stage vous permettra d'acquérir l’expérience d’un cycle complet d’un projet informatique, de
+l’analyse des besoins jusqu’au déploiement de la solution définie. Le produit de ce stage devra être
+conduit conformément aux règles projet en vigueur (processus, qualité). Cela offre au stagiaire la
+possibilité de s’intégrer dans une équipe projet, de participer et de découvrir le fonctionnement d’un
+projet . Techniquement, ce stage permet d’acquérir des compétences dans un environnement
+C/C++, Java/J2EE, Shell unix
+PROFIL  :
+De formation Bac +5 en informatique (Ecole d’ingénieur ou université) en cours de validation, vous
+recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle AtoS recrute.
+Ce stage se déroulera à Rennes.
+POUR POSTULER  :  http://atos.contactrh.com/jobs/1536/4561281
+
+
+
+
+

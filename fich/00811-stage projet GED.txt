@@ -1,0 +1,49 @@
+﻿Stagiaire Projet Zéro Papier : Mise
+en production de l’outil de GED
+ENTREPRISE
+Néo-Soft est un groupe d’ingénierie informatique spécialisé en                                             3  domaines principaux : R&D,
+Systèmes d’information et l’infrastructure. Créée il y a 8 ans, nous comptons aujourd'hui plus de 600
+collaborateurs au niveau national.
+POSTE
+Le plan « zéro-papier » s’inscrit dans une démarche RSE d’envergure au sein du groupe Néo-Soft. Ce
+plan  se  décline  en  plusieurs  actions,  et  notamment  la  mise  en  place  d’un  outil  de  gestion
+électronique des documents (GED). L’étude des solutions de GED a abouti au choix de l’outil Alfresco.
+Missions confiées
+La prise de connaissance sur l’étude des solutions GED, sur l’outil Alfresco retenu par Néo-
+Soft, et sur l’environnement technique implémenté (système, réseau, sécurité…)
+La configuration et le paramétrage spécifique de l’outil pour les usages de des métiers de
+l’entreprise (workflows, profils utilisateurs, droits, arborescences…), en coordination avec
+notre responsable Qualité et l’AMOA,
+La mise en œuvre de modules complémentaires autour de l’outil  (RAD/LAD, WebDAV,
+Signature électronique…)
+Le test de la stratégie de sauvegarde/restauration
+Le test aux limites de l’outil (charge, débit, vieillissement, performance, robustesse…)
+La  rédaction  de  la  documentation  d’administration  et  d’exploitation,  le  transfert  de
+connaissance vers les référents techniques internes
+La construction du chronogramme de la MEP (Mise En Production) pour l’outil
+La réalisation de la MEP
+Le support technique post-MEP, en coordination avec l’AMOA
+Pour toutes ces missions, vous bénéficierez des expertises techniques et du support de la Software
+Factory, qui validera les livrables à chacune des étapes ci-dessus.
+Compétences mises en œuvre
+Système Linux, Windows, Virtualisation
+GED, bases de données, AD, RAD/LAD, WebDAV, signature électronique
+Scripting, stratégie backup/restore, homologation technique (tests en charge)
+Capacité d’adaptation, prise de recul, autonomie, rigueur
+Capacité de travail en groupe, tout en portant la responsabilité de son projet
+La connaissance de l’outil de GED Alfresco est un plus
+PROFIL
+Ce stage est destiné à un étudiant bac+5 à la  recherche d’un stage de fin d’études à partir de mars
+ou avril 2014 pour une durée de 6 mois.
+
+
+
+
+Pour postuler, merci d’adresser un CV et une lettre de motivation à :
+stagerennes@neo-soft.fr
+NEO-SOFT, DIFFERENT PARCE QUE VOUS L’ETES.
+
+
+
+
+

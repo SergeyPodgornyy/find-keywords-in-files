@@ -1,0 +1,59 @@
+﻿Ingénieur  TEST  (H/F)
+Steria
+REFERENCE  :  STA/TEST/2013
+POUR  POSTULER  :  offre5374122.1536@steria.contactrh.com sous la référence
+STA/TEST/2013
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  MEUDON LA FORET 92366, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 1 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Steria délivre des services qui s’appuient sur les nouvelles technologies et qui permettent aux
+administrations et aux entreprises d’améliorer leur efficacité et leur rentabilité. Grâce à une
+excellente connaissance des activités de ses clients et son expertise des technologies de
+l’information et de l’externalisation des processus métiers de l'entreprise, Steria fait siens les défis
+de ses clients et les aide à développer des solutions innovantes pour y faire face.
+Créé en 1969, Steria est présent en Europe, en Inde, en Afrique du Nord et en Asie du Sud-Est. Le
+Groupe a réalisé un chiffre d’affaires de 1 750 millions d’euros en 2011. Son capital est détenu à
+hauteur de 21% par ses collaborateurs. Steria, dont le siège social est basé à Paris, est coté sur
+Euronext Paris.
+DESCRIPTION  DU  POSTE  :
+Le programme TRAM’4 est un programme entièrement dédié à un opérateur téléphonique et qui
+repose sur la validation de l’ensemble de son SI, SI décomposé en 3 lots verticaux Grand Public,
+Opérateur & Corporate et Entreprise et un lot Transverse dédié au support des lots verticaux et à la
+mise à disposition de toutes les conditions permettant de réaliser des tests (état des plateformes,
+mise à disposition des Jeux de données nécessaires, outils, reporting).
+Il intègre également une roadmap de transformation déclinée sous 2 axes : un axe orienté industriel
+et qui vise à automatiser la gestion des jeux de données, la conception des tests et leur exécution ;
+un second orienté transformation du modèle de Delivery à travers un modèle intégré avec les
+équipes parisiennes, rennaises (Centre de Service de Proximité et Rennes) et polonaises (Global
+Delivery Center (GDC) de Katowice).
+Ce programme signé pour une durée de 4 ans constitue l’un des plus gros projets de TRA (Tierce
+Recette Applicative) signé par Steria et la ligne de Service Testing en 2012 et représente un enjeu et
+un challenge très important pour Steria.
+Après une phase d’apprentissage des processus régissant le programme et les outils utilisés, vous
+serez intégré au sein d’une équipe de tests où vous participerez aux activités de l’équipe :
+préparation des campagnes de tests, modélisation des scénarios, préparation des jeux de données
+nécessaires, exécution des scénarios, analyse et diagnostic des points de blocages, reporting interne
+
+
+
+
+& externe et comités).
+Rattaché à un chef de projet, vous apporterez votre contribution aux activités de l’équipe et vos
+objectifs seront alignés à ceux de l’équipe.
+PROFIL  :
+Stage de fin d'études d’une durée de 6 mois
+Vous êtes motivé(e) pour vous investir dans une société à dimension internationale, dans un
+contexte exigeant.
+POUR  POSTULER  :  offre5374122.1536@steria.contactrh.com sous la référence
+STA/TEST/2013
+
+
+
+
+

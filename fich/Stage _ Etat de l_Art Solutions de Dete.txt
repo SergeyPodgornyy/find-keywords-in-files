@@ -1,0 +1,40 @@
+﻿Stage  / Etat de l'Art Solutions de Déte
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226517 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899808
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 02/01/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 4 à 6 mois.
+Vous rejoindrez l'équipe Cyberdéfense au sein de Cassidian CyberSecurity. Cette équipe a pour
+mission la mise en place et l'opération des capacités Cyberdéfense (analyse, construction,
+supervision, réponse à incidents).
+L'objectif du stage est d'étudier et établir l'Etat de l'art de solutions de détections de vulnérabilités de
+type actives ou passives qui sont représentatives sur le marché.
+Une évaluation fonctionnelle de deux ou trois solutions sera réalisée sur une plateforme de test
+R&D dédiée, simulant un système IT d'entreprise (Linux, Windows, AD, serveurs applicatifs,
+Firewalls, Routeurs, NAS, Proxy, Outils de supervision).
+Cette offre de stage est à pourvoir à compter du 2 janvier 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Identifier les chemins d'intégration et les efforts requis au regard des solutions actuellement
+déployées sur la plateforme,
+- Produire un état de l'art, une présentation des résultats de tests ainsi que de la documentation.
+PROFIL  :
+Bac+5 systèmes, réseaux et la sécurité ainsi que sur Linux / Windows.
+Travaille en équipe et excellentes qualités relationnelles.
+Anglais:intermédiaire.
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899808
+
+
+
+
+

@@ -1,0 +1,58 @@
+﻿Assistant Analyste Informatique  -
+BNP Paribas
+REFERENCE  :  RHG14S_RBIS_05
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4806612
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  MONTREUIL 93100, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 03/10/2013
+DUREE  :  de 3 à 12 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Développez vos compétences et faites grandir votre potentiel en intégrant les équipes informatiques
+Retail Banking Information Systems (RBIS) de BNP Paribas pour préparer le futur de la banque
+d’un monde qui change.
+Rejoignez l’informatique du Retail Banking du Groupe BNP Paribas et participez à la conduite de
+grands projets dans des environnements multi-technologiques ; découvrez une très large palette de
+métiers et des parcours évolutifs au sein d’une équipe de plus de 1 000 collaborateurs au service des
+réseaux bancaires du Groupe et de ses clients finaux dans le monde entier.
+DESCRIPTION DU POSTE  :
+L’entité RBIS a pour objectifs de :
+- Mutualiser les grands investissements informatiques, en particulier entre les réseaux bancaires du
+Groupe BNP Paribas,
+- Favoriser les échanges de savoir-faire et les bonnes pratiques entre les différentes entités du Retail
+Banking.
+Retail Banking Information Systems recherche à Montreuil (93) un(e) stagiaire :
+Assistant Analyste Informatique - référentiel Personnes H/F
+Vos missions
+Vous intervenez au sein du patrimoine Référentiels Personnes et Structures en charge de gérer,
+entre autres, le référentiel des clients de la banque en France et les processus Métiers liés (exemple :
+Entrées en relation, Personnalisation client, ...)
+L’objet du stage sera de participer à la modélisation UML des entités du référentiel Personnes pour
+une version catalogue et aux demandes de travaux de la version fonctionnelle du référentiel
+personnes correspondante
+En tant que Assistant Analyste Informatique, vous:
+
+
+
+
+Modélisez en UML (modèle des entités, Cas d'utilisation, dossiers d'analyse) à l'aide de l'outil RSM
+Elaborez des cahiers de recette à l’aide de l’outil Quality Center / ALM
+Rédigez des demandes de travaux aux sous traitants
+Suivez des activités du sous-traitant
+Apport de la mission
+Cette mission permet de collaborer avec différentes équipes au sein de la DSI BDDF (équipe
+support, équipe maintenance) mais aussi externes à la DSI (maîtrise d'ouvrage).
+Vous interviendrez sur un environnement technique mixte mainframe et système ouvert.
+PROFIL  :
+Formation : BAC+4/5 Ecole d’Ingénieur ou équivalent Universitaire avec une spécialisation en
+Informatique
+Janvier 2014 pour 6 mois
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4806612
+
+
+
+
+

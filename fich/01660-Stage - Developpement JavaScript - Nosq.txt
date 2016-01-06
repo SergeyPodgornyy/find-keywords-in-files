@@ -1,0 +1,43 @@
+﻿JUNIOR  TALENT  RECRUTE  UN/UNE  STAGE  -  DÉVELOPPEMENT  JAVASCRIPT  -  NOSQ  EN
+STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : SI/1014/000273-7786774
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35200, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Junior Talent est un cabinet de recrutement spécialisé dans les recherches de profils étudiants  (stage,
+alternance) et de jeunes diplômés.
+À ce titre, Junior Talent est le partenaire des entreprises pour les accompagner à chaque étape du processus
+de recrutement d'étudiants ou de profils juniors.
+Partenaires des grandes écoles et universités, nous accompagnons gratuitement les étudiants dans leur
+recherche de premières expériences professionnelles.
+Nous recherchons pour la société Solocal, basé à Rennes, un(e) stagiaire développement outillage JavaScript
+et nosql pour une durée de 6 mois.
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+En 2012, Solocal Group a réalisé un chiffre d'affaires de 1.07 milliard d'euros d
+Description du poste :
+Nous recherchons un(e) stagiaire en développement informatique pour les développements d'outillages back
+office de gestion de données en JavaScript / python (angularjs, nodejs, elasticsearch, mongodb, python).
+Le(a) stagiaire sera intégré(e) dans une équipe de 2 développeurs mais disposera de son propre projet lié au
+domaine.
+Le(a) stagiaire sera chargé(e) de développer l'un de ces sujets selon la date début de stage, ses aspirations et
+la priorité du moment :
+- Back office générique de gestion de documents JSON composite stockés dans elasticsearch,
+- POC refonte en angular/node d'un projet existant en dot.net/c#
+- Maintenance outil générique de consultation de données dans le cluster elasticsearch (curiosity, voir github)
+Profil recherché :
+Bac + 3/4 en informatique.
+Vous êtes volontaire et ouvert(e) d'esprit,
+Vous appréciez la nouveauté, êtes apte à gérer plusieurs sujets, en séquence ou en parallèle.
+Pour postuler : http://junior.contactrh.com/jobs/1536/7786774
+
+
+
+
+

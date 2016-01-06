@@ -1,0 +1,41 @@
+﻿INTRANET OPÉRATIONS CONSOMMATEURS
+(Stage rémunéré)
+REF : 002_2015_Commerce
+DUREE : 6 mois - 1er semestre 2015
+Vous  êtes  rattaché  fonctionnellement  à  l'équipe
+Etudes   "Commerce"   et   vous   serez   amené   à
+travailler sur les applications Intranet du Domaine.
+Vous   assurez   la   conception   fonctionnelle   et
+technique,  la  réalisation  et  le  déploiement  d’une
+application  stratégique  concernant  les  opérations
+consommateurs en magasins.
+Durant ce stage, le « Mode Projet » du GIE IRIS sera le fil conducteur :
+                                                                                                              Phase Etude Préalable  : définir les orientations et du périmètre du projet, proposer plusieurs
+solutions du système cible et motiver un choix auprès des utilisateurs.
+                                                                                                              Phase Analyse  : recenser les besoins des utilisateurs, faire preuve d’initiative pour proposer
+les solutions de votre choix. Ces solutions seront ensuite validées avec les utilisateurs via la
+rédaction des documents d'Analyse Fonctionnelle générale et détaillée. Cette phase sera
+conclue par le chiffrage du projet et sa planification.
+                                                                                                              Phase de Réalisation   : rédiger des documents d’analyse technique et scénarios de tests,
+réaliser le logiciel.
+                                                                                                              Phase  de  Recette   :  réaliser  les  tests  d'intégration,  préparer  et  assister  aux  phases  de
+Recettes Usine et Utilisateurs.
+                                                                                                              Phase Conduite du Changement & Mise en production  : préparer la mise en production, faire
+le transfert de compétences vers l'équipe, faire le suivi après mise en place.
+JAVA / J2EE - JavaScript (ExtJs) - UML - WEBLOGIC - TOMCAT   - ECLIPSE - MAVEN - ISERIES
+Bac + 5 Informatique, Ecole d'Ingénieurs ou universitaire
+   Connaissances techniques : JAVA/Eclipse indispensables, JavaScript serait un plus.
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+   Qualités  requises                                      :  le  stage  impose  une  bonne  intégration  au  sein  de  l’équipe  de
+développement et des contacts directs avec l’utilisateur.
+
+
+
+
+

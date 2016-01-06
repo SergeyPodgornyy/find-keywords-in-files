@@ -1,0 +1,29 @@
+﻿Outil d'aide à la création des données de test SSALTO
+Dans le cadre des missions d'altimétrie et de localisation précise (Jason-2, CryoSat-2, SARAL
+...), le centre de mission SSALTO (Segment Sol d'altimétrie et d'Orbitographie précise) du
+CNES met en œuvre des moyens sol de traitements des mesures faites par les instruments à
+bord des satellites ainsi que des moyens de génération des télécommandes à destination de ces
+instruments. Ces instruments sont notamment l'instrument DORIS qui fournit des mesures de
+localisation utilisées pour déterminer l'orbite précise des satellites ainsi que les altimètres qui
+permettent de mesurer le niveau des mers.
+L'objectif du stage est d'adapter un outil d'aide à la création des données de test SSALTO pour
+les nouvelles missions (Jason-3, Sentinelle-3). Cet outil dispose d'une IHM permettant de
+générer des données de tests adaptées aux différents algorithmes inclus dans les logiciels
+SSALTO ainsi qu'aux différentes phases de vie de ces logiciels (développement,
+exploitation...).
+Pour ce faire, le stage sera composé de deux parties. La première consistera à étudier le
+logiciel existant et à spécifier les nouveaux besoins. La seconde partie consistera à adapter
+l'outil conformément à ces nouveaux besoins.
+Les compétences souhaitées sont : Informatique, Java, Eclipse RCP, IHM, XML, UML.
+Bac +5 (ou bac +4)
+Référence : 2015T076
+Clara  NICOLAS
+CNES  ­  DCT/PS/EA
+18 avenue  Edouard  Belin  ­  31401  TOULOUSE  CEDEX  9
+Tel  :  05.61.27.45.32    ­   Fax  :  05.61.27.30.84
+Mail  :  clara.nicolas@cnes.fr
+
+
+
+
+

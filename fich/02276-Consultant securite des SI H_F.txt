@@ -1,0 +1,57 @@
+﻿ATOS RECRUTE UN/UNE CONSULTANT SÉCURITÉ DES SI H/F EN STAGE DE 4 À 6 MOIS.
+Date : 29/01/2015
+Référence de l’offre : 2014-1578-8717236
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Dans le cadre de la croissante utilisation de tablettes, smartphones, iPhones ou autres téléphones intelligents
+permettant d'accéder à l'information, Evidian souhaite doter ses solutions d'applicatifs permettant l'utilisation
+de ces moyens de connexion en toute commodité et sécurité.
+La solution Evidian Identity Access Manager (I) permet aux entreprises de définir et mettre en place une
+politique de sécurité définissant qui accède à quoi et comment.
+Des processus de workflow de gestion des identités et de droits sont mis en place pour faciliter et maitriser
+les demandes des utilisateurs.
+Dans ce cadre un portail I est mis à disposition des utilisateurs et managers.
+Lors  de  votre  stage,  vous  aurez  pour  missions  principales,  le  développement  d'applications  pour  les
+terminaux intelligents (smartphones, tablettes...), permettant de réaliser des tâches de validation et /ou de
+demande de droits.
+Profil recherché :
+Bac  +  5 Ecole d'ingénieur en Informatique ou cycle universitaire équivalent avec une spécialisation en
+Sécurité des SI.
+Compétences requises
+- Développement JAVA
+- Connaîssance du SDK Android,
+- Connaissance en Web Services
+- Connaissance du KSOAP2
+Compétences appréciées
+- Curiosité
+- Autonomie
+- Créatif
+- Une expérience en développement d'application pour Android.
+
+
+
+
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8717236
+
+
+
+
+

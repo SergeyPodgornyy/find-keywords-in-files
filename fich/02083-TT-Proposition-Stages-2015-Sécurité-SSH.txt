@@ -1,0 +1,31 @@
+﻿Stage 2015
+SECURISATION MATERIELLE D'UNE IMPLEMENTATION
+DE SSH SUR ANDROID
+(REF : SSHA-2015)
+TAZTAG est une  société  rennaise  spécialisée  en technologies de  la communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé, services à la personne…, permettant de créer une véritable interaction entre
+l'usager et son environnement.
+Mission
+L'objectif du stage est de modifier un client SSH pour Android existant pour utiliser les
+capacités cryptographiques d'un élément de sécurité embarqué au sein des produits
+TazTag. Le client SSH modifié devra rester compatible avec les implémentations de
+SSH existantes et permettre la redirection de ports.
+Le stagiaire sera intégré dans l'équipe sécurité de TazTag et sera encadré par des
+experts techniques en sécurité et développement Android.
+Profil recherché
+Vous avez un niveau BAC  +4 ou  5  : master ou école  d’ingénieurs. Vous avez des
+compétences en sécurité et/ou en développement Android. Vous êtes passionné(e),
+autonome, très motivé(e) par la sécurité et enthousiaste pour mettre en place une
+solution opérationnelle basée sur des technologies ouvertes et standards.
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 5 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, leonard.dallot@taztag.com
+
+
+
+
+

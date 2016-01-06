@@ -1,0 +1,44 @@
+﻿PARIS INCUBATEURS RECRUTE UN/UNE DEVELOPPEUR WEB/BACK-END - H/F EN STAGE DE
+6 À 12 MOIS.
+Date : 11/09/2014
+Référence de l’offre : DevWeb20141-7476354
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 6ème 75006, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Créée en  2012, Interactive Mobility propose des solutions de divertissement digital aux opérateurs de
+transport et d'hospitalité.
+Nos solutions répondent à leurs besoins d'offrir aux passagers des solutions de distractions et d'information.
+L'entreprise est en fort développement et fait partie du Welcome city Lab, 1er incubateur mondial dédié à
+l'innovation dans le tourisme.
+Description du poste :
+L'équipe technique d'IM a développé une véritable plateforme de gestion de contenu multimédias dédiés au
+divertissement (vidéos, presse, musique, jeux). Nos projets touchent un grand nombre de technos (back-end
+innovant en C#, ASP.NET, MVC, problématiques de gestion et de sécurité de contenus, DRM, transcodage,
+MDM…). L'équipe mobile gère notre parc d'applications Android et IOS  (problématiques à la fois bas
+niveaux - kernel… et plus haut niveaux avec des app variées (vidéo, streaming, map, jeux…)
+Au sein de notre brillante team vous participerez au développement d'un nouveau projet back-end et front
+office qui comprend un CMS. Dans cette optique, vous serez amené(e) à :
+* Intégrer la partie front du site web,
+* Faire évoluer la structure du back-end,
+* Participer à la réalisation d'un CMS destiné au client,
+*  Véritable  project  leader,  votre  rôle  sera  de  mener  à  bien  les  projets  qui  vous  seront  confiés  des
+spécifications techniques à la livraison de la solution.
+Profil recherché :
+Curieux et ambitieux, vous souhaitez participer à une aventure entrepreneuriale hors-norme et contribuer à
+l'émergence d'une société leader dans son secteur.
+* Autodidacte ou de formation en informatique.
+* Maîtrise des technologies front HTML/CSS/Javascript/JQuerry
+* De bonnes connaissances en C# / ASP.net
+* Reponsive design- Conception / intégration de site web
+* Références sur projets de développement web
+* Vous êtes prêt(e) à vous impliquer dans les projets, et êtes force de proposition.
+Pour postuler : http://parisincub.contactrh.com/jobs/1536/7476354
+
+
+
+
+

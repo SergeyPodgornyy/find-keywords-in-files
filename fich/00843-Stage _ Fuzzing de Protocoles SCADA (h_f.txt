@@ -1,0 +1,49 @@
+﻿Stage  /  Fuzzing  de  Protocoles  SCADA  (h/f
+CASSIDIAN  -  An  EADS  Company
+REFERENCE  :  10229218 LB FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161028
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION  DU  POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Dans le cadre du développement de son activité, Cassidian CyberSecurity crée des solutions
+innovantes en matière de sécurité.
+Le but de ce stage est de procéder au « fuzzing » de protocoles utilisés sur les systèmes de contrôle
+industriel, en particulier les SCADA (Supervisory Control And Data Acquisition) : Modbus, DNP3,
+OPC, etc.
+Vous travaillerez parmi une équipe d'experts reconnus dans la communauté sécurité.
+Cette offre de stage est à pourvoir à compter du 3 Février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Sélectionner les protocoles SCADA,
+- Analyser chacun des protocoles sélectionnés,
+- Développer un automate permettant de procéder au fuzzing de ces protocoles.
+Les livrables attendus sont les suivants :
+- Rapport d'analyse des protocoles,
+- Automate opérationnel avec sa documentation associée,
+- Point de suivi hebdomadaire avec une présentation.
+PROFIL  :
+Etudiant(e) bac+5 sécurité informatique
+Compétences :
+- Réseau (TCP/IP, RS232)
+- SCADA (Modbus, DNP3, OPC, I2C)
+- Python
+
+
+
+
+- informatique (automatismes, )
+Autonome
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161028
+
+
+
+
+

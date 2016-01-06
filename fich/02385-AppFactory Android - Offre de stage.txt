@@ -1,0 +1,46 @@
+﻿Aquafadas   est   une   société   innovante,   leader   sur   le   marché   de   l’édi4on   numérique   sur   table7es   et
+smartphones.   Forte   des   technologies   et   de   l’expérience   développées   au   cours   de   ces   années,   elle   est
+aujourd’hui   parmi   les   entreprises   technologiques   en   plus   forte   croissance   en   Europe.   Aquafadas   appar4ent
+au   Groupe   Japonais   Rakuten,   leader   mondial   de   l’   e-­‐commerce   (Priceminister,   Viber,   Viki…).
+Aquafadas   se   posi4onne   comme   une   société   de   référence   partenaire   technologique   des   professionnels   de
+l’édi4on,   de   la   presse   et   de   la   communica4on   en   général   à   l’assaut   du   marché   numérique.   Elle   a   développé
+des   partenariats   privilégiés   avec   des   éditeurs   comme   Bayard,   Lagardère,   Mondadori,   des   agences   comme
+Publicis   et   Havas,   des   entreprises   comme   Air   France,   EDF   et   Véolia,   elle   est   aussi   présente   l’interna4onal
+avec   des   partenaires   comme   Cambridge   University,   Egmont,   Shueisha   et   Hürriyet.
+Découvrez   les   ou:ls   Aquafadas   gratuitement   sur   h7p://www.aquafadas.com.
+Stage   (H/F)      -­‐   Développeur   Objec:ve   C/Cocoa
+Projet:   Créez   un   système   de   mise   à   jour   de   Gabarit   (Template)
+Intégré(e)   au   sein   de   notre   équipe   de   développeurs,   vous   par4ciperez   à   la   concep4on   d’un   système   de   mise
+à   jour   du   modèle   de   données   d’une   applica4on   Mac   OS   X,   ce7e   dernière   perme7ant   de   générer   des
+applica4ons   mobiles.
+Votre   rôle   sera   divisé   en   plusieurs   par4es   :
+-­‐                                                                                                                                              Compréhension   et   étude   du   fonc4onnement   du   logiciel   existant,
+-­‐                                                                                                                                              Analyse   de   la   meilleure   architecture   pour   stocker   et   me7re   à   jour   les   données,
+-­‐                                                                                                                                              Implémenta4on   et   enfin,
+-­‐                                                                                                                                              Documenta4on.
+En   fonc4on   de   l’avancée   de   ce   projet   et   de   votre   stage,   vous   pourrez   également   par4ciper   à   la   créa4on   d’un
+système   d’interac4on   entre   notre   serveur   de   généra4on   d'applica4on   mobiles   (Nightly   Build)   et   le   modèle
+de   données   de   l’applica4on   OS   X.
+Votre   profil   :
+De    forma4on    Bac+3    minimum    en    développement    informa4que,    vous    avez    un    très    bon    niveau    en
+programma4on   objet.   Vous   possédez   un   goût   prononcé   pour   la   qualité   de   réalisa4on.
+La   maitrise   de   l’anglais   technique   est   requise.
+Qualités   recherchées:
+-­‐   Créa4vité,   passion   et   curiosité
+-­‐   Autonomie.
+-­‐   Esprit   analy4que   et   rigoureux.
+-­‐   Bonne   connaissance   des   patrons   de   concep4on   standard   (Design   pa7erns).
+-­‐   La    connaissance   l’environnement   de   développement   Xcode   est   un   plus.
+Condi:ons:
+Stage   à   pourvoir   dès   que   possible.
+Lieu   :   Montpellier,   Quar4er   du   Millénaire.
+Gra4fica4on   de   stage   selon   la   loi   en   vigueur.
+Vous   souhaitez   par4ciper   à   l'aventure   d'Aquafadas   et   concevoir   la   technologie   de   demain   dans   le   domaine
+de   la   lecture   de   livres,   magazines,   bandes-­‐dessinées,   contenus   riches   sur   table7es   ?
+N'hésitez   plus,   rejoignez   nous   !
+Envoyez   nous   votre   candidature   (CV   +   Le7re   de   Mo4va4on)   à   l’adresse   suivante   :   stages@aquafadas.com
+
+
+
+
+

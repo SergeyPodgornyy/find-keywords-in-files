@@ -1,0 +1,30 @@
+﻿Sujet: "Développement d'un IDE sur le Web (Au revoir Eclipse)"
+Qui aujourd'hui peut se passer d'un environnement de développement (IDE)
+comme Eclipse, Netbeans ou IntelliJ?
+Les services (e.g., éditeur textuel sophistiqué) fournissent aux
+développeurs le support nécessaire à la réalisation de projets plus ou
+moins complexes.
+Tous les langages de programmation (du C au Javascript en passant par le
+CSS et le SVG) ont un support dans un IDE.
+L'avenir est au développement et à l'utilisation d'IDE sur le Web. Il
+est par exemple possible de développer du Javascript directement dans
+son browser (https://c9.io/).
+Nous proposons dans ce stage de développer un IDE sur le Web pour un
+langage particulier (FAMILIAR).
+L'objectif est de fournir des services qu'on trouve classiquement dans
+un IDE comme Eclipse mais cette fois sur le Web.
+Ainsi le langage pourra être utilisé n'importe où, n'importe quand,
+faisant exploser le nombre d'utilisateurs potentiels.
+Selon les capacités et ambitions, la solution pourra même être
+généralisable à n'importe quel langage (e.g., de programmation).
+Nous fournirons l'encadrement nécessaire et l'infrastructure technique
+pour réaliser ce projet ambitieux. Le choix des technologies Web sera
+laissé libre.
+Références:
+http://familiar-project.github.com <http://familiar-project.github.com/>
+https://c9.io/
+
+
+
+
+

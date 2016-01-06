@@ -1,0 +1,88 @@
+﻿OFFRES DE PERIODES DE PRE-EMBAUCHE
+EN BI, CRM ou E-BIZ
+Stages de fin d’études de 5 mois minimum,
+contrats de professionnalisation
+et contrats d’apprentissage.
+Qui sommes-nous  ?
+Fondé en  1992, Business & Decision est un groupe international spécialisé dans le conseil et
+l’intégration  de  systèmes.  Business  &  Decision  est  spécialiste,  reconnu  mondialement,  de  la
+Business Intelligence (BI), de la Gestion de Relation Client (CRM), le Big Data et du Digital.
+Business & Decision est présent dans 15 pays et 4 continents.
+Business & Decision n’est pas une SSII traditionnelle, c’est un mélange de société de conseil,
+d’agence digitale, de SSII, d’éditeur de logiciel et d’incubateur de start-up. Il en résulte une grande
+diversité de profils qui cohabitent harmonieusement pour servir des clients prestigieux autour des
+technologies et de l’innovation.
+L’innovation est au cœur de notre ADN, tout comme l’international et la création de valeur
+métier.
+Nos  clients
+Nous travaillons des grands clients en France et à l’international, essentiellement des grands
+comptes pour la BI, mais aussi pour des sociétés de renom plus petites pour le CRM et le Digital.
+Nous travaillons dans plusieurs secteurs d’activité tels que la Banque, l’Assurance, le Luxe, les
+Media, les Sciences de la Vie et les Service Publics.
+Business & Decision a déjà mené des projets pour 100% des entreprises du CAC 40.
+Notre  écosystème
+Afin de mener à bien nos projets, nous avons construit un écosystème composé de Clients, bien
+sûr, avec lesquels nous avons parfois des projets de partenariat sur l’innovation, mais également
+des éditeurs de logiciel tels que SAP, Oracle, Microsoft, SAS ou IBM pour les grands généralistes
+ou Neolane, Salesforce, QlikView, Microstrategy et des start du Big Data ou du Digital, pour les
+spécialistes.
+Nos  opportunités
+Chaque année, nous accueillons plus de 120 étudiants pour des périodes de stage de 5 mois
+minimum, d’apprentissage et de contrats de professionnalisation.
+Ces périodes nous permettent de connaître, former, préparer, accompagner, intégrer les étudiants
+dans nos équipes afin de définir avec eux une trajectoire qui nous amène à transformer ces
+périodes de formation-intégration en pré-embauche vers des CDI.
+1/7
+
+
+
+
+Ces  opportunités  sont  possibles  à  Paris,  Lyon,  Grenoble,  Marseille,  Toulouse,  Bordeaux,
+Niort, Nantes, Tours, Lille et Amiens.
+Objectifs  du  stage
+Après une formation à nos métiers et à nos outils, vous intégrerez une équipe pour l’un de nos
+clients. Notre objectif est de vous offrir un stage complet où vous pourrez participer aux différentes
+phases  de  mise  en  œuvre  d’un  projet :  analyse  fonctionnelle  et  technique,  conception,
+développement, recette,…
+Exemples  de  sujets  de  stages  en  Business  Intelligence
+  Alimentation  de  données  :
+Pour des besoins d’analyse, de correction de données et de compréhension du comportement de
+la consommation de chacun de ses clients, le client a fait part à Business&Decision de son
+souhait de création d’un datamart où seront stockées toutes ses données. A ce datamart, ont été
+ajoutés des packages développés sous SSIS permettant d’alimenter ce dernier, et des rapports
+développés sous SSRS permettant d’avoir une vue synthétique des données.
+Ce travail technique et fonctionnel permet au service Marketing de notre client une meilleure
+analyse de ses clients.
+  Développement d ’un  projet Qlikview  pour un  grand  laboratoire  pharmaceutique
+Après avoir participé à la phase spécifications avec un consultant expérimenté, vous serez en
+charge du développement d’un module du projet.
+Ainsi, vous participerez à l’ensemble des étapes et chantiers majeurs d’un projet décisionnel, en
+intervenant de la phase de spécifications jusqu’à la mise en production de l’application. Vous
+participerez également aux travaux d’intégration de l’application dans le système d'information
+global et travaillerez avec l’équipe d’exploitation pour la mise en production  (rédaction de la
+documentation et de la formation de l’application).
+Notre client, grand laboratoire pharmaceutique français, a fait confiance à Business & Decision
+dans  l’intégration  et  le  support  de  ses  outils  décisionnels                                      (Qlikview,  SAP  BW,  Microsoft  BI,
+Business Objects).
+Profil
+En cours d’obtention d’un diplôme Bac +5, vous recherchez un stage de fin d’études d’une durée
+de 5 mois minimum ou un contrat d’apprentissage ou de professionnalisation.
+Vous  êtes  sérieux(se),  humble,  passionné(e)  de  nouvelles  technologies,  doté(e)  d’un  bon
+relationnel et souhaitez devenir un(e) consultant(e) Junior performant(e) en Business Intelligence,
+rejoignez-nous !
+Ces offres sont accessibles aux personnes handicapées.
+Pour postuler
+Envoyez CV et lettre de motivation à gaelle.michon@businessdecision.com, en précisant bien
+votre souhait de ville de rattachement parmi les possibles : Paris, Lyon, Marseille, Toulouse,
+Bordeaux, Niort, Nantes, Tours, Lille et Amiens.
+2/7
+
+
+
+
+3/7
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE INGENIEUR EN DEVELOPPEMENT H/F EN CDI
+TEMPS PLEIN.
+Date : 09/07/2014
+Référence de l’offre : SC/GTS/CDI/1023-6907403
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Paris / Ile de France 92000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +4
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Vous rejoignez le département qui regroupe toutes les ressources dédiées aux infrastructures informatiques de
+l'ensemble des métiers et des pays du Groupe SOCIETE GENERALE.
+Cela couvre les postes de travail (ordinateurs, téléphones, messageries), les centres de calcul, les infrastructures,
+les hébergements applicatifs (serveurs, bases de données, middleware), les réseaux informatiques et télécoms.
+Vous rejoignez le département Services à l'Utilisateur Final qui a pour responsabilité de définir et d'exploiter les
+moyens mis à disposition de l'utilisateur final (poste de travail, imprimantes, téléphones portables, assistants
+personnels, etc.) et toutes les infrastructures techniques associées (annuaires techniques, services de fichiers,
+sécurité, etc.).
+Vous intégrez le service qui assure les fonctions de Maitrise d'Œuvre globale des services de l'écosystème
+bureautique.
+Dans ce cadre, vous participez aux missions suivantes :
+- Réaliser les cahiers des charges détaillant les besoins des utilisateurs et décrivant les solutions techniques
+envisagées
+- Prendre en charge le développement et la réalisation des futurs logiciels
+- Réaliser des tests afin de détecter les erreurs et non-conformités
+- Etre responsable du support et de l'évolution du produit
+- Rédiger des documentations
+Les spécificités du poste seront précisées lors des entretiens.
+De formation BAC+4/5 (école d'ingénieur ou universitaire), vous justifiez d'une première expérience réussie en
+développement C#.
+Vous connaissez les normes et standards gravitant autour du xml (xsl, web services), les SGBD SQL Server ainsi
+que les services Active Directory
+La connaissance des offres Microsoft : IIS, SharePoint, MOSS2007, SSIS et SSRS, CommerceServer, Biztalk,
+Visual Studio ... sont un plus pour mener à bien vos missions.
+Votre niveau d'anglais est courant.
+La Défense - CDI
+Profil recherché :
+
+
+
+
+De formation BAC+4/5 (école d'ingénieur ou universitaire), vous justifiez d'une première expérience réussie en
+développement C#.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6907403
+
+
+
+
+

@@ -1,0 +1,50 @@
+﻿Validation fonctionnelle
+d’un projet informatique
+Fondée en  1976, CGI est un fournisseur mondial de s    ervices en
+technologies  de  l’information  (TI)  et  en  gestion  de                      s  processus
+d’affaires  qui  offre  des  services-conseils  en  manag                       ement  ainsi
+que des services d’intégration de systèmes et d’out                             sourcing.
+Avec 69 000 professionnels présents dans 40 pays et                             répartis
+OFFRE DE STAGE
+dans 400 bureaux partout dans le monde, nous conjug                             uons une
+présence locale à un vaste éventail d’expertises. V     oilà la force
+OUEST - RENNES
+de notre engagement.
+Contactez ?
+Keiza BARBIN :
+OBJECTIF DU STAGE                                                               keiza.barbin@cgi.com et Stéphanie
+LEPEIGNEUL :
+Dans le cadre d’un projet de test Telecom, vous participez à la qualification
+stephanie.lepeigneul@cgi.com
+logicielle, selon la méthode, les process et les outils de l’offre QA&Testing
+Offre de stage référence :
+de CGI.
+ST/RNS/VF-TESTS-TEL/01
+MISSIONS
+Vous intégrez un projet de qualification logicielle au sein d’une équipe
+de  30  personnes,  et    vous  prenez  en  charge  les  interventions
+suivantes :
+    Apprentissage  de  la  méthodologie  QA&Testing  au  travers  des
+formations :
+    Utilisation de HP QualityCenter
+    Elaboration d’une stratégie de recette (méthode RRBT)
+    Conception TestFrame
+    Participation  sur  les  différentes  phases  du  projet :  stratégie,
+conception, exécution des tests, contrôle des résultats
+    Diagnostic  des  écarts  consistant  à  vérifier  le  bien-fondé  des
+anomalies constatées. Suivi des résolutions d’anomalies.
+    Reporting et suivi d’avancement sur votre périmètre.
+PROFIL
+    Formation école d’ingénieur
+    Anglais
+    Autonomie, écoute, esprit critique et constructif, dynamisme,
+capacité à prendre du recul
+    Motivé par le métier du test
+    Langage : SQL, VB Script
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

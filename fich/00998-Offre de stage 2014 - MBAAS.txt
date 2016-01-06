@@ -1,0 +1,36 @@
+﻿Offre De Stage
+Veille sur les MBAAS et réalisation d’une application multiplateforme complexe utilisant
+SUJET
+ces services
+http://www.id-apps.fr
+Des services comme Parse, Kinvey ou StackMob proposent ce que l’on appelle des MBAAS :
+Mobile Backend As A Service.
+Ces services Cloud permettent le déploiement d’un serveur en quelques minutes et
+proposent des SDKs pour les différentes plateformes mobiles et/ou web.
+La facilité de prise en main de ces services et la typologie des fonctionnalités qu’ils
+proposent permettent d’imaginer et de mettre en place des outils innovants qui n’auraient
+pu être mis en place par des structures de taille modeste car impliquant des coûts trop
+élevés.
+DESCRIPTION
+Le but du stage est dans un premier temps de réaliser une veille de ces différents services.
+Dans un second temps le stage aura pour but de mettre à l’épreuve un ou plusieurs de ces
+services en réalisation un service complexe en tirant partie.
+Environnement technique : Web, iOS, Android, WP8
+Le stagiaire intégré au centre de développement iD.apps, devra faire preuve d’autonomie
+et s’adapter aux contraintes projets.
+4 à 6 mois
+DURÉE
+Démarrage : dès que possible
+En dernière année de cycle d’étude (Bac+5)
+Niveau d’anglais correct
+Maitrise du développement objet
+PROFIL
+Intérêt prononcé pour une des plateformes mobiles,
+Bonnes connaissances Web et notions sur le Cloud et/ou les
+serveurs (web services, persistance de données, …)
+CONTACT                                                                                        recrutement@id-apps.fr
+
+
+
+
+

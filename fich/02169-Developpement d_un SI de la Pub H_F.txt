@@ -1,0 +1,36 @@
+﻿CAPGEMINI RECRUTE UN/UNE DÉVELOPPEMENT D'UN SI DE LA PUB H/F EN STAGE DE 5 À 6
+MOIS.
+Date : 14/01/2015
+Référence de l’offre : ST-TM-3935-8585824
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                               Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                              2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Intégré à l'équipe de développement, vous avez en charge la conception, la réalisation et l'intégration de
+développements de nouvelles fonctionnalités du système d'information (Catalogue des offres, Planification
+des spots, Administration des Ventes, Echanges de Données Informatisées, …)
+En collaboration étroite avec le client et dans un environnement Agile, vous participez aux Daily Meeting et
+contribuez aux développements des Sprints.
+Par ailleurs, vous mettez en œuvre les technologies adaptées pour la réalisation des aspects IHM (Interface
+Homme Machine), des Services WEB et des Tests automatisés
+Vous serez éventuellement amené à participer à d'autres travaux pour cet opérateur Media dans le cadre de
+son Système d'Information de Ressources Humaines.
+Profil recherché :
+BAC + 5
+Technologies: JAVA, GWT, Angular JS, Eclipse, Oracle, EJB, JBOSS 7, Hibernate
+Méthodologies : Méthode Agile, Visual management, Intégration Continue, GIT, JIRA
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8585824
+
+
+
+
+

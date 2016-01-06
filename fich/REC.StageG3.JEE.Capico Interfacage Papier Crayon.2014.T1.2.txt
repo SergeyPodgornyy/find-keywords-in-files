@@ -1,0 +1,53 @@
+﻿Sujet de stage
+Questionnaire papier/crayon avec CAPICO
+Formation JEE                                                                                                                         Rémunération de 1000€                                                   Logement: 150€
+professionnelle (1)                                                                                                                   brut/mois + primes                                                      brut/mois (2)
+Référence : REC.StageG3.JEE.Capico Interfaçage papier crayon
+Mots clés : Java/JEE, Flex, eCoaching.
+Mission :
+Vous maîtrisez Java, vous avez des notions JEE (JSP, Servlet, …) et vous
+souhaitez participer, dans un environnement professionnel, à la conception
+d’un logiciel à la pointe de la technologie.
+Vous recevrez au préalable un complément de formation d’un mois sur les
+technologies   Java/JEE,   avec   notamment   les   différents   frameworks
+professionnels utilisés par les grands comptes (Hibernate, Spring, Maven,
+Flex, EJB …).
+Ce projet de recherche et de développement vous conduira à mettre en
+application vos connaissances théoriques sur un logiciel existant pour lui
+ajouter de nouvelles fonctionnalités.
+Suite à une étude sur l’utilisation du papier et du crayon pour faire des exercices ou répondre à des
+QCMs, nous souhaitons intégrer cette solution dans CAPICO, l’outil de eCoaching du Groupe Excilys.
+L’objectif est de mettre à disposition des formateurs une solution intuitive pour gérer dans CAPICO des
+tests effectués sur papier par ses élèves.
+Technologies utilisées :
+    Outils et normes Java/JEE
+    Serveurs d’applications JBoss / Tomcat
+    Web services
+    Flex
+    Format Open Document
+    La méthode agile SCRUM pour le suivi du projet
+    Connaissance en traitement d’images est un plus
+Principaux livrables attendus :
+Développement du logiciel fonctionnel, en collaboration avec l’équipe chargée de l’architecture.
+Développement de la partie serveur et de l’IHM.
+Profil : de fortes compétences en informatique (langage Java) ainsi qu’un bon sens pratique seront
+nécessaires pour participer à ce projet. Vous rejoindrez une équipe de spécialistes qui participeront
+activement à votre formation intensive aux technologies Java/JEE.
+Logique du stage : le stage est orienté (formation, projet) dans une optique d’embauche par Excilys.
+Entreprise : eBusiness Information, leader du groupe Excilys, est un cabinet d’experts des systèmes
+d’informations spécialisé dans les technologies JEE, les architectures distribuées et les applications sur
+smartphone.
+Lieu du stage : Région parisienne, Cachan.
+Formation :  1 :  Le  prix  catalogue  de  la  formation  est  de  15.000€  dans  le  cadre  d’une  vente  en
+entreprise.
+Hébergement : 2 : Priorité aux  personnes venant de province dans la limite des places disponibles.
+Date et durée : le stage débutera dès que possible pour une durée de 6 mois.
+Contact :                                                                                                                             Léa SERGIO, recrutement@ebusinessinformation.fr, Tél : 01.41.24.43.22
+« Nous investissons sur vous »
+Tél : +33 1 41 24 43 20 - Fax : +33 1 41 24 43 21 - email : recrutement@ebusinessinformation.fr - web : www.ebusinessinformation.fr
+eBusiness Information - 45-47 avenue Carnot- 94230 Cachan - SARL au capital de 231.000                                                € - R.C.S. Créteil B 432 709 574 - APE 8299Z
+
+
+
+
+

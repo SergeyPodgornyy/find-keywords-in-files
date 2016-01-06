@@ -1,0 +1,38 @@
+﻿Stage  /  Mise  en  Place  de  la  Supervision
+CASSIDIAN  -  An  EADS  Company
+REFERENCE  :  10230925 LB FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5291683
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/03/2014
+DUREE  :  4 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+EADS
+DESCRIPTION  DU  POSTE  :
+Cassidian (Elancourt) recherche un(e) stagiaire pour une durée de 4 à 6 mois.
+Cette offre de stage est à pourvoir à compter du 3 Mars 2014 (sujette à une certaine flexibilité).
+Vous aurez comme mission principale de développer un outil s'appuyant sur NAGIOS pour fournir
+des informations synthétiques à l'application « Tableau de Bord » d'un système de réception
+satellite.
+La supervision concerne :
+- le matériel de réception, les serveurs d'administration et d'applications, les PC clients des
+utilisateurs,
+- les logiciels applicatifs de la station de réception.
+PROFIL  :
+Etudiant(e) Bac+5 ingénierie logicielle.
+Ccompétences:
+NAGIOS
+Windows 7, Windows Server 2008
+Linux
+Travaille en équipe et qualités relationnelles
+Anglais :intermédiaire
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5291683
+
+
+
+
+

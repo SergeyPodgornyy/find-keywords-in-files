@@ -1,0 +1,57 @@
+﻿Stage  :  Etude  de  sensibilité  de  la  navi
+DCNS
+REFERENCE  :  /9829/STZ/13100
+POUR  POSTULER  :  http://dcns.contactrh.com/jobs/1536/4955772
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  F-Saint Tropez 83997, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  plus de 6 mois
+SECTEUR  :  Industries (Armement)
+FONCTION  :  Etudes - Recherche (Ingénieur R & D/Chercheur)
+SOCIETE  :
+UN LEADER MONDIAL DU NAVAL DE DEFENSE - UN INNOVATEUR DANS L'ENERGIE.
+DESCRIPTION  DU  POSTE  :
+--- Descriptif de la société
+Dévoilez votre talent… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense. Avec 2,6
+milliards d'euros de chiffre d'affaires et 13 000 collaborateurs en France et à l'étranger, le groupe
+DCNS offre de réelles opportunités de carrières dans les métiers d'ingénierie de système,
+d'architecture navale, de maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de
+services.
+Vous êtes passionné(e) par les sous-marins, les navires, le nucléaire civil, les énergies marines
+renouvelables ? Vous rêvez d'imaginer le futur ? Vous voulez évoluer au cœur d'un environnement
+d'excellence ? Rencontrons-nous !
+--- Intitulé du stage
+Etude de sensibilité de la navigation (H/F)
+L’objet de ce stage est de modéliser le système de navigation d’une torpille, de simuler l’erreur de
+positionnement au cours du temps et enfin d’évaluer différentes solutions de la littérature
+permettant d’améliorer la précision de la navigation.
+--- Profil recherché
+-                                                                                                       étudianten dernière année d’école d’ingénieur (math / robotique / informatique) ou en
+Master2 recherche
+-                                                                                                       goût pour les problématiques de robotique mobile en général
+-                                                                                                       capacité à rechercher des solutions issues de la littérature et à les mettre en œuvre dans un
+contexte précis
+Vous savez faire preuve d’organisation, de méthodologie, d’autonomie et de réactivité.
+Connaissances nécessaires : langage de programmation matlab, filtrage de Kalman, robotique
+
+
+
+
+mobile
+Connaissances appréciées : Une première expérience (dans le cadre d’un projet par exemple) dans
+la mise en œuvre d’un système de navigation inertiel constituerait un atout majeur. Des
+connaissances générales sur la problématique d’estimation des paramètres de navigation seraient un
+plus.
+Déposez votre candidature (CV+lettre de motivation) sur : www.dcnsgroup.com, site de Saint-
+Tropez.
+PROFIL  :
+Vous êtes étudiant(e) en dernière année d’Ecole d’Ingénieur avec spécialisation en informatique
+scientifique, automatique.
+POUR  POSTULER  :  http://dcns.contactrh.com/jobs/1536/4955772
+
+
+
+
+

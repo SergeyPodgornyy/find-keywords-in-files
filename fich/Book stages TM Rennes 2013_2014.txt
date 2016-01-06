@@ -1,0 +1,1277 @@
+﻿Division Telecom & Media - Rennes
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Développement d’un outil (Java/Flex) d’avant vente de solution
+télécom avec la méthode SCRUM H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                        (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+L'agence  rennaise  de  Sopra  Group  regroupe  plus  de                                                      350  collaborateurs  travaillant  sur  une
+cinquantaine de projets dans le domaine des télécoms et des médias.
+Au  sein  du  système  d’information  d’un  opérateur  Télécom  majeur,  le  projet  gère  une  application
+commerciale B to C lors des phases d’avant-vente et de vente d’offres de réseaux télécoms destinées
+aux entreprises.
+Rattaché(e) au site de Rennes, vous participerez aux différentes phases du cycle de vie du projet en
+appliquant la méthode Scrum :
+- animation du projet par le Scrum Master
+- réalisation des travaux au cours de Sprints
+- échanges réguliers avec le client au cours des journées Agiles
+Vous participerez également au suivi opérationnel du projet en appliquant la méthode Kanban :
+- supervision des environnements de production
+- prise en compte d’évolutions mineures
+- correction d’anomalies de production
+Après une formation initiale sur le fonctionnel de l’application, vous contribuerez au développement
+des évolutions applicatives.
+Intérêt du stage
+- pratiquer une méthodologie projet Agile avec Scrum et Kanban
+- appréhender des environnements techniques variés et innovants
+- renforcer les compétences techniques Java/Flex
+- acquérir une première expérience du travail en équipe
+- développer le sens de la communication
+Environnement technologique/fonctionnel
+Intégration Continue, Java JEE (Spring / Hibernate), FLEX (Flex Builder), Oracle.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Scrum Master
+qui assurera un suivi détaillé de l’activité. L’environnement permet une grande diversité d’activités à
+réaliser ainsi qu’une forte proximité client.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation objet et bases de données Oracle.
+Vous   avez   la   capacité   à   acquérir   rapidement   de   nouvelles   connaissances   techniques   et
+fonctionnelles. Vous êtes curieux(se) et avez un bon relationnel, l’esprit de synthèse et d’analyse.
+Réf. du sujet : STAGE/TELCO/RENN/4068105
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Evolution des systèmes applicatifs de la chaine d'activation d’un
+opérateur télécom et découverte des activités projet H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                        (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au sein du système d’information d’un opérateur télécom, le domaine Activation assure l’interface
+entre  les  systèmes  de  commercialisation  et  les  éléments  du  réseau.  Cela  permet  aux  clients  de
+disposer de leur service en quelques minutes.
+Le  principe  de  l’application  est  de  transformer  les  ordres  commerciaux  en  ordre  techniques.
+L’application doit traiter les informations en haute performance et surtout en haute disponibilité.
+Dans un premier temps, vous vous familiariserez à l’environnement du projet sur le site de Rennes :
+- présentation de l’application et de son contexte au sein du système d’information du client
+- formation aux outils spécifiques du projet
+- développements d’outils spécifiques au projet
+Dans un second temps, vous intégrerez notre site basé en Inde afin de participer aux développements
+de modules spécifiques gravitant autour des solutions d’activation. Lors de cette étape, vous serez
+accompagné(e) de votre tuteur pour vos premiers développements (revue de code, support technique,
+conseil).
+Intérêt du stage
+- travailler en équipe dans un contexte international (langue de travail anglais/déplacement en Inde)
+- acquérir une première expérience du travail en équipe dans un environnement multi-site
+- renforcer ses compétences techniques
+- acquérir une première expérience sur des activités fonctionnelles
+- utiliser les méthodologies et le système de qualité Sopra Group
+Environnement technologique/fonctionnel
+Java /J2EE - Oracle / SQL & PL/SQL.
+Environnement humain
+Intégré(e) directement à une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet qui
+assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets clients.
+Profil recherché
+Actuellement  en  dernière  année  d'école  d'ingénieurs  ou  Master                                          2  informatique,  vous  avez  des
+connaissances en programmation Java. Vous faites preuve d’une curiosité pour un environnement
+humain interculturel et maîtrisez l’anglais. Vous disposez de bonnes qualités rédactionnelles.
+Réf. du sujet : STAGE/TELCO/RENN/4116378
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Participation aux activités de la cellule Bench & Performance H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                            (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+La cellule Bench & Performance intervient de façon transverse sur de nombreux projets de l’agence
+rennaise. Constituée d’une équipe d’experts, elle apporte le support aux projets, en proposant des
+méthodes, outils, expertise et savoir-faire industriels permettant la détection, l’analyse et la résolution
+de problème de performances sur des environnements hétérogènes.
+Intégré(e) à  la  cellule  Bench &  Performance et accompagné(e) du Chef  de  Projet et d’un  Expert
+technique, vous participerez à la mise en œuvre de tests de performance. Vos compétences multi-
+technologiques vous permettront de :
+- spécifier les objectifs du projet, la méthode, les tests, les environnements techniques et outils
+- développer les scripts de tests permettant de simuler la charge utilisateur
+- industrialiser les tests de performance (initialisation, lancement, monitoring, rapport)
+-  analyser  les  résultats  (client,  serveur  web,  serveur  d’application,  application,  base  de  données,
+systèmes et réseaux)
+- déterminer les problèmes et proposer des solutions/recommandations
+Intérêt du stage
+- acquérir une méthodologie projet
+- comprendre le fonctionnement global d’une application, d’un système
+-  comprendre  les  problématiques  de  performance  à  tous  les  niveaux  d’une  application  ou  d’un
+système
+Environnement technologique/fonctionnel
+Microsoft .NET/VB, JAVA, Windows, Unix/Linux, SQL Server, Oracle, Systèmes et Réseaux
+LoadRunner, Jmeter, WITBE, SOAPower, Zabbix
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients ou internes.
+Profil recherché
+En  dernière  année  d’école  d’ingénieurs  ou  de  Master  2  informatique,  vous  avez des  capacités  à
+appréhender un contexte projet multi-domaine (applicatif, base de données, systèmes et réseaux).
+Votre  relationnel,  rigueur  et  esprit  de  synthèse  sont  les  atouts  qui  vous  permettront  d’évoluer
+rapidement au sein d’une équipe.
+Réf. du sujet : STAGE/TELCO/RENN/4206964
+
+
+
+
+Telecom & Média
+Rennes
+Stage                                                                                                        -  Développements  Java,  déploiement  et  supervision  d'une
+infrastructure d'échanges de flux inter-applicatif (EAI Webmethod) H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                       (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans le cadre de l’urbanisation d’un système d’information, l’EAI (Entreprise Application Integration)
+met à disposition  une infrastructure sur laquelle  les  principaux domaines d’activités  (l’Ordering,  le
+Provisionning, le Problem Handling et le Billing) viennent échanger des flux. Lors de votre stage, vous
+appréhenderez les différentes activités d’un projet dans un contexte international. Vous utiliserez les
+méthodologies de développement ainsi que le système qualité Sopra Group.
+Au cours de la première phase de votre stage, vous serez amené(e) à découvrir l’application :
+- présentation de l’application et de son contexte au sein du système d’information du client
+- formation aux outils spécifiques du projet
+- participation aux activités de tests
+- corrections d’anomalies
+Dans un seconde phase, vous participerez aux développements de modules spécifiques gravitant
+autour de la suite progicielle webMethods/Software Ag. Sur cette étape, vous serez accompagné(e)
+de votre tuteur lors de vos premiers développements (revue de code, support technique, conseil).
+Par exemple  : IHM de console d’administration des flux et son API, outils d’industrialisation et de
+gestion des infrastructures EAI, réalisation de Proof Of Concepts.
+Ce  stage  vous  permettra  d’appréhender  les  techniques  d’échanges  de  données  EAI  (Enterprise
+Application Integration) et d’aborder une architecture originale et complexe.
+Intérêt du stage
+- renforcer les compétences techniques en langage Java, unix et réseau
+- acquérir des compétences fonctionnelles dans le domaine télécom
+- aborder une architecture originale et complexe
+- acquérir des connaissances autour de l’EAI
+- comprendre les règles d’urbanisation d’un système d’information
+Environnement technologique/fonctionnel
+Java, XML, Ant, Eclipse, Unix/Linux, Tomcat, SOA, webMethod 7.1.X et 8.X, Oracle 11i
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation Java. Vous faites preuve d’une curiosité pour un environnement humain interculturel
+et maîtrisez l’anglais.
+Votre  relationnel  et  capacité  à  travailler  en  équipe  sont  les  atouts  qui  vous  permettront  d’évoluer
+rapidement au sein d’une équipe.
+Réf. du sujet : STAGE/TELCO/RENN/4206980
+
+
+
+
+Telecom & Média
+Rennes
+Stage  -  Intégration  du  programme  de  développement  du  catalogue
+d'offre "abonné" d'un opérateur télécom H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                    (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans le cadre de la réalisation d’un nouveau système d’information des offres et facturation pour un
+opérateur majeur des télécom, vous serez rattaché(e) à l’équipe projet chargée de mettre en œuvre le
+catalogue des différentes offres commerciales auprès des abonnés.
+Piloté(e) par un Chef de Projet, vous serez amené(e) à effectuer une partie des développements de
+modules spécifiques gravitant autour du produit utilisé pour le traitement des commandes.
+Votre stage vous permettra de découvrir l’application :
+- présentation de l’application et de son contexte au sein du système d’information du client
+- formation aux outils spécifiques du projet
+- participation aux activités de tests
+- corrections d’anomalies
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- travailler en équipe
+- renforcer les compétences techniques Java
+- acquérir une méthodologie projet
+- participer à l’un des plus grands projets européens
+Environnement technologique/fonctionnel
+Java JEE, JBOSS, Google Web Toolkit, Oracle, Intégration continue (maven, hudson, sonar, clover)
+Framework (Hibernate, Spring, JaxB), CXF, Oracle, UML
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d’école d’ingénieurs ou de Master  2 informatique, votre aptitude à travailler en
+équipe  et  votre  capacité  d’apprentissage  vous  permettront  de mettre  en  œuvre  vos  compétences
+techniques Java et XML dans le cadre d’une application majeure du système d’information.
+Réf. du sujet : STAGE/TELCO/RENN/4207005
+
+
+
+
+Telecom & Média
+Rennes
+Stage  - Intégration du programme de développement du SI "abonné"
+d'un opérateur télécom H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                   (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans le cadre de la réalisation d’un nouveau système d’information des offres et facturation pour un
+opérateur majeur des télécom, vous serez intégré(e) à l’équipe projet chargée de mettre en œuvre le
+module « prise de commande ». Celui-ci vise à traiter en mode asynchrone les différentes opérations
+liées à une commande (activation de la ligne, propagation des informations au SI, communication vers
+les systèmes adjacents…).
+Au cours de la première phase de votre stage, vous serez amené(e) à découvrir l’application :
+- présentation de l’application et de son contexte au sein du système d’information du client
+- formation aux outils spécifiques du projet
+- participation aux activités de tests
+- corrections d’anomalies
+Puis dans un second temps, vous participerez aux développements de modules spécifiques gravitant
+autour du produit utilisé pour le traitement des commandes. Sur cette étape, vous serez également
+accompagné(e)  de  votre  tuteur  lors  de  vos  premiers  développements  (revue  de  code,  support
+technique,  conseil).  Par  exemple,  développement  d’une  IHM  sous  Java/GWT,  création  d’un
+webservices, modification d’un traitement batch d’export de données.
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- travailler en équipe
+- renforcer les compétences techniques Java
+- acquérir une méthodologie projet
+- participer à l’un des plus grands projets européens
+Environnement technologique/fonctionnel
+Java JEE, JBOSS, Oracle, Oracle BPEL, Intégration continue (maven, hudson, sonar, clover)
+Framework (Hibernate, Spring, JaxB), CXF, Oracle, UML
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous montrez un réel intérêt pour
+l’innovation  technologique.  Vous  avez  des  connaissances  en  programmation  Java  et  XML.  Votre
+curiosité et capacité à travailler en équipe sont les atouts qui vous permettront d'évoluer rapidement
+au sein de nos équipes.
+Réf. du sujet : STAGE/TELCO/RENN/4207022
+
+
+
+
+Telecom & Média
+Rennes
+Stage  - Intégration du programme de développement de la prise de
+commande "abonné" d'un opérateur télécom H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                       (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans le cadre de la réalisation d’un nouveau système de gestion des commandes et de la facturation
+pour un opérateur majeur des télécom, vous serez amené(e) au sein de l’équipe projet à mettre en
+œuvre le traitement des commandes pour les différents canaux de ventes.
+Au  cours  de  la  première  phase  de  votre  stage,  vous  découvrirez  l’application  (présentation  de
+l’application, de son contexte au sein du système d’information client, formation aux outils spécifiques,
+participation aux activités de tests, analyse et corrections d’anomalies).
+Lors de la seconde phase, vous serez chargé(e) de participer aux développements :
+- des IHM de prise de commande déployées dans les centres d’appels et en boutique  (couverture
+nationale, très forte visibilité)
+- des services métiers et des Web Services exposant ces fonctionnalités aux autres consommateurs
+- des traitements batch (purges, mises à jour de masse…)
+Vous contribuez directement au développement de l’application utilisée en production.
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+-  intégration  au  sein  d’une  équipe                                                                      (~30  personnes)  avec  un  accompagnement  par  un  binôme
+expérimenté, sous la responsabilité d’un Chef de Projet
+- renforcer les compétences techniques Java
+- acquérir une méthodologie sur un projet fortement industrialisé
+- découvrir toutes les activités depuis la conception jusqu’à la mise en production (et au-delà)
+- participer à l’un des plus grands projets européens
+Environnement technologique/fonctionnel
+Java JEE, JBOSS/Tomcat, Google Web Toolkit, Oracle, SOAP, Intégration continue (Maven, Jenkins,
+Sonar)
+Framework (Hibernate, Spring, JaxB), CXF, Oracle, UML, Eclipse/EA/SQL*Dev
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation Java. Vous avez un réel intérêt pour le marché des SI télécom. Vous êtes curieux(se)
+et avez un bon relationnel, l’esprit de synthèse et d’analyse. Vous avez la capacité à appréhender de
+nouveaux concepts et des processus métiers.
+Réf. du sujet : STAGE/TELCO/RENN/4207044
+
+
+
+
+Telecom & Média
+Rennes
+Stage  -  Outsourcing  d’une  application  de  trouble  ticketing  dans  un
+contexte international H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                       (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Le trouble ticketing est un domaine central dans le système d’information d’un opérateur télécom. Le
+domaine regroupe plusieurs applications, dont une application centrale en charge de gérer les tickets.
+Lors de votre mission, vous contribuerez à la mise en place d’outils d’automatisation des campagnes
+de tests et du reporting :
+- étude de faisabilité et conception fonctionnelle
+- architecture et développement
+- intégration et qualification
+Associé(e) à une équipe projet, vous vous familiariserez au contexte multi-site et international. Vous
+utiliserez la méthodologie et le système qualité Sopra Group.
+Intérêt du stage
+- acquérir une première expérience du travail en équipe dans un contexte international
+- découvrir et participer à l’ensemble des phases d’un projet, en partant de la conception jusqu’à la
+livraison de la solution et le support client
+- acquérir une méthodologie intégration projet et l’utilisation d’un outillage industriel
+Environnement technologique/fonctionnel
+Microsoft .Net 4, Intégration Continue - SQL Server, Quality Center, Quick Test Professional
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle autour d’un projet, vous serez encadré(e) par
+un Chef de Projet qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées
+sur les projets clients.
+Profil recherché
+En  dernière  année  d'école  d'ingénieurs  ou  Master  2  Informatique,  vous  avez  la  connaissance  du
+langage .Net et montrez un réel intérêt pour le marché des SI télécom. Vous avez une curiosité pour
+un environnement humain interculturel et une bonne maîtrise de l’anglais.
+Réf. du sujet : STAGE/TELCO/RENN/4207057
+
+
+
+
+Telecom & Média
+Rennes
+Stage  - Participation à un projet de portail d’applications en  .Net/Java
+H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                   (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Lors de votre stage, vous intégrerez l’équipe d’ingénieurs en charge de la gestion des applications
+Web orientées services client et destinées aux grandes entreprises.
+Après une prise de connaissance de l’Environnement technologique/fonctionnel, vous participerez à
+l’élaboration d’un portail applicatif de suivi de l’exploitation client :
+- représentation graphique des positionnements d’incidents
+- gestion de demande de changements
+- gestion du portail Front/Back
+- gestion de vue synthétique des applications (mode iGoogle)
+Vous contribuerez aux différentes phases du cycle de vie du projet  (spécification, développement,
+écriture de tests unitaires automatisés et qualification), en appliquant une méthodologie inspirée de
+Scrum :
+- animation du projet par le Scrum Master
+- réalisation des travaux au cours de Sprints
+- échanges réguliers avec le client lors des démonstrations
+Intérêt du stage
+- travailler en équipe avec la proximité du client
+- Environnement technologique/fonctionnel varié et innovant
+- renforcer les compétences techniques .Net/Java
+- méthodologie projet inspirée de Scrum/Agile
+Environnement technologique/fonctionnel
+Microsoft .Net, Java JEE, Google Web Toolkit, Oracle - Intégration continue (Jenkins)
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle (~20 personnes), vous serez encadré(e) par un
+Scrum Master qui assurera un suivi détaillé de l’activité. L’environnement permet une grande diversité
+d’activités à réaliser ainsi qu’une forte proximité client.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez la capacité à acquérir
+rapidement de nouvelles connaissances techniques et fonctionnelles. Vous êtes curieux(se) et avez
+un bon relationnel ainsi qu’un bon esprit de synthèse et d’analyse. Vous avez une bonne maîtrise de
+la l’anglais.
+Réf. du sujet : STAGE/TELCO/RENN/4207073
+
+
+
+
+Telecom & Média
+Rennes
+Stage  - Migration technique d'une application de prise de commande
+d'un grand opérateur télécom H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                       (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+L’application gère la prise de commande des offres complexes du catalogue destiné aux grandes
+entreprises d’un opérateur télécom. Cette application repose sur plusieurs concepts architecturaux qui
+coexistent essentiellement basés sur deux technologies VB ASP et .Net. Un projet de migration vers
+.Net                                                                                                         4.0  a  été  identifié,  afin  de  garantir  la  pérennité  technique  et  simplifier  la  maintenance  de
+l’application en abandonnant la technologie VB.
+Après une formation initiale sur le fonctionnel de l’application, vous participerez aux différentes phases
+du projet :
+- développements de la migration
+- conception et réalisation des tests de validation de l’application
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production logicielle ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- renforcer vos connaissances techniques, notamment Microsoft
+- acquérir des compétences fonctionnelles dans le domaine telecom
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+- acquérir une première expérience du travail en équipe (organisation en équipe projet)
+Environnement technologique/fonctionnel
+Intégration Continue, UML, Microsoft, .Net 4.0, Windows 2008, Oracle 11G.
+Environnement humain
+Intégré(e) dans une équipe projet, vous serez encadré(e) par un Chef de Projet qui assurera un suivi
+détaillé de l’activité dans le cadre des procédures appliquées sur les projets clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master  2 informatique, vous avez des connaissances
+techniques  en  programmation  objet  et  bases  de  données  Oracle.  Votre  capacité  à  acquérir
+rapidement  de  nouvelles  connaissances  techniques  et  fonctionnelles,  votre  rigueur  et  esprit  de
+synthèse sont les atouts qui vous permettront d'évoluer rapidement au sein de nos équipes. Vous
+avez un bon niveau en anglais.
+Réf. du sujet : STAGE/TELCO/RENN/4207076
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Évolution du système de réservation d’espaces publicitaires pour
+un acteur des médias H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                          (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au sein du système d’information d’un acteur majeur de l’audiovisuel, le domaine de la publicité est un
+domaine  particulièrement  clés  ou  les  recettes  publicitaires  contribuent  à  plus  de  60%  au  chiffre
+d’affaires.
+Le cœur de métier de notre client est la commercialisation des espaces publicitaires des chaines TV
+du  groupe  audiovisuel,  mais  également  des  espaces  publicitaires  des  nouveaux  média  (internet,
+mobile…).
+L’équipe gère plus de 45 applications représentant le cœur du système informatique du client. Le SI
+doit être non seulement performant, mais robuste et évolutif.
+Lors de votre stage, vous appréhenderez les différentes activités liés à l’évolution du système. Dans
+un premier temps, vous recevrez une formation fonctionnelle et technique pour ensuite participer à
+l’activité  productive  du  projet.  Vous  utiliserez  les  méthodologies  de  développement  ainsi  que  le
+système qualité Sopra Group.
+Au sein de l’équipe projet, vous participerez aux différentes phases du projet :
+- études et conception
+- développement/réalisation
+- qualification et intégration
+- déploiement
+Intérêt du stage
+- renforcer ou acquérir des compétences techniques .Net
+- acquérir des compétences fonctionnelles dans le domaine des Médias
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+- acquérir une première expérience du travail en équipe
+Environnement technologique/fonctionnel
+Technologies Microsoft .NET, WPF, Base de données SQL server.
+Environnement humain
+Intégré(e) dans une équipe opérationnelle d'une dizaine de personnes, vous serez encadré(e) par un
+Chef de Projet qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur
+les projets clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation  .Net.  Vous  êtes  curieux  (se)  et  avez  un  bon  relationnel,  l’esprit  de  synthèse  et
+d’analyse.
+Vous avez la capacité à appréhender de nouveaux concepts et des processus métiers.
+Réf. du sujet : STAGE/TELCO/RENN/4207115
+
+
+
+
+Telecom & Média
+Rennes
+Stage  -  Participation  à  un  projet  sur  une  application  autour  de  la
+téléphonie fixe H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                              (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Vous intégrerez l’équipe d’Ingénieurs chargée d’assurer la maintenance et de réaliser les évolutions
+du système d’information d’un grand opérateur Télécom dans le domaine de la prise de commande
+Téléphonie Fixe & ADSL.
+Après une formation initiale sur le fonctionnel de l’application, vous participerez aux développements
+d’une version de cette application et aux opérations d’industrialisation de l’environnement projet.
+De plus, tout au long du projet vous aurez la visibilité sur l'ensemble du processus projet : pilotage
+projet,  relations  client,  support  à  la  rédaction  de  cahier  des  charges,  rédaction  de  proposition  de
+réalisation fournisseur, architecture, recevabilité et recette client.
+Intérêt du stage
+- renforcer vos connaissances techniques
+- acquérir des compétences fonctionnelles dans le domaine télécom
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+- acquérir une première expérience du travail en équipe (organisation en équipe projet)
+Environnement technologique/fonctionnel
+SGBD Oracle, UNIX Solaris et Linux, Langages C, Java, Uniface.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez la capacité à acquérir
+rapidement de nouvelles connaissances techniques et fonctionnelles.
+Vous avez un réel intérêt pour le marché des SI telecom.
+Vous êtes curieux (se) et avez un bon relationnel, l’esprit de synthèse et d’analyse.
+Réf. du sujet : STAGE/TELCO/RENN/4207120
+
+
+
+
+Telecom & Média
+Rennes
+Stage  - Intégration au sein d’un projet d'activation de commandes en
+Java dans un contexte international et participation au développement
+d’un POC de refonte d’une application J2EE H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                         (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Le domaine applicatif sur lequel porte votre mission regroupe un ensemble de systèmes de gestions
+et de suivi de l’activation des commandes commerciales conclues avec les clients de type entreprises
+d’un opérateur majeur des télécom.
+Après une formation fonctionnelle et technique en lien avec le patrimoine applicatif, la première phase
+de votre stage consiste à participer activement à l’élaboration d’un Proof Of Concept de refonte d’une
+application du projet :
+- étude et analyse des outils de type Moteur de règles disponibles sur le marché
+-  conception  et  développement  d’un  POC  sur  la  base  du  moteur  de  règle  sélectionné  et  sur  un
+périmètre  recouvrant  à  minima  une  fonctionnalité  utilisateur  IHM,  une  fonctionnalité  web  services
+entrante et sortante ainsi qu’un traitement métier asynchrone
+Dans une seconde partie du stage, vous participerez pleinement à l'activité quotidienne du projet :
+- développement de nouvelles fonctionnalités (code et test unitaires)
+- rédaction de spécifications fonctionnelles détaillées/dossiers de tests et tests
+- contribution à l’industrialisation du projet (intégration continue, etc.)
+Tout au long du projet, vous aurez de la visibilité sur l'ensemble du processus projet : pilotage projet,
+relations client, rédaction de proposition de réalisation fournisseur, architecture, recevabilité et recette
+client... Vous utiliserez les méthodologies de développement, les techniques d’industrialisation de la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- travailler en équipe dans un contexte International (acteurs Sopra Group Rennes & India)
+- renforcer les compétences techniques Java
+- acquérir des compétences fonctionnelles dans le domaine télécom
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+Environnement technologique/fonctionnel
+Architecture n-Tiers: Java/J2EE, GWT, Oracle 11G, Corba, Jonas, Tomcat, JBoss, Automatisation des
+tests avec Quick Test Pro, Industrialisation avec Jenkins
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation objet et bases de données Oracle. Votre relationnel, rigueur et esprit de synthèse sont
+les atouts qui vous permettront d'évoluer rapidement au sein de nos équipes. Vous avez une bonne
+maîtrise de la langue anglaise.
+Réf. du sujet : STAGE/TELCO/RENN/4211439
+
+
+
+
+Telecom & Média
+Rennes
+Stage  -  Gestion  et  suivi  d'opérations  d'activation  de  commandes  en
+technologies  Microsoft  et  développement  d’une  application  web  de
+monitoring d’activité de production H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                         (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Le domaine applicatif sur lequel vous interviendrez regroupe un ensemble de systèmes de gestions et
+de  suivi  de  la  mise  en  œuvre  des  commandes  commerciales  conclues  avec  les  clients  de  type
+entreprises d’un opérateur majeur des télécom.
+Au cours de la première phase de votre stage, et après une présentation des applications et de leur
+contexte, vous serez amené(e) à enrichir l’outillage utilisé au quotidien par les équipes, ainsi qu'à
+développer  un  nouvel  outil  web  de  monitoring  des  activités  en  production  des  applications  du
+domaine.
+La nouvelle application web devra permettre de mettre à disposition sous forme graphique l’ensemble
+des  données  de  volumétrie,  d’activité,  de  performances  des  différents  modules/applications
+concernées, avec possibilité de « zoomer » sur une période d’activité.
+Une étude des meilleures technologies pouvant répondre à ce besoin sera demandée.
+Dans une seconde partie du stage, vous participerez pleinement à l'activité quotidienne du projet :
+- développement de nouvelles fonctionnalités (code et test unitaires)
+- rédaction de spécifications fonctionnelles détaillées/dossiers de tests et tests
+- contribution à l’industrialisation du projet (intégration continue, etc.)
+Tout au long du projet, vous aurez de la visibilité sur l'ensemble du processus projet : pilotage projet,
+relations client, rédaction de proposition de réalisation fournisseur, architecture, recevabilité et recette
+client... Vous utiliserez les méthodologies de développement, les techniques d’industrialisation de la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- renforcer les compétences techniques Microsoft
+- acquérir des compétences fonctionnelles dans le domaine télécom
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+Environnement technologique/fonctionnel
+Environnement technologique/fonctionnel: .Net, Visual Basic, .Net, Oracle 11G
+Outils utilisés: WIKI, Forge, SVN, Quality Center, Quick test pro, Jenkins, Soap UI, Log parser.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+
+
+
+
+clients.
+Profil recherché
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+technologie Microsoft et la capacité à acquérir rapidement de nouvelles connaissances techniques et
+fonctionnelles.  Votre  rigueur  et  esprit  de  synthèse  sont  les  atouts  qui  vous  permettront  d'évoluer
+rapidement au sein de nos équipes. Vous avez une bonne maîtrise de la langue anglaise.
+Réf. du sujet : STAGE/TELCO/RENN/4211442
+
+
+
+
+Telecom & Média
+Rennes
+Stage                                                                                                       -  Gestion  de  plateforme  de  test  client  dans  un  contexte
+international H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                      (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Le projet sur lequel porte votre mission a pour objectif principal la gestion des plateformes de tests du
+client  sur  l’ensemble  des  applications  de  la  chaîne  d’activation  des  commandes  commerciales
+conclues avec les clients de type entreprise d’un opérateur majeur des télécoms.
+Après une présentation des process et enjeux du projet, dans une première phase de stage, vous
+participerez  activement  à  la  conception  et  au  développement  d’une  application  web  permettant
+l'installation automatique des applications sur les environnements de tests du client. La phase de
+conception inclura une phase d’étude des technologies envisageables pour cette application. L’objectif
+final est une application générique permettant :
+- l’installation d’applications sur environnement client hétérogène (UNIX, LINUX, Microsoft)
+- des étapes automatiques de contrôle/validation de l’installation effectuée
+- une mise à jour de la cartographie de l’environnement avec les packages installés
+Dans une seconde partie, vous participerez pleinement à l'activité quotidienne du projet :
+- préparation environnement(s) et déploiement/configuration des applications (environ une trentaine)
+livrées par les différents prestataires
+- support fonctionnel et technique à l’ensemble des utilisateurs des plateformes de tests
+-  contribution  et  enrichissement  de  l’industrialisation  du  projet                                    :  intégration  continue                                                                           (Jenkins…),
+consolidation de la supervision et reporting sur la disponibilité des applications/environnements via
+Centreon/Nagios…)
+Tout au long du projet, vous aurez de la visibilité sur l'ensemble du projet : pilotage projet, relations
+client... Vous utiliserez les méthodologies de développement, les techniques d’industrialisation de la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- travailler en équipe dans un contexte International (acteurs Sopra Group Rennes & India)
+- renforcer les compétences techniques
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+Environnement technologique/fonctionnel
+Plateformes Microsoft Windows Server 2000, 2003, 2008/Linux/HPUX/Unix/Centos
+Technologies .Net/J2EE, Jenkins, Quick Test Pro, PEGA, Nagios/Centreon
+
+
+
+
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation, bases de données et plateformes Unix/Microsoft/Linux. Votre relationnel, rigueur et
+esprit de synthèse sont les atouts qui vous permettront d'évoluer rapidement au sein de nos équipes.
+Vous avez une bonne maîtrise de la langue anglaise.
+Réf. du sujet : STAGE/TELCO/RENN/4211732
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Outsourcing d'une application de détection de la fraude dans un
+contexte international H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                      (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au sein du système d’information d’un opérateur télécom, le système de gestion de la fraude permet
+de mettre en œuvre des stratégies de préventions et de détection de la fraude des usagers. Vous
+intégrerez une équipe d’ingénieurs chargée d’assurer l’évolution et la disponibilité de ces applications.
+Après une formation initiale sur le projet : contexte métier, environnement technologique et logiciels
+spécifiques, vous appréhenderez les différentes activités du projet dans un contexte international.
+L’environnement intègre des technologies variées, innovantes et une gestion de masse des données.
+Vous utiliserez les méthodologies de développement déployées sur le projet  (intégration continue,
+industrialisation, méthodologie projet itérative) ainsi que le système qualité Sopra Group.
+Vous appréhenderez les différentes phases du projet en équipe :
+- études et conception
+- développement/réalisation
+- qualification et intégration
+- déploiement et installation en environnement de production
+- suivi de la mise en service et gestion de la maintenance applicative
+Intérêt du stage
+- travailler en équipe dans un contexte international (langue de travail anglais)
+- acquérir une première expérience du travail en équipe dans un environnement multi-site
+- contribution aux différentes activités d’un projet
+- environnement de production à forte contrainte de performance, disponibilité et scalabilité
+Environnement technologique/fonctionnel
+Technologies UNIX, Oracle, Java JEE, Shell Unix, Solutions Neural Technologies, Datastage, Perl,
+Webservices, MQSeries
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation Java. Vous faites preuve d’une curiosité pour un environnement humain interculturel
+et maîtrisez l’anglais,  Votre relationnel et capacité  à  travailler  en équipe sont  les atouts qui vous
+permettront d’évoluer rapidement au sein d’une équipe.
+Réf. du sujet : STAGE/TELCO/RENN/4211897
+
+
+
+
+Telecom & Média
+Rennes
+Stage  -  Mise  en  oeuvre  de  l'industrialisation  sur  le  programme  de
+collecte et d'activation d'un opérateur télécom H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                         (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Le  programme  regroupant  l’activité  de  collecte  des  tickets  de  communication  et  d’activation  d’un
+opérateur télécom est constitué d’un parc de 45 applications. Les nombreuses adhérences entre ces
+différentes  applications  en  termes  de  normes,  technologies,  processus,  outils  et  domaines
+fonctionnels sont le champ propice à la mise en œuvre d’une forte industrialisation.
+Dans le cadre de votre stage, vous vous familiariserez avec les différentes activités relatives à la mise
+en œuvre de la politique interne d’industrialisation du programme, telles que :
+- participation au développement et/ou l’enrichissement d’outils internes communs et intégration de
+ces derniers à un portail partagé
+- participation à la mise en place de l’intégration continue sur les applications du programme
+Piloté(e) par un Chef  de  Projet, vous utiliserez les méthodologies de développement ainsi que le
+système qualité Sopra Group.
+Intérêt du stage
+- périmètre adressé (vision transverse sur le programme)
+- participation à la mise en œuvre d’outils (conception/spécification/développement/test/déploiement)
+Environnement technologique/fonctionnel
+Technologies UNIX, Shell Unix, Oracle, PL/SQL, Java, Environnement Open Source, Jenkins
+Environnement humain
+Vous serez encadré(e) par un Chef de Projet qui assurera un suivi détaillé de l’activité dans le cadre
+des procédures appliquées sur les projets clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation Java, Votre relationnel et curiosité pour un environnement technique complexe sont
+les atouts qui vous permettront d’évoluer rapidement au sein d’une équipe.
+Réf. du sujet : STAGE/TELCO/RENN/4212090
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Développement Java d'une nouvelle application avec la méthode
+SCRUM pour un opérateur télécom H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                          (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au sein de la division Telecom & Media, vous intégrerez une équipe d’ingénieurs et serez encadré(e)
+par un Chef de Projet expérimenté.
+Le projet vise à maintenir une application client léger en charge de gérer les « réquisitions judiciaires »
+émises par l’État. Le système traite des demandes de réquisitions par une interface dématérialisée en
+Webservice  XML  avec  l’État.  Nous  déployons  également  une  IHM  destinée  aux  utilisateurs  de
+l’opérateur. Le projet comporte une forte composante sécurité, afin de crypter les données stockées et
+manipulées  par  le  système,  et  de  limiter  des  accès  aux  fonctionnalités  IHM  selon  le  profil  des
+collaborateurs.
+Rattaché(e) au site de Rennes, vous participerez aux différentes phases du cycle de vie du projet en
+appliquant la méthode SCRUM :
+- réalisation des travaux au cours de Sprint
+- échanges réguliers avec le client au cours des journées Agiles
+Votre  stage  s’organisera  d’abord  autour  d’une  prise  de  connaissance  du  métier  des  réquisitions
+judiciaires,  puis  de  la  participation  aux  développements  des  évolutions  demandées  par  le  client.
+Plusieurs versions sont réalisées dans l’année et souvent en parallèle, ce qui permet de voir toutes les
+phases projet (des spécifications à la livraison en passant par les développements et la qualification).
+Intérêt du stage
+- pratiquer une méthodologie projet Agile avec Scrum
+- acquérir une première expérience du travail en équipe
+- renforcer les compétences techniques Java sur des technologies up-to-date
+Environnement technologique/fonctionnel
+Java J2E - JBOSS 5 - GWT(Google Web Toolkit) - Oracle - Oracle Advanced Security - Framework
+(Hibernate, Spring) - Intégration continue (Maven) - UML - Hudson
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle autour d’un projet (~15 personnes), vous serez
+encadré(e) par un Scrum Master qui assurera un suivi détaillé de l’activité. L’environnement permet
+une grande diversité d’activités à réaliser ainsi qu’une forte proximité client.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, Vous êtes curieux(se) et montrez
+un  réel  intérêt  pour  l’innovation  technologique.  Vous  avez  un  bon  relationnel  et  de  bonnes
+connaissances en programmation Java.
+Réf. du sujet : STAGE/TELCO/RENN/4212280
+
+
+
+
+Telecom & Média
+Rennes
+Stage                                                                                                           -  Evolution  d'une  solution  d'orchestration  du  déploiement
+ADSL/fibre optique en environnement Java/JEE H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                          (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Le domaine applicatif regroupe un ensemble de systèmes en charge d’apporter un suivi à la mise en
+œuvre des accès haut-débit auprès des particuliers. La livraison des offres et des accès proposés par
+l’opérateur  télécom  doit  faire  face  à  une  volumétrie  de  plus  en  plus  importante,  notamment  avec
+l’arrivée des nouvelles offres comme la fibre optique (FTTH), tout en automatisant le plus possible les
+tâches grâce à des processus standardisés et modélisés.
+Vous  participerez  à  la  réalisation  des  évolutions  du  système  d’information  d’un  grand  opérateur
+télécom. Le projet est lié à la gestion de livraison des offres ADSL et fibre optique.
+Après une formation initiale au  domaine fonctionnel,  vous contribuerez aux différentes phases du
+cycle de vie d’un projet (spécifications, conception, développement, qualification, livraison).
+Intérêt du stage
+- travailler en équipe dans un contexte international
+- renforcer les compétences techniques Java
+- acquérir des compétences fonctionnelles dans le domaine télécom
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+Environnement technologique/fonctionnel
+Java, J2EE 5, Serveur d’application WebLogic, Oracle, Struts, BPM, XPM.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances de
+programmation Java et bases de données. Vous avez un réel intérêt pour le marché des SI Telecom.
+Vous êtes curieux(se) et avez un bon relationnel, l’esprit de synthèse et d’analyse. Vous avez la
+capacité à appréhender de nouveaux concepts et des processus métiers.
+Réf. du sujet : STAGE/TELCO/RENN/4212298
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Evolutions des systèmes applicatifs de la chaine d'activation d’un
+opérateur télécom et découverte des activités projet (KPSA) H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                   (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au sein du système d’information d’un opérateur télécom, le domaine Activation assure l’interface
+entre les systèmes de commercialisation et les éléments du réseau. Ce qui permet aux clients de
+disposer de leur service en quelques minutes.
+Le  principe  de  l’application  est  de  transformer  les  ordres  techniques  en  commandes  réseau.
+L’application doit traiter en haute performance et également avec une gestion du temps réel.
+Le projet s’appuie sur le progiciel KPSA (éditeur TIBCO), spécialiste de l’activation temps-réel.
+La première phase de votre stage vous permettra de vous familiariser à l’environnement :
+- présentation de l’application et de son contexte au sein du système d’information du client
+- formation aux outils spécifiques du projet
+- développements d’outils spécifiques au projet
+Puis, vous serez amené(e) à participer aux développements de modules spécifiques gravitant autour
+des solutions d’activation. Lors de cette étape, vous serez accompagné(e) de votre tuteur pour vos
+premiers développements (revue de code, support technique, conseil).
+Vous  utiliserez  les  méthodologies  de  développement,  les  techniques  d’industrialisation  de  la
+production ainsi que le système qualité de Sopra Group.
+Intérêt du stage
+- travailler en équipe dans un contexte international (langue de travail anglais)
+- acquérir une première expérience du travail en équipe dans un environnement multi-site
+- renforcer ses compétences techniques
+Environnement technologique/fonctionnel
+Java /J2EE - Oracle / SQL & PL/SQL
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation Java. Vous faites preuve d’une curiosité pour un environnement humain interculturel
+et maîtrisez l’anglais.
+Réf. du sujet : STAGE/TELCO/RENN/4212328
+
+
+
+
+Telecom & Média
+Rennes
+Stage                                                                                                       -  Maintien  en  conditions  opérationnelles  des  systèmes  d'un
+opérateur mobile et développement d'outils pour industrialiser l'activité
+H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                      (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au  cœur  du  système  d’information  d’un  opérateur  télécom  majeur,  plusieurs  domaines  applicatifs
+assurent un rôle essentiel :
+- les systèmes de Collecte récupèrent les tickets d’appels issus du réseau et les transmettent à des
+systèmes en aval chargés de la facturation, de la détection de la fraude, des réquisitions judiciaires,
+marketing
+- les systèmes d’Activation transforment les demandes d’actes de gestion des clients en commandes
+techniques pour le réseau
+Nos équipes ont pour mission d’assurer la disponibilité et la fiabilité des applications en production.
+Face à la croissance du trafic télécom sur les années à venir et la haute exigence de qualité de
+service pour l’activation, nos équipes doivent compléter leurs solutions de supervision et de suivi de la
+production en industrialisant certains outils ou pratiques.
+Après avoir reçu une formation sur les applications et les environnements techniques, vous aurez en
+charge d’industrialiser certains outils et les rendre génériques sur les applications connexes telles que
+:
+- gestion d’un référentiel de statistiques des performances d’applications en production comprenant
+acquisition, traitement, stockage, restitution, représentation graphique et simulation
+- industrialisation d’un outil de traitement massif de fichiers de données
+- relevé de mesure et d’indicateurs en productions
+- création de tableau de bord dynamique
+Vous participerez également à des activités d’analyse d’incidents de production.
+Ce  stage  vous  permettra  d’appréhender  la  gestion  d’un  projet  en  production  et  des  actions
+préventives à mener pour assurer une bonne exploitabilité des développements informatiques.
+Intérêt du stage
+- travailler en équipe
+- Environnement technologique/fonctionnel complexe
+- environnement de production à forte contrainte de disponibilité et scalabilité
+Environnement technologique/fonctionnel
+Technologies UNIX, Shell Unix, Oracle, PL/SQL, Java, Environnement Open Source
+
+
+
+
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+bases de données et des notions d’UNIX. Votre relationnel, capacité à travailler en équipe, et votre
+curiosité pour un environnement technique complexe sont les atouts qui vous permettront d'évoluer
+rapidement au sein de nos équipes.
+Réf. du sujet : STAGE/TELCO/RENN/4212459
+
+
+
+
+Telecom & Média
+Rennes
+Stage                                                                                                       -  Intégration  du  bureau  d'étude  d'un  projet  majeur  pour  un
+opérateur télécom dans un contexte international H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                      (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Au sein du système d’information d’un opérateur télécom, les systèmes de médiation et de collecte se
+positionnent  entre  les  systèmes  de  commercialisation  et  les  équipements  réseau.  Ils  gèrent
+l’ensemble des échanges entre ces deux mondes :
+- affectation des droits réseau aux clients en fonction des offres
+- gestion de la portabilité mobile
+- collecte des tickets d’appels (voix, data, SMS…)
+-  traitement de ces  derniers pour des usages divers  (facturation  MVNO  ou  M2M, détection  de  la
+fraude, contrôle facture et interconnexion opérateurs, réquisitions judiciaires)
+Les  problématiques  sont  fonctionnellement  riches  et  les  systèmes  concernés  doivent  gérer  des
+volumétries importantes avec une forte exigence de qualité de service.
+Lors de votre mission, vous serez intégré(e) au bureau d’étude et encadré(e) par un(e) Chef de Projet
+expérimenté(e).
+Après  une  première  formation  sur  le  système  d’information  de  l’opérateur  et  son  métier,  vous
+participerez à des phases d’études situées en amont du lancement des projets :
+- compréhension des besoins
+- recherche de solutions
+- identification des impacts au sein du SI
+- coordination interne des équipes techniques et fonctionnelles
+- proposition et recommandation
+Certains échanges peuvent être menés avec des équipes internationales.
+Intérêt du stage
+- acquérir une première expérience du travail en équipe dans un environnement fonctionnel riche
+- contribuer aux différentes activités des phases d’étude et acquérir une méthodologie étude
+- acquérir une première vision d’ensemble du système d’information d’un opérateur télécom
+Environnement technologique/fonctionnel
+Technologies UNIX, Oracle, Java, Progiciels télécom.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master  2 informatique, vous avez des connaissances
+sur  les  technologies  Unix.  Votre  esprit  de  synthèse,  capacité  de  rédaction  et  votre  curiosité
+intellectuelle sont les atouts qui vous permettront d'évoluer rapidement au sein de nos équipes.
+Réf. du sujet : STAGE/TELCO/RENN/4212875
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Développement d'applications finances Oracle E-Business Suite
+11.5.10 H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                    (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans le cadre de la gestion d’applications pour un  opérateur télécom, vous serez associé(e) aux
+équipes projets en charge de faire évoluer les modules applicatifs de la solution business du leader
+mondial de la gestion des bases de données pour répondre aux process métier. Vous interviendrez
+sur des contextes fonctionnels variés dans le domaine de la Finance entreprise.
+Lors de la première phase de votre stage, immergé(e) dans les équipes projets, vous suivrez un cycle
+de formation fonctionnel et technique en relation avec le produit.
+La  seconde  phase  de  votre  stage  vous  permettra  de  participer  aux  activités  des  projets  de
+développements en appréhendant les différentes tâches en qualité d’ingénieur développeur stagiaire.
+Vous appréhenderez les différentes activités d’un projet dans un contexte national ou international.
+Vous utiliserez les méthodologies de développement ainsi que le système qualité Sopra Group.
+Vous collaborerez donc aux différentes phases du projet au sein d’une équipe IT en relation avec la
+MOA et les business :
+- études et cadrage des besoins avec le business. conception fonctionnelle et technique
+- développement/paramétrage, qualification et intégration
+- assistance aux business durant leurs recettes métier
+- déploiement et installation en environnement de production
+- analyse et suivi des incidents de production en contact avec le business
+Intérêt du stage
+- acquérir des compétences ERP et métiers autour de la finance
+- acquérir des compétences techniques sur le SGBD
+- travailler en équipe et contribuer aux différentes activités d’un projet
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group ainsi que la
+démarche et les processus CMMI
+Environnement technologique/fonctionnel
+OeBS  11i,  Business  Objects  XI  R3,  PL/SQL,  Shell  UNIX,  SGBD  Oracle,  OA  Framework,  XML
+Publisher, Suite de développement Oracle
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+architecture des systèmes d’information, techniques de programmation, bases de données Oracle.
+Vous   avez   la   capacité   à   acquérir   rapidement   de   nouvelles   connaissances   techniques   et
+fonctionnelles.
+Vous êtes curieux (se), avez un bon relationnel, l’esprit de synthèse et d’analyse.
+Réf. du sujet : STAGE/TELCO/RENN/4212881
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Développement d'applications finances Oracle E-Business Suite
+pour un acteur des Médias H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                     (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans le cadre de la gestion d’applications pour un opérateur Media, vous serez intégré(e) aux équipes
+projets en charge de faire évoluer les modules applicatifs de la solution business du leader mondial de
+la gestion des bases de données pour répondre aux process métier.
+Vous interviendrez sur des contextes fonctionnels variés dans les domaines du Procurement ou bien
+encore de la Finance entreprise.
+Lors de la première phase de votre stage, immergé(e) dans les équipes projets, vous suivrez un cycle
+de formation fonctionnel et technique en relation avec le produit.
+La  seconde  phase  de  votre  stage  vous  permettra  de  participer  aux  activités  des  projets  de
+développements en appréhendant les différentes tâches en qualité d’ingénieur développeur stagiaire.
+Vous utiliserez les méthodologies de développement ainsi que le système qualité Sopra Group.
+Vous participerez donc aux différentes phases du projet au sein d’une équipe en relation avec la MOA
+et la MOE :
+- études et cadrage des besoins avec la MOA. conception fonctionnelle et technique
+- développement/paramétrage, qualification et intégration
+- assistance client durant les différentes recettes
+- analyse et suivi des incidents de production en contact avec le business
+Intérêt du stage
+- acquérir des compétences ERP et métiers autour de la finance, et du Procurement dans un contexte
+Media
+- acquérir des compétences techniques sur le SGBD
+- travailler en équipe et contribuer aux différentes activités d’un projet. Appréhender les processus de
+production mis en œuvre sur les projets Sopra Group ainsi que la démarche et les processus CMMI.
+Environnement technologique/fonctionnel
+OeBS  R12,  Business  Objects  XI  R3,  PL/SQL,  Shell  UNIX,  SGBD  Oracle,  OA  Framework,  XML
+Publisher, Suite de développement Oracle
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+architecture des systèmes d’information, techniques de programmation, bases de données Oracle.
+Vous êtes curieux (se), avez un bon relationnel, l’esprit de synthèse et d’analyse.
+Réf. du sujet : STAGE/TELCO/RENN/4212893
+
+
+
+
+Telecom & Média
+Rennes
+Stage - Développement d'applications finances Oracle E-Business Suite
+pour un acteur du marché Public H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                    (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans  le  cadre  de  la  gestion  d’applications  pour  un  acteur  majeur  des  DOM-TOM,  vous  serez
+associé(e) aux équipes projets métropolitaines en charge de faire évoluer les modules applicatifs de la
+solution business du leader mondial de la gestion des bases de données pour répondre aux process
+métier.
+Vous interviendrez sur des contextes fonctionnels variés dans les domaines du Procurement, de la
+Supply Chain ou bien encore de la Finance entreprise.
+Lors de la première phase de votre stage, vous suivrez un cycle de formation fonctionnel et technique
+en relation avec le produit.
+La seconde phase, vous permettra de participer aux différentes phases du projet en relation avec la
+MOA et les business :
+- études et cadrage des besoins avec le business, conception fonctionnelle et technique
+- développement/paramétrage, qualification et intégration
+- analyse et suivi des incidents de production en contact avec la MOE
+Intérêt du stage
+- acquérir des compétences ERP et métiers autour de la finance, du Supply Chain et du Procurement
+- acquérir des compétences techniques sur le SGBD
+- travailler en équipe et contribuer aux différentes activités d’un projet
+- appréhender les processus de production mis en œuvre sur les projets Sopra Group
+Environnement technologique/fonctionnel
+OeBS   11i,  PL/SQL,  Shell  UNIX,  SGBD  Oracle,  OA  Framework,  XML  Publisher,  Suite  de
+développement Oracle
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+architecture des systèmes d’information, techniques de programmation, bases de données Oracle.
+Votre relationnel, capacité d’analyse et de synthèse sont les atouts qui vous permettront d'évoluer
+rapidement au sein de nos équipes.
+Réf. du sujet : STAGE/TELCO/RENN/4212896
+
+
+
+
+Telecom & Média
+Rennes
+Stage                                                                                                            -  Participation  à  un  projet  d’administration  de  solutions  de
+Business Intelligence H/F
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son expertise
+métier                                                                                                           (OSS,   Provisioning,   Mediation,   Rating/   Billing,   Revenue   Assurance,   CRM,   Business
+Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra Group un acteur
+majeur dans le domaine des Télécoms et des Médias.
+Mission
+Dans  le  cadre  d’un  centre  de  compétences  pour  un  opérateur  télécom,  vous  serez  associé(e)  à
+l’équipe  projet  en  charge  d’administrer  les  solutions  de  Business  Intelligence  mises  en  place  par
+l’opérateur.
+Lors de la première phase de votre stage, immergé(e) dans l’équipe projet, vous suivrez un cycle de
+formation technique et fonctionnel en relation avec les produits.
+La  seconde  phase  de  votre  stage  vous  permettra  de  participer  aux  activités  d’administration  des
+plateformes BI, de développement d’outils BI, de support/expertise et de mise en œuvre des bonnes
+pratiques sur ces outils. Vous appréhenderez les différentes activités d’un projet dans un contexte
+national ou international.
+Vous utiliserez les méthodologies de développement ainsi que le système qualité Sopra Group.
+Vous collaborerez donc aux différentes activités du projet au sein d’une équipe en relation avec les
+différentes MOE d’un domaine BI :
+- administration des plateformes Business Objects et Cognos
+- expertise/Assistance aux MOE pour des projets BI
+- support aux utilisateurs
+- gestion des habilitations utilisateurs
+- développement/maintenance d’outils de supervision
+Intérêt du stage
+-  acquérir  des  compétences  techniques  autour  de  solutions  de  Business  Intelligence  (Business
+Objects, Cognos, Qlikview)
+- acquérir des compétences techniques en bases de données (MySql, Oracle, Sql Server)
+- travailler en équipe et contribuer aux différentes activités d’un projet. Appréhender les processus de
+production mis en œuvre sur les projets Sopra Group ainsi que la démarche et les processus Qualité
+de Sopra Group
+Environnement technologique/fonctionnel
+Business Objects XI 3.1, Cognos, SGBD Oracle/Sql Server, MySQL, Perl, Html.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients.
+
+
+
+
+Profil recherché
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+Business Intelligence, techniques de programmation, bases de données Oracle/Sql Server. Vous avez
+la capacité à acquérir rapidement de nouvelles connaissances techniques et fonctionnelles.
+Vous êtes curieux (se), avez un bon relationnel, l’esprit de synthèse et d’analyse.
+Réf. du sujet : STAGE/TELCO/RENN/4212916
+
+
+
+
+

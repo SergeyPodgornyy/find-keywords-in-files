@@ -1,0 +1,51 @@
+﻿ATOS RECRUTE UN/UNE STAGE INGÉNIEUR D'ETUDES PHP EN STAGE DE 3 À 6 MOIS.
+Date : 24/10/2014
+Référence de l’offre : 175840-7850220
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.Pour plus d'information : www.atos.net
+Description du poste :
+Nous  souhaitons  intégrer  de  futurs  ingénieurs                                                                    (H/F)  au  sein  de  nos  équipes  sur  des  projets  de
+conception/développement pour participer à la conception et au développement d'applications WEB. Vous
+participez à un projet pour la refonte d'un module particulier d'une application WEB. Le but du stage est de
+concevoir  un  nouveau  modèle  de  base  de  données  relationnelle,  de  migrer  les  données,  de  réaliser
+l'adaptation de l'application à ce nouveau référentiel et dans la mesure du possible, de développer des
+nouvelles fonctionnalités.
+Les compétences recherchées sont les suivantes :
+Développement : PHP5, HTML, CSS, JAVASCRIPT
+Base de données : MYSQL, PostgreSQL
+Méthodes : UML, AGILE (SCRUM)
+Maîtrise de l'anglais nécessaire.
+Objectifs pédagogiques : Intégrer une équipe de projet, Mettre en pratique vos compétences techniques,
+Appréhender l'organisation, le fonctionnement et le travail sur un projet en SSII, Travail en équipe et esprit
+de service.
+Profil recherché :
+De formation Ecole d'Ingénieur ou parcours universitaire (équivalent BAC+5), vous recherchez un stage de
+fin de cycle de formation, d'une durée de 4 à 6 mois.
+Vous êtes passionné (e) par le monde des technologies de développement des portails Web, Microsoft en
+particulier. Vous avez été formé (e) et vous maîtrisez la plupart des technologies demandées.
+Une proposition d'embauche en fin de stage est envisageable sur le site de votre stage, ou, si vous le désirez,
+dans toute autre région dans laquelle Atos recrute.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7850220
+
+
+
+
+

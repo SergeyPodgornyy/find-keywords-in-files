@@ -1,0 +1,48 @@
+﻿CRÉDIT AGRICOLE RECRUTE UN/UNE ARCHITECTE CARTOGRAPHE H/F EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 2015-6033-9478579
+Domaine d’activité : Systèmes d'informations / télécom (Consultant / Audit / AMOA)
+Type de contrat : Apprentissage/Alternance
+Localisation : Evry 91, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Crédit Agricole Consumer Finance, filiale à 100% du Groupe Crédit Agricole, est un acteur majeur du crédit
+à la consommation en Europe qui distribue une gamme complète de produits et services et couvrant tous les
+métiers du crédit à la consommation.
+La satisfaction de ses clients et partenaires, l'innovation et l'efficacité opérationnelle sont au cœur des enjeux
+stratégiques de Crédit Agricole Consumer Finance.
+Avec 78,3 milliards d'euros d'encours gérés à fin 2011, Crédit Agricole Consumer Finance est présent dans
+23 pays.
+Crédit Agricole Consumer Finance distribue (en France, principalement via sa marque commerciale Sofinco)
+une  gamme  étendue  de  crédits  aux  particuliers  et  de  services  associés  sur  l'ensemble  des  canaux  de
+distribution.
+Présent aux côtés de grandes enseignes de la distribution, de la distribution spécialisée et d'institutionnels,
+Crédit Agricole Consumer Finance est un partenaire incontournable du commerce.
+Description du poste :
+La division Architecture a pour mission de définir la vision urbanisée du Système d'Information de Crédit
+Agricole  Consumer  Finance.  A  ce  titre,  elle  participe  à  la  construction  des  solutions  techniques
+d'infrastructure sur les projets qui nécessitent son intervention.
+Dans le cadre de votre contrat en alternance d'une durée d'un an, vous aurez pour missions principales :
+- La mise en oeuvre du référentiel de cartographie groupe Crédit Agricole Consumer Finance ;
+- Le paramétrage des encyclopédies de cartographie Crédit Agricole Consumer Finance Groupe et des filiales
+dans le contexte Corporate ;
+- Le paramétrage de l'encyclopédie de documentation ;
+- La création des templates et la génération des sites web de publication associés ;
+- La conception et l'implémentation des filtres d'import ;
+- La conception et la réalisation des outils de synchronisation ;
+- La cartographie des différentes réalisations issues des projets Apple FSI (Financial Systems Interface) et
+Mobile Subscription sur les trois plans inférieurs (infrastructure, logiciel et application).
+Profil recherché :
+Formation : Université ou Lycée.
+Spécialisation : Informatique.
+Compétences recherchées : Rigueur et organisation, bon relationnel, capacités d'analyse et de synthèse.
+Outils informatiques IBM Rational System Architect.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9478579
+
+
+
+
+

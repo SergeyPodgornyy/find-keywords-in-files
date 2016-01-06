@@ -1,0 +1,53 @@
+﻿Stagiaire  Ingénieur  Informatique  H/F
+Axway
+REFERENCE  :  499
+POUR  POSTULER  :  offre5288636.1536@axway.contactrh.com sous la référence 499
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Puteaux (92) 92800, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Dès que possible
+DUREE  :  de 5 à 9 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Systèmes d'informations / télécom (Analyste Programmeur)
+SOCIETE  :
+Axway (NYSE Euronext : AXW.PA), le spécialiste des Business Interaction Networks, est un
+éditeur de logiciels comptant plus de 11 000 clients dans 100 pays. Depuis plus de 10 ans, Axway
+fournit aux entreprises leaders sur leur marché, et présentes à travers le monde, des solutions
+technologiques leur permettant d’échanger, d’intégrer, de gérer, de sécuriser et de gouverner leurs
+transactions stratégiques afin d’accélérer leur performance. Nos solutions, reconnues par l’industrie,
+et proposées pour une gestion sur site (on premise) ou hébergées dans le Cloud (on demand),
+permettent l’intégration de solutions B2B, la gestion du transfert de fichiers (MFT - Managed File
+Transfer), la surveillance des processus métier, la sécurisation des emails et de l’authentification ;
+associés à des services professionnels et de Managed Services. Axway, dont le siège social est en
+France et la direction générale basée aux Etats-Unis, dispose également de bureaux dans le monde
+entier.
+Pour plus d’information, consultez notre site web : www.axway.fr.
+DESCRIPTION  DU  POSTE  :
+Contexte du stage :
+Axway B2Bi est une solution destinée à assurer la connectivité des entreprises à ses partenaires via
+des réseaux IP, Swift, etc. dans différents protocoles. Afin de renforcer les niveaux de services
+d’intégration, de supervision, de sécurité, de cette plateforme, Axway vous propose d’intégrer une
+équipe projet assurant la mise en œuvre de la solution pour un grand client.
+Dans le cadre de ce projet de mise en œuvre, vous contribuerez au développement, à la
+capitalisation et à la mise sur le marché d’une offre innovante.
+Le stage se déroulera en 2 phases, en appui de consultants expérimentés et travaillant au sein de
+l’entité Professional Services d’Axway France.
+Après une phase de formation aux solutions Axway et une prise de connaissance du projet vous
+aurez à :
+• Réaliser les fonctionnalités à couvrir,
+• Participer aux phases de qualifications, benchmark, recette,
+
+
+
+
+• Packager les fonctions à capitaliser.
+PROFIL  :
+Compétences techniques : programmation C, java, connaissance UNIX, connaissance des bases de
+données, XML
+POUR  POSTULER  :  offre5288636.1536@axway.contactrh.com sous la référence 499
+
+
+
+
+

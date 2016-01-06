@@ -1,0 +1,57 @@
+﻿Réalisation et industrialisation d'un site web multi-écrans
+Orange Business Services
+REFERENCE  :  IT/MBA/SUJET24-1590
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4860568
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  RENNES 35700, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Recueil du besoin auprès des décideurs et utilisateurs de la solution.
+Réalisation d'une maquette design et ergonomie avec l'équipe marketing. Conception et réalisation
+d'un site web et webmobile permettant la réservation de ressources (matériel, mobile, tablette…).
+Déploiement et mise en production du site web.
+Dans un premier temps, vous aurez un transfert de compétences à faire sur la solution déjà
+existante, puis vous devrez chiffrer la charge estimée pour les tâches qui vous seront affectées et
+estimer le reste à faire au fil des développements.
+
+
+
+
+Vous développerez les évolutions qui vous sont affectées, et vous réaliserez les tests unitaires.
+De plus, vous devez avoir un regard critique sur le travail demandé (choix techniques et
+spécifications fonctionnelles) et proposer des améliorations en conséquence.
+PROFIL  :
+A la recherche d'un stage de fin d'études niveau Bac+5, vous avez des compétences en
+développement sous le langage PHP/HTML5/CSS3, Mysql. Curieux (se) et dynamique, vous savez
+être force de proposition.
+Vous connaissez :
+- le format MVC, Javascript, jquery, json, css, crontab, WINSCP.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4860568
+
+
+
+
+

@@ -1,0 +1,44 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEMENT MOBILE - L'ADDITION EN STAGE DE 5 À 6
+MOIS.
+Date : 01/03/2015
+Référence de l’offre : DevAddition-8910293
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Merignac 33000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+Pour postuler merci de suivre le lien suivant :
+http://ajstage.com/offre/Ingenieur-en-developpement-mobile-chez-L-addition
+L'Addition est une startup française, qui fournit une solution de caisse enregistreuse sur iPad pour les bars et
+les restaurants.
+L'Addition,  élue  parmi  les                                                                                                           10  meilleures  startups  "made  in  France"  par  le  Parisien,  est  en  plein
+développement                                                                                                              commercial   sur                                                                                toute   la   France
+(http://www.leparisien.fr/startup/les-restaurants-et-les-bars-connectes-vont-demander-l-addition-27-01-2014-3444015.php)
+La société basée à Paris et à Bordeaux est composée d'une équipe jeune et motivée, répartie sur ses deux
+sites. L'Addition recherche un(e) stagiaire développement mobile pour l'équipe de Bordeaux à Mérignac.
+Vos missions :
+- Participer au développement de notre application mobile
+- Participer au développement d'API pour notre application mobile
+- Assister le chef de projet à rédaction du cahier des charges des nouvelles versions
+- Assister le chef de projet à la recette et à la mise en production des nouvelles versions
+Profil recherché :
+Langages souhaités : JavaScript, PHP, SQL, HTML, CSS, Objective-C/Swift (serait un plus)
+Plateformes : Appcelerator Titanium, Xcode
+Forte organisation personnelle
+Connaissance du domaine de la restauration (serait un plus)
+En intégrant une start-up, vous pourrez contribuer à faire évoluer une solution de caisse innovante et apporter
+votre contribution à l'équipe de développement déjà en place. Nous recherchons des personnes motivées pour
+apporter leur savoir faire et leur personnalité.
+Un poste en CDI pourra être créé à l'issu du stage.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8910293
+
+
+
+
+

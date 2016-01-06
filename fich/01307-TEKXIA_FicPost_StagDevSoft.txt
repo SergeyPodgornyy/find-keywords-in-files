@@ -1,0 +1,45 @@
+﻿TEKXIA
+51, rue Pierre Jouan
+                                                                                                         35400 Saint MALO                                                                        Proposition de Stage
+TÄl. :                                                                                                   06 80 63 56 56
+Email :   info@tekxia.com
+Web  :      www.tekxia.com
+La sociÄtÄ TEKXIA dÄveloppe une solution de VidÄoProtection pour sites isolÄs ou nomades pour les
+marchÄs du BTP, de l’agriculture, des espaces protÄgÄs, etc.. Dans le cadre du lancement sur la marchÄ
+de son produit, TEKXIA propose un stage en dÄveloppement informatique.
+Stage en dÄveloppements informatiques
+IntitulÄ
+ Stagiaire DÄveloppement Software pour solution de vidÄosurveillance de sites nomades ou isolÄs
+Mission
+ DÄveloppement d’applicatifs & services Windows, de daemon Linux et d’applicatifs Web
+ Analyse comparative offres commerciales serveurs Cloud (Amazon AWS, CloudWatt, OVH…)
+ ParamÄtrage de l’administration de ce serveur, rÄdaction fiche mÄthode
+ DÄveloppement/adaptation d’un serveur Dynamic DNS
+ ParamÄtrage d’un routeur 3G pour s’identifier É ce serveur Dynamic DNS, rÄdaction fiche mÄthode
+ Mise en place/adaptation d’un serveur FTP, rÄdaction fiche mÄthode
+ Analyse des donnÄes accessibles sur les serveurs de camÄras
+ RÄcupÄration des flux vidÄo de ces serveurs vers le serveur FTP, rÄdaction fiche mÄthode
+ Mise en œuvre et paramÄtrage d’une base de donnÄe MySQL, rÄdaction fiche mÄthode
+ Gestion de la base de donnÄes de flux vidÄo sur le serveur
+ Elaboration d’un portail Web de visualisation de flux vidÄo
+ Elaboration d’un applicatif pour smartphones sous AndroÖd
+Niveau de formation et compÄtences requises
+ ElÜve IngÄnieur en informatique
+ Connaissance de l’environnement Linux
+ Connaissance des bases de donnÄes MySQL, des serveurs Web Apache
+ ExpÄrience des langages C, Java, JavaScript, PHP et/ou AS3
+ ExpÄrience  du  dÄveloppement  d’applications  en  environnement  de  dÄveloppement                    style
+Visual Studio.net, Eclipse. Autre suggestion possible.
+Statut
+ Contrat de stage de fin d’Ätudes
+Dates, durÄe et lieu de travail
+ DÄbut : dÜs que possible
+ DurÄe : 4 É 6 mois
+ Lieu de travail : Saint Malo (35).
+TEKXIA, SASU au capital de 8 000                                                                         € - RCS StMalo 798 718 003 00014 - TVA Intracommunautaire FR 75 798718003 - APE 7112B
+Fait Å Saint Malo, le 25 mars 2014                                                                       TEKXIA_FicPost_StagDevSoft.docx.doc                                                     Page 1 / 2
+
+
+
+
+

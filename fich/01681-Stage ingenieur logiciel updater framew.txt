@@ -1,0 +1,46 @@
+﻿SOGETI  HT  -  RÉGION  EST  RECRUTE  UN/UNE  STAGE  INGÉNIEUR  LOGICIEL  UPDATER
+FRAMEW EN STAGE 6 MOIS.
+Date : 20/10/2014
+Référence de l’offre : MU8-STA-IL-AF-S-7818443
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Aix en Provence 13000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+Dans le cadre de nos activités de maintenance logicielle, nous sommes régulièrement amenés à gérer les
+problématiques inhérentes à la mise à jour des versions de nos applications (migration des données en base
+de données, mise à jour des fichiers de configuration, etc.).
+Afin  d'optimiser  le  temps  passé  et  d'améliorer  significativement  la  qualité  de  nos  applications,  nous
+souhaitons développer un framework qui permettra globalement :
+o de rechercher les mises à jour disponibles
+o de proposer à l'utilisateur l'installation de la nouvelle version
+o de migrer les données applicatives de la précédente version vers la nouvelle version installée
+o de vérifier l'installation et en cas de problème de restaurer la précédente version
+Celui-ci devra pouvoir intégrer dans n'importe quelle application Java et être personnalisable pour s'adapter
+aux interfaces graphiques de l'application.
+Il  s'agira  de  réaliser  les  activités  de  spécifications  fonctionnelles  et  techniques,  de  conception,  de
+développement, de tests unitaires et fonctionnels puis de déploiement.
+Profil recherché :
+Etudiant(e) en dernière année d'une école d'ingénieurs ou en master 2, idéalement avec option informatique
+industrielle, vous avez une bonne connaissance du développement objet Java.
+Pour postuler : http://sogeti-high-tech.contactrh.com/jobs/1536/7818443
+
+
+
+
+

@@ -1,0 +1,539 @@
+﻿Création d'une méthodologie de
+portage sur mobile d'applications BPM
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                  Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                            Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Création d'une méthodologie de portage sur mobile d'applications BPM.
+Une  vingtaine  de  projets  BPM ont  été  mis en production  pour un  grand
+compte  d’assurances  depuis  2006.  Le  contexte  métier  évoluant  avec  la
+popularisation des usages nomades, il est devenu crucial d’être en mesure
+de   proposer   des   IHM   compatibles   mobiles,   en   développant   une
+méthodologie  de  portage  des  IHM  classiques  vers  des  IHM  mobiles,  de
+façon industrialisée, et en garantissant un portage automatique des futures
+IHM développées .
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Intégration des spécificités techniques des projets à porter
+   Identification des solutions techniques les plus adaptées à un portage
+des IHM bureau vers des IHM mobiles
+   Définition et mise en place d’un pilote de portage d’une IHM vers une
+plateforme mobile
+   Mise  en  place  d’une  méthodologie  d’industrialisation  des  portages
+mobiles, intégrant les contraintes techniques du contexte projet
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Maîtrise en développement web, objet (JEE, .Net, html5)
+   Connaissances   en   développement   sur   mobile                           (iOS,   responsive
+webdesign)
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Outils de personnalisation
+graphique dans SharePoint
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                    Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                              Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Implémenter une solution permettant la personnalisation simple d'interfaces
+utilisateurs dans SharePoint.
+Les   sites   Sharepoint   sont   des   espaces   de   communication   et   de
+collaboration facilement personnalisables. Cependant ils se révèlent assez
+limités lorsqu’un utilisateur souhaite y apporter des évolutions graphiques.
+Celles-ci  sont  souvent  assez  complexes  à  mettre  en  place,  SharePoint
+proposant  souvent  des  solutions  très  formatés  et  peu  adaptés  aux
+terminaux mobiles. Un outil pourrait ainsi être proposé à l'utilisateur afin de
+l'accompagner dans la personnalisation graphique de son site.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Etude  du  fonctionnement  de  SharePoint  et  des  frameworks  CSS
+existants
+   Conception et développement en utilisant les technologies JavaScript et
+.Net
+   Participation aux phases de tests
+   Documentation
+PROFIL
+   Dernière année de cycle d’ingénieur, curieux et autonome
+   Maîtrise du développement web  (html, css, javascript) et orienté objet
+(.Net)
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Mise en place d’un accompagnement
+ludique des nouveaux embauchés
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                       Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                                 Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Analyser  et  mettre  en  œuvre  des  outils  afin  de  favoriser  l’adhésion  des
+utilisateurs finaux aux outils informatiques.
+L’accueil des nouveaux embauchés est un processus complexe tant pour
+les  acteurs  des  ressources  humaines  que  pour  l’embauchés  lui-même :
+nombreux documents à compulser, informations à retenir et applications à
+découvrir.  CGI  souhaiterait  moderniser  cet  accueil  en  automatisant  le
+processus et en mettant en place une interface ludique d’accompagnement
+(type serious game).
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Configuration  de  la  solution  Microsoft  SharePoint                           2013  autour  des
+aspects de gamification et d’e-learning
+   Conception et développement en utilisant les technologies HTML, CSS,
+JavaScript, C#, web services
+   Participation aux phases de tests
+   Documentation
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Maîtrise du développement Web et orienté objet
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Gestion de la délégation
+dans SharePoint
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                   Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                             Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Implémenter  une  solution  de  gestion  de  la  délégation  de  rôle  dans
+SharePoint   et en étudier les différentes possibilités de déploiement
+De nombreux processus métiers impliquent au cours de leur déroulement
+une ou plusieurs actions de validation. Ces validations peuvent être liées à
+la publication d’un document ou à une tache d’un circuit de validation par
+exemple. Dans la  pratique, le client  doit très souvent déléguer ce genre
+d’action  (par manque de temps, dans le cas d’une  absence) à  un autre
+collaborateur  ou  à  un  supérieur  hiérarchique.  Cette  fonctionnalité  est
+actuellement  trop  limitée  dans  SharePoint,  c’est  pourquoi  nous  vous
+proposons de la faire évoluer
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Étude de l’existant et sélection du déploiement adéquat
+   Conception et développement en utilisant les technologies JavaScript et
+.NET
+   Participation aux phases de tests
+   Documentation
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Connaissances en développement orienté objet .NET
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Stockage intelligent
+de l’information
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                 Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                           Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Mettre  en  place  une  brique  d’archivage  sur  un  outil  GED  afin  d’en
+determiner les plus values selon les modes d’utilisations.
+La sujet est découpée en plusieurs phases :
+-                                                                              Une  phase  de  compréhension  du  besoin  avec  une  montée  en
+compétence sur un outil GED spécifique (CS10).
+-                                                                              Une phase de récupération d’informations (échange avec une entité
+CGI parisienne + documentations)
+-                                                                              Une phase de mis en place de la brique d’archivage
+-                                                                              Et enfin l’adaptation de cette brique pour un client et le couplage de
+celle-ci avec une brique de record management.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Analyse, Conception et développement
+   Participation aux phases de tests
+   Documentation
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Connaissances de base en développement
+                                                                              6 mois de stage
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Développement d’une
+application de GED sociale
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                        Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                                  Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Participer   au   développement   d’une   nouvelle   application   de   Gestion
+Electronique de Documents avec une dimension sociale.
+CGI développe une nouvelle application de gestion de contenus centrée sur
+l’utilisateur.  Pour  aider  l’utilisateur  à  se  retrouver  dans  le  tsunami  de
+données auquel il est confronté, CGI souhaite mettre en place notamment
+des fonctionnalités de recherche innovante basée sur la sérendipité et le
+text-mining croisée avec les fonctionnalités sociale déjà en place.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Développer l’IHM du client de l’application inspirée de l’UX d’applications
+grand public
+   Maîtriser   les   technologies   utilisées   et   les   environnements   de
+développement (.Net, JEE, NoSQL)
+   Participer à l’analyse fonctionnelle et à la conception technique
+   Développer à partir d’un dossier de conception
+   Réaliser les tests unitaires et les tests fonctionnels à partir des cahiers
+des tests
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Maîtrise de la programmation orientée objet (.Net ou JEE)
+   Connaissance des outils d’industrialisation (Maven, Jenkins)
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Aide à la décision
+pour les solutions ECM
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                     Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                               Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Fournir  des  rapports  réguliers  de  l’état  technique  et  fonctionnel  d’une
+application de gestion documentaire  (GED). L’objectif de ces rapports est
+de permettre aux decideurs de faire les  bons choix afin de maintenir en
+condition opérationnel la brique GED du SI.
+La sujet est découpée en plusieurs phases :
+-                                                                                  Une  phase  de  compréhension  du  besoin  avec  une  montée  en
+compétence sur un outil GED spécifique (CS10).
+-                                                                                  Un travail d’analyse afin de définir les indicateurs importants, puis
+confronter cette analyse avec d’autres outils de GED afin de voir si
+un besoin générique peut ressortir. L’accès via les tablettes devra
+aussi être analysé.
+-                                                                                  Une  phase  de  recherche  d’outils  et  de  sondes  existants  afin  de
+déterminer la méthode de  récupération d’information  et de rendu
+des rapports
+-                                                                                  Et  enfin  une  phase  de  réalisation  d’une  maquette  qui  reprend
+l’ensemble des points ci-dessus
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Analyse, Conception et développement en utilisant les technologies les
+plus récentes (frameworks web : jQuery, Angular, Bootstrap…)
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Connaissances de base en développement
+                                                                                  6 mois de stage
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.                              www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+www.cgi-recrute.fr
+
+
+
+
+Industrialisation et amélioration
+continue des projets ECM
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                        Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                                  Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Etude  et  mise  en  œuvre  d’outils  d’industrialisation  pour  une  plateforme
+d’intégration continue dédiée aux projets ECM.
+Au  sein  d’une  équipe  d’expert  vous  metterez  en  place  un  ensemble  de
+solutions   pour   inscrire   les   projets   de   l’entité   dans   une   démarche
+d’amélioration  continue.  Après  une  étude  des  besoins  de  l’entité  ,  vous
+metterez en place des outils d’intégration, de déploiement, de packaging,
+d’analyse de code (ainsi que les tableaux de bords correspondant), et tous
+les processus nécessaires.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Recueil et analyse des besoins
+   Proposition de solutions / d’outils
+   Mise en œuvre de ces outils
+   Validation / Recette
+   Gestion de déploiements sur plusieurs projets (planning, assistance,…)
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Connaissances en développement web et/ou orienté objet
+   Connaissances JAVA / C#
+   Connaissances Industrialisation
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Mise en place d’une solution
+visuelle de tests automatiques
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                      Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                                Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Mettre  en  place  à  partir  de  briques  logicielles  existantes  une  solution
+visuelle de tests automatiques
+Pour  aller  toujours  plus  loin  dans  l’industrialisation  des  projets,  CGI
+souhaiterait mettre en place une solution de tests fonctionnels automatiques
+permettant d’effectuer les recettes pour des applications client léger, riche,
+mobile  ou  lourd.  Cette  solution  qui  sera  à  la  main  d’utilisateurs  non
+informaticiens  doit  permettre  une  mise  en  place  visuelle  simple  des
+campagnes de tests. Dans une optique d’industialisation, une installation
+sur  une  plateforme  d’intégration  continue  et  la  remontée  d’indicateurs
+pertinent seront aussi attendus.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Concevoir et développer l’IHM et le moteur de l’application en utilisant
+les briques logicielles : Selenium, Sikuli et jBPM
+   Planifier, concevoir et dérouler les plans de tests
+   Intégrer l’application sur un projet industrialisé
+   Documenter (vidéo) et packager l’application
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Maîtrise de la programmation orientée objet (.Net ou JEE)
+   Connaissance des outils d’industrialisation (Maven, Jenkins)
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Dématérialisation fiscale et
+modernisation facturation électronique
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                    Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : ECM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                              Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Mettre  en  œuvre  une  solution  permettant  de  respecter  la  directive
+européenne 2010/45/UE (relative au système commun de taxe sur la valeur
+ajoutée en ce qui concerne les règles de facturation).
+Cette mise en œuvre devra se faire en suivant la méthode des contrôles de
+gestion établissant une piste d'audit fiable entre une facture et une livraison
+de biens ou de services.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Étude du contexte et définition de la solution
+   Analyse fonctionnelle et conception technique
+   Implémentation d’un démonstrateur
+   Rédaction du support de présentation du démonstrateur
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Maîtrise du développement web et orienté objet (JEE, .Net, HTML5)
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+Applications RIA et mobilité
+pour les éleveurs laitiers
+Fondée en  1976, CGI est un fournisseur mondial de services en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  des  processus
+d’affaires  qui  offre  des  services -conseils  en  management  ainsi
+LIEU : CARQUEFOU (44)
+que des services d’intégration de systèmes et d’outsourcing.
+DUREE : 6 MOIS                                                                  Avec  69  000  professionnels  présents  dans  40  pays  et  répartis
+dans  400 bureaux partout dans le monde, nous conjuguons une
+ENTITEE : PIM
+présence  locale  à un vaste  éventail  d’expertises.  Voilà  la force
+de notre engagement.                                                            Contactez
+Mathieu DOMER, 06 89 04 36 16
+mathieu.domer@cgi.com
+OBJECTIF DU STAGE
+Intégrer l’équipe du projet Osmose
+Ce projet permet le développement d’applications client riche  (SilverLight)
+et mobilité (Smartphone/Tablette). A destination des éleveurs laitiers, elles
+aident à piloter l’exploitation et à optimiser la production laitière.
+Ce  stage  de  fin  d'études  vous  permettra  d'intégrer  l'entité  PIM        (Pôle
+Innovation et Mobilité). Au sein de cette communauté d'experts reconnus,
+vous serez impliqué sur des projets innovants et enrichissants. Ainsi vous
+acquerrez des connaissances et des compétences à forte valeur ajoutée.
+MISSIONS
+   Apprentissage du contexte et de la méthodologie projet
+   Conception et développement des applications SilverLight et mobilité
+   Analyse et rédaction des spécifications techniques
+   Participation aux corrections d'anomalies et assistance à l’exploitation
+   Vous serez encadré par un Chef de projet et pourrez vous appuyer sur
+les compétences des experts du projet
+PROFIL
+   Formation Licence ou école d’ingénieur (Bac +5)
+   Autonomie, capacité d’adaptation, esprit d’équipe, qualité d’analyse et
+de diagnostic, sens du client.
+   Des connaissances sur les technologies Microsoft (.Net et SilverLight) et
+du langage SQL sont nécessaires.
+     Des notions sur les développements mobilité (Android, IOS,….) seraient
+un plus.
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

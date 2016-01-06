@@ -1,0 +1,40 @@
+﻿STAGE DEVELOPPEMENT INFORMATIQUE (H/F)
+Numéro 1 de la construction industrialisée avec un chiffre d’affaires de plus de 260 millions d’euros,
+la société Yves Cougnaud, fondée il y a 40 ans, conçoit et produit tous types de bâtiments tertiaires
+et sociaux à l'attention du secteur public et privé. Elle bâtit sa différence sur le marché de la
+construction en développant un des procédés constructifs industrialisés les plus aboutis et les plus
+performants du marché. Avec un peu plus de 1250 collaborateurs, la société poursuit sa croissance
+en faisant preuve d’innovation et d’initiatives sur un secteur en pleine mutation.
+Pour nous accompagner dans notre développement, nous recherchons aujourd’hui :
+Un(e) stagiaire en développement informatique
+Missions
+Au sein de notre DSI  (Direction des Systèmes d’Information), vous serez  chargé du projet  de
+développement d’une application interne de gestion de la formation de sa conception à sa mise en
+production.
+En sein de l’équipe informatique, vous aurez pour missions :
+  L’étude du besoin et la rédaction du cahier des charges
+  La définition et le choix de la solution technique
+  Le développement du programme informatique et de ses interfaces avec les systèmes
+existants.
+  Les tests unitaires et la résolution des anomalies constatées
+  La création de la documentation technique relative à cette application
+Profil Requis
+Niveau bac +3 minimum à bac +5 en informatique, vous disposez des connaissances techniques
+suivantes :
+- Règles de conception d'un modèle conceptuel de données et mise en application
+- Base de données Microsoft Access :                                                                     - Définition du modèle de données
+- Définition des formulaires
+- Définition des états
+- Connaissance du langage VBA pour Access
+Vous êtes organisé(e), rigoureux (se), dynamique et curieux (se).
+Conditions
+Stage rémunéré de 3 à 6 mois à pourvoir dès que possible.
+Poste basé à Mouilleron-le-Captif (85) à 5 km de La Roche sur Yon.
+Merci d’envoyer votre CV et votre lettre de motivation à l’adresse mail suivante :
+claire.maillet@yves-cougnaud.fr
+Venez nous découvrir sur www.yves-cougnaud.fr/
+
+
+
+
+

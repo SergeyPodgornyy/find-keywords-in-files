@@ -1,0 +1,32 @@
+﻿Bouygues Telecom accompagne ses clients dans le monde digital et poursuit ses développements
+d'offres en téléphonie, internet et 4G!
+Pour relever à nos côtés les défis d'un marché en pleine mutation, les équipes de la Direction des
+Systèmes  d’Information                                                                                       (DSI)  proposent  cinq  missions  de  stage  au  sein  du  Centre  de
+Développement de Nantes, pour des durées de 3 mois minimum, à compter du début d’année 2014.
+Les missions de développement informatique s’articulent autour des sujets suivants :
+    La réalisation d’un module de recueil de métadonnées,
+    La mise en œuvre d'une interface informatique de consultation des équipements réseau
+télécom,
+    La participation à la mise en place d’un nouveau système de gestion des transferts de fichier
+nécessitant une transformation,
+    La  conception,  le  développement  et  le  déploiement  des  outils  de  métrologie  sur des
+Systèmes Techniques qui n’en sont pas encore équipés,
+    La conception, le développement, les tests et le support jusqu’à la mise en production d’une
+version logicielle.
+Selon les missions, vous travaillerez sur Unix, Eclipse, Java ou SGBD Teradata et disposez de
+connaissances SQL, Base de Données Oracle, Maven, Spring, ksh, SVN, Wicket.
+Vos compétences techniques, vos qualités de communication, vos capacités de travail en équipe et
+d’initiatives ainsi que votre goût pour l’innovation seront des atouts essentiels pour accompagner
+nos équipes de développement.
+L’éthique de notre Groupe, le souhait d’accompagner et de faire grandir des étudiants dans le cadre
+de leur parcours scolaire ainsi que la variété des projets et les possibilités d’évolution sont les piliers
+d’une entreprise technologique centrée sur les valeurs humaines.
+Donnez à votre carrière la vitesse de la 4G !
+L’une de ces missions vous intéresse ? Vous souhaitez vous porter candidat ?
+Adressez par mail votre CV à
+sbarra@bouyguestelecom.fr ou tbernat@bouyguestelecom.fr
+
+
+
+
+

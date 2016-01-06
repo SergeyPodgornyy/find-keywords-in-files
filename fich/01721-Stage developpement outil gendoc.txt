@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT OUTIL GENDOC EN STAGE 6 MOIS.
+Date : 23/10/2014
+Référence de l’offre : 174849-7843743
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.Pour plus d'information : www.atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients. L'ingénierie Dirigée par les Modèles est désormais répandue et utilisé par les
+industriels pour modéliser systèmes, logiciels… La technologie dominante est EMF  (Eclipse Modeling
+Framework). Afin de générer de la documentation Word ou OpenOffice à partir des modèles produits une
+technologie a été créée : Gendoc.
+Gendoc est depuis 2013 un projet de la fondation Eclipse. L'objectif de ce stage est de contribuer au projet,
+de participer à son évolution, comme par exemple la génération de présentations (power point ou open
+office). Il sera aussi demandé au candidat dans le cadre du stage de participer à l'animation de la communauté
+open source de l'outil.
+Le stagiaire aura la possibilité de découvrir le développement Eclipse/OSGi, l'Ingénierie Dirigée par les
+Modèles, la génération de code avec Acceleo, ainsi que le développement au sein de la fondation Eclipse.
+Le stagiaire intégrera l'équipe Innovation ECS Atos Toulouse et pourra compter sur l'aide d'experts et
+commiters Eclipse dans la réalisation de son travail.
+Profil recherché :
+De formation Bac + 5 avec une culture informatique de génie logiciel et une bonne connaissance de Java.
+Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous le désirez,
+dans toute autre région dans laquelle Atos recrute. Vous êtes motivé(e) et rigoureux (se), aimez travailler en
+équipe et souhaitez vous investir sur un projet. Rejoignez-nous !
+Localisation : Toulouse - St Martin du Touch
+Pour postuler : http://atos.contactrh.com/jobs/1536/7843743
+
+
+
+
+

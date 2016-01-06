@@ -1,0 +1,37 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : GLPI-Report-SPLA : automatiser un rapport déclaratif d’usage de licences
+   Lieu : Mayenne                                                                              Durée : 2 à 4 mois
+   Formation : Bac + 3 minimum                                                                 Date : 2014-2015
+   Référence : EP-2                                                                            Rémunération : stage indemnisé
+Sujet : Vous participerez :
+   A la rédaction des spécifications après recensement et analyse des besoins ;
+   Au développement d’un module de reporting intégré à GLPI qui sera utilisé
+par l’ensemble de la DSI ;
+   Votre  objectif  sera  de  développer  ce  module  permettant  d’extraire  des
+informations issues d’une BDD MYSQL existante et de présenter les résultats
+en fonction des profils des utilisateurs internes ;
+   La rédaction de la documentation technique est demandée ;
+   Un cahier des charges sera fourni en début de projet ;
+   Vous développerez sur des environnements protégés de pré-production.
+Ce stage vous permettra d’intégrer une équipe constituée de client (interne Jouve), ingénieur
+en développement, tuteur et chef de projet, ainsi que des testeurs. Vous participerez à la
+
+
+
+
+gestion du projet et développerez vos acquis en PHP et MYSQL en environnement Linux.
+Environnement :
+   LAMP
+Vous    serez    intégré    dans    l’équipe
+infogérance.
+
+
+
+
+

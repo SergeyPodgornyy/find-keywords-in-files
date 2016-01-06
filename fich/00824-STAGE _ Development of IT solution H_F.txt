@@ -1,0 +1,44 @@
+﻿STAGE  :  Development  of  IT  solution  H/F
+Sogeti  High  Tech  -  Région  SSE
+REFERENCE  :  HTMU4-ET9-14
+POUR  POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/5099403
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  TOULOUSE 31300, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Services (Ingénierie/Bureau d'Etudes)
+FONCTION  :  Etudes - Recherche (Chef de Projet/Ingénierie)
+SOCIETE  :
+Avec 3000 collaborateurs en France et plus de 20 ans d'expérience, Sogeti High Tech figure parmi
+les cinq leaders du marché de l'Ingénierie et du Conseil en Technologies. Nous intervenons dans de
+nombreux projets majeurs d'innovation et d'ingénierie technologiques des plus grands groupes
+industriels mondiaux. Nos expertises techniques et métiers dans les secteurs de l'aéronautique, du
+spatial, de la défense, du ferroviaire, de l'énergie et des télécoms renforcent la valeur ajoutée de nos
+solutions au service des challenges du monde industriel du XXIème siècle. A vous de vivre votre
+passion comme vous l'avez toujours imaginé.
+DESCRIPTION  DU  POSTE  :
+Dans le cadre de nos activités de services sur le secteur aéronautique, nous devons mettre en place
+une solution avancée pour la gestion de la documentation opérationnelle de nos clients. Il s'agit de
+définir dans sa globalité un portail web assurant les fonctions suivantes :
+• Etre l'interface unique d'échange de documentation avec nos clients avec la nécessité de supporter
+l'image de marque de l'entreprise (ergonomie, haut niveau de fonctionnement).
+• Permettre la récupération des données d'entrées de nos clients.
+• Diffuser à nos clients notre production documentaire.
+• La gestion des droits d'accès (par profil, population, etc..) dont l'administration sera déportée chez
+chacun des clients.
+• Assurer le stockage de cette documentation avec des contraintes d'intégrité et de confidentialité.
+• Cette solution devra supporter des fonctionnalités avancées de suivi et d'analyse (historique des
+téléchargements par profil client par exemple), systèmes d'alertes pour les usagers de mise à jour
+etc.
+Le stage couvre la globalité de l'étude allant de la formalisation des besoins jusqu'à implémentation
+de la solution, incluant le développement et le choix des technologies. NB : il sera aussi étudié
+l'opportunité d'utiliser ou non un prestataire pour l'hébergement et le stockage de la documentation.
+PROFIL  :
+De formation Bac+5 (Ecole d'ingénieur ou université)
+POUR  POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/5099403
+
+
+
+
+

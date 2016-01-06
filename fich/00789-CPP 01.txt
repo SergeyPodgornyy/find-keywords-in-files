@@ -1,0 +1,51 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+CPP-01 « Outil d'analyse d’un flux IP en temps réel » (6 mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe CPP développe les sondes de capture sur les interfaces des réseaux de
+mobiles 2G/3G/4G. Ces sondes permettent de générer en temps réel les données nécessaires à
+l’analyse de   la qualité d’un réseau.
+Pour faciliter l’installation des sondes de capture sur site, Astellia souhaite développer un outil
+d’analyse en temps réel d’un flux IP.
+Au sein de l’équipe R&D/CPP (28 personnes), en relation avec un expert technique, le stage consiste
+à spécifier, concevoir, développer et tester cet outil permettant de reconnaitre les interfaces Control
+Plane 4G/3G/2.5G présentes dans les captures et les adresses IP des équipements concernés.
+Ce stage vous permettra de développer vos compétences en programmation C/C++ ainsi que votre
+maîtrise du cycle et des méthodologies de test des logiciels.
+Ce stage permet également d’appréhender le fonctionnement et la supervision des réseaux mobiles.
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : C, C++, SVN, Eclipse, Linux, WebServices
+   Connaissances requises : C, C++
+Profil
+Ecole d’ingénieur Bac+5 Informatique
+Période
+A partir de Janvier 2014
+Page 2
+
+
+
+
+

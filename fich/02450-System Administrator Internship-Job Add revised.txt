@@ -1,0 +1,39 @@
+﻿System  Administrator  Internship
+Job  Description
+Working  with  all  the  latest  technologies,  Amaris  IT  department  is  a  dynamic  and  driving  force  for  the  whole  Group.    As  an  enthusiastic
+master  student  or  involved  in  a  Engineering  School  program  you  will  have  the  opportunity  to  become  part  of  our  dynamic  IT  team  and
+support  the  development  of  our  own  innovative  systems  and  applications.  As  a  passionate  intern  you  will  take  ownership  of  the  following
+projects:
+Planning  and  migrating  Active  Directory  from  Server  2008  to  Server  2012
+Creating  and  setting  up  a  new  Active  Directory  security  strategy
+Maintaining  and  deploying  virtual  machines  on  our  private  cloud
+Setting  up  a  new  backup  strategy  for  all  virtual  machines  in  an  external  datacenter
+Configuring  and  monitoring  backup  with  Veam  Backup
+North  Am                                                                                                                                                      Europe   Central  Europe  &  Balkans   Middle  East   Asia  &  Pacific
+
+
+
+
+Creating  statistics  and  a  dashboard  about  storage  spaces  and  backup  activities
+Maintaining  and  managing  firewalls  (TMG  and/or  PFsense)
+Setting  up  and  managing  Windows  NPS  server  for  remote  VPN  SSL  access
+Handling  a  weekly  security  dashboard  :  incidents,  patch,  updates,  …
+Ideal  Candidate
+Currently  enrolled  in  a  Master  program  1  or  2,  you  are  passionate  about  new  technologies.
+You  are  proactive  in  innovative  solutions  and  ideas,  hands­on  and  a  good  team  player.
+You  want  to  become  part  of  an  international  and  dynamic  team  within  a  young,  innovative  and  fast  growing  organization.
+You  have  a  strong  understanding  of  the  following  tools:  Windows  Server  operating  system  (Server  2008  Server  2012),  Windows  client
+(Windows  XP,  7  or  8),  Active  Directory,  DNS  &  DHCP  and  Virtualization  (VMware  ESXi  or  Hyper­V).
+You  are  familiar  with  several  of  the  following  tools:  Exchange  Server  (2007,  2010  or  2013),  Microsoft  System  Center  products,  Firewalls
+(ISA  or  TMG  Server),  Cisco  or  HP  switches,  VPN  (SSL,  IPsec,  Direct  Access,  RRAS  &  NPS)  and/or  PowerShell  language.
+You  are  available  asap  and  for  the  duration  of  6  months.
+You  master  strong  English  language  skills.
+Practical  information                                                                                                                                       How  to  Apply
+Date:  ASAP                                                                                                                                                  To  apply,  please  send  your  resume  online  at
+Place:  Vienna  ­Austria                                                                                                                                     apply­france@amaris.com
+North  Am                                                                                                                                                    Europe                                               Central  Europe  &  Balkans   Middle  East   Asia  &  Pacific
+
+
+
+
+

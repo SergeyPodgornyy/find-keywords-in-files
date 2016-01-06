@@ -1,0 +1,53 @@
+﻿JUNIOR TALENT M LAVAUD RECRUTE UN/UNE STAGE - DÉVELOPPEMENT OUTILS D’EXPL
+EN STAGE DE 5 À 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : SI/1114/000303-8065209
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35200, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Junior Talent est un cabinet de recrutement spécialisé dans les recherches de profils étudiants  (stage,
+alternance) et de jeunes diplômés.
+Nous recherchons pour le groupe Solocal (Pages Jaunes, Mappy, A vendre A louer, Kapstage…), basé à
+Rennes, un(e) stagiaire en développement d'outils d'exploration.
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+Indemnités de stage : entre 1300 et 1500                                                                            €
+4 bonnes raisons de rejoindre Solocal group :
+* Rejoindre une entreprise leader sur Internet et tournée vers les nouvelles technologies
+* Appartenir à une des 10 premières entreprises mondiales par le CA réalisé sur Internet
+* Travailler avec des partenaires de renoms dans le monde tels que Facebook, Microsoft,…
+* Contribuer au virage numérique du groupe
+Description du poste :
+Au sein de la direction de la Technologie et de l'équipe audience, votre mission sera de trouver des solutions
+permettant l'exploration, l'exploitation et la visualisation des données en temps quasi réel.
+Pour ce faire, vous êtes en charges de la gestion du projet :
+- Analyse des besoins internes en termes d'exploration et d'exploitation de données provenant des supports
+web et mobiles,
+- Conception du cahier des charges,
+- Benchmark des performances des solutions possibles,
+- Réalisation de tests de faisabilité (POC),
+- Lancement et déploiement de l'innovation retenue.
+Lors  de  cette  expérience,  vous  allez  acquérir  des  compétences  en  termes  de  gestion  de  projet,  de
+coordination, ainsi qu'une maîtrise des technologies suivantes :
+Hadoop,  Pig,  Hive,  Spark,  Elastic  Search,  Kibana,  MongoDB,  JSON,  D3.js,  highcharts,  angularjs,  js,
+HTML5.
+Profil recherché :
+Bac + 4/5, formation ingénieure informatique ou généraliste ou équivalent.
+Vous êtes passionné par les nouvelles technologies, faites preuve de rigueur, vous avez un bon relationnel,
+vous êtes ouvert et curieux, alors ce stage est fait pour vous.
+
+
+
+
+Vous parlez couramment anglais.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8065209
+
+
+
+
+

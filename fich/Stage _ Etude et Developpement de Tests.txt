@@ -1,0 +1,47 @@
+﻿Stage  / Etude et Développement de Tests
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226602 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911206
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+CASSIDIAN CyberSecurity a mis en place une solution de gestion de la sécurité des réseaux
+informatiques. Notre outil dispose de capacités de communication afin de récupérer des
+informations sur l'état de sécurité d'un ou plusieurs systèmes d'information et d'offrir des services
+permettant de gérer les incidents de sécurités.
+Le but de ce stage est de renforcer la capacité du processus d'intégration continue de notre produit
+en se basant sur l'outil Selenium.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Prendre connaissance de notre application et plus particulièrement la partie WEB,
+- Prendre connaissance de l'outil Selenium,
+- Enrichir les jeux de tests basés sur les méthodes mises en place pour augmenter la couverture
+actuelle,
+- Réaliser une étude permettant d'évaluer l'impact sur les tests en cas de changement de framework
+d'affichage WEB.
+Le travail réalisé s'intègrera dans la démarche qualité du projet (documentation, process de
+développement, tests).
+PROFIL  :
+Etudiant BAC+5 systèmes, réseaux et la sécurité ainsi que sur Linux/Windows
+Travaille en équipe, qualités relationnelles.
+
+
+
+
+Anglais:intermédiaire.
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911206
+
+
+
+
+

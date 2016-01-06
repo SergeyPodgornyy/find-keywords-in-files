@@ -1,0 +1,42 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Ingénierie logicielle
+   Titre : Conception et Développement d’une application de saisie de la satisfaction du
+personnel en Symfony 2/MySQL
+   Lieu : Rennes/Mayenne                                                                   Durée : 3 à 4 mois
+   Formation : Bac + 3/4/5                                                                 Date : Avril 2014
+   Rémunération : stage indemnisé                                                          Référence : SBR-1
+
+
+
+
+Sujet : Chaque mois, les collaborateurs de l’entreprise (> 200 salariés) doivent saisir leur
+indice de satisfaction  (note et commentaires) dans une application intranet. L’objectif du
+projet est de redévelopper l’application existante (ASP) par une application plus maintenable
+comprenant les fonctionnalités suivantes :
+   Gestion des utilisateurs ;
+   Envoi de mail de relance ;
+   Saisie d’une satisfaction mensuelle ;
+   Affichage des données pour l’utilisateur ;
+   Affichage des données pour les managers ;
+   Extraction de données pour utilisation en tableau de bord/synthèse.
+Les  spécifications  de  l’application  seront  fournies  au  stagiaire  qui  devra  réaliser  la
+conception, le développement, les tests de l’application en respectant la méthodologie de
+développement de l’entreprise (contrôle de sources, intégration continue, bonnes pratiques).
+Le projet sera réalisé en appliquant une méthode de gestion de projet agile (scrum/kanban).
+Environnement :
+   PHP/Symfony 2
+   BDD relationnelles (MySQL)
+Vous serez intégré dans l’équipe expertise
+logicielle   et   serez   encadré   par   un
+responsable expert PHP.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  : ISTIC_SBR1@jouve.gestmail.com
+
+
+
+
+

@@ -1,0 +1,68 @@
+﻿Support aux utilisateurs de réseaux d’entreprises
+Atos SE (Societas Europaea), acteur
+Votre mission                                                                                                                                                           international des services informatiques
+                                                                                                                                                                        avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                                                                                                              milliards d’euros et 77.000
+                                                                                    Le stage est proposé dans le domaine « Fullfillment & Assurance » au sein           collaborateurs dans 47 pays, fournit à
+des  équipes  projets  du  secteur                                                  « Network  Management »  du  site  de                                               ses clients du monde entier des services
+Rennes.                                                                                                                                                                 transactionnels de haute technologie,
+des solutions de conseil, d’intégration de
+systèmes et d’infogérance.
+Mission :
+Atos délivre les technologies qui
+Le   domaine   programme   conçoit   et   développe   des   applications   de
+supervision                                                                         (alarmes),  diagnostic  et  reporting  statistiques  de  réseau                     accélèrent le développement de ses
+                                                                                                                                                                        clients et les aide à réaliser leur vision de
+dans  un  environnement  Intranet  /  Extranet.  Ce  pôle  assure  aussi  le
+l’entreprise du futur. Atos est le
+support aux utilisateurs de ces différentes applications.
+partenaire informatique mondial des
+Jeux Olympiques. Le Groupe est coté sur
+Le stage s’effectuera en plusieurs étapes :
+le marché Eurolist de Paris et exerce ses
+1.        prise de connaissance des (nombreuses) applications concourant
+activités sous les noms d’Atos, Atos
+aux services offerts aux clients des réseaux d’entreprises
+Consulting & Technology Services,
+2.        Intégration dans l’équipe de support aux clients                                                                                                              Worldline et Atos WorldGrid.
+                                                                                    3.        Traitements  des  tickets  clients  et  collaborateurs  de  l’opérateur   Pour plus d’information : atos.net
+télécom. Ces traitements consistent en :
+o           la compréhension du problème client
+                                                                                                                                                                        Ce stage est basé à Rennes
+                                                                                    o              La  recherche  des  causes  du  problème  en  fonction  des          Si ce stage vous intéresse,
+                                                                                    éléments    de la    chaine    applicative    potentiellement                       déposez votre candidature sur notre
+                                                                                    impliqués,                                                                          site Internet :
+                                                                                    o       La   création   éventuelle   de   rapports   d’anomalies   à                http://fr.atos.net/fr-
+                                                                                    destination   des   équipes   de   la   TMA   en   charge   du                      fr/emplois_carrieres/postulez
+                                                                                    développement et de la maintenance des applications
+                                                                                    o       Le suivi complet du ticket jusqu’à sa résolution
+                                                                                                                                                                        Référence du stage : 158862
+4.                                                                                  Eventuellement  la  suggestion  d’amélioration  des  outils,  des
+process, …
+                                                                                                                                                                        Qui êtes-vous ?
+                                                                                    Compte tenu de la complexité de l’environnement, des services offerts,
+                                                                                    du  nombre  des  outils  utilisés,  l’intégration  se  fera  petit  à  petit.  Le
+contour du stage sera revu régulièrement avec le chef de projet.                                                                                                        De formation Bac+4-5 en informatique
+                                                                                                                                                                        (Ecole ingénieurs, Université) en cours
+                                                                                                                                                                        de validation, vous recherchez un stage
+Environnement technologique :
+                                                                                                                                                                        d’une durée de 4-6 mois (dates
+Remedy (Trouble Ticket management), MySQl, portail Web, outils
+variables selon l’école). Une
+spécifiques développés par la TMA et l’opérateur Telecom.
+proposition d’embauche en fin de
+stage est envisageable, sur le site de
+Objectifs pédagogiques :                                                            votre stage, ou, si vous le désirez, dans
+Le  stage  proposé  est  une  excellente  opportunité  pour  comprendre  les
+toute autre région dans laquelle AtoS
+multiples   aspects   des   réseaux   de   télécommunications   clients,   les      recrute.
+différents outils de gestion de ces réseaux, les problèmes rencontrés, les
+méthodes  employées  pour  effectuer  le  support  et  la  recherche  de
+diagnostic,  la  gestion  des  tickets  incidents,  etc.  …  tout  ceci  dans  un
+environnement  opérationnel  au  contact  des  équipes  de  développement
+des applications.
+
+
+
+
+

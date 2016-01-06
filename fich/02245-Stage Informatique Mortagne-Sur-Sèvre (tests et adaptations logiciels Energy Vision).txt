@@ -1,0 +1,33 @@
+﻿Annonce diffusée le : 12 Novembre 2014
+Offre de Stage
+Stagiaire Informatique (H/F)
+Mortagne-Sur-Sèvre (85)
+Le  groupe  Delta  Dore                                                                            (800  personnes,   125  M€  de  CA)  conçoit,  fabrique  et
+commercialise  une  offre  complète  de  produits  et  services  en  domotique,  gestion
+technique du bâtiment et maîtrise de l’efficacité énergétique. Vous serez rattaché au
+Responsable Innovation Activité Industrielle.
+MISSIONS
+Energy  Vision  est  une  solution  logiciel  permettant  la  supervision  et  le  pilotage  des
+énergies  consommées  par  les  bâtiments  fonctionnant  sous  le  système  Windows  de
+Microsoft.
+Intégré  au  sein  de  la  Business  Unit  Energy  Management  Systems,  vos  missions
+consisteront à :
+Evaluer les possibilités de faire fonctionner les briques soft du superviseur Energy
+Vision sous un environnement Linux.
+PROFIL :
+De formation Bac +2 à Bac +5 en Informatique, spécialisé en informatique industrielle,
+vous maîtrisez Linux. Vous êtes familier avec le langage de programmation VB.NET.
+Vous  avez  des  connaissances  en  framework  Mono,  en  serveur  Web  Apache  et  en
+paramétrage de PHP sur Linux. Des notions de base de données SQL (Postgresql) serait
+un plus apprécié. Votre rigueur, votre organisation et votre sens du travail en équipe vous
+permettront de mener à bien cette mission.
+Début : Dès que possible
+Durée : 6 mois
+CONTACT
+Delta Dore, Service Recrutement, Le Vieux Chêne, 35270 Bonnemain
+apprentis_stagiaires@deltadore.com
+
+
+
+
+

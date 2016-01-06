@@ -1,0 +1,49 @@
+﻿Stage  /  Conception  et  Implémentation  d'
+CASSIDIAN  -  An  EADS  Company
+REFERENCE  :  10229214 LB FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161090
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION  DU  POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Dans le cadre du développement de son activité, Cassidian CyberSecurity crée des solutions
+innovantes en matière de sécurité. Le but de ce stage consiste à concevoir et enrichir un
+environnement dédié au suivi des incidents de sécurité dans un contexte d'attaque ciblée.
+Vous travaillerez parmi une équipe d'experts reconnus dans la communauté sécurité.
+Cette offre de stage est à pourvoir à compter du 3 Février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Compréhension des enjeux en contexte d'incident de sécurité,
+- Etat de l'art des solutions associées au suivi d'incident,
+- Etat de l'art des formats STIX/Cybox,
+- Développement de l'environnement et implémentations de spécificités.
+Vous devrez livrer :
+- Un point de suivi hebdomadaire,
+- La documentation des outils développés,
+- Un environnement opérationnel respectueux des exigences.
+PROFIL  :
+Etudiant(e) Bac+5 en sécurité informatique
+Compétences:
+Linux
+données SQL
+Respect des spécifications
+Dév web
+
+
+
+
+Python
+Travaille en équipe Anglais:intermédiaire
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161090
+
+
+
+
+

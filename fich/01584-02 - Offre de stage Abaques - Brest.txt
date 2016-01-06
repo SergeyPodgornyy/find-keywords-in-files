@@ -1,0 +1,62 @@
+﻿« Réalisation d’une application Web de gestion
+d’abaques»
+Sujet
+Au sein d’une des plates-formes de développements Infotel, le stagiaire participera au développement
+d’un nouveau lot d’une application Web d’abaques, et mènera les travaux suivants :
+    Lot 1 (déjà réalisé) : Réaliser une IHM permettant de paramétrer un abaque puis de le
+réutiliser ensuite pour faire des devis. L’application permettra de faire des abaques pour
+plusieurs technologies et plusieurs clients. Les devis devront ensuite être générés en PDF ou
+Excel à partir d’un modèle de base.
+    Nouveau lot :
+o   Ajouter un écran de mesure et analyse
+o   Améliorer le workflow existant
+o   Cloisonner les abaques
+o   Cloisonner les habilitations
+o   Paginer les devis
+o   Corrections des lots précédents
+o                                                                                                      …
+Pour ces lots, les tâches seront :
+    l’analyse des besoins ;
+    la rédaction du cahier des charges ;
+    la rédaction des spécifications ;
+    la conception applicative ;
+    le développement, recette jusqu’à la mise en production de l’application.
+Environnement
+Sous la direction d’un chef de projet, vous serez impliqués dans toutes les phases du
+développement d’un logiciel utilisant des technologies Web telles que :
+    langages : Java / JEE, HTML5, CSS3
+    frameworks / librairies : JqueryUI, Twitter Bootstrap, Spring, Hibernate.
+    base de données : MySql
+Compétences requises
+Vos études supérieures en informatique vous confèrent une bonne connaissance :
+Pour l’étude :
+    capacités de conception et de rédaction ;
+    méthodologies : UML, etc.
+Pour les développements :
+    langage : Java, JEE, Web Services, etc.
+    framework : Hibernate, Spring MVC, JSP…
+    des outils associés : Eclipse, etc.
+    des bases de données : MySql, etc.
+    pour la qualité du code et les tests unitaires : Checkstyle, Junit.
+Durée du stage - 6 mois
+Lieu du stage
+Stage à l’agence de Brest
+Prolongement du stage
+
+
+
+
+Le stage pourra être suivi par un emploi (CDI) à Infotel.
+Votre candidature
+Postulez en envoyant votre candidature par courrier électronique à l’adresse ci-dessous, en
+précisant vos dates de stages :
+Infotel Ouest Brest
+200, rue des Mouettes
+29200 Brest
+Tél. +33 (0)2 29 05 12 12
+recrutement-rennes@infotel.com
+
+
+
+
+

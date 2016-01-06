@@ -1,0 +1,38 @@
+﻿Le 08 Janvier 2014
+Offre de stage : Développeur d’applications Métier
+La société Cordon Electronics a été fondée en 1989 par son PDG Serge CORDON à Dinan (22- BRETAGNE)
+où est installé son Siège Social ainsi qu’un de ses principaux sites de production.
+En commençant son développement dans la maintenance des équipements de télématique et téléphonie
+filaire, elle s’est orientée vers la réparation des appareils GSM à partir de 1995. Cordon Electronics est
+aujourd’hui reconnue comme l’acteur incontournable de la réparation de mobiles en France.
+En parallèle de ce cœur de métier GSM, CORDON ELECTRONICS s’est développé sur d’autres activités de
+réparation : écrans plats LCD et plasma, décodeurs numériques et box, produits micro-informatiques,
+réparation  et  service  logistique  dans le  domaine  PABX  et  autres  matériels professionnels, produits
+multimédia.
+www.cordongroup.com
+Mission :
+Au sein de notre service informatique, vous serez sous la responsabilité du chef de projet. Vous aurez pour
+mission l’analyse des besoins des utilisateurs du programme, la conception architecturale et la conception
+détaillée, la rédaction des documents techniques, l’accompagnement du demandeur afin de valider les
+développements et la maintenance correctives des modules développés.
+Lieux de stage : DINAN (22)
+Compétences techniques nécessaires :
+-                                                                                                                              Base de donnée POSTGRESQL
+-                                                                                                                              Langages de programmation tels que : PHP 5 orienté Objet, HTML, JAVASCRIPT, SYMPHONY 2
+-                                                                                                                              APACHE et LINUX seraient un plus.
+-                                                                                                                              Langages de Méthodes : MERISE et UML
+Profil :
+Etudiant(e) en BAC +3 ou BAC+4/5, en formation Informatique orientée développement logiciel.
+Vous disposez  d’une  réelle  autonomie,  d’une organisation,  d’un  bon  relationnel  (serez  amené(e) à
+travailler avec plusieurs interlocuteurs internes) et vous êtes force de proposition.
+Stage à pourvoir dès que possible.
+MERCI DE NOUS TRANSMETTRE OBLIGATOIREMENT UN CV ET UNE LETTRE DE MOTIVATION
+@ : recrutement@cordonweb.com
+ 02 96 85 65 50
+Ce document est la propriété de Cordon Electronics, il ne peut être utilisé, reproduit, ou communiqué sans son autorisation.
+V 08/11/2012.
+
+
+
+
+

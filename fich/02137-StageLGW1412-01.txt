@@ -1,0 +1,23 @@
+﻿Spécialiste dans la conception, la réalisation et l’édition de progiciels métier dédiés principalement
+au Tourisme et au Bâtiment, INFOSUP est une société familiale (20e de collaborateurs). Dans le cadre
+de sa migration technologique vers .Net ASP, INFOSUP recherche un stagiaire pour une durée
+minimum de 4 mois pour participer au développement des fonctionnalités de bases :
+   Fenêtre principale avec le menu, les raccourcis …. (genre Outlook).
+   Mise au point de templates de bases intégrants les mécanismes standards :
+o   Template Liste de recherche : critères et pagination des données
+   Personnalisation des colonnes
+   Enregistrement des critères
+                                                                                                        …
+o   Mécanismes permettant la mise en cache de certaines données de base.
+o   Template de Fiche de base :
+   Recherche
+   Navigation dans la table (<<,<, >, >>)
+   Mécanisme de mise à jour (lock optimiste)
+o   Template de Fiche maitre / détail (ou entête / Lignes)
+Merci d’adresser votre candidature  par courrier à : Christophe Lange  -  BP  55   -
+56260 LARMOR-PLAGE ou par mail à : christophe.lange@infosup.fr
+
+
+
+
+

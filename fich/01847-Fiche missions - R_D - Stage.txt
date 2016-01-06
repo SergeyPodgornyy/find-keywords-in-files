@@ -1,0 +1,73 @@
+﻿L’équipe R&D recherche un(e) :
+Chargé d’Etude Qualité & Méthode (H/F)
+Lieu : VIACCESS-ORCA - Rennes (Cesson- Sevigné)
+Date de démarrage : Avril 2015
+Durée: 6 mois
+Contrat : Stage
+Viaccess-Orca est un partenaire novateur pour les fournisseurs de services de
+contenu en protégeant et en améliorant la valeur des services de contenu aux
+utilisateurs, où qu'ils soient, et sur tout terminal. Alors que les progrès technologiques
+permettent le stockage « sur le cloud », sur le réseau internet et que la sélection de
+contenu est en constante augmentation, ainsi que l'accès au contenu télévisuel à
+partir d'une variété de sources et des réseaux hybrides, les menaces à la sécurité se
+multiplient. À l'aide de produits intégrés et de solutions clés en main fiables et
+évolutifs, les opérateurs de télévision payante acquièrent un avantage concurrentiel
+dans ce marché de réseaux non-gérés et de périphériques connectés à Internet.
+L'expérience  utilisateur  est  un  facteur  clé  de  succès  pour  les  opérateurs,  et  les
+solutions Viaccess-Orca se concentrent sur la prestation d'une expérience novatrice et
+cohérente sur toutes les plateformes.
+Viaccess-Orca est une filiale du Groupe Orange.
+Pour plus d’informations, visitez le site www.viaccess-orca .com  ou suivez-nous sur
+Twitter @ViaccessOrca et Linkedin http://www.linkedin.com/company/viaccess-orca.
+Les  solutions  que  nous  déployons  chez  nos  clients  sont  dérivées  des  lignes  de
+produits  que  nous  développons.  Ces  lignes  produits  regroupent  un  ensemble  de
+composants logiciels qui évoluent indépendamment et sont gérés en configuration.
+Au  sein  de  la  direction  R&D,    l’équipe  Qualité  &  Méthode  recherche  un(e)
+stagiaire pour travailler en autonomie sur un projet d’étude pour notre outil de
+Gestion de configuration.
+Cet outil open- source, uniquement utilisé au sein de l’équipe R&D,   sera à livrer, clés
+en  mains,  auprès  de  clients  internes                                                       (middle  management  et  responsables
+techniques).
+Vos principales missions pendant ce stage :
+-                                                                                               Etude de la faisabilité de l’automatisation de la détection des branches
+                                                                                                correctives impactées par une anomalie :
+
+
+
+
+   Identification de la branche probable où l’anomalie a été commise par la
+recherche à l’origine de la séquence de code à corriger ;
+   Rédaction automatique de la liste de toutes les branches impactées   par
+une anomalie.
+-                                                                                             Mise en œuvre des résultats de l’étude sur la configuration de l’outil
+   Utilisation de cette liste par notre outil de gestion de solutions.
+-                                                                                             Optimisation de l’effort de validation par la détermination du taux de code
+modifié (code churn) :
+   Etude des différents outils existants ;
+   Rédaction  d’une  synthèse  pour  en  déduire  des  outils  opérationnels
+(intégration et concaténation de résultats de plusieurs composants) ;
+   Mise en œuvre des résultats de l’étude.
+Pour mener à bien ces missions, vous serez accompagné par un tuteur qui veillera
+également à l’évolution de vos compétences et de vos missions.
+Etudiant(e) en Ecole d’Ingénieur, vous êtes passionné(e) par les NTIC et le travail sur
+les outils et  logiciels  et  vous  recherchez  un  stage  avec  de  l’autonomie  qui  vous
+permettra de mettre à profit vos connaissances et d’acquérir une expérience riche et
+très  opérationnelle  au  sein  d’une  entreprise  à  taille  humaine  et  à  dimension
+internationale.
+Profil recherché
+   Passionné des NTIC
+   Connaissances informatiques : JAVA et C++
+   Connaissance de GIT (gestion de configuration) serait un plus
+   Curiosité, et bon relationnel pour aller chercher les informations auprès des
+collaborateurs
+   Sens du client
+   Anglais (écrit)
+   Rigueur, souci du détail
+   Prise d’initiative et Autonomie
+Merci d’envoyer votre candidature (CV et Lettre de Motivation) à l’adresse suivante :
+laetitia.goirand@viaccess-orca.com et mettre en copie lydie.gautier@viaccess-orca.com
+
+
+
+
+

@@ -1,0 +1,67 @@
+﻿OFFRE DE STAGE EN INFORMATIQUE
+Lieu :
+Dimension Data Luxembourg
+WEST SIDE VILLAGE
+Rue Pafebruch 89D
+L -8308 CAPELLEN
+LUXEMBOURG
+Phone +352 25.48.25 -1
+Point de contact :
+Vincent Pecci
+Technology Leader  - Réseau et Securité
+Référence : FY2014-NISEC/DDOS (à préciser sur l ’entête de vos communications)
+Email: lu.stage@dimensiondata.com
+Stage rémunéré
+Durée: 6 mois - période à convenir Février à Septembre  2013
+Entreprise: Dimension Data -http://www.dimensiondata.com /lu
+Avec plus de 15 000 collaborateurs dans plus de 5 0 pays, Dimension Data
+(Code LSE : DDT), fournisseur spécialisé de solutions et de services informatiques,
+aide   ses   clients   à   concevoir,   déployer   et   exploiter   leurs   infrastructures
+informatiques.
+Dimension  Data  applique  son  expertise  dans  les  domaines  des  réseaux  IP,  de  la
+téléphonie  et  la  collaboration,  de  la  sécurité,  des  plates-formes  système  et  des
+technologies  dédiées  aux centres de contacts.  Dimension  Data met  également au
+service  de  ses  clients  ses  qualités  uniques  de  conseil,  d'intégration  et  de  gestion
+pour  leur  fournir  des  solutions  complètes  et  personnalisées  allant  de  l'intégration
+traditionnelle à des offres de service clef en main de multi -sourcing.
+Ce stage ce déroulera  dans au sein  de  l’équipe réseau et sécurité  ou vous serez
+encadré  d’un  point  de  vu  technique  par  un  ingénieur  sénior  dans  le  domaine  et
+d’un point de vu entreprise par Vincent Pecci .
+
+
+
+
+OFFRE DE STAGE EN INFORMATIQUE
+Sujet :
+DDOS
+Le besoin d’ouverture vers l’extérieur via Internet pour les sociétés  est devenu vital
+pour le développement de leur business. Que ce soit sous forme de site WEB, de
+partage  de  type  Microsoft  Sharepoint  ou  autres  portails  spécifique s,  les  besoins
+sont   là   et   les   solutions   en   place   pour   communiquer   vers   les   clients   et
+consomateurs tant pour la partie commerciale que pour la partie marketting.
+Cependant  depuis  quelques  années,  les  changements  des  environements  ont
+drastiquement  changé.   Deux  facteurs  majeures   doivent  être   pris  en  compte
+aujourd’hui dans la sécurisation des infrastructures  :
+    l’augmentation  considérable,  tant  en  quantité  tant  en  diversité,  de  la
+population d’équipements connectée à internet ;
+    l’augmentation  des  débits  d’accès  à  Internet  tant  en  fixe  via  ADSL  /  fibre
+qu’en mobile via 3G et 4G .
+Les nouveaux risques viennent des attaquent de type DDOS  (Distributed Denial Of
+Service).
+Dans le cadre de votre stage il vous sera demandé  :
+    Etudier et catégoriser les différentes type d’attaquent DDOS
+    Définir les complexicités et risques en fonctions des attaquent
+    Etudier les réponses possible face à chaque type
+    Définir des solutions pour répondre aux attaquent
+    Mettre en place une ou plusieurs solutions
+    Définir un ou plusieurs jeux / outils pour tester la solution
+    Evaluer les robustesses et limites des solutions en place
+Le  stagiaire  participera  également  aux  réunions  de  travail  de  l’équipe  afin  de
+réaliser un suivi quotidien de l’avancement du stage.
+Il  pourrait  être  impliqué  dans  une  relation  en  clientèle  si  l’opportunité  dans  le
+domaine étudié se présente durant le stage.
+
+
+
+
+

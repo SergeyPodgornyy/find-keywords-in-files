@@ -1,0 +1,60 @@
+﻿ISSF / APS
+Stage - Recette fonctionnelle dans le domaine Assurances et Protection
+Sociale H/F
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe,
+accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs  métiers  et  systèmes
+d'information. Combinant valeur ajoutée et innovation dans les solutions apportées, qualité industrielle
+et performance des services délivrés, Sopra est le partenaire de référence des grandes entreprises et
+organisations qui recherchent le meilleur usage du numérique pour assurer leur développement et
+leur compétitivité. Le Groupe compte plus de 16 000 collaborateurs et a réalisé un chiffre d'affaires
+2013 de 1,349 milliard d'euros.
+Sopra   est   coté   sur   NYSE   Euronext   Paris.   Pour   plus   d'informations,   retrouvez-nous   sur
+www.sopra.com<http://www.sopra.com>
+Au sein de Sopra, vous êtes rattaché(e) au Marché Assurances et Protection Sociale qui regroupe
+550 collaborateurs et intervient sur les grands projets de transformation métiers et SI de nos clients
+assureurs, Groupes de protection sociale et mutuelles.Nous accompagnons nos grands clients en
+apportant  une  forte  valeur  ajoutée  métier  à  travers  des  prestations  de  Conseil  (optimisation  des
+processus métier et  des organisations,  schéma directeur et gouvernance IT…) et des prestations
+d’assistance  à  maîtrise  d’ouvrage  et  d’intégration  de  systèmes                                           (projets  de  développement,
+outsourcing applicatif, intégration de solution) autour notamment de la mobilité, du digital de la BI et
+du big data et core system métier. Si vous souhaitez participer à des projets d’envergure et relever de
+nouveaux challenges, rejoignez-nous et boostez votre carrière professionnelle.
+Au sein de notre centre de compétences Assurances et Protection Sociale, vous serez rattaché(e) à
+notre cellule de qualification ainsi, vous participerez à toutes les phases fonctionnelles du projet. Vous
+interviendrez dès la conception des plans de tests jusqu'à la réalisation de la qualification finale avant
+la livraison. Vous participerez également à une mission d'Assistance à Maîtrise d'Ouvrage (AMOA),
+pour  la  production  des  spécifications  détaillées  et  contribuerez  au  processus  de  validation
+fonctionnelle des projets et des maintenances (évolutions/incidents), avant livraison au client, pour la
+recette ou la mise en production.
+Vous serez ainsi associé(e) à toutes les étapes du projet :
+- compréhension et traduction des besoins fonctionnels
+- définition des plans de tests- réalisation des tests
+- diagnostic et remontée des anomalies
+Intérêt du stage
+- participer aux phases fonctionnelles d'un projet d'évolution du système d'information pour un acteur
+majeur dans le domaine des assurances ou de la protection sociale
+- découvrir le quotidien d'une équipe, la gestion d'un projet, les méthodes et outils Sopra
+- découvrir le métier de la qualification et de la recette, dans une perspective d'évolution vers les
+missions d'assistance à la maitrise d'ouvrage
+- acquérir des compétences métier en assurances et protection sociale
+Environnement technologique/fonctionnel
+Quality Center, environnements techniques variés selon les projets (Java JEE, .Net, progiciels).
+Environnement humain
+
+
+
+
+Vous serez encadré(e) par un Chef de Projet et accompagné(e) par un tuteur durant toute la durée de
+votre stage.
+Profil recherché
+Actuellement en dernière année école d'Ingénieurs ou M2 Informatique, vous avez le sens du service
+et vous souhaitez approfondir vos connaissances dans les métiers des assurances, de la retraite et de
+l'assurance de personnes.
+Vous  possédez  des  qualités  rédactionnelles,  vous  êtes  autonome,  rigoureux(se)  et  vous  avez un
+esprit d'analyse et de synthèse, accompagné d'un bon relationnel.
+Réf. du sujet : ISSFAPS/ORL/STAGE/927
+
+
+
+
+

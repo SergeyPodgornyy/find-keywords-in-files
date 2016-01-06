@@ -1,0 +1,37 @@
+﻿Offre de stage
+Développement d’algorithmes de traitement audio
+Acquisition et prétraitement de signaux sonores de référence
+Lieu : Laboratoire IRISA à Rennes
+Département : D5 - Signaux et images numériques, robotique, équipe PANAMA
+Cadre du stage :
+Le projet S-POD rassemble des équipes de recherches et des partenaires industriels pour la conception
+d’un  système  embarqué  permettant de  détecter  des  situations  de  danger  potentiel.  Ce  matériel
+s’adresse  à  différentes  professions :  pompier,  agent  bancaire,  convoyeur  de  fonds,  personnel
+militaire,...
+Dans ce contexte, l’équipe PANAMA de l’IRISA est chargée des activités de R&D tournées vers
+l’analyse des informations issues de l’environnement sonore : intensité, angle d’incidence, nature des
+bruits, propriétés des voix présentes, etc…
+Activités :
+Les activités du projet consistent en différentes tâches :
+-                                                                                                         L’acquisition d’enregistrements sonores pour la constitution d’une base de données ;
+-                                                                                                         Le développement d’algorithmes pour classifier divers évènements sonores ;
+-                                                                                                         L’étude de différentes caractéristiques comme la provenance du son.
+Le stagiaire s’intègrera à ces travaux en participant au test et à l’amélioration des algorithmes. Il
+participera notamment aux campagnes de mesure sur le terrain, par exemple auprès de pompiers en
+entrainement. Il analysera les données issues des campagnes et contribuera au développement des
+algorithmes.
+Profil / Compétences :
+-                                                                                                         Etudiant bac + 3 ou bac + 4
+-                                                                                                         Langage de programmation : Matlab
+-                                                                                                         Connaissances souhaitées en traitement du signal
+-                                                                                                         Bonnes aptitudes rédactionnelles
+-                                                                                                         Rigueur, autonomie, capacité à travailler en équipe
+Durée : 2 à 3 mois entre juin et septembre 2014
+Gratification : 436.07€ / mois
+Les  dossiers  de  candidatures                                                                           (CV  et  lettre  de  motivation)  sont  à  envoyer  au  format  pdf  à
+ewen.camberlein@irisa.fr , romain.lebarbenchon@irisa.fr et stephanie.lemaile@inria.fr .
+
+
+
+
+

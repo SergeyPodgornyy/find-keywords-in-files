@@ -1,0 +1,44 @@
+﻿VALEO RECRUTE UN/UNE STAGE DEVELOPPEMENT LOGICIEL H/F EN STAGE DE 6 À 9 MOIS.
+Date : 06/05/2014
+Référence de l’offre : RDevLogiciel-6358611
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : CRETEIL 94000, FR
+Durée du contrat : De 6 à 9 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Valeo est un équipementier automobile, partenaire de tous les constructeurs
+dans le monde. Entreprise technologique, Valeo propose des systèmes et
+équipements innovants permettant la réduction des émissions de CO2 et le
+développement de la conduite intuitive.
+Le Groupe a réalisé en 2013 un chiffre d'affaires de 12,1 milliards d'euros
+et a consacré plus de 10 % de son chiffre d'affaires première monte à la
+recherche et au développement. Valeo emploie 74 800 collaborateurs dans 29
+pays dans 124 sites de production, 16 centre de Recherche, 35 centres de
+Développement et 12 plateformes de distribution.
+La diversité (égalité homme/femme, handicap, seniors, cultures, etc.) est
+au coeur de la politique de recrutement de Valeo.
+Description du poste :
+CONTEXTE : Valeo développe des produits embarquant des algorithmes de contrôle et de commande permettant
+la réalisation de fonctions demandées par ses clients. La mission du laboratoire de validation fonctionnelle et de
+s'assurer que ces fonctions sont conformes aux cahiers des charges (Spécification fonctionnelle) établis par Valeo
+et son client. Les outils utilisés par le laboratoire sont des bancs HIL (Hardware In the Loop) équipés d'outils
+dSPACE  (ControlDesk,  automationDesck).  Pour  des  raisons  d'optimisation  des  coûts  de  validation  et  de
+standardisation il est demandé de réaliser un logiciel de génération automatique de tests et de plans de tests
+PRESENTATION DU STAGE:
+L'objet du stage consiste en la réalisation d'un logiciel permettant de générer en automatique à la fois les plans de
+tests, les commandes des outils dSPACE et la génération des rapports de tests.
+Le logiciel se décomposera comme le montre le schéma ci-dessous en une interface IHM (Interface Homme
+Machine) et une base de données.
+Profil recherché :
+* Stagiaire dernière année d'école d'informatique.
+* Maitrise Python, VBA, langage orienté objet, base de données
+* Connaissance des outils dSPACE
+* Connaissance du métier de validation si possible
+Pour postuler : http://valeo.contactrh.com/jobs/1536/6358611
+
+
+
+
+

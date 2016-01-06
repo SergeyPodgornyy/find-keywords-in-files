@@ -1,0 +1,48 @@
+﻿DÉCATHLON RECRUTE UN/UNE CHARGÉ D'INNOVATION EN STAGE DE 3 À 5 MOIS.
+Date : 17/02/2015
+Référence de l’offre : INNOLOGDKT-8895966
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Villeneuve d'Ascq 59650, FR
+Durée du contrat : De 3 à 5 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+DECATHLON a été créé en 1976 à partir d'une idée originale: répondre aux besoins des sportifs passionnés
+en leur proposant dans un même lieu une multitude d'articles de sports. Notre promesse: «rendre accessible
+au plus grand nombre le plaisir et les bienfaits du sport ».
+Présent  dans                                                                                                       27  pays  et  possédant  plus  de   725  magasins  dans  le  monde,  DECATHLON  représente
+aujourd'hui plus de 60 000 collaborateurs qui réalisent un chiffre d'affaires de 7,4 milliards d'euros (58% du
+CA est réalisé à l'international). DECATHLON rassemble deux activités: la création de produits sportifs ainsi
+que la vente locale et en ligne.
+Description du poste :
+Du développement de ses produits jusqu'au management des employés, Decathlon s'est toujours employé à
+innover. C'est une valeur forte - une marque de fabrique - du groupe.
+Nos  solutions  informatiques  sont  aujourd'hui  en  pleine  transformation,  pour  favoriser  et  développer
+l'expérience client. Cette mutation est une opportunité supplémentaire de proposer de nouvelles solutions
+toujours plus innovantes, au service de nos clients et de nos collaborateurs.
+Dans ce contexte de transformation, vous êtes intégré au sein de l'équipe responsable de l'informatique pour
+le réseau logistique de Decathlon.
+L'offre de stage porte sur la conception et la réalisation de solutions informatiques innovantes (nouvelles
+technologies, nouveaux outils, etc) au service de la logistique. La majorité de nos réflexions gravitent autour
+de la mobilité, mais nous souhaitons également travailler les éléments suivants :
+- Exploiter les solutions de mobilité dans l'entrepôt : utilisation de smart glasses, utilisation de smartphone /
+tablette, etc.
+- L'utilisation de drones.
+- Exploiter les technologies de géo-localisation indoor.
+- Etc …
+Profil recherché :
+Vous recherchez un stage qui vous permettra de vous développer personnellement et professionnellement au
+sein d'une entreprise innovante et dynamique. Vous aimez travailler en équipe. Agile, vous êtes capable de
+vous intégrer dans des équipes techniques et fonctionnelles.
+Passionné par les nouvelles technologies, vous êtes pro-actif et force de proposition.
+Sur un aspect plus technique, vous avez des bonnes compétences et une appétence pour le développement
+logiciel: programmation orientée objet  (Java), développement mobile  (responsive design, webview, natif
+Android), etc.
+Niveau d'étude : Bac+3 à Bac+5 ; stage rémunéré ; durée du stage flexible
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8895966
+
+
+
+
+

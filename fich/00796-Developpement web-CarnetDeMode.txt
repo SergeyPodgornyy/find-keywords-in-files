@@ -1,0 +1,51 @@
+﻿Développement  web-CarnetDeMode
+AJstage
+REFERENCE  :  carnet de mode
+POUR  POSTULER  :  http://ajstage.contactrh.com/jobs/1536/4998706
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Février
+DUREE  :  de 2 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Systèmes d'informations / télécom (Analyste Programmeur)
+SOCIETE  :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage recherche régulièrement tout type de profil pour le compte de ses entreprises clientes sur
+www.ajstage.com.
+DESCRIPTION  DU  POSTE  :
+ATTENTION AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU
+LIEN SUIVANT
+http://www.ajstage.com/offre/Developpement-web-chez-Carnet-de-mode
+Carnet de Mode est le temple parisien de la mode sur Internet qui offre une vitrine internationale
+aux créateurs de demain. Véritable dénicheur de talents à travers le monde, Carnet de Mode
+s’inscrit dans une volonté de présenter des collections en édition limitée à caractère unique mais
+surtout avant-gardiste.
+Dans le cadre de l'évolution de notre plateforme web e-commerce (backoffice et frontoffice), nous
+recherchons un(e) développeur(se) Web PHP/MySQL, orienté objet, pour renforcer notre équipe
+composé de 3 développeurs.
+La connaissance du framework Symfony2 et de la librairie Jquery est un plus.
+Vous serez en charge des développements sur le site CarnetdeMode.com et sur les différentes
+nouvelles fonctionnalités. Vous travaillerez en étroite collaboration avec notre jeune équipe
+technique et contribuerez à la réflexion stratégique et technique en vue du développement d'une
+marketplace Carnet de Mode.
+Vous serez un élément important dans l'évolution de notre start-up, et vous serez intégré(e) au cœur
+d'une équipe en pleine effervescence.
+De fortes connaissances en PHP orienté objet et une expérience dans le développement web/e-
+
+
+
+
+commerce est un plus.
+Stage à plein temps pour une période de 2 à 6 mois ou plus ou stage alterné.
+PROFIL  :
+Idéalement un stage de 5ème année.
+Nous recherchons avant tout du talent, nous sommes donc assez souples quant aux dates et
+disponibilités.
+POUR  POSTULER  :  http://ajstage.contactrh.com/jobs/1536/4998706
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿Offre  de  STAGE:  DID_VTS_DEV‐04_2014
+STAGE : DEVELOPPEMENT D'UN MARKET
+PLACE
+H/F ‐ Lieu : Laval ‐ Durée : 6 mois ‐ Stage Rémunéré
+(Stage niveau bac+4/5)
+Société  :
+DIDHAPTIC  est  une  jeune  société,  qui  crée  des  plates‐formes  complètes  de  formation  appliquée
+pour  les  métiers  de  la  santé.  Particulièrement  pour  les  métiers  où  la  mise  en  situation  réelle  du
+praticien   en   formation   ou   de   l’étudiant   peut   se   révéler   dangereuse,   trop   onéreuse,   ou
+techniquement  impossible.
+De  taille  humaine,  DIDHAPTIC  fédère  ses  collaborateurs  autour  de  sa  culture  de  proximité  et  de
+son  écoute.
+Contexte  :
+DIDHAPTIC  développe  et  maintient  un  simulateur  d’apprentissage  avant‐gardiste  appelé  VirTeaSy
+Dental  utilisé  pour  l’apprentissage  des  chirurgiens‐dentistes.  Avec  la  plate‐forme  de  réalité  virtuelle,
+le  praticien  en  formation  retrouve  l’environnement  d’intervention  de  son  cabinet.  Le  geste,  l’image
+et  le  son  l’immergent  dans  l’action  pour  mieux  maîtriser  la  technicité.
+Afin  d’enrichir  le  simulateur  en  terme  d’exercices  et  de  contenu  à  destinations  des  apprenants,
+DIDHAPTIC  est  engagé  dans  une  démarche  permettant  le  partage  d’exercices  et  de  contenus
+applicables  à  sa  plateforme  par  l’ensemble  de  ses  clients.
+1
+
+
+
+
+Offre  de  STAGE:  DID_VTS_DEV‐04_2014
+Sujet  de  stage  :
+Dans  un  objectif  d’enrichissement  de  la  base  d’exercices  disponibles  pour  le  simulateur  VirTeaSy
+Dental,  DIDHAPTIC  désire  créer  une  plateforme  web  d'exercices  permettant  l'ajout,  le  partage  et
+la    commercialisation  de  contenu  ou  d’exercices.  L’idée  de  cette  plateforme  est  basée  sur  des
+plateformes  du  même  type  tel  que  :  https://marketplace.secondlife.com/
+DIDHAPTIC  recherche  un  stagiaire  motivé,  curieux  de  nature  et  ayant  des  connaissances  dans  les
+technologies  internet  et  e‐commerce,  afin  de  nous  aider  dans  l’enrichissement  de  nos  simulateurs.
+Au  sein  d’une  petite  équipe  et  sous  la  responsabilité  directe  d’un  ingénieur  expérimenté,  le
+stagiaire  aura  la  charge  des  activités  suivantes  :
+   Identifier  les  évolutions  de  l'architecture  liées  au  contenu  du  simulateur  VirTeaSy,
+   Identifier  les  contraintes  à  prendre  en  compte  au  niveau  des  données  et  des  IHMs  du
+simulateur.
+   Identifier  les  contraintes  de  sécurité  et  de  monétisation  des  échanges  de  données.
+   Spécifier,  concevoir  la  plateforme  de  type  Market  Place.
+   Prototyper  une  plateforme  permettant  l’achat/l’ajout  de  contenu  ou  d’exercices.
+   Tester  la  plateforme  réalisée.
+Bénéfices  pour  le  stagiaire  :
+Au  travers  de  ce  stage,  le  stagiaire  comprendra  les  enjeux  actuels  du  développement  logiciel.  Par
+ailleurs  il  approfondira  ses  connaissances  avec  des  nouvelles  techniques  et  méthodologies  qui  lui
+procureront  des  compétences  très  recherchées  sur  le  marché  du  travail  dans  un  contexte  de
+technologies  liées  à  la  réalité  virtuelle  et  au  e‐commerce.
+Connaissances  demandées  :
+PHP/Javascript/HTML/C++
+Technologies  abordées  durant  le  stage  :
+PHP,  Javascript,  HTML,  C++,  Visual  Studio,  Réalité  virtuelle,  e‐Commerce
+Comment  postuler  :
+Candidature  sur  contact@didhaptic.com  à  l’attention  de  Mélanie  RAPINE  ‐  Responsable  RH
+Code  stage  :  DID_VTS_DEV‐04_2014
+DIDHAPTIC
+6, Rue  Léonard  de  Vinci
+BP  0119
+53001 LAVAL  cedex
+www.didhaptic.com
+2
+
+
+
+
+

@@ -1,0 +1,44 @@
+﻿AJSTAGE                                                                                                            RECRUTE   UN/UNE   APPRENTI   DÉVELOPPEUR   .NET   EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 23/10/2014
+Référence de l’offre : Bruneau-7843918
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Les Ulis 91, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION, AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU LIEN:
+http://ajstage.com/offre/Apprenti-e-Developpeur-Net-chez-BRUNEAU
+Bruneau est le leader e-commerce, en France, de la vente de mobilier, d'équipements et de fournitures de
+bureau.
+La société propose à tous les professionnels un large choix de produits répondant à tous leurs besoins.
+Professionnel de la vente à prix discount des fournitures pour bureau, Maxiburo  (ex-otto-office, filiale
+Bruneau) s'est vu décerner le prix du meilleur site B2B, médaille de bronze et d'argent en 2012 et 2013.
+En parallèle de ses acquisitions de compétences et de la formation continue qu'il recevra au travers de ses
+échanges permanents avec les ingénieurs de développement formant les équipes dédiées à notre nouveau
+Système d'Informations, l'apprenti sera en charge de la maintenance corrective et évolutive des différents
+modules Métier dont s'occupent l'équipe de TMA ou encore d'applications Métier rapides à mettre en place.
+Pendant ses deux années d'alternance, l'apprenti va se former
+- au langage C#
+- à la plateforme de développement .Net de Microsoft
+- à la programmation de bases de données SQL,
+ainsi qu'aux outils indispensables au métier tels que Visual Studio 2012/2013, LightSwitch, Team Foundation
+Server, SQL Server Management Studio, AppFabric, BizTalk Server, Service Bus, etc.
+Au-delà des aspects techniques et technologiques, l'apprenti s'imprégnera des sujets fonctionnels liés aux
+métiers de la VAD dans une entreprise comme Bruneau  (Vente, SAV, Marketing, Pricing, Gestion des
+Clients, Approvisionnement, Référentiel articles, Stocks,...).
+Profil recherché :
+Etudiant en recherche d'une alternance de fin de d'études (cycle ingénieur ou universitaire), vous avez une
+expérience de développement en environnement Microsoft et idéalement des connaissances en SQL Server.
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7843918
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿ATOS RECRUTE UN/UNE CONCEPTION ORDONNANCEMENT ET OUTILLAGE (H/F) EN STAGE 6
+MOIS.
+Date : 01/01/2015
+Référence de l’offre : 176678-8061792
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Notre  entité  Atos  Technology  Services                                                                           (ATS)  a  pour  mission  principale  de  développer  des  services
+informatiques de proximité auprès de ses clients, en les accompagnant dans la mise en œuvre et l'évolution de
+leurs systèmes d'information. Plus de 2 000 experts de proximité accompagnent nos clients tout au long de
+leurs projets afin de les aider à s'adapter aux contraintes liées aux évolutions de leurs secteurs.
+Description du poste :
+Vous  serez  intégré                                                                                                (e)  au  sein  d'une  équipe  expérimentée,  constituée  d'analystes  d'exploitation,  de
+concepteurs/développeurs VTOM et de chefs de projets, dont l'objectif est d'assurer la réalisation et le
+maintien en condition opérationnelle des ordonnancements des applications du SI La Poste Courrier sous
+VTOM.
+Le contexte de croissance de l'activité du CCO (Centre de Compétences en Ordonnancement) impose une
+industrialisation de la méthodologie de développement, de tests par la mise en œuvre d'outils spécialisés. En
+tant que stagiaire, vous serez amené à développer vos compétences techniques et fonctionnelles, afin de
+répondre à la mise en place d'un outil de gestion et d'analyse des exports (génération automatique de la
+documentation à destination du client, développement d'IHM, connexion tableau de bord à QlikView ...).
+Accompagné  par  un  maître  de  stage,  vous  développerez  dans  un  premier  temps  des  compétences  en
+conception/développement sur l'ordonnanceur VTOM (conception technique, développement, tests unitaires
+et rédaction documentaire). Dans un second temps, vous participerez activement à l'ensemble des phases de
+la mise en œuvre du projet d'outillage.
+Ntic : VTOM 5.5, Python 2.7, Perl 5.16, PHP, MySQL, VirtualBox, Linux, Unix
+Profil recherché :
+
+
+
+
+De formation Bac+4/5 en informatique  (Ecole d'ingénieur ou Université) en cours de validation, vous
+recherchez un stage d'une durée de 4-6 mois (dates variables selon l'école).
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8061792
+
+
+
+
+

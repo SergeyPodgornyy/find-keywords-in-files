@@ -1,0 +1,52 @@
+﻿ATOS RECRUTE UN/UNE STAGE EN INTÉGRATION CONTINUE (H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175668-7787028
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Intégré (e) au sein d'une équipe projet et encadré( e) par un ingénieur expérimenté, vous participerez à
+l'enrichissement d'un outil d'intégration continue permettant de valider au fil de l'eau les évolutions apportées
+aux applications Billing Revenue Management.
+Le stage s'organisera autour des phases successives d'un tel outil :
+- Analyse des besoins,
+- Estimation des charges,
+- Rédaction des spécifications,
+- Développement,
+- Validation.
+Environnement technologique :
+JAVA/J2EE, Jenkins, Sonar, Log4j, Oracle 11g, Eclipse, Linux
+Ce stage vous permettra d'acquérir l'expérience d'un cycle complet d'un projet informatique. Le produit de ce
+stage devra être conduit conformément aux règles projet en vigueur (processus, qualité). Cela offrira au
+stagiaire la possibilité de s'intégrer dans l'équipe projet, de participer et d'en découvrir le fonctionnement, tout
+en montant en compétence en Java j2EE.
+Profil recherché :
+De formation Bac  +4/5 en informatique  (Ecole d'ingénieur ou université) en cours de validation, vous
+recherchez un stage d'une durée de 4 à 6 mois.l'anglais écrit est impératif. Une première expérience en
+technologies JAVA/J2EE serait un plus apprécié.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7787028
+
+
+
+
+

@@ -1,0 +1,52 @@
+﻿BUREAUX  À  PARTAGER  RECRUTE  UN/UNE  DÉVELOPPEUR  WEB  ­
+SYMPHONY  2  EN  STAGE  DE  1  À  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  001­5580963
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  paris  75009,  FR
+Durée  du  contrat    :  De  1  à  6  mois
+Niveau  d’études    :  Bac  +3
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+BAP  est  le  Airbnb  du  bureau  en  France.
+La  plateforme  met  en  relation  des  entreprises  qui  ont  des  espaces  disponibles  "en  trop"
+avec  des  enterprises  qui  cherchent  des  bureaux.
+A  travers  le  développement  du  coworking  dans  les  entreprises,  BAP  espère  créer  des
+synergies  vertueuses  entre  les  entreprises.
+Description  du  poste    :
+Au  sein  d'une  équipe  de  6  personnes,  vous  travaillerez  en  direct  avec  le  CTO.Votre
+mission  portera  sur  trois  axes  :
+1) Maintenance  et  développement  de  l'existant  :  Vous  serez  amené(e)  à  faire  des
+évolutions  importantes  sur  notre  site  web  en  production.  Développé  en  PHP5  /  Symfony
+1.4 &  2  +  html  /  css  /  jQuery,  vous  pourrez  monter  en  compétence  sur  ces  technos.
+2) Participation  à  conception  nouveau  site  web  :  Dans  le  cadre  de  notre  croissance,  nous
+prévoyons  la  sortie  d'une  application  web  d'envergure.  Vous  serez  intégré  à  la  conception
+et  nous  apporterez  vos  idées.  Votre  ouverture  d'esprit,  curiosité  et  sensibilité  aux
+dernières  technos  web  seront  un  plus  pour  notre  projet.  Symfony2  sera  de  la  partie.
+3) Etude  et  mise  en  place  de  solutions  d'intégration  continue  :  Toujours  dans  le  cadre  de
+notre  futur  projet,  nous  souhaitons  mettre  en  place  une  solution  d'intégration  continue.
+Vous  serez  en  charge  de  faire  une  étude  des  solutions  existantes  et  de  mettre  en  place  celle
+que  nous  aurons  choisi  ensemble.
+Niveau  minimum  requis  :  PHP5,  SQL,  html,  css,  jQuery
+Niveau  minimum  souhaité  :  Symfony  1.4  /  2
+
+
+
+
+Pas  de  niveau  requis  :  git,  ssh,  linux,  jenkins
+Vous  maîtrisez  la  suite  Adobe  CS5
+Vous  êtes  un(e)  passionné(e)  des  technos  WEB
+Vous  aimez  prendre  des  responsabilités  et  travailler  en  équipe.
+Vous  êtes  curieux(se)  et  vous  vous  intéressez  aux  nouveaux  standards  HTML5  et  CSS3.
+De  formation  supérieure  en  informatique  ou  en  multimédia,  vous  justifiez  de  plusieurs
+expériences  en  entreprises.
+Profil  recherché    :
+Développeur  en  fin  d'étude.
+Pour  postuler    :  http://bureauxapartager.contactrh.com/jobs/1972/5580963
+
+
+
+
+

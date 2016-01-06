@@ -1,0 +1,52 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT JAVA - DÉFENSE EN STAGE 6 MOIS.
+Date : 14/01/2015
+Référence de l’offre : 175985-8584218
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulon 83000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Notre  entité  Atos  Technology  Services                                                                             (ATS)  a  pour  mission  principale  de  développer  des  services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et l'évolution
+de leurs systèmes d'information. Plus de 3 000 experts de proximité accompagnent nos clients tout au long de
+leurs projets afin de les aider à s'adapter aux contraintes liées aux évolutions de leurs marchés.
+Profil recherché :
+Au sein de nos équipes de développement dans la défense (sous architecture spécialisée GEMO), vous aurez
+à votre charge la conception et le développement de fonctionnalités liées au système de liaisons de données
+permettant la communication et l'échange de données tactiques entre les navires et selon différents types de
+liaisons (hertzien, satellite).
+Vos missions :
+- Concevoir
+- Développer
+- Tester
+- Intégrer
+Environnements techniques :
+Java, Linux, Eclipse, JUnit, XML, Spring, Swing, UML, SVN
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8584218
+
+
+
+
+

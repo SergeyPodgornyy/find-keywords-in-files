@@ -1,0 +1,44 @@
+﻿SAINT GOBAIN GLASS FRANCE RECRUTE UN/UNE STAGE (6 MOIS) : ASSISTANT INGENIEUR GEN
+EN STAGE DE 5 À 6 MOIS.
+Date : 01/09/2014
+Référence de l’offre : 514296-6911926
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Oise 60150, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Saint-Gobain, leader mondial de l'habitat, conçoit, produit et distribue des matériaux de construction en apportant
+des solutions innovantes sur les marchés en croissance des pays émergents, de l'efficacité énergétique et de
+l'environnement. Saint-Gobain est une maison accueillante, sûre et ouverte sur le monde, dans laquelle on entre
+pour un parcours.
+Le  Groupe  Saint-Gobain  est  un  des  leaders  mondiaux  dans  la  production,  la  transformation  et  la
+commercialisation de produits verriers à destination des marchés du bâtiment et de l'automobile.
+Au sein du Centre de R de Chantereine, le service Formage recherche un stagiaire à compter de septembre 2014
+pour 6 mois.
+Le service Formage a pour missions principales :
+- D'innover et proposer de nouveaux procédés/outils transférables dans les usines Sekurit,
+- Formaliser les standards pour les différentes étapes du processus de fabrication et soutenir les usines via des
+assistances techniques.
+Description du poste :
+Au sein du centre de compétences Simulation du service Formage, le  (la) stagiaire aura pour mission le
+développement de fonctionnalités avancées dans PDM Entreprise  (Product Data Management). Pour cela, il
+devra:
+- Réaliser du développement PHP/Javascript de nouvelles fonctionnalités dans un Système d'Information  «
+maison » (CADPDM)
+- Assurer la conception/validation des systèmes
+- Opérer la migration de données existantes dans le nouveau système (Scripting SQL)
+Profil recherché :
+- Stage de fin DUT ou de 4ème année d'école ingénieur, spécialité génie informatique
+- Connaissances PHP, MySQL, Javascript
+- Autonomie, rigueur et curiosité sont des qualités essentielles pour réussir dans votre mission.
+Localisation :
+Thourotte (60), à proximité de Compiègne - 1 heure de Paris, accessible en transport en commun.
+Des facilités de logement sont envisageables.
+Pour postuler : http://stgobainglass.contactrh.com/jobs/1536/6911926
+
+
+
+
+

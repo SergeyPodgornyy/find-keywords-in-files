@@ -1,0 +1,62 @@
+﻿Stage  en  Application  Intelligence:  analy
+Société  Générale  France
+REFERENCE  :  ST/SM/ITEC92598
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4942694
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Nous souhaitons mettre en place une plateforme centralisée de collecte de logs applicatifs et de
+métriques de performances (nombre d appels/seconde, performance moyenne et à divers
+percentiles, etc.).
+Vous participez à la mise en place des composants d agrégation et d analyse sur la base d une suite
+d outils proposés par les équipes Architecture.
+Il proposera des axes d analyses de ces données et créera le ou les dashboards de restitution en
+collaboration avec l équipe.
+Ces outils sont Logstash, ElasticSearch et Kibana (tous Open Source).
+Apport du stage
+Ce stage vous offrira:
+- un challenge technique
+- la montée en compétence sur des problématiques de monitoring de production et analyse temps
+réel
+- la découverte de méthodes de développement avancées (agile, continuous delivery, qualité)
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur généraliste ou université avec une
+spécialisation en Informatique.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec SQL et C#
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+
+
+
+
+Vous bénéficiez idéalement des connaissances JAVA et JavaScript est un plus.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+étudiant(e) de niveau bac+5 en école d’ingénieur généraliste ou université avec une spécialisation
+en Informatique
+Votre niveau d’anglais est opérationnel
+A l’aise avec SQL et C#
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4942694
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿Stage n° 4 du LCE : Mise en œuvre d'un flot de conception ASIC/FPGA
+depuis une représentation haut-niveau IP-Xact.
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+IP-XACT  est  un  langage  de  modélisation  des  architectures  matérielles,  il  permet  de
+modéliser  des  architectures  dont  les  composants  proviennent  de  différents  fournisseurs
+industriels. IP-XACT est standardisé par le SPIRIT CONSORTIUM, il a été fondé par des
+géants industriels  : ARM, Cadence, Mentor Graphics, NXP, ST, Synopsys, LSI logic... Ce
+standard basé sur XML, a pour but de permettre la configuration et l’intégration automatique
+des systèmes numériques sur puces.
+Le stagiaire devra mettre en place les outils nécessaires pour valider un flot de conception
+allant  du  packaging  d'IP  au  niveau  IP-Xact  jusqu'à  la  simulation  post-synthèse  pour  des
+cibles ASIC et FPGA. Ce flot de conception devra intégrer un ensemble d'outils existants
+permettant de réduire significativement l'effort de conception. Le stagiaire devra prendre en
+main l'ensemble des outils du flot de conception pour rendre le plus automatique possible
+l'enchaînement des différentes étapes de conception. Ce flot de conception devra enfin être
+intégré à la structure de gestion d'IP qui est cours de déploiement au laboratoire. Le « use-
+case » utilisé lors de ce stage pourrait être une plateforme multicœur développée dans le
+cadre du projet RELY.
+Niveau demandé : Ingénieur   (5ème année)
+Durée : 6 mois
+Compétences :  VHDL,   Conception   circuit   numérique,   architecture   des
+processeurs, SOPC.
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Contacts :
+Nom                                                                                                   : Benoit Tain
+Téléphone                                                                                             : 01.69.08.00.76
+Email                                                                                                 : benoit.tain@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                            Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                        Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                              Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

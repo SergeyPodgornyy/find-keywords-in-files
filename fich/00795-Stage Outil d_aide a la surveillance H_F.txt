@@ -1,0 +1,68 @@
+﻿Stage  Outil  d’aide  à  la  surveillance  H/F
+Société  Générale  France
+REFERENCE  :  ST/ITEC/1013
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4989861
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Janvier
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement :
+Le stage se déroule au sein de la direction de l'Informatique de la SGCIB, dans le département
+Front-Office « Accès Marchés ».
+L'équipe Accès Marchés développe des serveurs permettant la réception des données de marchés en
+temps réel. Ces serveurs hautes performances sont complexes et nécessitent un monitoring de leurs
+performances.
+A cette fin, une ébauche d'application permettant de collecter et d’exploiter les données à été
+développé, rendant possible une analyse à postériori d’historiques de données.
+Vos missions :
+L'objectif du stage est de mener une étude de l'existant suivie par la réalisation d'un prototype.
+A ce titre et en collaboration avec votre maître de stage qui assurera votre formation, vous
+participez aux tâches suivantes :
+* Création d’un module permettant une analyse fine de la chaîne de « données de marchés temps
+réel » axée sur la charge et la volumétrie afin d aider à répartir les consommations au mieux sur la
+chaines.
+* Amélioration de l’outil existant afin de pouvoir représenter l ensemble de la chaîne
+(consommateur, intermédiaire, serveurs Market Data).
+
+
+
+
+* Persistance informations existantes
+Votre profil H/F :
+Vous êtes étudiant de niveau Bac +4/5 en Écoles d’ingénieur ou Université avec une spécialisation
+en Informatique.
+Vous avez un intérêt pour la conception logiciel.
+Vous avez un anglais opérationnel et vous avez les connaissances suivantes : C/C++, Unix/Linux,
+Python ou C#.
+Les apports du stage :
+Ce stage vous permettra d'avoir une vision fine d'une chaine de production logicielle. Et d'une
+manière plus globale, ce sera l'occasion d'appréhender le fonctionnement de l'IT Front Office en
+Banque de Financement et des enjeux associés.
+Le renforcement de vos connaissances en terme de programmation est aussi un des atouts majeurs
+de ce stage de par les enjeux et les tâches qu’il implique.
+Et si c'était vous?
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis
+rencontrerez un opérationnel pour un entretien de motivation.
+Durée du stage : 6 mois
+Stage basé à : Paris-La Défense
+Gratification selon grilles SG.
+PROFIL  :
+Bac +4/5 en Écoles d’ingénieur ou Université avec une spécialisation en Informatique.
+Vous avez les connaissances suivantes : C/C++, Unix/Linux, Python ou C#.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4989861
+
+
+
+
+

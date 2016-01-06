@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE DEVELOPPEUR MOBILE H/F EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 157431-7724531
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des services informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et
+Infogérance BPO, ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son
+expertise technologique et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie,
+Distribution Services, Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services
+aux Collectivités.
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Au sein de notre centre d'expertise technologique et de développement d'applications dédiées à l'informatique
+mobile, vous participez à l'étude, l'architecture et la réalisation de POC (Proof Of Concept).Vous participez
+ainsi à la mise en oeuvre d'applications à destination des plateformes mobiles comme iPhone, Android et
+Windows Mobile, ou encore à destination de tablettes tel que l'iPad ou Samsung Galaxy.
+Vos missions :
+-Étude de faisabilité des développements et des évolutions et présentation des résultats.
+-Spécifications techniques et fonctionnelles
+-Conception d'applications destinées aux terminaux mobiles de type « smart phones » (iPhone, Android,
+BlackBerry, Windows Mobile ou Symbian OS) ou « tablettes » (iPad, Samsung Galaxy).
+-Développement de fonctionnalités en Objective-C/Android ou à partir de framework multi-terminaux de
+type PhoneGap ou Titanium, bonne connaissance des JDK propriétaires pour développement mobile.
+-Rédaction de la documentation développeur.
+-Réalisation de la synthèse des résultats.
+-Environnements techniques:
+Objective-C/IOS, JAVA Android, JavaScript/HTML/CSS, Titanium, PhoneGap, Adobe Flex/Air.
+Profil recherché :
+Profil
+De formation Bac+5 (en cours de validation), vous recherchez un stage d'une durée de 6 à 12 mois (dates
+variables selon la formation).
+Vous aimez le travail en équipe,vous êtes attiré(e) par des projets innovants et vous souhaitez vous investir
+dans une mission à forte valeur ajoutée.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7724531
+
+
+
+
+

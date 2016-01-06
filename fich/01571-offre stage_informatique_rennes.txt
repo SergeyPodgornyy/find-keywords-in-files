@@ -1,0 +1,40 @@
+﻿GÉNIE ÉLECTRIQUE - GÉNIE MÉCANIQUE
+Conception | Intégration | Installation | Maintenance
+Offre de stage « Etudes et Développement - Informat    ique
+industrielle - Rennes (35)
+CLEMESSY  SA  (groupe  Eiffage)  concepteur  et  intégrateur  de  solutions  en  génie  électrique,
+automatisation de procédés et systèmes mécanisés. L’entreprise s’appuie sur  4900 collaborateurs
+pour un chiffre d’affaires de 618 millions d’euros de CA et sur la puissance d’un réseau de proximité
+avec plus de 100 implantations en France.
+Notre bureau d’études de Rennes recherche un Chargé d’Etudes et Développement en informatique
+industrielle (H/F) pour un stage de 5 à 6 mois.
+Accompagné par un chargé d’affaire, votre rôle consiste à mener des études et un développement
+d’applicatifs  constituant   une                                                                         « solution-produit »   destinée  au  pilotage,  au  guidage,  au  suivi
+d’opérations réalisées par des humains au sein de processus industriel.
+Les technologies et techniques à mettre en œuvre sont :
+-                                                                                                        Terminaux mobiles
+-                                                                                                        Réseaux locaux IEEE 802 : WI-FI, Bluetooth, …
+-                                                                                                        Temps réel
+-                                                                                                        Sécurisation et disponibilité des échanges entre systèmes
+-                                                                                                        Langage : C_Sharp, Java,..
+                                                                                                         Les activités « clefs » du stage sont :
+-                                                                                                        Elaboration des spécifications fonctionnelles et techniques
+-                                                                                                        Etude de conception et développement
+-                                                                                                        Pré-qualification unitaire des modules
+-                                                                                                        Intégration d’ensemble et mise au point
+-                                                                                                        Qualification d’ensemble de la solution
+Votre Profil :
+Formation en automatisme, automatique, informatique industrielle « mobile », informatique industrielle
+« embarquée »
+Connaissances : Informatique (outil de développement, réseaux), mathématiques
+Contact :
+Antoinette CHATELAIN - Chargée de Ressources Humaines
+CLEMESSY OUEST Atlantique à Cesson Sévigné - Rennes (35)
+T. 02 23 30 09 25
+a.chatelain@clemessy.fr
+ANCH-JDUB - oct14
+
+
+
+
+

@@ -1,0 +1,57 @@
+﻿Stage n°6 du LCE
+Sujet :  Prototype  logiciel  et  matériel  pour  applications  de  vision
+embarqué
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser  l’innovation  dans  le  domaine  des  systèmes  embarqués.  Au  sein  du  LIST  le  Laboratoire
+Calcul Embarqué (LCE) est chargé de concevoir et de développer des calculateurs à haut niveau de
+performance (surface, consommation, puissance de calcul) pour les systèmes embarqués.
+Au  sein  du  laboratoire  une  nouvelle  plateforme  matérielle  de  prototypage  a  été  développée  pour
+mettre en œuvre des applications de visions avancées et accueillir des démonstrations temps-réel.
+Cette carte électronique comporte une CPU de type x86, des interfaces rapides, divers mémoires et
+plusieurs FPGAs de dernière génération (Xilinx série 7, dont un composant Zynq avec un processeur
+bi-cœur ARM Cortex A9 embarqué).
+L’objectif  du  stage  est  de  mettre  en  place  les  moyens  de  communication  sur  cette  carte  qui
+permettront de démontrer les capacités fonctionnelles du prototype.
+Pendant  que  les  projets  concernés  vont  se  concentrer  sur  le  développement  et  la  maturation  de
+briques fonctionnelles de traitement d’image en logiciel et matériel, nous proposons au candidat de
+travailler sur la validation des éléments clefs de la plateforme afin de la préparer pour les démos.
+Comme il s’agit d’un support complexe, la première étape du stage va consister en une prise en main
+de la carte. Il s’agira de développer des petits codes de test (en langage C/C++) pour vérifier l’accès
+aux différentes ressources de la carte ainsi que leur bon fonctionnement. En particulier il s’agira de
+mettre en œuvre l’accès au divers composant mémoire et la communication entre les composants
+programmables. Le système central se base sur un Linux embarqué qui contient les pilotes pour une
+prise  en  charge  des  périphériques  caméra  et  display.  D’autres  fonctions  et  interfaces  sont
+commandées par des modules embarqués sur FPGA (codes VHDL).
+Selon  l’avancement  durant  le  stage  l’activité  pourra  se  conclure  par  une  mise  au  point  une
+démonstration bout-en-bout d’une application de vision (incluant caméra et display).
+Moyens : Test électriques et logiques sur carte électronique, développement C et VHDL,
+portage  de  code  sur  Linux  embarqué  et  FPGA,  développement  application  de  vision
+embarqué temps-réel
+Niveau demandé : Diplôme d’ingénieur   (BAC+5)
+Durée : 6 mois
+Compétences :   Electronique   embarquée,   Architecture   des   systèmes   embarqués,
+Traitement d'images, VHDL, langage C/C++, Linux embarqué
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                           : Renaud SCHMIT
+Téléphone                                                                                                     : 01 69 08 00 66
+Email                                                                                                         : renaud.schmit@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                    Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                      Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

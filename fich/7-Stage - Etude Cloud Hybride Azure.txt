@@ -1,0 +1,36 @@
+﻿Stage - Etude Cloud Hybride Azure
+Société de conseil en technologies de plus de 4 200 personnes, SII est structurée autour d'un réseau d'agences à taille
+humaine. Depuis plus de 30 ans, notre réussite est fondée sur une culture d'entreprise forte et des valeurs reposant
+sur la proximité et la confiance.
+L'agence de Rennes, située au cœur de la technopole Rennes-Atalante, compte déjà plus de 480 collaborateurs et
+prévoit de recruter plus de 50 personnes sur 2013 sur les secteurs des télécoms, de l'industrie et des services.
+Contexte du stage :
+Intégré au pôle Infrastructure, et encadré par un architecte système, votre mission consistera à faire l’étude et la veille
+autour des concepts de Cloud Hybride en environnement Microsoft.
+Le stage se déroulera en deux étapes :
+- Compléter la plateforme de Cloud privé existante, en y ajoutant les fonctionnalités de portail libre-service et de
+refacturation. Vous étudierez également l’environnement de Cloud publique Azure.
+- Réaliser un PoC de connexion du Cloud privé au Cloud publique Azure, et d’utilisation de cette plateforme en mode
+hybride, dans différents scenarios d’usage.
+Technologies mises en oeuvre :
+Cloud Computing, Virtualisation, environnement Microsoft.
+Formation souhaitée :
+Ecole d’Ingénieurs ou Master 2 en informatique
+Profil souhaité :
+Nous recherchons un stagiaire avec de bonnes connaissances des principes du Cloud Computing, des environnements
+Microsoft (Windows Server) et des réseaux. Une première approche de la plateforme Cloud publique Azure serait un
+plus. Au delà de ces connaissances techniques, nous recherchons un stagiaire autonome, méthodique et force de
+proposition.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en fonction des exigences de
+votre école.
+Si vous souhaitez répondre à cette offre, merci de nous adresser votre candidature à : drh-ouest@sii.fr
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees"  2013/2014 pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                                                1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite préalable de SII.   Usage interne SII
+
+
+
+
+

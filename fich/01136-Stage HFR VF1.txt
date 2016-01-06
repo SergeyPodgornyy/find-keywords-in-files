@@ -1,0 +1,53 @@
+﻿Réf :Bcom/2014-                                                                                         Rennes, le 6 Janvier 2014,
+005
+Objet :                                                                                                 Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                        Technologique b<>com dans le domaine Advanced Media Coding
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur       3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                             ETUDE  DE  LA  COMPRESSION  HEVC  SUR  LES  CONTENUS  HFR  (HIGHER
+stage                                                                                                   FRAME RATE)
+Descriptif de la mission :
+Au sein de l’IRT le projet Média Immersif a pour vocation de développer des technologies et
+des services permettant d’améliorer la sensation d’immersion dans le média, qu’il soit audio,
+vidéo ou multimodal.
+Dans ce contexte,    les nouvelles techniques de compression vidéo sont étudiées et adaptées
+aux  formats  émergents,  tout  particulièrement  aux  contenus  vidéo  qui  présentent  une
+fréquence image importante : on parle de contenus HFR (pour higher frame rate). La gamme
+actuelle  située  autour  de  25  images  par  secondes  est  de  plus  en  plus  challengée  et  des
+contenus aux double, quadruple de cette valeur et plus, émergent et procurent une meilleure
+représentation notamment des mouvements.
+L’étude proposée dans le cadre de ce stage consiste à mesurer l’effet de la compression sur
+ces  contenus  HFR.  Elle reposera  sur  le  système  de  codage  HEVC  récemment  standardisé  à
+MPEG. Les objectifs en seront notamment les suivants :
+    Identifier l’effet et l’impact sur la qualité d’un abaissement de la fréquence image sur
+un contenu initialement disponible en HFR;
+    Adapter et configurer le codage HEVC pour les contenus de type HFR
+Développer  des  outils  complémentaires  permettant  de  tester  et  comparer     le  HFR  en
+environnement codé par HEVC.
+Profil recherché :                                                                                          Etudiant en Master Recherche ou Ecole d’Ingénieur (3e année)   et
+                                                                                                        spécialité en traitement du signal, traitement d’image
+                                                                                                            Goût pour la recherche en milieux industriel
+                                                                                                       Connaissance générale d’un schéma de compression vidéo (MPEG, AVC, HEVC)
+                                                                                                       Connaissances générales en traitement d’image
+                                                                                                       Intérêt pour le traitement du signal
+                                                                                                       Maîtrise du C/C++ (Python serait un plus.)
+Intérêt   pour   le                                                                                     Découverte des formats vidéo du futur
+stagiaire                                                                                               Réelle intégration au sein d’équipes pluridisciplinaires
+Secteur de la recherche et de l’innovation
+Mission à véritable enjeu
+Modalités                                                                                               Durée : 4 à 5 mois
+Date de démarrage : dès que possible
+Localisation : Rennes (IRT b<>com)
+Date de fin de dépôt des candidatures : 07/02/2014
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                  140106
+
+
+
+
+

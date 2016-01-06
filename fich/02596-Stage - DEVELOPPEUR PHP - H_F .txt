@@ -1,0 +1,42 @@
+﻿ARIA RECRUTE UN/UNE STAGE - DEVELOPPEUR PHP - H/F EN STAGE DE 2 À 3 MOIS.
+Date : 09/07/2015
+Référence de l’offre : Flp-10344540
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : De 2 à 3 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+ARIA est la référence du recrutement de stagiaires, apprentis et jeunes diplômés en France.
+www.aria-recrutement.com
+Nous proposons aux étudiants et aux jeunes diplômés des stages et des CDI dans des startups, des PME ou
+des grands Groupes dans tous les secteurs d'activité.
+Notre client est une startup parisienne, qui vient de lancer une plateforme destinée à la communication et au
+partage de l'information en temps réel pour la vente. Elle met en contact dans un même espace les
+collaborateurs  d'une  même  entreprise                                                                           (associés)  et  des  personnes  qui  appartiennent  à  des  entreprises
+différentes (partenaires).
+Description du poste :
+Missions:
+- Création d'une IHM désignée pour tout type d'appareil avec les 2 modules : Tâches et Calendrier qui
+s'insère dans notre interface actuel
+- Création des modules (PHP) qui traitent l'information coté serveur (Appache environnement Unix)
+- Gestion et Stockage des données dans une table de données MySql
+-  Imagination  de  solutions  intelligentes  et  innovantes  qui  s'insèrent  facilement  dans  les  programme
+FRONTLEAP et apportent une vraie valeur ajoutée
+Profil recherché :
+- Etudiant(e) en informatique/ingénierie
+- Maîtrise impérative du développement PHP
+- Très bonnes connaissances et maîtrise de My SQL, HTML5, CSS, JavaScript
+- Première expérience en stage ou projet significatif dans le domaine du développement web fortement
+appréciée
+Concernant la personnalité :
+- Autonome et flexible
+- Imaginatif, esprit start-up
+- Rapidement opérationnel
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10344540
+
+
+
+
+

@@ -1,0 +1,43 @@
+﻿SOGETI HIGH TECH - RÉGION SSE RECRUTE UN/UNE STAGE INGÉNIEUR - DÉVELOPPEMENT
+ARCHIT EN STAGE 6 MOIS.
+Date : 02/12/2014
+Référence de l’offre : MU4-STA-TE-JJU--8214442
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+La Market Unit Physical Systems Testing de Sogeti High Tech basée à Toulouse recherche un(e) stagiaire
+dans le cadre de ses activités d'Essais systèmes.
+Ce stage aura pour but de développer et de superviser une maquette représentant une partie de l'infrastructure
+sol de l'un de nos clients grand compte dans l'aéronautique:
+- Intégrer des serveurs hébergeant des applications avioniques,
+- Améliorer la représentativité de l'architecture réseau (DMZ, firewall, routage de données...),
+- Configurer et valider un ou plusieurs outils permettant la supervision des différents éléments de la maquette
+(état des serveurs et des liens, analyse de logs...). Le développement de plugins est à envisager (C, C++, Perl,
+Shell...).
+Profil recherché :
+De formation ingénieur ou universitaire, spécialisé en Réseau et Infrastructure, vous êtes intéressés par le
+secteur aéronautique et le développement de plugins (C, C++, Perl, Shell...).
+Vous devrez faire preuve de rigueur, d'autonomie et être force de proposition.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8214442
+
+
+
+
+

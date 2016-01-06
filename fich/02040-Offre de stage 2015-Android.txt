@@ -1,0 +1,35 @@
+﻿Offre De Stage
+SUJET                                                                                         Prototypage d’applications Android sur objets connectés.
+iD.apps est un des leaders français du développement d’applications mobiles avec de
+nombreuses références dans des domaines métiers très variés :
+    Média : TF1, Canal+, TMC
+    Culture : Larousse
+    Santé : Vidal, Servier
+    Logistique : GEFCO, STVA, Man
+    Etc…
+Dans le cadre de son activité R&D, iD.apps souhaite renforcer ses équipes d’éléments
+passionnés et moteurs. Le but de ce stage est d’innover sur le terrain des objets connectés
+qui est pour le moment complètement inexploité :
+                                                                                              -                                                          Google Glasses
+DESCRIPTION                                                                                   -                                                          Android Wear
+                                                                                              -                                                          Etc …
+Au sein d’une équipe multiplateforme, vous aurez en charge la réalisation des applicatifs
+sur les plateformes connectées reposant sur la technologie Android. Ces applications
+serviront de démonstrateur à l’occasion des nombreux salons réalisés et sponsorisés par
+iD.apps.
+Environnement : Android, Java, Android Studio, Gradle, Webservices, Cloud.
+Le stagiaire intégré au centre de développement iD.apps, devra faire preuve d’autonomie
+et s’adapter aux contraintes projets.
+DURÉE                                                                                         A partir de 4 mois
+En dernière année de cycle d’étude (Bac+5)
+Niveau d’anglais correct. Maitrise du développement objet.
+PROFIL
+Intérêt prononcé pour une des plateformes mobiles, bonnes connaissances web et notions
+sur les serveurs (webservices, persistance de données, …)
+CONTACT
+kbekri@id-apps.fr
+
+
+
+
+

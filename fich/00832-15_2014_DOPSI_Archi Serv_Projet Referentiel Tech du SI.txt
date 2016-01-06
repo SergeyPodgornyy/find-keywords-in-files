@@ -1,0 +1,52 @@
+﻿INFORMATIQUE                                                                                                   STAGE   2013-2014
+PROJET REFERENTIEL TECHNIQUE DU SI
+Stage rémunéré
+REF : 15_2014_DOPSI_ARCHIT. & Serv.                                                                            Créé en mai 2011 U GIE-IRIS, est le prestataire
+                                                                                                               informatique  interne  au  Groupement  U
+                                                                                                               (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 6 mois - Période : 1er semestre 2014
+                                                                                                               mission  la  centralisation  et  l'uniformisation
+                                                                                                               des ressources informatiques des magasins U
+                                                                                                               et des centrales.
+En tant que prestataire informatique du groupement U, U GIE IRIS                                               Chaque  année  nous  accueillons  une  douzaine  de
+souhaite se doter d'une solution lui permettant de référencer,                                                 stagiaires   qui   rejoignent   une   équipe   de      500
+construire et maintenir les offres de services qu'il propose à ses                                             collaborateurs qui travaillent dans un environnement
+technique constitué de 500 serveurs (Unix, Windows,
+clients.
+AS400), 1800 équipements réseaux et une centaine de
+bases de données, répartis dans les Datacenters et
+reliés aux 1423 points de vente du groupe.
+Dans ce contexte, vous aurez pour mission la conduite du projet                                                En immersion complète dans des projets
+concrets, ces stages leur permettront de
+de Création du Référentiel Technique du SI du groupement U.
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+Ce référentiel aura comme objectifs de :
+capacités méthodologiques.
+Cartographier le SI Technique du groupement U
+Présenter les services proposés par le SI et les interactions entre services
+Identifier les points de faiblesses ou incohérences du SI par rapport aux niveaux de service attendus
+Pour cela, vous devrez réaliser :
+Un état de l'art des offres du marché
+Le cahier des charges, l'appel d'offre et le dépouillement des offres
+Une maquette de chaque offre
+La réalisation et la présentation au groupe projet d'un dossier de choix (réponses aux besoins,
+coûts, etc.)
+La mise en œuvre de la solution au sein du U GIE IRIS
+La normalisation de la solution
+L'enrichissement de ce nouveau référentiel (manuel ou via des passerelles avec nos référentiels
+existants).
+Poste sous Windows, Microsoft Visio, MEGA, Isilog
+Bac + 5 informatique, Ecole d'Ingénieurs ou Universitaire
+Qualités requises :
+o  Capacité d'abstraction, de modélisation et de normalisation
+o  Bon rédactionnel, synthétique
+o  Idéalement une connaissance des concepts ITIL et de la norme TOGAF
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

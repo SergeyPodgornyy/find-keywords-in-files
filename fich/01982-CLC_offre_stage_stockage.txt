@@ -1,0 +1,46 @@
+﻿Réf  :Bcom/2014­001                                                                                                                                             Rennes,  le  10  Octobre  2014,
+ bje                                                                                                                                                            Proposition  de  stage  au  sein  de  l’Institut  de  Recherche  Technologique  b<>com  dans  le  domaine  du
+cloud  computing
+A   propos   de   B­
+com
+L'Institut  de  Recherche  Technologique   (IRT)  b<>com  a  pour  but  de  conduire  un  programme  d'innovation  technologique  de
+dimension  mondiale  dans  le  domaine  des  sciences  et  technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela
+focalisé  sur  3  domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle  génération  et  de  leurs
+applications  à  la  santé.
+ ntitulé  du  stage                                                                                                                                             Comparaison  des  performances  d’entrées/sorties  des  disques  de  stockage  dans  un  contexte  virtualisé
+ escriptif  de  la  mission
+Il  s'agit,  dans  ce  sujet  de  stage,  de  faire  une  étude  exhaustive  et  comparative  des  performances  des  E/S  (disque  et  SSD)  entre
+machine  virtuelle  et  conteneur  linux,  2  alternatives  permettant  de  virtualiser  des  ressources  dans  un  data  center.
+Dans  le  cadre  du  projet  INDEED  dont  l’objectif  est  le  développement  et  la  mise  en  œuvre  d’une  infrastructure  de  cloud  réparti
+économe  en  énergie  basé  sur  OpenStack,  le  stagiaire  a  pour  mission  de  se  familiariser  avec  les  technologies  OpenStack  et  Docker
+dans  un  premier  temps.
+Il  devra  par  la  suite  définir  des  scénarios  à  utiliser  pour  l'étude  des  E/S  ainsi  que  les  métriques  à  prendre  en  considération  (débits,
+usage  des  caches  Linux,  latences,  etc.).  Concernant  les  scénarios,  cela  se  traduira  par  le  choix  de  macro  et  micro  benchmark
+permettant  respectivement,  de  tester  des  applicatifs  représentatifs  du  domaine  traité  par  le  projet  INDEED,  et  d'autres  part  de
+définir  des  batteries  de  test  permettant  de  caractériser  et  de  comprendre  le  comportement  des  deux  modes  de  virtualisation.
+Le  stage  devra  aussi  déboucher  sur  des  préconisations  quant  à  l'usage  de  l'une  ou  l'autre  des  techniques  dans  un  Cloud
+concernant,  par  exemple,  la  flexibilité  de  la  solution,  le  passage  à  l'échelle,  etc…
+ rofil  recherché                                                                                                                                               Bac+5  (école  d’ingénieur,  Master  Recherche  ou  Professionnel),
+Spécialité  Informatique/Génie  Logiciel
+Compétences  recherchées  :
+   Très  bonne  maitrise  de  l'environnement  Linux
+   Très  bonne  maîtrise  du  développement  système
+   Très  bonne  maîtrise  du  langage  C
+   Bonnes  notions  sur  la  mesure  de  performance
+   Une  connaissance  d’OpenStack  et  de  Docker  serait  un  plus
+Intérêt  pour  le  stagiaire                                                                                                                                       Réelle  intégration  au  sein  d’une  équipe  pluridisciplinaire  :  architectes,  développeurs,  chercheurs
+                                                                                                                                                                   Secteur  de  la  recherche  et  de  l’innovation
+   Un  enjeu  industriel  fort  :  une  mission  liée  au  développement  d’un  produit  commercial  innovant
+   Un  environnement  de  travail  de  grande  qualité
+Modalités                                                                                                                                                       Durée  :  6  mois
+Date  de  démarrage  :  Février/Mars  2015
+Localisation  :  Cesson­Sévigné  ou  Plouzané
+Date  de  fin  de  dépôt  des  candidatures  :  15/11/2014
+Candidature  à  envoyer  à  :  job@b­com.com  avec  la  référence  du  stage
+b<>com
+140106
+
+
+
+
+

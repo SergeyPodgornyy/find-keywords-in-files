@@ -1,0 +1,41 @@
+﻿PARIS&CO INCUBATEURS RECRUTE UN/UNE ANALYSE DE TEXTES ET EXTRACTION D'INFO
+EN STAGE DE 4 À 6 MOIS.
+Date : 31/07/2015
+Référence de l’offre : Ref. 0715‐01-10570189
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75013, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+ideXlab a l'ambition de s'imposer comme le leader européen de l'intermédiation en innovation ouverte et le
+seul acteur offrant une solution web exploitant l'Open Data.
+Fondée début 2011 ideXlab a développé un outil unique de recherche d'experts et une première version de
+son application utilisée par de grands groupes industriels et des PME innovantes.
+Nous recherchons un stagiaire qui se formera et contribuera à un projet européen impliquant des partenaires
+académiques prestigieux et des sociétés de pointe dans le domaine d'Analyse de Textes et Extraction
+d'Information (France, Angleterre, Slovénie,Allemagne,Italie,Grèce,Turquie).
+Description du poste :
+Vous serez impliqué dans l'analyse, la proposition de solutions techniques, l'implémentation et les tests de
+module de recherche d'information, dont en particulier:
+-­ L'extraction d'entités et leur désambiguation
+­ -Test et comparaison d'algorithmes de matching et recommandation entre profils d'experts
+­ -Optimisation des algorithmes choisis et implémentation sous forme de services web temps réel.
+­ -Développement de fonction d'extraction de méta‐données
+Profil recherché :
+3ème année d'école d'ingénieur ou stage de Master 2.
+Vous devez avoir:
+­- un fort intérêt pour le développement d'applications web, une bonne autonomie et être attiré par une
+expérience en start‐up.
+­- Une très bonne connaissance de PHP et MySQL nécessaires, être à l'aise avec des environnements et outils
+de développement (IDE/Netbeans, versioning/Git).
+­- La connaissance de la fouille de données et traitement automatique des textes, classification et machine
+learning, base des données.
+Français courant et un bon Anglais technique sont nécessaires.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10570189
+
+
+
+
+

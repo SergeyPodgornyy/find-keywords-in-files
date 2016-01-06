@@ -1,0 +1,31 @@
+﻿Titre du stage: Développement de programme de stimulation et d’acquisition de données
+expériemntales sous python
+Durée: 2-3 mois
+Niveau: dernière ou avant-dernière année d'école d'ingénieur
+Dates envisagées: Janvier-Février-Mars
+Encadrant(s):  Bruno Wicker et Laurent Perrinet
+Descriptif:
+L’objectif du stage est de développer un programme python.
+Ce programme aura deux fonctions principales :
+- Contrôle et paramétrage de la stimulation visuelle
+- Acquisition des réponses et enregistrement des mouvements oculaires via une interface avec le
+logiciel EyeLink
+Compétences requises:
+- Connaissance experte du langage python
+Contexte: L'Institut de Neurosciences de la Timone (INT, http://www.int.univ-amu.fr ) est une
+unité mixte de recherche qui a pour objectif de développer des recherches interdisciplinaires en
+neuroscience. Situé sur le Campus de la Faculté de Médecine d'Aix Marseille Université, il est
+doté  de  plateformes  technologiques  de  haut  niveau  au  service  d'équipes  de  recherche  en
+neurosciences théoriques et expérimentales.
+Gratification : ce stage donnera lieu à une gratification au niveau du standard légal.
+Envoyer CV + lettre de motivation à bruno.wicker@univ-amu.fr et laurent.perrinet@univ-amu.fr
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                 5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

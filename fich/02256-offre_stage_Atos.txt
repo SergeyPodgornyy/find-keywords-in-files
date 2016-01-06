@@ -1,0 +1,45 @@
+﻿Laboratoire de R&D
+Stage : Evolution architecturale de la plateforme Web
+sémantique Datalift
+Date de début : ASAP - Durée : 6 mois
+Lieu : Bezons (95) - Ile de France
+Atos, en quelques mots
+Atos  SE                                                                                                    (Société  Européenne),  acteur  international  des  services
+informatiques avec un chiffre d’affaires annuel de 8,8 milliards d’euros
+et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde
+entier des services informatiques dans 3 domaines, Conseil & Services
+Technologiques, Intégration de Systèmes et Infogérance & BPO, ainsi
+que des services transactionnels de haute technologie avec Worldline.
+Grâce à son expertise technologique et sa connaissance industrielle, il
+sert ses clients dans les secteurs suivants: Industrie, Distribution &
+Services,  Services  Financiers,  Secteur  Public,  Santé  &  Transports  et
+Télécoms, Médias & Services aux Collectivités.
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir opérationnels
+les systèmes d’information de ses clients. Pour cela, notre entité dispose d’un riche portefeuille
+d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une
+croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de satisfaire la
+demande croissante de solutions.
+Cadre du stage
+Le laboratoire de R&D d’Atos vous propose un stage de longue durée, pendant lequel vous aurez à
+prendre une part active à la vie de ses projets de recherche et développement autour de Datalift,
+une plateforme open source destinée aux nouvelles formes de traitement de données : le domaine
+des Data Sciences où on trouve notamment le Big Data et le Web sémantique.
+Sujet du stage
+Vous ferez partie du laboratoire pour mettre en place un système de traces sémantiques. Au lieu
+d’avoir des traces classiques (logs), on souhaite installer un dispositif qui écrit les traces en base de
+données selon une modélisation normalisée (ontologie PROV du W3C). Ces traces peuvent alors être
+interrogées avec un langage de requêtes de haut niveau, SPARQL (équivalent du SQL pour les bases
+de données RDF). L’objectif est d’utiliser ces traces pour visualiser l’historique des modifications
+(pages HTML, flux RSS) puis d’en extraire des workflows paramétrables : l'utilisateur effectue une
+série d'actions de transformation de données une seule fois, sur un fichier exemple, et l’outil génère
+un processus automatique pour traiter des fichiers de même type.
+Les développements se font en Java côté serveur et en HTML  5, CSS et Javascript  (Angular.js,
+Bootstrap) côté client.
+L’esprit d’équipe et restitution est indispensable. Autonomie et initiative seront appréciées.
+Contact : gabriel.kepeklian@atos.net ; houda.khrouf@atos.net
+Stage 2015
+
+
+
+
+

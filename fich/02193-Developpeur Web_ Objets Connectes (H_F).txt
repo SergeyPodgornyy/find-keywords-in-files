@@ -1,0 +1,48 @@
+﻿PARIS INCUBATEURS RECRUTE UN/UNE DÉVELOPPEUR WEB/ OBJETS CONNECTÉS (H/F) EN
+STAGE 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : Smiirl_Devweb-8594019
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : Paris 75020, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Paris Région Lab recrute pour l'une de ses entreprises incubées : SMIIRL
+Smiirl est une startup qui conçoit et produit des objets connectés destinés à reconnecter les identités digitales
+et physiques des commerçants et plus largement des lieux qui acceuillent du public.
+Le premier produit de l'entreprise est le Fliike, le premier compteur physique de fans facebook connecté en
+temps réel, l'entreprise souhaite développer un véritable écosystème d'objets connectés liés à des réseaux
+sociaux ou services digitaux.
+L'équipe de Smiirl est jeune et dynamique et axe son développement sur un subtil mélange de design et de
+technologie tout en souhaitant se développer sur des marchés porteurs  . L'entreprise a fait partie de la
+quatrieme fournée du prestigieux incubateur parisien LeCamping et est aujourd'hui incubée chez Paris
+Région Lab.
+Description du poste :
+Sous la responsabilité directe du directeur, le ou la stagiaire aura pour missions :
+- Optmiser le Front-End
+- Participer à la conception du nouveau Front-End
+- Maintenir et optimiser Back-End
+- Mise en place des tests unitaires
+Stage conventionné. Pas d'alternance ni de contrat de professionnalisation
+DUREE DU STAGE : 6 mois
+Stage conventionné uniquement.
+Profil recherché :
+Connaissance techniques :
+- Excellente maîtrise de PHP
+- HTML 5, CSS, jQuery, JSON
+- Git
+La connaissance de Symfony 2 est un énorme avantage.
+Vous êtes autonome et polyvalent.
+Vous êtes conscient de vos forces et faiblesses.
+Vous vous formez rapidement aux nouvelles technologies.
+Vous avez le souci des utilisateurs et de l'expérience utilisateur.
+Votre objectif est d'apprendre et de faire avancer la société.
+Vous avez déjà codé pour vous, parce que c'est fun.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8594019
+
+
+
+
+

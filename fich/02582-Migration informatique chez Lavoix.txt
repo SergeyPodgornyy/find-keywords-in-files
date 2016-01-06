@@ -1,0 +1,39 @@
+﻿AJSTAGE RECRUTE UN/UNE MIGRATION INFORMATIQUE CHEZ LAVOIX EN STAGE DE 3 À 6
+MOIS.
+Date : 02/07/2015
+Référence de l’offre : mig inf-10256711
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+LAVOIX est le premier acteur entièrement dédié à la Propriété Intellectuelle (PI) en France.
+Avec près de 200 professionnels de la PI dont 80 avocats, conseils en propriété industrielle, ingénieurs et
+juristes, LAVOIX intervient sur tous les types de droits de PI (brevets, marques, modèles, droits d'auteur et
+noms de domaine), quel que soit le secteur économique ou technique concerné.
+Description du poste :
+Vous aurez la charge du développement d'outils internes.
+Assurer la migration de données vers notre nouveau portail client
+Créer les nouveaux comptes sociétés/utilisateurs et les paramétrer
+Paramétrer les codes d'accès et déterminer les droits utilisateurs
+Contrôler le bon fonctionnement des comptes
+Mettre à jour le référentiel interne
+Transmettre aux ingénieurs ou aux juristes, les éléments permettant d'informer nos clients de ce nouveau
+portail.
+Profil recherché :
+Profil recherché :
+Etudiant souhaitant s'orienter vers des études polyvalentes en informatique (BTS, DUT)
+Bonne connaissance de l'environnement Windows et Office (notamment maîtrise d'Excel)
+Pragmatique, vous avez la capacité de contourner un problème en cas de difficulté. Rigoureux, vous êtes en
+mesure de de réaliser le contrôle et le test des résultats. Sens du service et goût du travail en équipe sont
+également des atouts pour réussir à ce poste.
+pour postuler: http://ajstage.com/offre/Migration-informatique-chez-Cabinet-LAVOIX
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10256711
+
+
+
+
+

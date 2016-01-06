@@ -1,0 +1,40 @@
+﻿Fiche de proposition de sujet pour « stagiaire ingénieur»                                                                              P1                                                                                                                                    2837
+Année 2014
+Division :      SDS
+Département / service :  SDS
+Nom du tuteur                                                                                                                          ICT 3B Loïc POTIER - Tel : 02 99 42 95 75
+Coordonnées
+Diplôme préparé, niveau                                                                                                                Ingénieur option Informatique ou Electronique Informatique
+de connaissances
+requis                                                                                                                                 INSA , ENST Br, ISTIC, …
+Ecole pressentie
+Nature des travaux
+Domaine précis et                                                                                                                      Intitulé réduit du stage :  " Intégration de modèles et enrichissement d'une simulation de systèmes de défense développée sous
+travaux demandés                                                                                                                       Microsoft .Net avec gestion d'affichage 3D"
+La division SDS effectue des travaux d’évaluation d’architecture de systèmes de défense basés sur des outils de simulation et
+d’exploitation/visualisation des résultats. L’expérience montre qu’il est important d’être en mesure de présenter ceux-ci sous une
+forme facilement interprétable par les décideurs et d’ajouter des modèles de capteurs ou effecteurs de granularité adaptée au besoin
+des études.  La division SDS a acquis des compétences en simulation en se basant sur une infrastructure de simulation conçue en
+interne au sein du ministère de la défense (DGA + EMM), infrastructure ouverte et partagée avec les industriels : DirectSim .
+Les travaux à remplir par le stagiaire consisteront à :
+-                                                                                                                                      Porter des modèles et mécanismes existants dans ce nouvel environnement,
+-                                                                                                                                      Enrichir l’outil de définition de scénario avec pour objectif de rendre son exploitation plus simple à des utilisateurs non
+informaticiens (avec utilisation de mécanismes de plug-in),
+-                                                                                                                                      Développer des modes de représentations 3D en s’appuyant sur des standards (notamment KML).
+Compétences requises :
+Solides compétences en programmation  avancée objet  avec (souhaitable) connaissance de DOTNET, de visual studio 2008/2010 et du
+langage C#. Nota :
+-                                                                                                                                      Informations sur l'architecture de simulation  DirectSim  accessibles sur internet,
+-                                                                                                                                      L'outil développé avec le concours d'industriels de la défense et de sociétés de services informatiques fait largement appel à tous
+les concepts évolués de la programmation objet et de C# (réflexion, attributs, interfaces…).
+                                                                                                                                       Formule administrative                                                                                                                Convention gratifiée
+souhaitée
+Durée                                                                                                                                  (court, long,                                                                                                                         5 à 6  mois
+apprentissage)
+Période souhaitée                                                                                                                                                                                                                                                            Fév. 2014 - Juil. 2014
+Habilitation *                                                                                                                                                                                                                                                               NC
+
+
+
+
+

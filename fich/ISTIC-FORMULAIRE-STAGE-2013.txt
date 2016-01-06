@@ -1,0 +1,82 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise :PRICING PARTNERS                                                          Adresse : 6 rue Rougemont
+Domaine d’activité : EDITEURS LOGICIELS                                                        Ville :Paris
+Représentant de l’entreprise :                                                                 N° téléphone :
+Sa qualité :                                                                                   N° fax :
+N° de Siret :                                                                                  Site Web :
+N° NAF :                                                                                       Courriel :kodjo.klouvi@pricingpartners.com
+Statut Juridique :                                                                             Signataire de la convention :
+Effectif de l’établissement :                                                                  M Kodjo Klouvi
+Nom de l’encadrant de stage : M Kodjo Klouvi                                                   Chargé du suivi administratif :   Samantha Barrajon
+Sa qualité : CHEF IT                                                                           Sa qualité :   assistante de direction
+Service :                                                                                      N° téléphone :
+N° téléphone :                                                                                 Email : samantha.barrajon@pricingpartners.com
+Email :   kodjo.klouvi@pricingpartners.com                                                     Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …..………IT………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+□ Licence 3
+Master 1ère année
+□ Parcours SR et GL, Recherche
+□                                                                                              MIAGE                                                 13 semaines minimum à partir du 13 mai 2013
+AUTRES FORMATIONS (STAGES NON-OBLIGATOIRES) : …………………………………………………………………
+SUJET DU STAGE :
+Titre du stage proposé : Stage IT en Finance de marché Intégration et Développement logiciel
+Possibilité d’embauche à l’issue du stage
+UNIVERSITE DE RENNES 1                                                                         TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                          FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                       www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Sujet proposé détaillé :
+Rattaché(e)  au  Responsable  de  l’équipe  IT,  vous  participerez  aux  différentes  phases  du
+développement de la librairie de valorisation de produits structurés :
+   Prise de connaissance des différents composants applicatifs existants,
+   Développement des différents modules et composants métiers
+   Phase de tests unitaires et d’intégration
+La librairie couvre plusieurs classes d’actifs actions, taux, change et crédit. Vous bénéficierez
+d’une formation initiale sur le framework.
+Profil recherché :
+Actuellement en dernière année d'Ecole d'ingénieurs ou d'université avec une spécialisation en
+informatique, vous possédez une large culture technique et maîtrisez le C++, C# et le XML. Vous
+êtes passionné par les activités de marché, où vous avez idéalement effectué un précédent stage.
+Le  stage  est  basé  à  Paris.  La  durée  du  stage  est  de  5  mois  minimum  avec  une  possibilité
+d’embauche.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) : 1000                                                                         Nom de l’Etudiant :
+Modalités de versement : virement                                                                          Diplôme :
+Avantages en nature à préciser :tickets restaurant
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition :Pas de limite. Besoin stagiaire Asap.
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                     TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                      FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                   www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

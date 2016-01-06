@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEMENT EN C (ARM CORTEX A9) H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 29/01/2015
+Référence de l’offre : 2015-1602-8720941
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net.
+Description du poste :
+Nous recherchons un stagiaire en développement logiciel pour intégrer notre équipe « System Firmware » au
+sein du centre de R des Clayes-sous-Bois.
+Cette équipe est en charge du développement de logiciels embarqués basés sur processeur ARM.
+Votre mission consiste à faire le portage d'un logiciel existant, nommé AAPL, dans un environnement linux
+embarqué ARM sur une carte électronique développée par Bull/ATOS.
+Cela consiste en:
+1) Prendre connaisssance de l'environnement de développement
+2) Prendre connaissance du logiciel AAPL: code source et documentation
+3) Adapter les couches basses du logiciel AAPL pour interfacer avec des drivers déjà existants
+4) Développer une interface externe basée sur des commandes SNMP pour lancer l'exécution du logiciel et
+récupérer les résultats
+5) Tester le résultat du portage dans un environnement d'exécution
+Profil recherché :
+Bac +4/5 en école d'ingénieur ou cycle universitaire équivalent.
+Compétences requises
+Bonne maîtrise du langages C
+Bonne connaissance de linux embarqué
+Compétences appréciées
+La connaissance de SNMP serait un plus
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8720941
+
+
+
+
+

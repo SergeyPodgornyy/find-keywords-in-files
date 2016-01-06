@@ -1,0 +1,56 @@
+﻿ONE2TEAM RECRUTE UN/UNE STAGE INGÉNIEUR SYSTÈME / DEVOPS EN STAGE DE 6 À 12
+MOIS.
+Date : 13/10/2014
+Référence de l’offre : DEVOPS 2015-7766107
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Neuilly sur Seine 92200, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+One2team, éditeur de solutions Cloud et mobile de gestion de projets, accompagne les grands groupes de
+l'industrie, des services et du high-tech depuis plusieurs années dans la réussite de leurs grands projets.
+Inspiré des meilleures pratiques de développement et fondé sur des technologies de pointe, le logiciel
+One2team apporte une solution innovante à ses utilisateurs en matière de gestion de projets.
+One2team connait une très forte croissance depuis 2001 et compte parmi ses clients les plus grands comptes
+comme ORANGE, SNCF, MONOPRIX, BNP PARIBAS, ...
+Description du poste :
+Vous aurez pour mission de:
+- superviser et garantir le fonctionnement et la disponibilité de nos services ( plus de 100 serveurs) ,
+- automatiser les opérations de déploiement et de mise à jour ,
+- diagnostiquer et intervenir en cas de panne,
+- faire évoluer l'infrastructure en continu en appliquant les principes de l'agilité,
+- sécuriser l'infrastructure et la pérennité des données
+Vous aurez l'occasion de travailler sur des sujets divers :
+- intégration de nouvelles applications web mobile
+- création de robots de déploiements automatisés et d'interface de gestion,
+- déploiement de composants d'infrastructure (bases NoSQL, serveurs MQ, …)
+Dans le cadre de votre activité, vous serez épaulé par une équipe très dynamique de développeurs confirmés,
+qui  travaillent  en  mode  AGILE                                                                                (méthode  SCRUM).  Ils  vous  coacheront  notamment  sur  les  aspects
+d'architecture                                                                                                   (recommandation  de  designs,  arbitrage  technique,  revues  de  code…)  et  d'amélioration   /
+simplification continues de votre code, afin de favoriser un apprentissage rapide et gagner en autonomie.
+Vous travaillerez sur environnement Linux Redhat
+Les principales technos utilisées seront : Puppet, Jenkins, Python, Shell
+Composant d'infra utilisées : Oracle, MongoDB, Exalead, RabbitMQ, ZenOSS
+A la suite du stage une embauche est possible!
+Profil recherché :
+Vous êtes étudiant dans une école d'ingénieurs ou d'un cursus universitaire et vous souhaitez vous épanouir
+au sein d'une équipe dynamique, riche en interactions et en innovations. Votre préoccupation principale est
+de garantir la disponibilité, les performances et la sécurité des infrastructures dont vous êtes responsables.
+Vous aimez construire des systèmes solides, évolutifs et performants manipulant des données riches et
+complexes.
+Vous aimez le développement sous Linux avec une forte envie d'apprendre et d'acquérir rapidement une
+première expérience en scripting (Puppet, Shell...).
+Vous aimez les chalenges ambitieux et vous avez une forte capacité à vous mobiliser activement pour les
+
+
+
+
+faire réussir. Vous êtes rigoureux et soucieux du travail bien fait et êtes exigeant avec vous-même.
+Pour postuler : http://one2team.contactrh.com/jobs/1536/7766107
+
+
+
+
+

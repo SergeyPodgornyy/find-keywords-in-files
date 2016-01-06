@@ -1,0 +1,39 @@
+﻿iXBlue  est  un  groupe  industriel  de                                                                       500  personnes  structuré  autour  d’entreprises  de  haute
+technologie réparties dans le monde. Le Groupe présente une gamme d’équipements et de solutions clé
+en main dans les domaines de la navigation, la surveillance, le positionnement, les communications
+sous-marines, l’imagerie et l’exploration des fonds marins.
+iXBlue connait une croissance de 20% par an et réalise 80% de son chiffre d'affaire à l'international.
+Nous sommes présents sur 7  principaux sites en France et 2 à l'étranger (Boston et Singapour).
+Pour accompagner cette croissance et répondre aux enjeux que présente notre organisation, nous
+recherchons pour notre DSI située à Marly le Roi (78) :
+1 Stagiaire ou Apprenti Développement Logiciel orienté objet (H/F)
+(Référence de poste : M13-STA-SAS)
+Mission :
+Au  sein  du  service  Systèmes  d’Information  et  sous  la  responsabilité  d'un  chef  de  projet,  vous
+contribuerez à la réalisation de l’ensemble d’un projet de développement logiciel ayant pour but de
+piloter l’extraction de données de nos systèmes d’informations et de nos applications métiers.
+A partir du cahier des charges, vous réalisez les spécifications, la conception, le développement, les
+campagnes de test, la mise en production et la rédaction de la documentation.
+Les technologies utilisées seront basées autour du C# (Applicatif et Web), une connaissance SQL
+serait un plus.
+Projet : Réalisation d’une interface « intelligente » d’extraction de données
+-                                                                                                             Rédaction des spécifications à partir du cahier des charges
+-                                                                                                             Rédaction des plans de test
+-                                                                                                             Développements
+o  Réalisation d’une IHM autonome, intuitive et évolutive
+   IHM intuitive en fonction du modèle de données
+o  Réalisation des exports (xml, csv, excel,..)
+-                                                                                                             Déploiement en production
+Profil demandé :
+Etudiant Ingénieur / Ecole supérieur ou diplômé d’une Licence universitaire, vous avez une première
+expérience en développement orientée objet de préférence en C#.
+Bon communiquant à l’oral comme à l’écrit, votre rigueur, votre autonomie, vos aptitudes au travail en
+équipe et votre sens de l’organisation sont essentielles pour mener à bien votre mission.
+Contact :
+Merci d’adresser votre candidature par email au Service Recrutement sous la référence mentionnée ci-
+dessus. Voici l’adresse : ix-recrutement@ixblue.com
+
+
+
+
+

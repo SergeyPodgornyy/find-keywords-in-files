@@ -1,0 +1,44 @@
+﻿Stage  / Analyse Forensique d'Attaques R
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226604 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899524
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Au sein de Cassidian CyberSecurity, vous intégrerez l'équipe en charge de la conception des
+systèmes de défense. Afin d'améliorer la conception des stratégies de sécurité et la sélection des
+solutions techniques, vous analyserez différentes attaques possibles sur les systèmes d'information.
+Vous analyserez ces attaques soit de manière théorique, soit par leur implémentation en laboratoire.
+Pour chacune des attaques analysées, vous étudierez la mise en oeuvre des moyens de détection ou
+de protection pertinents.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- La sélection d'un panel d'attaques représentatives (2 à 4 seront étudiées)
+- L'analyse forensique de ces attaques et la définition des moyens de défense et de détection
+correspondants.
+Le travail réalisé s'intègrera dans la démarche qualité du projet (documentation, process de
+développement, tests).
+PROFIL  :
+Etudiant Bac+5 systèmes, réseaux et la sécurité ainsi que sur Linux Windows
+travaille en équipe et qualités relationnelles.
+Anglais:intermédiaire.
+Français:courant
+
+
+
+
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899524
+
+
+
+
+

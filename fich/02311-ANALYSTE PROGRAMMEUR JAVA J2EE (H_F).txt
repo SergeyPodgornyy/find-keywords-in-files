@@ -1,0 +1,45 @@
+﻿ABASE RECRUTE UN/UNE ANALYSTE PROGRAMMEUR JAVA J2EE (H/F) EN CDI TEMPS PLEIN.
+Date : 16/02/2015
+Référence de l’offre : SBCDIANPR0215-8794860
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Nantes 44000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Présent dans le Grand Ouest, le Sud-Ouest, l'Est, le Nord et Paris, Abase est une SSII bénéficiant de plus de
+20 ans d'expérience. Le groupe Abase recrute des candidats à fort potentiel, qui souhaitent évoluer pour
+devenir de véritables experts dans leur domaine. Au-delà des compétences techniques, nous sommes très
+sensibles aux qualités humaines qui sont les vôtres.
+Être à votre écoute, comprendre le niveau d'accompagnement dont vous avez besoin, pour mieux venir
+renforcer vos équipes : telle est la différence qui fait d'Abase une SSII « infiniment proche » de ses clients et
+collaborateurs.
+Description du poste :
+Dans le cadre de projets réalisés à Nantes, nous recherchons un Analyste Programmeur JAVA J2EE (H/F).
+Au  sein  d'une  équipe  de  développement,  vous  intervenez  sur  des  développements  orientés  Nouvelles
+Technologies et sur des opérations de maintenance évolutive ou corrective.
+Sous la responsabilité du Chef de projet, vous participez à l'analyse des besoins techniques et à la rédaction
+des spécifications techniques. Vous effectuez ensuite les développements, et assurez les phases de tests
+unitaires et de tests d'intégration (définition de la méthodologie de tests, déroulement des tests, vérification de
+la non-regression…), le tout dans le respect des normes pré-établies en terme de qualité et de sécurité. A
+l'issue de ces réalisations, vous réalisez la documentation utilisateur. L'ensemble de ces tâches sont réalisées
+dans un environnement très technique, autours des technologies Java/J2EE et la compréhension de la
+composante fonctionnelle est importante pour évoluer dans le temps sur ce projet.
+Profil recherché :
+De  formation  supérieure  en  informatique                                                                           (bac+3/5),  vous  bénéficiez  d'une  expérience  confirmée,  en
+développement acquise en entreprise.
+Vous êtes expérimenté en développement JAVA J2EE, et vous avez une appétence particulière pour le
+fonctionnel et les aspects métiers de l'entreprise.
+Vous êtes à l'aise sur le plan technique et méthodologique, et êtes habitué à travailler en mode projet. Votre
+bon relationnel vous aidera à intégrer une équipe déjà en place, et vous serez apprécié pour vos aptitudes
+d'organisation, de rigueur et de concentration.
+Vous aimez relever de nouveaux challenges, on vous reconnaît pour votre curiosité et votre autonomie, alors
+rejoignez une équipe dynamique telle que la nôtre en nous adressant votre CV à l'adresse suivante  :
+abase.cv@abase.fr
+Pour postuler : http://apply.multiposting.fr/jobs/1972/8794860
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿Ingénieur  Unix  Débutant  h/f
+Steria
+REFERENCE  :  IP-Deb2013
+POUR  POSTULER  :  offre5110706.1536@steria.contactrh.com sous la référence IP-Deb2013
+TYPE  DE  CONTRAT  :  CDI
+LOCALISATION  :  Meudon La Forêt 92360, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DUREE  :  Indeterminé
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Exploitation / Production)
+SOCIETE  :
+Steria délivre des services qui s’appuient sur les nouvelles technologies et qui permettent aux
+administrations et aux entreprises d’améliorer leur efficacité et leur rentabilité. Grâce à une
+excellente connaissance des activités de ses clients et son expertise des technologies de
+l’information et de l’externalisation des processus métiers de l'entreprise, Steria fait siens les défis
+de ses clients et les aide à développer des solutions innovantes pour y faire face.
+Créé en 1969, Steria est présent en Europe, en Inde, en Afrique du Nord et en Asie du Sud-Est. Le
+Groupe a réalisé un chiffre d’affaires de 1 750 millions d’euros en 2011. Son capital est détenu à
+hauteur de 21% par ses collaborateurs. Steria, dont le siège social est basé à Paris, est coté sur
+Euronext Paris.
+DESCRIPTION  DU  POSTE  :
+Afin de renforcer nos équipes en place, nous recrutons en CDI un Ingénieur de Production Unix
+Débutant (h/f).
+Vous interviendrez sur des projets auprès de nos grands comptes.
+• Intégrer dans les divers environnements les applications.
+• Documentation d'exploitation, mise en production
+• Ordonnancer et planifier les travaux d'exploitation
+• Faire les tests et simulation, validation techniques d'exploitation, sécurité,
+• Coordonner à terme la mise en œuvre de l'infrastructure technique et des produits
+• Mettre en œuvre les applications et paramétrer les outils.
+• Suivre les performances et anticiper les évolutions
+• Réaliser la veille technologique
+PROFIL  :
+Diplômé d’une école d’ingénieur bac+5 ou d’un Master 2 spécialisé, vous êtes débutant et à la
+recherche d'une expérience professionnelle enrichissante ou vous possédez une première expérience
+(alternance ou stages) dans l’informatique système & réseaux.
+Vous connaissez idéalement le scripting (Perl, Shell..) ou encore le Middleware ou JMS
+Vous justifiez impérativement d’un excellent niveau en anglais.
+Rigoureux (se), dynamique, et organisé(e), vous avez le sens du service client et vous appréciez
+travailler en équipe. Votre implication et votre professionnalisme vous permettront de vous
+
+
+
+
+épanouir sur ce poste.
+Vous êtes mobile sur l’Ile-de-France.
+Si cette offre vous intéresse, merci de nous faire parvenir votre candidature (CV et lettre de
+motivation).
+Nos opportunités de carrière sont ouvertes à tous.
+POUR  POSTULER  :  offre5110706.1536@steria.contactrh.com sous la référence IP-Deb2013
+
+
+
+
+

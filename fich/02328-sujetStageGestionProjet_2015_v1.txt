@@ -1,0 +1,44 @@
+﻿Unité/Projet VisAGeS U746 l INSERM/INRIA/CNRS/Université de Rennes I l http://www.irisa.fr/visages
+Sujet   de   stage   -   niveau   licence   3   informatique/gestion
+Développement   d’outils   de   gestion   de   projet   pour   une
+plateforme   de   neuro-­‐imagerie
+Laboratoire   :   Unité/projet   VisAGeS    -­‐   U746,   INSERM/INRIA,   IRISA,   UMR   CNRS    6074,   Université   de
+Rennes1,   Campus   de   Beaulieu,   35042   Rennes   Cx
+Contexte
+La   plateforme   Neurinfo   de   l’Université   Rennes   1   est   une   plateforme   commune   avec   Inria,   le   CHU   de
+Rennes   et   le   CLCC   de   Rennes.   Elle   est   opérée   par   l'Unité   VisAGeS   U746   (INSERM/INRIA),   composante
+de   l'IRISA.   Neurinfo   offre   des   ressources   d’acquisition,   de   gestion   et   de   traitement   d’images   pour   le
+développement     et     la     valorisation     d’activités     de     recherche     clinique,     méthodologique     et
+technologique.   Cette   plateforme   réalise   principalement   des   études   de   neuro-­‐imagerie   et   neuro-­‐
+informatique   dans   le   contexte   des   maladies   du   système   nerveux,   mais   aussi   des   projets   d'imagerie
+sur   d'autres   organes   ou   pathologies   (rachis,   cœur,   système   digestif   ou   vasculaire).     Neurinfo   s’efforce
+d’intégrer    les    projets    de    recherche    clinique    de    l’image    au    patient    et    d’assurer    un    transfert
+technologique    des    méthodes    de    traitement    d’images    vers    la    clinique.    L’équipement    actuel    est
+constitué   d’un   Imageur   par   Résonance   Magnétique    (IRM)    3Tesla   situé   au   CHU   de   Rennes.   Il   est
+exploité   par   une   équipe   technique   dédiée   et   experte   dans   le   domaine   de   la   physique   de   l’IRM   et   du
+traitement    d’images,    en    collaboration    avec    le    personnel    du    service    de    radiologie    du    CHU.    La
+plateforme   Neurinfo   est   ouverte   à   une   large   communauté   d’utilisateurs   médicaux   et   scientifiques,   au
+niveau   régional,   national   et   international.
+La   plateforme   Neurinfo   est   intégrée   à   Biogenouest,   réseau   de   plateformes   technologiques   du   Grand
+Ouest,    visant    notamment    à    la    mutualisation    des    moyens    et    compétences    au    travers    de    ses
+plateformes.
+Objet   du   stage
+Dans   le   cadre   du   suivi   des   projets   menés   à   Neurinfo,   il   nous   est   devenu   nécessaire   de   disposer
+d’outils   de   gestion   efficaces,   ergonomiques   et   le   plus   automatique   possible.   Les   solutions   mises   en
+place   actuellement   pour   la   gestion   du   planning,   la   réalisation   des   relevés   d’activités,   la   génération   de
+statistiques   ou   encore   la   création   de   formulaires   en   ligne   ne   satisfont   que   partiellement   à   ces
+critères.
+L’objectif   du   stage   consistera   à   développer   ou   adapter   les   outils   actuels   de   gestion   de   projet   en   y
+intégrant   de   nouvelles   fonctionnalités   pour   répondre   aux   spécificités   de   la   plateforme   Neurinfo.
+Toutefois,    ces    développements    devront    être                                                                                 suffisamment    génériques    pour    être    facilement
+déployés   sur   d’autres   plateformes   technologiques   de   Biogenouest.
+Compétences   requises : php/mysql/html/css
+Durée   :     environ   2   mois
+Localisation   :   Plateforme   Neurinfo,   Service   de   Radiologie,   Hôpital   Pontchaillou,   CHU   de   Rennes
+Encadrement   :   Isabelle   Corouge   (isabelle.corouge@irisa.fr)
+Sylavin   Prigent   (sylvain.prigent@univ-­‐rennes1.fr)
+
+
+
+
+

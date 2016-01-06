@@ -1,0 +1,51 @@
+﻿Migration d’un système
+d’information d’assurance
+de personnes
+Fondée en 1976, CGI est un fournisseur mondial de s    ervices en
+OFFRE DE STAGE
+technologies de l’information (TI) et en gestion de                                 s processus
+ENTITE : WST
+d’affaires qui offre des services-conseils en manag                                 ement ainsi
+DUREE : 6 MOIS
+que des services d’intégration de systèmes et d’out                                 sourcing.
+LIEU : RENNES
+Avec 69 000 professionnels présents dans 40 pays et                                 répartis
+Contactez ?
+dans 400 bureaux partout dans le monde, nous conjug                                 uons une
+Keiza BARBIN : keiza.barbin@cgi.com
+présence locale à un vaste éventail d’expertises. V     oilà la force
+et Stéphanie LEPEIGNEUL :
+de notre engagement.
+stephanie.lepeigneul@cgi.com
+Offre de stage référence :
+OBJECTIF DU STAGE
+ST/RNS/PORTAGE/01
+Réaliser  une  migration  outillée  du  système  d’information  HUMANIS  de
+DELPHI en .NET FW4.0
+Votre mission consiste   à intégrer l’équipe de développement pour migrer le
+code  applicatif,  garantir  la  qualité  de  la  production  et  participer  aux
+chantiers techniques autour de l’outillage projet. Le projet étant animé par la
+méthodologie  AGILE  Kanban,  vous  participerez  activement  aux  points
+quotidiens.
+Vous  intégrez  une  équipe  de  25  développeurs  expérimentés  dans  les
+locaux de notre agence de Cesson-sévigné.
+MISSIONS
+    Participation aux choix techniques
+    Migration   en   utilisant   les   technologies                                .NET   FW4.0,   FxCop,
+StyleCop, Resharper
+    Environnement de travail Visual Studio 2010
+    Utilisation d’une plate-forme d’intégration continue (TFS)
+    Participation aux correctifs
+PROFIL
+    Dernière année   de cycle d’ingénieur
+    Connaissances de base en développement web et/ou orienté objet
+    Connaissance de base du FrameWork .NET
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi -recrute .fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

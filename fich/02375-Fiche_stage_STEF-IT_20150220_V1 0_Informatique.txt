@@ -1,0 +1,46 @@
+﻿FICHE de Stage
+Poste :                                                                                                                     Stage d’étude                 Actualisation : 20/02/2015
+Rattachement :                                                                                                              Service Gestion commerciale   Nombre de pages : 1
+MISSION GENERALE DU STAGE
+Proposition de stage au sein du service Informatique du Groupe STEF (Anciennement Groupe STEF-
+TFE),  no 1  français  et  européen  de  la  logistique  et  du  transport  de  produits  alimentaires  frais  et
+surgelés (15 000 personnes).
+http://www.stef.com
+Dans le cadre du déploiement de notre Progiciel LOGIFRESH, le stage consiste à participer à la réalisation d’une
+application WEB sur tablette. Le candidat sera intégré dans une équipe d’étude et de réalisation logicielle WEB.
+LOGIFRESH est un outil de pilotage des produits frais (Marée, Fruits et légumes, Fromagerie,..) utilisé par les centrales
+d’achats de la grande distribution : AUCHAN , LECLERC, CORA,….
+FINALITES PRINCIPALES DU POSTE
+1.  Réalisation d’un mini application sur tablette en langage JAVA
+2.  Cette application multilingue permettra à des acheteurs itinérants, en dehors de la centrale d’achat de :
+   Effectuer des achats de produits à des fournisseurs
+   Consulter :
+   les demandes d’approvisionnement positionnées chez le fournisseur
+   les offres du marché,
+   les réservations de produits réalisés chez les fournisseurs,
+   le niveau de stock de produits sur les plates-formes
+3.  Le stagiaire évoluera au sein d’une équipe de réalisation de logiciels en JAVA, en suivant une méthodologie de
+travail et de développement définie dans un kit projet.
+4.  Le stage intègre une formation sur   :
+   L’outil fonctionnel et métier de gestion commerciale (LOGIFRESH)
+   Le kit de projet de réalisation d’applications mobiles
+5.  Environnement technique :
+   Outil de développement JAVA
+6.  Apport pour le stagiaire :
+   Intégration  au  sein  d’une  équipe  de  réalisation  progicielle  (Etude/Développement/Déploiement)  de               15
+personnes
+   Approche des métiers de la grande distribution alimentaire au travers du leader européen du transport et de
+la logistique de produits frais (supply chain).
+   Pratique de méthodes et d’outils chez un éditeur informatique
+COMPLEMENTS
+1. Poste Basé : STEF-IT -  ZA.Atlantheix, Rue Jacques Cartier - 56450 THEIX
+2. Durée : 4 à 6  mois
+2. Profil : MASTER ou Ingénieur Informatique : JAVA parfaitement maîtrisé
+3. Rémunération : Oui (selon le niveau d’études)
+4. Responsable de stage : Sylvie Le Morzadec   - 02.97.48.48.24 - 06.22.09.61.09
+sylvie.le-morzadec@stef.com
+
+
+
+
+

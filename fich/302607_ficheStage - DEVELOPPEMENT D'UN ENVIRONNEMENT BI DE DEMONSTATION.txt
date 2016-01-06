@@ -1,0 +1,110 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : HARDIS Groupe                                                                Adresse : 3 rue G. Marconi
+Domaine d’activité : Services Informatiques                                                        Ville :44800 Saint Herblain
+Représentant de l’entreprise : Hadrien Boyé                                                        N° téléphone :02 51 70 82 12
+Sa qualité : Chef de Projet E-Solutions                                                            N° fax :
+N° de Siret :                                                                                      Site Web : http://www.hardis.fr
+N° NAF :                                                                                           Courriel : hadrien.boye@hardis.fr
+Statut Juridique :                                                                                 Signataire de la convention : Hadrien Boyé
+Effectif de l’établissement : 650 Personnes
+Nom de l’encadrant de stage : Hadrien Boyé                                                         Chargé du suivi administratif : Zein Srour
+Sa qualité : Chef de Projet E-Solutions                                                            Sa qualité : Directeur Agence Ouest
+Service : Pôle E-Solutions                                                                         N° téléphone : 02 51 70 82 12
+N° téléphone : 02 51 70 82 14                                                                      Email : zein.srour@hardis.fr
+Email : hadrien.boye@hardis.fr                                                                     Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : PÖLE Décisionnel
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI
+SUJET DU STAGE :
+Titre du stage proposé : DEVELOPPEMENT D'UN ENVIRONNEMENT BI DE DEMONSTATION
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Technologies mises en œuvre : Merise, SQL, ETL (Talend, Informatica, BO Data Services, MS SSIS,
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+…), outils de restitution (Business Objects, myReport, QlikView, MS SSRS, MS SSAS, …)
+Sujet proposé détaillé :
+L’agence ouest du groupe HARDIS (650 personnes) est spécialisée dans le conseil, l'expertise et la
+mise  en  œuvre  de  projets  de  développement  logiciels,  sur  la  base  des  technologies  WEB  et
+Décisionnel.
+Sujet du Stage
+Vous aurez pour mission de mettre en place une plateforme de démonstration et d’évaluation de
+différents outils de « Business Intelligence ».
+Votre intervention se déclinera selon les phases suivantes :
+1) Définition du besoin
+2) Identifier des jeux de données pouvant être utilisées à titre de démonstration
+3)  Spécifications  détaillées  des  fonctionnalités  à  réaliser                                           (conception  de  la  base,  alimentations,
+restitutions)
+4) Conception et réalisation des différentes fonctionnalités
+5) Installation de l’environnement de démonstration
+6) Documentation de ces éléments pour leur réutilisabilité
+Vous  interagirez  avec  les  responsables  de  pôles  pour  détailler  les  cas  d’utilisation  et  les
+fonctionnalités  attendues.  Vous  serez  assisté  d’un  consultant  décisionnel  pour  l’évaluation  des
+composants et la validation des choix d’architecture. Le projet sera conduit de manière itérative
+(méthodes  agiles  SCRUM).  Vous  appliquerez  les  bonnes  pratiques  d’analyse  et  de  conception
+décisionnelles.
+Objectifs du stage :
+− Produire une ou plusieurs chaînes décisionnelles permettant la démonstration et l’évaluation de
+plusieurs produits de business intelligence
+− Expérimenter le cycle complet d’un projet de développement décisionnel
+− Maîtriser les principaux aspects techniques d’un environnement décisionnel
+Tâches à réaliser :
+− Prise de connaissance du domaine et de l’environnement technique
+− Recueil et analyse des besoins ; spécifications détaillées
+− Définition de l’architecture technique
+− Réalisation et automatisation des tests unitaires
+Modalités du Stage :
+− Formation : Bac +5 - stage de fin d'études
+− Connaissances souhaitées : outils d’alimentations et de restitutions
+− Lieu : Nantes / Durée du stage : 4 à 6 mois
+− Stage rémunéré devant déboucher sur une embauche en CDI
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                               Nom de l’Etudiant :
+Modalités de versement :                                                                                    Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35H
+Date limite de réponse à cette proposition : Janvier 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? OUI
+UNIVERSITE DE RENNES 1                                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1        TÉL : 33 (0)2 23 23 39 00
+ISTIC                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿Stage  /  CYBER  :  Développement  d’un  Mo
+CASSIDIAN  -  An  EADS  Company
+REFERENCE  :  10226799 LB FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5160987
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/03/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION  DU  POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Au sein de l'équipe « Identity and Access Management » (IAM) Cassidian CyberSecurity (CCS),
+nous travaillons sur différents projets de recherche et développement traitant de la gestion des
+identités.
+Le Cyber Security Center (CSC) qui propose ce stage est une entité de CASSIDIAN
+CYBERSECURITY. Elle regroupe des experts pour répondre aux besoins des opérateurs
+d'infrastructures informatiques critiques (gouvernements, entreprises internationales, opérateurs
+d'infrastructures critiques) afin de fournir toute l'expertise et les solutions requises permettant de
+détecter et de répondre aux menaces du cyber espace (accès sécurisés à l'Internet, passerelles,
+infrastructures d'information sécurisées, cryptographie).
+Vous serez intégré à une équipe travaillant sur des projets dans le domaine de l'identité et de la
+sécurisation des données. Vous serez encadré par un ingénieur spécialisé en sécurité.
+Cette offre de stage est à pourvoir à compter du 1er Mars 2014 (sujette à une certaine flexibilité).
+L'objectif du stage réside dans le développement d'un module PHP portant sur des fonctions IAM
+d'interopérabilité entre service web pour un CMS du marché.
+Vous serez intégré à une équipe travaillant sur des projets Recherche et Développement dans ce
+domaine.
+Votre travail consistera en 4 objectifs principaux :
+- Définir les spécifications fonctionnelles et techniques,
+- Développer le module php,
+- Passer des tests,
+- Rédiger la documentation technique.
+
+
+
+
+PROFIL  :
+Etudiant (e) bac+5 en informatique.
+Compétences
+- PHP, javascript, HTML et Java
+- Sécurité
+- CMS Drupal
+- langage SAML
+Travaille en équipe
+Anglais : intermédiaire
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5160987
+
+
+
+
+

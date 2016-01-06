@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE STAGE PLUGIN ECLIPSE POUR SIMULATEUR H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 158258-7724720
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des services informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et
+Infogérance BPO, ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son
+expertise technologique et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie,
+Distribution Services, Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services
+aux Collectivités.
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Ce stage est proposé par le centre de compétences EPI (Enterprise Process Integration) d'ATOS à Toulouse.
+Le pôle EPI est spécialisé dans le domaine de l'échanges de données, au coeur des systèmes d'information des
+entreprises : architectures SOA, Bus d'entreprises (EAI,ESB, ETL), modélisation de process BPM, portails
+d'entreprises (ECM, EIM), ...
+Intégré au sein d'une équipe projet, votre stage sera composé de 2 phases :
+- une phase d'étude : Création d'un plugin éditeur Eclipse « SimulBox »: Il s'agit de créer un plugin Eclipse
+permettant de la création, la modification et la visualisation de fichiers « xml » de définition des services
+simulés. L'éditeur devra mettre à disposition une palette de composants graphiques permettant de définir les
+différents connecteurs qui composent le service simulé.
+- une phase d'immersion projet, pendant laquelle vous contribuerez à la réalisation d'un projet logiciel (en
+phase de développement, de spécification ou de tests)
+SimulBox est un produit AtoS développé en Java permettant la virtualisation de services mis à disposition
+par les différentes applications du Système d'Information. Il permet ainsi de simuler le comportement de
+n'importe quel partenaire.
+Au cours de ce stage, vous aurez l'occasion d'appréhender toutes les phases du cycle de vie d'un projet
+industriel en étant intégré et accompagné au sein d'une équipe projet.
+Environnement : Technologies: Architectures SOA, webmethods, JAVA/J2EE, Eclipse
+Profil recherché :
+De formation bac  +  4/5  (école d'ingénieur ou université) en cours de validation, vous avez une bonne
+connaissance du monde JAVA. Vous êtes dynamique et avez l'esprit d'équipe, rejoignez-nous !
+Ce stage se déroulera à Atos - Département EPI à Toulouse. Minimum 5 mois.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+Pour postuler : http://atos.contactrh.com/jobs/1536/7724720
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿ATOS RECRUTE UN/UNE ETUDE AUTOUR DE WEBRTC (H-F) EN STAGE DE 6 À 9 MOIS.
+Date : 28/10/2014
+Référence de l’offre : 175051-7896718
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Lyon 69000, FR
+Durée du contrat : De 6 à 9 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Mission
+Contexte :
+Ce stage s'inscrit dans le cadre des projets NGIN d'Atos :
+http://fr.atos.net/fr-fr/accueil/votre-business/telecommunications/next-generation-intelligent-networks-ngin.html
+Le stagiaire sera intégré dans une équipe conviviale d'une trentaine d'ingénieurs, centre d'expertise NGIN à
+vocation internationale, largement autonome dans ses choix techniques.
+Mission et objectifs :
+Le stage a pour objectifs de qualifier les caractéristiques de différentes solutions WebRTC du marché, au
+regard  notamment  de  leur  exploitabilité,  leur  performances,  leur  robustesse  et  de  leur  complexité
+d'intégration.
+La ou les architectures retenues pourront être intégrées aux offres NGIN d'Atos.
+Le stagiaire prendra en charge les phases d'étude, de conception, de prototypage et de test. Il sera guidé par
+un maitre de stage et soutenu par les experts de l'équipe.
+Environnement technologique et fonctionnel
+- Développement WebRTC : JavaScript
+- Architecture : JAVA / J2EE / Weblogic / APACHE
+- OS : CENTOS/RHEL/Oracle Linux
+- Virtualisation : VMWare, Virtualbox
+Objectifs pédagogiques
+
+
+
+
+Le stage a deux objectifs pédagogiques principaux :
+1. permettre aux étudiants de comprendre le métier d'un intégrateur système, ses exigences et ses contraintes
+2. former les étudiants aux différentes architectures et technologies mises en œuvre
+Profil recherché :
+Profil
+Profil recherché
+Ce stage nécessite des connaissances réseau et télecom.Ce stage s'adresse à un étudiant souhaitant évoluer
+vers les métiers du développement et de l'intégration.
+Le stagiaire devra faire preuve d'autonomie et de curiosité. Il doit être force de proposition face aux besoins
+exprimés. Le niveau d'autonomie requis et les tâches décrites nécessitent l'intervention d'un étudiant en
+dernière année d'étude.
+Durée du stage
+Stages ou projets de fin d'étude d'une durée de 6 à 9 mois
+Pour postuler : http://atos.contactrh.com/jobs/1536/7896718
+
+
+
+
+

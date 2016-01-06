@@ -1,0 +1,38 @@
+﻿UBIFRANCE RECRUTE UN/UNE INGENIEUR DEVELOPPEMENT .NET EN VIE DE 12 À 24 MOIS.
+Date : 01/02/2015
+Référence de l’offre : 70019-8085786
+Domaine d’activité : Systèmes d'informations / télécom (Chef de Projet / MOE)
+Type de contrat : VIE
+Localisation : TUNIS 00000, TN
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Le Volontariat International en Entreprise (VIE) est régi par la loi n° 2000-242 du 14 mars 2000 relative aux
+volontariats civils. Il s'adresse aux jeunes de nationalité française ou ressortissants des Etats Membres de
+l'Espace Economique Européen âgés de 18 à 28 ans.
+Description du poste :
+La diffusion de cette offre se fait dans le cadre du forum V.I.E qui aura lieu à Paris le 26 novembre 2014.
+Dans ce cadre, merci de ne pas transmettre votre candidature à l'entreprise directement, mais uniquement à
+l'adresse suivante candidat-civi@ubifrance.fr
+ENTREPRISE:
+Editeur  de  logiciels  financiers  dédiés  aux  professionnels  de  la  banque,  de  l'assurance  et  de  l'asset
+management.
+MISSION PROPOSÉE:
+Les taches inhérentes à cette mission dépendront du niveau et des compétences techniques du candidat retenu
+et ne peuvent donc être précisées ici.
+PROFIL RECHERCHE:
+Un Anglais Opérationnel est nécessaire. Une expérience confirmée en .Net (C#, WCF, WPF..)
+Des connaissances solides du langage SQL (T-SQL) et maitrise du développement sur SQL Server.
+Une maîtrise du C++ est fortement souhaitée.
+Profil recherché :
+PROFIL RECHERCHE:
+Un Anglais Opérationnel est nécessaire. Une expérience confirmée en .Net (C#, WCF, WPF..)
+Des connaissances solides du langage SQL (T-SQL) et maitrise du développement sur SQL Server.
+Une maîtrise du C++ est fortement souhaitée.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8085786
+
+
+
+
+

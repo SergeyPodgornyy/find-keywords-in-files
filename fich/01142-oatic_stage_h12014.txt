@@ -1,0 +1,37 @@
+﻿Solution numérique au service
+des apprenants et des enseignants
+Stage Ingénieur
+Integration de solution de e-learning OATIC dans ls écosystèmes mobiles
+Incubateur de Télécom Bretagne - Cesson-Sévigné (35)
+Présentation : OATIC se positionne sur l’introduction des nouvelles technologies numériques dans les
+écoles, le soutien scolaire et la formation professionnelle. Nous proposons une plateforme permettant de
+créer des contenus pédagogiques et d’animer des sessions d’apprentissage alliant présentations multimédia,
+exercices interactifs à réaliser seul ou à plusieurs, activités ludo-pédagogiques, jeux sérieux, etc. Basés sur
+HTML5, les supports de cours sont accessibles dans tous les contextes d’enseignement, aussi bien sur
+supports tactiles que sur ordinateur.
+La startup OATIC, créée en 2013 cherche à renforcer son équipe pour accompagner le développement et le
+déploiement de sa plateforme. Dans cette dynamique, le stage s’ouvre à une réelle perspective d’embauche.
+Mission : L'objectif du  stage  est d'intégrer la solution OATIC dans l’éco-système iOS, windows  8 et
+Androïd pour optimiser l’expérience utilisateur. Dans cet objectif, le stage consistera à   :
+    Analyser les pistes   d’intégration de la solution OATIC dans les différents systèmes pour
+o   permettre à toute application d’accéder aux fonctions de la plateforme
+o   mettre  en  œuvre  une  gestion  connectée                                                                    /  non-connectée  des  ressources  de  la
+plateforme
+o   optimiser  l’intégration  des  technologies  web  et  applications    mobiles  (workflow,
+échange de données, …)
+    Développer des applications mobiles autonomes ou connectées à la plateforme mettant en
+œuvre les mécanismes envisagés
+Profil :  Elève en dernière année de cursus ingénieur (Bac+5 ou équivalent), désireux de s’investir dans un
+projet innovant et de s’immerger dans l’univers d’une start-up en pleine expansion, tout cela dans un
+environnement composé de :
+o   HTML5, Javascript, PHP Cordova (Phonegap)
+o   Linux, Web Services, Mysql
+o   Android (Java, ADT), iOS (Objective-C, X-Code), windows 8
+Période   : 6 mois (démarrage dès que possible)
+Rémunération : Selon profil et convention de stage. Possibilité de CDI à suivre.
+Pour postuler : contact@oatic.fr
+
+
+
+
+

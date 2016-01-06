@@ -1,0 +1,32 @@
+﻿OFFRE DE STAGE
+Stage BAC+4 : Réalisation d'un logiciel d'exploitation pour un
+démonstrateur de guerre électronique (H/F)
+Réf. 1416846
+Lieu : Thales Communications & Security - Cholet (49)
+Durée : env. 4/6 mois
+Contexte et missions :
+Vous  serez  en  charge  de  développer  un  logiciel  d'exploitation  pour  un  démonstrateur  d'un  nouveau  produit  de
+brouillage de communications.
+Dans le cadre de ce stage vous intégrerez une équipe de 2-3 personnes, vous aurez en charge les tâches suivantes :
+- Etude du logiciel d'exploitation existant
+- Participer à la définition du besoin sur le logiciel d'exploitation
+- Analyse de différentes solutions de réalisation (réutilisation de librairie existantes, COST, …)
+- Contribution à la définition des interfaces avec l'équipement
+- Développement du logiciel d'exploitation suivant les axes retenus
+- Intégration et tests du logiciel avec l'équipement
+Profil et connaissances souhaitées :
+Stage Bac+4
+Environnement Windows/Linux, langage C++/Java, Clearcase, Eclipse, Eclipse RCP, SWT
+Indemnité mensuelle brute : 1000                                                                                             €
+Au sein de nos équipes, nous vous offrons :
+    du challenge,
+    des opportunités de carrière,
+    et des technologies innovantes pour rendre le monde plus sûr.
+Le monde mérite un bel avenir.
+Vous aussi.
+Pour postuler : https://www.thalesgroup.com/fr/homepage/carrieres (Réf. 1416846)
+
+
+
+
+

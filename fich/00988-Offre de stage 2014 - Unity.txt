@@ -1,0 +1,27 @@
+﻿Offre De Stage
+SUJET                                                                                       Unity
+http://www.id-apps.fr
+Dans le cadre de ses réalisations et de sa R&D, iD.apps travaille régulièrement avec les
+outils Unity.
+L’objectif de ce stage est de rechercher, étudier et implémenter différentes solutions
+possibles d’intégration d’Unity3D au sein d’une application native (Android, iOS, WP8).
+Ces solutions doivent permettre l’intégration de vues 3D interactives (de type jeu vidéo,
+DESCRIPTION
+réalité augmentée, etc.).
+Le stagiaire aura à développer une ou plusieurs applications cross-plateforme afin de
+valider ses solutions (Plan 3D, Showroom, Serious Gaming...).
+Environnement technique : Unity, iOS, Android, WP8
+4 à 6 mois
+DURÉE
+Démarrage : dès que possible
+En dernière année de cycle d’étude (Bac+5)
+Niveau d’anglais correct
+PROFIL
+Maitrise du développement objet
+Intérêt prononcé pour une les plateformes mobiles
+CONTACT                                                                                     recrutement@id-apps.fr
+
+
+
+
+

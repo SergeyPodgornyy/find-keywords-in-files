@@ -1,0 +1,36 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 - Réalisation d’une application WEB de supervision de
+postes radios PR4G (H/F)
+(réf. 1314384)
+Durée : 6 mois                                                                                                        Localisation : Thales Communications & Security - 110 Avenue du Maréchal Leclerc
+49300 CHOLET
+Contexte
+Ce stage se situe dans le cadre du laboratoire de produits applicatifs radio, au sein de l'équipe préparation
+de mission des opérationnels (militaires) sur le terrain.
+Missions
+Son objectif principal sera de permettre l’administration d’un poste radio grâce à un client WEB. De plus, il
+est  primordial  de  rationnaliser  les  efforts  de  développements  pour  que  l’architecture WEB  puisse  être
+réutilisée dans une architecture plus conventionnelle (à base d’un client lourd).
+L’architecture existante est constituée :
+• D’un logiciel sur une carte embarquée (arm), fournissant les données à l’IHM WEB (via des WebSockets),
+• D’une IHM WEB s’appuyant sur les technologies HTML5.
+Vos missions principales seront :
+•  D’identifier  les  ressources  informatiques  nécessaires  à  la  réalisation  du  déploiement  de  la  solution
+(consomation mémoire, cpu, energie …),
+• D’intégrer l’IHM dans un client lourd en s’appuyant sur une vue HTML5 et en surchargent localement la
+feuille de style,
+• D’enrichir le logiciel embarqué pour remplir le rôle de proxy,
+• D’analyser les solutions de sécurisation de l’interface entre l’application WEB et le logiciel embarqué.
+Profil des candidats: BAC+5 - Connaissances souhaitées : Technologie WEB : HTML5, CSS, Javascript,
+WebSocket, C++
+Indemnité mensuelle brute : 1200                                                                                      €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : mireille.seme@thalesgroup.com
+1
+
+
+
+
+

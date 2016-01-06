@@ -1,0 +1,48 @@
+﻿CS COMMUNICATION ET SYSTEMES RECRUTE UN/UNE SERVEUR DE VÉRIFICATION D'UN
+POSTE H/F EN STAGE DE 3 À 6 MOIS.
+Date : 15/12/2014
+Référence de l’offre : SEC/LPR/N°20-8330536
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Le Plessis Robinson 92350, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Dans le cadre de son offre de produits de sécurité des systèmes d'information (authentification, signature
+électronique, chiffrement, …), CS cherche un stagiaire intégré à l'équipe de R pour réaliser un serveur de
+vérification de la configuration du poste client dans le cadre du déploiement de la solution de signature
+personnelle TrustySign Applet.
+Les principales missions du stage sont :
+- Etudier le fonctionnement d'une application existante réalisée en Java FX et des différents environnements
+de déploiement possibles
+- Prendre connaissance de l'environnement métier du système (génération et vérification de signatures)
+- Rédiger une spécification et une conception pour la réalisation d'un serveur web permettant de vérifier la
+configuration du poste client et de déployer l'application TrustySign Applet compatible.
+- Réaliser les développements (réalisation, tests unitaires, validation)
+Durée du stage : 6 mois
+Profil recherché :
+Ingénieur  de  formation  ou  équivalent  universitaire                                                            (Bac+4/5),  en  informatique,  vous  justifiez  des
+compétences techniques suivantes :
+- langages de développement Java J2EE, HTML, JavaScript
+- frameworks Java FX
+- Environnement Windows Linux
+- Navigateurs : Internet Explorer, Firefox et Chrome
+- dans l'idéal, des notions de sécurité (certificats x509, formats de signature CMS, XML-DSIG, PAdES,
+XAdES)
+Compétences linguistiques: Anglais technique (lu et écrit)
+Merci d'adresser votre candidature (CV + Lettre de motivation) à Gariné KELIJIAN par mail à l'adresse
+suivante : recrutement@c-s.fr , en précisant la référence SEC/LPR/N°20.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8330536
+
+
+
+
+

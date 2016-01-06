@@ -1,0 +1,52 @@
+﻿Stage n°10 du LCE
+Sujet : Simulation conjointe de la température et de la fiabilité dans
+un système embarqué.
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser l’innovation dans le domaine des systèmes embarqués.
+Le  stage  proposé  s’inscrit  dans  le  thème  de  la  conception  des  systèmes  sur  puce  complexes
+(multiprocesseur) sur des technologies silicium avancées. Pour ces technologies, la fiabilité globale du
+système devient un problème majeur ; les paramètres électriques des transistors tendent à dévier de
+leur valeur initiale au cours du temps à cause de phénomènes physiques internes. Une déviation
+extrême  de  ces  paramètres  conduira  inévitablement  à  la  panne  du  système.  Pour  éviter  cette
+situation, la dégradation des paramètres doit être surveillée et compensée au cours du temps. Ainsi, il
+devient nécessaire de disposer d’une plateforme virtuelle permettant de vérifier la fonctionnalité du
+système et d’estimer des paramètres tels que  la consommation énergétique,  la température et la
+fiabilité du système dès les premiers cycles de développement. Ces estimations permettront ensuite la
+mise en place d’actions correctrices visant à éviter ces dérives extrêmes.
+L’objectif  du  stage  est  le  développement  d’une  infrastructure  logicielle  qui  devra  permettre  la
+simulation conjointe de la température et de la fiabilité dans une plateforme multiprocesseur virtuelle.
+En  effet,  la  présence  d’un  point  chaud  ou  d’un  gradient  de  température  peut  induire  une  forte
+diminution de la fiabilité du système. Cette infrastructure devra fournir des estimations de température
+et de fiabilité pendant la simulation et des rapports d’analyse en fin de simulation. Le travail débutera
+par une analyse de la physique des défaillances. Ensuite, le candidat prendra en main la plateforme
+virtuelle et les outils d’estimation de température et de fiabilité. Enfin, il devra réaliser la spécification
+et l’implémentation du logiciel permettant de coupler les outils à la plateforme et la mise en place
+d’une démonstration.
+Niveau demandé : Diplôme ingénieur (BAC+5)
+Durée : 6 mois
+Compétences : C/C++/SystemC, Shell (linux), architectures numériques, gestion de projets
+(Gantt, risques, etc.)
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                              : Olivier Héron
+Téléphone                                                                                                        : 01.69.08.68.89
+Email                                                                                                            : olivier.heron@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                       Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                   Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                         Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

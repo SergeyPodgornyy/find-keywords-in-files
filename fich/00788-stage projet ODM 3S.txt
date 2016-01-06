@@ -1,0 +1,55 @@
+﻿Stagiaire Projet Zéro Papier :
+Conception et Développement de
+l’application mobile « ODM 3S »
+ENTREPRISE
+Néo-Soft est un groupe d’ingénierie informatique spécialisé en                                          3  domaines principaux : R&D,
+Systèmes d’information et l’infrastructure. Créée il y a 8 ans, nous comptons aujourd'hui plus de 600
+collaborateurs au niveau national.
+POSTE
+Le plan « zéro-papier » s’inscrit dans une démarche RSE d’envergure au sein du groupe Néo-Soft. Ce
+plan se décline en plusieurs actions, et notamment la réalisation d’une application de gestion et de
+validation des flux administratifs, nommée « ODM-3S ». Cette application devra être compatible avec
+les standards de mobilité et d’accessibilité Web. Elle devra également réduire le temps de traitement
+des flux administratifs courant (ordres de mission, astreintes, déplacements, notes de frais…)
+Le stage couvrira toutes les phases d’un projet de développement : spécifications, conception,
+codage, tests unitaires, intégration, recette technique et fonctionnelle, documentation et formation.
+En fonction de l’avancement et de la qualité des livrables, un ou plusieurs modules complémentaires
+pourront être ajouté(s) au planning.
+Missions confiées
+Le cadrage du besoin avec les utilisateurs
+La spécification fonctionnelle (workflows, profils utilisateurs, droits, maquettage…), en
+coordination avec la MOA,
+La définition de l’architecture technique et la conception
+Le développement de l’application suivant nos règles de codage et l’utilisation de notre forge
+logicielle (intégration continue), les tests unitaires
+L’homologation technique, les tests de sécurité pour l’accès aux données
+Le support à la recette fonctionnelle (réalisée par la MOA)
+La rédaction de la documentation : spécifications, conception, maintenance, plans de tests,
+fiches d’exploitation, manuel utilisateur
+La construction du chronogramme de la MEP (Mise En Production) pour l’outil
+La réalisation de la MEP
+Le support technique post-MEP, en coordination avec l’AMOA
+Pour toutes ces missions, vous bénéficierez des expertises techniques et du support de la Software
+Factory, qui validera les livrables à chacune des étapes ci-dessus.
+Compétences mises en œuvre
+Mobilité, Android, iOS, HTML5, SGBD
+Signature électronique, sécurité de l’accès aux données
+Forge logicielle, outils d’intégration continue
+Capacité d’adaptation, prise de recul, autonomie, rigueur
+Capacité de travail en groupe, tout en portant la responsabilité de son projet
+
+
+
+
+La connaissance de l’outil de GED Alfresco est un plus
+PROFIL
+Ce stage est destiné à un étudiant bac+5 à la  recherche d’un stage de fin d’études à partir de mars
+ou avril 2014 pour une durée de 6 mois.
+Pour postuler, merci d’adresser un CV et une lettre de motivation à :
+stagerennes@neo-soft.fr
+NEO-SOFT, DIFFERENT PARCE QUE VOUS L’ETES.
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE STAGE DE DEVELOPPEMENT EN BIG DATA(H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 176223-7895226
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres aux nouvelles technologies afin de satisfaire la demande
+croissante de solutions.
+Description du poste :
+Dans le cadre de nos projets, nous sommes amenés à développer des solutions Big Data pour nos clients, en
+utilisant les solutions du marché. Il s'agit de solutions complexes et performantes permettant de traiter la
+masse d'information produite en continue par les différents systèmes et de réussir à en extraire la valeur.
+Ntic  : JEE, Spring MVC, AngularJS, JQuery, WebServices), des solutions Big Data, et de l'outillage
+professionnel (conception UML, gestion de configuration SVN, …).
+Le stagiaire est accompagné par des spécialistes en matière d'implémentation de solution Big Data et pourra
+découvrir et mettre en pratique des compétences clés sur un métier de pointe .
+De formation Bac+4-5 en informatique  (Ecole d'ingénieur ou Université) en cours de validation, vous
+recherchez un stage d'une durée de 6 mois (dates variables selon l'école et la formation en cours).
+Profil recherché :
+Encadré par une équipe spécialisée dans les solutions SBA (Search Based Application), vous aurez en charge
+la réalisation d'un framework permettant l'implémentation rapide de ces solutions. Basé sur des solutions du
+marché (Sinequa, SolR, ElasticSearch, …) vous réaliserez des composants de text mining facilitant l'analyse
+sémantique.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7895226
+
+
+
+
+

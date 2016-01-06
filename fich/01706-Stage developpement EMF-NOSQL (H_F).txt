@@ -1,0 +1,57 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT EMF-NOSQL (H/F) EN STAGE 6 MOIS.
+Date : 22/10/2014
+Référence de l’offre : 174843-7835235
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Intégré à nos équipes projets et pour le compte de nos plus grands clients du secteur des Services, de
+l'Industrie,  du  Secteur  Public,  de  l'Automobile,  des  Telecom  ou  de  la  Finance,  vous  participez  à  la
+conception, au développement et à la mise en production des applications dans des domaines variés.
+Contexte :
+EMF (Eclipse Modeling Framework) est une technologie largement utilisée pour la définition de modèles et
+métamodèles dans l'ingénierie logicielle et système. EMF propose de base un stockage des modèles au
+format XMI et XML, pour une utilisation plus massive des modèles des moyens de stockage Base de
+Données ont été développés.
+En parallèle au développement d'EMF un nouveau type de base de données est apparu : les bases NOSQL
+(Not Only SQL) telles que Mongo DB, Cassandra, Neo4J. Ces bases spécialisées selon les données à
+manipuler (clé/valeurs, documents, graphes) sont réputées pour leurs vitesses et leurs options de scalabilité.
+Mission :
+L'objectif de ce stage est d'étudier et mettre en place les solutions opensource existantes permettant d'utiliser
+les bases de données NOSQL avec EMF.
+Objectifs pédagogiques :
+Le stagiaire aura la possibilité de découvrir le développement Eclipse/OSGi, les bases NOSQL ainsi que
+l'ingénierie des modèles.
+Environnement technologique et fonctionnel :
+Le stagiaire intégrera l'équipe Innovation ECS Atos Toulouse et pourra compter sur l'aide d'experts et
+commiters Eclipse dans la réalisation de son travail.
+Profil recherché :
+Profil
+De formation Bac + 5 avec une culture informatique de génie logiciel, une connaissance de Java et des bases
+de données. Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage, ou, si
+
+
+
+
+vous le désirez, dans toute autre région dans laquelle Atos recrute. Vous êtes motivé(e) et rigoureux (se),
+aimez travailler en équipe et souhaitez-vous investir sur un projet. Rejoignez-nous !
+Localisation : Toulouse - St Martin du Touch
+Pour postuler : http://atos.contactrh.com/jobs/1536/7835235
+
+
+
+
+

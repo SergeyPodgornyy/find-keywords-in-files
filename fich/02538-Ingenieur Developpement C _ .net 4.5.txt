@@ -1,0 +1,44 @@
+﻿SIDETRADE RECRUTE UN/UNE INGÉNIEUR DÉVELOPPEMENT C # .NET 4.5 EN STAGE 6 MOIS.
+Date : 20/05/2015
+Référence de l’offre : dev .net-9759388
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Boulogne Billancourt 92100, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Sidetrade offre aux entreprises de digitaliser la gestion de la relation financière client. Ses solutions, leaders
+sur le marché, complémentaires à l'ERP, visent à sécuriser le principal actif de l'entreprise-le poste client- par
+la baisse des retards de paiement et la maîtrise du risque.
+Avec des clients dans 65 pays, le groupe permet à plus de 80,000 utilisateurs d'entreprises de toute taille dans
+toutes les industries de collaborer à travers son Cloud et d'accélérer la génération de cash-flow.
+Société cotée à Paris, également présente à Londres, Dublin et Amsterdam, Sidetrade couvre tous les métiers
+d'un éditeur de logiciel en mode SaaS dédié aux services financiers.
+Notre objectif repose sur la conquête de nouveaux marchés dans la mobilité, le big data et le risque client.
+Description du poste :
+Rattaché au Responsable Développement, vous participez à la conception et au développement de notre
+logiciel en mode SaaS.
+Vous aurez à:
+*analyser les besoins du projet en amont avec les programmes managers
+*concevoir des éléments logiciels (applications, composants ou sites web basés sur asp.net et Javascript) en
+C# avec le Framework .NET 4.5
+*assurer la maintenance corrective et évolutive des fonctions existantes
+*garantir la bonne validation de vos développements avec nos ingénieurs test
+Profil recherché :
+De formation supérieure, type Ecole d'Ingénieur ou équivalent, vous recherchez un stage de fin d'études.
+Vous bénéficiez d'une première expérience dans le développement logiciel sur la plateforme Microsoft.net
+(C#, Asp.net, Ajax, MVC, IIS, Linq, Entity Framework, Création de composants, Telerik).
+Vous avez également une bonne connaissance des technologies Web (HTLM, XML, CSS, Javascript).
+Des  compétences  sur  les  bases  de  données  relationnelles  Oracle                                               (maintenance/requêtes  SQL/PL-SQL)
+seraient fortement appréciées.
+Passionné(e)  par  le  développement  logiciel,  vous  êtes  capable  d'assimiler  rapidement  des  nouvelles
+technologies, nouvelles méthodes de développement.
+Vous aimez le travail en équipe et avez un bon relationnel.
+Vous avez un niveau d'anglais technique.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9759388
+
+
+
+
+

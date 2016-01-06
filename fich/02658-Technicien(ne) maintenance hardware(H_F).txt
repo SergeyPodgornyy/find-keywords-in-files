@@ -1,0 +1,66 @@
+﻿ATOS RECRUTE UN/UNE TECHNICIEN(NE) MAINTENANCE HARDWARE(H/F) EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 188961-10977441
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 11 milliards d'euros et 93 000 collaborateurs dans 72 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance et de BPO, de Big Data et de
+Cyber-sécurité, d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader
+européen et un acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa
+connaissance sectorielle pointue, Atos sert des clients dans différents secteurs : Défense, Services financiers,
+Santé, Industrie, Médias, Services aux collectivités, secteur Public, Distribution, Télécoms et Transports.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Atos
+Consulting, Atos Worldgrid, Bull, Canopy, Worldline.
+Pour plus d'informations : atos.net
+Description du poste :
+1er objectif : se familiariser avec cet environnement HPC
+2eme objectif : au fur et à mesure de son apprentissage, l'apprenti(e) intègrera le support hardware HPC/Big
+Data sur un site client et participera activement à la résolution des problèmes hardware sur le site client.
+Missions : Poste Support HPC Hardware
+Description de la mission
+- Assurer le support hardware sur site client
+- Participer aux installations hardwares
+- Participer au traitement des escalades des clients vers le support des fournisseurs
+- Rédiger les documentations associées à l'exploitation des systèmes
+
+
+
+
+- Proposer des solutions de contournement
+Profil recherché :
+BTS, IUT ou école d'ingénieur
+Langues : Anglais
+Compétences requises et à acquérir durant l'apprentissage:
+- Connaissance du fonctionnement de base d'un ordinateur
+- Connaissances de base sur le fonctionnement des matériels : commutateurs réseaux, serveurs X86, baies de
+disques
+- Connaissance des systèmes de fichiers simples
+- Connaissance des OS Linux, plus particulièrement RedHat
+- Connaissance des réseaux Ethernet et IB
+- Capacité d'analyse et de debug
+- Compréhension des protocoles réseaux standards : Ethernet
+Compétences appréciées:
+- Engagement et passion
+- Goût pour les nouvelles technologies
+- Capacité d'analyse et de debug
+- Sens du service
+- Ténacité
+- Analyse et synthèse
+- Autonomie
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10977441
+
+
+
+
+

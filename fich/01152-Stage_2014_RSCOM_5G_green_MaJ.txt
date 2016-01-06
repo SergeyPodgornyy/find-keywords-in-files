@@ -1,0 +1,50 @@
+﻿Réf : Bcom/2014-                                                                                       Rennes, le 6 Janvier 2014,
+006
+Objet :                                                                                                Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                       Technologique  b<>com  dans  le  domaine  Infrastructure  et  Réseaux
+(EER)
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur      3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                            Dimensionnement et optimisation énergétique pour les futurs systèmes radio de
+stage                                                                                                  5ème génération (5G)
+Descriptif de la mission :
+Le stage porte sur l’intégration de diverses techniques de traitement du signal sur les systèmes
+radio de futures générations, dits 5G, et sur l’évaluation de leur impact sur la consommation
+énergétique. L’objectif de ce stage est double : rechercher et valider des métriques clés du réseau,
+qui  répondront  à  l’optimisation  énergétique  des  systèmes  et  développer  des  algorithmes  de
+traitement du signal avancé permettant d’accroitre les débits de transmission de plus en plus
+importants.
+Etape 1 :
+-                                                                                                      Identifier les organes du réseau pouvant fortement impacter sur la consommation
+énergétique d’un système 5G (synthèse sur l’état de l’art des méthodes existantes).
+Etape 2 :
+-                                                                                                      Intégrer et évaluer des briques de traitement du signal dans une chaîne de communications
+numériques afin de valider des tables de qualité de lien radio.
+Etape 3 :
+Proposer et évaluer des éco-métriques qui rentrent dans l’objectif de réduction de la consommation
+du réseau.
+Profil recherché :                                                                                     Stage  de  fin  d’étude  BAC+5  école  d’ingénieur                                               (ou  MASTER2)  avec
+                                                                                                       connaissance en communications numériques et traitement du signal
+                                                                                                       Traitement du signal, systèmes radio fixe et mobile, programmation en langage C/C++ et matlab,
+architecture réseau, esprit critique et innovant
+Intérêt   pour   le                                                                                    Le  stagiaire  sera  intégré  à  une  équipe  multidisciplinaire                                 (chercheurs,
+stagiaire                                                                                              doctorants, ingénieurs, développeurs, designers, …) au sein du tout nouvel
+Institut de Recherche Technologique b<>com afin de développer les réseaux
+du futur.
+Modalités                                                                                              Durée : 6 mois
+Date de démarrage : Mars 2014
+Localisation : Rennes
+Date de fin de dépôt des candidatures : 31/01/2014
+Candidature  à  envoyer  à :  job@b-com.com  avec  la  référence  du  stage
+avec copie rodolphe.legouable@b-com.com et jean.dion@b-com.com
+b<>com                                                                                                 140106
+
+
+
+
+

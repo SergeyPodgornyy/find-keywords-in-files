@@ -1,0 +1,49 @@
+﻿Stage  / Etude et Développement de Plugi
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226606 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899101
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Conseil (Conseil en Système d'Information - Organisation)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Cassidian CyberSecurity a mis en place une solution de gestion de la sécurité des réseaux
+informatiques. Le logiciel développé dispose de capacités de communication afin de récupérer des
+informations sur l'état de sécurité de systèmes d'information et d'offrir des services permettant de
+gérer les incidents de sécurité. Afin d'améliorer la réactivité de l'équipe support, de diminuer les
+interventions sur site, un outil a été développé pour récupérer les configurations terrain et les
+anonymiser avant les investigations plate-forme.
+Le but de ce stage est de proposer de nouvelles capacités de support pour cet outil en concevant des
+plugins permettant de collecter d'autres types de données et de les anonymiser.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple les missions suivantes :
+- Prendre connaissance de notre application et plus particulièrement des notions d'intégrations,
+- Prendre connaissance de l'outil de collecte de données,
+- Spécifier des plugins à ajouter,
+- Présenter une architecture cohérente avec l'outil de collecte existant,
+- Développer des plugins,
+- Intégrer des plugins en conditions réelles.
+Le travail réalisé s'intègrera dans la démarche qualité du projet (documentation, process de
+développement, tests).
+PROFIL  :
+BAC+5
+
+
+
+
+bonne culture sur les systèmes, réseaux et la sécurité ainsi que sur Linux Windows
+travaille en équipe, qualités relationnelles
+Anglais:intermédiaire
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899101
+
+
+
+
+

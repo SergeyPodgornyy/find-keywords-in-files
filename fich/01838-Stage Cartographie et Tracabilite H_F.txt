@@ -1,0 +1,47 @@
+﻿ATOS RECRUTE UN/UNE STAGE CARTOGRAPHIE ET TRAÇABILITÉ H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 176468-8027183
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Nous vous proposons d'intégrer une équipe en charge de la conception, de la maintenance et de l'évolution
+des systèmes d'information chez un de nos clients.
+Un des rôles de cette équipe est de cartographier le système d'applications :
+- Détailler l'analyse d'impacts dans le cadre d'évolutions
+- Appuyer le chiffrage des travaux
+- Capitaliser les connaissances fonctionnelles et techniques
+Le stage consiste à travailler sur le référentiel de cartographie, notamment sur :
+- L'enrichissement des modèles (cartes) en fonctions des travaux de corrections/évolutions
+- La prise en compte dans le référentiel des documents utilisés par l'équipe
+- L'étude d'une méthode d'analyse d'impacts basée sur le référentiel de cartographie
+- L' étude sur les modélisations à mettre en œuvre dans le cadre de la cartographie métier
+- La réalisation d'une cartographie à partir des documents existants sur le projet
+- L'analyse des modèles et de la cohérence métier
+Profil recherché :
+De formation minimum Bac+5 en cours de validation, vous recherchez un stage de fin d'études d'une durée
+de 6 mois.
+Vous êtes en capacité d'analyser un grand nombre d'informations issues de sources diverses, d'abstraire votre
+raisonnement au niveau modèle.
+Vous avez une fibre fonctionnelle parallèlement aux aspects techniques.
+Vous avez une aisance rédactionnelle en français.
+Vous êtes méthodique, force de proposition face aux problématiques que vous rencontrez et êtes intéressé(e)
+par l'architecture logicielle.
+Stage de pré-embauche envisageable.
+Pour postuler : http://atos.contactrh.com/jobs/1536/8027183
+
+
+
+
+

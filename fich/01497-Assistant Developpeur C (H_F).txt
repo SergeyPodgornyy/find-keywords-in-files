@@ -1,0 +1,36 @@
+﻿SMALL IZ BEAUTIFUL RECRUTE UN/UNE ASSISTANT DÉVELOPPEUR C (H/F) EN STAGE DE 6
+À 12 MOIS.
+Date : 01/09/2014
+Référence de l’offre : stage eulerian-7382670
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75020, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +2
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Eulerian Technologies est une société française, éditrice de solutions décisionnelles destinées aux sites
+d'e-commerce.
+Leader français de l'analyse et de l'optimisation temps-réel des opérations emarketing, la société accompagne
+au jour le jour les équipes des plus grands sites marchands comme Voyages SNCF, Sarenza, Go Voyages,
+Fnac, Canal+, Les Créateurs de Beauté, Rue du Commerce…
+Eulerian Technologies dispose d'une infrastructure technique avancée multi-centre, full-bgp exploitant 450
+machines de production.
+Cette PME beautiful recherche :
+un stagiaire pour une mission de développement C (H/F)
+Description du poste :
+Mission :
+Vous travaillerez dans une petite équipe de trois développeurs C à la réalisation d'une nouvelle base de
+donnée temps-réel share-nothing orientée data-mining.
+Vous tenterez d'exploiter au maximum les capacités de linux et du multi-core.
+Profil recherché :
+Passionné, rigoureux, maitrise de linux (debian), excellente maitrise du C et de l'algorithmique.
+Outil : VIM, GCC/Clang, Cmake, GDB, Valgrind, CVStrac, Egroupware.
+Environnement : Linux Debian 64, pthreads, epoll, tcp/sockets.
+Secteur : Web-Analytics.
+Pour postuler : http://smalliz.contactrh.com/jobs/1536/7382670
+
+
+
+
+

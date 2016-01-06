@@ -1,0 +1,39 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : OCS-VM : étude et mise en place d’une solution de remontée des VM via OCS
+   Lieu : Mayenne                                                                              Durée : 2 à 4 mois
+   Formation : Bac + 3 minimum                                                                 Date : 2014
+   Référence : DDT-2                                                                           Rémunération : stage indemnisé
+Sujet : Vous participerez :
+   A l’étude d’une solution permettant une remontée la plus exhaustive possible
+des indicateurs matériels et logiciels des VM par le produit OCS ;
+   A la rédaction des spécifications techniques ;
+   Au développement de cette solution qui sera déployée sur nos 1300 VM ;
+   A l’ajout d’indicateurs optionnels tels que la notion de Virtual CPU ;
+   Votre objectif sera de corriger les remontées actuelles qui sont partielles ou
+erronées en développant un agent efficace multiplateformes ;
+   Vous développerez sur des environnements protégés de pré-production.
+Ce stage vous permettra d’intégrer une équipe constituée de client (interne Jouve), ingénieur
+en développement, tuteur et chef de projet, ainsi que des testeurs. Vous participerez à la
+gestion du projet et développerez vos acquis en système, PHP et MYSQL en environnement
+
+
+
+
+Linux.
+Environnement :
+   LAMP
+Vous    serez    intégré    dans    l’équipe
+infogérance.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_DDT2@jouve.gestmail.com
+
+
+
+
+

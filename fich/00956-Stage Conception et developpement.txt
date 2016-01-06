@@ -1,0 +1,65 @@
+﻿Stage  Conception  et  développement
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC93122
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5313506
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Mars
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Les environnements de travail sont classiques pour ce type de solutions : un socle gros système en
+DB2/COBOL et une IHM intranet en JAVA/J2EE.
+Sous la responsabilité de votre tuteur, vous avez  pour mission de :
+- Concevoir formellement la solution technique répondant à un besoin donné,
+- Développer la solution,
+- Valider que les développements réalisés fonctionnent correctement,
+- Traiter les éventuels retours des émetteurs du besoin et apporter les correctifs.
+vous travaillez au sein de l'équipe projet en charge de développer la solution avec les autres
+développeurs. Des sujets permettant une meilleure réponse au besoin du projet seront confiés au
+stagiaire avec une autonomie grandissante au fur et à mesure du stage.
+Apport du stage
+Ce stage vous permettra :
+1. De valider une première expérience sur un projet de grande envergure et dans un grand groupe,
+tout en ayant des expériences précises de conception et développement de solutions ;
+2. De découvrir les méthodes et les techniques à mettre en œuvre pour permettre l'utilisation d'un
+système unique par plusieurs banques ;
+3. De découvrir la réponse informatique apportée pour vendre et gérer un produit bancaire ;
+4. De découvrir toutes les interactions entre un système orienté produit et le reste du système
+d'information de la banque.
+
+
+
+
+Votre profil
+Vous êtes étudiant(e) de niveau bac+4/5 en école de commerce, d’ingénieur ou université avec une
+spécialisation en système d'information.
+Vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec JAVA.
+Vous bénéficiez idéalement des connaissances en HTML et/ou Javascript, DB2 / COBOL est un
+plus.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+4/5 en système d'information.
+Vous êtes à l’aise avec JAVA et HTML et/ou Javascript, DB2 / COBOL est un plus.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5313506
+
+
+
+
+

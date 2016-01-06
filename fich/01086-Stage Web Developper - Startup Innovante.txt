@@ -1,0 +1,61 @@
+﻿PARIS  INCUBATEURS  RECRUTE  UN/UNE  STAGE  WEB  DEVELOPPER  ­
+STARTUP  INNOVANTE  EN  STAGE  DE  4  À  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  STDEV0114­5577559
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  75018,  FR
+Durée  du  contrat    :  De  4  à  6  mois
+Niveau  d’études    :  Bac  +3
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Paris  Incubateurs  recrute  pour  l'une  de  ses  entreprises,  PageYourself,  un  Web  Developper
+en  stage.
+On  fait  quoi  chez  PageYourself  ?
+Chez  PageYourself,  on  a  inventé  un  nouveau  standard  de  sites  entièrement  intégré  à
+Facebook  :  le  f­Site.  Le  f­Site  est  composé  d'applications,  et  l'on  peut  le  designer  soi­
+même  à  l'aide  d'un  éditeur  HTML5  en  glisser  déposer,  fait  maison.  Le  f­Site,  c'est  l'avenir
+du  site  web,  et  la  révolution  est  déjà  en  marche  avec  plus  de  10  000  clients:  artistes,  bars,
+mannequins,  marques…  qui  viennent  de  France,  des  Etats  Unis,  de  Thaïlande,  du
+Brésil…
+Pourquoi  nous  rejoindre  ?
+Une  grosse  boîte,  c'est  bien,  mais  tu  es  noyé  dans  la  masse.  Chez  PageYourself,  c'est  tout
+le  contraire,  tu  bosses  sur  un  projet  vraiment  innovant,  tu  es  amenés  à  toucher  à  tout,  les
+responsabilités  sont  réelles  et  l'impact  de  ton  travail  sur  les  dizaines  de  milliers
+d'utilisateurs  est  immédiat.  Nous  sommes  dans  un  incubateur  parisien  avec  beaucoup
+d'autres  startups  dans  un  environnement  sympas  et  relax.  Ça  te  dit  ?  Envoie  ton  CV  à
+hi@pageyourself.com  et  prenons  un  café  pour  en  discuter.
+Description  du  poste    :
+TA  MISSION  SI  TU  L'ACCEPTES…
+*                                                                                                                Améliorer  le  framework  et  le  backoffice  de  PageYourself
+*                                                                                                                Concevoir  et  coder  de  nouvelles  fonctionnalités  et  applications  sur  notre
+backoffice
+*                                                                                                                Améliorer  l'éditeur  visuel  HTML5  et  le  moteur  de  création  d'applis
+*                                                                                                                Coder  en  étroite  liaison  avec  les  API  Instagram,  Youtube,  Facebook…
+*                                                                                                                Travailler  sur  plein  d'autres  projets  cools
+NOS  TECHNOS
+
+
+
+
+Tu  seras  amené(e)  à  travailler,  appréhender  et  apprendre  des  technologies  solides  comme:
+PHP,  HTML5,  CSS3,  Bootstrap,  AngularJS,  Ajax/Jquery,  AWS,  SVN  &  Git
+QUELQUES  DETAILS
+*                                                                                                     Contrat:  Stage
+*                                                                                                     Durée:  4­6  mois
+*                                                                                                     Début:  Asap
+*                                                                                                     Lieu  :  Paris  75018
+*                                                                                                     Convention  de  stage  obligatoire
+Profil  recherché    :
+TON  PROFIL
+*                                                                                                     Sympas  et  esprit  start­up
+*                                                                                                     Force  de  travail  et  rigoureux
+*                                                                                                     Force  de  proposition
+*                                                                                                     Apprend  vite,  et  a  envie  d'apprendre
+Pour  postuler    :  http://parisincub.contactrh.com/jobs/1536/5577559
+
+
+
+
+

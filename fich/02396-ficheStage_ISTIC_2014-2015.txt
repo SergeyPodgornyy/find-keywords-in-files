@@ -1,0 +1,131 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : AGROCAMPUS-OUEST                                                                        Adresse : 65 rue de Saint Brieuc
+Domaine d’activité : École d'Ingénieur                                                                        Ville : Rennes
+Représentant de l’entreprise :                                                                                N° téléphone :
+Sa qualité :                                                                                                  N° fax :
+N° de Siret :                                                                                                 Site Web :
+N° NAF :                                                                                                      Courriel :
+Statut Juridique :                                                                                            Signataire de la convention :
+Effectif de l’établissement :
+                                                                                                              Nom de l’encadrant de stage :      Thomas Guyet   Chargé du suivi administratif :
+                                                                                                              Sa qualité :    Maître de conférences             Sa qualité :
+                                                                                                              Service :    Laboratoire d'Informatique           N° téléphone :
+N° téléphone :                                                                                                02 99 84 75 94                                    Email :
+                                                                                                              Email :    thomas.guyet@irisa.fr /                Fax :
+thomas.guyet@agrocampus-ouest.fr
+Fax :
+Nom du service dans lequel le stage sera effectué : Équipe de recherche IRISA/DREAM………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise):   …Laboratoire IRISA / Campus de Beaulieu.
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+X Licence 3                                                                                                   13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+X Parcours SR et GL, Recherche                                                                                8 semaines minimum à partir du 13 mai 2015
+X MIAGE                                                                                                       13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                                            du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                                               du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                                               du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                                          du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                                            du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                                        du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                                            du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                                        En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                                        16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                       En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                                        entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                         entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                                      entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé :…Intégration d'outil pour l'analyse de paysages agricoles……….
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Les technologies qui seront utilisées comprennent : C++, python, CMake, svn/git/forge, Qt (interfaces
+graphiques). Matériel standard.
+Le  stage  offrira  l'opportunité  à  l'étudiant  de  découvrir  le  domaine  de  l'analyse  de  l'information
+spatiales                                                                                                               (librairies  GDAL,  GEOS,  logiciels  SIG),  de  la  cartographie  numérique,  de  la  création
+d'interface graphique (intégration de plugin Qt sous QGis). Le stage offre également l'opportunité de
+découvrir les domaines de recherche de la fouille de données (fouille de graphes) et une initiation à la
+programmation logique.
+Sujet proposé détaillé :
+L'objectif de ce stage est d'intégrer un ensemble d'outils développés pour l'analyse et la simulation de paysages
+agricoles.
+La modélisation et la simulation de paysages réalistes est devenu un domaine de recherche important dans les
+domaines de l'écologie ou de l'agronomie [1] pour comprendre et anticiper les relations entre les activités humaines,
+les structures des paysages et les problématiques environnementales. L'objectif de ces travaux est de fournir des
+outils aux agronomes pour générer des paysages « numériques » et « réalistes ».
+Figure 2: Illustration d'un parcellaire agricole                                                                        Figure 1: Graphe représentant le parcellaire de la Figure 1
+Nous nous intéressons à des paysages « numériques », c'est-à-dire à des représentations numériques des paysages
+qui servent à réaliser des simulations numériques de processus agro-écologiques. Dans notre contexte, un
+« paysage » s'entend comme une mosaïque de parcelles en 2D, incluant la configuration (géométrie des parcelles,
+exploitations agricoles), la couverture du sol (prairie, blé, maïs, …).
+UNIVERSITE DE RENNES 1                                                                                                  TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                   FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+L'approche menée dans l'équipe DREAM consiste à représenter le paysage par un graphe de parcelles agricoles
+dans lequel les nœuds sont les parcelles agricoles et les arcs sont expriment des relations entre les parcelles
+(relations de proximité, d'adjacence, d'appartenance à une même exploitation, etc.). Les nœuds et les arcs sont de
+plus caractérisés par des informations quantitatives caractéristiques d'une parcelles (sa surface, son inclinaison, etc.)
+et des arcs (la distance entre parcelle, etc.).
+Un ensemble d'outils ont été développés depuis plusieurs années pour manipuler et traiter les graphes. Les méthodes
+déjà existantes comprennent des outils de génération de graphes à partir de parcellaires, des outils d'analyse de
+graphes (fouille de sous-graphes fréquents), des outils de simulation de graphes et une intégration partielle dans le
+logiciel QGis. L'objectif de ce stage est d'intégrer ces différentes solutions pour constituer un outil finalisé à destination
+d'utilisateurs finaux.
+Le travail demandé dans le cadre de se stage recouvre :
+-   la proposition d'un format de fichier pour la représentation des graphes de parcellaires,
+-   la conception unifiée, mais modulaire de l'ensemble des outils,
+-   l'intégration de ces différents outils,
+-   l'amélioration des méthodes (en limitant les réimplémentations),
+-   l'intégration des outils dans QGis (logiciel de visualisation de l'information spatiale).
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : ~480                                                                                               €/mois                      Nom de l’Etudiant :
+Modalités de versement :                                                                                                                                     Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                                           TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                            FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                         www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

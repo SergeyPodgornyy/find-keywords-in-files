@@ -1,0 +1,35 @@
+﻿Stage - Développement d’un moteur de recherche Java
+Société de conseil en technologies de plus de 4 200 personnes, SII est structurée autour d'un réseau d'agences à taille
+humaine. Depuis plus de 30 ans, notre réussite est fondée sur une culture d'entreprise forte et des valeurs reposant
+sur la proximité et la confiance.
+L'agence de Rennes, située au cœur de la technopole Rennes-Atalante, compte déjà plus de 480 collaborateurs et
+prévoit de recruter plus de 50 personnes sur 2013 sur les secteurs des télécoms, de l'industrie et des services.
+Contexte du stage :
+Intégré au sein d'une équipe projet Scrum, vous aurez en charge la réalisation d'un POC  (Proof Of Concepts) de
+rapprochement entre des promotions et des produits identifiés par leurs codes-barres (EAN13).
+Le stage se déroulera en plusieurs étapes :
+- Recherche de bases de codes EAN13 exploitables.
+- Élaboration des algorithmes de rapprochement.
+- Si le POC est concluant, intégration de la solution au sein d'un Moteur de recherche existant.
+- Développement d’une IHM d’utilisation de la fonctionnalité en AngularJS.
+Technologies mises en oeuvre :
+Java,  AngularJS,  Elastic Search,  Cassandra,  Test Unitaires,  OSGi, Guice...
+Formation souhaitée :
+Ecole d’Ingénieurs ou Master 2 en informatique.
+Profil souhaité :
+Nous recherchons un stagiaire avec une bonne capacité d'analyse technique dans le domaine des technologies Web et
+des bases de données. Curieux, autonome, force de proposition et passionné, vous évoluerez dans un contexte très
+technique au sein de l’équipe projet.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en fonction des exigences de
+votre école.
+Si vous souhaitez répondre à cette offre, merci de nous adresser votre candidature à : drh-ouest@sii.fr
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees"  2013/2014 pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                                                1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite préalable de SII.   Usage interne SII
+
+
+
+
+

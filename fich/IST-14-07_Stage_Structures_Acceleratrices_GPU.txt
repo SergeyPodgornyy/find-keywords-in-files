@@ -1,0 +1,59 @@
+﻿Proposition de Stage                                                                                     18/10/13
+Construction et parcours de structures accélératrices  3D en OpenCL
+Intitulé du stage :
+(GPGPU) - réf. FORFAITS IST-14-07
+Durée :                                                                                                  6 mois                     Date de début :  Mars 2014   Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech Technologies - Agence de Rennes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Ce stage s’inscrit dans le cadre d’un projet de R&D d’une durée de 2 ans visant à développer une
+librairie de lancer de rayon en OpenCL qui sera commercialisée au terme du développement.
+La technique de lancer de rayon est utilisée dans des applications de rendu photo réaliste mais
+également   dans   des   modèles   physiques   de   propagations   d’ondes                               (électromagnétiques   ou
+acoustiques par exemple) ou de propagation de particules (issus d’une explosion par exemple).
+L’image synthétique ci-dessous est obtenue par lancer de rayon appliqué sur une scène 3D :
+OpenCL est le standard actuel définissant l’API permettant de développer des applications parallèles
+pouvant s’exécuter sur des architectures matérielles hybrides composées de processeurs classiques
+(CPU) ou des accélérateurs matériels tels que les GPU. Ce standard est mis au point par le Khronos
+Group :   http://www.khronos.org/opencl/
+Objectif général :
+Dans le cadre de la librairie de lancer de rayons GPU développée par ALYOTECH, des structures
+accélératrices sont utilisées pour indexer spatialement les primitives d’une scène 3D. La construction
+de ces structures est coûteuse, et devient critique dans le cas de la gestion de scène dynamiques en
+temps réel.
+
+
+
+
+Proposition de Stage                                                                                    18/10/13
+Le but du stage est de développer un module de construction de structures accélératrices sur GPU,
+en utilisant le langage OpenCL. Les structures accélératrices « classiques » seront visées : kd-tree,
+BVH, S-BVH, etc.
+Les principaux objectifs du stage sont :
+L’étude des publications et implémentations existantes
+L’étude du portage sur GPU d’algorithmes CPU connus
+L’étude de solutions hybrides CPU/GPU
+L’étude et le développement des algorithmes de parcours des structures construites
+En fonction de l’avancement des travaux au démarrage du stage, le déroulement du stage pourra être
+légèrement adapté.
+Le stagiaire sera et intégré à l’équipe projet mise en place par ALYOTECH, constituée d’un chef de
+projets et d’un ingénieur de développement.
+Profil recherché :
+Niveau de formation du stagiaire : Bac + 5 (Ecole d’ingénieur)
+Compétences   techniques :   programmation   informatique                                               (C++,C),   des   connaissances   en
+programmation GPU seraient appréciables.
+Une connaissance des techniques de rendu ou de simulation par lancer de rayon serait également un
+plus.
+Autres :
+Autonomie, méthodologie, esprit d’initiative
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                             02.23.21.11.11                        Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

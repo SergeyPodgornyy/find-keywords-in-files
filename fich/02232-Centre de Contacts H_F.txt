@@ -1,0 +1,38 @@
+﻿CAPGEMINI RECRUTE UN/UNE CENTRE DE CONTACTS H/F EN STAGE DE 5 À 6 MOIS.
+Date : 15/01/2015
+Référence de l’offre : ST-TM-3942-8597185
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                   Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                  2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Stage Centre de Contacts
+Afin de développer cette activité, Capgemini souhaite mettre en place, dans le cadre du Lab'Innovation de
+Capgemini, une démonstration de son savoir-faire.
+Capgemini souhaite développer une interface Web de paramétrage permettant de piloter la distribution des
+contacts multimédia (voix, email, chat, réseaux sociaux…).
+Cette interface sera à développer soit comme une application web indépendante ou soit comme un plug in
+Java d'une application existante (GAX de Genesys).
+Encadré au jour le jour par un ingénieur expérimenté, le stagiaire participera à toutes les phases de la mise en
+place du Lab'Innovation (spécifications, réalisation, intégration).
+Sa mission portera en particulier sur :
+* La mise en œuvre des technologies .Net et Java/J2EE
+* Le développement d'un ensemble cohérent d'éléments de ces interfaces graphiques,
+* La rédaction de la documentation associée.
+Profil recherché :
+bac +5
+Technologies: Centre de contacts, Web 2.0, Genesys, Web Services, .Net, Java, AJAX, Jetty, JSF, Hibernate
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8597185
+
+
+
+
+

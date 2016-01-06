@@ -1,0 +1,51 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEMENT WEB - WABEL EN STAGE 6 MOIS.
+Date : 31/10/2014
+Référence de l’offre : Wabel-7927148
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION, AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU LIEN:
+http://ajstage.com/offre/Developpement-Web-chez-Wabel-1
+Wabel  est  une  solution  de  sourcing  permettant  à  la  Grande  Distribution  européenne  de  collaborer
+efficacement avec les milliers de PME Européennes fabricant des produits à marque distributeur.
+Wabel s'appuie sur deux piliers :
+- Une plateforme Internet (www.wabel.com) composée d'un moteur de recherche ultra performant permettant
+aux distributeurs d'identifier et de collaborer avec des milliers de fabricants et importateur européens
+- Des rencontres d'affaires thématiques (Wabel Business Meetings) structurées autour de carnets de RV de
+20mn chacun entre fabricants et distributeurs européens.
+En étroite collaboration avec le CTO de l'entreprise, vous serez amené à effectuer les missions suivantes :
+- Assurer le développement de nouvelles fonctionnalités du site en PHP5/Drupal 7
+- C'est un projet passionnant et vous apprendrez beaucoup. Vous travaillerez en binôme sous la direction du
+CTO.
+- S'assurer continuellement que le bug tracking system (mantis) reste vide
+- Assurer régulièrement la mise à jour des documents de spécifications techniques
+Profil recherché :
+Cette offre est également ouverte aux contrats d'alternance.
+- Vous avez une très bonne connaissance du développement PHP5 et des standards du Web (HTML, CSS,
+Jquery, MySQL)
+- Vous êtes polyvalent, rigoureux, vous aimez prendre plus des initiatives et vous savez que l'esprit start-up
+est fait pour vous
+- Vous communiquez bien avec vos tous les membres de l'équipe lors de vos travaux en groupe
+Compétences techniques requises:
+- Environnement LAMP
+- PHP5, programmation OO, MySQL
+
+
+
+
+- Maitriser HTML/CSS3 et Javascript, Jquery
+- Drupal 7
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7927148
+
+
+
+
+

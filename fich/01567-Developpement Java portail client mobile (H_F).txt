@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEMENT JAVA PORTAIL CLIENT MOBILE (H/F) EN STAGE 6
+MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175200-7737022
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : France 95870, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres aux nouvelles technologies afin de satisfaire la demande
+croissante de solutions.
+Description du poste :
+L'objectif du projet WebCare est de développer les fonctions classiques qu'un opérateur de téléphonie mobile
+offre via son portail web (gestion d'espaces Boutique en Ligne, Client, Téléconseiller).
+Atos est responsable de la réalisation du Front Office client, en intégrant la solution Liferay.
+JEE, Spring, MVC, JSP, JQuery, WebServices , UML, configuration SVN, tests.
+De formation Bac+4/5 en informatique en cours de validation, vous recherchez un stage d'une durée de 6
+mois
+Profil recherché :
+Le projet suit ensuite un cycle de développement classique : la rédaction de spécifications fonctionnelles, la
+conception, qui devra orienter les choix techniques, le développement, les tests, l'intégration technique, la
+rédaction  de  documents  utilisateurs.  Quelques  activités  spécifiques  sont  réalisées  par  Atos,  comme,
+l'intégration de maquettes graphiques fournies par un prestataire externe.
+Selon les besoins de l'équipe, vous pourra aussi être amené (e) à améliorer l'outillage mis en place sur le
+projet (aide aux tests, par exemple).
+Pour postuler : http://atos.contactrh.com/jobs/1536/7737022
+
+
+
+
+

@@ -1,0 +1,60 @@
+﻿ATOS RECRUTE UN/UNE STAGE SIGNATURE ÉLECTRONIQUE(H/F) EN STAGE DE 4 À 6 MOIS.
+Date : 28/04/2015
+Référence de l’offre : 182741-9537940
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid. Pour plus d'information : atos.net
+Description du poste :
+Le  sujet  du  stage  est  la  réalisation  d'une  application  Web  permettant  à  ses  utilisateurs  de  signer
+électroniquement tout type de document dans des formats de signatures adéquats. Les fonctionnalités de
+l'application sont d'une part l'enrôlement des utilisateurs en tant que signataires, et d'autre part la réalisation
+des signatures électroniques.
+Le stage s'inscrit dans le contexte du processus de dématérialisation de documents, qui sont ensuite signés
+électroniquement et archivés.
+Profil recherché :
+Bac+5,  école  d'ingénieur  ou  cycle  universitaire  équivalent,  avec  une  spécialisation  en  développement
+logiciel.
+Compétences techniques
+Des  compétences  dans  le  développement  logiciel  en  langage  Java,  PHP  et  technologies  J2EE  sur
+environnement Linux sont nécessaires. Des compétences dans le domaine de la sécurité seraient un plus
+apprécié.
+Compétences transverses :
+- Rigueur
+- Esprit de synthèse
+- Autonomie
+- Esprit d'équipe
+Les objectifs du stage consistent à développer une application embarquant les fonctionnalités suivantes :
+* Création d'une interface permettant à un utilisateur de s'enrôler auprès du serveur de signature. Cette
+interface se connectera d'une part sur le serveur de signature MetaSIGN-Server  (via des appels à des
+opérations de Web Service) et sur la PKI MetaPKI pour obtenir un certificat  (via l'interface Java de
+programmation)
+* Création d'une interface permettant à l'utilisateur (enrôlé en tant que signataire) de faire des demandes de
+signature et de vérification de signature auprès du serveur de signature MetaSIGN-Server (via des appels à
+des opérations de Web Service)
+* Création du service d'administration permettant de définir les types de signature électronique autorisés, les
+
+
+
+
+droits d'accès aux différents services.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9537940
+
+
+
+
+

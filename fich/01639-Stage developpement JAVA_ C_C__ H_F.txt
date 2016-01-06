@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉVELOPPEMENT JAVA, C/C++ H/F EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 174928-7767201
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Il s'agit dans un premier temps de modéliser le problème, puis évaluer les possibilités et performances de
+logiciels type solveurs de contraintes (tels que Gecode, Choco, eclipseclp, …) pour déterminer les séquences
+d'exécution de code qui satisfont au mieux les contraintes temporelles et de bande-passante. L'utilisation de
+ces outils passe par une phase préalable de modélisation du problème et des contraintes dans le langage de
+l'outil de type prédicat.
+Dans  un  second  temps,  le  candidat  devra  assurer  l'intégration  du  solveur  de  contraintes  dans  un
+environnement représentatif d'une utilisation projet.
+Environnement technologique et fonctionnel :
+Java, C/C++, Shell (Python serait un plus), programmation par contraintes.
+Profil recherché :
+De formation Bac+5 en informatique en cours de validation, vous recherchez un stage d'une durée de 5 mois
+minimum à partir de novembre 2014 (dates variables selon l'école), en alternance ou à temps complet. Une
+première connaissance des langages Java, C ainsi qu'une initiation aux techniques de programmation par
+contraintes est bienvenue.
+Vous êtes motivé(e) et rigoureux(se), aimez travailler en équipe et souhaitez vous investir sur un projet.
+Rejoignez-nous !
+Localisation : Toulouse - St Martin du Touch
+Pour postuler : http://atos.contactrh.com/jobs/1536/7767201
+
+
+
+
+

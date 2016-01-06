@@ -1,0 +1,62 @@
+﻿Proposition de stage
+Développement Back-end / Front-end
+Diplôme : Bac+5                                                                                       Période : Mars 2015
+Rémunéré : Oui                                                                                        Durée : ~ 6 mois
+Malkyrs est une startup en devenir dans le domaine des jeux (société et vidéo), actuellement en
+incubation au sein de Normandie Incubation. Malkyrs a l’ambition de créer les premiers jeux de
+carte à jouer et à collectionner en 4D, créant ainsi un pont entre le jeu virtuel et réel. Forts de
+notre croissance rapide et accompagné par différentes structures de soutien Caennaise (CCI,
+Normandie  Incubation,  Vitamean,  Synergia),  nous  sommes  aujourd’hui  à  la  recherche  de
+collaborateurs en vue de contribuer au développement de notre projet.
+Mission
+Le  stage  évoqué  porte  sur  une  contribution  à  la  plate-forme  de  jeu  Malkyrs  et  plus
+particulièrement sur la Back-End avec quelques missions sur le Front-End.
+•  Étude des besoins coté Back-End (gestion des bases de cartes, des comptes joueurs,
+serveur de jeu, .etc)
+•  Étude des besoins coté Front-End (site web, plateforme communautaire, e-commerce,
+espace personnel du joueur .etc)
+•  Modélisation des architectures Back-End et Front-End.
+•  Étude  des  technologies  à  utiliser  pour  l'ensemble  des  implémentations                      (Php,  J2E,
+NodeJs, .etc) et de leur intégration.
+•  Une étude de l'architecture matérielle peut être nécessaire.
+•  Définissions des priorités d'implémentation en fonction de la RoadMap Malkyrs.
+•  Implémentation des différents services.
+
+
+
+
+Profil
+De formation Ingénieur/Master Informatique ou formation similaire avec un intérêt particulier ou
+une spécialisation dans le domaine des technologies web  (Nodejs, Python, Php, etc.), vous
+souhaitez  vous investir dans une  jeune  équipe où tout  est à  créer.  Vous être  curieux des
+nouvelles technologies avec un intérêt particulier pour le monde des jeux vidéos.
+Vous êtes souple quant à la plate-forme de développement (notre backend étant sous Linux et
+les applications étant “platform agnostic” : GNU/Linux, Android, Windows, etc.). En outre, vous
+possédez une bonne connaissance des langages et méthodes courants dans le génie logiciel et
+particulièrement le domaine de la POO. Vous êtes ouvert aux bonnes pratiques du génie logiciel
+(design  pattern  et  code  styles) et  êtes familier  d’un gestionnaire  de codes sources  (git  de
+préférence)  ainsi  que  des  outils  de  qualités  logiciels                                             (bug  tracker,  tests  unitaires).  Des
+connaissances en Linux et J2EE seraient appréciées.
+Vous  devez  être  capable  de  faire  preuve  d’autonomie,  d’initiatives  et  de créativité  quant  à
+l’élaboration d’une nouvelle solution. En outre, vous devrez savoir faire preuve de pédagogie
+afin  de  permettre  la  transmission  de  vos  acquis.  La  maîtrise  de  l’anglais  technique  est
+impérative.
+Environnement
+Vous  serez  encadré  par  l’un  des  membres  fondateur  du  projet  Malkyrs  avec  un  parcours
+technique.
+Vous aurez fréquemment l’occasion de travailler en collaboration avec les trois autres membres
+de l’équipe composée d’un développeur et deux auteurs/game designers. Des interactions avec
+le laboratoire (GREYC) avec lequel nous travaillons sont à prévoir sur des aspects sécurité.
+Par ailleurs, vous allez avoir l’opportunité de travailler avec un autre stagiaire de niveau
+technicien supérieur que vous pourrez encadrer afin de vous aider dans vos implémentations.
+Ce sera ainsi l’occasion pour vous de mettre en pratique vos compétences en management.
+Lieu : Normandie Incubation - 17r Claude Bloch, 14076 Caen
+Contact :
+Patrick LALLEMAND
+Mél : contact@malkyrs.com
+Tél : 06.71.38.71.31
+
+
+
+
+

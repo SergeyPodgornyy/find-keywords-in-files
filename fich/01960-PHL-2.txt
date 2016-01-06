@@ -1,0 +1,39 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : MOBILES-FACT : développement IHM d’une application d’analyse de factures
+de la flotte Mobile de l’entreprise
+   Lieu : Rennes                                                                               Durée : 2 à 4 mois
+   Formation : Bac + 2/3                                                                       Date : 2014-2015
+   Référence : PHL-2                                                                           Rémunération : stage indemnisé
+Sujet : Vous participerez :
+A la continuité d’un projet initié courant de l’été 2013.
+  Votre objectif sera de reprendre en partie ou totalité la solution logicielle existante de
+manière à répondre aux besoins suivants :
+-   Diffuser  via  email,  à  chaque  possesseur  de  mobile  du  groupe  Jouve,  sa
+facture individuelle au format PDF
+Mettre à jour une base de données avec l’historique des consommations
+-   D’alerter  par  email  le(s)  gestionnaire(s)  de  la  flotte  mobile  d’une  facture
+« anormale »   (montant dépassant un seuil défini au préalable)
+De vérifier le bon positionnement des options et forfaits
+
+
+
+
+Un cahier des charges sera fourni en début de projet
+  Vous  devrez  rédiger  les  différents  guides  de  la  solution   (guide  administrateur,
+manuel d’exploitation)
+Environnement :
+   LAMP
+   PDF
+Vous    serez    intégré    dans    l’équipe
+Communications Unifiées.
+
+
+
+
+

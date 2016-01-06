@@ -1,0 +1,46 @@
+﻿Lieu du stage : Lanester (56)                                                                        Secteur d’activité : R&D (Informatique)
+Durée du stage : 6 mois en 2015                                                                      Profil recherché : Informatique
+PRESENTATION DE L’ENTREPRISE
+SEGULA Technologies est l’un des principaux groupes d’ingénierie et de conseil en
+innovation. Nos prestations couvrent toutes les étapes du cycle de vie des produits et process,
+et s’adressent à l’ensemble des secteurs d’activités Industriels                                     : automobile,  véhicules
+industriels, aéronautique, naval, ferroviaire, industrie et énergie. D’origine  française, SEGULA
+Technologies est implanté partout dans le monde en 19 pays sur 4 continents : Afrique, Asie,
+continent américain, avec une présence massivement concentrée  en France et en Europe. Le
+groupe compte actuellement 6800 collaborateurs.
+DESCRIPTIF DE POSTE
+Le sujet s’inscrit dans le cadre d’une recherche en cours sur l'introduction de critères
+ergonomiques dans une démarche de génération automatique d'interfaces de supervision.
+Dans un premier temps il s’agira d’assimiler les informations relatives aux outils et méthodes
+existantes, ainsi que sur les premiers travaux mise en place. Une fois cette première phase
+faite, il s’agira d’aller dans la continuité de ces travaux et compléter la bibliothèque graphique
+à travers des représentations écologiques. Ensuite en ce basant sur les concepts de l’ingénierie
+dirigées par les modèles, proposer une solution de génération automatiques des interfaces
+écologiques  ainsi  qu’un  protocole  expérimental  pour  la  validée.  Il  conviendra  enfin
+d’implémenter la solution sous Eclipse et de la tester conformément au protocole établi.
+Résumé de la démarche envisagée :
+   Appropriation des travaux précédents.
+   Etat de l’art sur les méthodes et outils existants.
+   Réalisation des éléments graphiques conformément aux principes des interfaces
+écologiques.
+   Proposition d’une solution de génération automatique des interfaces écologiques.
+   Définition du protocole expérimental
+   Implémentation de la solution
+   Expérimentation de la solution
+PROFIL :
+De formation bac +5 en informatique, vous êtes à la recherche d’un stage. Vous avez de solides
+compétences  en  génie  logiciel                                                                     (IDM)  et  développement  informatique  (Java,  ATL),  des
+connaissances en supervision industriel serai un plus. Vos qualités relationnelles, associées à
+votre sérieux et à votre motivation seront un atout indispensable pour évoluer pendant le
+stage. Face à une grande diversité de sujets, nous vous offrons la possibilité d’intégrer un
+environnement de travail valorisant, au sein d’une équipe dynamique.
+CONTACT :
+Merci de nous faire parvenir votre candidature (lettre de motivation, CV) sous la référence
+SEC_LA_05   à l’adresse suivante : djamal.kesraoui@segula.fr
+Copyright © SEGULA Technologies - Tous droits réservés - 2014-2015
+Page 1
+
+
+
+
+

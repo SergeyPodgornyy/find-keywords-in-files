@@ -1,0 +1,51 @@
+﻿Développeur H/F
+Small iz beautiful
+REFERENCE  :  OVH - Dév
+POUR POSTULER  :  http://smalliz.contactrh.com/jobs/1536/4901947
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Roubaix 59100, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Dès que possible
+DUREE  :  plus de 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+OVH.com c’est 4 Univers : Web, Dédié, Cloud et Télécom.
+OVH.com accompagne ses clients au travers de ces 4 univers en leur proposant des produits et
+solutions adaptés sur des technologies innovantes.
+1er de l’hébergement de sites internet en Europe et 3e mondial (source Netcraft novembre 2012),
+avec pas moins de 150 000 serveurs hébergés au sein de 13 datacentres, OVH.com est une référence
+dans le secteur IT.
+Fondée en 1999, la société compte aujourd’hui plus de 600 salariés avec une présence internationale
+dans une quinzaine de filiales et 7 établissements en France (Roubaix, Lille, Gravelines, Paris,
+Strasbourg, Brest et Lyon).
+DESCRIPTION DU POSTE  :
+Vous souhaitez vous spécialiser sur les noms de domaine, le bigdata, le cloud, l’hébergement
+mutualisé, les infrastructures dédiées ou encore la VOIP… Alors venez effectuer votre stage de fin
+d’études chez nous.
+Au sein de l’une de nos équipes , vous développez des solutions et applications innovantes destinées
+à l'interne et à l'externe. Vous travaillez en partenariat avec les sysadmins, les chefs de produit, les
+devops... Vous êtes fortement impliqué et autonome dans vos missions.
+Vos missions :
+- Piloter vos projets de développement (élaboration, lancement, suivi)
+- Effectuer les tests de validation et accompagner le support post-démarrage
+- Assurer une veille technologique constante
+- Participer aux projets de R&D
+Compétences requises:
+- Bonne connaissance de l'environnement GNU/Linux/Unix
+- Maîtrise d'un ou plusieurs de ces langages : Perl, Python, C, C++, Ruby, Erlang, PHP
+- Maîtrise de l'anglais technique
+
+
+
+
+PROFIL  :
+De formation Bac+4/5 -École d'ingénieur / formation universitaire en informatique, vous êtes
+polyvalent, autonome, curieux. Vous faites preuve d'initiative, avez l'esprit d'équipe.
+POUR POSTULER  :  http://smalliz.contactrh.com/jobs/1536/4901947
+
+
+
+
+

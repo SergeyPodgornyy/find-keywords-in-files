@@ -1,0 +1,66 @@
+﻿ATOS RECRUTE UN/UNE INGÉNIEUR SÉCURITÉ INFRASTRUCTURES (H/F) EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 26/08/2015
+Référence de l’offre : 191713-10977489
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 11 milliards d'euros et 93 000 collaborateurs dans 72 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance et de BPO, de Big Data et de
+Cyber-sécurité, d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader
+européen et un acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa
+connaissance sectorielle pointue, Atos sert des clients dans différents secteurs : Défense, Services financiers,
+Santé, Industrie, Médias, Services aux collectivités, secteur Public, Distribution, Télécoms et Transports.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Atos
+Consulting, Atos Worldgrid, Bull, Canopy, Worldline.
+Pour plus d'informations : atos.net
+Description du poste :
+La mission comprend les items suivants:
+- Définir des architectures techniques sécurisées pour des réponses commerciales
+- Intervenir lors des phases de spécifications projet
+- Gestion de solutions: définir et exécuter le plan de tests, analyser les défauts, les contourner ou les faire
+corriger. Déploiement des solutions
+- Supporter les administrateurs des solutions dans le cadre de la cellule de support
+- Intervenir chez nos clients sur des projets de sécurisation d'infrastructures
+Profil recherché :
+Diplômé(e) d'un BAC+4/5, école d'ingénieur ou cycle universitaire équivalent.
+Diplômé(e) d'un BAC+4/5, école d'ingénieur ou cycle universitaire équivalent.
+Compétences techniques de base :
+- Réseau TCP/IP, routage, VPN
+- Système Windows/Linux
+- Architecture de sécurité réseau
+- Sécurisation de poste de travail/PDA
+- Microsoft AD (Active Directory) PKI
+
+
+
+
+Compétences techniques spécifiques :
+- Firewall (CheckPoint, Palo Alto, Fortinet, Stormshield ...)
+- Proxy Web messagerie (Mc Afee, IronPort, Sophos, ...)
+- Produits d'analyse de contenu et de filtrage
+- Produits de détection d'intrusion et de vulnérabilité
+- Infrastructure de qualité de service, de haute disponibilité / répartition de charge (F5, RadWare, Alteon)
+- Protection des postes (Symantec, Sophos)
+- Sécurité des accès (IAM/SSO).
+Anglais opérationnel requis
+Vos aptitudes :
+- Goût du service, souplesse d'adaptation (environnement technique relationnel),
+- Sens de l'engagement et du résultat,
+- Goût du travail en équipe,
+- Aptitudes relationnelles et qualités d'écoute.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10977489
+
+
+
+
+

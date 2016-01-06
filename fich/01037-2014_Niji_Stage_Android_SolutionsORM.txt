@@ -1,0 +1,49 @@
+﻿Niji est une société de conseil, de design et de réalisation logicielle entièrement dédiée aux usages et
+aux technologies de la convergence numérique. Niji accompagne ses clients, acteurs économiques
+privés et publics, dans la transformation digitale de leurs offres de produits et de services, de leurs
+dispositifs de relation client et de leurs processus organisationnels. Société indépendante, présente à
+Paris, Rennes, Lille et Nantes, Niji compte 450 salariés pour un chiffre d’affaires de 36M€ en 2012.
+Vous intégrerez la Software Factory de Niji, notre entité spécialisée dans le développement logiciel,
+composée d’experts Mobile, Web, en technologies digitales et SI. Ce stage sera stage fortement
+ancré  dans  la  technologie,  le  développement  dans  des  environnements  techniques  pointus,  et
+l’innovation tournée vers le service rendu aux utilisateurs finaux. Vous pourrez également, en fonction
+de la durée de votre stage et du sujet proposé, être amené(e) à intervenir sur des projets pour les plus
+grands comptes nationaux  (Médias, Opérateurs, Energie, Automobile, Banque/Assurance, Grande
+distribution, E-commerce, etc.)
+Sujet du stage                                                                                             Etude  comparative  des  principales  solutions  d’ORM  pour  le
+                                                                                                           système d’exploitation Android et mise en œuvre.
+Durée envisagée                                                                                            6 mois
+Année d’étude                                                                                              5
+Aptitudes humaines                                                                                         Esprit  d’innovation,  curiosité  intellectuelle,  autonomie  et  prise  d’initiative,
+attendues                                                                                                  technophilie, motivation, bon relationnel, rigueur et   organisation, Esprit de
+                                                                                                           synthèse et d'analyse, Qualités d'expression orales et écrites
+Aptitudes                                                                                                  Bonne compréhension des architectures logicielles, du multimédia.
+techniques attendue                                                                                        Connaissance des langages de programmation : Java, SDK Android, Bases
+s                                                                                                          de données (SQLite)
+                                                                                                           Connaissance de l’Open Source.
+                                                                                                           Une connaissance des terminaux : Android et iOS
+Livrables de fin de                                                                                        Mise  en  œuvre  des  solutions  d’ORM,  applications  de  tests  et  de  démo,
+stage                                                                                                      résultats des tests. Mise en œuvre dans le cadre de projets.
+Localisation du                                                                                            Locaux de Niji à Cesson-Sévigné
+stage
+Contact(s)                                                                                                 sixtine.descamps@niji.fr
+Description détaillée                                                                                      Niji  réalise  depuis  plusieurs  années  des  applications  pour  téléphones
+du stage                                                                                                   portables Android. Dans le cadre de sa veille Niji souhaite suivre l’évolution
+des  solutions  d’ORM                                                                                      (object-relational  mapping)  pour  Android.  Vous
+interviendrez  dans  le  cadre  de  cette  veille  de  manière  concrète  par  la
+réalisation  d’une  application  ou  plusieurs  applications  afin  de  tester  les
+différentes solutions retenues.
+Ceci comprend :
+o                                                                                                          Listage des ORMs disponibles sur le marché
+o                                                                                                          La prise en main des différents identifiés
+o                                                                                                          L’intégration et le développement du service pour chacune
+des solutions identifiées
+o                                                                                                          Comparaison avec un ContentProvider classique
+o                                                                                                          La comparaison des solutions selon une grille multicritères
+o                                                                                                          La validation des développements réalisés
+Stages de fin d’études                                                                                     Niji - 2014
+
+
+
+
+

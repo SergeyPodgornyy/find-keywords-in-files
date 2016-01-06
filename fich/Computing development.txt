@@ -1,0 +1,42 @@
+﻿Computing development
+EADS
+REFERENCE  :  NB10224660
+POUR POSTULER  :  offre4849343.1536@eads.contactrh.com sous la référence NB10224660
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  SURESNES 92150, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Mars
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+EADS est un leader mondial de l'aéronautique, de l'espace, de la défense et des services associés.
+En 2012, le Groupe - qui comprend Airbus, Astrium, Cassidian et Eurocopter - a dégagé un chiffre
+d'affaires de 56,5 milliards d'euros avec un effectif de plus de 140 000 personnes.
+DESCRIPTION DU POSTE  :
+EADS Innovation Works (Suresnes) recherche un(e) stagiaire pour une durée de 6 mois.
+Vous participerez à l'amélioration d'une application Web de gestion de normes (outil informatique
+EADS).
+Cette application (GDN) permet de gérer les documents normatifs utilisés au sein d'EADS.
+Cette offre de stage est à pourvoir à compter du 3 mars 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- ajouter la gestion de documents sous le format HTML,
+- analyser et développer un outil de veille,
+- analyser et développer un outil permettant l'élaboration de document au format HTML.
+PROFIL  :
+Vous êtes en dernière année d'école d'ingénieur, en master ou université (5ème année) et êtes
+spécialisé(e) en informatique ou équivalent.
+Vous avez des compétences en :
+- architecture Microsoft,
+- Framework : .Net 4.0,
+- outil de développement : Visual Studio 2010,
+- base de données : SQL Server.
+Vous savez travailler en équipe et avez d'excellentes qualités relationnelles.
+Anglais : niveau intermédiaire
+POUR POSTULER  :  offre4849343.1536@eads.contactrh.com sous la référence NB10224660
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿AS INTERNATIONAL GROUP RECRUTE UN/UNE INGÉNIEUR WIFI / CHECKPOINT (H/F) EN
+FREELANCE/INDÉPENDANT NON PRÉCISÉ.
+Date : 30/03/2015
+Référence de l’offre : IR/MLE/JWA-9151375
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Freelance/Indépendant
+Localisation : PARIS - LA DEFENSE 92000, FR
+Durée du contrat : Non précisé
+Niveau d’études : Bac +5
+Années d’expérience : 5-7 ans
+Description de l’entreprise :
+Entreprise de Services Numériques fondée en 1989, AS International Group s'est construite sur une exigence
+d'excellence et sur des valeurs humaines d'écoute et d'équité.
+C'est par sa vision à long terme et sa croissance maîtrisée que le Groupe a bâti la confiance de ses
+collaborateurs et la satisfaction de ses clients.
+Entité active du Groupe NEURONES depuis 2000, AS International Group se distingue par sa capacité
+d'innovation forte, sa réactivité et sa flexibilité.
+Nous intervenons auprès des acteurs grands comptes des secteurs de la banque, de l'assurance et de l'industrie
+principalement sur Paris et la Région Parisienne.
+Description du poste :
+Nous recherchons, pour intégrer l'équipe Réseaux / Network / Sécurité de l'un de nos partenaires Grand
+Compte, un(e) Ingénieur Réseaux Senior Checkpoint / Wifi.
+Vos missions:
+Implémentation et Maintien en Condition Opérationnelle de l'infrastructure Réseau de notre client
+Support Niveau 2 et 3
+Rédaction, suivi et mise à jour de documentation techniques/procédures concernant la mise en service,
+l'exploitation et la maintenance des équipements.
+Support technique niveau 2 et niveau 3 sur environnements techniques complexes
+Rédaction de procédures, fiches projets et rapports techniques
+Définition, préparation et mise en œuvre configuration Firewall
+(Routage, règles FW, nouvelles adresses IP publiques, DNS + DMZ)
+Mise en œuvre de la solution Checkpoint en environnement wifi
+Profil recherché :
+Issu(e) d'une formation supérieure en informatique, vous évoluez depuis au moins 5 ans dans ce domaine.
+Vous maîtrisez les environnements suivants:
+* Routing Switching Cisco: CCIE RS ou expérience équivalente
+* Sécurité: Firewalls Checkpoint
+* Outils d'administration Réseau (DCNM, LMS, Spectrum)
+* Sécurité d'infrastructure (DNS, FW, Proxy, LAN, WAN, WIFI, Internet, Windows, Linux)
+* Wifi
+Vous faites preuve d'une aisance relationnelle et de réelles facilités de communication, aussi bien en à l'oral
+qu'à l'écrit.
+Pour mener à bien ce projet majeur, vous vous appuierez sur votre méthodologie, votre rigueurs, votre sens
+de l'analyse et votre capacité à fédérer.
+Un niveau d'anglais a minima opérationnel est requis sur ce poste.
+Une certification CCIE est un atout supplémentaire.
+
+
+
+
+Au-delà de vos compétences techniques, votre pragmatisme et votre sens du service sont nécessaires à la
+pleine réussite de cette mission
+Parce que vous souhaitez rejoindre une société capable de vous proposer des missions à la hauteur de vos
+attentes tout en vous accompagnant au quotidien,
+Parce  que  nous  vous  proposons  des  projets  d'envergures  tout  en  garantissant  un  accompagnement
+personnalisé de votre carrière,
+Parce  qu'AS  INTERNATIONAL  GROUP  sait  allier  à  sa  taille  humaine  une  présence  stratégique  et
+spécialiste via le Groupe Neurones,
+Rejoignez-nous !
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9151375
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿SOGETI HIGH TECH RECRUTE UN/UNE STAGE INGÉNIEUR DÉVT D'APPLI MOBILE H/F EN
+STAGE DE 6 À 12 MOIS.
+Date : 15/01/2015
+Référence de l’offre : MU9-STA-IL-JJU--8598853
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+La Market Unit Software Engineering de Sogeti High Tech basée à Toulouse développe pour ses clients des
+applications mobiles sur les différents OS et dispositifs mobiles du marché : Android, iOS, Windows Phone.
+L'approche retenue pour le développement de ces applications est d'utiliser des technologies Hybrides
+Cross-Plateformes,  telles  que  Apache  Cordova,  afin  de  factoriser  au  maximum  les  développements
+contrairement aux développements dits natifs.
+Ces applications sont développées sur PC, tablettes, Smartphones et lunettes et peuvent également intégrer
+des fonctionnalités avancées telles que la manipulation de données 3D et la Réalité Augmentée.
+Le stage se déroulera au sein du Skill Center Mobility, Augmented Reality Image Processing de SOGETI
+High Tech. Le stagiaire sera intégré aux équipes du centre de compétences et bénéficiera du support des
+ingénieurs qui le constituent. Le stagiaire aura accès à l'ensemble des moyens matériels (PC, Mac, Tablettes,
+Smartphones, Lunettes RA,…) et logiciels nécessaires.
+Le stage consiste à développer une application mobile hybride multi-plateformes générique de suivi de
+procédure par des opérateurs sur le terrain. Le contour fonctionnel précis de l'application est disponible au
+travers d'une application existante.
+Les objectifs sont les suivants :
+* Permettre la gestion synchronisée du déroulement de procédures en parallèle par plusieurs opérateurs
+communiquant en réseau
+* Permettre les interactions entre un poste expert distant et les applications mobiles sur le terrain : validation
+à distance des étapes par exploitation du retour de l'opérateur sur le terrain  (transmission de prise de
+vue/photo)
+* Etude sur les différentes solutions du marché pour le déploiement automatisé d'applications mobiles
+Profil recherché :
+Etudiant  en  dernière  année  d'école  d'Ingénieur  ou  Université  Informatique  avec  une  spécialisation  en
+développement d'Applications Mobiles.
+Domaine de compétences techniques requis :
+
+
+
+
+* Développement d'applications mobiles sous Android, iOS, Windows Phone
+* Développement Java, C#
+* Si possible, connaissance des frameworks de développement Hybrides type Apache Cordova
+* Goût pour la veille technologique et la R
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8598853
+
+
+
+
+

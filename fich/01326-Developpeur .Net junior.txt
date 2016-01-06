@@ -1,0 +1,37 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR .NET JUNIOR EN STAGE DE 4 À 6 MOIS.
+Date : 01/06/2014
+Référence de l’offre : beez-6131720
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Paris 10ème 75010, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : None
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+BeezUP est une Startup de 25 personnes expertes éditrice de logiciel pour le E-commerce.
+Récompensé par 7 concours de création d'entreprise, BeezUP est aujourd'hui utilisé par plus de 1500 boutiques en
+ligne en Europe dont : Euromaster, Medion, Du Pareil au Même, Fnac, PSG Merchandising, VVF, Vistaprint,
+Castorama, …
+Notre concept rencontre un franc succès sur le marché Européen depuis 5 ans.
+Au sein de l'équipe technique, vous participerez au développement des nouvelles fonctionnalités du logiciel
+BeezUP en langage C# et ASP.NET MVC.
+Aux côtés d'une équipe expérimentée, vous développerez vos compétences en : développement objet avec le
+langage C# sur le Framework Microsoft .NET 4.5, Microsoft SQL Server 2012, Développement Web (ASP.NET
+MVC).
+L'environnement technique est le suivant : Visual Studio 2012, Windows Azure (Cloud computing), SQL Server
+2012, TFS 2012, Framework .NET 4.5, Architecture N-Tiers, ASP.NET MVC.
+Profil recherché :
+Vous êtes passionné par les nouvelles technologies et le développement orienté objet ? Vos expériences (stages,
+projets, …) vous ont permis d'atteindre un bon niveau technique dans le développement d'application web ou
+client lourd ? Vous souhaitez développer votre expertise au sein d'une équipe expérimentée ? Rejoignez nous !
+pour postuler, vous pouvez suivre le lien:http://www.ajstage.com/offre/Developpeur-Net-junior-chez-BeezUP-1
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/6131720
+
+
+
+
+

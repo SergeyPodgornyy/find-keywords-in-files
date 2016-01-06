@@ -1,0 +1,34 @@
+﻿AJSTAGE RECRUTE UN/UNE INGÉNIEUR RECHERCHE CHEZ SNAPKIN EN STAGE DE 4 À 5
+MOIS.
+Date : 01/09/2015
+Référence de l’offre : IngéSnapkin-10621845
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Montpellier 34000, FR
+Durée du contrat : De 4 à 5 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION: aucune candidature ne sera prise en compte en dehors de ce lien:
+http://www.ajstage.com/offre/Ingenieur-Recherche-traitement-d-image-chez-Snapkin
+Nous avons plein de beaux problèmes à résoudre! Vous aurez la responsabilité de:
+>développer des algorithmes adaptés à SNAPKIN,
+>les implémenter
+>et surtout de re-modéliser automatiquement tout un bâtiment.
+Profil recherché :
+Programmation en C/C++
+Traitement d'image 2D/3D : OpenCV, MRPT, PCL, Eigen, GLM
+Développement algorithmique et mathématiques appliquées
+Esprit Startup
+Anglais apprécié
+Traitement du signal vidéo et expérience en mapping 3D est un plus
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10621845
+
+
+
+
+

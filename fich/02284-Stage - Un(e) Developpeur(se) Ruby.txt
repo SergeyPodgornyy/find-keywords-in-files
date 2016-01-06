@@ -1,0 +1,44 @@
+﻿BUBBLZ RECRUTE UN/UNE STAGE - UN(E) DÉVELOPPEUR(SE) RUBY EN STAGE DE 6 À 12
+MOIS.
+Date : 01/11/2015
+Référence de l’offre : Dev_Back-8759958
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75010, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Sans diplôme
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Nous ne sommes ni une marque de savon, ni une marque de chewing-gums. Bubblz est une application de
+partage de fichiers, qui te permet d'envoyer n'importe quel fichier, à n'importe lequel de tes contacts en un
+clic. Cela va de l'envoi de photos à l'envoi de vidéos. Une fois en ligne tu peux les visualiser, les commenter,
+voir qui a accès ou qui a eu accès à ces fichiers. Nous nous différencions de la concurrence grâce à notre
+superbe interface de navigation
+et nos puissantes fonctionnalités.
+Description du poste :
+C'est quoi la mission ?
+Nous développons une nouvelle version basée sur une combinaison des frameworks Famo.us et Angular avec
+une API Ruby. Ta mission consistera principalement à :
+* Rajouter des fonctionnalités à l'API principale et en bâtir une nouvelle API ex-nihilo sous les ailes de notre
+CTO ;
+* Coder une interface front avec angular.js liée à l'API que tu auras créée ;
+* Essayer de battre ton maître de stage à FIFA et CoD .
+C'est quoi nos technos ?
+* RoR / Famo.us / Angular.js / Objective C / SCSS / Jade / Redis / AWS
+Qu'est ce qui nous rend sexy ?
+* On me dit à l'oreillette que nos technos sont très pertinentes et modernes;
+* Nous sommes le site le plus avancé dans l'implémentation du framework famo.us qui sera prépondérant
+dans les prochaines années.
+* Tu participeras à la préparation et au lancement de notre nouvelle bêta-ouverte et de la V1;
+* Ta rémunération sera très compétitive (mort à l'indemnité de 430                                                 €, tu vaux mieux que ça).
+Profil recherché :
+* Envoie nous ta lettre de motivation, ton CV, ton profil github, tout ce que tu trouveras d'intéressant pour te
+vendre (dernier score FIFA ?) avec en sujet : Dev Back
+* Trois facteurs pourront augmenter tes chances d'être pris : Tu as déjà développé des applications en Ruby
+ou Angular, tu as déjà développé une API et tu répondras à cette offre avec un ton décalé.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8759958
+
+
+
+
+

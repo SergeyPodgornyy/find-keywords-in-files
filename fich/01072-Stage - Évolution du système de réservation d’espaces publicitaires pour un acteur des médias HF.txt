@@ -1,0 +1,74 @@
+﻿SOPRA  GROUP  RECRUTE  UN/UNE  STAGE  ­  ÉVOLUTION  DU  SYSTÈME  DE
+RÉSERVATION  D’ESPACES  PUBLICITAIRES  POUR  UN  ACTEUR  DES  MÉDIAS
+H/F  EN  STAGE  DE  5  À  6  MOIS.
+Date  :  1/12/13
+Référence  de  l’offre    :  STAGE/TELCO/RENN/4207115­5506684
+Domaine  d’activité    :  20500  (20518)
+Type  de  contrat    :  Stage
+Localisation    :  Rennes  35000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Sopra  Group,  acteur  majeur  du  conseil,  des  services  technologiques  et  de  l'édition  de
+logiciels  en  Europe,  accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs
+métiers  et  de  leurs  systèmes  d'information.  Combinant  valeur  ajoutée  et  innovation  dans
+les  solutions  apportées,  qualité  industrielle  et  performance  des  services  délivrés,  Sopra
+Group  est  le  partenaire  de  référence  des  grandes  entreprises  et  organisations  qui
+recherchent  le  meilleur  usage  du  numérique  pour  assurer  leur  développement  et  leur
+compétitivité.  Sa  filiale,  Sopra  Banking  Software,  est  un  éditeur  leader,  spécialisé  dans
+les  solutions  applicatives  pour  le  marché  financier.  Le  Groupe  compte  plus  de  15  000
+collaborateurs  et  a  réalisé  un  chiffre  d'affaires  2012  de  1  217  millions  d'euros.  Sopra
+Group  (SOP)  est  coté  sur  NYSE  Euronext  Paris  (Compartiment  B)  -  Code  ISIN:
+FR0000050809.  Pour  plus  d'informations,  retrouvez­nous  sur  www.sopragroup.com.
+Au  sein  de  Sopra  Group,  vous  êtes  rattaché(e)  à  la  Division  Telecom  &  Media  qui
+regroupe  plus  de  700  collaborateurs  et  qui  intervient  au  cœur  des  Systèmes  d'Information
+de  ses  clients.  Son  expertise  métier  (OSS,  Provisioning,  Mediation,  Rating/  Billing,
+Revenue  Assurance,  CRM,  Business  Intelligence,  Broadcasting...)  et  ses  compétences
+techniques  multiples  font  de  Sopra  Group  un  acteur  majeur  dans  le  domaine  des
+Télécoms  et  des  Médias.
+Description  du  poste    :
+Mission
+Au  sein  du  système  d'information  d'un  acteur  majeur  de  l'audiovisuel,  le  domaine  de  la
+publicité  est  un  domaine  particulièrement  clés  ou  les  recettes  publicitaires  contribuent  à
+plus  de  60%  au  chiffre  d'affaires.
+Le  cœur  de  métier  de  notre  client  est  la  commercialisation  des  espaces  publicitaires  des
+chaines  TV  du  groupe  audiovisuel,  mais  également  des  espaces  publicitaires  des
+nouveaux  média  (internet,  mobile…).
+L'équipe  gère  plus  de  45  applications  représentant  le  cœur  du  système  informatique  du
+client.  Le  SI  doit  être  non  seulement  performant,  mais  robuste  et  évolutif.
+
+
+
+
+Lors  de  votre  stage,  vous  appréhenderez  les  différentes  activités  liés  à  l'évolution  du
+système.  Dans  un  premier  temps,  vous  recevrez  une  formation  fonctionnelle  et  technique
+pour  ensuite  participer  à  l'activité  productive  du  projet.  Vous  utiliserez  les  méthodologies
+de  développement  ainsi  que  le  système  qualité  Sopra  Group.
+Au  sein  de  l'équipe  projet,  vous  participerez  aux  différentes  phases  du  projet  :
+­ études  et  conception
+­ développement/réalisation
+­ qualification  et  intégration
+­ déploiement
+Intérêt  du  stage
+­ renforcer  ou  acquérir  des  compétences  techniques  .Net
+­ acquérir  des  compétences  fonctionnelles  dans  le  domaine  des  Médias
+­ appréhender  les  processus  de  production  mis  en  œuvre  sur  les  projets  Sopra  Group
+­ acquérir  une  première  expérience  du  travail  en  équipe
+Environnement  technologique/fonctionnel
+Technologies  Microsoft  .NET,  WPF,  Base  de  données  SQL  server.
+Environnement  humain
+Intégré(e)  dans  une  équipe  opérationnelle  d'une  dizaine  de  personnes,  vous  serez
+encadré(e)  par  un  Chef  de  Projet  qui  assurera  un  suivi  détaillé  de  l'activité  dans  le  cadre
+des  procédures  appliquées  sur  les  projets  clients.
+Profil  recherché    :
+En  dernière  année  d'école  d'ingénieurs  ou  de  Master  2  informatique,  vous  avez  des
+connaissances  en  programmation  .Net.  Vous  êtes  curieux  (se)  et  avez  un  bon  relationnel,
+l'esprit  de  synthèse  et  d'analyse.
+Vous  avez  la  capacité  à  appréhender  de  nouveaux  concepts  et  des  processus  métiers.
+Pour  postuler    :  http://sopra­group.contactrh.com/jobs/1536/5506684
+
+
+
+
+

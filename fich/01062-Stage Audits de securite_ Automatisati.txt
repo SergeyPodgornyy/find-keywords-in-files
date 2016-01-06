@@ -1,0 +1,48 @@
+﻿Stage  Audits  de  sécurité,  Automatisati
+Bouygues  Construction
+REFERENCE  :  2014/STA/AUDIT-
+POUR  POSTULER  :  http://bouygues-construction.contactrh.com/jobs/1536/5482726
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Saint-quentin en Yvelines 78061, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Dès que possible
+DUREE  :  de 3 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Acteur global de la construction et des services, Bouygues Construction conçoit, réalise et exploite
+des ouvrages qui améliorent au quotidien le cadre de vie et de travail : bâtiments publics et privés,
+infrastructures de transport, réseaux d'énergie et de communication.
+Leaders de la construction durable, le Groupe et ses 55 400 collaborateurs s'engagent ainsi sur le
+long terme auprès de leurs clients pour les aider à bâtir une vie meilleure.
+DESCRIPTION  DU  POSTE  :
+Bouygues Construction, acteur mondial dans les domaines du bâtiment, des travaux publics, de
+l'énergie et des services, intervient de la conception à l'exploitation.
+Porté par une ambition forte, celle de contribuer à imaginer et à construire un cadre de vie plus
+agréable, Bouygues Construction vous offre la possibilité de relever des défis passionnants.
+Envie de (vous) bâtir une vie meilleure ? Rejoignez nos 55 400 collaborateurs et participez à de
+beaux projets en France ou à l'International.
+Créé en 2001, STRUCTIS mutualise les moyens informatiques de Bouygues Construction.
+Ses objectifs sont : d'assurer la continuité du fonctionnement du poste de travail, de maintenir en
+état de fonctionnement les applications, de déployer et exploiter l'infrastructure et les applications et
+enfin, de concevoir, réaliser et livrer des projets informatiques.
+Au sein de l'équipe STSI (Sécurité Technique du SI) rattachée au centre de compétences
+infrastructure, votre principale mission sera de mettre en place des scripts d'automatisation.
+Principalement sur base Powershell, Nessus, Burp, Metasploit, ces scripts devront permettre
+d'améliorer les délais de réalisation des audits de contrôle sur les infrastructure de Bouygues
+Construction.
+PROFIL  :
+- très bonnes connaissances techniques réseaux et systèmes
+- bon niveau rédactionnel, rigueur dans la documentation
+
+
+
+
+- ouvert(e) d'esprit, curieux(e)
+POUR  POSTULER  :  http://bouygues-construction.contactrh.com/jobs/1536/5482726
+
+
+
+
+

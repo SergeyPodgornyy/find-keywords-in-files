@@ -1,0 +1,41 @@
+﻿SOGETI HT - RÉGION EST RECRUTE UN/UNE STAGE INGÉNIEUR EDITEUR GRAPHIQUE H/F EN
+STAGE 6 MOIS.
+Date : 20/10/2014
+Référence de l’offre : MU8-STA-IL-AF-E-7818392
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Aix en Provence 13000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+Dans le cadre d'un projet industriel pour un de nos clients dans le domaine aéronautique, vous serez en
+charge de spécifier et de développer un éditeur graphique  (en Java) capable de lire/écrire les différents
+formats de données binaires sur des applications dans le monde aéronautique.
+Ce stage sera décomposé en 3 étapes :
+- Analyser les codes existants et les agréger afin d'obtenir une 1ère version (prototype).
+- Définir un format spécifique pour la description des formats binaires (fichier en entrée).
+- Concevoir l'architecture (UML) et développer l'application (sous Eclipse) afin de générer automatiquement
+le code spécifique pour un format donné à partir du fichier de description.
+Profil recherché :
+Etudiant(e) en dernière année d'une école d'ingénieurs ou en master 2, idéalement avec option informatique
+industrielle, vous avez une bonne connaissance du développement objet Java et d'UML.
+Pour postuler : http://sogeti-high-tech.contactrh.com/jobs/1536/7818392
+
+
+
+
+

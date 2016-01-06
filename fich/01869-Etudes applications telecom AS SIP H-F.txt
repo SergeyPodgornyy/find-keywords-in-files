@@ -1,0 +1,73 @@
+﻿ATOS RECRUTE UN/UNE ETUDES APPLICATIONS TELECOM AS SIP H-F EN STAGE DE 5 À 6
+MOIS.
+Date : 01/12/2014
+Référence de l’offre : 175045-8082610
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Lyon 69000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Mission
+Contexte
+Ce stage s'inscrit dans le cadre des projets NGIN d'Atos :
+http://fr.atos.net/fr-fr/accueil/votre-business/telecommunications/next-generation-intelligent-networks-ngin.html
+Le stagiaire sera intégré dans une équipe conviviale d'une trentaine d'ingénieurs, centre d'expertise NGIN à
+vocation internationale, largement autonome dans ses choix techniques.
+Mission et objectifs
+Le stagiaire prendra en charge l'étude, la conception, le prototypage et l'implémentation de composants
+logiciel. Il sera guidé par un maitre de stage et soutenu par les experts de l'équipe.
+Le stage a pour objectif de valider des options d'implémentation et de poser les bases techniques des futurs
+produits NGIN d'Atos. Atos porte donc une attention très particulière au déroulement du stage, et mobilise
+les moyens humains nécessaires à l'atteinte de l'objectif.
+
+
+
+
+Environnement technologique et fonctionnel
+Les projets NGIN se distinguent la mise en œuvre d'un très large spectre de technologies :
+- Développement: Java/J2EE, langages de script
+- Protocoles: SIP, CAMEL, INAP, MAP
+- Bases de données : Oracle TimesTen, MySQL, PostgreSQL
+- Framework: SOAP, REST, JAIN SLEE
+- Gestion de tests et automatisation (HPQC, ClearQuest, générateurs de trafic)
+Objectifs pédagogiques
+Le stage a deux objectifs pédagogiques principaux :
+1- permettre aux étudiants de comprendre le métier d'un intégrateur système, ses exigences et ses contraintes
+2- former les étudiants aux technologies mises en œuvre pour le traitement d'appel dans les réseaux de
+téléphonie mobiles et voix sur IP (IMS, 3G, 4G/LTE)
+Profil recherché :
+Profil
+Profil recherché
+Ce stage nécessite des connaissances JAVA, SQL et dans le domaine télécom.
+Ce stage s'adresse à un étudiant souhaitant évoluer vers les métiers du développement dans le domaine des
+télécoms.
+Le stagiaire devra faire preuve d'autonomie et de curiosité. Il doit être force de proposition face aux besoins
+exprimés. Le niveau d'autonomie requis et les tâches décrites nécessitent l'intervention d'un étudiant en
+dernière année d'étude.
+Durée du stage
+Stages ou projets de fin d'étude de 6 à 9 mois
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8082610
+
+
+
+
+

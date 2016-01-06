@@ -1,0 +1,57 @@
+﻿Offre de Stage : Développement d’un SDR (Software
+Defined Radio) à base de FPGA
+ADETEL Group
+ADETEL Group (550 pers, 55 M€ de CA) : « le service à l’électronique »
+Notre  métier :  fournisseurs  d’équipements  électroniques  et  logiciels  auprès  des  grands
+comptes industriels de l’aéronautique, du transport et de l’énergie.
+Contexte
+Les SDR  (Software Defined Radio) représentent une solution efficace et un concept qui
+gagnent aujourd’hui   beaucoup en notoriété dans le monde des communications sans-fil.
+L’idée derrière ce concept est d’effectuer la plupart des fonctions de traitement numérique du
+signal sur un hardware/software configurable et adaptable, au vue du nombre élevé de
+standards  de  communication  qui  peuvent  être  implémentés  dans  les  stations  de  base
+wireless.
+La société ADENEO, société du groupe ADETEL, prend en charge pour ses clients le
+développement de cartes et de calculateurs dans des environnements comme le militaire ou
+les télécommunications, les principaux secteurs qui utilisent le concept de SDR. C’est dans
+ce  contexte  qu’ADENEO  souhaite  acquérir  des  compétences  dans  les  dernières
+technologies radio, afin de répondre aux nouveaux besoins de ses clients.
+Objectif
+L’objectif du stage est de proposer et implémenter une architecture de SDR modulable,
+permettant  via  quelques  configurations  de  recevoir  ou  d’émettre  des  messages  sur  un
+standard wireless défini au préalable.
+Sujet / missions
+Ce stage se traduit donc par les étapes suivantes qui seront affinées en début de stage :
+    Etat de l’art sur les SDR existants
+    Recueil du besoin et écriture d’une spécification des fonctionnalités à implémenter ;
+    Implémentation des fonctions choisies sous Matlab
+    Définition de l’architecture FPGA et implémentation en VHDL
+    Intégration sur carte d’évaluation ou conception d’une carte démonstrateur
+    Rédaction d’un minimum de documentation ainsi que   d’une fiche produit permettant de
+présenter en interne l’IP.
+
+
+
+
+Offre de Stage : Développement d’un SDR (Software
+Defined Radio) à base de FPGA
+Profil recherché
+Ce stage est envisagé pour un étudiant en dernière année (bac+5), avec une spécialisation
+en télécommunications ou en traitement du signal.
+Le stagiaire devra répondre aux critères suivants :
+    Avoir des notions de télécommunications
+    Avoir une base en conception FPGA
+    Autonomie, curiosité, bonne communication ;
+    Esprit d’analyse et de formalisation ;
+Serait apprécié :
+    Premier contact avec les architectures d’équipements wireless ;
+Conditions
+Le stage est à pourvoir au sein de notre Département Logiciel. Il se déroulera à Palaiseau
+(91) pour une durée de 6 mois minimum.
+Pour postuler
+Connectez-vous sur notre site : adetel-jobs.com et déposez votre
+
+
+
+
+

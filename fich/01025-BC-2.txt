@@ -1,0 +1,43 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Ingénierie test
+logicielle
+   Titre : Conception d’une solution pour tester automatiquement la non régression
+d’une application web avec les différentes versions d’un navigateur.
+   Lieu : Rennes ou Mayenne                                                          Durée : 3 à 6 mois
+   Formation : Bac + 3/4/5                                                           Date : Avril 2014
+   Référence : BC-2                                                                  Rémunération : stage indemnisé
+
+
+
+
+Sujet : Dans le cadre de ses projets, JOUVE développe des applications web qui doivent
+être  compatibles  avec  les  versions  successives  d’un  navigateur                                    (notamment  Internet
+Explorer). A chaque livraison de ces applications, celles-ci doivent être stables, pour tous les
+navigateurs cibles définis.
+L’équipe Tests & Qualification cherche à s’outiller pour automatiser ce type de test.
+L'objectif du stage sera le suivant :
+   Identifier les moyens possibles pour faire ces contrôles  (c’est-à-dire comment
+s’assurer qu’une application, pour un navigateur web donné, s’affiche toujours
+correctement)
+   Industrialiser  / automatiser ce contrôle en l’insérant avec dans l’environnement
+Jouve d’intégration continue.
+   Formuler le mode opératoire (processus, recommandations) pour mettre en place
+ce type de contrôle sur une nouvelle application
+Environnement :
+   PHP / Java / Python
+   Selenium
+   Jenkins
+Vous serez  intégré  dans l’équipe Tests &
+Qualification  et  serez  encadré  par  un
+expert du test.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  : ISTIC_BC2@jouve.gestmail.com
+
+
+
+
+

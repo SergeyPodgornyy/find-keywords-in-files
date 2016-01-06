@@ -1,0 +1,42 @@
+﻿JCDECAUX RECRUTE UN/UNE STAGE - ASSISTANT(E) PRODUCT OWNER EN STAGE 6 MOIS.
+Date : 08/01/2015
+Référence de l’offre : 2014-1169006-8539521
+Domaine d’activité : Systèmes d'informations / télécom (Consultant / Audit / AMOA)
+Type de contrat : Stage
+Localisation : Boulogne Billancourt 92100, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+N°1 mondial de la communication extérieure, JCDecaux, avec 12 000 collaborateurs, est présent dans plus de
+60 pays. Seul acteur mondial à exercer exclusivement le métier de la communication extérieure et à en
+développer toutes les activités : mobilier urbain, publicité dans les transports et affichage grand format, il a
+réalisé un chiffre d'affaires de 2 676 millions d'euros en 2013.
+Description du poste :
+Rattaché(e) à un Product Owner (Analyste fonctionnel), le stagiaire participe à la conception des features
+(évolutions) dans le cadre de projets de développements de modules du programme aDeasy, en mode Agile
+(Méthodologie américaine SAFE)
+Vos missions en tant qu'assistant PO s'articulent autour des volets suivants
+* Assistance à Maîtrise d' Ouvrage
+* Comprendre les besoins des utilisateurs afin d'aider à la définition des solutions à mettre en place
+* Cadrage du besoin en coopération avec les équipes techniques
+* Rédaction des users stories
+* Assurer le suivi de la mise en place de la solution retenue
+* Ecrire, modifier et exécuter les scenarii de tests des applications
+* Ecrire ou modifier la documentation produit
+* Intervenir en support fonctionnel de l'équipe de développement
+ENVIRONNEMENT METIER et TECHNIQUE
+* Solution interne de gestion des ventes comprenant plusieurs applications (mosaic, Gemeo, MyBeez …)
+* Support internationaux (France, UK, Espagne, …)
+Profil recherché :
+- De formation technique (Ecole d'ingénieur)
+- Première expérience souhaitée en .AMOA (conception et recette fonctionnelle en mode Agile)
+- Capacité à monter sur du fonctionnel et à travailler en équipe intégrée
+- Curieux, rigoureux, organisé, bon relationnel
+Poste basé à Boulogne avec des déplacements sur Plaisir
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8539521
+
+
+
+
+

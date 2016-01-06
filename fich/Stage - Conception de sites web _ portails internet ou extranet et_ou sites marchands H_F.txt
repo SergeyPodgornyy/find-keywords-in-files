@@ -1,0 +1,65 @@
+﻿Stage  - Conception de sites web  : portails internet ou extranet
+et/ou sites marchands H/F
+Sopra Group
+REFERENCE  :  STAGE/ATL/BDX/4054825
+POUR POSTULER  :  offre4598279.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/BDX/4054825
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Bordeaux 33000, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Intégrez la Division Atlantique de Sopra Group : 800 collaborateurs, une forte croissance et des
+projets d'envergure auprès de clients de tous secteurs.
+DESCRIPTION DU POSTE  :
+Mission
+Vous serez intégré(e) au sein d’une équipe de développements nouvelles technologies et
+participerez activement à la réalisation de sites web pour l’un de nos clients grands comptes dans le
+domaine de la distribution ou de l’industrie.
+Vous travaillerez sur des applications web de haut niveau en termes technologiques, avec des
+fonctionnalités métiers et des contenus d’IHM très riches, pour des applications au cœur de la
+stratégie de nos clients.
+Suivant vos centres d’intérêts, vous pourrez intervenir sur :
+- les framework de services web
+- la customisation de progiciels dédiés
+- la gestion des données
+- l'IHM web et la stratégie de navigation de l’internaute
+Intérêt du stage
+
+
+
+
+- être intégré(e) au sein d'une équipe
+- participer à l'ensemble des phases d'un projet et appréhender sa réalisation sur les aspects qualité,
+coûts et délais
+- se familiariser aux méthodes et outils Sopra Group
+Environnement technologique/fonctionnel
+.NET, Sharepoint, SQL Server, ASPOSE, DHTMLX, Java J2EE, JSP, AJAX, Hibernate, JAHIA,
+Microsoft Fast, Talend.
+Environnement humain
+Vous serez suivi(e) par le Chef de Projet qui sera votre tuteur.
+L’encadrement technique sera réalisé par un Architecte confirmé.
+PROFIL  :
+Vous êtes en dernière année d’école d’ingénieurs ou en Master 2 informatique.
+Vous avez des connaissances en JAVA/J2EE ou .NET. Vous faites preuve de rigueur, d’autonomie
+et aimez le travail en équipe.
+POUR POSTULER  :  offre4598279.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/BDX/4054825
+
+
+
+
+

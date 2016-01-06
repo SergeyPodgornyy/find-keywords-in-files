@@ -1,0 +1,66 @@
+﻿Stage  /  Visualisation  3D  Simulation  Lanc
+ASTRIUM  -  An  EADS  Company
+REFERENCE  :  10231332 TL FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/4991265
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Les Mureaux 78130, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+L'espace, notre métier.
+No. 1 européen et No. 3 mondial de l'industrie spatiale, Astrium rassemble 17 000 hommes et
+femmes présents principalement dans cinq pays européens : la France, l'Allemagne, le Royaume-
+Uni, l'Espagne et les Pays-Bas. Notre excellence technique et notre expérience de maître d'œuvre
+couvrent tous les segments de la filière spatiale : lanceurs, infrastructures orbitales, systèmes
+satellitaires et services associés.
+DESCRIPTION  DU  POSTE  :
+Astrium Space Transportation (Les Mureaux) recherche un(e) stagiaire pour une durée de 6 mois.
+Maître d'œuvre des programmes de lanceurs et véhicules spatiaux, Astrium Space Transportation
+contribue à des projets d'architecture de systèmes complexes tels que l'Air Trafic Management et la
+défense anti-missile balistique de l'OTAN, mais développe également de son côté des
+démonstrateurs technologiques afin d'évaluer la maturité technologique et les concepts pour les
+futurs programmes spatiaux.
+Les programmes majeurs de lanceurs et véhicules spatiaux mettent en œuvre des installations
+d'essais de simulation en temps réel, pour assurer la qualification de l'avionique et des logiciels
+embarqués.
+À l'installation des essais dédiés au lanceur d'Ariane 5, le simulateur fournit une modélisation de
+l'équipement avionique, des dynamiques et environnements du lanceur en temps réel et avec du
+matériel dans la boucle (ordinateurs embarqués et autres équipements avioniques).
+À l'heure actuelle, l'équipe chargée des essais de qualification n'a seulement accès qu'à des données
+limitées au moyen d'un affichage de texte sur écran pendant la réalisation des essais.
+Vous rejoindrez l'équipe de projet de l'installation des essais de simulation et assurerez l'engineering
+et le développement d'une visualisation en 3D qui fournira à l'équipe des essais une animation
+graphique des dynamiques du lanceur et des évènements spécifiques pendant les vols simulés.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (date sujette à une certaine
+flexibilité).
+
+
+
+
+Conformément à notre objectif, vous mènerez les activités suivantes :
+- définir les exigences et besoins avec l'équipe des essais de qualification,
+- développer le logiciel requis pour une exécution dans des conditions en temps réel et assurer
+l'interface avec les données de sortie du simulateur de l'installation des essais, et également en mode
+replay,
+- intégrer et valider l'outil,
+- fournir la documentation.
+PROFIL  :
+Etudiant(e) Bac+5 spécialisé(e) logiciel
+Compétences:
+progr en tps réel
+lang C
+UNIX
+méthode OOD, UML,
+dév MMI et GUI,
+progr réseau (interfaces de connexion).
+Anglais:avancé
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/4991265
+
+
+
+
+

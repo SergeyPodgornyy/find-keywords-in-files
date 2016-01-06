@@ -1,0 +1,45 @@
+﻿Réf :Bcom/2014-                                                                                        Rennes, le 6 Janvier 2014,
+004
+Objet :                                                                                                Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                       Technologique b<>com dans le domaine Digital Trust & Identity
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur      3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                            Étude,   conception   et   amélioration   des   techniques   d’authentification   de
+stage                                                                                                  documents numérisés
+Descriptif de la mission :
+Le stage aura lieu dans le  laboratoire  «  Digital Trust  &  Identity  », qui traite notamment de
+protection des images et vidéos diffusées par les particuliers sur Internet ou utilisées par les
+professionnels.   L’objectif   du   stage   est   d’étudier   les   moyens   techniques   permettant
+d’authentifier un document numérisé. En particulier, les étapes suivantes seront demandées :
+1.  établir un état de l’art des techniques d’authentification de contenus/documents (p.
+ex. techniques de « hachage perceptuel »),
+2.  les prototyper et évaluer leur pertinence et leur sécurité,
+3.  faire des propositions d’améliorations en fonctions des limitations identifiées
+précédemment (et prototyper ces modifications),
+4.  participer à la conception d’un service autonome utilisant ces briques technologiques.
+Profil recherché :                                                                                     Formation Bac + 5 (master ou ingénieur)
+                                                                                                       Le/la candidat(e) doit posséder des connaissances en :
+•                                                                                                      développement C/C++,
+•                                                                                                      traitement du signal et d’image (idéalement maîtrise de la librairie OpenCV),
+•                                                                                                      notions en sécurité des contenus : data hiding, forensics, cryptographie, etc.
+Intérêt   pour   le                                                                                    Réelle intégration au sein d’équipes pluridisciplinaires
+stagiaire                                                                                              Secteur de la recherche et de l’innovation
+Mission  dont  la  thématique  est  au  croisement  entre  la  sécurité  et  le
+traitement du signal
+Acquisition des bonnes pratiques de développement
+Modalités                                                                                              Durée : 4 à 6 mois
+Date de démarrage : de mars à avril 2014
+Localisation : Cesson-Sévigné
+Date de fin de dépôt des candidatures : 7 février 2014
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                 140106
+
+
+
+
+

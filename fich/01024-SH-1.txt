@@ -1,0 +1,40 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de
+Stage
+Ingénierie logicielle
+   Titre : Refonte d’une interface web d’administration de pages d’accueil
+personnalisables
+   Lieu : Rennes                                                                                   Durée : 4 à 6 mois
+   Formation : Bac + 5 (fin d’étude)                                                               Date : début 2014
+   Rémunération : stage indemnisé                                                                  Référence : SH-1
+Sujet : Jouve a développé pour le compte d'un de ses clients une application web de pages
+d'accueil personnalisables.
+Ces pages sont constituées de widgets modulaires, paramétrables par le client (contenu des
+widgets, disposition par défaut), et dont la disposition est personnalisable pour l'utilisateur
+final.
+Ce sujet de stage consiste à revoir l'interface d'administration de ces pages d'accueil, à
+travers  des  études  en  amont  (cas  d'utilisation,  parcours  de  navigation),  une  phase  de
+conception (propositions techniques) et de réalisation.
+
+
+
+
+Environnement :
+                                                                                                        .Net 4.5
+   ASP.Net MVC
+   HTML
+   CSS
+   JS
+   jQuery 1.10
+   SQL Server 2008 R2
+Vous serez intégré dans l’équipe Editeurs.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_SH1@jouve.gestmail.com
+
+
+
+
+

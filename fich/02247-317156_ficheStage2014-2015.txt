@@ -1,0 +1,102 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : BIOCOOP SA COOP                                                             Adresse :   Plateforme Grand Ouest
+Domaine d’activité : Commerce                                                                     Zone de Confortland
+Représentant de l’entreprise :
+                                                                                                  CS 46851 MELESSE
+Sa qualité :
+                                                                                                  Ville :35768 SAINT GREGOIRE Cedex
+N° de Siret :
+N° téléphone :
+N° NAF :
+N° fax :
+Statut Juridique :
+Site Web :
+Effectif de l’établissement :
+Courriel :
+                                                                                                  Signataire de la convention :
+Nom de l’encadrant de stage :BELLOIR Fabrice                                                      Chargé du suivi administratif :
+Sa qualité :Chef de projet informatique                                                           Sa qualité :
+Service :DSI                                                                                      N° téléphone :
+N° téléphone :02 99 13 03 03                                                                      Email :
+Email : f.belloir@biocoop.fr                                                                      Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …Service Informatique………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ………… MELESSE (Rennes)……………… ….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                                       13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                                    8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                           13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                                du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                                   du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                                   du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                              du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                                du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                            du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                                du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                         En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                         16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                        En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                         entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé :…développement d’Outils Web ………………………….
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Vous maitrisez la syntaxe SQL pour MySQL, et les langages PHP, HTML,   JavaScript...
+Vous connaissez les outils tels que SVN.
+Sujet proposé détaillé :
+   Répartiteur des JVM : interface WEB de configuration d’un service Apache
+   Superviseur des JVM : Interface WEB de consolidation et d’analyse de fichiers de logs applicatifs.
+   Outil de Suivi des projets : Application WEB d’analyse, d’enrichissement et de synthèse des
+données d’une application de gestion des temps (Linux Apache MySql Php).
+   Outils de Suivi des budgets : Application WEB d’analyse, d’enrichissement et de synthèse des
+données d’une application  de  suivi des  Budgets  en  lien  avec  l’Outil de  suivi des  Projets .
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) :                                                                            Nom de l’Etudiant :
+Modalités de versement :                                                                                 Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+f.belloir@biocoop.fr
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

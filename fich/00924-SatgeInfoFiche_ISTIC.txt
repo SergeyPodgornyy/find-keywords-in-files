@@ -1,0 +1,105 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise :Mobilitytech Green                                                          Adresse : 12 quai Duguay Trouin
+Domaine d’activité : Carsharing / autopartage / nouvelles                                        Ville : Rennes
+mobilités                                                                                        N° téléphone : 02 99 67 01 75
+Représentant de l’entreprise : Didier HOUAL                                                      N° fax :
+Sa qualité :Dir tech                                                                             Site Web : www.mobilitytechgreen.com
+N° de Siret : 51268106500029                                                                     Courriel : contact@mobilitytechgreen.com
+N° NAF : 6209z                                                                                   Signataire de la convention :
+Statut Juridique : SAS                                                                           Didier HOUAL
+Effectif de l’établissement : 4
+Nom de l’encadrant de stage : Guillaume Amadieu                                                  Chargé du suivi administratif : Melinda Huchet
+Sa qualité : cehf de projet                                                                      Sa qualité : DAF
+Service : Informatique /electronique                                                             N° téléphone : 02 99 67 01 75
+N° téléphone : 02 99 67 01 75                                                                    Email : mhuchet@mobilitytechgreen.com
+Email : contact@mobilitytechgreen.com                                                            Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué :
+Informatique-électronique embarquée…………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): Rennes centre……………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                                      8 semaines du 2 janvier au 6 mars 2013
+                                                                                                 puis 5 semaines minimum à partir du 27 mai ou 1er juillet jusque fin la
+                                                                                                 fin août 2013
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                                   8 semaines minimum à partir du 6 mai 2013
+□ MIAGE                                                                                          13 semaines minimum à partir du 13 mai 2013
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                               du 4 mars 2013 à fin août 2013
+□ Spécialité IR                                                                                  du 4 mars 2013 à fin août 2013
+□ Spécialité GL                                                                                  du 4 mars 2013 à fin août 2013
+□ Spécialité   MITIC                                                                             du 4 mars 2013 à fin août 2013
+□ Spécialité   SSI                                                                               du 4 mars 2013 à fin août 2013
+□ Spécialité Recherche                                                                           du 1er février 2013 à fin juin 2013
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+UNIVERSITE DE RENNES 1                                                                           TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                            FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                         www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+□ Spécialité   CCI                                                                                 du 15 avril 2013 à fin août 2013
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH   (3 périodes)
+21 octobre 2012 au 28 décembre 2012
+10 février 2013 au 5 avril 2013
+13 mai 2013 jusque fin août
+□ Spécialité SEA                                                                                   16 semaines à partir du 25 février 2013 jusque fin août 2013
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                  (1 période de 2 semaines + 3 périodes de 8 semaines)
+17 septembre 2012 au 28 septembre 2012
+5 novembre 2012 au 11 janvier 2013
+18 février 2013 au 12 avril 2013
+à partir du 21 mai 2013 jusque fin août
+□ Spécialité CTS                                                                                   entre 4 mois minimum et 6 mois maximum à partir du 4 mars 2013
+□ Spécialité ST                                                                                    entre 4 mois minimum et 6 mois maximum à partir du 4 mars 2013
+□ Spécialité SISEA                                                                                 entre 4 mois minimum et 6 mois maximum à partir du 4 mars 2013
+AUTRES FORMATIONS (STAGES NON-OBLIGATOIRES) : …………………………………………………………………
+SUJET  DU  STAGE  :
+Titre du stage proposé :
+Développement et support Interface eColibri Carsharing (M2M embarqué + Web)
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériel, technologies,
+méthodes, langages…) : dot net   Windows pour le logiciel fullweb
+C / C++ /   Environnement Linux pour l’embarqué et M2M (Machine to machine)
+Sujet proposé détaillé :
+Développer notre interface SAAS carsharing eColibri.Fullweb destinée au carsharing.
+Assurer la mise en place du support et les corrections de niveau 1.
+Accompagner la mise en place des nouveaux outils et innovations Web (nouveaux services liés a la
+mobilité)
+Assurer et accompagner les projets et développements Mobile (développement de nouvelles appli)
+Assurer et accompagner le développement de nos logiciels embarqués (ex : écrans tactiles inboard
+les véhicules - exemple Renault R-Link - logiciel d’autopartage plateforme linux M2M)
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 480 euros                                                            Nom de l’Etudiant :
+Modalités de versement : mensuel                                                                   Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

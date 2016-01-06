@@ -1,0 +1,51 @@
+﻿Stage n° 18 du LCE : Caractérisation du comportement en température
+d'un processeur massivement parallèle.
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information, la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences, le CEA est au cœur de l'espace européen de la recherche et se développe au
+niveau international. Situé en île de France sud  (Saclay), le Laboratoire d’Intégration des
+Systèmes et des Technologies (LIST) a notamment pour mission de contribuer au transfert
+de technologies et de favoriser l’innovation dans le domaine des systèmes embarqués.
+Le  LCE                                                                                                  (Laboratoire  Calculateur  Embarqué)  a   conçu  et  fabriqué  une   architecture
+massivement  parallèle  spécialisée  pour  le  traitement  d’image.  Dans  la  perspective  de
+concevoir  un  circuit  en  technologie  3D                                                              -  par  collage  -  le  comportement  thermique  du
+processeur parallèle doit être étudié. En effet, ce système 3D sera composé d’une première
+couche capteur (RL1) à laquelle sera collé le processeur massivement parallèle (RL2). Les
+variations de température de RL2 sont un facteur important de perturbation de l’acquisition
+d’image. Ainsi, une étude approfondie du comportement en température du composant est
+nécessaire.
+Le stage se déroulera de la manière suivante : à partir de codes existants pour RL2, il faudra
+estimer la consommation du processeur parallèle avec les outils Modelsim et  Prime Power
+puis injecter ces profils de consommation dans un modèle de l'outil DOCEA - cet outil permet
+de modéliser le comportement thermique d’un système à partir de profils de consommation -
+pour déterminer le comportement thermique du composant. Ce travail représente la partie
+principale du travail. Le candidat s’appuiera sur un modèle complet de l’architecture, et de
+codes  applicatifs  existants.  Il  pourra  par  ailleurs  être  envisagé  de  faire  des  mesures  de
+température sous caméra thermique pour qualifier la modélisation faite en simulation. Grâce
+à  ces  résultats,  le  simulateur  haut  niveau,  écrit  en  C++,  sera  retro-annoté  avec  ces
+informations de consommation et de température. Par le biais de ce stage le candidat pourra
+ainsi se familiariser aux outils de conception avancés pour la réalisation d’architectures de
+calcul innovantes.
+Profil recherché :
+Niveau demandé : BAC + 5
+Durée :                                                                                                  6 mois
+                                                                                                         Compétences :  VHDL,  ModelSim,  PrimePower,  SystemC,  C/C++,
+                                                                                                         python.
+Pièces à fournir :                                                                                       CV + lettre de motivation + classements
+Contact:                                                                                                 Stéphane Chevobbe, ingénieur chercheur, Ph.D.
+                                                                                                         Mail : stephane.chevobbe@cea.fr, Tél. : 01.69.08.27.46
+Laboratoire d’Intégration des Systèmes et des Technologies                                               Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                           Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                 Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

@@ -1,0 +1,134 @@
+﻿Offres de stages 2014
+More Than Productivity
+
+
+
+
+DESOUTTER
+Nous appartenons au groupe d’origine suédoise Atlas Copco présent et
+reconnu sur les 5 continents (33 000 collaborateurs à travers le monde,
+7  milliards d’euros de CA), Atlas Copco affirme son leadership dans
+plusieurs domaines d’activités: compresseurs, équipements miniers et
+de  construction,  outils  de  forage,  outillage  pneumatique,  systèmes
+d’assemblage.
+Filiale du pôle d’activités Industrie et techniques (ITBA),   Desoutter, situé
+à Saint Herblain, est le Technocentre de la division CP, qui conçoit et
+produit   des   outils   électriques   et   pneumatiques   pour   l’industrie
+(automobile, aéronautique, électroménager...).
+300 collaborateurs travaillent dans notre Technocentre et au sein d’une
+structure  fortement  orientée  R&D,  Desoutter  vous  offre  la  possibilité
+d’évoluer dans un univers dynamique en participant à des études de
+faisabilité technique.
+Déroulement d’un stage au Technocentre
+Nous accueillons, tous les ans,  2 à  5 étudiants ingénieurs pour des
+durées de stage de 6 mois minimum. Les projets confiés aux stagiaires
+nécessitent  d’aborder  toutes  les  problématiques  usuelles,  en  R&D :
+analyse du besoin, recherche de l’état de l’art, conception, validation sur
+prototype.
+Profils recherchés
+Elève  ingénieur  en  dernière  année  de  cycle  ingénieur,  curieux  et
+passionné   de   technique,   spécialité   mécanique,   électronique   ou
+informatique industrielle.
+Merci d’adresser vos candidatures à :
+Nicolas Le Du - Technocentre
+ZAC de la Lorie - 38 rue Bobby Sands
+44800 Saint Herblain
+Tel : 02/40/80/20/73   - nicolas.ledu@cp.com
+
+
+
+
+Spécialité électronique
+Sujet                                                          Application                 Travail à réaliser
+Evaluation d’une                                               Contrôleur de               Réalisation de cartes interface
+plateforme sbRIO                                               perçage                     Faisabilité sur l’import d’IP VHDL existante
+de National                                                                                Réalisation de pilotage moteur sous sbRIO en Labview
+Instrument
+Amélioration                                                   Outil de vissage à          Recherche biblio, établissement de protocoles d’essais,
+                                                               batterie                    Réalisation de banc de test, etc…
+multicritères de
+l’utilisation d’une
+batterie Lithium-
+ion
+Pour plus de renseignement prendre contact avec :
+Emmanuel Martineau   02 40 80 20 84                            emmanuel.martineau@cp.com
+                                                               Spécialité mécanique
+Sujet                                                          Application                 Travail à réaliser
+Visseuse droite à                                              Vissage dans                Notre gamme de visseuse comprend une visseuse
+faible réaction                                                l’industrie                 pistolet asservie électrique dont la rotation est pilotée en
+                                                               automobile                  mode discontinu ou pulsé, ce mode de pilotage permet
+de limiter considérablement   la réaction du couple de
+vissage dans la main de l’opérateur et donc d’en
+améliorer l’ergonomie.
+Cette étude de faisabilité concernera l’application de cette
+technologie à une visseuse droite. Les problématiques à
+résoudre seront du domaine de la dynamique des solides
+et de la résistance des matériaux.
+Augmentation de la                                             Vissage dans                Nos visseuses électriques asservies sont étudiées pour
+plage de couple de                                             l’industrie                 une plage de couple dans un rapport de 1 à 5 entre les
+nos visseuses                                                  automobile                  couples maxi et mini. Le but de cette étude de faisabilité
+asservies                                                                                  sera d’évaluer comment et de combien il est possible
+d’étendre cette plage de couple. Cette étude prendra en
+compte les problématiques liées à la chaine de mesure
+de couple et aux effets dynamiques des différents
+composants mécaniques de la visseuse.
+Attachement de                                                 Vissage dans                Cette étude de faisabilité porte sur une liaison mécanique
+renvoi d’axe                                                   l’industrie                 démontable entre un accessoire de vissage de type
+                                                               automobile                  douille ou renvoi d’axe et une visseuse d’angle asservie.
+Cette liaison permettra la reconnaissance par la visseuse
+des caractéristiques de l’accessoire de vissage et
+l’adaptation du programme de vissage en fonction de ces
+dernières.
+Pour plus de renseignement prendre contact avec :
+Nicolas Le Du   02 40 80 20 73                                 nicolas.ledu@cp.com
+
+
+
+
+Spécialité logiciel
+Sujet                                               Application              Travail à réaliser
+IHM dynamique de                                    Poste                                                                 Ce logiciel permet à nos clients de créer de façon autonome
+supervision /                                       d’assemblage             des IHM de guidage opérateur.
+guidage                                                                                                                   Votre mission consistera à porter l’application IHM sous
+                                                                                                                          framework Qt (IDE Qt creator & QML) et d’implémenter le
+                                                                                                                          protocole de communication ASCII associé.
+Portage d’un                                        Supervision                                                           Le logiciel est utilisé pour diagnostiquer et superviser en
+logiciel de                                         d’un contrôleur          temps réel un contrôleur de vissage.
+supervision sur une                                 de vissage                                                            Votre mission consistera à porter l’application existante sur
+tablette tactile                                                                                                          une tablette tactile Android. Le portage devra utiliser Qt quick
+Android                                                                                                                   pour l’utilisation de Qt sur système Android.
+                                                                                                                          adapter l’ergonomie du logiciel à une utilisation sur tablette
+                                                                             tactile.
+Intégration d’une                                   Poste                                                                 Nos produits de vissage doivent pouvoir interagir avec des
+stack CANopen                                       d’assemblage                                                          appareils industriels via le bus de terrain CANopen.
+sous QNX                                                                                                                  Votre mission consistera à intégrer la stack CANopen
+                                                                                                                          (LGPLv2) et de développerez le driver CAN bas-niveau dans
+                                                                             un environnement QNX.
+Portage d’un                                        Firmware                                                              Dans le cadre d'une réflexion sur l'utilisation d'une nouvelle
+logiciel embarqué                                   embarqué                                                              plateforme logicielle, votre mission consistera à porter une
+sur OS Linux                                                                                                              application existante (environnement QNX) vers un
+                                                                                                                          environnement Linux embarqué (plateforme i.MX6) et de
+                                                                                                                          mettre en place un atelier de développement afin d'évaluer les
+                                                                             performances du futur système.
+Evaluation de                                       Firmware                                                              Dans le cadre d'une réflexion sur notre environnement de
+différents outils de                                embarqué                                                              développement, votre mission consistera à:
+modélisation objet                                                           -                                            évaluer des alternatives à Rational Rhapsody pour la
+et de génération de                                                                                                       génération de code C++ (notamment StateChart)
+code C++                                                                     -                                            préparer la migration
+Evaluation de                                       Contrôleur de                                                         Une future évolution de nos produits industriels consistera à
+protocoles réseau                                   vissage                  les rendre capables d’interagir entre eux.
+d’appel de                                                                                                                Votre mission consistera à rechercher et tester des protocoles
+méthodes distante                                                                                                         (e.g. DBUS, Linx, Qnet,…) permettant l’exécution à distance et
+et de partage de                                                                                                          le partage de données au sein d’une architecture multi-
+données                                                                      processeurs.
+Conception d’une                                    Stratégies de                                                         Nos systèmes de vissage industriels sont basés sur des
+boucle de                                           vissage                                                               moteurs synchrones asservis en vitesse/courant.
+régulation en                                       avancées                                                              Votre mission consistera à concevoir, développer et régler une
+couple                                                                       boucle de régulation en couple.
+Pour plus de renseignement prendre contact avec :
+Laurent Macquet   02 40 80 89 94                    laurent.macquet@cp.com
+
+
+
+
+

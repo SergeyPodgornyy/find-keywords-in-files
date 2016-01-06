@@ -1,0 +1,40 @@
+﻿VENTE PRIVEE.COM RECRUTE UN/UNE ASSISTANT DÉVELOPPEUR WEB H/F EN STAGE DE 4
+À 6 MOIS.
+Date : 04/05/2015
+Référence de l’offre : 2015-586-9440850
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : La Plaine Saint-Denis 93210, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+vente-privee.com, pionnier et leader des ventes événementielles en ligne en Europe, accélère le rythme de
+son développement.
+Notre concept de ventes de produits de marques à prix réduits dans les univers mode, beauté, linge de
+maison, voyages et accessoires est présent en France, Allemagne, Espagne, Italie, Royaume Uni, Belgique ,
+Autriche et aux Pays-Bas.
+Plus de 2 100 collaborateurs se mobilisent tous les jours pour que chacune de nos ventes soit pensée comme
+un évènement unique pour les marques qui nous font confiance et pour nos 24 millions de membres.
+Description du poste :
+Au sein du pôle de Développement Web de notre Agence Créative Intégrée et sous la direction d'un maître de
+stage,  votre  rôle  est  de  concevoir,  développer  et  faire  évoluer  nos  différentes  applications  PHP,
+Laravel/Symfony. Vous intervenez sur nos projets web : sites internet business et corporate, intranet. Vous
+avez pour responsabilité, notamment : - Le développement PHP et l'intégration HTML/Javascript de sites
+internet - Le développement de nouveaux modules pour les sites déjà en production
+Profil recherché :
+Vous êtes à la recherche de votre stage de fin d'études et recherchez une entreprise pour valider votre
+dernière  année  en  développement  informatique.  Doté(e)  d'une  forte  sensibilité  artistique,  vous  avez
+développé une bonne connaissance du design et de l'ergonomie. Passionné(e) par les nouvelles technologies,
+vous êtes en veille permanente et vous tenez informé(e) des dernières nouveautés et tendances. Esprit
+d'équipe, autonomie et réactivité seront vos atouts pour réussir sur vos misions. Les connaissances techniques
+pour  le  poste                                                                                                  :  Un  niveau  avancé  en  PHP,  POO  et  la  maîtrise  d'une  logique  type  MVC  sera
+appréciée.(Laravel  ou  Symfony)Une  connaissance  avancée  des  standards  HTML/CSS  Un  niveau
+intermédiaire sur une technologie Javascript de type Angular/BackboneDes connaissances en Tests Unitaire
+via PHPUnit ou Behat serait un grand + Le stage est à pourvoir immédiatement pour une durée de 6 mois.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9440850
+
+
+
+
+

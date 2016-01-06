@@ -1,0 +1,42 @@
+﻿H/F Collaboration à la conduite d’un projet en Sécurité du Système d’Information selon
+la norme ISO 27001 (Système de Management de la Sécurité de l’Information).
+-                                                                                              Suivi d’un pré-audit ISO 27001 et déploiement de son plan d’actions sécurité en vue
+d’une certification en fin d’année.
+-                                                                                              Rédaction de documents techniques SI (sécurité lié à l'exploitation et à sa surveillance,
+cryptographie, sauvegarde, surveillance, vulnérabilités techniques, sécurité des réseaux...)
+et revue de documents fondateurs de la norme ISO 27001 tels que l’analyse de risques et
+son plan de traitement.
+-                                                                                              Animation de groupes de travail et participation à l’audit interne du processus
+informatique «Gestion du Système d’Information et maintenance applicative» pour des
+propositions d’améliorations en sécurité du SI et leurs mises en œuvre.
+-                                                                                              Dans le cadre de la surveillance de l’exploitation en collaboration avec l'équipe
+informatique, le stagiaire selon son profil, pourra élaborer un système d'IDS/IPS sur
+une base de solution Open Source à interfacer au système de supervision en place
+(type Nagios/Centreon) :
+o    Analyse de l'existant, présentation d'une solution documentée qui aborde :
+Pertinence des sondes, mesure d'impacts (performance…), limites et seuils (faux
+positifs …)
+o    Mise en place de la solution retenue en environnement Pré-production et
+documentation de la solution
+o    Passage en production si validation de la recette
+-                                                                                              Stage : de 4 à 6 mois
+-                                                                                              Lieu : Rennes
+-                                                                                              Entreprise : Docapost-DPS
+-                                                                                              Master en sécurité du SI
+Pouvez-vous le remettre à disposition ?
+D’avance merci
+Cordialement,
+Noëlle Bugeon
+Responsable qualité
+
+
+
+
+Docapost-DPS Rennes
+Noelle.bugeon@docapost-dps.com
+Tél : 06.85.14.31.09
+
+
+
+
+

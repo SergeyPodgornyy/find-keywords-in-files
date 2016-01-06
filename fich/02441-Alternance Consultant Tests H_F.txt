@@ -1,0 +1,40 @@
+﻿COGNIZANT TECHNOLOGY SOLUTIONS RECRUTE UN/UNE ALTERNANCE CONSULTANT
+TESTS H/F EN APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : ALT/EDR/2015-9304099
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Grenoble 38000, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Cognizant  (NASDAQ  :  CTSH)  est  un  fournisseur  majeur  de  conseils,  de  services  technologiques,  et
+d'externalisation des processus métier qui s'engage à aider les plus grandes entreprises dans le monde à
+optimiser leurs activités.
+Cognizant combine une culture forte de la satisfaction client, une innovation technologique ainsi qu'une
+expertise approfondie des marchés et des processus métier. Le groupe compte plus de 75 centres de services
+dans le monde et 211.500 employés.
+Description du poste :
+Cognizant recrute plusieurs alternants souhaitant s'investir dans la validation d'applications.
+Ce stage pourra comporter les étapes suivantes :
+- Introduction aux principes du test de la validation
+- Introduction aux outils de tests fonctionnels et démonstration
+- Etude d'un outil de test fonctionnel (HP Quality Center…)
+- Participation, au sein d'une équipe, à la mise en oeuvre d'une campagne de qualification logicielle
+Profil recherché :
+Rejoignez-nous pour votre alternance Bac +3 ou Bac +5 en vue d'embauche.
+Compétences requises :
+- Connaissance de base des modèles de développement logiciel (cycles en V et W, modèles
+incrémentaux et itératifs, etc.) et des process de testing au sein d'un projet.
+- Capacités d'analyse du comportement d'un système.
+- Capacités de résolution des problèmes.
+- Attiré par la qualité de services et le respect des méthodes et normes.
+- Qualités relationnelles et de communication.
+Type de contrat : professionnalisation ou apprentissage
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9304099
+
+
+
+
+

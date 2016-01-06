@@ -1,0 +1,33 @@
+﻿OFFRE DE STAGE N° 1500026
+Stage BAC+3/4 - Développement Outil de suivi sous Excel (H/F)
+Avec un chiffre d'affaires de 1,8 milliards d'euros et des références prestigieuses, Thales Communi-
+cations & Security est numéro un européen des systèmes d’information et de communication sécuri-
+sés pour les marchés mondiaux de la défense, de la sécurité et du transport terrestre.
+La société compte près de 7 000 salariés répartis sur 9 sites principaux en France, au service de ses
+clients en France et à l'international.
+Localisation : Thales Communications & Security - 85 rue Emile Brault 53000 LAVAL
+Contexte
+Le stage sera effectué dans le laboratoire de développement des produits d’identification (IFF - Identification
+Friend or Foe) pour les applications sols et navales. Une quarantaine de personnes travaille dans ce
+laboratoire composé à plus de 85 % d’ingénieurs. Ce laboratoire est également un centre de compétences
+transverses pour le développement de composants programmables et de modules radio. Une autre des
+missions de ce laboratoire est de réaliser l’intégration de nos produits, leur validation sur les plates-formes et
+de les tester dans un contexte opérationnel.
+Missions
+Dans le cadre de la mise en place des exigences de navigabilité (FRA145) sur les activités Aéronautiques de
+la plate-forme de soutien des équipements Aéro & Navals, vous aurez pour mission de :
+développer un outil sous Excel (Visual Basic) permettant l'enregistrement, le suivi et la mise à jour
+des diverses formations et habilitations des collaborateurs du site de Laval
+Profil des candidats : BAC+3/4   -   Durée : 3 mois environ
+Connaissances souhaitées : Développement Visual Basic, Excel
+L’intérêt pour le domaine aéronautique sera apprécié
+Indemnité mensuelle brute : 800                                                                                      €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : delphine.pacini@thalesgroup.com
+
+
+
+
+

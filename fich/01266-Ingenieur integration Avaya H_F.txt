@@ -1,0 +1,57 @@
+﻿ORANGE  BUSINESS  SERVICES  RECRUTE  UN/UNE  INGÉNIEUR  INTÉGRATION
+AVAYA  H/F  EN  STAGE  DE  1  À  6  MOIS.
+Date  :  21/02/2014
+Référence  de  l’offre    :  MBS/DDI/IA­1800­5857207
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Système  /  Réseaux  /
+Base  de  Données)
+Type  de  contrat    :  Stage
+Localisation    :  PALAISEAU  75003,  FR
+Durée  du  contrat    :  De  1  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Orange  Business  Services,  entité  de  Orange  dédiée  aux  services  de  communication  pour
+les  entreprises  dans  le  monde  (B2B),  est  un  leader  mondial  en  matière  d'intégration  de
+solutions  de  communication  pour  les  sociétés  multinationales.  Avec  un  réseau  sans
+couture  le  plus  étendu  au  monde  pour  la  voix  et  les  données,  Orange  Business  Services
+est  présent  dans  220  pays  et  territoires,  avec  une  assistance  locale  dans  166  pays.  Offrant
+une  gamme  complète  de  services  incluant  le  cloud  computing,  l'entreprise  mobile,  la
+relation  client,  le  M2M,  la  sécurité,  les  communications  unifiées,  la  visioconférence  et  le
+haut  débit,  Orange  Business  Services  fait  bénéficier  à  ses  clients  de  la  meilleure  expertise
+en  la  matière  au  niveau  mondial.  1,4  millions  d'utilisateurs  et  des  milliers  d'entreprises
+s'appuient  sur  la  plateforme  internationale  d'Orange  Business  Services  pour  communiquer
+et  mener  à  bien  leurs  activités.
+Au  sein  d'Orange  Business  Services,  Multimedia  Business  Services,  a  pour  mission
+d'accompagner  les  entreprises  dans  la  convergence  des  technologies  vocales,  Internet,
+mobiles  et  vidéo.  Multimedia  Business  Services  intervient  dans  les  nombreux  phases  de
+la  gestion  de  ces  technologies  :  Développement  et  production,  exploitation  et  maintenance
+des  infrastructures,  Conduite  projets,  Intégration  SI.
+Description  du  poste    :
+La  mission  du  stage  consistera  à  mettre  en  place  des  interfaces  entre  les  solutions  Avaya
+et  les  CRM  de  notre  client  (CRM  historique  et  SAP)  et  à  faire  évoluer  sa  solution  ToIP
+Avaya.
+Vos  activités  principales  seront  :
+­ Le  développement  d'interfaces  entre  l'ACD  (système  de  distribution  d'appels)  et  le  SI  du
+client.
+­ Le  paramétrage  de  la  solution  ToIP  Avaya.
+Vos  compétences  à  mettre  en  œuvre:
+
+
+
+
+­connaissances  de  l'installation  et  de  l'administration  des  systèmes  d'exploitation
+Windows  Server  2008  et  Linux  (RedHat  ou  Cent  OS)
+­compétences  téléphonie  (SIP,  T2/RTC)  et  réseau
+­compétences  développement  (Java  .Net  Python)
+Profil  recherché    :
+Qualités:
+­ Rigueur
+­ Autonomie
+Formation  type  Bac  +5  en  informatique
+Une  première  expérience  en  entreprise  est  souhaitée
+Pour  postuler    :  http://OBS.contactrh.com/jobs/1536/5857207
+
+
+
+
+

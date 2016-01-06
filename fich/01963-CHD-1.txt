@@ -1,0 +1,34 @@
+﻿Jouve SE au cœur des
+contenus et de vos processus
+métiers
+Offre de
+Stage
+Ingénierie logicielle
+   Titre : Développer pour les projets de l’équipe Service éditorial de Jouve SE
+   Lieu : Mayenne                                                                           Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                    Date : début 2015
+   Rémunération : stage indemnisé                                                           Référence : CHD_1
+Sujet : DEVELOPPEMENT METIERS
+   Soyez acteur de la modernisation et de l'industrialisation des process de production
+des services éditoriaux et rejoignez une équipe internationale (France, Dakar, Inde,
+Madagascar, Roumanie) qui travaille sur ces projets ;
+   Après avoir été formé , appréhendé et compris les environnements de développement
+et  les  solutions  de  production,  vous  aurez  en  charge  le  développement  et/ou  le
+refactoring de chaines de production d'ouvrages papier et numérique (Epub) ;
+   Rejoignez notre équipe d’experts en workflow et process de production, d'experts en
+mise en page et produits numériques innovant et travaillez en collaboration avec notre
+département R&D ;
+Environnement :
+   Python, JS, PHP
+   XML
+   Eclipse, SVN, Intégration Continue
+   Word, Indesign, 3B2
+   Méthodologie Agile
+Vous êtes intégré dans l’équipe industrialisation SE
+et vous êtes  considéré comme un membre à
+part entière de l’équipe.
+
+
+
+
+

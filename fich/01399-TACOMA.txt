@@ -1,0 +1,59 @@
+﻿From:       Frédéric Weis <frederic.weis@irisa.fr>
+Bonjour,
+Voici une proposition de sujet pour l’équipe TACOMA :
+L’équipe TACOMA se focalise sur le développement de services autour de
+l’habitat intelligent (/Smart Home/). Dans ce but, l’équipe dispose
+d'une plate-forme matérielle et logicielle permettant de détecter et
+d’évaluer différentes situations jugées pertinentes (présence dans une
+pièce, niveau d’activité etc.). L'objectif à terme est le développement
+d'applications sensibles au contexte : par exemple, prévenir
+l'utilisateur s'il oublie de fermer une fenêtre lorsqu'il quitte la
+maison, couper le chauffage dans les pièces qui ont peu de chance d'être
+occupées durant la prochaine heure.
+La plate-forme s'appuie sur un réseau de capteurs distribué dans
+l’environnement. Chaque nœud du réseau est constitué d’un
+micro-contrôleur fonctionnant sur batterie, qui pilote un ou plusieurs
+capteurs (température, bruit, CO2 …).  Les capteurs permettent de
+capturer des données brutes dans l’environnement. Ces données brutes
+sont insuffisantes pour détecter de manière fiable une situation ou une
+activité. D'une part, parce que la fiabilité de la mesure ne peut pas
+être garantie (dérive ou panne d’un capteur). D'autre part, parce que
+les mesures représentent des grandeurs physiques qu'il faut interpréter,
+transformer et corréler pour leur donner du sens. Par exemple, une
+absence de bruit ou de mouvement ne prouve pas qu’une pièce est
+inoccupée. Il faut recouper les informations avec d'autres données de
+capteurs telles que le niveau de CO2.
+L'équipe s'appuie sur un ensemble de techniques d'exploitation et de
+fusion de données pour interpréter les données des capteurs en
+activités. Ces techniques sont implémentées par un ensemble de
+composants dédiés s'exécutant sur la plateforme qui forment ce qu'on
+appelle un moteur de fusion de donnée. Il est alors possible de détecter
+des situations ou activités en fonction du moment de la journée.
+La visualisation des données qui circulent au sein de la plateforme
+(relevés de capteurs et leur interprétation) est actuellement complexe,
+en particulier pour les non initiés. L’objet du stage est la
+construction d'une interface graphique Web (/a priori/ basé sur Java
+EE/Tomcat/Javascript) permettant la récupération des informations
+produites pour notre moteur et leur représentation dynamique dans le
+temps. L'utilisateur doit par exemple pouvoir visualiser l'activité dans
+la maison au cours de la journée. L'objectif est de faciliter
+l'exploitation et la compréhension des données issues de la plateforme
+pour un public non-expert. L'équipe pourrait ainsi facilement illustrer
+le comportement de la plateforme au cours de démonstrations chez un
+
+
+
+
+partenaire industriel. Cette interface graphique serait également utile
+en interne pour la création des modèles utilisés par le moteur de fusion
+de donnée.
+La plate-forme repose sur des technologies standards (COAP, AQMP,
+6lowpan). L'étudiant devra s'appuyer sur ces technologies
+(principalement RabbitMQ) pour récupérer les informations nécessaires et
+les transformer pour permettre leur visualisation.
+Technologies : Java, JavaScript/HTML, RabbitMQ, Java EE, Maven
+
+
+
+
+

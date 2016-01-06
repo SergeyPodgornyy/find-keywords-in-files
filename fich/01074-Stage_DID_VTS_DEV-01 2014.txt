@@ -1,0 +1,70 @@
+﻿Offre  de  STAGE:  DID_VTS_DEV‐01_2014
+STAGE : CREATION D'ENVIRONNEMENTS
+3D TEMPS REEL
+H/F ‐ Lieu : Laval ‐ Durée : 4‐6 mois ‐ Stage Rémunéré
+(Stage niveau bac+3/4/5)
+Société  :
+DIDHAPTIC  est  une  jeune  société,  qui  crée  des  plates‐formes  complètes  de  formation  appliquée
+pour  les  métiers  de  la  santé.  Particulièrement  pour  les  métiers  où  la  mise  en  situation  réelle  du
+praticien   en   formation   ou   de   l’étudiant   peut   se   révéler   dangereuse,   trop   onéreuse,   ou
+techniquement  impossible.
+De  taille  humaine,  DIDHAPTIC  fédère  ses  collaborateurs  autour  de  sa  culture  de  proximité  et  de
+son  écoute.
+Contexte  :
+DIDHAPTIC  développe  et  maintient  plusieurs  simulateurs  d’apprentissage  avant‐gardiste  :
+   Un  simulateur  appelé  VirTeaSy  Dental  utilisé  pour  l’apprentissage  des  chirurgiens‐dentistes.
+Avec  la  plate‐forme  de  réalité  virtuelle,  le  praticien  en  formation  retrouve  l’environnement
+d’intervention  de  son  cabinet.  Le  geste,  l’image  et  le  son  l’immergent  dans  l’action  pour
+mieux  maîtriser  la  technicité.
+   Un  simulateur  appelé  AltiPhobe  utilisé  pour  l’apprentissage  de  travaux  en  hauteur  tel  que
+des  opérations  de  maintenance  sur  éolienne,  la  maintenance  d’un  viaduc,  le  nettoyage  de
+vitre  de  building,…
+VirTeaSy  Dental                                                                                                    AltiPhobe
+1
+
+
+
+
+Offre  de  STAGE:  DID_VTS_DEV‐01_2014
+Sujet  de  stage  :
+Dans  un  objectif  d’amélioration  de  l’environnement  3D  du  simulateur  VirTeaSy  Dental,  DIDHAPTIC
+désire  enrichir  sa  plateforme  de  nouveaux  objets  3D  et  de  nouveaux  avatars.
+Enfin,   dans   le   cadre   du   projet   AltiPhobe,   DIDHAPTIC   souhaite   développer   un   ensemble   de
+scènes/environnements  3D.
+Ainsi,  il  sera  demandé  au  stagiaire  de  réaliser  différents  scénarios  interactifs  temps  réel  intégrant
+des  dispositifs  sensoriels  et  des  possibilités  de  vision  en  relief  et  d'immersion  dans  l'image  de
+l'utilisateur.
+DIDHAPTIC  recherche  un  stagiaire  motivé,  créatif,  curieux  de  nature  et  ayant  des  connaissances
+dans  la  réalisation  de  scène  et  d’objet   3D,  afin  de  nous  aider  dans  l’enrichissement  de  nos
+simulateurs.
+Au  sein  d’une  petite  équipe  et  sous  la  responsabilité  directe  d’un  ingénieur  expérimenté,  le
+stagiaire  aura  la  charge  des  activités  suivantes  :
+   Réalisation  d’objets  3D  (fraises,  contre  angles,  miroirs).
+   Réalisation  d’avatars  3D  (enfant,  homme,  vieillard,  …)
+   Réalisation  de  scènes  3D  (éolienne  offshore,  viaduc,  building  en  milieu  urbain,  …)
+   Réalisation  et  intégration  de  scénarios  d’apprentissage  dans  un  simulateur  immersif.
+Pour  chaque  réalisation  3D,  les  missions  confiées  comprennent  un  travail  de  modélisation,  rendu
+et  texturage  ainsi  qu’une  animation  temps  réel.
+Bénéfices  pour  le  stagiaire  :
+Au   travers   de   ce   stage,   le   stagiaire   comprendra   les   enjeux   actuels   du   développement   de
+simulateur.   Par   ailleurs   il   approfondira   ses   connaissances   avec   des   nouvelles   techniques   et
+méthodologies  qui  lui  procureront  des  compétences  très  recherchées  sur  le  marché  du  travail
+dans  un  contexte  de  technologies  liées  à  la  réalité  virtuelle.
+Connaissances  demandées  :
+3DS  Max,  Photoshop,  Unity  3D
+Technologies  abordées  durant  le  stage  :
+3DS  Max,  Photoshop,  Unity  3D,  C#,  C++,  Visual  Studio
+Comment  postuler  :
+Candidature  sur  contact@didhaptic.com  à  l’attention  de  Mélanie  RAPINE  ‐  Responsable  RH
+Code  stage  :  DID_VTS_DEV‐01_2014
+DIDHAPTIC
+6, Rue  Léonard  de  Vinci
+BP  0119
+53001 LAVAL  cedex
+www.didhaptic.com
+2
+
+
+
+
+

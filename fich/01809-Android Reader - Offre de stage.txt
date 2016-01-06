@@ -1,0 +1,62 @@
+﻿Aquafadas est une société innovante, leader sur le marché de l’édition numérique
+sur tablettes et smartphones. Forte des technologies et de l’expérience développées
+au cours de ces années, elle est aujourd’hui parmi les entreprises technologiques en
+plus  forte  croissance  en  Europe.  Aquafadas  appartient  au  Groupe  Japonais
+Rakuten, leader mondial de l’ e-commerce (Priceminister, Viber, Viki…).
+Aquafadas se positionne comme une société de référence partenaire technologique
+des professionnels de l’édition, de la presse et de la communication en général à
+l’assaut du marché numérique. Elle a développé des partenariats privilégiés avec
+des éditeurs comme Bayard, Lagardère, Mondadori, des agences comme Publicis et
+Havas, des entreprises comme Air France, EDF et Véolia, elle est aussi présente
+l’international avec des partenaires comme Cambridge University, Egmont, Shueisha
+et Hürriyet.
+Découvrez les outils Aquafadas gratuitement sur http://www.aquafadas.com.
+Stage (H/F)   - Développeur Android
+Projet :
+Développez un moteur de recherche PDF sur Android.
+Au sein de l’équipe Android, vous participerez au développement de fonctions avancées
+d’une  liseuse  de  magazines  enrichis.  Nous  souhaitons  étendre  les  possibilités  de  la
+recherche de texte au sein d’un magazine et de plusieurs à la fois.
+Ce sujet vous permettra d’approfondir vos connaissances en développement Android et
+d’acquérir des compétences extrêmement solides grâce à :
+L’exposition à des frameworks très riches d’Aquafadas.
+La  nécessité  de  se  plonger  dans  du  développement  natif  pour  comprendre  le
+fonctionnement de la librairie de rendu PDF.
+                                                                                                 Le besoin de concevoir une architecture logicielle permettant de résoudre de nombreux
+problèmes    d’algorithme    complexes                                                           (optimisations                                                                          des    performances,
+mathématiques,…).
+La création d’interfaces utilisateurs élégantes et riches.
+Votre rôle:
+Aussi, vos missions consisteront à :
+Vous imprégner du fonctionnement de la solution de lecture numérique d’Aquafadas sur
+Android et de la bibliothèque de gestion du PDF.
+Maitriser le format de description de documents AVE.
+Continuer à faire évoluer l’architecture de la solution de recherche en s’appuyant sur les
+travaux déjà effectués sur iOS.
+Développer et intégrer celles-ci à l’application.
+Votre profil :
+De formation Bac+4 minimum en développement informatique, vous avez un bon niveau en
+Java et un goût prononcé pour le développement d’interfaces complexes. La connaissance
+de l'IDE Android Studio et du SDK Android sont un plus.
+Qualités recherchées:
+Créativité, passion et autonomie.
+Bonne abstraction conceptuelle.
+
+
+
+
+Exigence visuelle stricte.
+Esprit analytique et rigoureux.
+Conditions:
+Stage de 6 mois à pourvoir à partir de Janvier 2015 à Montpellier (Quartier du Millénaire).
+Gratification de stage selon la loi en vigueur.
+Vous souhaitez participer à l'aventure d'Aquafadas et concevoir la technologie de demain
+dans le domaine de la lecture de livres, magazines, bandes-dessinées, contenus riches sur
+tablettes ?
+N'hésitez plus, rejoignez nous !
+Envoyez nous votre candidature (CV + LM) à l’adresse suivante : stages@aquafadas.com
+
+
+
+
+

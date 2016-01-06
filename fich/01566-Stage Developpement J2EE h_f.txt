@@ -1,0 +1,48 @@
+﻿ATOS RECRUTE UN/UNE STAGE DEVELOPPEMENT J2EE H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 171418-7725782
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Dans le cadre de développements sur des applications du Système d'Information d'un grand compte du
+secteur Télécom, Atos interviendra en 2014/2015 sur la réalisation de plusieurs projets J2EE. Atos participe à
+l'ensemble des phases du cycle de réalisation  (spécifications, préparation de la validation, conception,
+développement, qualification, déploiement).
+En fonction du projet d'affectation, vous participerez à l'ensemble des phases projets pour une version
+évolutive d'une application dans les technologies J2EE:
+* Analyser l'existant et les besoins,
+* Réaliser le cahier des charges et choisir la solution,
+* Rédiger les spécifications et réaliser le prototypage,
+* Concevoir et réaliser les évolutions de l'application,
+* Définir et réaliser les tests,
+* Effectuer le support lors de la recette client.
+Suite à cette première mission, d'autres immersions dans des équipes de développements seront proposées
+selon les opportunités sur différentes technologies.
+Ce stage se déroulera sur l'agence de Toulouse.
+Profil recherché :
+De formation Bac+4/5 en informatique  (école d'ingénieurs ou université) en cours de validation, vous
+recherchez un stage à partir de la rentrée 2014, ou courant 2015.
+En fonction de la réussite des sujets traités lors de ce stage, une embauche pourra être envisagée.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7725782
+
+
+
+
+

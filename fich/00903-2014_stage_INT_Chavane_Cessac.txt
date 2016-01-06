@@ -1,0 +1,42 @@
+﻿Titre du stage: Decoding cortical activity evoked by artificial retinal implants
+Durée:6 mois
+Dates envisagées: 01-03-14 au 31-08-14
+Descriptif (15 lignes max):   Recent advances in research opens up the possibility of
+partially restoring vision to blind patients using retinal prostheses. However, the way
+an  electric  stimulation  activates  the  visual  cortex  is  still  poorly  understood.  The
+inViBE team has shown that a local electric stimulation of the retina evokes a cortical
+activity up to 10 times larger than what is expected based on the activity evoked by
+visual stimuli. This observed spread of evoked cortical activity is presumably due to 4
+effects: (i) an electric diffusion at the interface made by the complex electrode-retinal
+tissue; (ii) a spread of electric activity induced by the direct activation of retinal cells
+axons away from their somata; (iii) an electric diffusion in the visual cortex; (iv) the
+optical diffusion of the signal registered by optical imaging. The goal of the internship
+is to analyse the data already obtained at Invibe team in order to quantify these
+effects and especially to analyse the role played by the retina's network in the spread
+of activity. The first step of the internship will to construct a model of the diffusion
+induced by (i), (iii), (iv) and to compare the expected results with experiments. A next
+step will then be to propose a neuronal network model characterizing the effect (ii).
+Compétences  requises:   Strong  background  in  programming  and  skills  in
+mathematics or physics. Great interest in the field of visual neuroscience, both for
+fundamental aspects of visual processing and clinical research.
+Responsable du stage:    frederic.chavane@univ-amu.fr (INT, CNRS, Marseille),
+bruno.cessac@inria.fr (Neuromathcomp, INRIA, Sophia-Antipolis).
+Contexte: The team inViBE at the Institut des Neurosciences de la Timone (INT-
+CNRS) combines multiple expertises involving behavioral studies in both humans
+and monkeys, ophthalmologic clinical approaches, electrophysiological and real-time
+optical imaging studies in behaving monkeys and Bayesian modeling approaches.
+The team Neuromathcomp at INRIA Sophia-Antipolis focuses on the exploration of
+the brain from the mathematical and computational perspectives.
+Gratification : ce stage donnera lieu à une gratification au niveau du standard légal.
+Merci  d'envoyer  CV                                                                                  +  lettre  de  motivation  à  frederic.chavane@univ-amu.fr
+bruno.cessac@inria.fr
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                 5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

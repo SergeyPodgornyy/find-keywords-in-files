@@ -1,0 +1,54 @@
+﻿INFORMATIQUE                                                                                                                                 STAGE   2013-2014
+DEVELOPPEMENT D'UNE APPLICATION WEB
+DANS UN CONTEXTE DECISIONNEL
+Stage rémunéré
+                                                                                                                                             Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 14_2014_E&D_Decisionnel Flux
+                                                                                                                                             informatique  interne  au  Groupement  U
+                                                                                                                                             (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 6 mois - Période : à partir de février 2014
+                                                                                                                                             mission  la  centralisation  et  l'uniformisation
+                                                                                                                                             des ressources informatiques des magasins U
+et des centrales.
+Chaque  année  nous  accueillons  une  douzaine  de
+stagiaires   qui   rejoignent   une   équipe   de                                                                                            500
+collaborateurs qui travaillent dans un environnement
+Au sein du pôle SID Opérationnel et dans le cadre d’un projet global, le
+technique constitué de 500 serveurs (Unix, Windows,
+candidat prendra en charge toutes les phases du projet de construction
+AS400), 1800 équipements réseaux et une centaine de
+d’une application de chargement des paramètres du SID Opérationnel. Il
+bases de données, répartis dans les Datacenters et
+proposera les dossiers de spécification au comité de pilotage du projet.
+reliés aux 1423 points de vente du groupe.
+Il sera accompagné des experts Système U sur les technologies à
+mettre en œuvre.
+En immersion complète dans des projets
+Le SID Opérationnel couvre les outils d’aide à la décision des centrales
+concrets, ces stages leur permettront de
+opérationnelles du groupement.
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+L’objectif est de concevoir et de construire une solution logicielle destinée à gérer les paramètres fonctionnels et techniques du Système
+Décisionnel des Centrales Système U.
+Rédaction des dossiers de spécifications fonctionnelles et techniques, ainsi que la documentation
+Rédaction des fiches descriptives des tests d'intégration
+Modélisation et mise en place de la BDD (Oracle / Exadata)
+Développement des IHM
+Développement des flux avec Informatica
+Participation aux Tests d'Intégration
+Oracle / Exadata, Microstrategy, Informatica, J2EE
+Bac + 5, Ecole d’ingénieurs ou Universitaire avec intérêt pour le domaine décisionnel.
+Qualités requises :
+o   Rigueur
+o   Capacité rédactionnelle
+o   Esprit d'équipe
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

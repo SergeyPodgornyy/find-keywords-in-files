@@ -1,0 +1,38 @@
+﻿STAGE R&D - MOTEUR DE RECHERCHE (h/f)
+Notre Mission
+Le groupe LeGuide, opérateur de guides shopping, comparateurs de prix, moteurs de recherche
+shopping et plateformes d’avis sur Internet, est numéro un en Europe avec 22 millions de visiteurs
+uniques (ComScore 5/2013). Le groupe opère dans 14 pays européens grâce à une stratégie multi
+sites autour de plusieurs filiales.
+Votre Mission pour                                                                                       Le Département Informatique
+                                                                                                         Rattaché(e)     au  responsable  de  l’équipe  moteur  de  recherche,  vous  travaillez  sur  les  projets
+d’évolutions de notre moteur de recherche shopping.
+Vous aurez en charge les missions suivantes :
+                                                                                                        Data-mining sur un grand nombre d'offres de produits e-commerce  (artificial intelligence,
+statistics, image processing)
+                                                                                                        Utilisation de logiciels de traitement d'images
+                                                                                                        Stockage de données sous Hadoop/HBase et en SQL standard
+                                                                                                        Contribution au développement d’outils d’amélioration de la pertinence principalement en
+Python
+                                                                                                        Tests d'évaluation du moteur de recherche
+                                                                                                        Possibilité d'intervention sur du code en C++ ou en Java, selon les besoins de l'équipe et
+les compétences du candidat
+Vos Compétences & Expériences
+    Vous  suivez  une  formation  supérieure  de  type  ingénieur  ou  équivalent  et  vous  êtes  au
+moins en deuxième année d'école ou en master.
+    Vous  avez  des  connaissances  en  langages  de  programmation                                     (C++  et/ou  Java)  et
+idéalement aussi dans un langage de scripting (Python, Shell).
+    Votre réactivité, votre envie de participer à un projet technique d’envergure, vos qualités de
+communication et votre rigueur seront des atouts pour vous épanouir dans cette mission.
+    Vous disposez d’un anglais opérationnel.
+Début et Durée                                                                                           Idéalement Janvier ou Février 2014 durant 6 mois
+Rémunérations et Avantages                                                                               Selon profil + 50% pass navigo et tickets restaurant
+Type de Contrat                                                                                          Stage à temps plein conventionné
+Lieu de Travail                                                                                          Paris
+Contact                                                                                                  Paris-jobs@leguide.com
+Pour en savoir plus sur LeGuide Group visitez http://www.LeGuideGroup.com
+
+
+
+
+

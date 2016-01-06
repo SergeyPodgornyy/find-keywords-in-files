@@ -1,0 +1,62 @@
+﻿UP SELL SIÈGE RECRUTE UN/UNE DÉVELOPPEUR WEB JUNIOR (H/F) EN CDI TEMPS PLEIN.
+Date : 01/05/2014
+Référence de l’offre : I love IT-6319518
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Montrouge 92120, FR
+Durée du contrat : Temps plein
+Niveau d’études : None
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Notre entreprise :
+UP SELL, expert en force de vente supplétive GMS, est une société jeune et dynamique qui est reconnue par ses
+clients pourson sérieux et ses très bons résultats.
+Les atouts d'UP SELL : des outils technologiques innovants pour un management humain et une performance
+commerciale reconnue par ses clients. UP SELL a remporté deux années de suite le Trophée d'OR Action
+Commerciale dans la catégorie « Force de vente externalisée ».
+Rejoindre  UP  SELL,  c'est  participer  au  développement  d'une  société  impliquée  dans  le  développement
+commercial  de  clients  prestigieux  de  la  grande  consommation,  du  high-tech,  de  la  pharmacie,  de
+l'électroménager… pour les circuits de la GMS, GSS, Impulse, GSA…
+Pour plus d'informations visitez notre site  : www.upsell.fr et découvrez le tremplin que représente la FDV
+supplétive pour votre carrière.
+Description du poste :
+Vos missions :
+- Développement et maintenance d'un portail d'entreprise « Intranet » (PHP/SQL Server),
+-> BackOffice des outils métier,
+-> Applications transverses (RH, Note de frais, etc…).
+- Analyse et conception de la base de données métier (SQL Server),
+- Assistance à l'analyse et la restitution des données sur un outil de BI.
+Participation à :
+- L'amélioration d'un outil de collecte de données commerciales sur plateforme Android (Java - SDK Android),
+- L'Amélioration d'un ETL,
+-> Modélisation (Merise),
+-> Implémentation (SQL Server).
+- Réunions avec l'opérationnel : Recueil des besoins, présentation des nouveautés…
+Compétences :
+- Développement Web backend (PHP) et frontend (HTML5/CSS/Javascript),
+-> La connaissance d'un Framework PHP est un plus !
+- Requêtes SQL (SQL Server) : Intégrité référentielle, sécurisation et optimisation des requêtes…
+- Java (Android SDK apprécié)
+Profil recherché :
+Votre profil :
+De  formation  BAC  +2/3  (BTS/DUT/License…)  dans  le  développement  d'applications,  vous  maîtrisez  les
+concepts de la modélisation UML et de la programmation orientée objet.
+Vous avez déjà réalisé des projets par vous-même ou en équipe et savez être autonome dans la recherche de
+
+
+
+
+solutions techniques, tout comme partager vos découvertes avec vos collègues.
+Vous débutez ou disposez d'une expérience d'un à deux ans, en alternance ou dans un premier emploi.
+Vous êtes passionné de nouvelles technologies et avez envie d'en découvrir toujours plus.
+L'apprentissage sur le terrain ne vous fait pas peur, savoir reprendre un sujet dans son ensemble et remettre en
+question les idées préconçues est pour vous une seconde nature. Les défis sont autant d'occasion de trouver vos
+limites et de les repousser.
+Venez rejoindre l'enthousiasme de notre jeune entreprise et grandir avec elle !
+Rémunération : 24/26 K€ selon profil
+Pour postuler : http://upsell.contactrh.com/jobs/1536/6319518
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿CS  COMMUNICATION  ET  SYSTEMES  RECRUTE  UN/UNE  INFRASTRUCTURES  DE  CLOUD
+COMPUTING H/F EN STAGE 6 MOIS.
+Date : 01/03/2015
+Référence de l’offre : ESP/TLS/n°2 -8567517
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Toulouse 31506, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Les projets scientifiques ont des besoins grandissants en ressources, en capacité de stockage et de calculs, ce
+qui induit des coûts liés aux infrastructures de plus en plus importants. La mutualisation des infrastructures à
+travers des clouds publics permet de réduire les coûts et d'adapter les capacités requises aux besoins.
+Toutefois à travers les clouds publics se pose la problématique de la sécurité et de la confidentialité des
+données. A cela, les clouds privés apportent une réponse puisque l'infrastructure est à usage interne.
+Les principales missions du stage sont :
+- Identifier les acteurs du marché des clouds publics, tels que OVH, Amazon, Microsoft, …, mais également
+les projets européens tels que Helix Nebula,
+- Effectuer l'inventaire de l'offre permettant de construire des clouds privés et la pile technologique associée
+: Eucalyptus, OpenStack, Puppet, … et leur capacité à s'intégrer avec des clouds publics,
+- Valider l'état des technologies permettant d'assurer la compatibilité entre les modèles de clouds. L'aspect
+confidentialité  et  sécurité  des  clouds  publics  devra  être  évalué.  L'impact  de  cloud  hybride  sur  les
+architectures applicatives devra être évalué.
+Profil recherché :
+Ingénieur de formation ou équivalent universitaire (Bac+5), vous justifiez de compétences techniques en
+programmation orientée objet en Java et du système d'exploitation Linux.
+La connaissance des architectures cloud serait un plus.
+Vous maitrisez l'anglais technique
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8567517
+
+
+
+
+

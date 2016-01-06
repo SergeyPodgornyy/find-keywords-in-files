@@ -1,0 +1,47 @@
+﻿Consultant en Architecture
+Digitale DCX (h/f)
+DIVISION                                                              RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                              ST-SE-3501
+                                                                      LOCALISATION                                                                         DOMAINE
+CONTEXTE                                                              GÉOGRAPHIQUE                                                                         DU STAGE
+                                                                      Nantes, Rennes                                                                       Technique
+Au sein de son entité
+dédiée à l’Innovation et aux                                          DATE DE DÉBUT                                                                        DURÉE
+Nouvelles Technologies,
+DU STAGE                                                              DE STAGE
+composée de 650
+consultants, Capgemini                                                A partir de janvier 2015                                                             6 mois
+fournit à ses clients du
+secteur Public, de la Santé
+du Social, des Transports
+DESCRIPTION DU STAGE
+et des secteurs Privés, des
+applications novatrices,                                              Dans le cadre du développement de l’offre Digital Customer Experience (DCX) visant
+axées sur l’intégration de                                            à accompagner nos clients dans leur transformation digitale, vous êtes amené(e) à
+systèmes, l’architecture et                                           développer ou intégrer tout ou partie des composants de cette offre.
+les web services.                                                     Vous participez à une ou plusieurs phases du développement d’un démonstrateur ou
+d’un projet :
+• analyse de l’état de l’art,
+• analyse de la solution globale sur le plan architectural,
+• réalisation de dossier d’architecture,
+• développements afférents et mise en œuvre de solutions.
+LES “PLUS”
+DU STAGE                                                              PROFIL RECHERCHÉ
+                                                                      De formation Bac+5, vous :
+Vous découvrez les différentes                                        •  avez déjà une connaissance des environnements techniques J2EE, mobilité, web
+phases d’un projet de                                                 services, SOA,
+Système d’Information et la                                           •  êtes rigoureux(se) et doté(e) d’une bonne capacité d’écoute,
+méthodologie en architecture                                          •  appréciez le travail en équipe et les challenges,
+et prouvez votre autonomie                                            •  possédez un bon niveau d’anglais.
+en répondant à des
+problématiques complexes.
+POUR POSTULER
+Stage de pré-embauche
+recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+122 - STAGES 2014-2015_Capgemini Technology Services
+
+
+
+
+

@@ -1,0 +1,47 @@
+﻿CS  COMMUNICATION  ET  SYSTEMES  RECRUTE  UN/UNE  INDEXATION  D'INFORMATION
+ELASTICSEARCH EN STAGE DE 4 À 6 MOIS.
+Date : 23/12/2014
+Référence de l’offre : DEF/LPR/N°10-8411596
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Le Plessis Robinson 92350, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Les Systèmes d'Information génèrent d'importantes quantités de données techniques qui doivent souvent être
+analysées : recherche dans des traces applicatives suite à un défaut, recherche d'événement particulier, …
+Cette fonction est généralement adressée par l'indexation de l'ensemble des journaux de trace du système
+(dans notre cas dans une base ElasticSearch).
+Cette indexation permet l'analyse a posteriori et il serait intéressant de pouvoir, en complément, corréler ces
+informations brutes pour affiner les recherche en définissant des combinaisons d'événements spécifiques.
+Le stage vise donc à rechercher et à mettre en œuvre (sous forme de prototype) une solution de corrélation
+des informations stockées dans la base ElasticSearch :
+- Étude et Choix de l'outil de corrélation,
+- Mise en place des mécanisme de corrélation : fenêtre temporelle, définition de seuil, pattern matching, ...
+- Mise en place des fonctions de reporting : script, trap, indexation événements corrélés, ...
+Durée : 4 à 6 mois
+Profil recherché :
+Etudiant(e) en 2ème année ou 3ème année en école d'ingénieurs ou équivalent universitaire, vous avez les
+compétences suivantes:
+- Maîtrise de Linux
+- Connaissance des machines virtuelles
+- notions de scripting et de programmation (ex : shell, perl, python),
+- idéalement une connaissance préalable d'ElasticSearch,
+- curiosité technique et sens de la communication (collaboration avec l'équipe d'intégration)
+Compétences linguistiques: Anglais Technique
+CV  + LM à envoyer à l'adresse recrutement@c-s.fr à l'attention de Gariné KELIJIAN en précisant la
+référence DEF/LPR/N°10.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8411596
+
+
+
+
+

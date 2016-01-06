@@ -1,0 +1,59 @@
+﻿Stage  / Navigation Basée Vision  - Expé
+ASTRIUM  - An EADS Company
+REFERENCE  :  10229957
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4681171
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Les Mureaux 78130, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/03/2014
+DUREE  :  4 mois
+SECTEUR  :  Industry (Aeronautical/Spatial)
+FONCTION  :  Information systems / Telecom (Development Engineer)
+SOCIETE  :
+L'espace, notre métier.
+Numéro 1 en Europe et numéro 3 mondial, Astrium emploie plus de 17 000 hommes et femmes,
+basés principalement dans cinq pays européens : France, Allemagne, Espagne, Royaume-Uni et
+Pays-Bas. Notre excellence technique et notre expérience de maître d'œuvre couvrent tous les
+segments de la filière spatiale : lanceurs, infrastructures orbitales, systèmes satellitaires et services.
+DESCRIPTION DU POSTE  :
+Astrium Space Transportation (Les Mureaux) recherche un(e) stagiaire pour une durée de 4 mois.
+La navigation basée vision consiste à utiliser des senseurs tels que les caméras visible et infra-rouge
+pour la navigation des systèmes (estimation des positions, vitesse et attitude).
+Ces méthodes peuvent être mises en œuvre aussi bien pour des missions de rendez-vous orbital
+(coopératif ou non coopératif) que des missions d'exploration (lunar lander, mars lander, etc.).
+Le stagiaire sera intégré dans l'équipe "Navigation Methods" du département "Mission Analysis &
+Navigation Systems" d'ASTRIUM Space Transportation.
+Cette offre de stage est à pourvoir à compter du 1er mars 2014 (sujette à une certaine flexibilité).
+Dans ce contexte, le stage proposé consiste à définir, mettre en œuvre et exploiter des
+expérimentations de navigation basée vision.
+Vous aurez, par exemple, les missions suivantes :
+1. Réaliser une bibliographie sur les expérimentations réalisées et évaluer les coûts de mise en place
+d'un banc d'essai,
+2. Mener des expérimentations avec les équipements déjà disponibles :
+- Définir les expérimentations à réaliser,
+- Mettre en œuvre les équipements,
+- Gérer la récupération des données et exploiter ces données. L'exploitation, s'appuyant sur des
+
+
+
+
+algorithmes déjà développés mais à adapter aux conditions de tests, consistera en l'analyse de la
+qualité des données (images) et des performances de navigation.
+PROFIL  :
+Bac+4, spécialisé(e) en ingénierie générale/informatique
+Compétences:
+Filtrage
+Automatique
+Matlab/Simulink
+qualités:
+Rigueur
+Autonomie
+Ecoute
+Anglais:intermédiaire
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4681171
+
+
+
+
+

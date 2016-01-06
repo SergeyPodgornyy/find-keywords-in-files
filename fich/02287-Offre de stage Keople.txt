@@ -1,0 +1,48 @@
+﻿Keople recherche son stagiaire Développeur Full-Stack
+La start-up Keople
+Confiance | Agilité | Engagement
+Keople est une startup qui propose de « déverrouiller » la culture numérique dans
+les entreprises et les organisations. Son offre repose sur une techno d’aide à la
+décision  (mode SAAS), basée sur un algorithme puissant de cartographie, de
+mesure et d’analyse du niveau de transformation numérique de l’entreprise.
+Des tableaux de bord avec indicateurs de performance et mesure de la maturité
+numérique,  accompagnent  l’entreprise  dans  sa  transformation  numérique  et
+chaque collaborateur dans son acculturation. Les défis techniques sont nombreux,
+au  cœur  des  enjeux  de  croissance  de  la  structure,  et  revêtent  donc  une
+importance stratégique.
+Le challenge
+Vous  souhaitez  participer  au  développement  d’une  techno  innovante  qui
+accompagne les organisations dans leur transformation numérique ? Travailler
+avec  une  équipe  pluridisciplinaire,  créative  et  humaine?  Etre  acteur  du
+changement? Vous désirez vous familiariser avec l’univers start-up. Rejoignez-
+nous  et venez vivre une expérience humaine & technologique !
+La mission
+Vous êtes en fin d’étude et vous cherchez un stage pour valider vos acquis.
+   Respect des standards web (norme W3C, notion d'accessibilité)
+   Agilité
+    Orientation nouvelles technologies
+Le profil recherché
+De formation informatique Bac+4/Bac+5, nous recherchons un stagiaire avec une
+appétence à la fois pour le back-end et le front-end.
+   Gestion de projet collaborative et agile
+   Veille technologique
+   Adaptable
+   Rigoureux et forte capacité d'écoute et d'analyse
+Les compétences requises
+   Environnement de travail : Ubuntu 14.04 LTS, Webstorm >= 8
+   Connaissances attendues : Javascript (no JQuery), HTML5, CSS3, NodeJS
+(notions ou + si affinités), JSON, git
+   Les + appréciés : MongoDB, Express, AngularJS, Bootstrap, Canvas
+   NodeJS : grunt, bower, yo
+   Maitrise des outils Google Apps
+Postuler (CV + lettre de motivation)
+   Type de de poste : Stage
+   Durée : 3-6 mois
+   Rémunération
+   Disponibilité : Janvier 2015 / ASAP
+   Mail : contact@keople.net
+
+
+
+
+

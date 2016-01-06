@@ -1,0 +1,68 @@
+﻿SOPRA   RECRUTE   UN/UNE   ALTERNANCE                                                                                   -                                                                                                       MAINTIEN   EN   CONDITIONS   OPÉ   EN
+APPRENTISSAGE/ALTERNANCE DE 6 À 12 MOIS.
+Date : 18/04/2014
+Référence de l’offre : STAGE/TELCO/RENN/6234310-6234314
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Rennes 35000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe, accompagne
+ses clients dans la réussite de la transformation de leurs métiers et systèmes d'information. Combinant valeur
+ajoutée et innovation dans les solutions apportées, qualité industrielle et performance des services délivrés, Sopra
+est le partenaire de référence des grandes entreprises et organisations qui recherchent le meilleur usage du
+numérique  pour  assurer  leur  développement  et  leur  compétitivité.  Le  Groupe  compte  plus  de                   16                                                                                                      000
+collaborateurs et a réalisé un chiffre d'affaires 2013 de 1,349 milliard d'euros.
+Sopra est coté sur NYSE Euronext Paris. Pour plus d'informations, retrouvez-nous sur www.sopra.com
+Notre entité Telecom Media, leader sur son marché par son savoir-faire, vous accueille sur l'un de ses quatre sites
+en  France                                                                                                              :  Paris,  Rennes,  Nantes  ou  Orléans.  Nous  accompagnons  nos  clients  dans  l'évolution  et  la
+transformation de leurs Systèmes d'Information, du conseil à la réalisation de projets innovants. Rejoignez nos
+700 collaborateurs et intervenez sur des domaines fonctionnels variés : portails, applications mobiles, CRM,
+chaîne de valeur, BI/Big Data, OSS, Broadcasting, etc.
+Description du poste :
+Au cœur du système d'information d'un opérateur Télécom majeur, plusieurs domaines applicatifs assurent un
+rôle essentiel :
+- les systèmes de collecte récupèrent les tickets d'appels issus du réseau et les transmettent à des systèmes en aval
+chargés de la facturation, de la détection de la fraude, des réquisitions judiciaires, marketing
+- les systèmes d'activation transforment les demandes d'actes de gestion des clients en commandes techniques
+pour le réseau
+Nos équipes ont pour mission d'assurer la disponibilité et la fiabilité des applications en production. Face à la
+croissance du trafic télécom sur les années à venir et la haute exigence de qualité de service pour l'activation, nos
+équipes doivent compléter leurs solutions de supervision et de suivi de la production en industrialisant certains
+outils ou pratiques.
+Après avoir reçu une formation sur les applications et les environnements techniques, vous aurez en charge
+d'industrialiser certains outils et les rendre génériques sur les applications connexes telles que :
+- gestion d'un référentiel de statistiques des performances d'applications en production comprenant acquisition,
+traitement, stockage, restitution, représentation graphique et simulation
+- industrialisation d'un outil de traitement massif de fichiers de données
+- relevé de mesure et d'indicateurs en productions
+- création de tableau de bord dynamique
+Vous participerez également à des activités d'analyse d'incidents de production.
+Cette mission vous permettra d'appréhender la gestion d'un projet en production et des actions préventives à
+mener pour assurer une bonne exploitabilité des développements informatiques.
+Intérêt du stage
+
+
+
+
+- travailler en équipe
+- environnement technique complexe
+- environnement de production à forte contrainte de disponibilité et scalabilité
+Environnement technologique/fonctionnel
+Java, Technologies UNIX, Shell Unix, Oracle, PL/SQL, Environnement Open Source
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de projets qui assurera
+un suivi détaillé de l'activité dans le cadre des procédures appliquées sur les projets clients.
+Profil recherché :
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en bases de
+données et des notions d'UNIX. Votre relationnel, capacité à travailler en équipe, et votre curiosité pour un
+environnement technique complexe sont les atouts qui vous permettront d'évoluer rapidement au sein de nos
+équipes.
+Pour postuler : http://sopra.contactrh.com/jobs/1536/6234314
+
+
+
+
+

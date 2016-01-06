@@ -1,0 +1,45 @@
+﻿PARIS INCUBATEURS RECRUTE UN/UNE DÉVELOPPEUR FRONT HTML/CSS/JAVASCRIPT EN
+STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : melu-devfront-8311188
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Paris 75020, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Paris Région Lab recrute pour l'une de ses entreprises hébergées : Melusyn.
+Description de l'entreprise
+Melusyn - www.melusyn.com - révolutionne la production cinéma et TV grâce à une nouvelle plateforme
+Web et mobile qui synchronise toute une équipe de production, en préparation d'un tournage de film ou de
+série. Chaque responsable de la production dispose de son propre espace et peut contribuer au projet partout
+et tout le temps.
+Nous  travaillons  au  service  de  réalisateurs  comme  Cédric  Klapisch,  Jacques  Audiard,  Pierre-François
+Martin-Laval, Tran Anh-Hung… et de séries pour Canal+, TF1 et France Télévisions.
+Melusyn permet d'optimiser grandement les temps de préparation des tournages, au service de la qualité des
+contenus et de la réduction des coûts de production.
+Melusyn est membre de Paris Incubateurs - Nouveaux Médias, lieu de référence pour les start-up média de la
+ville de Paris. Les bureaux de la société sont situés dans le XXème arrondissement de Paris (métro Buzenval,
+ligne 9, ou Nation, lignes 2, 6, 9 et RER A).
+Pour en savoir plus sur l'équipe et notre culture d'entreprise : http://tyba.com/company/melusyn/
+Description du poste :
+Nous recrutons un(e) stagiaire front-end pour nous aider à développer notre application Web à destination
+des professionnels de l'audiovisuel.
+* Tu connais déja HTML, CSS et Javascript et tu veux approfondir tes connaissances et compétences en
+travaillant pour un projet d'envergure
+* Tu as déjà essayé Angular.js ou tu as entendu parler de Backbone.js, Ember.js, Knockout et tu as trouvé ça
+sympa
+* Tu adores parler des dernières technos avec d'autres développeurs
+*  Tu  veux  développer  un  logiciel  ambitieux  et  prendre  des  responsabilités  au  sein  d'une  équipe
+d'entrepreneurs. Ici développeurs, designers et commerciaux travaillent ensemble pour construire le meilleur
+produit possible !
+Profil recherché :
+Nous privilégierons un fort esprit d'initiative et un intérêt pour le monde du cinéma et de la télévision.
+Poste non adapté à l'alternance
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8311188
+
+
+
+
+

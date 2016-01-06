@@ -1,0 +1,47 @@
+﻿ATOS                                                                                                               RECRUTE   UN/UNE   ALTERNANCE   DÉVELOPPEMENT   TMA      EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 06/01/2015
+Référence de l’offre : 177138-8523331
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Dans le cadre de nos projets auprès de grands acteurs du secteur public, nous cherchons des concepteurs et
+développeurs H:F particulièrement intéressé(e)s par les grands systèmes d'information de gestion pour des
+activités de maintien en condition opérationnelle (maintenance et développement)
+Ces projets allient les dimensions fonctionnelles et techniques :
+- Des applications réalisées dans des environnements très variés doivent cohabiter et communiquer.
+- Une excellente compréhension du métier de nos clients est indispensable.
+Votre alternance se déroulera au sein d'une équipe projet de Tierce Maintenance Applicative pour un client
+dans le domaine de la retraite / santé.
+Vous débuterez par une montée en compétence technique et fonctionnelle sur les applications du client.
+Vous intègrerez ensuite une équipe pour intervenir sur tout le cycle de vie du projet :
+- Spécification des besoins
+- Estimation des charges
+- Développement
+- Intégration / test et qualification
+- Livraison
+Profil recherché :
+Vous recherchez une alternance pour votre derniere année d'études.
+Vous  avez  une  capacité  à  travailler  dans  des  environnements  structurés  et  êtes  intéressé(e)s  par
+l'apprentissagede méthodes de référence  (gestion de demande via outil/workflow, méthode de chiffrage,
+gestion de configuration outillée, tests outillés avec Quality Center…)
+Vous avez le sens du travail en équipe et maîtrisez parfaitement la communication orale et écrite en français.
+Mobile et dynamique, votre engagement professionnel s'inscrit dans un esprit de service et de qualité.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8523331
+
+
+
+
+

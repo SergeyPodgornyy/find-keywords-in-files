@@ -1,0 +1,57 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE RESPONSABLE DES DÉPLOIEMENTS IAM EN
+CDI TEMPS PLEIN.
+Date : 06/05/2014
+Référence de l’offre : JD/SAFE/95150-6360334
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : CDI
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Au sein de l'équipe en charge de la lutte contre la fraude et de la sécurité de l'information, vous intégrerez le
+département en charge de la gestion du cycle de vie des identités et des d'accès (IAM, Identity and Access
+Management) aux applications au sein de GBIS et plus particulièrement l'équipe «  Deployment  », est en charge
+du déploiement des processus, solutions et contrôles d'IAM.
+En tant que Responsable des déploiements IAM  (Identity Access Management), vos missions seront les
+suivantes  :
+1-                                                                                                                     Responsable des activités déploiement
+* Propriétaire de la méthodologie de raccordement au framework IAM (POPS, D-UAR et LAC) et gestion des
+demandes incidentes.
+* Responsable de l'industrialisation des opérations de déploiement  (rédaction de procédures, outsourcing à
+Bangalore quand possible/pertinent).
+2- Propriétire du référentiel des dictionnaires de profils
+* Propriétaire de ce référentiel, vous assurez la mise en place du dispositif adéquat pour en garantir la qualité de
+l'alimentation et sa justesse.
+* Animation du réseau de correspondants pour faire vivre l'awarness sur les dictionnaires de profils.
+3- Responsable de l'identification et déploiement des Toxic Combinations
+* Responsable de l'extension de l'initiative Toxic Combination correspondant à l'identification des scénarios de
+fraude, principalement côté Front Office, l'implémentation de ces règles dans le framework IAM et toutes les
+opérations nécessaires de conduite du changement.
+4- Participation à la gouvernance de la stratégie de l'équipe
+* A la définition des roadmaps opérationnelles
+* Aux missions de représentation de la stratégie, des offres de service et de l'activité IAM dans des meetings
+GBIS, groupe SG et extérieur
+* Aux réponses suite aux sollicitations/recommandations du corps d'inspection, des auditeurs externes et des
+régulateurs
+Les spécificités du poste seront précisées lors des entretiens.
+Profil recherché :
+De formation Bac+5 en école d'ingénieur ou cycle universitaire, vous justifiez de minimum 3 ans d'expérience en
+sécurité des Systèmes d'Information avec des expériences réussies en gestion de projets et coordination d'équipe.
+La connaissance de la Banque de Financement et d'Investissement est indispensable.
+Au vu du contexte international, un anglais courant est exigé.
+
+
+
+
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6360334
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿Analyse de données sur cluster Hadoop H/F
+Orange Business Services
+REFERENCE  :  IT/BIBOP/SUJET72-1597
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4869194
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  RENNES 35700, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Les capacités de stockage combinées aux capacités de calculs parallélisées offertes par les
+environnements « Big Data » ouvrent des perspectives en terme d'analyse des données des
+entreprises. Cette nouvelle donne technologique permet d'étendre le domaine d'application des
+outils de « Data-Mining » traditionnels. L'objet de ce stage est d'étudier les outils statistiques
+permettant de tirer profit de la puissance de calcul d'un cluster Hadoop, d'un point de vue théorique
+mais aussi pratique par la mise en œuvre d'un POC (proof of concept).
+Le stage débutera par une phase de prise de connaissance du contexte Big Data. Cette phase
+préparatoire permettra au stagiaire de générer dans un cluster Hadoop existant des données de tests
+
+
+
+
+(tables de faits, logs …) représentatives d'un domaine métier (à définir).
+La deuxième phase du stage consistera à lister et cartographier les outils d'analyse fonctionnant sur
+des clusters Hadoop.
+Enfin, les outils de data-mining sélectionnés seront évalués sur les données de tests stockées dans le
+cluster Hadoop.
+Un document récapitulant les évaluations et le positionnement des solutions sera édité en synthèse
+des travaux et en conclusion de ce stage.
+Le stage s'effectue au sein d'une équipe d'architectes en systèmes d'informations décisionnels (bases
+de données, outils de restitution, …). Les travaux utilisent les résultats d'études déjà réalisés au sein
+de cette équipe.
+PROFIL  :
+Rigoureux (se), vous avez le sens de l'initiative et vous voulez apprendre pour acquérir de
+l'autonomie. Vous avez une bonne culture des outils de data-ming (connaissance du langage R
+recommandée), le sens de l'analyse et du partage de l'information.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4869194
+
+
+
+
+

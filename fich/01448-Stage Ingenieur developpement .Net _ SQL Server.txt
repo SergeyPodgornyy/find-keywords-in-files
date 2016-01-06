@@ -1,0 +1,36 @@
+﻿FINELOG RECRUTE UN/UNE STAGE INGÉNIEUR DÉVELOPPEMENT .NET / SQL SERVER EN STAGE
+DE 4 À 6 MOIS.
+Date : 01/09/2014
+Référence de l’offre : IEDSTAGE/0614-6867307
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Ile de France 92100, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+SSII reconnue depuis 2004, FINELOG, apporte des solutions à ses clients, principaux acteurs issus des secteurs
+Banque/Finance, Assurances, Industrie, Médias ou Services.
+Le groupe est à taille humaine, avec des équipes qui se positionnent sur 3 pôles d'intervention depuis la phase de
+conception d'un projet jusqu'à sa réalisation :
+* L'assistance à la maitrise d'ouvrage
+* La maitrise d'œuvre
+* L'organisation
+Description du poste :
+Passionné(e)  par  les  nouvelles  technologies,  vous  participerez  à  la  réalisation  de  plusieurs  projets  de
+développement d'applications intégrant Microsoft .Net C#
+Après une période d'intégration au sein de notre agence de Boulogne (92) où vous serez formé(e) à nos méthodes
+de développement, vous participerez à des projets réalisés au forfait ou en régie pour nos clients finaux.
+Vous serez encadré(e) par des chefs de projet permettant entre autres, une réelle montée en compétences.
+Profil recherché :
+Stagiaire de fin d'études conventionné Bac+5 en informatique, vous souhaitez vous investir fortement sur les
+technologies suivantes :
+- C# sur les Framework .Net 4.0 ou supérieurs
+- Méthode de modélisation de base de données (Merise, UML)
+- SQL Server 2012 et supérieures
+Pour postuler : http://finelog.contactrh.com/jobs/1536/6867307
+
+
+
+
+

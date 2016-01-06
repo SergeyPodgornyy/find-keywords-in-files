@@ -1,0 +1,59 @@
+﻿ISSF / APS
+Stage - Intégration d'un progiciel BPM de gestion de la relation client H/F
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe,
+accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs  métiers  et  systèmes
+d'information. Combinant valeur ajoutée et innovation dans les solutions apportées, qualité industrielle
+et performance des services délivrés, Sopra est le partenaire de référence des grandes entreprises et
+organisations qui recherchent le meilleur usage du numérique pour assurer leur développement et
+leur compétitivité. Le Groupe compte plus de 16 000 collaborateurs et a réalisé un chiffre d'affaires
+2013 de 1,349 milliard d'euros.
+Sopra   est   coté   sur   NYSE   Euronext   Paris.   Pour   plus   d'informations,   retrouvez-nous   sur
+www.sopra.com<http://www.sopra.com>
+Au sein de Sopra, vous êtes rattaché(e) au Marché Assurances et Protection Sociale qui regroupe
+550 collaborateurs et intervient sur les grands projets de transformation métiers et SI de nos clients
+assureurs, Groupes de protection sociale et mutuelles.Nous accompagnons nos grands clients en
+apportant  une  forte  valeur  ajoutée  métier  à  travers  des  prestations  de  Conseil  (optimisation  des
+processus métier et  des organisations, schéma  directeur et gouvernance IT…) et des prestations
+d’assistance  à  maîtrise  d’ouvrage  et  d’intégration  de  systèmes                                           (projets  de  développement,
+outsourcing applicatif, intégration de solution) autour notamment de la mobilité, du digital de la BI et
+du big data et core system métier. Si vous souhaitez participer à des projets d’envergure et relever de
+nouveaux challenges, rejoignez-nous et boostez votre carrière professionnelle.
+Rattaché(e)  à  l'agence  Assurances  et  Protection  Sociale  basé  à  Orléans,  vous  participerez  à
+l'intégration et au déploiement d'une solution marketing s'appuyant sur un progiciel leader mondial
+dans le BPM (gestion des processus métiers) et incontournable sur le CRM.
+Ce stage  vous permettra d'appréhender une méthodologie de projet  industrielle  et outillée,  et, de
+disposer d'une expérience solide dans un contexte professionnel reconnu.
+Dès  le  début  de  votre  stage,  vous  serez  formé(e)  au  progiciel.  Vous  serez  ensuite  amené(e)  à
+intervenir sur les aspects suivants :
+- analyse et modélisation des processus métier marketing
+- intégration et paramétrage du progiciel
+- développement java et paramétrage de l?outil
+- réalisation des tests unitaires
+- participation aux phases de qualification
+Intérêt du stage
+- participer à un projet stratégique de déploiement d'une solution marketing complète pour un grand
+groupe français de protection sociale
+- approfondir vos compétences java en intégrant une équipe de Développeurs confirmés
+- mettre en oeuvre les méthodes de conduite de projet Sopra et expérimenter les outils associés
+- découvrir le quotidien d'une équipe et la gestion d?un projet de taille importante
+Environnement technologique/fonctionnel
+Oracle, JEE, Javascript, XML, CSS, Progiciel Pegasystems.
+
+
+
+
+Environnement humain
+Intégré(e) à une équipe projet, vous serez encadré(e) par un Chef de Projet et accompagné(e) d'un
+tuteur durant toute la durée de votre stage.
+Profil recherché
+Actuellement en dernière année d'école d'Ingénieurs ou Master  2 informatique, vous connaissez la
+technologie Java (JEE).
+Vous faites preuve de qualités rédactionnelles, d'un esprit d'analyse, d'un sens du service et disposez
+de connaissances métier sur le marketing et la protection sociale.
+Vous êtes autonome, rigoureux (se) et réactif (ve) et possédez un bon relationnel.
+Réf. du sujet : ISSFAPS/ORL/STAGE/949
+
+
+
+
+

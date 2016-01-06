@@ -1,0 +1,36 @@
+﻿Offre de stage n° CAJ/DGA/2839
+Spécialité Sciences-informatique
+Niveau demandé Bac +3
+Nombre de places 1
+Descriptif / Sujet / Profil
+Mise à jour d'un site internet sous DRUPAL 7, redesign du Template (simplification, problèmes
+de compatibilité), ajouts et modifications de fonctionnalités  (statistique, amélioration module
+newsletter, amélioration et durcissement du Captcha, etc). Rédaction d'une notice technique pour
+le  maintien  du  site                                                                             (How  To  etc)  et  la  réalisation  de  sauvegardes  périodiques.
+L'objectif est de reprendre l'existant pour évoluer sous une nouvelle version  (si nécessaire),
+d'appliquer  les  mises  à  jour  de  sécurité  et  évolutions  des  modules  déjà  installés      (hors
+modifications),  procéder  à  des  évolutions  sur  les  modules  jugés  non  satisfaisants.
+Une fois ces éléments traités il sera demandé de rédiger une notice pour guider les utilisateurs
+dans la réalisation de sauvegardes, l'application de mises à jour en mode local, le portage en
+ligne de la version à jour.
+Logement NON
+Restauration OUI LE MIDI
+Période MARS A JUIN 2014
+Durée (en jours) 90
+Précision durée
+Autres commentaires STAGE SOUS CONTRAT
+Lieu
+Employeur Direction générale de l'armement (découvrir)
+Localisation Bretagne / Ille-et-Vilaine (35)
+Etablissement DGA Maîtrise de l'information (DGA MI)
+Adresse site    La Roche Marguerite 35170 BRUZ
+Personne  à  contacter
+Identité TOURTELIER DENIS (requis)
+Fonction Expert en fiabilité et obsolescences électroniques
+Adresse mèl denis.tourtelier@intradef.gouv.fr
+Téléphone 0299429341 - Fax 0299429814
+
+
+
+
+

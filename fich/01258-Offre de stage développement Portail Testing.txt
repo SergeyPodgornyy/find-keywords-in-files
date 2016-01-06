@@ -1,0 +1,70 @@
+﻿Faites vos premières armes chez Steria !
+Etudiants en école d’ingénieur, de commerce ou d’université, vous cherchez une première expérience
+professionnelle enrichissante et mémorable ?
+Concrétiser votre formation au côté des meilleurs consultants et professionnels du secteur ?
+Vous épanouir dans une ambiance créative au sein d’équipes dynamiques et soudées ?
+Acquérir une expérience solide dans le domaine qui vous passionne ?
+En intégrant Steria dans le cadre d’un stage ou en alternance, vous mettez toutes les chances de votre côté
+pour réaliser vos ambitions !
+Nous offrons un vaste choix de sujets de stages et d’alternance possibles pour les étudiants de tous horizons,
+principalement issus de dernière année. Ces programmes combinés de travail et d'apprentissage vous donnent
+une excellente occasion d'explorer notre secteur d'activité et vous apportent une image fidèle de la réalité et du
+quotidien de l'entreprise. L'expérience acquise vous donnera sans nul doute un avantage lorsqu’il s'agira de
+rechercher votre premier emploi. Et avec 75% des stages et contrats en alternance aboutissant à une
+embauche, vous verrez très certainement s’ouvrir des opportunités au sein même de Steria.
+Stage Développement Portail Testing
+Steria en bref
+Steria délivre des services qui s’appuient sur les nouvelles technologies et qui permettent aux administrations et
+aux entreprises d’améliorer leur efficacité et leur rentabilité. Grâce à une excellente connaissance des activités de
+ses clients et son expertise des technologies de l’information et de l’externalisation des processus métiers de
+l'entreprise, Steria fait siens les défis de ses clients et les aide à développer des solutions innovantes pour y faire
+face. De par son approche collaborative du conseil, Steria travaille avec ses clients pour transformer leur
+organisation et leur permettre de se focaliser sur ce qu’ils font le mieux.
+Les 19 000 collaborateurs de Steria, répartis dans 16 pays, prennent en charge les systèmes, les services et les
+processus qui facilitent la vie quotidienne de millions de personnes chaque jour.
+Créé en 1969, Steria est présent en Europe, en Inde, en Afrique du Nord et en Asie du Sud-Est. Le Groupe a
+réalisé un chiffre d’affaires de 1,83 milliard d’euros en 2012. Son capital est détenu à hauteur de 20 %(*) par ses
+collaborateurs. Steria, dont le siège social est basé à Paris, est coté sur Euronext Paris.
+(*): « Employees Shares Trust » du Royaume-Uni inclus
+Descriptif de la mission
+Le « Portail Testing » est une solution actuellement existante au sein du CSP de Rennes, permettant d’afficher des
+informations d’avancement sur les activités de test des projets utilisant HP ALM
+Le portail repose sur une solution open source, additionnées de développements spécifiques permettant les
+constructions de tableaux et graphiques.
+Ce portail doit constituer une plus-value majeure aux prestations de test rendues par Steria, en offrant un média
+convivial et simple pour la consultation des éléments de reporting, à destination de nos clients.
+La solution actuelle souffre de problèmes de conception, rendant particulièrement difficile le déploiement, la
+maintenance et l’ajout de fonctionnalités à ce portail. L’objectif est de procéder à des opérations permettant
+d’améliorer la qualité de ce produit, et cela par l’intermédiaire :
+-                                                                                                                         De refactoring de code
+-                                                                                                                         De redéveloppement de certains modules
+-                                                                                                                         De révision de l’architecture
+February 25, 2014                                                                                                         © Steria In Confidence                   Page 1 of 2 / Version 1.0
+
+
+
+
+-                                                                                                                  Ainsi que tout autre action qu’il pourra être jugée utile et efficace.
+Profil recherché
+Ce stage s’inscrit de préférence dans un parcours de fin d’étude, pour un étudiant de profil informatique de
+développement, de niveau ingénieur, master, ou équivalent.
+Les compétences techniques requises sont les suivantes :
+-                                                                                                                  Maîtrise de PHP 5, MySQL et du language SQL   indispensable
+-                                                                                                                  Connaissance de Apache en environnement Linux est souhaité
+-                                                                                                                  Connaissance en script Linux en language Perl
+-                                                                                                                  Connaissance d’un CMS de type Drupal est un plus
+Les « Plus » de la mission
+Vous intégrez l’une des 10 premières SSII en Europe, et profitez de l’expérience de Steria auprès de ses clients
+Grands Comptes. Ainsi, vous étendrez vos connaissances dans différents secteurs d’activité et appréhenderez le
+métier de Développeur. Vous serez accompagné par le Responsable de Stage Steria qui vous apportera le
+support nécessaire.
+Rémunération du stage
+Selon profil
+Tickets restaurant + remboursement titre de transport (50%)
+Contact recrutement
+Sophie.cerrand@steria.com
+
+
+
+
+

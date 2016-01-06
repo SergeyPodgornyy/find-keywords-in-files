@@ -1,0 +1,63 @@
+﻿OFFRE DE STAGE EN INFORMATIQUE
+Lieu :
+Dimension Data Luxembourg
+WEST SIDE VILLAGE
+Rue Pafebruch 89D
+L -8308 CAPELLEN
+LUXEMBOURG
+Phone +352 25.48.25-1
+Point de contact :
+Vincent Pecci
+Technology Leader - Réseau et Securité
+Référence : FY2014-NISEC / JUNIPER
+Email: lu.stage@dimensiondata.com
+Stage rémunéré
+Durée: 6 mois - période à convenir Février à Septembre 2013
+Entreprise: Dimension Data -http://www.dimensiondata.com/lu
+Avec plus de 10 000 collaborateurs dans plus de 40 pays, Dimension Data
+(Code LSE : DDT), fournisseur spécialisé de solutions et de services informatiques,
+aide   ses   clients   à   concevoir,   déployer   et   exploiter   leurs   infrastructures
+informatiques.
+Dimension  Data  applique  son  expertise  dans  les  domaines  des  réseaux  IP,  de  la
+téléphonie  et  la  collaboration,  de  la  sécurité,  des  plates-formes  système  et  des
+technologies  dédiées  aux  centres  de  contacts.  Dimension  Data  met  également  au
+service  de  ses  clients  ses  qualités  uniques  de  conseil,  d'intégration  et  de  gestion
+pour  leur  fournir  des  solutions  complètes  et  personnalisées  allant  de  l'intégration
+traditionnelle à des offres de service clef en main de multi-sourcing.
+Ce  stage  ce  déroulera  dans au  sein  de  l’équipe  réseau  et sécurité ou  vous  serez
+encadré  d’un  point  de  vu  technique  par  un  ingénieur  sénior  dans  le  domaine  et
+d’un point de vu entreprise par Vincent Pecci.
+P a g e  1  o f  2
+©  D i m e n s i o n  D a t a  L u x e m b o u r g  S A
+
+
+
+
+OFFRE DE STAGE EN INFORMATIQUE
+Sujet :
+Solution constructeur
+Juniper est depuis le début de l’IT un des acteurs majeures dans les domaines des
+réseaux et sécurité.
+A  l’origine  partant des  routeurs  de  cœur de  l’internet pour ensuite  passer sur des
+solutions de LAN d’entreprise pour finir ces dernières années sur les solutions de
+sécurités,  Juniper  dispose  d’une  solution  complète  pour  répondre  aux  besoins  de
+communications d’entreprise et leur sécurisation.
+Dans le cadre de votre stage il vous sera demandé :
+    Etudier  et  de  prendre  connaissance  de  l’éventail  de  produits  et  solutions
+supporté par ce constructeur
+    De définir une architecture mettant en place la totalité des solutions
+    De définir une approche de construction de ce laboratoire de solutions
+    Mise en place du laboratoire
+    Mise en place d’atelier et de scénario sous forme présentation  (Powerpoint)
+et maquette des solutions
+Le  stagiaire  participera  également  aux  réunions  de  travail  de  l’équipe  afin  de
+réaliser un suivi quotidien de l’avancement du stage.
+Il  pourrait  être  impliqué  dans  une  relation  en  clientèle  si  l’opportunité  dans  le
+domaine étudié se présente durant le stage.
+P a g e  2  o f  2
+©  D i m e n s i o n  D a t a  L u x e m b o u r g  S A
+
+
+
+
+

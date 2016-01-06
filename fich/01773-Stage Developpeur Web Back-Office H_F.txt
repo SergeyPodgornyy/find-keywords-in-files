@@ -1,0 +1,65 @@
+﻿JUNIOR TALENT RECRUTE UN/UNE STAGE DÉVELOPPEUR WEB BACK-OFFICE H/F EN STAGE
+6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : /1014/000284-7897952
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Junior Talent est un cabinet de recrutement spécialisé dans les recherches de profils étudiants  (stage,
+alternance) et de jeunes diplômés.
+Nous recherchons pour le groupe Solocal (Pages Jaunes, Mappy, A vendre A louer, Kapstage...), basé à
+Paris, un(e) stagiaire développeur web back - office.
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+En 2013, Solocal Group a réalisé un chiffre d'affaires proche d' 1 milliard d'euros dont 60% sur réalisé sur le
+web, et se classe ainsi parmi les premiers acteurs européens en termes de revenus publicitaires sur Internet. Il
+fédère  près  de                                                                                                    5  000  collaborateurs,  dont  plus  de                                  2  300  conseillers  en  communication  en  France,
+Luxembourg, Maroc, UK et Espagne.
+Vous bénéficierez des avantages suivants :
+Indemnités de stage : entre 1200 et 1500                                                                            €, Tickets restaurant + Participation aux frais de transport à hauteur
+de 50% + restaurant d'entreprise.
+4 bonnes raisons de rejoindre Solocal group :
+- Rejoindre une entreprise leader sur Internet et tournée vers les nouvelles technologies
+- Appartenir à une des 10 premières entreprises mondiales par le CA réalisé sur Internet
+- Travailler avec des partenaires de renoms dans le monde tels que Facebook, Microsoft,…
+- Contribuer au virage numérique du groupe
+Description du poste :
+Missions :
+- Etre partie prenante dans l'évolution de la plateforme d'intégration de données et des outils de Back-Office
+(Commerce, CRM, Business Intelligence (BI)),
+- Contribuer aux choix techniques, à l'élaboration et à la réalisation des solutions à mettre en œuvre,
+-  Interagir  avec  les  différents  demandeurs                                                                     (Marketing,  Commerce)  et  participer  à  la  priorisation  des
+demandes.
+Sujets phares auxquels vous participerez :
+- Refonte de l'architecture d'intégration des données,
+- Refonte du Back-Office.
+Profil recherché :
+Technologies abordées pendant le stage :
+- Utilisation du design pattern MVC 4
+- Web services (XML/RPC, REST, JSON, Web API)
+
+
+
+
+- nHibernate
+- Fitnesse
+- RabbitMQ
+Compétences requises :
+- C# / .NET MVC
+- jQuery, CSS3
+- SQL (Transact SQL)
+- Visual Studio
+Rigoureux(se), vous êtes réactif(ve) et soucieux(se) de la qualité de vos développements. Vous aimez le
+travail en équipe et vous êtes prêt(e) à vous investir dans un projet en perpétuelle évolution.
+Dynamisme, autonomie, et sens de l'initiative seront des atouts déterminants.
+Pour postuler : http://junior.contactrh.com/jobs/1536/7897952
+
+
+
+
+

@@ -1,0 +1,54 @@
+﻿Stage  ingénieur  optimisation  d'un  outil
+Sogeti  HT  -  Région  SSE
+REFERENCE  :  HT-MU3-STAGE-WE
+POUR  POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/5212759
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  TOULOUSE 31000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DUREE  :  moins 6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Etudes - Recherche (Ingénieur R & D/Chercheur)
+SOCIETE  :
+Avec 3000 collaborateurs en France et plus de 20 ans d'expérience, Sogeti High Tech figure parmi
+les cinq leaders du marché de l'Ingénierie et du Conseil en Technologies. Nous intervenons dans de
+nombreux projets majeurs d'innovation et d'ingénierie technologiques des plus grands groupes
+industriels mondiaux. Nos expertises techniques et métiers dans les secteurs de l'aéronautique, du
+spatial, de la défense, du ferroviaire, de l'énergie et des télécoms renforcent la valeur ajoutée de nos
+solutions au service des challenges du monde industriel du XXIème siècle. A vous de vivre votre
+passion comme vous l'avez toujours imaginé.
+DESCRIPTION  DU  POSTE  :
+Dans le cadre de sa gestion quotidienne de ses activités, SOGETI High Tech et ses clients doivent
+partager beaucoup d'informations entre eux, certaines étant véritablement dimensionnantes et
+contractuelles. Ce flot de données est géré par de multiples interlocuteurs. SOGETI High Tech
+cherche à développer une solution industrialisée pour gérer ce flot de données, tout particulièrement
+concernant les commandes.
+SOGETI High Tech cherche à déployer et optimiser un outil de gestion des commandes en format
+Web.
+Le contexte technique :
+- PHP
+- Apache
+- MySQL
+Le but est de :
+- Déployer sur serveur un outil dont le cœur (IHM principales, algorithmes liés à ces IHM, base de
+données) a été développé, avec identification des utilisateurs suivant protocole LDAP,
+- Gérer la sécurité de l'application quant aux informations / comptes,
+- Optimiser l'application (performance, navigabilité, ergonomie) pour une utilisation sur site ou hors
+site,
+- Développer la partie administration des comptes utilisateurs, des droits, des projets,
+- Développer des fonctions critiques pour un déploiement opérationnel (fonctionnalités
+supplémentaires, import de données, gestion des vues et des filtres, génération de rapports,
+génération de notifications par mails, gestion de la cohérence des données (algorithmes),
+
+
+
+
+PROFIL  :
+De formation supérieure en informatique, vous voulez travailler au développement d'un outil Web
+avec une forte relation avec les différents utilisateurs
+POUR  POSTULER  :  http://sogeti-high-tech.contactrh.com/jobs/1536/5212759
+
+
+
+
+

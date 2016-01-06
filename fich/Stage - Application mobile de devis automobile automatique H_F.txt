@@ -1,0 +1,64 @@
+﻿Stage  - Application mobile de devis automobile automatique H/F
+Sopra Group
+REFERENCE  :  STAGE/ATL/NIORT/4105012
+POUR POSTULER  :  offre4598311.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/NIORT/4105012
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Niort 79000, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Intégrez la Division Atlantique de Sopra Group : 800 collaborateurs, une forte croissance et des
+projets d'envergure auprès de clients de tous secteurs.
+DESCRIPTION DU POSTE  :
+Mission
+L'agence de Niort souhaite se doter d’un prototype application mobile fonctionnellement proche du
+métier de l’assureur afin de répondre au mieux aux besoins de ses clients.
+Dans ce cadre, vous serez chargé(e) de spécifier, concevoir et développer une application mobile
+Android permettant l’estimation automatique du montant de l’assurance d’une voiture ciblée par la
+camera du téléphone.
+Cette application devra permettre entre autre de :
+- renseigner les informations du prospect/client (lieu d’habitation, jeune conducteur,
+bonus/malus,…)
+- reconnaître la voiture ciblée (flash d’un code barre, reconnaissance de plaque immatriculation,
+reconnaissance de forme,…)
+- communiquer vers un serveur les informations « saisies » et récupérer les informations du devis
+- présenter le résultat du devis en réalité augmentée sur la voiture identifiée
+Intérêt du stage
+- acquérir une méthodologie projet
+
+
+
+
+- percevoir les difficultés liées à l’ouverture des systèmes d’informations vers des technologies
+mobiles
+- mettre en œuvre des technologies innovantes dans un cadre opérationnel
+Environnement technologique/fonctionnel
+Architecture SOA, Java/JEE - développement mobile Android - réalité augmentée, reconnaissance
+de characters - protocoles de communication SOAP / REST - middleWare Mobile.
+Environnement humain
+Vous travaillerez au sein d’une agence à taille humaine où règnent esprit d’équipe et convivialité, et
+vous serez intégré(e) et accompagné(e) par un membre de l’équipe niortaise.
+PROFIL  :
+Vous êtes en dernière année d'école d'ingénieurs ou en Master 2 informatique, vous êtes
+curieux(se), autonome et ouvert(e).
+POUR POSTULER  :  offre4598311.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/NIORT/4105012
+
+
+
+
+

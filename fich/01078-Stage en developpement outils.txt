@@ -1,0 +1,55 @@
+﻿Stage  en  développement  outils
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC94666
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5471474
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Janvier
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement
+Vous serez intégré à l’équipe sécurité opérationnelle des infrastructures (SOC)
+Votre stage
+Sous la responsabilité de votre tuteur, vous participez au développement d'un datawarehouse pour la
+gestion des vulnérabilités des infrastructures.
+Apport du stage
+Ce stage vous apportera cadrage fonctionnel et technique d'un projet, implémentation et intégration
+avec des référentiels tiers et composants d'entreprise, communication, formation et support sur le
+produit livré.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation
+en Système d’information.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec les bases de données, Unix, shell, SQL
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Vous bénéficiez idéalement des connaissances en php, C, python est un plus.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+
+
+
+
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+De niveau bac+4/5 en Système d’information.Vous êtes à l’aise avec les bases de données, Unix,
+shell, SQL.Vous bénéficiez idéalement des connaissances en php, C, python est un plus
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5471474
+
+
+
+
+

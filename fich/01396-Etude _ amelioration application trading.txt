@@ -1,0 +1,62 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  ETUDE  &  AMÉLIORATION  APPLICATION
+TRADING EN STAGE 6 MOIS.
+Date : 05/05/2014
+Référence de l’offre : STMH/ITEC/97539-6353293
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris / Ile de France 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement :
+Vous rejoignez le département qui a pour responsabilité, au plan mondial, de fournir aux lignes métiers de la
+banque de financement et aux fonctions support, l'ensemble des moyens informatiques nécessaires à leur
+fonctionnement, à des conditions compétitives en termes de standards technologiques, de qualité de service et de
+coûts.
+Le stage se déroule dans le département « Trading et Accès Marchés ».
+Vous êtes intégré dans une équipe de maîtrise d'œuvre informatique, composée d'une quinzaine de personnes,
+s'occupant du développement d'outil de trading temps réel sur paniers (stocks, futurs, ETFs, Certificats). L'équipe
+est également en charge de différents automates d'animation et d'arbitrage sur ces produits.
+Vos missions :
+Sous la responsabilité de votre maître de stage vous menez l'étude et le développement de solutions innovantes
+pour améliorer l'application (performances, composants graphiques, non-régression)
+Dans ce cadre, vous participez aux activités suivantes :
+- Prendre en main l'environnement et l'architecture de l'application
+- Reprendre les parties préexistantes
+- Prise du besoin auprès des différents utilisateurs (développeur, trader)
+- Proposer des solutions
+- Réaliser le développement / test de non régression.
+Profil recherché :
+Votre profil H/F
+Vous  êtes  étudiant(e)  de  niveau  Bac                                                                              +5  en  Écoles  d'ingénieur  ou  Université  avec  une  spécialisation  en
+Informatique (développements orienté objet).
+Vous avez de bonnes connaissances en développement/conception objet, idéalement en C#, mais Java ou C++
+peuvent être acceptés.
+
+
+
+
+Par ailleurs, vous avez un anglais opérationnel.
+Les apports du stage
+Ce stage vous permettra :
+D'explorer et valider des solutions techniques innovantes dans l'environnement Microsoft .net
+D'avoir une vision du fonctionnement de l'IT Front Office et des enjeux associés, au contact de la salle de
+marchés Société Générale.
+Et si c'était vous?
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis rencontrerez un
+opérationnel pour un entretien de motivation.
+Durée du stage : 6 mois
+Stage basé à : Paris-La Défense
+Gratification selon grilles SG.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6353293
+
+
+
+
+

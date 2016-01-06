@@ -1,0 +1,28 @@
+﻿Assistant développeur full-stack
+Talentroc  est  une  start­up  nantaise  qui  réinvente  la  formation  en  mode  2.0.
+Notre  concept  :  Le  savoir  de  tous  à  disposition  de  chacun.  Nous  avons  développé  une
+plateforme  collaborative  de  cartographie  des  compétences  et  d’échanges  de  savoirs.
+Nous  portons  deux  offres  :
+●   une  offre  B2B  pour  favoriser  l’échange  de  compétences  en  interne  dans  les
+entreprises.
+●   un  site  grand  public  (www.talentroc.com)
+Nous  cherchons  un  stagiaire  de  bac  +2  à  bac  +5  longue  durée  avec  une  possibilité
+d'embauche  par  la  suite  et  qui  aura  notamment  les  missions  suivantes  :
+●   conception  de  la  nouvelle  version  de  la  plateforme
+●   refonte  en  Java  de  la  plateforme  sous  la  supervision  d’un  développeur  expert
+Les  compétences  requises  sont  Java,  JavaScript,  HTML  et  CSS.  Connaitre  les  technologies
+JavaEE,  SQL  (avec  PostgreSQL)  ou  encore  les  frameworks  Tapestry  et  LessCSS  serait  un
+plus.  Aussi,  comprendre  l’anglais  pour  la  lecture  de  documentations  techniques  est
+indispensable.  La  connaissance  des  logiciels  de  design  web  tel  qu’Illustrator  serait  un  plus.
+Vous  travaillerez  au  sein  de  l’incubateur  d’entreprises  d’Audencia  à  Nantes  aux  coté  d'autres
+start­up  innovantes  en  développement.
+Etudiants  en  développement  informatique  et  passionés  du  web  :  n'attendez  pas  !!  En  plus  de
+la  possibilité  de  travailler  sur  un  projet  de  l'économie  collaborative,  vous  participerez
+activement  aux  développement  de  la  plateforme.
+Merci  d’envoyer  votre  candidature  (CV+motivations)  à  Charles  Capon
+(charles.capon@talentroc.com).
+
+
+
+
+

@@ -1,0 +1,64 @@
+﻿Industrialisation .Net / C# dans un projet de CRM (transports)
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                               collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                               ses clients du monde entier des services
+Atos développe pour un acteur majeur du monde des transports publics
+                                                                               transactionnels de haute technologie,
+(France, Europe, monde) un CRM (gestion de la relation client, campagnes
+                                                                               des solutions de conseil, d’intégration de
+marketing, réclamations).
+                                                                               systèmes et d’infogérance.
+                                                                               Atos délivre les technologies qui
+Mission :
+                                                                               accélèrent le développement de ses
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce
+                                                                               clients et les aide à réaliser leur vision de
+pôle conçoit et développe des applications de CRM pour de nombreux
+                                                                               l’entreprise du futur. Atos est le
+clients, dans de nombreux contextes métiers et technologiques.
+                                                                               partenaire informatique mondial des
+                                                                               Jeux Olympiques. Le Groupe est coté sur
+Le but du stage est de concevoir, développer et mettre en œuvre des outils
+                                                                               le marché Eurolist de Paris et exerce ses
+d’intégration continue, tests automatique, analyse de code, génération
+                                                                               activités sous les noms d’Atos, Atos
+automatique et packaging afin d’optimiser la qualité et l’efficacité du
+                                                                               Consulting & Technology Services,
+travail de l’équipe.
+                                                                               Worldline et Atos WorldGrid.
+Ces outils seront à identifier parmi les standards du marché, puis à
+                                                                               Pour plus d’information : atos.net
+déployer et configurer dans le contexte technique et organisationnel du
+projet.
+Ce stage est basé à Rennes
+Si ce stage vous intéresse,
+Environnement technologique :
+déposez votre candidature à l’adresse
+Microsoft Dynamics CRM, Visual Studio, .Net, C#, SqlServer. TFS.
+suivante :
+http://fr.atos.net/fr-
+Objectifs pédagogiques :
+fr/emplois_carrieres/postulez
+Le stage proposé est une excellente opportunité pour découvrir et
+assimiler les outils, techniques et process d’un projet de développement. Il   ou contactez: Jean-Charles.Coeuru@atos.net
+sera aussi l’occasion de monter en compétence sur MS CRM Dynamics, un
+Référence du stage : 158960
+des progiciels leader du marché du CRM et découvrir les bonnes pratiques
+de développement associées
+Qui êtes-vous ?
+De formation Bac+4-5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+

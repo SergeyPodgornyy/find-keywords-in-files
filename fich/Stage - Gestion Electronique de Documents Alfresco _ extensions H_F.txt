@@ -1,0 +1,69 @@
+﻿Stage  - Gestion Electronique de Documents Alfresco & extensions
+H/F
+Sopra Group
+REFERENCE  :  STAGE/ATL/NANT/4066836
+POUR POSTULER  :  offre4598300.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/NANT/4066836
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Nantes 44800, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Intégrez la Division Atlantique de Sopra Group : 800 collaborateurs, une forte croissance et des
+projets d'envergure auprès de clients de tous secteurs.
+DESCRIPTION DU POSTE  :
+Sur un marché dynamique et en perpétuelle évolution technologique, les opportunités de progresser
+et de s’épanouir sont nombreuses. Si vous recherchez simultanément la force d’un grand groupe et
+les qualités d’une structure à taille humaine offrant une évolution de carrière sur mesure, rejoignez
+notre agence de Nantes et participez à son rayonnement local.
+Mission
+Vous serez intégré(e) à une équipe chargée des projets de Gestion Électronique de Documents
+(GED) basés sur la technologie Alfresco. Vous serez confronté(e) à des projets utilisant les
+thématiques suivantes :
+- LAD/RAD (Lecture/Reconnaissance Automatique de Document)
+- signature numérique (paraphage électronique)
+- SAE (Système d’Archivage Electronique)
+- BPM (Business Process Modeling)
+- intégration bureautique (Mails, Google Docs, Sharepoint…)
+- mobilité (iOS, Android)
+
+
+
+
+Intérêt du stage
+- réaliser l’intégration et les développements spécifiques en Java (définition et développement
+d’interfaces graphiques riches (RIA) sur des technologies innovantes telles que GWT, Vaadin,
+jQuery, Ext-JS... et utilisation d’API REST/JS/…)
+- tester l’intégration via JUnit
+- rédiger des rapports d’analyse sur les solutions choisies et/ou sur les intégrations
+- découvrir le monde de la GED et ses extensions
+Environnement technologique/fonctionnel
+J2EE, Spring, Mysql, XML, JSR 168, BPM, Alfresco, iOS, RIA, GED.
+Environnement humain
+Vous serez intégré(e) au sein du pôle Alfresco à Nantes. Vous serez encadré(e) par un Chef de
+Projet ou un Architecte expérimenté. La méthodologie projet sera réalisée en méthode Agile
+(Scrum).
+PROFIL  :
+Etudiant(e) en dernière année d'école d'ingénieurs ou en Master 2 informatique, vous êtes autonome
+et curieux(se). Vous appréciez la recherche de solutions techniques et d'industrialisation et avez une
+bonne capacité d’analyse et de rédaction.
+POUR POSTULER  :  offre4598300.1536@sopra-group.contactrh.com sous la référence
+STAGE/ATL/NANT/4066836
+
+
+
+
+

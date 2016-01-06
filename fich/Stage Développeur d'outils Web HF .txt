@@ -1,0 +1,36 @@
+﻿L’Entreprise : Depuis 1989, G2C environnement est un acteur majeur de l’ingénierie environne-
+mentale intervenant dans le secteur de la gestion de l’eau à destination des collectivités locales. Plus
+particulièrement, nos domaines d’activités concernent les études hydrauliques, l’assistance à maî-
+trise d’ouvrage, la maîtrise d’œuvre, l’urbanisme, l’assistance à la gestion des services publics, les
+systèmes d’informations géographiques et la R&D.
+G2C environnement fait partie d’Altereo, Groupe indépendant employant 165 personnes en France
+réparties dans 10 agences avec des relais à l’international. PME innovante, nous travaillons en
+étroite collaboration avec des laboratoires de recherches pour prévoir nos métiers de demain qui
+s’inscriront dans nos valeurs et notre ambition d’« éveilleur d’intelligences environnementales ».
+Pour accompagner le développement de notre agence, nous recherchons un stagiaire:
+Développeur d'outils Web H/F
+Missions : Rattaché(e) au Responsable des Développements de l'Informatique Interne
+Vous participez à l'entretien des nombreuses plateformes web de l'entreprise (Intra/Extra/Internet et
+applications web propriétaires) ;
+Vous mettez en place de nouvelles fonctionnalités au sein de ces outils et en concevez de nouveaux
+en rapport avec l'évolution de notre activité ;
+Vous êtes amené(e) à collaborer avec les responsables des différents services de la société, mais
+aussi avec l'ensemble du personnel, l'assistance aux utilisateurs représentant une partie de votre ac-
+tivité ;
+Profil/Expérience :
+    Niveau Bac+4/5  Ecole d'ingénieur en informatique ou équivalent ;
+    Solide expérience du développement internet et de ses exigences ;
+    PHP/MySQL, (x)HTML, CSS3, Javascript (jQuery), VB script ;
+    Vous maîtrisez la programmation orientée objet et les architectures MVC ;
+    Des connaissances dans les domaines de la SEO et de la sécurité informatique seraient ap-
+préciées ;
+    L'ensemble de vos développements se déroule dans un environnement LAMP ;
+Qualités personnelles requises :
+Bon relationnel, créatif(ve), esprit d'équipe ;
+Lieu : Venelles (13).
+Pour Postuler : http://www.g2c.fr/portail/article.php?id_article=108439
+
+
+
+
+

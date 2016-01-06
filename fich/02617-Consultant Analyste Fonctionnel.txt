@@ -1,0 +1,35 @@
+﻿JCDECAUX RECRUTE UN/UNE CONSULTANT ANALYSTE FONCTIONNEL EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 29/07/2015
+Référence de l’offre : JCD - PO-10655163
+Domaine d’activité : Systèmes d'informations / télécom (Consultant / Audit / AMOA)
+Type de contrat : Apprentissage/Alternance
+Localisation : PLAISIR 78370, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+N°1 mondial de la communication extérieure, JCDecaux, avec 12 000 collaborateurs, est présent dans plus de
+60 pays. Seul acteur mondial à exercer exclusivement le métier de la communication extérieure et à en
+développer toutes les activités : mobilier urbain, publicité dans les transports et affichage grand format, il a
+réalisé un chiffre d'affaires de 2 676 millions d'euros en 2013.
+Description du poste :
+Vous assisterez le Product Owner dans ses actions quotidiennes. Comprendre les besoins des utilisateurs et
+les  traduire,  Contribuer  à  maintenir  la  backlog  produit,  Rédiger  les  usersStories  avec  des  critères
+d'acceptation précis, Rédiger les spécifications et en assurer la mise à jour, Ecrire, modifier et exécuter les
+scenarii de tests des applications, Intervenir en support fonctionnel des utilisateurs, du déploiement et de
+l'équipe de développement.
+Profil recherché :
+Curieux, et motivés vous avez le gout du challenge et souhaitez travailler dans un contexte international.
+Bac +4/5 Informatique
+connaissances appreciees
+* Requêtage SQL
+* Connaissance de Scrum et du fonctionnement du mode Agile
+* SoapUI, Jira
+poste basé à Boulogne 3/5 et Plaisir 2/5 selon votre planning d'alternance.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10655163
+
+
+
+
+

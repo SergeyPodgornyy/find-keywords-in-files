@@ -1,0 +1,66 @@
+﻿Stage n° 6 du LCE : Etude et conception d’un accélérateur matérielle à
+base de FPGA pour le calcul financier
+Mots  clefs :  Finance,  Analyse  quantique,  Mathématique  appliquée,  Accélération,
+FPGA, électronique embarquée
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+Dans  le  monde  de  la  finance,  la  chasse  des  microsecondes  dans  le  traitement  des
+algorithmes  peut  faire  gagner  la  banque  et  l’investisseur  plusieurs  million  d’euros.  Les
+chercheurs dans la mathématique appliquée de la finance quantique évoluent leur algorithme
+pour répondre au besoin de leur clientèle et du marché. Par exemple, les algorithmes Monte-
+Carlo sont utilisés pour le calcul de risque, Kelly Criterion pour les positions de trading, Black-
+Scholes  pour  le  pricing,  etc…Ces  algorithmes  complexes  doivent  être  exécutés  le  plus
+rapidement  possible,  en  temps-réels,  avec  une  grande  précision  de  calcul,  et  en  basse
+consommation énergétique.
+Afin de défier la concurrence, les grandes banques d’investissement développent leur propre
+supercalculateur pour répondre à ces exigences. Ceci nécessite des architectures de serveur
+hétérogènes à base de CPU+GPU et des accélérateurs matérielles dédiées à base de FPGA
+qui  font  les  traitements  massivement  parallèle  et  redondante,  à  basse  latence,  à  haute
+fréquence  et  à  faible  consommation.  L’ensemble  de  ce  système  consiste  la  plateforme
+d’exécution de l’algorithme de calcul financier.
+Le but de ce stage est de faire une étude de l’état de l’art sur les algorithmes de calcul
+financier et trading haute-fréquence, ainsi que les architectures matérielles utilisées  (CPU,
+GPU, FPGA, Système-sur-Puce), afin d’identifier et classifier  la complexité calculatoire et
+temporelle des noyaux de calculs mathématiques utilisés dans ces algorithmes. Après cette
+étude, un algorithme ou une opération mathématique pertinente et redondante serait codé en
+C/C++,  puis  implémenté  en  matériel  sur  un  FPGA  automatiquement  grâce  à  un  outil  de
+synthèse haut-niveau (i.e. Vivado HLS). Finalement, une comparaison de performance entre
+la  version  logicielle  et  la  version  matérielle  serait  conduite  avec  un  jeu  de  données
+représentatives.
+Ce stage de recherche est ouvert idéalement pour tous les informaticiens qui ont un fort
+intérêt dans le monde de la finance ou bien des mathématiciens appliquées qui souhaitent
+découvrir  comment  concrétiser  des  algorithmes  dans  un  produit  final  embarqué.  Il  ne
+nécessite pas une compétence prérequis dans l’électronique.
+Laboratoire d’Intégration des Systèmes et des Technologies                                            Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                        Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                              Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+Profil recherché :
+Niveau demandé :    BAC+5 ou Master 2
+Durée :                                                 6 mois
+Compétences :                                           Mathématiques appliquées  (idéalement parcours hybride finance  +
+                                                        informatique),  C/C++,  intérêt  pour  l’électronique  et  la
+                                                        recherche
+Pièces à fournir :                                      CV + lettre de motivation + classements
+Contact:                                                Charly BECHARA, ingénieur R&D, Ph.D.
+E-Mail : charly.bechara@cea.fr, Tél. : 01.69.08.00.68
+
+
+
+
+

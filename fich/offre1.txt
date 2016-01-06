@@ -1,0 +1,20 @@
+﻿Offre d’emploi du 15/10/2014
+La société IMAGE ET (www.image-et.fr),
+éditeur de logiciels et intégrateur dans les domaines médical et industriel de
+solutions d’Imagerie et d’Archivage,
+recherche un développeur en R&D sur logiciel open-source, Objective-C, C,
+C++, environnements Mac Os X et Linux pour une mission de 2 mois.
+Tâches :
+Sous la direction du responsable de projet, vous devrez finaliser des projets
+R&D en cours et mettre en place de nouveaux développements liés à
+OSIRIX, DCM4CHEE et OVIYAM.
+Connaissances d’ITK, VTK , Open GL fortement appréciées.
+Adresser une lettre de candidature, accompagnée d’un curriculum vitae
+détaillé à
+M. TAVERNIER Cédric (Responsable du projet) à l’adresse
+contact@image-et.fr
+
+
+
+
+

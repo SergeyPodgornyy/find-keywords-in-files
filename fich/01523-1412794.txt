@@ -1,0 +1,32 @@
+﻿OFFRE DE STAGE N° 1412794
+Stage BAC+5 - Développement d’un logiciel JAVA/WEB/SQL (H/F)
+Avec un chiffre d'affaires de 1,8 milliards d'euros et des références prestigieuses, Thales Communi-
+cations & Security est numéro un européen des systèmes d’information et de communication sécuri-
+sés pour les marchés mondiaux de la défense, de la sécurité et du transport terrestre.
+La société compte près de 7 000 salariés répartis sur 9 sites principaux en France, au service de ses
+clients en France et à l'international.
+Localisation : Thales Communications & Security - 85 rue Emile Brault 53000 LAVAL
+Contexte
+Le Service Support Client a pour rôle de maîtriser la conformité des produits et systèmes délivrés par TC&S
+à travers des actions de détections des risques pour garantir la sécurité d’utilisation au client final sur la
+durée d’exploitation de son matériel.
+Missions
+Vous intégrerez une équipe projet pour le développement d’un module analyse de conformité réglementaire
+(substances dangereuses) en créant notamment des outils permettant de traiter les nomenclatures des
+équipements/systèmes.
+Vous participerez dans un second temps à l’intégration de votre développement dans le projet final.
+Vous êtes à l’aise en développement Java. Vous connaissez ou souhaitez apprendre l’environnement Java
+EE notamment les concepts Client / Serveur. Vous maitrisez le développement WEB/CSS.
+Des connaissances en SQL seraient un plus.
+Vous êtes force de proposition et aimez travailler en équipe.
+Profil des candidats : BAC+5   -   Durée : 6 mois environ
+Indemnité mensuelle brute : 1250                                                                                 €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : delphine.pacini@thalesgroup.com
+
+
+
+
+

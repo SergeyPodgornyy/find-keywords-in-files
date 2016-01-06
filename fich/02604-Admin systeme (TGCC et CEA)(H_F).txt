@@ -1,0 +1,68 @@
+﻿ATOS RECRUTE UN/UNE ADMIN SYSTÈME (TGCC ET CEA)(H/F) EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 188957-10556347
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid. Pour plus d'information : www.atos.net
+Description du poste :
+1er objectif : se familiariser avec cet environnement HPC
+2ème objectif : au fur et à mesure de son apprentissage, l'apprenti(e) intègrera le support HPC/Big Data sur
+un site client et participera activement à l'administration système et à la résolution de problèmes sur le site
+client.
+Missions : Poste HPC Support HPC L2
+Description de la mission
+- Assurer le Support Logiciel dans le debugging
+- Assister les sites clients pour l'installation du système d'exploitation
+- Participer au traitement des escalades des clients vers le support des fournisseurs
+- Rédiger les documentations associées à l'exploitation des systèmes
+
+
+
+
+- Participer à l'amélioration du fonctionnement des systèmes en exploitation
+- Proposer des solutions de contournement
+- Assurer l'installation et l'optimisation des files systèmes
+Profil recherché :
+Bac + 5, école d'ingénieur ou cycle universitaire équivalent.
+Anglais opérationnel requis.
+Compétences requises et à acquérir :
+- Connaissances de base sur le fonctionnement des matériels : commutateurs réseaux, serveurs X86, baies de
+disques
+- Administration système sous linux  : compréhension et capacité à configurer/modifier les principaux
+services sur un système Linux : DNS, DHCP, WEB, FTP, puppet, nagios, gestion des systèmes de fichiers,
+politiques de droits UNIX, authentification, gestion des déploiements
+- Connaissance des systèmes de fichiers
+- Bonnes connaissances des OS Linux, plus particulièrement RedHat
+- Connaissance des réseaux Ethernet et IB
+- Capacité d'analyse et de debug
+- Compréhension des protocoles réseaux standards : ethernet / IP et couches
+Compétences appréciées:
+- Engagement et passion
+- Goût pour les nouvelles technologies
+- Capacité d'analyse et de debug
+- Sens du service
+- Ténacité
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10556347
+
+
+
+
+

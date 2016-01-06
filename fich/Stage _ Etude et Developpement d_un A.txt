@@ -1,0 +1,46 @@
+﻿Stage  / Etude et Développement d’un A
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226977 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911234
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Dans le cadre du développement d'un outil d'hypervision de la sécurité, vous serez en charge de
+l'étude de faisabilité puis du développement d'un agent chargé de récupérer des informations
+distantes sur la sécurité d'un ou plusieurs outils tiers (COTS).
+Le but de ce stage est d'apporter de nouvelles capacités à l'hyperviseur en vue de faciliter les
+opérations d'analyse et de forensique des incidents de sécurité.
+Cette offre de stage est à pourvoir à compter du 1er février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple les missions suivantes :
+- Prendre connaissance de notre application et plus particulièrement des notions d'intégration,
+- Réaliser l'étude technique de faisabilité et la spécification de l'agent "intelligent" en tenant compte
+des contraintes de sécurité (chiffrement et intégrité des communications, mise en cache des
+informations, fonctionnement en mode intégré à l'hyperviseur ou à distance),
+- Déployer et intégrer des COTS sur la plateforme de tests,
+- Développer et intégrer l'agent à la chaîne de build logicielle.
+Le travail réalisé s'intègrera dans la démarche qualité du projet (documentation, process de
+développement, tests).
+PROFIL  :
+Etudiant BAC+5 systèmes, réseaux et la sécurité ainsi que sur Linux/Windows
+Travaille en équipe, qualités relationnelles.
+
+
+
+
+Anglais:intermédiaire.
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911234
+
+
+
+
+

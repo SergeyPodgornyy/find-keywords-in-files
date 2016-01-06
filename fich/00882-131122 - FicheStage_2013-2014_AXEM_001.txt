@@ -1,0 +1,79 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+                                                                                                                                            Nom de l’entreprise : AXEM (filiale du groupe ALEDA)           Adresse : place Albert Einstein
+                                                                                                 Domaine d’activité : Editeur de Logiciel                                                                  Ville : 85300 CHALLANS
+                                                                                                                                            Représentant de l’entreprise : M. Pascal ROUDIER               N° téléphone : 02 51 93 55 85
+                                                                                                 Sa qualité :Directeur Général                                                                             N° fax :
+N° de Siret : 750                                                                                233                                        611                                                    00037   Site Web :
+N° NAF :                                                                                                                                                                                                   Courriel :
+Statut Juridique : SAS                                                                                                                                                                                     Signataire de la convention :
+                                                                                                 Effectif de l’établissement : 30
+Nom de l’encadrant de stage : Anthony MARTIN-RIO                                                 Chargé du suivi administratif :
+Sa qualité : Chef de Projet - responsable des                                                    Sa qualité :
+développements                                                                                   N° téléphone :
+Service : Développements informatiques                                                           Email :
+N° téléphone : 02 51 93 55 85                                                                    Fax :
+Email : a.martin-rio@axem-innovations.fr
+Fax :
+Nom du service dans lequel le stage sera effectué :   Développements Informatique Groupe ALEDA
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): CHALLANS (85) ……………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                               du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                                  du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                             du 10 mars 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                           TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                            FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                         www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+SUJET  DU  STAGE  :
+Titre du stage proposé : Refonte d’une application Delphi en C# / WPF
+Pré-embauche : oui
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+C#, MVC, Visual Studio 2012, WPF, SqlServeur 2008, Webservice,…
+Sujet proposé détaillé :
+En accord avec le « product Owner », vous serez chargé d’ajouter des nouvelles fonctionnalités   à
+une application existante. Vous travaillerez en équipe avec des personnes expérimentées. Vous
+serez chargé d’analyser l’évolution, l’estimer, l’implémenter, la tester et rédiger la documentation.
+A la fin de chaque sprint, vous devrez corriger les anomalies.
+La  bonne  connaissance  de  C#  et  des  procédures  stockées  est  nécessaire.  Savoir                « lire  et
+comprendre » le Delphi est un plus.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Nom de l’Etudiant :
+Indemnité mensuelle (nette) : oui
+Diplôme :
+Modalités de versement : mensuelle
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35 H
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Oui en fournissant CV + lettre de motivation.
+Dans un deuxième temps, nous irons à Rennes rencontrer les candidats.
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                  TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                   FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿Stage développement d'outils d'automati
+Société Générale France
+REFERENCE  :  ST/SM/BHFM86546
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4228486
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro.
+DESCRIPTION DU POSTE  :
+Votre environnement
+Ce stage est situé dans le département de la Société Générale en charge de l'informatique de la
+banque de détail à l'étranger.
+Ce stage s'inscrit dans le cadre de la normalisation et la fiabilisation du cœur de Système
+d’Information des petites et moyennes filiales du réseau BHFM (Banques Hors France
+Métropolitaine), à savoir le progiciel Delta Bank.
+L’objectif du projet CIS (Common information System) est :
+- de normaliser les données et les interfaces d'accès au progiciel Delta Bank
+- d'effectuer une préqualification des développements réalisés avant livraison aux projets métier et
+aux filiales
+- de prendre part à la roadmap éditeur pour accompagner l’évolution de l’outil
+Votre stage
+L'objet du stage consiste à industrialiser l’exécution des tests de non régression : IHM et flux XML.
+Sous la responsabilité du chef de projet, vous participez à la prise en charge de l’étude d’outils
+d’automatisation de tests et le développement inhérent à la mise en place de l’outil retenu, dans le
+cadre du projet CIS.
+Plus particulièrement, votre rôle consistera à :
+- appréhender le contexte méthodologique et le périmètre des tests de préqualification réalisés au
+sein de l’équipe CIS
+- reprendre l’étude menée par un expert sur deux outils QTP et Test Complete
+- proposer un outillage en adéquation avec le périmètre de non régression
+- développer les programmes
+- documenter la solution retenue et les programmes
+- enrichir la stratégie de tests
+
+
+
+
+Apport du stage
+Ce stage vous permettra d’être intégré dans une équipe projet et de travailler dans un environnement
+technique selon un cadre méthodologique.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation
+en SI.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec VBA
+Durée : 6  mois
+Type : Convention de stage
+Gratifications: Selon grilles SG
+PROFIL  :
+Votre profil
+Etudiant(e) de niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation en SI.
+Anglais opérationnel et vous êtes à l’aise avec VBA
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4228486
+
+
+
+
+

@@ -1,0 +1,39 @@
+﻿STERIA RECRUTE UN/UNE STAGE DÉVELOPPEMENT/AMOA J2EE DOTNET EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : UTI/stage/2015-8073807
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : MEUDON/NANTERRE 92366, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Steria est un leader des services du numérique qui accompagne les entreprises et les administrations à relever
+leurs défis IT complexes et à appréhender les enjeux métier propres à leur secteur.
+Suite au rapprochement de Steria et de Sopra, Sopra Steria Group, constitué en septembre 2014 figure parmi
+les leaders européens de la transformation numérique avec avec 35 000 collaborateurs dans plus de 20 pays.
+Description du poste :
+Le projet TAMARIS met en œuvre pour un grand opérateur énergétique, des technologies innovantes
+permettant un pilotage « au plus juste » des interventions des agents sur le terrain en fonction de leurs
+compétences, de leurs disponibilités, de leur proximité par rapport au lieu d'intervention.
+Descriptif :
+Au sein d'une équipe projet d'environ 15 personnes et sous la responsabilité directe du Chef de Projet vous
+participerez aux différentes phases d'étude et de développement du projet :
+- Conception détaillée des évolutions sur différentes applications du projet
+- Développement de ces évolutions
+- Tests et validation
+- Analyse des besoins exprimés par la MOA,
+- Rédaction de documents fonctionnels et techniques
+Technologies :
+Spring, Hibernate, Agualogic, Flex,Talend,.Net C# avec le Compact Framework 3.5, SPARUS
+La méthodologie du projet allie engagement forfaitaire et flexibilité « Agile ». Les réalisations sur ce projet
+se déroule donc en mode itératif
+Profil recherché :
+Vous êtes rigoureux (se), méthodique, autonome, proactif (ve), curieux (se) et créatif (ve). Vous avez une
+bonne capacité d'analyse et savez être force de proposition.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8073807
+
+
+
+
+

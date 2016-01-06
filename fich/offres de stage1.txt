@@ -1,0 +1,204 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+TEPF-01 « Automatisation des tests d’un logiciel d’analyse de la qualité
+de service des réseaux mobiles 2G/3G/4G » (4 à 6 mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe TEPF développe les logiciels d’analyse des données échangées sur les
+réseaux mobiles pour identifier en temps réel les problèmes de qualité rencontrés par les utilisateurs.
+Pour optimiser la phase de tests de ses logiciels d’analyse des réseaux mobiles, Astellia souhaite
+développer des bibliothèques de tests.
+Le  stage  consiste  à  développer  les  bibliothèques  et  scénarios  de  tests  automatisés  de  plusieurs
+logiciels   d’analyse   et   d’optimisation   des   réseaux   mobile                                           2G/3G/4G.   Au   sein   de   l’équipe
+R&D/TEPF/CAA (12 personnes), en relation avec les chefs de projets, le stagiaire sera en charge du
+développement des scénarios de tests automatiques (validation des différents modes opérationnels,
+base de données, statistiques, etc.).
+Ce stage vous permettra de développer vos compétences en programmation Python et SQL ainsi que
+votre maitrise du cycle et des méthodologies de test des logiciels.
+Ce  stage  permet  également  d’appréhender  le  fonctionnement,  l’optimisation  et  la  supervision  des
+réseaux mobiles.
+Contexte de réalisation (compétences, outils, ...) :
+   Environnement technique : Python, SQL, C++, CVS, Eclipse, Visual 2008, logiciel d’auto
+test
+   Connaissances requises : Python, SGDR, SQL, C++
+Profil
+De DUT à Ecole d’ingénieur Bac+5 Informatique
+Période
+A partir d’Octobre 2013
+Page 2
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+TEPF-02 « Protocol Packet Builder » (4 à 6 mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe TEPF développe les logiciels d’analyse des données échangées sur les
+réseaux mobiles pour identifier en temps réel les problèmes de qualité rencontrés par les utilisateurs.
+Le stage consiste à développer une fonction d’encodage de messages échangés sur les réseaux de
+téléphonie mobile à partir d’un logiciel de décodage existant.
+Ce stage se situe au sein de l’équipe R&D/TEPF/Troubleshoot (5 personnes).
+Une première étape consistera à étudier les réseaux de téléphonie mobile GSM, GPRS, UMTS et LTE
+(équipements, interfaces, protocoles) et la solution qu’Astellia propose à ses clients Opérateurs.
+Une seconde étape consistera à prendre en main le logiciel d’Astellia d’encodage  / décodage de
+protocoles qu’il s’agit de faire évoluer.
+Une  troisième  étape  consistera  à  concevoir  et  développer  les  évolutions  de  ce  logiciel  (édition  /
+génération de fichiers compatibles Wireshark, de l’IHM à la fonction en elle-même).
+La fin du stage sera constituée du test de cet outil et de génération de flux en collaboration avec les
+membres de l’équipe.
+Ces phases vous permettront de développer vos compétences dans la programmation logiciel (cycle
+de développement : conception, développement en langage objet C++, plan de tests).
+Ce stage permet également de développer vos compétences techniques dans le fonctionnement des
+réseaux mobiles.
+Contexte de réalisation (compétences, outils, ...) :
+   Environnement technique : Visual studio, C++, XML, SVN, normes 3GPP, réseaux GSM,
+GPRS, UMTS, LTE
+   Connaissances requises : C++, conception objet, UML.
+Profil
+Ecole d’ingénieur Bac+5 Informatique
+Période
+A partir d’Octobre 2013
+Page 3
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+TEPF-03 « Développement d’outils de pilotage, de suivi, de reporting et
+production  d’indicateurs  qualité  pour  des  projets  en  mode  Agile »  (3
+mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe TEPF développe les logiciels d’analyse des données échangées sur les
+réseaux mobiles pour identifier en temps réel les problèmes de qualité rencontrés par les utilisateurs.
+Le stage se décomposera en plusieurs phases :
+    Etude bibliographique
+    Prise en main des outils de pilotage et indicateurs actuellement utilisés par Astellia
+    Proposition d’adaptation de l’existant à aux projets en mode Agile au comité de pilotage R&D
+    Mise en place de l’outillage nécessaire à la production de ces indicateurs
+Ce stage se situe au sein de l’équipe R&D/TEPF (35 personnes).
+Il vous permettra de développer vos compétences en pilotage de projet de développement logiciel et
+plus particulièrement des projets en mode Agile.
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : ERP, Excel, SQL, MS Project
+   Connaissances requises : Excel, SQL, des bases en gestion de projet et MS Project sont un
+plus.
+Profil
+De DUT à Ecole d’ingénieur Bac+2 à 4 Informatique
+Période
+A partir de Janvier 2014
+Page 4
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+TEPF-04 « Propositions et mise en œuvre d’améliorations de l’ergonomie
+d’un  logiciel  d’analyse  de  la  qualité  de  service  des  réseaux  mobiles
+2G/3G/4G dont son look & feel » (4/6 mois)
+Description du stage proposé
+Le stage se déroulera en plusieurs phases :
+    Prise en main du logiciel et des cas d’utilisation
+    Interview des différents utilisateurs internes
+    Propositions d’amélioration (à présenter au responsable Marketing)
+    Mise en œuvre des propositions retenues
+Ce stage aura lieu au sein du   domaine R&D/TEPF/Troubleshoot (5 personnes)
+Une première étape consistera à vous approprier le logiciel ainsi que la façon dont il est utilisé (cas
+d’utilisation). Pour cela vous serez en contact avec les utilisateurs internes.
+Vous interviewerez ensuite les différents utilisateurs (experts, développeurs, responsable marketing)
+pour identifier les principales propositions d’amélioration d’ergonomie remontées par le terrain. Vous
+vous ferez également votre propre opinion sur ce logiciel.
+Sur cette base, vous monterez un dossier spécifiant les évolutions d’ergonomie prioritaires. En lien
+direct avec le responsable du logiciel, vous estimerez le temps nécessaire à la réalisation.
+Vous  défendrez  ce  dossier  devant  le  responsable  Marketing  et  vous  concevrez,  développerez  et
+validerez les propositions retenues.
+Ce stage vous permettra de développer vos compétences sur le cycle complet de réalisation d’un
+logiciel : recueil des besoins, spécification, conception, développement, test.
+Vous  découvrirez  également  les  méthodologies  d’analyse  de  la  qualité  des  réseaux  mobiles
+2G/3G/4G.
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : Windows, C++ Builder, SVN, SQL
+   Connaissances requises : C++, SQL, IHM, des connaissances en ergonomie des logiciels
+seraient un plus.
+Profil
+Ecole d’ingénieur Bac +5 Informatique
+Période
+A partir d’Octobre 2013
+Page 5
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+TEPF-05 « Développement d’un outil de pré-investigation système » (4/6
+mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe TEPF développe les logiciels d’analyse des données échangées sur les
+réseaux mobiles pour identifier en temps réel les problèmes de qualité rencontrés par les utilisateurs.
+Le stage consiste à développer une application permettant d’effectuer une liste de vérifications de
+manière automatique sur les serveurs de la solution Astellia. Cette application permettra
+    De vérifier la présence et version minimale requise de Framework
+    De vérifier la présence de patch (KB) Microsoft
+    De vérifier la cohérence des configurations (soft et hard)
+    De vérifier d’autres règles (de manière générique, ce qui impose donc la mise en place d’un
+moteur de règles)
+    La génération d’un rapport (liste de coche)
+Cette application s’exécutera de manière distribuée mais non centralisée dans un premier temps.
+Dans  un  second  temps,  il  est  possible  d’envisager  d’une  diffusion  des  règles  ainsi  qu’une
+centralisation de la restitution.
+Ce stage aura lieu au sein du   domaine R&D - TEPF (environ 35 personnes).
+Une première étape consistera à spécifier les besoins fonctionnels en partenariat avec l’ensemble des
+équipes  du  domaine,  ainsi  que  les  différents  niveaux  de  Support  et  des  équipes  Opérations
+(déploiement sur site).
+La seconde étape sera d’étudier et concevoir les outils nécessaires à la réalisation du projet
+Enfin, la dernière étape consistera à la réalisation d’une application couvrant les différents besoins
+fonctionnels spécifiés dans la première étape au moyen des outils sélectionnés à l’étape 2.
+Le stage vous permettra de développer vos compétences dans les domaines suivants :
+    Travail d’équipe
+    Spécifications fonctionnelles et techniques
+    Framework .NET ou autre
+    XML, XSL possiblement
+    Environnement système
+    Gestion de configuration
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : Windows Server, Framework .NET (C#), SVN
+   Connaissances requises : Développement Objet
+Profil
+Ecole d’ingénieur Bac+5 Informatique
+Période
+A partir de Janvier 2014
+Page 6
+
+
+
+
+

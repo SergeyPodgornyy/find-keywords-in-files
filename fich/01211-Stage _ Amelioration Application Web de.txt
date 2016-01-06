@@ -1,0 +1,38 @@
+﻿EADS  RECRUTE  UN/UNE  STAGE  /  AMÉLIORATION  APPLICATION  WEB  DE  EN
+STAGE  6  MOIS.
+Date  :  01/03/2014
+Référence  de  l’offre    :  10224660  TL  FR­5709656
+Domaine  d’activité    :  Consulting  (Information  Systems/  Organisation  Consulting)
+Type  de  contrat    :  Stage
+Localisation    :  Suresnes  92150,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Master&#39;s  Degree
+Années  d’expérience    :  &lt;  6  months
+Description  de  l’entreprise    :
+EADS
+Description  du  poste    :
+EADS  Innovation  Works  (Suresnes)  recherche  un(e)  stagiaire  pour  une  durée  de  6  mois.
+Vous  participerez  à  l'amélioration  d'une  application  Web  de  gestion  de  normes  (outil
+informatique  EADS).
+Cette  application  (GDN)  permet  de  gérer  les  documents  normatifs  utilisés  au  sein
+d'EADS.
+Cette  offre  de  stage  est  à  pourvoir  à  compter  du  3  mars  2014  (sujette  à  une  certaine
+flexibilité).
+Vous  aurez,  par  exemple,  les  missions  suivantes  :
+­ ajouter  la  gestion  de  documents  sous  le  format  HTML,
+­ analyser  et  développer  un  outil  de  veille,
+­ analyser  et  développer  un  outil  permettant  l'élaboration  de  document  au  format  HTML.
+Profil  recherché    :
+Etudiant(e)  Bac+5  spécialisé(e)  en  informatique
+Compétences  :
+Microsoft
+Framework  :  .Net  4.0
+Visual  Studio  2010
+SQL  Server.
+Travaille  en  équipe  et  qualités  relationnelles
+Pour  postuler    :  http://airbusgroup.contactrh.com/jobs/1536/5709656
+
+
+
+
+

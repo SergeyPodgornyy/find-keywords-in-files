@@ -1,0 +1,56 @@
+﻿Stagiaires IaaS H/F
+CLOUDWATT
+REFERENCE  :  SIAAS
+POUR POSTULER  :  http://cloudwatt.contactrh.com/jobs/1536/4592294
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Boulogne 92100, France
+NIVEAU D'ETUDES  :  Bac +2
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 6 à 12 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Cloudwatt est un nouvel acteur français qui propose des infrastructures de Cloud Computing (IaaS),
+permettant à la France et à l'Europe de se positionner sur un marché en pleine croissance. Cloudwatt
+a pour objectif d'offrir à chaque entreprise, ainsi qu'au secteur public, une haute capacité de
+stockage et de puissance en mode cloud sécurisé.
+DESCRIPTION DU POSTE  :
+Pour accompagner son développement, Cloudwatt recherche des :
+Stagiaire IasS- H/F
+Postes à pourvoir en CDI basé à Boulogne (92)
+6 à 12 mois (stage ou alternance)
+Début : Janvier 2014
+Basé(e) à Boulogne et rattaché(e) à la direction Ingénierie Logiciels, vous participez au
+développement des produits Cloud en collaboration avec la communauté Open Stack.
+Vos sujets d’intervention :
+- Tests automatiques tempest
+- Tests de perfs, test de charge, tests d'endurance
+- Développement Front Horizon
+- MarketPlace
+- Evaluation de PAAS
+Connaissances requises :
+Python
+Linux
+Méthodes Agiles (Scrum, XP)
+
+
+
+
+Vous savez évoluer dans des environnements logiciels distribués (Internet, e-commerce, Cloud). La
+connaissance de la technologie Open Stack sera très appréciée.
+Vous serez amené à travailler en interne avec les équipes marketing, d’architecture, d’intégration et
+de production, et en externe avec les fournisseurs.
+Venez nous rejoindre et participez activement à la croissance d'une nouvelle société, où les
+possibilités d'évolution sont réelles, tout en vous donnant les moyens de réussir.
+PROFIL  :
+- Formation Bac+2 à Bac+5
+- Maîtrise des environnements logiciels distribués (internet, e-commerce)
+- Connaissance d'Open Stack appréciée
+- Rigoureux, organisé et méthodique
+POUR POSTULER  :  http://cloudwatt.contactrh.com/jobs/1536/4592294
+
+
+
+
+

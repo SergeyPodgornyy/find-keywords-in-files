@@ -1,0 +1,50 @@
+﻿Proposition de Stage                                                                                               18/10/13
+Modélisation  de  la  diffusion  rasante  par  une  surface  de  mer  par  un
+Intitulé du stage :
+concept de rayons - réf. FORFAITS IST-14-05
+Durée :                                                                                                            6 mois     Date de début :  Février 2014   Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech - Agence de Nantes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Dans  le  cadre  de  son  activité  R&D  dans  le  domaine  des  interactions  onde/surface,  ALYOTECH
+Technologies souhaite réaliser la modélisation de la diffusion rasante par une surface de mer par un
+concept de rayons.
+Figure : Réflexion (diffusion) du soleil par la surface de la mer vue par un œil humain en visée rasante (proche
+de l’horizon)
+Objectif général :
+Ce stage a pour objet le calcul de la réflexion (diffusion) par une surface de mer de grande étendue, à
+variations spatio-temporelles. Une modélisation performante, à la fois en termes de précision et de
+rapidité d’exécution, sera développée et implémentée dans le simulateur « temps-réel » existant. Elle
+utilisera  un  concept  de  rayons,  et  tâchera  de  s’adapter  aux  problématiques  spécifiques  du  radar
+(HF/VHF et centimétrique), mais aussi de l’infrarouge, voire également de l’acoustique sous-marine.
+
+
+
+
+Proposition de Stage                                                                                                                  18/10/13
+Dans le domaine infrarouge, elle s’appuiera notamment sur des travaux récents  [1] menés dans un
+laboratoire  de  recherche  partenaire  d’ALYOTECH  Ouest.  Ils  pourront  être  étendus  au  cas  d’une
+nappe de pollution de pétrole à la surface de la mer. Un algorithme de tracé de rayons accéléré sera
+mis en œuvre. Les développements algorithmes pourront se faire sous MatLab ou dans un langage
+plus bas niveau comme C/C++ ou CUDA pour une implémentation dans les simulateurs existants,
+afin notamment de pouvoir utiliser les possibilités de calculs parallèles en GPU.
+[1] H. Li, “Infrared emissivity and reflectivity of sea surfaces with shadowing effect and surface reflections”, thèse de doctorat,
+université de Nantes, septembre 2012
+Profil recherché :
+Niveau de formation du stagiaire :
+Bac + 5 (Ecole d’ingénieurs, Master Informatique, Master pro)
+Compétences techniques :
+Modélisation, Interaction onde/surface, Développement informatique, Matlab, C/C++, CUDA
+Autres :
+Windows
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                                                           02.23.21.11.11   Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

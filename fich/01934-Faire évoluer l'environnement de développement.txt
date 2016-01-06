@@ -1,0 +1,42 @@
+﻿FAIRE     EVOLUER     L’ENVIRONNEMENT     DE
+DEVELOPPEMENT
+Entreprise
+Entreprise  de  maîtrise  d’œuvre  de                                                                                     200  collaborateurs,  le  GIE  SESAM-Vitale  est  au  cœur  des  échanges
+électroniques  sécurisés  entre les  Professionnels  de  Santé et  l’Assurance  Maladie.  L’infrastructure mutualisée
+SESAM-Vitale  gère  aujourd’hui  plus  d’un  milliard  de  transactions  par  an  en  relation  avec  plus  de  300 000
+Professionnels de Santé.
+Description de la mission
+Intégré(e)  au  sein  de  l’équipe  Développement  de  la  Direction  Infrastructures  Intermédiaires,  votre  mission
+consistera à faire évoluer l’environnement de développement, notamment sur les aspects de virtualisation.
+Description détaillée
+Les activités confiées sont :
+  Analyse de l’existant et définition des besoins d’évolution de l’environnement de développement
+Etude des solutions de virtualisation d’environnement de développement, sur la base des technologies
+Vagrant et Docker
+  POC de la solution retenue
+  Développement de l’outillage nécessaire
+  Présentation de la solution
+Profil recherché
+Etudiant(e) en 4ème ou 5ème année d’école d’ingénieur en Informatique.
+Qualités requises : curiosité, facilité d’adaptation, autonomie.
+Pré-requis
+  Linux et Shell
+  Environnement JavaEE
+Compétences visées durant le stage
+  Mettre en œuvre et développer vos compétences dans un contexte de développement logiciel
+  Approfondir vos connaissances sur les outils Subversion, solution de virtualisation
+Durée / Date
+4 à 6 mois / Début du stage au premier trimestre 2015
+Comment répondre ?
+Merci d’adresser votre candidature (CV + lettre de motivation) à :
+GIE SESAM-Vitale
+5, Boulevard Marie et Alexandre Oyon
+72019 Le Mans Cedex 2 FRANCE
+Fax : (33) 02 43 87 78 42
+E.mail : recrutement@sesam-vitale.fr
+Réf. : STAGE/DII/DEV/ENV-DEV
+
+
+
+
+

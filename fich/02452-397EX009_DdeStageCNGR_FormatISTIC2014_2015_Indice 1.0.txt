@@ -1,0 +1,107 @@
+﻿UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : CNAMTS - Centre National de Gestion                                     Adresse : 33, rue du Bignon
+du Réseau                                                                                     Ville : 35510                      CESSON SÉVIGNÉ
+Domaine d’activité : Centre d’Ingénierie et d’Exploitation                                    N° téléphone : 02.99.32.55.37
+Réseaux Télécoms et Services Associés                                                         N° fax : 02.99.53.54.77
+Représentant de l’entreprise : Philippe CUEILLE                                               Site Web :///
+Sa qualité : Directeur du CNGR                                                                                                   Courriel :liste-direction.cngr@cnamts.fr
+N° de Siret :                                                                                 Signataire de la convention :
+N° NAF :
+Statut Juridique :
+Effectif de l’établissement :
+Nom de l’encadrant de stage : SAVALLE Barbara                                                                                    Chargé du suivi administratif : Carole DAGUET
+Sa qualité : Responsable MOE de ce projet de développement                                                                       Sa qualité : Responsable Administratif du site
+Service : Direction                                                                           N° téléphone : 02.99.32..55.27
+N° téléphone : 02.99.32.88.23                                                                 Email :carole.daguet@cnamts.fr
+Email :barbara .savalle@cnamts.fr                                                             Fax : 02.99.53.54.77
+Fax :02.99.53.54.77
+Nom du service dans lequel le stage sera effectué : Direction du CNGR
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): Même lieu que l’entreprise
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+□ Licence 313 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+þ Parcours SR et GL, Recherche - 8 semaines minimum à partir du 13 mai 2015
+□ MIAGE13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGEdu 9 mars 2015 à fin août 2015
+□ Spécialité IRdu 9 mars 2015 à fin août 2015
+□ Spécialité GLdu 9 mars 2015 à fin août 2015
+□ Spécialité MITICdu 9 mars 2015 à fin août 2015
+□ Spécialité SSIdu 9 mars 2015 à fin août 2015
+□ Spécialité Recherchedu 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité CCI                                                                              du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205
+www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                                         16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEAEn alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                                         entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET DU STAGE :
+Titre du stage proposé : Conception et développements Web (via Framework Symfony2©)
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+-                                                                                                                        Développement en langage PHP© (orienté Objet) dans le cadre d’un framework Symfony2©
+-                                                                                                                        Développement en environnement Linux©
+-                                                                                                                        Base de données PostGre© et SQLServer©
+Contenu détaillé du stage proposé: Ce stage constitue une mission composée de nombreuses activités
+complémentaires, toutes axées autour de la refonte de notre Intranet. En tant que stagiaire, vous aurez à:
+1.  Etudier, dans un premier temps, le framework Symfony2© , afin de vous familiariser avec cette
+solution,
+2.  En simultané, collaborer à la rédaction des spécifications techniques liées au futur développement
+(en lien avec l’expression de besoins qui vous aura été communiquée),
+3.  Assurer une partie de la production des bundles (modules) qui doivent être développés pour
+répondre aux spécifications techniques (fonctionnalités,…) du futur Intranet,
+4.  Elaborer toute la documentation d’accompagnement nécessaire au projet,
+5.  Assurer un transfert de compétence acquise au cours de votre stage (dans le cadre du projet de
+développement) vers notre équipe.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) : 500                                                                                        €/mois environ
+Modalités de versement : ///                                                                                             Nom de l’Etudiant :
+Avantages en nature à préciser :                                                                                         Diplôme :
+Période du stage : du 13/05 au 28/08/2015
+Temps horaire hebdomadaire : A préciser
+Date limite de réponse à cette proposition : Jeudi 30/04/2015
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Non, mais fourniture d’un dossier (Lettre de
+Motivation succincte + CV) aux coordonnées suivantes :
+CNAMTS - Centre National de Gestion du Réseau
+33, rue du Bignon
+35510                                                                                                                    CESSON SÉVIGNÉ
+                                                                                                                         A l’attention de Monsieur LAMARY Franck
+                                                                                                                         Ou à l’adresse mail : franck.lamary@cnamts.fr
+                                                                                                                         Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205
+www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

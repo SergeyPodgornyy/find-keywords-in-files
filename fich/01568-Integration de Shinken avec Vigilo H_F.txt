@@ -1,0 +1,42 @@
+﻿CS COMMUNICATION ET SYSTEMES RECRUTE UN/UNE INTÉGRATION DE SHINKEN AVEC
+VIGILO H/F EN STAGE DE 3 À 6 MOIS.
+Date : 06/10/2014
+Référence de l’offre : SEC/LPR/N°9-7699079
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : 92350 92350, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+VIGILO est une solution complète de supervision open-source capable de gérer des systèmes d'envergure
+(réseau et serveurs) grâce à une architecture répartie et modulaire. Construit autour de Nagios, VIGILO traite
+en complément la métrologie, la cartographie, la corrélation d'évènements et le reporting. VIGILO offre
+d'autre part de nouvelles fonctionnalités : bac à évènements, navigateur dans les graphes, gestion centralisée
+des configurations, etc.
+Vous intégrez l'équipe produit VIGILO (www.vigilo-nms.org).
+L'objectif de ce stage est de pouvoir utiliser le moteur de collecte de supervision Shinken au sein de VIGILO.
+Vous réaliserez les travaux suivants :
+* Rédaction du cahier des charges
+* Dossier de Conception et de Spécification
+* Intégration de Shinken dans Vigilo
+* Ecriture des manuels (installation, exploitation, administration)
+Durée du stage : 3 à 6 mois.
+Profil recherché :
+Ingénieur  de  formation  ou  équivalent  universitaire                                                            (Bac+4/5),  en  informatique,  vous  justifiez  des
+compétences techniques suivantes : Python, XML.
+La connaissance d'un moteur de collecte de supervision comme Nagios ou Shinken est un plus.
+Compétences linguistiques: Anglais technique (lu et écrit)
+Pour postuler : http://cssi.contactrh.com/jobs/1536/7699079
+
+
+
+
+

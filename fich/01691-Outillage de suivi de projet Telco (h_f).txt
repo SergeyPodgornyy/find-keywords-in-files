@@ -1,0 +1,52 @@
+﻿ATOS RECRUTE UN/UNE OUTILLAGE DE SUIVI DE PROJET TELCO (H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175661-7801305
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+L'Entité  Atos  Systèmes  Intégration                                                                                      (SI)  a  pour  vocation  d'imaginer,  de  développer  et  de  maintenir
+opérationnels les systèmes d'information de ses clients. Pour cela, notre entité dispose d'un riche portefeuille
+d'offres d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance
+optimale à ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de
+solutions.
+Description du poste :
+Le stage est réalisé au sein du pôle "Network Management" qui conçoit et développe des applications de
+supervision (alarmes), diagnostic et reporting statistiques de réseau.
+Le but du stage est la mise en place d'une nouvelle version de l'application Osiris, de suivi des tâches
+développées en interne. Il s'effectuera en plusieurs étapes comme, la prise de connaissance de l'application
+Osiris,  l'audit  de  l'application  et  de  l'usage  actuel  par  les  différents  utilisateurs,  l'identification  des
+modifications fonctionnelles à implémenter, les développements, des modifications et tests unitaires associés,
+la mise à jour des différents documents, la rédaction du rapport de stage, indiquant les modifications
+effectuées.
+NTIC : PHP, MySQl, Linux, HPQC, Mantis.
+Le stage est une excellente opportunité pour intégrer les étapes, le suivi des projets de développement dans
+un contexte industriel.
+Profil recherché :
+De formation Bac+2-4 en informatique  (Ecole d'ingénieur ou Université) en cours de validation, vous
+recherchez un stage d'une durée de 1-3 mois (dates variables selon l'école et la formation en cours).
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7801305
+
+
+
+
+

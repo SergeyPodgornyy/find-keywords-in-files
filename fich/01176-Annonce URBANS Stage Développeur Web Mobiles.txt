@@ -1,0 +1,38 @@
+﻿Entreprise informatique créée en  2005, URBANS est un acteur reconnu du nomadisme et du bon usage de
+l'information à destination des professionnels. URBANS conçoit et commercialise des systèmes permettant de
+mettre à disposition des professionnels de l'information au bon endroit, au bon moment, à la bonne personne de
+l’entreprise.
+Innovante sur son marché BtoB à travers le développement des premières applications professionnelles dédiées à la
+mobilité sur Smartphones et tablettes (solution URBANS Facility), URBANS est une entreprise dynamique composée
+d’une vingtaine de collaborateurs pour un CA d’environ 2M€.
+STAGE : Développeur Web/Mobile - H/F
+Missions
+Vous êtes intégré au sein de l’équipe de développement, vous participez à la conception et au développement
+technique de nouvelles applications web et mobile.
+Vos principales missions seront :
+   Réaliser l'analyse technique (De l'analyse du besoin aux spécifications techniques)
+   Concevoir et développer des applications en garantissant les fonctionnalités voulues
+   Réaliser les tests préparés, apporter les correctifs nécessaires
+   Assurer la maintenance corrective et apporter les évolutions demandées
+   Rédiger les rapports de fin d'intégration
+   Participer aux réunions de suivi de projets
+Profil
+Nous recherchons une personne ayant de bonnes connaissances sur la partie Web et/ou Mobile :
+   Les langages PHP4/5, HTML, JavaScript, CSS (partie Web) et/ou Java (partie Mobile)
+   Le CMS Drupal pour la partie Portail web
+   La plateforme Android pour la partie Mobile
+   La Méthodologie de développement (Agile, UML,…)
+Des Connaissances SGBD, web services (REST,SOAP,…) seraient un plus à votre candidature
+   Formation Bac+5
+   Rigueur et méthode
+   Esprit d’équipe, adaptabilité
+   Sens du service
+Stage de 6 mois,  35 heures, localisé sur Vannes. Prise de poste : selon le calendrier de stage de votre école
+Pour nous rejoindre, merci de transmettre votre candidature (CV + Lettre de motivation) par email à l’adresse
+suivante : rh@urbans.fr sous la référence MJ/13/URBANS/SD
+Société URBANS- Zone de Laroiseau - 14 rue Anita Conti - 56000 VANNES - 02 97 67 88 71
+
+
+
+
+

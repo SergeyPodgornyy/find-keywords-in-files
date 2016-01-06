@@ -1,0 +1,75 @@
+﻿Entreprise
+Raison  Sociale  :  DIDOME                                                                                                                                                 Activités  de  l’entreprise  :  Bureau  d’étude  thermique  et  Fluides
+Adresse  :  35,  rue  des  Marronniers  ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+Code  Postal  :  35  000   Ville  :  PONT  PEAN
+Code  NAF  :  7112B                                                                                                                                                        N°  Siret    519  674  329  00015
+Personne  à  contacter  :  Didier  LE  GOFF
+Fonction  :  Responsable  Etude
+Tél  :  06  15  48  94  51  Adresse  électronique  :­­­­­­­­­­­­­­didier.legoff@didome.fr
+Raison  Sociale  :  GLET  CONSTRUCTIONS                                                                                                                                    Activités  de  l’entreprise  :  Entreprise  e  maçonnerie
+Adresse  :  ZA  de  l’Eperon  Doré   ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+Code  Postal  :  35  170   Ville  :  BRUZ
+Code  NAF  :  7112B                                                                                                                                                        N°  Siret    503 396 194 00022
+Personne  à  contacter  :  Thomas  KERZERO
+Fonction  :  Responsable
+Tél  :  02  99  52  61  43   Adresse  électronique  :­­­­­­­­­­­­­thomas.kerzerho@glet­constructions.fr
+Thématiques  du  stage  ou  des  stages  proposés
+Le  cahier  des  charges  est  donné  ici  à  titre  indicatif,  il  est  susceptible  d’être  modifié  en  fonction  des
+remarques  de  l’ingénieur(e)  chargé(e)  de  son  développement
+1    Objet du projet
+Création d’une interface est de fonctionnalités qui s’appuient sur un applicatif de gestion des PME PMI
+(Type APIBAT) dont la base de données est de type .mdb.
+Les fonctionnalités seront de deux types :
+1.  Créations de reporting à partir des données présentes dans les bases .mdb ;
+2.  Créations de fonctionnalités qui stockent de nouvelles données saisies et sur lesquelles passent des
+traitements.
+2    Interface utilisateur
+L’interface utilisateur permettra de lancer plusieurs fonctionnalités avec des filtres contextuels à la
+fonctionnalité utilisée.
+Des fonctionnalités métiers existantes pourront être implémentées : Exemple application de calculs du
+nombre de constituants en maçonnerie à partir d’un choix de matériaux.
+3    Outils de développement
+L’outil de développement pressenti est l’environnement Microsoft.NET*. Il sera également utilisé des
+« composants » qui permettent d’utiliser des interfaces graphiques existants.
+Microsoft .NET1 (prononcé "dot net") est le nom donné à un ensemble de produits et de technologies
+informatiques de l'entreprise Microsoft pour rendre des applications facilement portables sur Internet.
+Stage  GLET  CONSTRUCTION/DIDOME
+
+
+
+
+Le but est de fournir un serveur web local permettant de gérer des services et évitant d'externaliser des
+données privées sur un service web de stockage ou un hébergement web tiers.
+4    Conditions du stage
+Déplacements                                                                                                                                          Stage  réalisé  dans  l’entreprise  GLET  CONSTRUCTIONS
+Indemnisation                                                                                                                                         Suivant  les  conventions  de  stage
+Aide  au  logement
+Types  de  stagiaires  possibles
+Périodicité  du  stage
+stage  en  temps  partagé
+stage  en  continu                                                                                                                                    Oui
+Durée  estimée  du  travail  demandé
+Dates  de  début  et  fin  de  stage  :  Mars/  Avril   au   Juillet/  Aout
+12 semaines en continu
+Techniciens spécialisés - stage de fin d'études                                                                                                       X
+de début avril à fin juin
+10 semaines minimum en continu pouvant durer 4 mois maxi
+                                                                                                                                                      Ingénieurs 2ème année - stage de maîtrise                 X
+à partir de fin avril
+20 semaines en continu (6 mois maximum)
+                                                                                                                                                      Ingénieurs 3ème année - stage de fin d'études
+à partir de début mars
+Niveau  du  stagiaire
+Technicien                                                                                                                                            Ingénieur  X
+Connaissances  ou  expériences  requises
+Forte  autonomie  dans  son  travail,  la  réalisation  de  ce  stage  nécessite  :
+1)  Une  bonne  connaissance  des  outils  de  développement  informatiques  pressentis.
+2)  La  capacité  à  proposer  une  solution  «  qui  fonctionne  »  en  fonctions  des  ressources  disponibles.
+Une  gestion  de  projet  collaborative  sera  mise  en  place  pour  ce  projet,  elle  permettra  de  regrouper  l’ensemble  des  acteurs  de  ce
+projets  :  DIDOME,  GLET  CONTRUCTION
+Stage  GLET  CONSTRUCTION/DIDOME
+
+
+
+
+

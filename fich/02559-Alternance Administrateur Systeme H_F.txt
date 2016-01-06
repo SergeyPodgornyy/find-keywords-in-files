@@ -1,0 +1,45 @@
+﻿ATOS RECRUTE UN/UNE ALTERNANCE ADMINISTRATEUR SYSTÈME H/F EN
+APPRENTISSAGE/ALTERNANCE DE 10 À 12 MOIS.
+Date : 01/07/2015
+Référence de l’offre : 185549-9995490
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Metz 57000, FR
+Durée du contrat : De 10 à 12 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Sous la responsabilité d'un chef de projet, vous aurez comme mission :
+- l'intégration, la maintenance et le suivi d'applications informatiques fonctionnant sur les plates-formes
+Unix/Linux et Windows,
+- la rédaction de documents à usage interne,
+- l'analyse des besoins jusqu'à la mise en œuvre, en passant par les évolutions techniques du produit, la
+définition de la solution globale et le suivi des utilisateur.
+Profil recherché :
+Actuellement dans un cursus de formation supérieure (BAC +4/5), en école d'ingénieurs ou à l'université,
+vous souhaitez acquérir une première expérience en conseil technologique ou en intégration de systèmes.
+Vous avez des notions de scripting shell UNIX, avez des connaissances des environnements UNIX/LINUX,
+Windows Server 2003/2008 et SQL ainsi qu'une initiation à la virtualisation.
+Doté(e) d'un bon relationnel et du sens du service, vous êtes mobile, créatif(ve), avez le sens du travail en
+équipe et pouvez travailler en anglais.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9995490
+
+
+
+
+

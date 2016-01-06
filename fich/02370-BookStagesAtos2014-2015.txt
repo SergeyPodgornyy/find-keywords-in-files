@@ -1,0 +1,1860 @@
+﻿Nos stages
+2014-2015
+
+
+
+
+Développement de composants AngularJS
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                collaborateurs dans 47 pays, fournit à
+Contexte
+                                                                                ses clients du monde entier des services
+Dans le cadre de nos projets, nous sommes amenés à développer des
+                                                                                transactionnels de haute technologie,
+solutions web à base de client riche pour nos clients en utilisant les
+                                                                                des solutions de conseil, d’intégration de
+solutions du marché. Afin d’offrir la meilleur expérience utilisateur tout en
+                                                                                systèmes et d’infogérance.
+industrialisant nos solutions, nous souhaitons packager nos solutions pour
+                                                                                Atos délivre les technologies qui
+une meilleure réutilisabilité.
+                                                                                accélèrent le développement de ses
+                                                                                clients et les aide à réaliser leur vision de
+Mission
+                                                                                l’entreprise du futur. Atos est le
+Encadré par une équipe spécialisée dans les technologies web, vous aurez
+                                                                                partenaire informatique mondial des
+en charge la réalisation de composants AngularJS permettant
+                                                                                Jeux Olympiques. Le Groupe est coté sur
+l’implémentation rapide de ces solutions. Basé sur des réalisations
+                                                                                le marché Eurolist de Paris et exerce ses
+existantes, vous aurez en charge l’implémentation de ces composants dans
+                                                                                activités sous les noms d’Atos, Atos
+les projets ainsi que leur documentation.
+                                                                                Consulting & Technology Services,
+                                                                                Worldline et Atos WorldGrid.
+Environnement technologique
+                                                                                Pour plus d’information : atos.net
+Techniquement, ce stage permet de développer des compétences autour
+des nouvelles technologies (AngularJS, Javascript, REST, HTML/CSS), et de
+Ce stage est basé à Rennes
+l’outillage professionnel (conception UML, gestion de configuration SVN,
+tests HPQC, Selenium…)
+Si ce stage vous intéresse,
+                                                                                déposez votre candidature sur notre
+Objectifs pédagogiques
+                                                                                site Internet : https://careers.atos.net
+Le stagiaire est accompagné par des spécialistes en matière
+                                                                                en saisissant la référence du stage
+d’implémentation de solution web et pourra découvrir et mettre en
+                                                                                comme critère de recherche
+pratique des compétences clés sur un métier de pointe en matière de
+technologie. Le stage proposé est une excellente opportunité pour
+                                                                                Référence du stage : 176213
+découvrir et assimiler les outils, techniques et process d’un projet de
+développement.
+Qui êtes-vous ?
+De formation Bac+5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 6-9 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+Développement d’un framework pour solution Big Data
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+collaborateurs dans 47 pays, fournit à
+Contexte
+ses clients du monde entier des services
+Dans le cadre de nos projets, nous sommes amenés à développer des
+transactionnels de haute technologie,
+solutions Big Data pour nos clients en utilisant les solutions du marché. Il
+des solutions de conseil, d’intégration de
+s’agit de solutions complexes et performantes permettant de traiter la
+systèmes et d’infogérance.
+masse d’information produite en continue par les différents systèmes et de
+Atos délivre les technologies qui
+réussir à en extraire la valeur.
+accélèrent le développement de ses
+clients et les aide à réaliser leur vision de
+Mission
+l’entreprise du futur. Atos est le
+Encadré par une équipe spécialisée dans les solutions SBA (Search Based
+partenaire informatique mondial des
+Application), vous aurez en charge la réalisation d’un framework
+Jeux Olympiques. Le Groupe est coté sur
+permettant l’implémentation rapide de ces solutions. Basé sur des
+le marché Eurolist de Paris et exerce ses
+solutions du marché (Sinequa, SolR, ElasticSearch, …) vous réaliserez des
+activités sous les noms d’Atos, Atos
+composants de text mining facilitant l’analyse sémantique.
+Consulting & Technology Services,
+Worldline et Atos WorldGrid.
+Environnement technologique
+Pour plus d’information : atos.net
+Techniquement, ce stage permet de développer des compétences autour
+des nouvelles technologies (JEE, Spring MVC, AngularJS, JQuery,
+Ce stage est basé à Rennes
+WebServices), des solutions Big Data, et de l’outillage professionnel
+(conception UML, gestion de configuration SVN, …)
+Si ce stage vous intéresse,
+déposez votre candidature sur notre
+Objectifs pédagogiques
+site Internet : https://careers.atos.net
+Le stagiaire est accompagné par des spécialistes en matière
+en saisissant la référence du stage
+d’implémentation de solution Big Data et pourra découvrir et mettre en
+comme critère de recherche
+pratique des compétences clés sur un métier de pointe en matière de
+technologie. Le stage proposé est une excellente opportunité pour
+Référence du stage : 176223
+découvrir et assimiler les outils, techniques et process d’un projet de
+développement.
+Qui êtes-vous ?
+De formation Bac+5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 6-9 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+Développement Java/JEE d’un portail client mobile
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                 collaborateurs dans 47 pays, fournit à
+Contexte
+                                                                                 ses clients du monde entier des services
+L’objectif du projet WebCare est de développer les fonctions classiques
+                                                                                 transactionnels de haute technologie,
+qu’un opérateur de téléphonie mobile offre via son portail web et d’en
+                                                                                 des solutions de conseil, d’intégration de
+promouvoir l’usage auprès des clients ; ce portail intègre notamment la
+                                                                                 systèmes et d’infogérance.
+gestion d’espaces Boutique en Ligne, Client et Téléconseiller. Une version
+                                                                                 Atos délivre les technologies qui
+mobile du portail existant est actuellement à l’étude. Atos est responsable
+                                                                                 accélèrent le développement de ses
+de la réalisation du Front Office client en intégrant la solution Open Source
+                                                                                 clients et les aide à réaliser leur vision de
+Liferay. Le client est responsable de la mise en place d’une architecture
+                                                                                 l’entreprise du futur. Atos est le
+SOA organisée autour d’enablers métiers fournissant les services
+                                                                                 partenaire informatique mondial des
+nécessaires au développement de l’espace client.
+                                                                                 Jeux Olympiques. Le Groupe est coté sur
+                                                                                 le marché Eurolist de Paris et exerce ses
+Mission
+                                                                                 activités sous les noms d’Atos, Atos
+Intégré dans une petite équipe, le stagiaire pourra intervenir sur différentes
+                                                                                 Consulting & Technology Services,
+phases du projet selon le planning. Chaque demande d’évolution donne
+                                                                                 Worldline et Atos WorldGrid.
+lieu à une phase de cadrage fonctionnel (via des ateliers avec le client). Le
+                                                                                 Pour plus d’information : atos.net
+projet suit ensuite un cycle de développement assez classique : la
+rédaction de spécifications fonctionnelles, la conception, qui devra orienter
+Ce stage est basé à Rennes
+les choix techniques, le développement, les tests, l’intégration technique,
+la rédaction de documents utilisateurs. Quelques activités spécifiques sont
+Si ce stage vous intéresse,
+réalisées par Atos, comme l’intégration de maquettes graphiques fournies
+                                                                                 déposez votre candidature sur notre
+par un prestataire externe.
+                                                                                 site Internet : https://careers.atos.net
+Selon les besoins de l’équipe, le stagiaire pourra aussi être amené à
+                                                                                 en saisissant la référence du stage
+améliorer l’outillage mis en place sur le projet (aide aux tests, par
+                                                                                 comme critère de recherche
+exemple).
+                                                                                 Référence du stage : 175200
+Environnement technologique
+Techniquement, ce stage permet de développer des compétences autour
+des nouvelles technologies (JEE, Spring MVC, JSP, JQuery, WebServices), des
+Qui êtes-vous ?
+portails (Liferay), sur de l’outillage professionnel (conception UML, gestion
+de configuration SVN, tests HPQC, tests automatisés JUnit, Selenium, …)
+De formation Bac+3-4 en informatique
+Objectifs pédagogiques                                                           (Ecole d’ingénieur ou université) en
+Le stagiaire est intégré dans l’équipe projet, ce qui lui permet de découvrir    cours de validation, vous recherchez un
+les différents aspects d’un projet informatique, de la réception du besoin       stage d’une durée de 1-3 mois (dates
+client à la livraison du produit réalisé ; il pourra appréhender aussi bien la   variables selon l’école et la formation
+manière dont sont gérées les relations avec le client que l’organisation         en cours)
+interne au sein de l’équipe, ou encore la mise en œuvre de règles, normes
+et procédures.
+
+
+
+
+Développements .Net / C# dans un projet d’ERP (énergie)
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+collaborateurs dans 47 pays, fournit à
+Contexte :
+ses clients du monde entier des services
+Atos développe pour un acteur majeur du monde de l’énergie (France,
+transactionnels de haute technologie,
+Europe, monde) un ERP (outil de gestion intégré : gestion de la chaine
+des solutions de conseil, d’intégration de
+logistique, outils décisionnels, reporting, gestion financière).
+systèmes et d’infogérance.
+Atos délivre les technologies qui
+Mission :
+accélèrent le développement de ses
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce
+clients et les aide à réaliser leur vision de
+pôle conçoit et développe des applications de CRM pour de nombreux
+l’entreprise du futur. Atos est le
+clients, dans de nombreux contextes métiers et technologiques.
+partenaire informatique mondial des
+Jeux Olympiques. Le Groupe est coté sur
+Le but du stage est de participer aux évolutions apportées au logiciel de
+le marché Eurolist de Paris et exerce ses
+CRM
+activités sous les noms d’Atos, Atos
+    Participation à l’analyse du besoin
+Consulting & Technology Services,
+    Etude d’impact
+Worldline et Atos WorldGrid.
+    Réalisation
+Pour plus d’information : atos.net
+    Participation aux tests
+Ce stage est basé à Rennes
+Vous serez intégrés à l’équipe de réalisation, constituée d’architectes
+techniques, de concepteurs fonctionnels, de développeurs et de recetteurs.
+Si ce stage vous intéresse,
+Cette équipe travaille en forte proximité client à maintenir et à faire évoluer
+déposez votre candidature sur notre
+cette application CRM structurante.
+site Internet : https://careers.atos.net
+en saisissant la référence du stage
+Environnement technologique :
+comme critère de recherche
+Microsoft Dynamics NAV, Visual Studio, .Net, C#, SqlServer..
+Référence du stage : 175201
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour découvrir et
+assimiler les outils, techniques et process d’un projet de développement. Il
+Qui êtes-vous ?
+sera aussi l’occasion de monter en compétence sur MS Dynamics NAV, un
+des progiciels leader du marché des ERP.
+De formation Bac+4-5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 6 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+Développements .Net / C# dans un projet de CRM (transports)
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+collaborateurs dans 47 pays, fournit à
+Contexte :
+ses clients du monde entier des services
+Atos développe pour un acteur majeur du monde des transports publics
+transactionnels de haute technologie,
+(France, Europe, monde) un CRM (gestion de la relation client, campagnes
+des solutions de conseil, d’intégration de
+marketing, réclamations).
+systèmes et d’infogérance.
+Atos délivre les technologies qui
+Mission :
+accélèrent le développement de ses
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce
+clients et les aide à réaliser leur vision de
+pôle conçoit et développe des applications de CRM pour de nombreux
+l’entreprise du futur. Atos est le
+clients, dans de nombreux contextes métiers et technologiques.
+partenaire informatique mondial des
+Jeux Olympiques. Le Groupe est coté sur
+Le but du stage est de participer aux évolutions apportées au logiciel de
+le marché Eurolist de Paris et exerce ses
+CRM
+activités sous les noms d’Atos, Atos
+    Participation à l’analyse du besoin
+Consulting & Technology Services,
+    Etude d’impact
+Worldline et Atos WorldGrid.
+    Réalisation
+Pour plus d’information : atos.net
+    Participation aux tests
+Ce stage est basé à Rennes
+Vous serez intégrés à l’équipe de réalisation, constituée d’architectes
+techniques, de concepteurs fonctionnels, de développeurs et de recetteurs.
+Si ce stage vous intéresse,
+Cette équipe travaille en forte proximité client à maintenir et à faire évoluer
+déposez votre candidature sur notre
+cette application CRM structurante.
+site Internet : https://careers.atos.net
+en saisissant la référence du stage
+Environnement technologique :
+comme critère de recherche
+Microsoft Dynamics CRM, Visual Studio, .Net, C#, SqlServer. PHP.
+Référence du stage : 175202
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour découvrir et
+assimiler les outils, techniques et process d’un projet de développement. Il
+Qui êtes-vous ?
+sera aussi l’occasion de monter en compétence sur MS CRM Dynamics, un
+des progiciels leader du marché du CRM.
+De formation Bac+4-5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 6 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+Industrialisation .Net / C# dans un projet de CRM (transports)
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                               collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                               ses clients du monde entier des services
+Atos développe pour un acteur majeur du monde des transports publics
+                                                                               transactionnels de haute technologie,
+(France, Europe, monde) un CRM (gestion de la relation client, campagnes
+                                                                               des solutions de conseil, d’intégration de
+marketing, réclamations).
+                                                                               systèmes et d’infogérance.
+                                                                               Atos délivre les technologies qui
+Mission :
+                                                                               accélèrent le développement de ses
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce
+                                                                               clients et les aide à réaliser leur vision de
+pôle conçoit et développe des applications de CRM pour de nombreux
+                                                                               l’entreprise du futur. Atos est le
+clients, dans de nombreux contextes métiers et technologiques.
+                                                                               partenaire informatique mondial des
+                                                                               Jeux Olympiques. Le Groupe est coté sur
+Le but du stage est de concevoir, développer et mettre en œuvre des outils
+                                                                               le marché Eurolist de Paris et exerce ses
+d’intégration continue, tests automatique, analyse de code, génération
+                                                                               activités sous les noms d’Atos, Atos
+automatique et packaging afin d’optimiser la qualité et l’efficacité du
+                                                                               Consulting & Technology Services,
+travail de l’équipe.
+                                                                               Worldline et Atos WorldGrid.
+Ces outils seront à identifier parmi les standards du marché, puis à
+                                                                               Pour plus d’information : atos.net
+déployer et configurer dans le contexte technique et organisationnel du
+projet.
+                                                                               Ce stage est basé à Rennes
+Environnement technologique :
+                                                                               Si ce stage vous intéresse,
+Microsoft Dynamics CRM, Visual Studio, .Net, C#, SqlServer. TFS.
+                                                                               déposez votre candidature sur notre
+                                                                               site Internet : https://careers.atos.net
+Objectifs pédagogiques :
+                                                                               en saisissant la référence du stage
+Le stage proposé est une excellente opportunité pour découvrir et
+                                                                               comme critère de recherche
+assimiler les outils, techniques et process d’un projet de développement. Il
+sera aussi l’occasion de monter en compétence sur MS CRM Dynamics, un
+des progiciels leader du marché du CRM et découvrir les bonnes pratiques       Référence du stage : 175203
+de développement associées
+Qui êtes-vous ?
+De formation Bac+4-5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+Support aux utilisateurs de réseaux d’entreprises
+Atos SE (Societas Europaea), acteur
+Votre mission                                                                                                                                                   international des services informatiques
+                                                                                                                                                                avec un chiffre d’affaires annuel de 8,6
+Contexte :                                                                                                                                                      milliards d’euros et 76.300
+                                                                                    Le stage est proposé dans le domaine « Fullfillment & Assurance » au sein   collaborateurs dans 52 pays, fournit à
+des  équipes  projets  du  secteur                                                  « Network  Management »  du  site  de                                       ses clients du monde entier des services
+Rennes.                                                                                                                                                         transactionnels de haute technologie,
+des solutions de conseil, d’intégration de
+Mission :                                                                           systèmes et d’infogérance.
+Atos délivre les technologies qui
+Le  domaine  programme  conçoit  et  développe  des  applications  de
+accélèrent le développement de ses
+supervision                                                                         (alarmes),  diagnostic  et  reporting  statistiques  de  réseau
+clients et les aide à réaliser leur vision de
+dans  un  environnement  Intranet  /  Extranet.  Ce  pôle  assure  aussi  le
+l’entreprise du futur. Atos est le
+support aux utilisateurs de ces différentes applications.
+partenaire informatique mondial des
+Jeux Olympiques. Le Groupe est coté sur
+Le stage s’effectuera en plusieurs étapes :
+le marché Eurolist de Paris et exerce ses
+1.        prise de connaissance des (nombreuses) applications concourant
+activités sous les noms d’Atos, Atos
+aux services offerts aux clients des réseaux d’entreprises
+Consulting & Technology Services,
+2.        Intégration dans l’équipe de support aux clients
+Worldline et Atos WorldGrid.
+3.        Traitements des  tickets  clients  et  collaborateurs  de  l’opérateur    Pour plus d’information : atos.net
+télécom. Ces traitements consistent en :
+o           la compréhension du problème client
+                                                                                    Ce stage est basé à Rennes
+o              La recherche des causes du  problème en fonction des
+éléments   de la   chaine   applicative   potentiellement                           Si ce stage vous intéresse,
+impliqués,                                                                          déposez votre candidature sur notre
+o       La   création   éventuelle   de   rapports   d’anomalies   à                site Internet : https://careers.atos.net
+destination  des   équipes  de  la   TMA   en   charge  du                          en saisissant la référence du stage
+développement et de la maintenance des applications                                 comme critère de recherche
+o       Le suivi complet du ticket jusqu’à sa résolution
+4.                                                                                  Eventuellement  la  suggestion  d’amélioration  des  outils,  des           Référence du stage : 175283
+process, …
+Qui êtes-vous ?
+Compte tenu de la complexité de l’environnement, des services offerts,
+du  nombre  des  outils  utilisés,  l’intégration  se  fera  petit  à  petit.  Le
+contour du stage sera revu régulièrement avec le chef de projet.                    De formation Bac+4-5 en informatique
+                                                                                    (Ecole ingénieurs, Université) en cours
+                                                                                    de validation, vous recherchez un stage
+Environnement technologique :
+                                                                                    d’une durée de 4-6 mois (dates
+Remedy (Trouble Ticket management), MySQl, portail Web, outils
+variables selon l’école). Une
+spécifiques développés par la TMA et l’opérateur Telecom.
+proposition d’embauche en fin de
+stage est envisageable, sur le site de
+Objectifs pédagogiques :                                                            votre stage, ou, si vous le désirez, dans
+Le  stage  proposé  est  une  excellente  opportunité  pour  comprendre  les        toute autre région dans laquelle AtoS
+multiples  aspects  des  réseaux  de  télécommunications  clients,  les             recrute.
+différents outils de gestion de ces réseaux, les problèmes rencontrés, les
+méthodes  employées  pour  effectuer  le  support  et  la  recherche  de
+diagnostic,  la  gestion  des  tickets  incidents,  etc.  …  tout  ceci  dans  un
+environnement opérationnel au contact des équipes de développement
+des applications.
+
+
+
+
+Mise en place application ISIS de suivi pour support client
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                                                                                                                                                    milliards d’euros et 77.000
+                                                                                  Le stage est proposé dans le domaine « Fullfillment & Assurance » du site
+                                                                                                                                                                                                              collaborateurs dans 47 pays, fournit à
+de Rennes.                                                                                                                                                                                                    ses clients du monde entier des services
+                                                                                                                                                                                                              transactionnels de haute technologie,
+Mission :
+                                                                                                                                                                                                              des solutions de conseil, d’intégration de
+                                                                                  Le  stage  est  réalisé  au  sein  du  pôle  "Network  Management".  Ce  pôle
+                                                                                                                                                                                                              systèmes et d’infogérance.
+                                                                                  conçoit et développe des applications de supervision (alarmes), diagnostic
+                                                                                                                                                                                                              Atos délivre les technologies qui
+                                                                                  et  reporting  statistiques  de  réseau  dans  un  environnement  Intranet      /                                           accélèrent le développement de ses
+Extranet.
+clients et les aide à réaliser leur vision de
+l’entreprise du futur. Atos est le
+Le but du stage est la finalisation de l’outil ISIS mis en place pour le suivi    partenaire informatique mondial des
+des  actions  associées  au  traitement  de  tickets  transmis  à  une  équipe
+Jeux Olympiques. Le Groupe est coté sur
+support                                                                           (Helpdesk)  par  les  différentes  équipes  du  client  utilisant  les          le marché Eurolist de Paris et exerce ses
+services de supervision et de reporting.
+                                                                                                                                                                  activités sous les noms d’Atos, Atos
+                                                                                                                                                                  Consulting & Technology Services,
+Le stage s’effectuera en plusieurs étapes :                                                                                                                       Worldline et Atos WorldGrid.
+                                                                                  1.   Prise de connaissance de l’état actuel du projet ISIS : architecture,
+                                                                                                                                                                  Pour plus d’information : atos.net
+fonctionnalités déjà implémentées
+2.   Identification des fonctionnalités restant à mettre en place
+                                                                                                                                                                  Ce stage est basé à Rennes
+3.   Développement de ces nouvelles fonctions
+4.   Validation de toute l’application avec l’outil de test HPQC
+                                                                                                                                                                  Si ce stage vous intéresse,
+5.   Mise à jour de la documentation (spécifications, manuels, ..)
+                                                                                                                                                                  déposez votre candidature sur notre
+6.   Mise en exploitation opérationnelle sur plate-forme Atos
+                                                                                                                                                                  site Internet : https://careers.atos.net
+                                                                                                                                                                  en saisissant la référence du stage
+En fonction de l’avancement de l’étude et des développements, le contour                                                                                          comme critère de recherche
+du  stage  sera  revu  régulièrement  avec  le  responsable  du  stage  et  les
+principaux  acteurs  du  programme.  Le  but  du  stage  est  d’obtenir  une                                                                                      Référence du stage : 175658
+application complètement utilisable à la fin du stage.
+Environnement technologique :                                                                                                                                     Qui êtes-vous ?
+Linux, Java, PHP, MySQL, Eclipse, Sonar, Hudson, …
+                                                                                                                                                                  De formation Bac+5 en informatique
+                                                                                  Le stage s’effectuera sous la responsabilité du chef de projet responsable du   (Ecole d’ingénieur ou université) en
+support client                                                                                                                                                    cours de validation, vous recherchez un
+                                                                                                                                                                  stage d’une durée de 4-6 mois (dates
+                                                                                                                                                                  variables selon l’école). Une
+Objectifs pédagogiques :
+                                                                                                                                                                  proposition d’embauche en fin de
+Le stage proposé est une excellente opportunité pour  se former sur les
+                                                                                                                                                                  stage est envisageable, sur le site de
+réseaux télécom offerts aux entreprises, ainsi que sur le déroulement d’un
+                                                                                                                                                                  votre stage, ou, si vous le désirez, dans
+projet industriel dans son ensemble.
+                                                                                                                                                                  toute autre région dans laquelle AtoS
+                                                                                                                                                                  recrute.
+
+
+
+
+Evolution application suivi activité projets
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                                                                                             collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                                                                                             ses clients du monde entier des services
+                                                                              Le stage est proposé dans le domaine « Fullfillment & Assurance » au sein
+                                                                                                                                                             transactionnels de haute technologie,
+                                                                              des équipes projets du secteur « Network Management ».
+                                                                                                                                                             des solutions de conseil, d’intégration de
+                                                                                                                                                             systèmes et d’infogérance.
+Mission :
+                                                                                                                                                             Atos délivre les technologies qui
+                                                                              Le stage est réalisé au sein du pôle "Network Management" du
+                                                                                                                                                             accélèrent le développement de ses
+                                                                              Département de Rennes. Ce pôle conçoit et développe des applications de
+                                                                                                                                                             clients et les aide à réaliser leur vision de
+                                                                              supervision (alarmes), diagnostic et reporting statistiques de réseau dans
+                                                                                                                                                             l’entreprise du futur. Atos est le
+un environnement Intranet / Extranet.
+                                                                                                                                                             partenaire informatique mondial des
+                                                                                                                                                             Jeux Olympiques. Le Groupe est coté sur
+                                                                              Le but du stage est la mise en place d’une nouvelle version de l’application
+                                                                                                                                                             le marché Eurolist de Paris et exerce ses
+                                                                              Osiris de suivi des tâches projets développée en interne sur le site de
+                                                                                                                                                             activités sous les noms d’Atos, Atos
+Rennes.
+                                                                                                                                                             Consulting & Technology Services,
+                                                                                                                                                             Worldline et Atos WorldGrid.
+                                                                              Le stage s’effectuera en plusieurs étapes :
+                                                                                                                                                             Pour plus d’information : atos.net
+-                                                                             Prise de connaissance de l’application Osiris
+-                                                                             Audit de l’application et de l’usage actuel par les différents utilisateurs
+                                                                                                                                                             Ce stage est basé à Rennes
+-                                                                             Identification des modifications fonctionnelles à implémenter
+-                                                                             Développements (PHP/MySQL) des modifications et tests unitaires
+                                                                                                                                                             Si ce stage vous intéresse,
+associés
+                                                                                                                                                             déposez votre candidature sur notre
+-                                                                             Mise à jour des différents documents (Spécifications, manuels, …)
+                                                                                                                                                             site Internet : https://careers.atos.net
+-                                                                             Rédaction du rapport de stage indiquant les modifications effectuées
+                                                                                                                                                             en saisissant la référence du stage
+comme critère de recherche
+Compte tenu de l’aspect particulier de ce projet, le contour du stage sera
+revu régulièrement selon les études et l’avancement avec le responsable du
+Référence du stage : 175661
+stage et les principaux acteurs du programme.
+Environnement technologique :
+Qui êtes-vous ?
+PHP, MySQl, Linux, HPQC, Mantis
+Objectifs pédagogiques :                                                      De formation Bac+2-4 en informatique
+Le stage proposé est une excellente opportunité pour intégrer les étapes,     (Ecole d’ingénieur ou université) en
+le suivi des projets de développement dans un contexte industriel ainsi que   cours de validation, vous recherchez un
+les outils utilisés dans les applications avec Base de Données                stage d’une durée de 1-3 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+Mise en place d’outils de tests automatiques application SNMP
+Atos SE (SocietasEuropaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                         milliards d’euros et 77.000
+Le stage est proposé dans le domaine « Fullfillment& Assurance » au sein
+                                                                                   collaborateurs dans 47 pays, fournit à
+des équipes projets du secteur  « Network Management  »  (60 personnes             ses clients du monde entier des services
+environ).
+                                                                                   transactionnels de haute technologie,
+                                                                                   des solutions de conseil, d’intégration de
+Mission :
+                                                                                   systèmes et d’infogérance.
+Le   stage   est   réalisé   au   sein   du   pôle   "Network   Management"   du
+                                                                                   Atos délivre les technologies qui
+Département de Rennes. Ce pôle conçoit et développe des applications de            accélèrent le développement de ses
+supervision  (alarmes), diagnostic et reporting statistiques de réseau dans
+                                                                                   clients et les aide à réaliser leur vision de
+un environnement Intranet / Extranet.
+                                                                                   l’entreprise du futur. Atos est le
+                                                                                   partenaire informatique mondial des
+Le but du stage est la mise en place d’outils permettant l’automatisation de
+                                                                                   Jeux Olympiques. Le Groupe est coté sur
+tests d’une application de polling d’équipements en SNMP.                          le marché Eurolist de Paris et exerce ses
+                                                                                   activités sous les noms d’Atos, Atos
+Le stage s’effectuera en plusieurs étapes :
+                                                                                   Consulting&Technology Services,
+1.   Prise de connaissance de l’application de supervision
+                                                                                   Worldline et Atos WorldGrid.
+d’équipements selon le protocole SNMP
+                                                                                   Pour plus d’information : atos.net
+2.   Prise de connaissance de la solution déjà mise en place lors d’un
+précédent stage pour les tests de non-régression (utilisation de
+                                                                                   Ce stage est basé à Rennes
+l’outil TestBox d’AtoS)
+3.   Définition de la méthodologie pour automatiser les tests (selon
+                                                                                   Si ce stage vous intéresse,
+leur type, la fréquence, …)
+                                                                                   déposez votre candidature sur notre
+4.   Organisation et développement des nouveaux tests nécessaires
+                                                                                   site Internet : https://careers.atos.net
+pour compléter ceux déjà existants
+                                                                                   en saisissant la référence du stage
+5.   Mise en opérationnel de la solution sur la plateforme de
+                                                                                   comme critère de recherche
+développement AtoS
+6.   Mise à jour de la documentation : manuel d’utilisation, de
+maintenance, fiches de tests, …                                                    Référence du stage : 175662
+Compte tenu de l’aspect expérimental/prototype, le contour du stage sera
+Qui êtes-vous ?
+revu régulièrement selon les études et l’avancement avec le responsable du
+stage et les principaux acteurs du programme.
+De formation Bac+4-5 en informatique
+Environnement technologique :                                                      (Ecole d’ingénieur ou université) en
+SOAP, Outil TestBox Atos, VB script, SVN, Mantis,   …                              cours de validation, vous recherchez un
+                                                                                   stage d’une durée de 4-6 mois (dates
+                                                                                   variables selon l’école). Une
+Objectifs pédagogiques :
+                                                                                   proposition d’embauche en fin de
+Le  stage  proposé  est  une  excellente  opportunité  pour   intégrer  la
+                                                                                   stage est envisageable, sur le site de
+problématique  de  validation  d’une  application  selon  les  étapes  de
+                                                                                   votre stage, ou, si vous le désirez, dans
+développement d’un projet.
+toute autre région dans laquelle AtoS
+recrute.
+
+
+
+
+Refonte application de gestion de livraisons de versions applicatives
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                                                                                                                                                                                 milliards d’euros et 77.000
+                                                                                                                                                     Le stage est proposé dans le domaine « Fullfillment & Assurance » du site
+                                                                                                                                                                                                                                           collaborateurs dans 47 pays, fournit à
+de Rennes.                                                                                                                                                                                                                                 ses clients du monde entier des services
+                                                                                                                                                                                                                                           transactionnels de haute technologie,
+Mission :
+                                                                                                                                                                                                                                           des solutions de conseil, d’intégration de
+                                                                                                                                                     Le  stage  est  réalisé  au  sein  du  pôle  "Network  Management".  Ce  pôle
+                                                                                                                                                                                                                                           systèmes et d’infogérance.
+                                                                                                                                                     conçoit et développe des applications de supervision (alarmes), diagnostic
+                                                                                                                                                                                                                                           Atos délivre les technologies qui
+                                                                                                                                                     et  reporting  statistiques  de  réseau  dans  un  environnement  Intranet        /   accélèrent le développement de ses
+Extranet.
+                                                                                                                                                                                                                                           clients et les aide à réaliser leur vision de
+                                                                                                                                                     Le but du stage est la refonte en Java d’une application actuellement écrite
+                                                                                                                                                                                                                                           l’entreprise du futur. Atos est le
+                                                                                                                                                     en  PHP,  de  gestion  des  livraisons  et  des  déploiements  de  versions           partenaire informatique mondial des
+applicatives.
+                                                                                                                                                                                                                                           Jeux Olympiques. Le Groupe est coté sur
+                                                                                                                                                                                                                                           le marché Eurolist de Paris et exerce ses
+Le stage s’effectuera en plusieurs étapes :
+                                                                                                                                                                                                                                           activités sous les noms d’Atos, Atos
+                                                                                                                                                     1.   Prise de connaissance générale des applications composant la
+                                                                                                                                                                                                                                           Consulting & Technology Services,
+                                                                                                                                                     solution de Network Management développée pour un opérateur
+                                                                                                                                                                                                                                           Worldline et Atos WorldGrid.
+                                                                             telecom
+                                                                                                                                                                                                                                           Pour plus d’information : atos.net
+                                                                                                                                                     2.   Prise de connaissance de l’application ANUBIS de gestion des
+                                                                                                                                                     livraisons des différentes applications sur les différentes plates-
+                                                                                                                                                                                                                                           Ce stage est basé à Rennes
+                                                                             formes, actuellement écrite en PHP/MySQL.
+                                                                                                                                                     3.   Identification des fonctions actuelles et nouvelles devant être
+                                                                                                                                                                                                                                           Si ce stage vous intéresse,
+                                                                                                                                                     développées dans la nouvelle version d’ANUBIS : fonctions du
+                                                                                                                                                                                                                                           déposez votre candidature sur notre
+                                                                             serveur, IHM
+                                                                                                                                                                                                                                           site Internet : https://careers.atos.net
+                                                                                                                                                     4.   Choix (sous la responsabilité du chef de projet) des outils :
+                                                                                                                                                                                                                                           en saisissant la référence du stage
+                                                                                                                                                     Java/J2E, Glassfish, architecture REST, PrimeFaces, Hibernate….                       comme critère de recherche
+                                                                                                                                                     5.   Réalisation du serveur et de la partie IHM en mode intranet
+6.   Tests avec l’outil HPQC                                                                                                                                                                                                               Référence du stage : 175663
+                                                                                                                                                     7.   Rédaction de la documentation (spécifications, manuels)
+                                                                             8.   Livraison en opérationnel sur la plate-forme Atos.
+                                                                                                                                                                                                                                           Qui êtes-vous ?
+                                                                                                                                                     En fonction de l’avancement de l’étude et des développements, le contour
+                                                                                                                                                     du  stage  sera  revu  régulièrement  avec  le  responsable  du  stage  et  les       De formation Bac+5 en informatique
+                                                                                                                                                     principaux   acteurs   du   programme afin   d’obtenir   une   application            (Ecole d’ingénieur ou université) en
+complètement opérationnelle à l’issue du stage.                                                                                                                                                                                            cours de validation, vous recherchez un
+                                                                                                                                                                                                                                           stage d’une durée de 5-6 mois (dates
+                                                                                                                                                                                                                                           variables selon l’école). Une
+Environnement technologique :
+                                                                                                                                                                                                                                           proposition d’embauche en fin de
+                                                                                                                                                     Java, GlassFish, Primefaces, Hibernate, HPQC, Eclipse, Sonar, Hudson, SVN,
+                                                                                                                                                                                                                                           stage est envisageable, sur le site de
+Linux, …
+                                                                                                                                                                                                                                           votre stage, ou, si vous le désirez, dans
+                                                                                                                                                                                                                                           toute autre région dans laquelle AtoS
+                                                                             Le stage s’effectuera en liaison étroite et sous la responsabilité du
+                                                                                                                                                                                                                                           recrute.
+directeur technique du projet.
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour  se former sur les
+différentes étapes de développement d’une application et sur les nouvelles
+technologies.
+
+
+
+
+Mise en place d’outils de tests de sécurité application WEB
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                                                                                                                                                                         milliards d’euros et 77.000
+                                                                                                                                               Le stage est proposé dans le domaine « Fullfillment & Assurance » du site
+                                                                                                                                                                                                                                   collaborateurs dans 47 pays, fournit à
+de Rennes.                                                                                                                                                                                                                         ses clients du monde entier des services
+                                                                                                                                                                                                                                   transactionnels de haute technologie,
+Mission :
+                                                                                                                                                                                                                                   des solutions de conseil, d’intégration de
+                                                                                                                                               Le  stage  est  réalisé  au  sein  du  pôle  "Network  Management".  Ce  pôle
+                                                                                                                                                                                                                                   systèmes et d’infogérance.
+                                                                                                                                               conçoit et développe des applications de supervision (alarmes), diagnostic
+                                                                                                                                                                                                                                   Atos délivre les technologies qui
+                                                                                                                                               et  reporting  statistiques  de  réseau  dans  un  environnement  Intranet      /   accélèrent le développement de ses
+Extranet.
+                                                                                                                                                                                                                                   clients et les aide à réaliser leur vision de
+                                                                                                                                                                                                                                   l’entreprise du futur. Atos est le
+                                                                                                                                               Le but du stage est la mise en place d’outils pour tester la bonne sécurité
+                                                                                                                                                                                                                                   partenaire informatique mondial des
+des applications accessibles en intranet/extranet.
+                                                                                                                                                                                                                                   Jeux Olympiques. Le Groupe est coté sur
+                                                                                                                                                                                                                                   le marché Eurolist de Paris et exerce ses
+Le stage s’effectuera en plusieurs étapes :
+                                                                                                                                                                                                                                   activités sous les noms d’Atos, Atos
+                                                                                                                                               1.   Prise de connaissance générale du domaine Network Management                   Consulting & Technology Services,
+                                                                                                                                               2.   Prise de connaissance des applications offrant des services via des            Worldline et Atos WorldGrid.
+                                                                                  browsers Web.                                                                                                                                    Pour plus d’information : atos.net
+                                                                                                                                               3.   Choix de l’application (ou des applications) dont on souhaite tester
+                                                                                  la   bonne sécurité                                                                                                                              Ce stage est basé à Rennes
+                                                                                                                                               4.   Etude des outils de tests disponibles en OpenSource (ZAP….)
+                                                                                                                                                                                                                                   Si ce stage vous intéresse,
+                                                                                  5.   Mise en place de la stratégie de test avec ces outils
+                                                                                                                                                                                                                                   déposez votre candidature sur notre
+                                                                                                                                               6.   Identification des failles et préconisation pour y remédier.
+                                                                                                                                                                                                                                   site Internet : https://careers.atos.net
+                                                                                                                                               7.   Installation en plate-forme de développement Atos des outils                   en saisissant la référence du stage
+                                                                                  développés avec les scénarios associés.                                                                                                          comme critère de recherche
+8.   Rédaction de la documentation associée (Spécifications, manuels
+utilisateurs, exploitation, …)                                                    Référence du stage : 175664
+En fonction de l’avancement de l’étude et des développements, le contour
+Qui êtes-vous ?
+du  stage  sera  revu  régulièrement  avec  le  responsable  du  stage  et  les
+principaux acteurs du programme.
+                                                                                  De formation Bac+5 en informatique
+                                                                                  (Ecole d’ingénieur ou université) en
+Environnement technologique :
+                                                                                  cours de validation, vous recherchez un
+ZAP, Java, Linux, Apache, …
+                                                                                  stage d’une durée de 5-6 mois (dates
+Compétence requise : Sensibilisation aux problématiques de sécurité des
+                                                                                  variables selon l’école).Une proposition
+sites Web
+                                                                                  d’embauche en fin de stage est
+                                                                                  envisageable, sur le site de votre stage,
+Le stage s’effectuera en liaison étroite et sous la responsabilité du directeur   ou, si vous le désirez, dans toute autre
+technique du projet.                                                              région dans laquelle AtoS recrute.
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour  se former sur les
+aspects  de  sécurité des  applications  et  des  solutions  pouvant  être
+apportées, ceci dans un environnement proche de l’opérationnel.
+
+
+
+
+Applications JAVA/J2EE
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                  collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                  ses clients du monde entier des services
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue      transactionnels de haute technologie,
+Management ont la responsabilité de projets d’évolutions d’applications de        des solutions de conseil, d’intégration de
+facturation et de gestion des offres pour un opérateur Telecom figurant           systèmes et d’infogérance.
+parmi les leaders mondiaux des prestations de services de                         Atos délivre les technologies qui
+télécommunications destinées aux multinationales.                                 accélèrent le développement de ses
+                                                                                  clients et les aide à réaliser leur vision de
+Mission :                                                                         l’entreprise du futur. Atos est le
+Intégré au sein d’une équipe projet et encadré par un ingénieur                   partenaire informatique mondial des
+expérimenté, vous participerez aux différentes phases d’un projet                 Jeux Olympiques. Le Groupe est coté sur
+informatique.                                                                     le marché Eurolist de Paris et exerce ses
+                                                                                  activités sous les noms d’Atos, Atos
+                                                                                  Consulting & Technology Services,
+Le stage s’organisera autour des phases successives d’un tel projet :
+                                                                                  Worldline et Atos WorldGrid.
+- Analyse des besoins du client,
+                                                                                  Pour plus d’information : atos.net
+- Etude d’impact & estimation des charges,
+- Rédaction des spécifications,
+                                                                                  Ce stage est basé à Rennes
+- Développement,
+- Validation.
+                                                                                  Si ce stage vous intéresse,
+                                                                                  déposez votre candidature sur notre
+Environnement technologique :
+                                                                                  site Internet : https://careers.atos.net
+JAVA/J2EE, Log4j, Weblogic, Oracle 11g, Eclipse, UML, SOAP, Linux
+                                                                                  en saisissant la référence du stage
+                                                                                  comme critère de recherche
+Objectifs pédagogiques :
+Ce stage vous permettra d’acquérir l’expérience d’un cycle complet d’un
+                                                                                  Référence du stage : 175665
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+solution définie. Le produit de ce stage devra être conduit conformément
+aux règles projet en vigueur (processus, qualité). Cela offrira au stagiaire la
+Qui êtes-vous ?
+possibilité de s’intégrer dans l’équipe projet, de participer et de découvrir
+le fonctionnement d’un projet. Techniquement, ce stage vous permettra
+d’acquérir des compétences dans un environnement Java/J2EE.                       De formation Bac +4/5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois.
+Anglais écrit impératif. Une première
+expérience en technologies JAVA/J2EE
+serait un plus apprécié.
+
+
+
+
+Automatisation de tests d’applications Web
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                  collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                  ses clients du monde entier des services
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue      transactionnels de haute technologie,
+Management ont la responsabilité de projets d’évolutions d’applications de        des solutions de conseil, d’intégration de
+facturation et de gestion des offres pour un opérateur Telecom figurant           systèmes et d’infogérance.
+parmi les leaders mondiaux des prestations de services de                         Atos délivre les technologies qui
+télécommunications destinées aux multinationales.                                 accélèrent le développement de ses
+                                                                                  clients et les aide à réaliser leur vision de
+Mission :                                                                         l’entreprise du futur. Atos est le
+Intégré au sein d’une équipe projet et encadré par un ingénieur                   partenaire informatique mondial des
+expérimenté, vous élaborerez un outil de tests générique permettant de            Jeux Olympiques. Le Groupe est coté sur
+valider des scénarios d’enchainement d’écrans d’applications web. Les             le marché Eurolist de Paris et exerce ses
+technologies majeures utilisées seront JAVA et Selenium.                          activités sous les noms d’Atos, Atos
+                                                                                  Consulting & Technology Services,
+                                                                                  Worldline et Atos WorldGrid.
+Le stage s’organisera autour des phases successives d’un tel outil :
+                                                                                  Pour plus d’information : atos.net
+- Analyse des besoins,
+- Estimation des charges,
+- Rédaction des spécifications,                                                   Ce stage est basé à Rennes
+- Développement,
+- Validation.                                                                     Si ce stage vous intéresse,
+déposez votre candidature sur notre
+Environnement technologique :                                                     site Internet : https://careers.atos.net
+                                                                                  en saisissant la référence du stage
+JAVA/J2EE, Selenium, Log4j, Oracle 11g, Eclipse, Linux
+                                                                                  comme critère de recherche
+Objectifs pédagogiques :
+Ce stage vous permettra d’acquérir l’expérience d’un cycle complet d’un           Référence du stage : 175667
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+solution définie. Le produit de ce stage devra être conduit conformément
+aux règles projet en vigueur (processus, qualité). Cela offrira au stagiaire la   Qui êtes-vous ?
+possibilité de s’intégrer dans l’équipe projet, de participer et de découvrir
+le fonctionnement d’un projet. Techniquement, ce stage vous permettra             De formation Bac +4/5 en informatique
+d’acquérir des compétences dans un environnement Java/J2EE.
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois.
+Anglais écrit impératif. Une première
+expérience en technologies JAVA/J2EE
+serait un plus apprécié.
+
+
+
+
+Intégration continue
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                  collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                  ses clients du monde entier des services
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue      transactionnels de haute technologie,
+Management ont la responsabilité de projets d’évolutions d’applications de        des solutions de conseil, d’intégration de
+facturation et de gestion des offres pour un opérateur Telecom figurant           systèmes et d’infogérance.
+parmi les leaders mondiaux des prestations de services de                         Atos délivre les technologies qui
+télécommunications destinées aux multinationales.                                 accélèrent le développement de ses
+                                                                                  clients et les aide à réaliser leur vision de
+Mission :                                                                         l’entreprise du futur. Atos est le
+Intégré au sein d’une équipe projet et encadré par un ingénieur                   partenaire informatique mondial des
+expérimenté, vous participerez à l’enrichissement d’un outil d’intégration        Jeux Olympiques. Le Groupe est coté sur
+continue permettant de valider au fil de l’eau les évolutions apportées aux       le marché Eurolist de Paris et exerce ses
+applications Billing & Revenue Management.                                        activités sous les noms d’Atos, Atos
+                                                                                  Consulting & Technology Services,
+                                                                                  Worldline et Atos WorldGrid.
+Le stage s’organisera autour des phases successives d’un tel outil :
+                                                                                  Pour plus d’information : atos.net
+- Analyse des besoins,
+- Estimation des charges,
+- Rédaction des spécifications,                                                   Ce stage est basé à Rennes
+- Développement,
+- Validation.                                                                     Si ce stage vous intéresse,
+déposez votre candidature sur notre
+Environnement technologique :                                                     site Internet : https://careers.atos.net
+                                                                                  en saisissant la référence du stage
+JAVA/J2EE, Jenkins, Sonar, Log4j, Oracle 11g, Eclipse, Linux
+                                                                                  comme critère de recherche
+Objectifs pédagogiques :
+Ce stage vous permettra d’acquérir l’expérience d’un cycle complet d’un           Référence du stage : 175668
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+solution définie. Le produit de ce stage devra être conduit conformément
+aux règles projet en vigueur (processus, qualité). Cela offrira au stagiaire la   Qui êtes-vous ?
+possibilité de s’intégrer dans l’équipe projet, de participer et de découvrir
+le fonctionnement d’un projet. Techniquement, ce stage vous permettra             De formation Bac +4/5 en informatique
+d’acquérir des compétences dans un environnement Java/J2EE.
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois.
+Anglais écrit impératif. Une première
+expérience en technologies JAVA/J2EE
+serait un plus apprécié.
+
+
+
+
+Web-Services
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                  collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                  ses clients du monde entier des services
+Dans le cadre des activités du site de Rennes, les équipes Billing & Revenue      transactionnels de haute technologie,
+Management ont la responsabilité de projets d’évolutions d’applications de        des solutions de conseil, d’intégration de
+facturation et de gestion des offres pour un opérateur Telecom figurant           systèmes et d’infogérance.
+parmi les leaders mondiaux des prestations de services de                         Atos délivre les technologies qui
+télécommunications destinées aux multinationales.                                 accélèrent le développement de ses
+                                                                                  clients et les aide à réaliser leur vision de
+Mission :                                                                         l’entreprise du futur. Atos est le
+Intégré au sein d’une équipe projet et encadré par un ingénieur                   partenaire informatique mondial des
+expérimenté, vous participerez à la refonte d’un web-service pour                 Jeux Olympiques. Le Groupe est coté sur
+améliorer ses performances et sa maintenabilité.                                  le marché Eurolist de Paris et exerce ses
+                                                                                  activités sous les noms d’Atos, Atos
+                                                                                  Consulting & Technology Services,
+Le stage s’organisera autour des phases successives d’un tel projet :
+                                                                                  Worldline et Atos WorldGrid.
+- Analyse des besoins,
+                                                                                  Pour plus d’information : atos.net
+- Etude d’impact & estimation des charges,
+- Rédaction des spécifications,
+                                                                                  Ce stage est basé à Rennes
+- Développement,
+- Validation.
+                                                                                  Si ce stage vous intéresse,
+                                                                                  déposez votre candidature sur notre
+Environnement technologique :
+                                                                                  site Internet : https://careers.atos.net
+JAVA/J2EE, Web-services, Eclipse,   Linux
+                                                                                  en saisissant la référence du stage
+                                                                                  comme critère de recherche
+Objectifs pédagogiques :
+Ce stage vous permettra d’acquérir l’expérience d’un cycle complet d’un
+                                                                                  Référence du stage : 175669
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+solution définie. Le produit de ce stage devra être conduit conformément
+aux règles projet en vigueur (processus, qualité). Cela offrira au stagiaire la
+Qui êtes-vous ?
+possibilité de s’intégrer dans l’équipe projet, de participer et de découvrir
+le fonctionnement d’un projet. Techniquement, ce stage vous permettra
+d’acquérir des compétences dans un environnement Java/J2EE.                       De formation Bac +4/5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois.
+Anglais écrit impératif. Une première
+expérience en technologies JAVA/J2EE
+serait un plus apprécié.
+
+
+
+
+Création d’une application de configuration de rapports statistiques
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                         milliards d’euros et 77.000
+Le stage est proposé dans le domaine « Fullfillment & Assurance » au sein
+                                                                                   collaborateurs dans 47 pays, fournit à
+des équipes projets du secteur  « Network Management  »  (60 personnes             ses clients du monde entier des services
+environ).
+                                                                                   transactionnels de haute technologie,
+                                                                                   des solutions de conseil, d’intégration de
+Mission :
+                                                                                   systèmes et d’infogérance.
+Le   stage   est   réalisé   au   sein   du   pôle   "Network   Management"   du
+                                                                                   Atos délivre les technologies qui
+Département de Rennes. Ce pôle conçoit et développe des applications de            accélèrent le développement de ses
+supervision  (alarmes), diagnostic et reporting statistiques de réseau dans
+                                                                                   clients et les aide à réaliser leur vision de
+un environnement Intranet / Extranet.
+                                                                                   l’entreprise du futur. Atos est le
+                                                                                   partenaire informatique mondial des
+Le but du stage est la mise en place d’une application permettant de
+                                                                                   Jeux Olympiques. Le Groupe est coté sur
+configurer des tableaux de bord statistiques qui seront calculés par               le marché Eurolist de Paris et exerce ses
+l’application chargée du reporting.
+                                                                                   activités sous les noms d’Atos, Atos
+                                                                                   Consulting & Technology Services,
+Le stage s’effectuera en plusieurs étapes :
+                                                                                   Worldline et Atos WorldGrid.
+1.   Prise de connaissance du domaine de la supervision de réseau :
+                                                                                   Pour plus d’information : atos.net
+alarmes, reporting, …
+2.   Prise de connaissance de l’application de création de tableau de
+                                                                                   Ce stage est basé à Rennes
+bord statistique
+3.   Définition des fonctionnalités souhaitées de la nouvelle application
+                                                                                   Si ce stage vous intéresse,
+permettant de configurer les rapports statistiques
+                                                                                   déposez votre candidature sur notre
+4.   Développement et test de l’application
+                                                                                   site Internet : https://careers.atos.net
+5.   Mise en place de l’application sur la plateforme de développement
+                                                                                   en saisissant la référence du stage
+6.   Ecriture de la documentation : manuel d’utilisation, de
+                                                                                   comme critère de recherche
+maintenance, fiches de tests, …
+Compte tenu de l’aspect expérimental/prototype, le contour du stage sera           Référence du stage : 175786
+revu régulièrement selon les études et l’avancement avec le responsable du
+stage et les principaux acteurs du programme.
+Qui êtes-vous ?
+Environnement technologique :
+Technos Web à définir (Flex, HTLM5), JEE 7, Eclipse, SVN, Mantis,   …              De formation Bac+4-5 en informatique
+                                                                                   (Ecole d’ingénieur ou université) en
+                                                                                   cours de validation, vous recherchez un
+Objectifs pédagogiques :
+                                                                                   stage d’une durée de 4-6 mois (dates
+Le stage proposé est une excellente opportunité pour intégrer les étapes
+                                                                                   variables selon l’école). Une
+de   développement   d’un   projet   dans   un   environnement   proche   de
+                                                                                   proposition d’embauche en fin de
+l’opérationnel.
+stage est envisageable, sur le site de
+votre stage, ou, si vous le désirez, dans
+toute autre région dans laquelle AtoS
+recrute.
+
+
+
+
+Mise en place d’une application de recherche de CDRs sous NoSQL
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                                                                                                             milliards d’euros et 77.000
+                                                                                   Le stage est proposé dans le domaine « Fullfillment & Assurance » du site
+                                                                                                                                                                       collaborateurs dans 47 pays, fournit à
+de Rennes.                                                                                                                                                             ses clients du monde entier des services
+                                                                                                                                                                       transactionnels de haute technologie,
+Mission :
+                                                                                                                                                                       des solutions de conseil, d’intégration de
+                                                                                   Le  stage  est  réalisé  au  sein  du  pôle  "Network  Management".  Ce  pôle
+                                                                                                                                                                       systèmes et d’infogérance.
+                                                                                   conçoit et développe des applications de supervision (alarmes), diagnostic
+                                                                                                                                                                       Atos délivre les technologies qui
+                                                                                   et  reporting  statistiques  de  réseau  dans  un  environnement  Intranet      /   accélèrent le développement de ses
+Extranet.
+clients et les aide à réaliser leur vision de
+l’entreprise du futur. Atos est le
+Le but du stage est la réalisation d’une application permettant le stockage        partenaire informatique mondial des
+et la sélection de données sur les appels téléphoniques à l’aide d’outils de
+Jeux Olympiques. Le Groupe est coté sur
+type BD NoSQL (graph et document)                                                  le marché Eurolist de Paris et exerce ses
+                                                                                   activités sous les noms d’Atos, Atos
+Le stage s’effectuera en plusieurs étapes :
+                                                                                   Consulting & Technology Services,
+1.   Prise de connaissance générale du domaine Network Management
+                                                                                   Worldline et Atos WorldGrid.
+2.   Etude des fonctions actuelles permettant l’établissement de                   Pour plus d’information : atos.net
+tableaux de bord statistiques sur les conversations téléphoniques
+3.   Définition de la solution technique pour le stockage et la sélection          Ce stage est basé à Rennes
+des données selon différents critères
+4.   Développement de l’application à base de NoSQL (MongoDB,                      Si ce stage vous intéresse,
+Neo4J)                                                                             déposez votre candidature sur notre
+                                                                                   site Internet : https://careers.atos.net
+5.   Test de l’application
+                                                                                   en saisissant la référence du stage
+6.   Installation en plate-forme de développement Atos
+                                                                                   comme critère de recherche
+7.   Rédaction de la documentation associée (Spécifications, manuels
+utilisateurs, exploitation, …)
+Référence du stage : 175787
+En fonction de l’avancement de l’étude et des développements, le contour
+du  stage  sera  revu  régulièrement  avec  le  responsable  du  stage  et  les    Qui êtes-vous ?
+principaux acteurs du programme.
+                                                                                   De formation Bac+5 en informatique
+Environnement technologique :                                                      (Ecole d’ingénieur ou université) en
+MongoDb, Neo4j, JEE 7, Eclipse, Sonar, Hudson, SVN, Linux, …                       cours de validation, vous recherchez un
+Compétence requise : Java/JEE                                                      stage d’une durée de 5-6 mois (dates
+                                                                                   variables selon l’école). Une
+                                                                                   proposition d’embauche en fin de
+Le stage s’effectuera en liaison étroite et sous la responsabilité du directeur
+                                                                                   stage est envisageable, sur le site de
+technique du projet.
+votre stage, ou, si vous le désirez, dans
+toute autre région dans laquelle AtoS
+Objectifs pédagogiques :                                                           recrute.
+Le  stage  proposé  est  une  excellente  opportunité  pour  se  former  sur  le
+développement  complet  d’une  application  réalisée  à  base  de  nouvelles
+technologies, ceci dans un environnement proche de l’opérationnel.
+
+
+
+
+Mise en place d’une application de configuration d’outils de tests
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                                                                                                             milliards d’euros et 77.000
+                                                                                   Le stage est proposé dans le domaine « Fullfillment & Assurance » du site
+                                                                                                                                                                       collaborateurs dans 47 pays, fournit à
+de Rennes.                                                                                                                                                             ses clients du monde entier des services
+                                                                                                                                                                       transactionnels de haute technologie,
+Mission :
+                                                                                                                                                                       des solutions de conseil, d’intégration de
+                                                                                   Le  stage  est  réalisé  au  sein  du  pôle  "Network  Management".  Ce  pôle
+                                                                                                                                                                       systèmes et d’infogérance.
+                                                                                   conçoit et développe des applications de supervision (alarmes), diagnostic
+                                                                                                                                                                       Atos délivre les technologies qui
+                                                                                   et  reporting  statistiques  de  réseau  dans  un  environnement  Intranet      /   accélèrent le développement de ses
+Extranet.
+clients et les aide à réaliser leur vision de
+l’entreprise du futur. Atos est le
+Le but du stage est l’amélioration d’un environnement automatique de test          partenaire informatique mondial des
+d’un SI de 8 applications en se basant sur des travaux déjà réalisés.
+Jeux Olympiques. Le Groupe est coté sur
+                                                                                   le marché Eurolist de Paris et exerce ses
+Le stage s’effectuera en plusieurs étapes :
+                                                                                   activités sous les noms d’Atos, Atos
+1.   Prise de connaissance générale du domaine Network Management
+                                                                                   Consulting & Technology Services,
+2.   Prise de connaissance des outils de tests des applications de
+                                                                                   Worldline et Atos WorldGrid.
+créations de rapports statistiques, réalisés lors d’un stage
+                                                                                   Pour plus d’information : atos.net
+précédent
+3.   Définition des axes d’amélioration et développement à réaliser.
+                                                                                   Ce stage est basé à Rennes
+4.   Mise en place, réalisation et tests
+5.   Ecriture de la documentation (spécifications, manuels, ..)                    Si ce stage vous intéresse,
+6.   Installation et mise en place opérationnelle sur plate-forme Atos.            déposez votre candidature sur notre
+                                                                                   site Internet : https://careers.atos.net
+                                                                                   en saisissant la référence du stage
+En fonction de l’avancement de l’étude et des développements, le contour
+                                                                                   comme critère de recherche
+du  stage  sera  revu  régulièrement  avec  le  responsable  du  stage  et  les
+principaux acteurs du programme.
+Référence du stage : 175788
+Environnement technologique :
+JEE 7, Eclipse, Sonar, Hudson, SVN, Linux, …
+Qui êtes-vous ?
+Compétence requise : Java
+De formation Bac+5 en informatique
+Le stage s’effectuera en liaison étroite et sous la responsabilité du directeur
+                                                                                   (Ecole d’ingénieur ou université) en
+technique du projet.
+                                                                                   cours de validation, vous recherchez un
+                                                                                   stage d’une durée de 5-6 mois (dates
+Objectifs pédagogiques :                                                           variables selon l’école). Une
+Le  stage  proposé  est  une  excellente  opportunité  pour  se  former  sur  le   proposition d’embauche en fin de
+développement  complet  d’une  application  réalisée  à  base  de  nouvelles       stage est envisageable, sur le site de
+technologies, ceci dans un environnement proche de l’opérationnel.                 votre stage, ou, si vous le désirez, dans
+toute autre région dans laquelle AtoS
+recrute.
+
+
+
+
+Dév JAVA J2EE dans un contexte Telecom international
+Atos,  acteur  international  des  services
+Votre mission
+informatiques  avec  un  chiffre  d’affaires
+                                                                                                                                                                                                                                                                                                         annuel   de                                     8,8   milliards   d’euros   et
+Contexte :                                                                                                                                                                                                                                                                                               77.000  collaborateurs  dans                                                                     47  pays,
+                                                                                                                                                                                                                     Dans  le  cadre  des  activités  du  site  de  Rennes,  les  équipes  Network       fournit à ses clients du monde entier des
+                                                                                                                                                                                                                     Management  ont  la  responsabilité  de  projets  d’évolutions  d’applications      services    transactionnels    de    haute
+                                                                                                                                                                                                                     d’activation de services VPN sur un réseau Ethernet MPLS  (services xDSL).          technologie,  des  solutions  de  conseil,
+                                                                                                                                                                                                                     Ces applications sont à destination d’un opérateur Telecom international.           d’intégration                                                                    de   systèmes               et
+                                                                                                                                                                                                                                                                                                         d’infogérance.
+Mission :                                                                                                                                                                                                                                                                                                Atos    délivre    les    technologies    qui
+                                                                                                                                                                                                                     Intégré  au  sein  d’une  équipe  projet  et  encadré  par  un  ingénieur           accélèrent   le   développement   de   ses
+                                                                                                                                                                                                                     expérimenté,   vous   participerez   aux   différentes   phases   d’un   projet     clients et les aide à réaliser leur vision de
+informatique.                                                                                                                                                                                                                                                                                            l’entreprise   du   futur.   Atos   est   le
+                                                                                                                                                   Le stage s’organisera autour des phases successives suivantes :                                                                                       partenaire   informatique   mondial   des
+                                                                              - Analyse des besoins du client,                                                                                                                                                                                           Jeux Olympiques. Le Groupe est coté sur
+                                                                              - Rédaction des spécifications,                                                                                                                                                                                            le marché Eurolist de Paris et exerce ses
+                                                                              - Développement,                                                                                                                                                                                                           activités  sous  les  noms  d’Atos,  Atos
+                                                                                                                                                   - Intégration et tests des développements effectués.                                                                                                  Consulting,   Atos   Worldline   et   Atos
+                                                                                                                                                                                                                     Le produit de ce stage devra être conduit conformément aux règles projet            WorldGrid.
+en vigueur (processus, qualité).                                                                                                                                                                                                                                                                         Pour plus d’information : www.atos.net
+Environnement :
+                                                                                                                                                                                                                                                                                                         Ce stage est basé à Rennes
+                                                                                                                                                                                                                     Client  léger,  JAVA/J2EE,  JSP,  JUnit,  JavaScript,  Struts,  Hibernate,  AJAX,
+                                                                              HTML, Webservices SOAP, Tomcat, Linux, Eclipse, MySQL.
+                                                                                                                                                                                                                                                                                                         Si ce stage vous intéresse,
+                                                                                                                                                                                                                                                                                                         déposez votre candidature sur notre
+Objectifs pédagogiques :
+                                                                                                                                                                                                                                                                                                         site Internet : https://careers.atos.net
+                                                                                                                                                                                                                     Ce  stage  vous  offrira, dans  un  contexte  international,  l’expérience  d’un
+                                                                                                                                                                                                                                                                                                         en saisissant la référence du stage
+                                                                                                                                                                                                                     cycle complet d’un projet informatique, de l’analyse des besoins jusqu’au
+                                                                                                                                                                                                                                                                                                         comme critère de recherche
+déploiement  de  la  solution  définie.  Techniquement,  ce  stage  vous
+permettra  d’acquérir  des  compétences  variées  dans  des  environnements
+Référence du stage : 176254
+d’architecture  n-tiers  Java/J2EE  intégrant  notamment  les  technologies
+Struts et Hibernate.
+A l'issue de ce stage, vous aurez appréhendé :                                                                                                                                                                       Qui êtes-vous ?
+                                                                              -  La  participation  aux  différentes  phases  du  projet           (étude,
+réalisation, tests, documentation…),
+                                                                                                                                                                                                                     De formation Bac+4/5 en informatique
+                                                                              - La problématique d’industrialisation des phases projet,
+                                                                                                                                                                                                                     (Ecole  d’ingénieur  ou  université)  en
+                                                                              - La concrétisation sur le terrain de vos connaissances techniques
+                                                                                                                                                                                                                     cours de validation, vous recherchez un
+acquises durant votre formation initiale,
+                                                                                                                                                                                                                     stage  d’une  durée  de  4  à                                                                                                       6  mois  à
+-                                                                             L’acquisition   de   nouvelles   compétences   techniques   et
+                                                                                                                                                                                                                     partir  de  janvier                                                                 2014.  Vous  justifiez
+                                                                              fonctionnelles dans le domaine des télécommunications.
+                                                                                                                                                                                                                     d'une  première  expérience                                                                                                         (stage  ou
+                                                                                                                                                                                                                     projet    scolaire)                                                                 en    technologies
+                                                                                                                                                                                                                     JAVA/J2EE.                                                                          Anglais                                         professionnel
+requis.
+
+
+
+
+Industrialisation des activités d'un projet Telecom
+Atos,  acteur  international  des  services
+Votre mission
+informatiques  avec  un  chiffre  d’affaires
+                                                                                                                                                                                                                                         annuel   de                                     8,8   milliards   d’euros   et
+Contexte :                                                                                                                                                                                                                               77.000  collaborateurs  dans                                                                     47   pays,
+                                                                                                                                                   Dans  le  cadre  des  activités  du  site  de  Rennes,  les  équipes  Network
+                                                                                                                                                                                                                                         fournit à ses clients du monde entier des
+                                                                                                                                                   Management ont la responsabilité de projets d’évolutions d’applications de
+                                                                                                                                                                                                                                         services    transactionnels    de    haute
+                                                                                                                                                   provisioning  de  services  à  valeur  ajoutée  pour  un  opérateur  Telecom
+                                                                                                                                                                                                                                         technologie,  des  solutions  de  conseil,
+international.
+                                                                                                                                                                                                                                         d’intégration                                                                    de   systèmes                et
+                                                                                                                                                                                                                                         d’infogérance.
+Mission :
+                                                                                                                                                                                                                                         Atos    délivre    les    technologies    qui
+                                                                                                                                                   Intégré   au   sein   d’une   équipe   projet   et   encadré   par   un   ingénieur
+                                                                                                                                                                                                                                         accélèrent   le   développement   de   ses
+                                                                                                                                                   expérimenté, vous serez en charge de  l'analyse  des certaines procédures
+                                                                                                                                                                                                                                         clients et les aide à réaliser leur vision de
+                                                                                                                                                   actuellement  appliquées  dans  le  projet  pour  proposer  puis  réaliser  des
+                                                                                                                                                                                                                                         l’entreprise   du   futur.   Atos   est   le
+améliorations de celles-ci.                                                                                                                                                                                                              partenaire   informatique   mondial   des
+                                                                              Le stage vous permettra de couvrir les phases projets suivantes :
+                                                                                                                                                                                                                                         Jeux Olympiques. Le Groupe est coté sur
+                                                                                                                                                   - Installation de l'application. Compétences requises : shell, ksh, ant,
+                                                                                                                                                                                                                                         le marché Eurolist de Paris et exerce ses
+                                                                              connaissances SQL, java
+                                                                                                                                                                                                                                         activités  sous  les  noms  d’Atos,  Atos
+                                                                                                                                                   -  Préparation  et  pilotage  de  la  phase  de  recette.  Synchronisation
+                                                                                                                                                                                                                                         Consulting,   Atos   Worldline   et   Atos
+                                                                                                                                                   avec les outils utilisés par le client. Compétences requises : SQL. La
+                                                                                                                                                                                                                                         WorldGrid.
+                                                                              connaissance du logiciel HPQC serait un plus.
+                                                                                                                                                                                                                                         Pour plus d’information : www.atos.net
+-   Supervision.   Faciliter   la   supervision   des   plates-formes   en
+implémentant  un  outil  Web  permettant  de  connaître  l’état  des
+Ce stage est basé à Rennes
+plateformes, des IS, de la BD et des différentes IHM, pour effectuer
+les arrêts des IS, BD, IHM via l’outil. Compétences requies : langage
+Si ce stage vous intéresse,
+java, html, sql, shell
+déposez votre candidature sur notre
+Le produit de ce stage devra être conduit conformément aux règles projet
+site Internet : https://careers.atos.net
+en vigueur (processus, qualité).
+en saisissant la référence du stage
+La documentation sera intégrée au wiki du projet.
+comme critère de recherche
+Environnement :
+Référence du stage : 176257
+JAVA/J2EE, SQL, Shell, ksh, ant, HPQC.
+Objectifs pédagogiques :
+Qui êtes-vous ?
+Ce stage vous offrira l’expérience de plusieurs étapes d’un cycle complet
+d’un projet informatique, en mettant en place des éléments dans le cadre de
+De formation Bac+4/5 en informatique
+l'amélioration continue.
+                                                                                                                                                   (Ecole  d’ingénieur  ou  université)  en
+                                                                                                                                                   cours de validation, vous recherchez un
+A l'issue de ce stage, vous aurez appréhendé :
+                                                                                                                                                   stage  d’une  durée  de  4  à                                                                                                         6  mois  à
+                                                                              - La concrétisation sur le terrain de vos connaissances techniques
+                                                                                                                                                   partir  de  janvier                                                                   2014.  Vous  justifiez
+acquises durant votre formation initiale,
+                                                                                                                                                   d'une  première  expérience                                                                                                           (stage  ou
+- L’acquisition de nouvelles compétences techniques
+                                                                                                                                                   projet    scolaire)                                                                   en    technologies
+                                                                              - Mesuré l'impact de vos réalisations en termes de temps gagné par
+                                                                                                                                                   JAVA/J2EE.                                                                            Anglais                                         professionnel
+l'équipe pour réaliser des tâches chronophages
+                                                                                                                                                   requis.
+
+
+
+
+Etude d’automatisation de tests
+Votre mission                                                                      Atos, acteur international des services
+                                                                                   informatiques avec un chiffre d’affaires
+                                                                                   annuel de 8,7 milliards d’euros et
+Contexte :
+                                                                                   78.500 collaborateurs dans 42 pays,
+                                                                                   fournit à ses clients du monde entier des
+Le stage s’inscrit dans le pôle Media de l’agence Telecom & Media Région
+                                                                                   services transactionnels de haute
+Ouest d’Atos Technology Services.
+                                                                                   technologie, des solutions de conseil,
+                                                                                   d’intégration de systèmes et
+Mission :
+                                                                                   d’infogérance.
+                                                                                   Atos délivre les technologies qui
+Le stage portera sur l’étude de l’automatisation des tests d’un enabler TV.
+                                                                                   accélèrent le développement de ses
+                                                                                   clients et les aide à réaliser leur vision de
+Pour  cela,  vous  participerez  aux  différentes  phases  de  qualification  du
+                                                                                   l’entreprise du futur. Atos est le
+composant.  Vous  découvrirez  l’environnement  associé  pour  comprendre
+                                                                                   partenaire informatique mondial des
+les besoins et les contraintes.
+                                                                                   Jeux Olympiques. Le Groupe est coté sur
+                                                                                   le marché Eurolist de Paris et exerce ses
+Vous  étudierez  ensuite  le  plan  de  tests  pour  évaluer  les  possibilités
+                                                                                   activités sous les noms d’Atos, Atos
+d’automatisation de tout ou partie des tests et vous veillerez à comparer
+                                                                                   Consulting, Atos Worldline et Atos
+les solutions déjà existantes.
+                                                                                   WorldGrid.
+                                                                                   Ce stage est basé à Rennes
+Environnement technologique :
+                                                                                   Si ce stage vous intéresse,
+Linux, windows, normes d’encodage des formats vidéos
+                                                                                   déposez votre candidature sur notre
+Outils HPQC, wireshark
+                                                                                   site Internet : https://careers.atos.net
+                                                                                   en saisissant la référence du stage
+Objectifs pédagogiques :
+                                                                                   comme critère de recherche
+Le  stage  proposé  est  une  excellente  opportunité  pour  appréhender  les
+                                                                                   Référence du stage : 176052
+méthodes et outils de tests d’un projet de qualification dans un contexte
+industriel. Il permet également d’approcher les nouvelles technologies du
+domaine de la tv numérique.
+Qui êtes-vous ?
+De formation Bac+4/5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4-6 mois (dates
+variables selon l’école). Une
+proposition d’embauche en fin de
+stage est envisageable, sur le site de
+votre stage (Rennes), ou, si vous le
+désirez, dans toute autre région dans
+laquelle Atos recrute.
+
+
+
+
+Validation d’applications mobiles
+Votre mission                                                                                                                                                        Atos, acteur international des services
+                                                                                                                                                                     informatiques avec un chiffre d’affaires
+                                                                                                                                                                     annuel de 8,7 milliards d’euros et
+Contexte :
+                                                                                                                                                                     78.500 collaborateurs dans 42 pays,
+                                                                                                                                                                     fournit à ses clients du monde entier des
+                                                                                  Le stage s’inscrit dans un projet de validation d’applications mobiles dans
+                                                                                                                                                                     services transactionnels de haute
+le domaine de la TV numérique
+                                                                                                                                                                     technologie, des solutions de conseil,
+                                                                                                                                                                     d’intégration de systèmes et
+Mission :
+                                                                                                                                                                     d’infogérance.
+                                                                                                                                                                     Atos délivre les technologies qui
+                                                                                  Le stage portera sur l’étude de l’automatisation des tests sur différentes
+                                                                                                                                                                     accélèrent le développement de ses
+applications mobiles.
+                                                                                                                                                                     clients et les aide à réaliser leur vision de
+                                                                                                                                                                     l’entreprise du futur. Atos est le
+                                                                                  Pour  cela, vous  participerez  aux  différentes  phases  de  qualification  des
+                                                                                                                                                                     partenaire informatique mondial des
+                                                                                  applications  mobiles  sur différents types  de terminaux  (smartphones  ou
+                                                                                                                                                                     Jeux Olympiques. Le Groupe est coté sur
+tablettes)  et  d’OS  variés                                                      (iOS,  Android,  Tizen,  BlackBerry,  Windows
+                                                                                                                                                                     le marché Eurolist de Paris et exerce ses
+                                                                                  Phone…). Vous découvrirez l’environnement associé pour comprendre les
+                                                                                                                                                                     activités sous les noms d’Atos, Atos
+besoins et les contraintes.
+Consulting, Atos Worldline et Atos
+WorldGrid.
+Vous  étudierez  ensuite  le  plan  de  tests  pour  évaluer  les  possibilités
+d’automatisation de tout ou partie des tests et vous veillerez à comparer
+Ce stage est basé à Rennes
+les solutions déjà existantes.
+                                                                                  Si ce stage vous intéresse,
+                                                                                  déposez votre candidature sur notre
+Environnement technologique :
+                                                                                  site Internet : https://careers.atos.net
+                                                                                  en saisissant la référence du stage
+Devices Mobile iOS, Windows Phone, Android, BlackBerry, Tizen…
+                                                                                  comme critère de recherche
+Outils HPQC, JMeter, WireShark…
+                                                                                  Référence du stage : 176068
+Objectifs pédagogiques :
+Le  stage  proposé  est  une  excellente  opportunité  pour  appréhender  les     Qui êtes-vous ?
+méthodes et outils de tests d’un projet de qualification dans un contexte
+industriel. Il permet également d’approcher les nouvelles technologies et
+                                                                                  De formation Bac+4/5 en informatique
+les solutions mobiles de dernière génération.
+                                                                                  (Ecole d’ingénieur ou université) en
+                                                                                  cours de validation, vous recherchez un
+                                                                                  stage d’une durée de 4-6 mois (dates
+                                                                                  variables selon l’école). Une
+proposition d’embauche en fin de
+stage est envisageable, sur le site de
+votre stage (Rennes), ou, si vous le
+désirez, dans toute autre région dans
+laquelle AtoS recrute.
+
+
+
+
+Industrialisation projet Portail Web
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                  collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                  ses clients du monde entier des services
+Le stage est proposé dans le domaine « Customer Relationship
+                                                                                  transactionnels de haute technologie,
+Management » du Département de Rennes, sur un projet de portail web
+                                                                                  des solutions de conseil, d’intégration de
+international des clients d’un grand opérateur de télécommunications. Il
+                                                                                  systèmes et d’infogérance.
+permet de leur fournir les informations sur leur inventaire réseaux, leurs
+                                                                                  Atos délivre les technologies qui
+statistiques, la topologie...
+                                                                                  accélèrent le développement de ses
+                                                                                  clients et les aide à réaliser leur vision de
+Mission :
+                                                                                  l’entreprise du futur. Atos est le
+Intégré au sein de l’équipe projet et encadré par un ingénieur expérimenté,
+                                                                                  partenaire informatique mondial des
+vous participerez à l’industrialisation d’un projet informatique, pouvant
+                                                                                  Jeux Olympiques. Le Groupe est coté sur
+nécessiter une refonte de l’architecture.
+                                                                                  le marché Eurolist de Paris et exerce ses
+                                                                                  activités sous les noms d’Atos, Atos
+Le stage se déroulera en 3 temps :
+                                                                                  Consulting & Technology Services,
+- Analyse de l’existant et émission de propositions,
+                                                                                  Worldline et Atos WorldGrid.
+- Mise en place de tests automatiques,
+                                                                                  Pour plus d’information : atos.net
+- Si nécessité, une refonte de l’architecture pourra être mise en oeuvre :
+cette partie s’organisera autour des phases successives d’un tel projet
+Ce stage est basé à Rennes
+● Etude d’impacts, estimation des charges,
+● Rédaction des spécifications,
+Si ce stage vous intéresse,
+● Développement,
+déposez votre candidature sur notre
+● Validation
+site Internet : https://careers.atos.net
+en saisissant la référence du stage
+Environnement technologique :
+comme critère de recherche
+JAVA, SOAP, Sybase, JUnit, JMeter, SVN, Maven, Hudson, Sonar, Eclipse
+Référence du stage : 176197
+Objectifs pédagogiques :
+Ce stage vous permettra d’acquérir l’expérience autour de
+l’industrialisation d’un projet, mais également sur le cycle complet d’un
+Qui êtes-vous ?
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+solution définie. Le produit de ce stage devra être conduit conformément
+aux règles projet en vigueur (processus, qualité). Cela offrira au stagiaire la   De formation Bac +4/5 en informatique
+possibilité de s’intégrer dans l’équipe projet, de participer et de découvrir     (Ecole d’ingénieur ou université) en
+le fonctionnement d’un projet. Techniquement, ce stage vous permettra             cours de validation, vous recherchez un
+d’acquérir des compétences dans un environnement Java.                            stage d’une durée de 4 à 6 mois.
+Anglais écrit impératif. Une première
+expérience en technologies JAVA/J2EE
+serait un plus apprécié.
+
+
+
+
+Développement Portail Web
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+collaborateurs dans 47 pays, fournit à
+Contexte :
+ses clients du monde entier des services
+Le stage est proposé dans le domaine « Customer Relationship
+transactionnels de haute technologie,
+Management » du Département de Rennes, sur un projet de portail web
+des solutions de conseil, d’intégration de
+international des clients d’un grand opérateur de télécommunications. Il
+systèmes et d’infogérance.
+permet de leur fournir les informations sur leur inventaire réseaux, leurs
+Atos délivre les technologies qui
+statistiques, la topologie...
+accélèrent le développement de ses
+clients et les aide à réaliser leur vision de
+Mission :
+l’entreprise du futur. Atos est le
+Intégré au sein de l’équipe projet et encadré par un ingénieur expérimenté,
+partenaire informatique mondial des
+vous participerez aux différentes phases d’un projet informatique.
+Jeux Olympiques. Le Groupe est coté sur
+Le stage s’organisera autour des phases successives d’un tel projet :
+le marché Eurolist de Paris et exerce ses
+- Analyse des besoins du client,
+activités sous les noms d’Atos, Atos
+- Etude d’impact, estimation des charges,
+Consulting & Technology Services,
+- Rédaction des spécifications,
+Worldline et Atos WorldGrid.
+- Développement,
+Pour plus d’information : atos.net
+- Validation des prestations réalisées par d’autres développeurs
+Compte tenu de l’aspect particulier de ce projet, le contour du stage sera
+Ce stage est basé à Rennes
+revu régulièrement selon les études et l’avancement avec le responsable du
+stage et les principaux acteurs du programme.
+Si ce stage vous intéresse,
+déposez votre candidature sur notre
+Environnement technologique :
+site Internet : https://careers.atos.net
+JAVA/J2EE, FLEX, XML, SOAP, Log4j, Weblogic 9.2, Oracle, Sybase, Eclipse
+en saisissant la référence du stage
+comme critère de recherche
+Objectifs pédagogiques :
+Ce stage vous permettra d’acquérir l’expérience d’un cycle complet d’un
+Référence du stage : 175207
+projet informatique, de l’analyse des besoins jusqu’au déploiement de la
+solution définie. Le produit de ce stage devra être conduit conformément
+aux règles projet en vigueur (processus, qualité). Cela offrira au stagiaire la
+Qui êtes-vous ?
+possibilité de s’intégrer dans l’équipe projet, de participer et de découvrir
+le fonctionnement d’un projet. Techniquement, ce stage vous permettra
+d’acquérir des compétences dans un environnement Java/J2EE.                       De formation Bac +4/5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4 à 6 mois.
+Anglais écrit impératif. Une première
+expérience en technologies JAVA/J2EE
+serait un plus apprécié.
+
+
+
+
+Stage développeur web/ mobile NTIC H/F
+Atos SE (Societas Europaea), acteur
+Votre mission                                                           international des services informatiques
+                                                                        avec un chiffre d’affaires annuel de 8,8
+Contexte :
+                                                                        milliards d’euros et 77.000
+Notre entité Atos Technology Services (ATS) a pour mission principale
+                                                                        collaborateurs dans 47 pays, fournit à
+de développer des services informatiques de proximité auprès de ses
+                                                                        ses clients du monde entier des services
+clients, en les accompagnants dans la mise en œuvre et l’évolution de
+                                                                        transactionnels de haute technologie,
+leurs systèmes d’information. Plus de 2 000 experts de proximité
+                                                                        des solutions de conseil, d’intégration de
+accompagnent nos clients tout au long de leurs projets afin de les
+                                                                        systèmes et d’infogérance.
+aider à s’adapter aux contraintes liées aux évolutions de leurs
+                                                                        Atos délivre les technologies qui
+secteurs.
+                                                                        accélèrent le développement de ses
+Mission :
+                                                                        clients et les aide à réaliser leur vision de
+Intégré au sein d'une équipe projet et encadré par un ingénieur
+                                                                        l’entreprise du futur. Atos est le
+expérimenté, votre mission comporte 3 axes de développement
+                                                                        partenaire informatique mondial des
+professionnels :
+                                                                        Jeux Olympiques. Le Groupe est coté sur
+•    Un axe technique : Participer à toutes les activités d’études et
+                                                                        le marché Eurolist de Paris et exerce ses
+développement d’une application web J2EE sur framework Struts
+                                                                        activités sous les noms d’Atos, Atos
+et IHM HTML5, CSS3, jQuery. Vous réalisez les tests unitaires,
+                                                                        Consulting & Technology Services,
+tests d’intégration, fonctionnels et de performance sous avec le
+                                                                        Worldline et Atos WorldGrid.
+serveur d’intégration continue Jenkins.
+                                                                        Pour plus d’information : atos.net
+    Un axe méthodologique : Montée en compétence en
+méthodologie Cycle en V et participation à toutes les phases du         Ce stage est basé à Rennes
+projet : analyse des besoins et des spécifications, conception
+logicielle UML, développement et TU, intégration, tests                 Si ce stage vous intéresse,
+automatisés, packaging…                                                 déposez votre candidature sur notre
+    Un axe humain et managérial : Travail en équipe et assistance      site Internet : https://careers.atos.net
+au chef de projet sur les activités de planification, reporting,        en saisissant la référence du stage
+avant-vente et stratégie commerciale sur le produit réalisé…            comme critère de recherche
+Le produit de ce stage devra être conduit conformément aux règles
+                                                                        Référence du stage : 175238
+projets en vigueur (processus, qualité, normes de développement,
+best-practises).
+Vous aimez le travail en équipe, vous êtes attirés par des projets
+Qui êtes-vous ?
+innovants et vous souhaitez mettre un œuvre une solution à forte
+ajoutée pour un client. Vous êtes rigoureux, curieux, passionné,
+force de proposition. Vous avez le sens du service.                     De formation Bac+5 (en cours de
+Vous connaissez le langage Java / J2EE, la bibliothèque Jquery, les     validation) en École d’Ingénieur ou en
+standards CSS3et HTML5. Vous êtes à l’aise sous Linux, vous
+université, vous recherchez un stage
+comprenez les concepts de la programmation orientée objet, et
+d’une durée de 6 mois minimum
+quelques Design Patterns.
+(dates variables selon la formation).
+La maîtrise d’une des technologies suivantes est fortement appréciée
+mais non requis : un framework MVC (Spring MVC, Struts…),
+Subversion, Jenkins, JMeter, Apache, HTTP.
+La maitrise de l'anglais est un plus.
+
+
+
+
+Conception / développement Ordonnancement et outillage (H/F)
+Atos SE (Societas Europaea), acteur
+Votre mission                                                                  international des services informatiques
+                                                                               avec un chiffre d’affaires annuel de 8,8
+Contexte :
+                                                                               milliards d’euros et 77.000
+Notre entité Atos Technology Services (ATS) a pour mission principale de
+                                                                               collaborateurs dans 47 pays, fournit à
+développer des services informatiques de proximité auprès de ses clients,
+                                                                               ses clients du monde entier des services
+en les accompagnant dans la mise en œuvre et l’évolution de leurs
+                                                                               transactionnels de haute technologie,
+systèmes d’information. Plus de 2 000 experts de proximité accompagnent
+                                                                               des solutions de conseil, d’intégration de
+nos clients tout au long de leurs projets afin de les aider à s’adapter aux
+                                                                               systèmes et d’infogérance.
+contraintes liées aux évolutions de leurs secteurs.
+                                                                               Atos délivre les technologies qui
+Mission :
+                                                                               accélèrent le développement de ses
+                                                                               clients et les aide à réaliser leur vision de
+Vous serez intégré au sein d’une équipe expérimentée, constituée               l’entreprise du futur. Atos est le
+d’analystes d’exploitation, de concepteurs/développeurs VTOM et de chefs       partenaire informatique mondial des
+de projets, dont l’objectif est d’assurer la réalisation et le maintien en     Jeux Olympiques. Le Groupe est coté sur
+condition opérationnelle des ordonnancements des applications du SI La         le marché Eurolist de Paris et exerce ses
+Poste Courrier sous VTOM.                                                      activités sous les noms d’Atos, Atos
+                                                                               Consulting & Technology Services,
+Le contexte de croissance de l’activité du CCO (Centre de Compétences en       Worldline et Atos WorldGrid.
+Ordonnancement) impose une industrialisation de la méthodologie de             Pour plus d’information : atos.net
+développement, de tests par la mise en œuvre d’outils spécialisés. En tant
+                                                                               Ce stage est basé à Rennes
+que stagiaire, vous serez amené à développer vos compétences techniques
+et fonctionnelles, afin de répondre à la mise en place d’un outil de gestion
+                                                                               Si ce stage vous intéresse,
+et d’analyse des exports (génération automatique de la documentation à
+                                                                               déposez votre candidature sur notre
+destination du client, développement d’IHM, connexion tableau de bord à
+                                                                               site Internet : https://careers.atos.net
+QlikView ...).
+en saisissant la référence du stage
+comme critère de recherche
+Accompagné par un maître de stage, vous développerez dans un premier
+temps des compétences en conception/développement sur l’ordonnanceur
+Référence du stage : 176678
+VTOM (conception technique, développement, tests unitaires et rédaction
+documentaire). Dans un second temps, vous participerez activement à
+l’ensemble des phases de la mise en œuvre du projet d’outillage.
+Qui êtes-vous ?
+De formation Bac+4/5 en informatique
+Ntic : VTOM 5.5,   Python 2.7, Perl 5.16,   PHP, MySQL, VirtualBox, Linux,
+(Ecole d’ingénieur ou Université) en
+Unix
+cours de validation, vous recherchez un
+stage d’une durée de 4-6 mois (dates
+Une proposition d’embauche en fin de stage est envisageable, sur le site de
+variables selon l’école).
+votre stage (Rennes), ou, si vous le désirez, dans toute autre région dans
+laquelle Atos recrute
+
+
+
+
+Stage Intégrateur poste de travail (H/F)
+Atos SE (Societas Europaea), acteur
+Votre mission                                                                 international des services informatiques
+                                                                              avec un chiffre d’affaires annuel de 8,8
+Contexte :
+                                                                              milliards d’euros et 77.000
+                                                                              collaborateurs dans 47 pays, fournit à
+Notre entité Atos Technology Services (ATS) a pour mission principale de
+                                                                              ses clients du monde entier des services
+développer des services informatiques de proximité auprès de ses clients,
+                                                                              transactionnels de haute technologie,
+en les accompagnants dans la mise en œuvre et l’évolution de leurs
+                                                                              des solutions de conseil, d’intégration de
+systèmes d’information. Plus de 2 000 experts de proximité accompagnent
+                                                                              systèmes et d’infogérance.
+nos clients tout au long de leurs projets afin de les aider à s’adapter aux
+                                                                              Atos délivre les technologies qui
+contraintes liées aux évolutions de leurs secteurs.
+                                                                              accélèrent le développement de ses
+                                                                              clients et les aide à réaliser leur vision de
+                                                                              l’entreprise du futur. Atos est le
+Mission :
+                                                                              partenaire informatique mondial des
+                                                                              Jeux Olympiques. Le Groupe est coté sur
+Vous serez intégré (e) au sein d’une équipe expérimentée et constituée        le marché Eurolist de Paris et exerce ses
+d'intégrateurs poste de travail.                                              activités sous les noms d’Atos, Atos
+                                                                              Consulting & Technology Services,
+Accompagné (e) par un maître de stage, vous développerez des                  Worldline et Atos WorldGrid.
+compétences sur :                                                             Pour plus d’information : atos.net
+- la virtualisation à travers "Novell ZENworks Application Virtualization"
+                                                                              Ce stage est basé à Nantes
+- l'installation et le packaging applicatif en utilisant les outils de MSI,
+AdminStudio, Installshield
+Si ce stage vous intéresse,
+déposez votre candidature sur notre
+- la configuration des postes sur Windows XP et Windows 7
+                                                                              site Internet : https://careers.atos.net
+                                                                              en saisissant la référence du stage
+Vous êtes doté (e) d'un bon relationnel, passionné (e) d’informatique,
+                                                                              comme critère de recherche
+curieux (se), motivé (e) et vous avez le sens du travail en équipe.
+                                                                              Référence du stage : 176741
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi
+nos métiers sont tous accessibles aux personnes en situation de handicap,
+et ce quelle que soit la nature de leur handicap                              Qui êtes-vous ?
+De formation Bac+2/5 en informatique
+(Ecole d’ingénieur ou Université) en
+cours de validation, vous recherchez un
+stage d’une durée de 4-6 mois (dates
+variables selon l’école)
+
+
+
+
+Stage de développement web Java / CMS (h/f)
+Atos SE (Societas Europaea), acteur
+Votre mission                                                                         international des services informatiques
+                                                                                      avec un chiffre d’affaires annuel de 8,8
+Contexte :                                                                            milliards d’euros et 77.000
+Notre entité Atos Technology Services (ATS) a pour mission principale de              collaborateurs dans 47 pays, fournit à
+développer des services informatiques de proximité auprès de ses clients,             ses clients du monde entier des services
+en les accompagnant dans la mise en œuvre et l’évolution de leurs                     transactionnels de haute technologie,
+systèmes d’information. Plus de 2 000 experts de proximité accompagnent               des solutions de conseil, d’intégration de
+nos clients tout au long de leurs projets afin de les aider à s’adapter aux           systèmes et d’infogérance.
+contraintes liées aux évolutions de leurs secteurs.                                   Atos délivre les technologies qui
+                                                                                      accélèrent le développement de ses
+Mission :                                                                             clients et les aide à réaliser leur vision de
+Intégré  (e)  au  sein  d'une  équipe  projet  et  encadré  (e)  par  un  ingénieur   l’entreprise du futur. Atos est le
+expérimenté,  dans  un  contexte  de  méthodologie  agile,  votre  mission            partenaire informatique mondial des
+comporte 3 axes de développement professionnels :                                     Jeux Olympiques. Le Groupe est coté sur
+-   Un  axe   technique :  Participer  à  toutes   les   activités   d’études   et    le marché Eurolist de Paris et exerce ses
+développement  d’une  application  web  en  mode  agile,  Scrum.  Vous                activités sous les noms d’Atos, Atos
+réaliserez les intégrations web de charte graphique HTML5, CSS3, JS, ainsi            Consulting & Technology Services,
+que les développements J2EE associés, en respectant l’état de l’art du CMS            Worldline et Atos WorldGrid.
+Jahia  et  du  framework  Spring.  Vous  réalisez  les  tests  unitaires,  tests      Pour plus d’information : atos.net
+d’intégration,   fonctionnels   et   de   performance   avec   le   serveur
+                                                                                      Ce stage est basé à Niort
+d’intégration continue Jenkins.
+- Un axe méthodologique : Montée en compétence en méthodologie Agile
+                                                                                      Si ce stage vous intéresse,
+Scrum et participation à toutes les phases du projet (analyse des besoins,
+                                                                                      déposez votre candidature sur notre
+daily meeting, priorisation des tâches, spécifications, conception logicielle
+                                                                                      site Internet : https://careers.atos.net
+UML,   développement   et   TU,   tests   d’intégration,   tests   automatisés,
+                                                                                      en saisissant la référence du stage
+packaging, recette interne …)
+                                                                                      comme critère de recherche
+- Un axe humain et managérial : Travail en équipe et assistance au chef
+de projet sur les activités de développement web autour du CMS assurant
+la qualité du produit réalisé…                                                        Référence du stage : 175921
+Vous  aimez  le  travail,  en  équipe,  sur des  projets  innovants  et  vous
+souhaitez  mettre  en  œuvre  une  solution à  forte  ajoutée  pour  un  client.
+Qui êtes-vous ?
+Vous êtes rigoureux  (se), curieux  (se), passionné, force  de  proposition.
+Vous avez le sens du service.
+Vous  connaissez  le  langage  Java                                                   /  J2EE,  la  bibliothèque  Jquery,  les        De   formation   Bac+5                     (en   cours   de
+                                                                                                                                      validation), en École d’Ingénieur ou en
+standards   CSS3   et   HTML5.   Vous   comprenez   les   concepts   de   la
+                                                                                                                                      Université,  vous  recherchez  un  stage
+programmation orientée objet et la modélisation.
+La maîtrise d’une des technologies suivantes est fortement appréciée :                                                                d’une durée de 4 à 6 mois (période de
+                                                                                                                                      décembre à mai/juin).
+framework Spring, SVN Subversion, Jenkins, JMeter (tests de performance),
+Apache Tomcat, http (mod_jk, mod_proxy).
+
+
+
+
+

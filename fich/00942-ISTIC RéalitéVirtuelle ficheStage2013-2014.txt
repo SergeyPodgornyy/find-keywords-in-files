@@ -1,0 +1,102 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : Excense                                                             Adresse : 2, rue de la Chataigneraie
+Domaine d’activité : Interfaces naturelles                                                Ville : Cesson-Sévigné
+Représentant de l’entreprise : Denis Tellier                                              N° téléphone : 02 99 12 79 09
+Sa qualité : Directeur général                                                            N° fax :
+N° de Siret : 795 093 780 00018                                                           Site Web : www.excense.fr
+N° NAF :6201Z                                                                             Courriel : contcat@excense.fr
+Statut Juridique :SAS                                                                     Signataire de la convention : Denis Tellier
+Effectif de l’établissement : 5
+Nom de l’encadrant de stage : Pascal Fresnay                                              Chargé du suivi administratif : Denis Tellier
+Sa qualité : Directeur Technique                                                          Sa qualité : Directeur général
+Service :                                                                                 N° téléphone :
+N° téléphone : 06 51 02 28 54                                                             Email : 06 75 09 63 81
+Email : pascal.fresnay@excense.fr                                                         Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : R&D
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                  2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                  16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                 16 septembre au 27 septembre 2013
+                                                                                                  4 novembre 2013 au 10 janvier 2014
+                                                                                                  17 février 2014 au 11 avril 2014
+                                                                                                  19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                  entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                   entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé :…Visite Virtuelle Immersive
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Technologies : Unity 3D, C#, .NET, tactile multitouch, Oculus Rift, Leap Motion.
+Méthodologie : Agilité (SCRUM)
+Sujet proposé détaillé :
+Vous êtes curieux et passionné de nouvelles technologies
+et  souhaitez  explorer  les  possibilités  offertes  par  les
+dernières  innovations  en  matière  d’interaction  homme-
+machine ?
+Au  sein  d’une  jeune  startup  de  l’incubateur  Emergys
+(incubateur  de  la  région  Bretagne),  vous  participerez
+directement  à  la  conception,  au  prototypage  et  au
+développement d’une solution de communication et d’aide
+à la vente innovante, en tirant parti des interfaces naturelles
+: dispositifs tactiles, Leap Motion et Oculus Rift.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 436,05                                                              €                                                                Nom de l’Etudiant :
+Modalités de versement :                                                                                                                                           Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35H
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? OUI
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

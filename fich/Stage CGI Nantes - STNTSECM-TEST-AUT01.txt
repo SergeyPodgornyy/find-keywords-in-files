@@ -1,0 +1,55 @@
+﻿Mise en place d’une solution
+visuelle de tests automatiques
+Fondée en  1976, CGI est un fournisseur mondial de s    ervices en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  de                          s  processus
+ENTITE : WST
+d’affaires  qui  offre  des  services-conseils  en  manag                           ement  ainsi
+DUREE : 6 MOIS
+que des services d’intégration de systèmes et d’out                                 sourcing.
+LIEU : CARQUEFOU (44)
+Avec  69  000  professionnels  présents  dans  40  pays  et                         répartis
+Contactez ?
+dans  400 bureaux partout dans le monde, nous conjug                                uons une
+Keiza BARBIN : keiza.barbin@cgi.com
+présence  locale  à un vaste  éventail  d’expertises.  V     oilà  la force
+et Stéphanie LEPEIGNEUL :
+de notre engagement.
+stephanie.lepeigneul@cgi.com
+Offre de stage référence :
+ST/NTS/ECM-TEST-AUT/01
+OBJECTIFS DU STAGE
+Mettre  en  place  à  partir  de  briques  logicielles  existantes  une  solution
+visuelle de tests automatiques.
+Pour  aller  toujours  plus  loin  dans  l’industrialisation  des  projets,  CGI
+souhaiterait mettre en place une solution de tests fonctionnels automatiques
+permettant d’effectuer les recettes pour des applications client léger, riche,
+mobile  ou  lourd.  Cette  solution  qui  sera  à  la  main  d’utilisateurs  non
+informaticiens  doit  permettre  une  mise  en  place  visuelle  simple  des
+campagnes de tests. Dans une optique d’industialisation, une installation
+sur  une  plateforme  d’intégration  continue  et  la  remontée  d’indicateurs
+pertinent seront aussi attendus.
+Ce stage de fin d'études vous permettra d'intégrer l'entité ECM (Enterprise
+Content Management). Au sein de cette communauté d'experts reconnue
+internationalement,  vous  serez  impliqué  sur  des  projets  innovants  et
+enrichissants. Ainsi vous acquerrez des connaissances et des compétences
+à forte valeur ajoutée.
+MISSIONS
+   Concevoir et développer l’IHM et le moteur de l’application en utilisant
+les briques logicielles : Selenium, Sikuli et jBPM
+   Planifier, concevoir et dérouler les plans de tests
+   Intégrer l’application sur un projet industrialisé
+   Documenter (vidéo) et packager l’application
+PROFIL
+   Dernière année   de cycle d’ingénieur, curieux et autonome
+   Maîtrise de la programmation orientée objet (.Net ou JEE)
+   Connaissance des outils d’industrialisation (Maven, Jenkins)
+   Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr                                                                  © 2013 GROUPE CGI INC.
+
+
+
+
+

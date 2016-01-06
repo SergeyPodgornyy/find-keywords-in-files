@@ -1,0 +1,92 @@
+﻿Participez avec La Poste à l’aventure de La Banque Postale
+DISFE/DET/GCA Mission : Administrateur de données de la base GCONF
+Localisation : Nantes (44)
+Type de contrat : Stage
+Niveau d'études : B+4
+Début : ASAP
+Présentation  Entreprise
+La Direction des Systèmes d’Information de La Banque Postale (DSI) et la Direction de l’Informatique des Services
+Financiers et de l’Enseigne (DISFE) assurent la maîtrise d’œuvre informatique des systèmes d’informations de
+La Banque Postale et de l’Enseigne La Poste, avec pour objectifs de délivrer la meilleure qualité de service aux
+clients, aux utilisateurs, et d’optimiser les coûts.
+« Faire du SI un levier de performance de La Banque Postale et de l’Enseigne La Poste » : telle est l’ambition de la
+DSI-DISFE  pour  conjuguer  satisfaction  des  utilisateurs  et  fidélisation  des  clients  au  service  de  l’efficacité
+commerciale. Dans un univers concurrentiel, répondre aux attentes des clients, en développant un sens du service
+exigeant et renouvelé, est un véritable état d’esprit.
+La DSI-DISFE accompagne les enjeux stratégiques de La Banque Postale et de l’Enseigne en assurant cinq
+principales missions :
+    Conduire  la  politique  d’investissement  en  matière  de  système  d'information  en  conjuguant
+productivité, réactivité et rentabilité. Il s’agit d’adapter les systèmes d’informations selon les besoins des
+utilisateurs,  pour  assurer  la  réalisation  et  l’intégration  des  projets  de  la  Banque  et  de  l’Enseigne  en
+garantissant la cohérence et l’exploitabilité des SI.
+    Mettre à disposition de l’ensemble des utilisateurs des services optimisés et conformes à leurs
+attentes.  Objectif  qualité  de  service  afin  d’améliorer  la  satisfaction  des  utilisateurs  internes                  (les
+collaborateurs) et externes (le grand public).
+    Maîtriser les risques d’altération du service rendu dans le respect des contraintes réglementaires et
+économiques.
+    Rationaliser l'activité informatique et innover en introduisant une analyse permanente de la valeur.
+Parce que l’innovation n’est pas  une  fin en soi, la capacité de mutualisation  et de simplification des
+systèmes d’informations contribue au développement commercial du Groupe.
+    Maîtriser le développement professionnel de chaque collaborateur dans le respect des besoins de
+l'entreprise et des valeurs du Groupe.
+Rattachée aux Services Financiers de La Poste, la DISFE est structurée par directions opérationnelles, directions
+d’appui et fonctions communes de gestion. Au 31 décembre 2012, elle compte 1 873 collaborateurs répartis sur 13
+sites en France.
+Contexte  de  la  mission
+La DET (Direction Environnement de Travail) a en charge la responsabilité transverse (de la conception à la gestion
+quotidienne) de l'environnement de travail de l'ensemble des utilisateurs de La Banque, de l'Enseigne et de la
+DISFE. Elle garantit la qualité de service en production pour les sites locaux de l'Enseigne et de la Banque Postale.
+Le département Gestion des Changements assure les missions suivantes au sein de la DET :
+·                                                                                                                            Assurer le Change management et l’animation du CAB (Change Advisory Board)
+·                                                                                                                            Recette d’exploitation
+·                                                                                                                            Diffusion et télédiffusion
+Rattaché(e) au département Gestion des Changements, et particulièrement au CAB, le/la stagiaire retenue aura
+pour mission principale la reprise des données gérées dans le processus de Gestion des Configurations (GCONF)
+utilisées par la DET, dans les différents processus.
+1/2
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr -
+Rubrique « Nous rejoindre »
+
+
+
+
+Participez avec La Poste à l’aventure de La Banque Postale
+La raison d'être du CAB est d'apporter une visibilité amont des évolutions du SI afin de garantir la qualité des
+changements réalisés par les équipes de la DET sur son périmètre. Pour se faire, CAB assure les principales
+missions suivantes :
+-                                                                                                                    Contrôler l’application du processus
+-                                                                                                                    Coordonner, filtrer et valider les changements et procéder à arbitrage si nécessaire
+-                                                                                                                    Améliorer la visibilité sur les changements et leur pilotage (planification) pour réduire les incidents induits et
+                                                                                                                     préserver la qualité de service
+-                                                                                                                    Assurer le suivi des changements majeurs
+-                                                                                                                    Piloter la revue des risques et des conflits
+-                                                                                                                    Fiabiliser les données OPUS
+-                                                                                                                    Partager  la  vision  des  changements  avec  la  Direction  de  la  Production  informatique,  consolidée  sur
+l’ensemble des périmètres DISFE pour diminuer les risques de conflits
+La production de la DISFE repose sur le respect de différents processus (la Gestion des changements, la gestion
+des mises en production, la gestion des Incidents, la Gestion des Problèmes)
+Tous ces processus reposent sur une base de Composants Informatiques (CI) dont la dénomination hétérogène
+n'est plus adaptée aux différents besoins des processus et des périmètres. Le/la stagiaire retenu(e) aura donc la
+responsabilité de proposer un nommage normalisé des CI, puis de remettre à plat les données saisies dans la base
+des CI.
+Missions
+·                                                                                                                    Extraire et lister tous les CI et types de CI actuellement utilisés dans la base
+·                                                                                                                    Auditer les responsables des processus GDI et GDP pour collecter leurs besoins particuliers
+·                                                                                                                    Recenser les besoins des utilisateurs des processus GDC et GMEP
+·                                                                                                                    Proposer une dénomination claire et normalisée des CI
+·                                                                                                                    Mettre à jour les données saisies dans la base GCONF
+Profil
+Etudiant(e) en Bac+4 de type école d'ingénieur (spécialisation systèmes et réseaux ou architecture/infrastructure)
+ou Master 1 en informatique, vous possédez une bonne culture informatique et vous appréciez travailler en mode
+projet. Vous avez un bon relationnel et vous êtes doté(e) de capacités rédactionnelles. Vous vous distinguez par
+votre esprit de synthèse et d’analyse. Vous avez le souci de la précision et de la rigueur.
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante : julie.boisaubert-
+prestataire@labanquepostale.fr
+2/2
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr -
+Rubrique « Nous rejoindre »
+
+
+
+
+

@@ -1,0 +1,51 @@
+﻿Stage n°1 du LCE
+Sujet :  Détection  de  geste  en  temps-réel  sur  caméra  intelligente
+ultra-intégrée
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré dans l'espace européen de la recherche et exerce une présence croissante au niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies (LIST) a notamment pour mission de contribuer au transfert de technologies et de
+favoriser l’innovation dans le domaine des systèmes embarqués. Au sein du LIST le Laboratoire
+Calcul Embarqué (LCE) conçoit et de développe des calculateurs à haut niveau de performance pour
+les systèmes embarqués.
+L'émergence de systèmes de vision ultra-intégrés à très faible consommation énergétique ouvre de
+nouvelles perspectives pour des interfaces homme machine performantes à faible coût. Le
+Laboratoire Calcul Embarqué a une forte expertise en intégration d’applications d’analyse de scène
+complexes sur des caméras intelligentes (capteur d’image, processeur et mémoire sur la même puce
+électronique). Des travaux antérieurs ont permis la mise en place d’une application de reconnaissance
+gestuelle compatible avec ce type de système embarqué. Dans ce cadre, nous proposons au candidat
+d’intégrer cette application sur une caméra intelligent, afin d’en faire un démonstrateur technologique.
+Les objectifs du stage sont d’intégrer le code de détection de geste existant dans une application
+complète (par exemple commande gestuelle sans contact) puis de porter cette application sur une
+caméra intelligente de type Icycam. Dans un premier temps, le candidat devra développer
+l’environnement de démonstration (application + interface visuelle + drivers) sur un PC muni d’une
+webcam. Puis le code sera adapté et optimisé pour une exécution en temps-réel sur la caméra
+intelligente. Enfin, le candidat devra mener une étude comparative des performances et de la qualité
+entre la version PC+webcam et la version sur caméra intelligente.
+Mots-clés : Développement et optimisation de code sur cible embarquée, développement
+applicatif IHM, systèmes embarqués, caméra intelligente, commande gestuelle
+Niveau demandé : Diplôme ingénieur (BAC+5)
+Durée : 6 mois
+Compétences :  Architecture  des  systèmes  embarqués,  Traitement  d'images,  langage
+C/C++, Linux embarqué
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                        : Mehdi Darouich
+Téléphone                                                                                                  : 01 69 08 60 51
+Email                                                                                                      : mehdi.darouich@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                 Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                             Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                   Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

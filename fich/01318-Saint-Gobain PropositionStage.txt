@@ -1,0 +1,33 @@
+﻿Proposition de stage
+Réalité virtuelle                                                                                                                                        - Benchmark de moteurs de rendu
+physico-réalistes
+Contexte
+Les architectes, les designers ou encore le monde du marketing utilisent des outils de rendu virtuel pour réaliser
+les maquettes de leurs travaux. Les images obtenues sont souvent de belles illustrations où les propriétés des
+matériaux sont choisies par un infographiste et ajustées selon des critères esthétiques et artistiques. La qualité
+des résultats est fortement dépendante des compétences ou du talent de l’infographiste.
+En vue de capturer l’interaction lumière-matière et d’obtenir un rendu de ses produits fidèle à la réalité, Saint-
+Gobain a choisi d’utiliser un moteur de rendu physico-réaliste. Saint-Gobain Recherche a ainsi mis au point une
+approche robuste permettant à partir de la caractérisation des propriétés physiques de ses produits de calculer des
+images de haute qualité.
+Objectifs du stage
+Il sera demandé au stagiaire la réalisation d’une évaluation comparative des spécifications et des performances
+des principaux logiciels du marché, concurrents du moteur de rendu utilisé par Saint-Gobain Recherche.
+La qualité de restitution des produits Saint-Gobain par les logiciels testés pourra être évaluée via la mise en
+œuvre de scènes complexes existantes.
+Au terme du stage, le ou les meilleurs logiciels pour le rendu des produits Saint-Gobain devront être identifiés.
+Profil recherché
+Elève en école d’ingénieur  2ème année ou en master de synthèse d’images avec des connaissances en réalité
+virtuelle
+Durée du stage : 3 à 6 mois
+Localisation :                                                                                                                                           Saint-Gobain Recherche, 39 quai Lucien Lefranc 90303 Aubervilliers
+Contact :                                                                                                                                                patrick.gayout@saint-gobain.com - 01 48 39 57 98
+Saint-Gobain, leader mondial de l’habitat, conçoit, produit et distribue des matériaux de construction en apportant des solutions innovantes aux défis
+la croissance, des économies d’énergie et de protection de l’environnement. Avec un chiffre d’affaires de 43,2 milliards d’euros en 2012, Saint-Gobai
+présentdans 64 pays avec près de 193 000 salariés.
+Saint-Gobain Recherche,est l’un des 7 grands centres de recherche de Saint-Gobain. Pour en savoir plus : www.saint-gobain-recherche.fr
+
+
+
+
+

@@ -1,0 +1,44 @@
+﻿CS COMMUNICATION ET SYSTEMES RECRUTE UN/UNE UPGRADE D'UN SIG EXISTANT H/F EN
+STAGE DE 3 À 6 MOIS.
+Date : 15/12/2014
+Référence de l’offre : DEF/TLN/N°5-8330548
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulon 83000, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+CS conçoit et réalise un système de vidéo surveillance portuaire et fournit un système de tenue de situation
+tactique au travers d'une cartographie vectorielle permettant la géo-localisation d'un ensemble d'éléments
+(tourelles de surveillance, zones de couverture des caméras, zones d'accès restreints, pistes évoluant sur le
+plan d'eau, etc.).
+Le système se base sur le SIG QGIS dans sa version  1.6 et est intégré dans de nombreux projets CS
+nécessitant l'affichage d'une cartographie.
+La mission consiste à intégrer la dernière version QGis sortie (2.0) et à vérifier son intégration dans un
+environnement et un logiciel exploitant la version 1.6.
+Les compétences requises concernent l'informatique temps réel, les systèmes d'informations géographiques,
+les cartographies vectorielles…
+Durée du stage : 6 mois
+Profil recherché :
+Ingénieur  de  formation  ou  équivalent  universitaire                                                            (Bac+4/5),  en  informatique,  vous  justifiez  des
+compétences techniques suivantes :
+- bonnes connaissances en maths
+- bonnes connaissances en programmation Langage C, C++, Qt
+- esprit d'initiative et autonomie.
+Compétences linguistiques: Anglais opérationnel
+Merci d'adresser votre candidature (CV + Lettre de motivation) à Gariné KELIJIAN par mail à l'adresse
+suivante : recrutement@c-s.fr , en précisant la référence DEF/TLN/N°5.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8330548
+
+
+
+
+

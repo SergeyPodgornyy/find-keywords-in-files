@@ -1,0 +1,133 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+                                                                                          Nom de l’entreprise : ADVALO                          Adresse : 34 rue Frédéric Le Guyader
+                                                                                          Domaine d’activité : Marketing, Analytics, Big Data   Ville : Rennes
+                                                                                          Représentant de l’entreprise : Olivier MARC           N° téléphone : 09 72 46 87 73
+Sa qualité : Co-fondateur                                                                                                                       N° fax :
+N° de Siret :                                                                             79785151600014                                        Site Web : www.advalo.com
+N° NAF : 6201Z                                                                                                                                  Courriel : contact@advalo.com
+Statut Juridique : SAS                                                                                                                          Signataire de la convention : M Olivier MARC
+                                                                                          Effectif de l’établissement : 7
+Nom de l’encadrant de stage : Julien GOBLET                                               Chargé du suivi administratif : Olivier MARC
+Sa qualité : Dev. Ops                                                                     Sa qualité : Co-fondateur
+Service :                                                                                 N° téléphone : 09 72 46 87 73
+N° téléphone : 09 72 46 87 73                                                             Email : olivier@advalo.com
+Email :   julien@advalo.com                                                               Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : Développement
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+x Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 13 mai 2015
+x MIAGE                                                                                   13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+x Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+x Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+x Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+x Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+x Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+x Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                            En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                            16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                           En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+x Spécialité CTS                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+x Spécialité ST                                                                                             entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+x Spécialité SISEA                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET DU STAGE :
+Titre du stage proposé : Stage Ingénieur Full Stack JavaScript
+Présentation de la société
+Le  data  marketing  ou  marketing  de  données  est  une approche  innovante qui  rend  possible  la
+collecte, le traitement et l’analyse simultanée et en temps réel de millions d’informations, afin de
+mettre en place des actions marketing beaucoup plus personnalisées et performantes.
+L’enjeu pour les enseignes/annonceurs est de pouvoir donner de la valeur et de la cohérence à
+toutes ces données, souvent dispersées entre les mains de différents prestataires, afin de booster
+leurs actions marketing.
+La technologie au cœur du data marketing est la DMP  (Data Management Platform), une plate-
+forme unifiée de gestion de données à très grande échelle.
+Advalo, startup fondée à Rennes en 2013, propose une DMP dédiée principalement aux entreprises
+de la distribution, du ecommerce et de la presse.
+Description du stage
+Afin d'accélérer notre développement, nous recherchons un(e) stagiaire développeur Full Stack JS à
+partir de mars/avril 2015.
+Chez  Advalo,  un  stagiaire  Full  Stack  JS  imagine,  conçoit,  maintient,  enrichi  les  applications
+existantes avec des outils déjà affûtés ou qu'il faudra développer.
+Il pense avant tout expérience utilisateur, scalabilité et qualité du code avec les dernières innovations
+Javascript (NodeJS, AngularJS, ES6, Mocha etc...)
+Qualités attendues
+-                                                                                                           Agréable et humble
+-                                                                                                           Amoureux du travail bien fait
+-                                                                                                           Proactif et force de propositions
+-                                                                                                           Connaître et surtout aimer les technos Web
+Missions
+-                                                                                                           Développement / intégration de fonctionnalités sur notre plate-forme Pulse (AngularJS)
+-                                                                                                           Intégrer des partenaires à notre champ d'action (NodeJS, WebSockets)
+-                                                                                                           Optimiser notre application FrontEnd temps réel et son architecture (NodeJS)
+-                                                                                                           Effectuer des tests de scalabilités
+-                                                                                                           Proposer des moyens de gestion / monitoring des applications (Graphite / Nagios / custom)
+UNIVERSITE DE RENNES 1                                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Profil recherché
+-                                                                               De formation BAC+4/5 de type école informatique d'ingénieur  (INSA, EPITECH, ENI,  …) ou filière
+                                                                                universitaire, vous avez une spécialisation en développement logiciel / système d'information.
+-                                                                               Très bonne maîtrise de JavaScript en général (ES6 est un plus)
+-                                                                               Maîtrise de HTML5 et CSS3
+-                                                                               La connaissance du SourceControl Git est un plus
+-                                                                               Envie d'évoluer dans un environnement Big Data orienté temps réel.
+-                                                                               Vous aimez les petites structures, le mode de fonctionnement et l’ambiance start-up.
+-                                                                               Vous n'avez pas d'expérience dans une des choses listées ? Peu importe, du moment que vous êtes
+capable d'apprendre vite.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) : Selon profil                                      Nom de l’Etudiant :
+Modalités de versement :                                                        Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :   35h
+Date limite de réponse à cette proposition : Mars 2015
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Merci d’adresser votre CV et lettre de motivation à julien@advalo.com
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

@@ -1,0 +1,61 @@
+﻿Développement  PHP
+Société  Générale  France
+REFERENCE  :  ST/SM/RESG92785
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5087371
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement
+Au sein du département infrastructure de la Société Générale, l'équipe Référentiels est composée de
+10 personnes à Paris, et est en charge du développement et du support applicatif d'outils internes
+dont la portée est internationale.
+Votre stage
+Vous évoluez au sein d une équipe de développement jeune et dynamique et participez aux tâches
+suivantes:
+- Gestion des demandes clientes
+- Analyses techniques des demandes
+- Implémentation des évolutions demandées
+- Test et rédaction de documentations sur les évolutions implémentées
+- Livraison des évolutions en environnement de production
+- Assistance et support aux utilisateurs
+Apport du stage
+L ensemble de ces tâches vous permettra d appréhender les différentes phases de développement d
+une application interne au sein d un groupe international.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+4/5 en école  d’ingénieur ou université avec une spécialisation
+en système d'information.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec PHP, MySQL.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+
+
+
+
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Vous bénéficiez idéalement des connaissances en C/C++, LINUX est un plus.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation en système d'information.
+d’anglais est opérationnel.A l’aise avec PHP, MySQL, C/C++, LINUX est un plus.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5087371
+
+
+
+
+

@@ -1,0 +1,33 @@
+﻿DCNS RECRUTE UN/UNE STAGIAIRE (H/F) INGÉNIEUR DÉVELOPPMENT EN STAGE 6 MOIS.
+Date : 13/01/2015
+Référence de l’offre : 2015-5966-8576388
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : ruelle sur touvre 16600, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Dévoilez vos talents… ouvrez-vous à un monde de haute technologie maritime.
+DCNS est un acteur européen de premier plan sur le marché mondial du naval de défense et un innovateur
+dans l'énergie.
+Avec 3,3 milliards d'euros de chiffre d'affaires et 13 600 collaborateurs en France et à l'étranger, le groupe
+DCNS offre de réelles opportunités de carrières dans les métiers d'ingénierie de systèmes, d'architecture
+navale, de maîtrise d'œuvre, de production, d'industrialisation, de maintenance et de services.
+Description du poste :
+Dans le cadre de ses simulateurs tactique pour le sous-marin, DCNS a développé un logiciel d'éditeur de
+bruit. Aujourd'hui nous souhaitons traiter l'obsolescence technologique de ce logiciel.
+Vous serez en charge du développement/refactoring en C++/Qt sous Linux CentOS 6.1 du logiciel (techno
+précédente : WxWindow). Vous produirez la documentation d'architecture et d'interface.
+Des améliorations ergonomiques sont à prévoir sous le pilotage fonctionnel d'un ancien sous-marinier.
+Profil recherché :
+Stage de fin d'études niveau : ingénieur.
+spécialité : informatique.
+experience : C++ (Qt serait un +)
+connaissance en traitement du signal.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8576388
+
+
+
+
+

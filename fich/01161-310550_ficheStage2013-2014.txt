@@ -1,0 +1,111 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : Lacroix Sofrel                                                      Adresse : 2 rue du plessis
+Domaine d’activité : Télégestion et sectorisation                                         Ville : 35740 Vern-sur-Seiche
+Représentant de l’entreprise : Patrick Legras                                             N° téléphone : 02 99 04 89 00
+Sa qualité : DRH                                                                          N° fax :
+N° de Siret :   409 065 810 000 23                                                        Site Web : www.sofrel.com
+N° NAF :                                                                                  Courriel :
+Statut Juridique : SAS                                                                    Signataire de la convention :   Patrick Legras
+Effectif de l’établissement : 120 personnes
+Nom de l’encadrant de stage : Billoir Tiphaine                                            Chargé du suivi administratif : Veronique Lahaye
+Sa qualité : Chef de projet                                                               Sa qualité : assistante ressource humaine
+Service : Bureau d’Etudes                                                                 N° téléphone :02 99 04 89 00
+N° téléphone :02 99 04 84 26                                                              Email : v.lahaye@sofrel.com
+Email : t.billoir@sofrel.com                                                              Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : Bureau d’etudes…..………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                                                                              2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                                                                              16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                                                             16 septembre au 27 septembre 2013
+                                                                                                                                                              4 novembre 2013 au 10 janvier 2014
+                                                                                                                                                              17 février 2014 au 11 avril 2014
+                                                                                                                                                              19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                                                                              entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                                                                               entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé : Développement  outil  métier  en  langage  VBA/Excel
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+VBA,  Excel  2010,  ACCESS  2010
+Langage  C/C+
+Sujet proposé détaillé :
+Au  sein  d’un  bureau  d’étude  de  23  personnes,  l’équipe  validation  recette  a  en  charge  les  tests  fonctionnels  de  nos  produits  avant  leur
+commercialisation.
+En  collaboration  avec  cette  équipe  de  4  personnes,  vous  aurez  en  charge  de  développer  et  améliorer  les  outils  (dossiers  de  tests,
+synthèse  des  résultats,  rapport  de  recette,…)  nécessaires  et  utilisés  au  quotidien  par  notre  équipe.
+Le  candidat  sera  responsable  de  l’analyse  des  besoins  fonctionnels,  d’identifier  les  solutions  techniques  et  de  réaliser  les
+développements.  Il  lui  faudra  optimiser  les  outils  actuels  (majoritairement  sous  Excel  /  VBA)  et  développer  des  outils  destinés  à
+automatiser  des  tâches  manuelles  répétitives  sur  des  données  ou  recueillir  et  consolider  des  informations.
+A  travers  ce  stage,  afin  de  garantir  une  maintenabilité  future  de  ces  outils,  vous  serez  soumis  au  respect  d’un  processus  qualité,
+documentation  et  présentation  régulière  des  résultats  aux  membres  de  l’équipe.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 1000 Euros                                                                                                                      Nom de l’Etudiant :
+Modalités de versement :                                                                                                                                      Diplôme :
+Avantages en nature à préciser : Ticket Restaurant
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition : Fin Fevrier 2014
+UNIVERSITE DE RENNES 1                                                                                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

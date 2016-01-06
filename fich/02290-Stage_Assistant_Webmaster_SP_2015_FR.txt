@@ -1,0 +1,40 @@
+﻿« Stage - Assistant(e) Chef de projet Migration et Déploiement des sites entités
+sous SharePoint 2010 au siège d’un groupe du CAC 40 »
+PERIODE SOUHAITEE : Mars 2015
+MISSIONS :
+Participation au projet de migration de la nouvelle plateforme intranet du groupe « The Link » en
+assistant au chef de projet The Link dans le cadre de migration des sites collaboratifs
+SharePoint.
+    Définir avec le chef de projet la stratégie la mieux adaptée permettant le succès de cette
+migration
+- Participer à la phase de mise en production de la migration
+- Elaborer des outils de formation pour les contributeurs du portail et support international.
+    Administrer l’interface client du nouveau portail SharePoint et créer des sites évènementiels ou
+collaboratifs sous Sharepoint 2010
+                                                                                                       Auditer et analyser l'ensemble des sites SharePoint. Organiser et réaliser de la recette
+transverse : mise à jour du cahier de recette, réalisation des tests reporting régulier sur
+l’avancement et les points bloquants.
+    Création et développement d’une bibliothèque de slide avec moteur de recherche compatible
+avec Sharepoint 2010
+    Interface avec les équipes DSI et Communication (suivi de la réalisation)
+PROFIL H/F :
+Bac+ 4- informatique
+COMPETENCES
+Connaissance de SharePoint et Sharepoint Designer
+Connaissance des CMS et des langages php / mysql / flash.
+Maîtrise de Photoshop et du langage html /css.
+Bonne capacité d'analyse et de synthèse, l'aptitude à travailler en équipe, le sens de la rigueur et
+de l'organisation.
+Sensibilité aux métiers de la communication et aux nouvelles technologies
+Bon niveau d’anglais
+DATES ET DUREE DU STAGE :
+Période : Mars 2014, pour 6 mois.
+Indemnité : Stage rémunéré selon profil.
+Lieu de travail: 75016
+Contact : Engin URKMEN (Group Communications Webmaster - eurkmen@technip.com)
+www.technip.com
+
+
+
+
+

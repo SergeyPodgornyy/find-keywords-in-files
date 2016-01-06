@@ -1,0 +1,63 @@
+﻿SOGETI  HIGH  TECH                                                                                                     -  RÉGION  SSE  RECRUTE  UN/UNE  STAGE  INGÉNIEUR  DOMAINE
+ACOUSTIQUE DE B EN STAGE 6 MOIS.
+Date : 26/11/2014
+Référence de l’offre : MU4-STA-TE-JJU-8164948
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+Dans le cadre des activités acoustiques de SOGETI HIGH TECH dans le domaine de l'aéronautique, un
+grand nombre d'enregistrements de bruit et de vibration sont réalisés sur des avions de production lors des
+essais  en  vol.  De  multiples  analyses  sont  effectuées  à  partir  de  ces  enregistrements  et  ces  résultats
+acoustiques sont capitalisés au sein d'un outil dédié.
+L'objectif du stage sera d'exploiter cette base de données afin :
+- D'en extraire les principaux indicateurs (KPI) de l'activité d'analyse de bruit (nombre de signaux analysés,
+top 5 des bruits récurrents…)
+- De trier et rassembler les données « métier » (spectres, quantificateurs de bruit, etc…) afin d'améliorer les
+performances des outils d'analyse.
+Il vous sera principalement demandé de :
+- Développer un code en VBA et/ou Matlab permettant de trier les résultats d'analyse acoustique en fonction
+de différents paramètres contextuels (type d'avion, contexte de l'analyse, origine du bruit, condition de vol,
+position de mesure…).
+- Créer des IHM permettant de consulter / visualiser les résultats.
+- Valider les fonctionnalités des outils développés en utilisant des données récentes.
+Environnement de travail :
+- Windows
+Compétences techniques pour le stage :
+- Langage Matlab
+- Langage VBA
+- Un niveau intermédiaire en anglais est requis
+- Des connaissances en acoustique, en statistique et en traitement du signal, ainsi que des compétences en
+JAVA seraient un plus.
+Profil recherché :
+
+
+
+
+De formation BAC+5 en informatique ou traitement du signal, vous avez déjà acquis, au cours d'un stage,
+alternance ou expérience professionnelle des connaissances dans les langages informatiques cités ci-dessus,
+la création d'IHM, le développement de codes / algorithmes… »
+Qualités requises  : Capacité à collaborer et communiquer, esprit d'analyse et de synthèse, créativité et
+innovation, travail en autonomie.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8164948
+
+
+
+
+

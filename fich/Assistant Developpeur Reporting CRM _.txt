@@ -1,0 +1,55 @@
+﻿Assistant Développeur Reporting CRM  /
+BNP Paribas
+REFERENCE  :  RHG14S_RBIS_07
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4806702
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  MONTREUIL 93100, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 03/10/2013
+DUREE  :  de 3 à 12 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Développez vos compétences et faites grandir votre potentiel en intégrant les équipes informatiques
+Retail Banking Information Systems (RBIS) de BNP Paribas pour préparer le futur de la banque
+d’un monde qui change.
+Rejoignez l’informatique du Retail Banking du Groupe BNP Paribas et participez à la conduite de
+grands projets dans des environnements multi-technologiques ; découvrez une très large palette de
+métiers et des parcours évolutifs au sein d’une équipe de plus de 1 000 collaborateurs au service des
+réseaux bancaires du Groupe et de ses clients finaux dans le monde entier.
+DESCRIPTION DU POSTE  :
+L’entité RBIS a pour objectifs de :
+- Mutualiser les grands investissements informatiques, en particulier entre les réseaux bancaires du
+Groupe BNP Paribas,
+- Favoriser les échanges de savoir-faire et les bonnes pratiques entre les différentes entités du Retail
+Banking.
+Retail Banking Information Systems recherche à Montreuil (93) un(e) stagiaire :
+Assistant Développeur Reporting CRM / Business Intelligence H/F
+Vos missions
+Dans le cadre de son offre de service, le Shared Service Center (SSC) CRM de RBIS est
+responsable du suivi opérationnel de la boucle CRM pour le compte d'entités du groupe BNP
+Paribas. Afin d'améliorer le service rendu aux entités, le SSC souhaite se doter d'un outil de
+reporting de l'activtié lui permettant d'améliorer l'information remontée aux différentes entités et
+défini dans le cadre d'un Service Level Agreement (SLA).
+En tant que Assistant Développeur, vous:
+Définissez des maquettes et interface de ces reporting (Reporting d'execution, Reporting mensuel de
+mesure des SLA)
+
+
+
+
+Créez des indicateurs nécessaires aux différents reporting
+Réalisez ces reportings via un outil du marché.
+Réalisez des premiers rapports pour le compte des entités.
+PROFIL  :
+Formation : BAC+4/5 Ecole d’Ingénieur ou équivalent Universitaire avec une spécialisation en
+Informatique
+SQL
+Connaissance de JAVA (JEE) et de framework de developpement
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4806702
+
+
+
+
+

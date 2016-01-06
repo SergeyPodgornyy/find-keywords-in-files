@@ -1,0 +1,48 @@
+﻿Stage  / Cyber Outils de Rendu d'un Envir
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10222530 TL FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4250288
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/11/2013
+DUREE  :  6 mois
+SECTEUR  :  Industry (Aeronautical/Spatial)
+FONCTION  :  Information systems / Telecom (Systems/Network/Database)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Cassidian a créé une entité entièrement dédiée à la Cybersécurité, de manière à regrouper ses forces
+et à accélérer sa croissance dans ce domaine.
+Dynamique, agile et proactive, l'entité "CyberSecurity" de Cassidian propose des solutions
+innovantes et développe un cercle de partenaires de confiance en Europe pour relever le défi de la
+Cybersécurité au service des gouvernements et des entreprises critiques.
+Vous évoluerez au sein d'une équipe dynamique dans un laboratoire de recherche et technologie, et
+pourrez monter en compétences dans le domaine de la virtualisation.
+Cette offre de stage est à pourvoir à compter du 1er Novembre 2013 (sujette à une certaine
+flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Développer un outil de « rendu de session » permettant d'enregistrer et de représenter le
+déroulement chronologique d'un scénario sur un réseau virtuel,
+- Définir et développer les sondes récoltant les événements du scénario,
+- Centraliser ces données dans un format adapté,
+- Développer un client lourd permettant de représenter ces données sur une timeline.
+PROFIL  :
+Bac+4 - Environnement Unix/Linux
+- Langages Python et C
+- Librairie pcap
+- Gestionnaire de versions (subversion ou mercurial)
+- Virtualisation (QEMU-KVM)
+- Esprit d'équipe
+
+
+
+
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4250288
+
+
+
+
+

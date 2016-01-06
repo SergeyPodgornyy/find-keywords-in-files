@@ -1,0 +1,60 @@
+﻿Content  Management  Framework  -  H/F
+PRÉSENTATION DU STAGE
+Entreprise de Services du Numérique créée en  1993, ASI est spécialisée dans les solutions de
+Business Analytics, le Social Business (réseaux sociaux d’entreprise, messagerie, portail, CRM…) et
+les applications mobiles intégrées avec le système d’information de l’entreprise.
+Implantée dans  10 villes  (Paris, Lyon, Marseille, Rennes, Brest, Nantes, Niort, Tours, Bordeaux et
+Toulouse),  ASI  compte                                                                                      320  collaborateurs  qui  interviennent  auprès  de  PME/PMI,  de  grandes
+entreprises et de collectivités locales.
+Rejoignez une entreprise qui allie performance et sens écologique, positionnée sur des projets à taille
+humaine et partagez notre éthique basée sur la transparence, le respect, la simplicité, la convivialité et
+le plaisir.
+CONTEXTE ET SUJET DE STAGE
+Afin de regrouper et renforcer notre savoir-faire, l'activité PHP est organisée autour d'un centre de
+services dédié basé à Nantes.
+Ce centre de services propose un panel d'offres autour des technologies Linux Apache MySQL et
+PHP, comme :
+• le développement d'applications de type Intranet  / Extranet  / Internet et mobiles  (Symfony, Zend
+Framework),
+• l'intégration du CMS Drupal
+• l'expertise sur PHP, MySQL (audit technique, conseil)
+• la maintenance de sites ou d'applications web en TMA (tierce maintenance applicative)
+Dans ce contexte varié, aussi bien fonctionnellement que techniquement, nous réalisons différents
+projets et nous souhaitons concevoir un socle technique de gestion de contenus basé sur Symfony 2.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Intégré au centre de services, vous devrez étudier et analyser la conception d’un socle technique de
+gestion de contenus, autour du framework Symfony  2.    Après avoir effectué l’analyse avec  des
+membres du centre de services, vous devrez en assurer la conception.
+•                                                                                                            Etude technique et prise en main de Symfony 2
+•                                                                                                            Qualification de Symfony CMF, PHPCR, Jackalope
+•                                                                                                            Compréhension de la problématique
+•                                                                                                            Choix de modules, tests et validation
+•                                                                                                            Conception et paramétrage du modèle de site
+•                                                                                                            Mise en œuvre de modules fonctionnels réutilisables
+-                                                                                                            Workflow de validation des contenus
+-                                                                                                            Gestion des communautés et des sous-communautés
+-                                                                                                            Interfaces WebServices
+•                                                                                                            Recherche de solutions d’intégration avec des outils tiers
+                                                                                                             -  Intégration  de  contenus  provenant  d’applications  métiers             (MASHUP)  :  Symfony/Zend
+Framework,
+                                                                                                             - Intégration de contenus provenant de CMS : Drupal
+- GEID : Alfresco, …
+                                                                                                             - Authentification (SSO) : LDAP, NTLM, …
+•                                                                                                            Mise en œuvre de tests unitaires et de tests fonctionnels sur le socle
+
+
+
+
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée : Stage d'une durée de 6 mois, avec un démarrage le 1er trimestre 2015 ; ce stage doit
+déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure pertinente par rapport au domaine
+d’intervention.
+Lieu  : situé à Nantes (44)
+Réf : PM/Framework
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

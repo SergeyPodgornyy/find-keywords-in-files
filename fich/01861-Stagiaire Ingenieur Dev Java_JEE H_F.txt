@@ -1,0 +1,58 @@
+﻿ATOS RECRUTE UN/UNE STAGIAIRE INGÉNIEUR DÉV JAVA/JEE H/F EN STAGE DE 5 À 6 MOIS.
+Date : 01/12/2014
+Référence de l’offre : 174570-8082700
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Metz 57000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Grâce à son expertise technologique et sa connaissance industrielle,
+Atos sert ses clients dans différents secteurs : Industrie, distribution transports, Secteur public santé, Services
+financiers, et Télécoms, médias services aux collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Mission
+Dans le cadre de développements d'applications J2EE, les équipes Atos sont ammenés à intervenir sur des
+technologies variées : J2EE, IHM basées sur le Framework Struts / GWT, traitements XML / XSL, Web
+services, SQL/PLSQL.
+Dans ce cadre, Atos intervient sur l'ensemble des phases du cycle de réalisation (spécifications, préparation
+de la validation, conception, développement, qualification, déploiement).
+Intégré(e) au sein d'une équipe à taille humaine et encadré par un ingénieur expérimenté, vous participez aux
+différentes phases du développement d'une application. Selon le projet et la version, vous serez amené(e) à :
+Analyser l'existant et les besoins,
+Réaliser le cahier des charges et choisir la solution,
+Rédiger les spécifications et réaliser le prototypage,
+Concevoir et réaliser les évolutions de l'application,
+Définir et réaliser les tests,
+Effectuer le support lors de la recette client.
+
+
+
+
+A  l'issue  de  ce  stage,  le  stagiaire  connaitra  toutes  les  phases  du  cycle  de  réalisation        (spécifications,
+préparation de la validation, conception, développement, qualification, déploiement).
+Profil recherché :
+Profil
+De formation Bac+5 type école d'ingénieurs ou équivalent universitaire, vous bénéficiez d'une première
+expérience en développement JAVA (Struts, Spring) et voulez continuer à évoluer dans les technologies Java
+(Servlet, JSP, EJB), J2EE, Websphere ou Weblogic, Webservices SOAP ou REST, Oracle, Unix.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8082700
+
+
+
+
+

@@ -1,0 +1,44 @@
+﻿CAMPAGNE DE STAGES 2013-2014
+OFFRE DE STAGE
+Référence 303269
+STAGE  - Ingénieur Développement logiciel - «  Adaptation
+comportementale  d ’avatars  »  (H/F)
+Vélizy-Villacoublay (78)
+Recherche technologique et développement
+Dassault Systèmes,  « The  3DEXPERIENCE Company », offre aux entreprises et aux particuliers les univers
+virtuels nécessaires à la conception d’innovations durables. Ses solutions leaders sur le marché transforment
+pour nos clients, la conception, la fabrication et la maintenance de leurs produits. Les solutions collaboratives de
+Dassault Systèmes permettent de promouvoir l’innovation sociale et offrent de nouvelles possibilités d’améliorer
+le monde réel grâce aux univers virtuels. Avec des ventes dans 80 pays, le Groupe apporte de la valeur à plus de
+150 000 entreprises de toutes tailles dans tous les secteurs.
+Pour plus d’informations : www.3ds.com
+Nos solutions  :  3DSWYM,  3DVIA, CATIA, DELMIA, ENOVIA, EXALEAD, GEOVIA, NETVIBES, SIMULIA et
+SOLIDWORKS.
+Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire
+Dans l’organisation 3DVIA Apps, l’équipe Experience For All a pour mission de délivrer des applications 3D « Life
+like » (simulant la vie) utilisables par le plus grand nombre. Une de ces applications permet de créer un avatar
+virtuel.
+Mission(s) du / de la stagiaire -
+Notre application permet de concevoir un avatar. Celui-ci permet ensuite à l’utilisateur d’avoir des expériences
+« lifelike »  dans  une  multitude  de  contextes.  Toutefois,  pour  améliorer  son  adaptation  à  la  variété  des
+environnements auxquels l’avatar pourrait être confronté, un utilisateur doit pouvoir être capable d’ajouter une
+« capacité » à notre avatar et ensuite de l’intégrer avec l’ensemble de ses capacités.
+Le stage consiste donc à réaliser un système simple de définition de postures d’un avatar ainsi que la réalisation
+de transitions réalistes entre ces poses. De plus, il faudra pouvoir intégrer ces poses au sein d’une machine à
+états d’animations préexistante.
+Le stage se déroule en 4 parties : état de l’art, spécifications, développement et industrialisation.
+Profil
+Etudiant(e) préparant un diplôme de niveau Bac+5.
+Spécialité(s)/ Option(s) souhaitée(s) : Informatique
+Compétences techniques attendue(s)/ ou souhaitée(s)
+   Attendue : Connaissance du C++.
+   Souhaitées : notions en animation et en mathématiques 3D.
+Qualité(s) professionnelle(s) attendue(s) / ou souhaitée(s)
+    Motivation et sens du relationnel.
+Contact
+Merci de postuler sur notre site 3DS.com en suivant l’adresse suivante http://www.3ds.com/jobs/
+
+
+
+
+

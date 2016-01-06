@@ -1,0 +1,61 @@
+﻿Offre  de  STAGE:  A4T_SA‐MTL_TST‐01_2014
+STAGE : AUTOMATISATION DES TESTS
+LOGICIELS
+H/F ‐ Lieu : Laval ‐ Durée : 4 mois (mini)‐ Stage Rémunéré
+(Stage niveau bac+3)
+Société  :
+ALL4TEC  est  un  éditeur  logiciel  spécialisé  et  reconnu  pour  ses  outils  de  validation.  De  taille
+humaine,  ALL4TEC  fédère  ses  collaborateurs  autour  de  sa  culture  de  proximité  et  de  son  écoute.
+La  politique  constante  d’innovation  de  la  société  permet  de  séduire  de  grands  groupes  européens
+des  Télécommunications,  Aéronautique,  Automobile,  Ferroviaire  et  Défense.
+Contexte  :
+Depuis  plusieurs  années,  ALL4TEC  développe  et  maintient  plusieurs  outils  logiciels  :
+    MATELO  :  Outil  permettant,  à  partir  d’une  spécification  logicielle,  de  modéliser  un  système  et
+de  générer  automatiquement  les  cas  de  test  nécessaires  à  sa  validation  fonctionnelle.
+   SAFETY  ARCHITECT  :  Outil  permettant  la  génération  semi‐automatique  d’AMDE  et  d’arbres  de
+défaillance.
+Afin  de  garantir  la  qualité  de  ses  produits,  ALL4TEC  est  engagé  dans  une  démarche  d’amélioration
+des  produits  logiciels  utilisés  par  l’ensemble  de  ses  équipes  de  développement.
+1
+
+
+
+
+Offre  de  STAGE:  A4T_SA‐MTL_TST‐01_2014
+Sujet  de  stage  :
+Dans  un  objectif  d’amélioration  de  la  qualité  de  ses  produits,  ALL4TEC  désire  automatiser  les  tests
+réalisés  sur  l’ensemble  de  ses  logiciels.  Pour  cela,  ALL4TEC  souhaite  intégrer  sur  sa  plate‐forme
+d’industrialisation  (Hudson‐Maven‐Sonar)  l’outil  de  test  d’IHM  JUBULA,  optimiser  l’utilisation  de
+cet  outil  et  enrichir  les  bases  de  test  de  MaTeLo  et  Safety  Architect.
+Pour  la  mise  en  œuvre  de  cette  automatisation,  ALL4TEC  recherche  un  stagiaire  motivé,  curieux  de
+nature  et  ayant  des  connaissances  dans  le  test  logiciel.
+Au  sein  de  l’équipe  test  et  sous  la  responsabilité  directe  d’un  ingénieur  expérimenté,  le  stagiaire
+aura  la  charge  des  activités  suivantes  :
+   Réaliser  une  étude  approfondie  de  l’outil  de  test  d’IHM  JUBULA,
+   Adapter  des  scénarii  de  test  existants  (MaTeLo  et  Safety  Architect)  afin  de  pouvoir  les
+exécuter  avec  l’outil  JUBULA,
+   Intégrer  l’outil  JUBULA  sur  la  plateforme  d’intégration  continue  ALL4TEC,
+   Enrichir  la  base  de  test  de  Safety  Architect  et  MaTeLo.
+   Rédiger  la  documentation  associée  à  cette  mise  en  œuvre.
+Bénéfices  pour  le  stagiaire  :
+Au  travers  de  ce  stage,  le  stagiaire  comprendra  les  enjeux  actuels  du  développement  logiciel  et  de
+son  outillage.  Par  ailleurs  il  fera  connaissance  avec  des  nouvelles  techniques  et  méthodologies  qui
+lui  procureront  des  compétences  très  recherchées  sur  le  marché  du  travail.
+Connaissances  demandées  :
+Outil  test  d’IHM,  Test  logiciel.
+Technologies  abordées  durant  le  stage  :
+JUBULA,  Hudson,  Maven,  MaTeLo,  Safety  Architect,  XML,  Scripting.
+Comment  postuler  :
+Candidature  sur  drh@all4tec.net  à  l’attention  de  Mélanie  RAPINE  ‐  Responsable  RH
+Code  stage  :  A4T_SA‐MTL_TST‐01_2014
+ALL4TEC
+6, Rue  Léonard  de  Vinci
+BP  0119
+53001 LAVAL  cedex
+www.all4tec.net
+2
+
+
+
+
+

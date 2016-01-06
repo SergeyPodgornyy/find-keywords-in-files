@@ -1,0 +1,42 @@
+﻿Le 29 Octobre 2014.
+Offre de stage : Développeur d’applications
+La société Cordon Electronics a été fondée en 1989 par son PDG Serge CORDON à Dinan (22- BRETAGNE)
+où est installé son Siège Social ainsi qu’un de ses principaux sites de production.
+En commençant son développement dans la maintenance des équipements de télématique et téléphonie
+filaire, elle s’est orientée vers la réparation des appareils GSM à partir de 1995. Cordon Electronics est
+aujourd’hui reconnue comme l’acteur incontournable de la réparation de mobiles en France.
+En parallèle de ce cœur de métier GSM, CORDON ELECTRONICS s’est développé sur d’autres activités de
+réparation  : écrans plats LCD et plasma, décodeurs numériques et box, produits micro-informatiques,
+réparation  et  service  logistique  dans  le  domaine  PABX  et  autres  matériels  professionnels,  produits
+multimédia.
+www.cordongroup.com
+Vous intègrerez le service Ingénierie R & D du Groupe et serez sous la responsabilité du chef projet.
+Mission :
+Dans le cadre de l’optimisation de notre suivi de production au sein de nos ateliers de réparation, vous
+aurez pour mission le développement d’une application Android sur mobile qui sera à la disposition des
+responsables de production.   Cette application permettra de réaliser un suivi en temps réel de l’activité de
+l’atelier pour les responsables d’activités (Suivi de la production, Suivi des encours, des délais, Suivi du
+traitement d’un produit …). Elle sera en lien avec l’outil de traçabilité interne et permettra, via un scan du
+produit,  de  le  reconnaître  informatiquement                                                                                (grâce  à  la  mise  en  place  d’une  fonction  OCR :
+Reconnaissance Optique de Caractères).
+Pour mener à bien votre mission,   vous devrez respecter un cycle de projet bien précis et complet : Etude,
+Formalisation, Developpement, Test et Mise en production avec les collaborateurs de notre équipe projet.
+Lieux du stage : DINAN (22) à 40 minutes de RENNES (possibilité de co voiturage)
+Compétences techniques nécessaires :
+-                                                                                                                              Langage de programmation tel que JAVA
+-                                                                                                                              Intérêt pour les plateformes mobiles (Android plus précisemment)
+Profil :
+Etudiant(e) en BAC+4/5, en formation Informatique orientée développement application.
+Vous disposez d’une réelle autonomie, d’une réactivité, d’une organisation, d’un bon relationnel (vous
+serez amené(e) à travailler avec plusieurs interlocuteurs internes) et vous êtes force de proposition.
+Le développement, à titre personnel, d’une application serait un plus.
+MERCI DE NOUS TRANSMETTRE OBLIGATOIREMENT UN CV ET UNE LETTRE DE MOTIVATION
+@ : recrutement@cordonweb.com
+ 02 96 85 65 50
+Ce document est la propriété de Cordon Electronics, il ne peut être utilisé, reproduit, ou communiqué sans son autorisation.
+V 08/11/2012.
+
+
+
+
+

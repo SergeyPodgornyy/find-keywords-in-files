@@ -1,0 +1,130 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : CCI Rennes                                                          Adresse : 2 avenue de la préfecture
+Domaine d’activité : Administration                                                       Ville : Rennes
+Représentant de l’entreprise : Antoine CADIEU                                             N° téléphone : 02.99.33.63.43
+Sa qualité : Développeur informatique                                                     N° fax :
+N° de Siret :                                                                             Site Web : www.rennes.cci.fr
+N° NAF :                                                                                  Courriel : acadieu@rennes.cci.fr
+Statut Juridique :                                                                        Signataire de la convention :
+Effectif de l’établissement : 300 personnes
+Nom de l’encadrant de stage : Antoine CADIEU                                              Chargé du suivi administratif :
+Sa qualité : Développeur informatique                                                     Sa qualité :
+Service :   Informatique                                                                  N° téléphone :
+N° téléphone :02.99.33.63.43                                                              Email :
+Email : acadieu@rennes.cci.fr                                                             Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : Informatique ………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+■Licence 3                                                                                13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+■ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+■ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                             2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                             16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                            16 septembre au 27 septembre 2013
+                                                                                                             4 novembre 2013 au 10 janvier 2014
+                                                                                                             17 février 2014 au 11 avril 2014
+                                                                                                             19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                             entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                              entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                           entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé : Mise en place d’un outil de gestion de projet et un outil de suivi de parc
+informatique
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Langage de programmation :   PHP et Ruby
+Environnement : Windows
+Logiciel Open Source type : OCS-GLPI, Redmine
+Sujet proposé détaillé :
+Au sein du Service Informatique de la CCI Rennes, vous aurez pour missions :
+La mise en place d’un outil de gestion de projet (full Web). L’objectif est de fournir un outil permettant
+au chef de projet de réaliser des plannings (type GANTT), de suivre les demandes des utilisateurs et
+de réaliser un suivi de temps. Les phases de ce projet seront :
+- Recensement des besoins
+- Analyse des solutions Open Source existantes (ex : RedMine)
+- Installation et paramétrage
+- Développements spécifiques si besoin
+Evolution  de  la  solution  de  gestion  de  parc  informatique  de  la  CCI  Rennes.  Nous  disposons
+actuellement d’une version de OCS/GLPI adaptée à nos besoins, datant de 2010, sous Windows
+2003. L’objectif du projet est de disposer d’un nouvel outil s’inscrivant dans le cadre de l’évolution de
+notre parc. Les phases de ce projet seront :
+- Recensement des besoins
+- Analyse des solutions Open Source existantes
+- Installation et paramétrage
+- Développements spécifiques si besoin
+Profil :
+- Formation minimum Bac+3 en informatique
+- Connaissance du langage PHP et des Bases Mysql
+- Connaissance de l’environnement Windows et de WAMP
+- La connaissance de Ruby serait un plus
+UNIVERSITE DE RENNES 1                                                                                       TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                        FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                     www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Type de contrat :
+- Stage conventionné à temps complet d’une durée de 4 mois minimum
+- Début du stage souhaité : mars 2014
+- Stage basé au siège de la CCI Rennes (2 avenue de la Préfecture à Rennes)
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 30% du smic                                       Nom de l’Etudiant :
+Modalités de versement :                                                        Diplôme :
+Avantages en nature à préciser : Restaurant
+administratif
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition : 10 mars
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

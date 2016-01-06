@@ -1,0 +1,33 @@
+﻿Ingénieur étude et développement
+en Stage H/F
+Entreprise
+Conserto est une jeune et dynamique société de conseil informatique dans laquelle
+chaque consultant apporte son expertise.
+« Nous travaillons autour d’un modèle attractif consistant à répondre aux attentes de
+nos consultants pour mieux satisfaire nos clients. Ainsi, nous basons nos valeurs sur
+l’humain, la technicité et la convivialité. »
+Poste
+Dans le cadre d’un projet de R&D interne, CONSERTO recherche pour un stage de 6
+mois un élève ingénieur de dernière année en vue d’une pré-embauche.
+Le stagiaire interviendra sur les différentes phases du projet :
+                                                                                       Rédaction de spécifications techniques
+                                                                                       Rédaction de schémas techniques
+                                                                                       Conception et développement
+                                                                                       Test et intégration
+                                                                                       Rédaction des documentations associées
+Profil
+                                                                                        Ayant une première expérience dans le développement, vous maitrisez les technologies
+suivantes :
+                                                                                       Back end : PHP 5, Symfony, Drupal
+                                                                                       Front end : JavaScript, Angular JS, BackBone JS
+Vous disposez d’un tempérament dynamique, autonome, persévérant et curieux ; vous
+pourrez donc participer activement à cette nouvelle aventure !
+Pour postuler : drh@conserto.pro
+CONSERTO
+57 rue des vignerons - 44220 COUERON
+Tél : 02.40.92.11.01 / www.conserto.pro
+
+
+
+
+

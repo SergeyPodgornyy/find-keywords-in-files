@@ -1,0 +1,59 @@
+﻿ISSF / APS
+Stage - Intégration d'un projet de développement .Net dans le domaine
+Assurances et Protection Sociale H/F
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe,
+accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs  métiers  et  systèmes
+d'information. Combinant valeur ajoutée et innovation dans les solutions apportées, qualité industrielle
+et performance des services délivrés, Sopra est le partenaire de référence des grandes entreprises et
+organisations qui recherchent le meilleur usage du numérique pour assurer leur développement et
+leur compétitivité. Le Groupe compte plus de 16 000 collaborateurs et a réalisé un chiffre d'affaires
+2013 de 1,349 milliard d'euros.
+Sopra   est   coté   sur   NYSE   Euronext   Paris.   Pour   plus   d'informations,   retrouvez-nous   sur
+www.sopra.com<http://www.sopra.com>
+Au sein de Sopra, vous êtes rattaché(e) au Marché Assurances et Protection Sociale qui regroupe
+550 collaborateurs et intervient sur les grands projets de transformation métiers et SI de nos clients
+assureurs, Groupes de protection sociale et mutuelles.Nous accompagnons nos grands clients en
+apportant  une  forte  valeur  ajoutée  métier  à  travers  des  prestations  de  Conseil  (optimisation  des
+processus métier et  des organisations, schéma directeur et gouvernance IT…) et des prestations
+d’assistance  à  maîtrise  d’ouvrage  et  d’intégration  de  systèmes                                           (projets  de  développement,
+outsourcing applicatif, intégration de solution) autour notamment de la mobilité, du digital de la BI et
+du big data et core system métier. Si vous souhaitez participer à des projets d’envergure et relever de
+nouveaux challenges, rejoignez-nous et boostez votre carrière professionnelle.
+Au sein de notre agence basée à Orléans, vous interviendrez pour l'un de nos clients dans le domaine
+Assurances & Protection Sociale sur un projet de développement d'une application .Net à forte valeur
+ajoutée.
+Au sein d'une équipe projet jeune et dynamique, vous aurez notamment la responsabilité d'élaborer
+des composants web dans une architecture Microsoft n-couches modernes.
+Vos missions consisteront à :
+- développer en langage .Net
+- réaliser des tests unitaires
+- participer aux campagnes de qualification avant livraison et aux phases de conception technique et
+d'analyse fonctionnelle
+Intérêt du stage
+- participer à un projet de développement d'application à forte valeur ajoutée en technologie .Net
+- approfondir vos compétences en développement .Net dans une équipe d'Ingénieurs confirmés
+- comprendre et mettre en oeuvre une méthodologie d'ingénierie issue d'un processus unifié et agile
+- découvrir le quotidien d'une équipe projet et la gestion d'un projet au forfait
+Environnement technologique/fonctionnel
+Dot Net, C#, ASP.Net MVC, SQL Server, IIS.
+Environnement humain
+Au sein du centre de compétences, vous serez encadré(e) par un Chef de Projet et accompagné(e)
+d'un tuteur durant toute la durée de votre stage.
+
+
+
+
+Profil recherché
+En  dernière  année  d'école  d'Ingénieurs  ou  Master                                                   2  informatique,  vous  avez  déjà  réalisé  des
+développements  dans  le  même  environnement  (programmation  en  .Net,  notions  en  SQL  Server,
+culture des bases de données).
+Vous avez un intérêt et/ou des connaissances fonctionnelles dans les métiers de l'industrie et de la
+logistique.
+Vous faites preuve de qualités rédactionnelles, d'un esprit d'analyse et vous avez le sens du service.
+Vous êtes également autonome, rigoureux (se) et réactif (ve) et possédez un bon relationnel.
+Réf. du sujet : ISSFAPS/ORL/STAGE/924
+
+
+
+
+

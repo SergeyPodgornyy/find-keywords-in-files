@@ -1,0 +1,39 @@
+﻿CATALISIO : BIG DATA / E-COMMERCE
+INCUBATEUR TELECOM PARISTECH
+Stage start-up web : développeur backend H/F
+NOUS
+Hébergée  dans  l'incubateur  d'entreprises  innovantes  de  Télécom  ParisTech,
+CATALISIO  est  une  société  cofondée  par  deux  ex-Sarenza/Fnac  qui  édite  un
+logiciel  SaaS  dédié  à  l'amélioration  du  pilotage  du  SEO  pour  les  sites  e-
+commerce.
+Déjà en contact avec des grands noms de l'e-commerce français et européen,
+nous   sommes   à   la   recherche   d'un   stagiaire   backend   pour   accélérer   le
+développement du produit.
+On parle de nous dans la presse...
+VOUS
+Vous cherchez un stage et vous souhaitez participer au lancement de la V1 d'un
+logiciel SaaS ?
+Vous êtes curieux/se, passionné(e) par le développement web et pour vous il y a
+toujours une solution simple à un problème compliqué ?
+Vous aimez les challenges techniques ? Pour vous « l’héritage » n’est pas qu’un
+legs de votre grand-mère ? Vous avez de bonnes connaissances en Python,   PHP,
+NoSQL, REST/JSON, ou de simples notions mais vous apprenez vite ?
+Vous  rejoindrez  une  équipe  compétente,  complémentaire  et  pédagogue  dotée
+d'une grande expérience du développement logiciel et de l'e-commerce.
+ENVIRONNEMENT DE TRAVAIL
+   Un encadrement exigeant : Ingénieur EPITECH, 10 ans d'expérience
+   Des technos solides et à la pointe : Python, PHP, NoSQL, AWS, GIT
+   Des méthodes éprouvées : SCRUM
+   Un secteur d'activité attractif : BIG DATA / E-COMMERCE
+   Au cœur d'un incubateur d'une trentaine de startups web !
+   Rémunération attractive
+   Paris : à deux pas de Denfert-Rochereau et la Butte-aux-Cailles !
+RENCONTRONS-NOUS !
+Envoyez-nous  un  mail  avec  votre  CV,  et  joignez-y  vos  pseudos  github,
+stackoverflow  ou  toute  autre  preuve  de  votre  passion  pour  le  code  !  (projets
+persos...) C'est par ici : monstagerocks@catalisio.com
+
+
+
+
+

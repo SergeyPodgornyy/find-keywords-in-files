@@ -1,0 +1,63 @@
+﻿Création  d’un  socle  technique  Drupal  (H/F)
+PRÉSENTATION DU STAGE
+ASI  est  une  société  de  Conseil  et  d’ingénierie  créée  en                                   1993,  spécialisée  dans  les
+applications décisionnelles, les portails d’entreprise et les solutions Web 2.0 de collaboration
+et la Gestion de la Relation Client.
+ASI a connu une croissance continue de son chiffre d’affaires depuis sa création, avec 36.1
+millions d'Euros en 2012, (+16 % par rapport à 2011). Implantée dans 10 villes (Paris, Lyon,
+Marseille,  Rennes,  Brest,  Nantes,  Niort,  Tours,  Bordeaux  et  Toulouse),  ASI  offre  la
+possibilité à ses 330 collaborateurs de vivre dans la région de leur choix, et   d’intervenir
+auprès de PME/PMI, de grandes entreprises et de collectivités locales.
+CONTEXTE ET SUJET DE STAGE
+Afin de regrouper et renforcer notre savoir-faire, l'activité PHP est organisée autour d'un
+centre de services dédié basé à Nantes.
+Ce centre de services propose un panel d'offres autour des technologies Linux Apache
+MySQL et PHP, comme:
+   le développement d'applications de type Intranet / Extranet / Internet et mobiles
+(Symfony, Zend Framework),
+   l'intégration de CMS comme Drupal, ezPublish, …
+   l'expertise sur PHP, MySQL (audit technique, conseil)
+   la maintenance de sites ou d'applications web en TMA (tierce maintenance
+applicative)
+Le Centre de Services a pour vocation de traiter aussi bien des projets en assistance
+technique ou en expertis,e que des projets en mode forfait.
+Dans ce contexte varié, aussi bien fonctionnellement que techniquement, nous réalisons
+différents projets et souhaitons améliorer l'industrialisation de nos développements Drupal
+autour d’un socle technique commun.
+SUJET À CONNOTATION FONCTIONNELLE ET TECHNIQUE
+Intégré au centre de services, vous devrez étudier et analyser la conception d’une usine à
+sites, autour du CMS Drupal. Après l’analyse que vous aurez effectuée avec le responsable
+de l’offre Drupal, vous devrez concevoir les socles techniques basé sur Drupal.
+   Etude technique du CMS Drupal
+   Compréhension de la problématique du centre de services
+   Choix de modules, tests et validation
+   Conception et paramétrage du modèle de site
+   Mise en œuvre de modules fonctionnels réutilisables
+  Workflow de validation des contenus
+  Gestion des communautés et des sous-communautés
+  Interfaces WebServices
+  …
+   Recherche de solutions d’intégration avec des outils tiers
+  Intégration de contenus provenant d’applications métiers (MASHUP) :
+Symfony/Zend Framework,
+  GEID : Alfresco, …
+  Authentification (SSO) : LDAP, NTLM, …
+   Mise en œuvre de tests unitaires et de tests fonctionnels sur le socle
+   Réalisation de l’interface de duplication/génération d’un nouveau site
+
+
+
+
+DURÉE ET PÉRIODE THÉORIQUES :
+Durée :  Stage  pour                                                                       6  mois  (durée  à  préciser),  démarrage  dès  que  possible  pouvant
+déboucher sur une proposition d’emploi concrète.
+Profil du  stagiaire  : Idéalement Bac + 5 d’une formation supérieure ou Bac +4 avec une
+année d’alternance à suivre
+Lieu  : situé à Nantes (44)
+Réf : PM/Drupal
+Anne BOMBENGER - www.asi-informatique.fr
+
+
+
+
+

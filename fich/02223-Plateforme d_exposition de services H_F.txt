@@ -1,0 +1,30 @@
+﻿CAPGEMINI RECRUTE UN/UNE PLATEFORME D'EXPOSITION DE SERVICES H/F EN STAGE DE
+5 À 6 MOIS.
+Date : 15/01/2015
+Référence de l’offre : ST-TM-3940-8597075
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                  Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                 2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Le stage se déroulera dans les équipes en charge des études et de la réalisation du déploiement des services.
+Le stage commence par la prise en main de la plateforme d'exposition de services. L'objectif étant d'arriver au
+déploiement et à la validation d'un service tant au niveau fonctionnel qu'au niveau exploitation.
+Les composants d'exploitation (injecteurs, hyperviseur et simulateurs) pourront être amenés à évoluer.
+Profil recherché :
+BAC +5
+Technologies: Architecture SOA, DataPower, Linux, XML, XSL, Cryptographie
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8597075
+
+
+
+
+

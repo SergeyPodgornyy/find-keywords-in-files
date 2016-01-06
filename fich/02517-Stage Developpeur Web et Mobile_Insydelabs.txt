@@ -1,0 +1,31 @@
+﻿Jeune Start up innovante crée en 2011, Insydelabs est la référence de l'Expérience Utili-
+sateur et de l'optimisation de pages web en France. A la fois Editeur d'applications
+expertes et Société de conseil, Insydelabs accompagne les grands comptes, pure play-
+ers, universités et gouvernements dans leurs travaux de design Web.
+Nous souhaitons conserver notre avance technologique et nous recherchons 1 stagiaire
+développeur web et mobile pour faire évoluer notre application phare, Evalyzer
+(http://www.evalyzer.com/) et pour démarrer le développement d'UpGage, application
+innovante qui accélérera le développement de l'entreprise à l'international.
+Pro le recherché                                                                            Missions
+Ecole d'ingénieur ou formation universitaire en                                             Basé à Nancy et rattaché au chef de projet, vous aurez
+informatique, vous avez de bonnes compétences                                               en charge le développement de nos applications ainsi
+en                                                                                          que leur debboggage. Intégré à l'équipe projet, vous
+- Javascript, php (frameworks MVC),
+participerez au planning ainsi qu'aux décisions d'inno-
+- html/css, Java/Android
+vations. Nous recruterons 3 développeurs cette année
+et ce stage peut déboucher sur un CDI.
+Vous connaissez l'environnement
+- Linux et
+- les architectures client/serveur
+Contact
+Vous parlez couramment anglais.
+Evoyez vos CV et lettre de motivation à M. David
+Vous avez des prédispositions au management.
+Boileau, Directeur Général
+Email: david.boileau@insydelabs.com                                                         Des compétences en Objective C/ios sont un plus.
+
+
+
+
+

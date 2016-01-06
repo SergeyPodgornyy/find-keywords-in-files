@@ -1,0 +1,57 @@
+﻿AIRBUS GROUP RECRUTE UN/UNE STAGE / DVT OUTIL DE MONITORING (H/F) EN STAGE 6
+MOIS.
+Date : 01/02/2015
+Référence de l’offre : 10259957 MB FR EXT 1-7786392
+Domaine d’activité : Information systems / Telecom (Systems/Network/Database)
+Type de contrat : Stage
+Localisation : Marignane 13725, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+En 2011, Airbus Helicopters confirme sa position d'hélicoptériste numéro 1 mondial sur les marchés civils et
+parapublics, avec un chiffre d'affaires de 5,4 milliards d'euros et 43 % du marché civil et parapublic. Le
+groupe Airbus Helicopters emploie environ 20.000 personnes. Airbus Helicopters est fortement présent à
+l'international grâce à ses filiales et participations implantées dans 21 pays.
+Description du poste :
+Airbus Helicopters Marignane recherche un(e) stagiaire pour une durée de 6 mois.
+                                                                                                                 Vous  intégrerez  le  département  Web  Solutions  and  Entreprise  Services  qui  compte  une  vingtaine  de
+personnes                                                                                                        (France                                                                                                         -  Allemagne).  Ce  département  est  spécialisé  dans  les  développements  web,  la
+                                                                                                                 collaboration  et  l'intégration.  Le  service  intégration  s'occupe  des  solutions  SOA                                                                                                              (Service  Oriented
+Architecture) déployées au sein d'Airbus Helicopters.
+Dans le cadre de nouveaux projets et pour répondre à de nouvelles demandes, le département souhaite mettre
+en place un outil de Business Activity Monitoring.
+Vous serez chargé(e) de :
+- Mettre en place un reporting fonctionnel
+- Intégrer les CEP (Complex Event Processing) avec un outil, afin de corréler et remonter des évènements en
+temps réel à destination de nos métiers.
+Cette offre de stage est à pourvoir à compter du 2 Février 2015 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Collecter et analyser les demandes et besoins métiers
+- Participer à la mise en place de la plateforme
+- Définir la gouvernance associée
+- Implémenter et tester sur les outils.
+Profil recherché :
+Vous êtes en dernière année d'école d'ingénieur, en master ou université (5ème année) et êtes spécialisé(e) en
+Informatique.
+Vous disposez idéalement d'une première expérience dans le domaine.
+Vous avez des compétences en :
+- Java, XML, SQL
+Vous savez travailler en équipe et avez d'excellentes qualités relationnelles.
+Anglais : niveau intermédiaire
+Français : niveau de négociation
+
+
+
+
+Merci de bien vouloir postuler en ligne en joignant votre CV.
+Airbus Group s'engage pour la Diversité. Nous encourageons toutes les candidatures indépendamment de
+l'origine sociale et culturelle, de l'âge, du genre, du handicap, de l'orientation sexuelle ou des croyances
+religieuses.
+Airbus Group Recruitment Centre
+Pour postuler : http://airbusgroup.contactrh.com/jobs/1536/7786392
+
+
+
+
+

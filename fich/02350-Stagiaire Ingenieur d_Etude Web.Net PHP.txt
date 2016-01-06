@@ -1,0 +1,42 @@
+﻿EXPERIS EXECUTIVE RECRUTE UN/UNE STAGIAIRE INGÉNIEUR D'ETUDE WEB.NET PHP EN
+STAGE DE 6 À 12 MOIS.
+Date : 23/02/2015
+Référence de l’offre : AGXSIEDAM01-8935626
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Lyon 69000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Experis Executive est un cabinet de recrutement de cadres supérieurs et de dirigeants qui associe évaluation,
+motivation et intégration, grâce au savoir-faire de 35 consultants spécialisés par secteurs et métiers.
+Agixis est une société innovante, basée en région Rhône-Alpes, spécialisée dans la conception et la mise en
+œuvre de systèmes critiques et communicants. Nous avons fait de l'innovation le pilier de notre stratégie
+d'évolution pour apporter des solutions M2M novatrices à nos clients. Nous intervenons pour de prestigieux
+grands  comptes  sur  des  solutions  globales  à  hautes  valeurs  ajoutées.  Nous  avons  trois  domaines
+d'intervention qui sont le conseil, les projets d'intégration et l'édition logicielle.
+Dans le cadre du développement de notre centre d'expertise « portails et solutions mobiles » à Lyon, nous
+recrutons  un  stagiaire  qui  pourra  se  spécialiser  dans  le  développement  de  solutions  Web  autour  des
+technologies Microsoft.Net Vous intervenez sur un projet de développement de site e-commerce.
+Description du poste :
+Encadré par un chef de projet et avec le support des équipes techniques, vous participez à l'ensemble des
+phases du projet :
+* Analyse du besoin et des technologies,
+* Définition des normes d'ergonomie,
+* Réalisation de composants graphiques et de template d'IHM,
+* Mise en œuvre des solutions,
+* Réalisation de la documentation technique.
+Profil recherché :
+Ayant pour objectif d'obtenir un diplôme d'ingénieur, vous recherchez votre prochain stage. De formation
+initiale bac+4/5, vous justifiez idéalement d'un premier stage ou d'une première expérience et vous avez
+envie de vous spécialiser en environnement Microsoft .NET (ASP .Net) et Web (JavaScript, AJAX). La
+connaissance de l'HTML 5 est un vrai plus pour réussir ce projet.
+Dynamique, doté d'un excellent relationnel vous avez le sens du service. Vous êtes passionnés par votre
+métier et par les technologies. Vous avez un réel goût du challenge et de l'entrepreneuriat.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8935626
+
+
+
+
+

@@ -1,0 +1,60 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  STAGE  EN
+DÉVELOPPEMENT  .NET  EN  STAGE  6  MOIS.
+Date  :  01/02/2014
+Référence  de  l’offre    :  ST/SB/ITEC95708­5622621
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Système  /  Réseaux  /
+Base  de  Données)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Parce  qu'il  n'y  a  pas  de  succès  collectif  sans  réussite  individuelle,  de  progrès  d'entreprise
+sans  évolutions  personnelles,  Société  Générale  propose  à  chacun  de  ses  collaborateurs
+une  aventure  professionnelle  épanouissante  et  enrichissante,  qui  respecte  la  diversité  des
+talents  avec  plus  de  159  000  collaborateurs  dans  77  pays.
+Description  du  poste    :
+Votre  stage
+Au  sein  de  l'équipe  de  développement  Paris  COLT,  l'objet  du  stage  est  de  travailler  sur  les
+fonctions  de  monitoring  de  l'application  :
+­ Production  d  indicateurs  métiers
+­ Production  d  indicateurs  techniques
+­ Restitution  en  temps  réel  et  sous  forme  de  rapport
+Ainsi  sous  la  responsabilité  de  votre  tuteur,  vous  participez  aux  missions  suivantes  :  étude
+technique,  code,  test.
+Apport  du  stage
+Le  stage  permet  une  immersion  dans  le  monde  de  la  banque  d'investissement.
+En  outre,  Le  sujet  offre  l  opportunité  de  participer  à  un  projet  ambitieux,  et  d  acquérir  une
+vision  transversale  de  l  application.  LE  stage  permettra  aussi  l  expérience  d  intégrer  une
+équipe  de  développement  agile  dans  un  environnement  exigeant.
+Votre  profil
+Vous  êtes  étudiant(e)  de  niveau  bac+5  en  école  d'ingénieur  ou  université  avec  une
+spécialisation  en  informatique.
+Votre  niveau  d'anglais  est  opérationnel  et  vous  avez  une  bonne  connaissance  du  Pack
+Office.
+
+
+
+
+Vous  êtes  à  l'aise  avec  .NET.
+Vous  possédez  un  esprit  d'analyse  et  une  bonne  capacité  de  synthèse  afin  de  traiter  de
+multiples  informations  et  d'accomplir,  avec  succès,  les  travaux  qui  vous  seront  confiés.
+Et  si  c'était  vous?
+Si  votre  CV  est  sélectionné  par  le  recrutement,  vous  rencontrerez  un  opérationnel  pour  un
+entretien  de  motivation.  La  décision  de  vous  recruter  pour  ce  stage  appartiendra  à  ce
+manager.
+Durée  :  6  mois
+Type  :  Convention  de  stage
+Gratifications:  Selon  grilles  Société  Générale
+Profil  recherché    :
+Vous  êtes  étudiant(e)  de  niveau  bac+5  en  école  d'ingénieur  ou  université  avec  une
+spécialisation  en  informatique.
+Votre  niveau  d'anglais  est  opérationnel  et  à  l'aise  avec  .NET.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5622621
+
+
+
+
+

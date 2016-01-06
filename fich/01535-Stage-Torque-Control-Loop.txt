@@ -1,0 +1,47 @@
+﻿Développement et intégration d’une boucle de régulation en couple
+1 / 1
+Sujet
+Conception, développement et validation d’une boucle de régulation en couple.
+Description
+Nos  systèmes  de  vissage  industriels  sont  principalement  basés  sur  des  moteurs  synchrones  asservis  en
+vitesse/courant. Le couple en sortie d’outil est suivi en temps réel pour déterminer la fin du vissage mais aussi la
+qualité de l’assemblage (défaut ou casse de vis, manque de rondelle,…).
+Sur  certaines  applications  spécifiques  et  sur  nos moyens  de  test,  une  régulation  fine  du  couple  de  sortie  peut
+s’avérer nécessaire.
+Votre mission consistera à concevoir, développer et régler une boucle de régulation en couple sur un outil donné de
+la gamme. Il faudra également étudier précisément la stabilité et les supervisions de sécurité à implémenter.
+Une première application sera la mise au point d’une stratégie de maintient en couple.
+Une deuxième application sera la mise au point d’un système de freinage paramétrable pour tester nos outils de
+vissage en cours de développement.
+Si le temps le permet, l’utilisation de ce type de régulation pour des stratégies de vissage avancées pourra être
+étudiée ainsi que son intégration plus complète dans notre gamme de produit.
+Environnement
+Contrôleurs de vissages industriels (www.desouttertools.com), environnement temps réel, développement en C/C++
+sur processeur i.MX27.
+Compétences requises
+Régulation numérique
+Langage C/C++
+Notions de mécanique et d’électrotechnique
+La maitrise de l’UML et/ou d’un OS type Unix serait un plus
+Vous êtes autonome, curieux et créatif et avez de bonnes capacités de synthèse et de présentation.
+Détails pratiques
+Stage de 5/6 mois se déroulant à Nantes au sein du service logiciel de CP Technocenter.
+Rémunération attribuée.
+Contact
+Merci d’envoyer votre CV à
+David Guilloteau
+System Software Manager
+CP Technocenter
+38 rue Bobby Sands ZAC de la Lorie
+44818 Saint Herblain - France
+Phone dir.: +33 (0)2 40 80 28 14 - Fax: +33 (0)2 40 80 20 24
+E-mail: david.guilloteau@cp.com
+Distribution :
+Stage-Torque-Control-Loop.docx                                                                                                                                                                                          5 / 24/09/2014 17:58:00   SUPPORT(s)-CADRE(s) : GEN-001
+Ce document et les informations qu'il contient, sont la propriété de la société GEORGES RENAULT. Ceux-ci ne doivent en aucun cas être communiqués ou transmis à des tiers sans l'autorisation préalable de la société
+GEORGES RENAULT.
+
+
+
+
+

@@ -1,0 +1,59 @@
+﻿HYDRA AGENCY RECRUTE UN/UNE DÉVELOPPEUR ANDROID - HYDRA AGENCY EN STAGE 6
+MOIS.
+Date : 01/09/2014
+Référence de l’offre : Hydra Agency-7276376
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION,  AUCUNE  CANDIDATURE  NE  SERA  PRISE  EN  COMPTE  EN  DEHORS  DU  LIEN:
+http://www.ajstage.com/offre/Developpeur-android-chez-Hydra-Agency
+Hydra Agency est une agence web et mobile.
+Nous pensons que 3 têtes valent mieux qu'une ! C'est pourquoi nous avons allié 3 domaines de compétences afin
+de proposer une offre globale de qualité. Le design, le web et le mobile.
+Un projet web et mobile est avant tout un projet vivant et singulier. Il doit être doté d'un squelette solide
+(développement web), de la capacité de se mouvoir dans son environnement (développement mobile) et d'une
+identité forte pour s'imposer dans son milieu (design). Internet constitue un facteur clé dans la dynamisation et la
+pérennité d'un business.
+Intégré dans nos bureaux à Greenspace, à côté de la Bastille, vous évoluez dans une équipe dynamique de 4
+personnes au sein d'une pépinière d'entreprises. L'ambiance est joviale et vous rencontrez les entrepreneurs de
+demain qui se feront un plaisir de répondre à vos questions entreprenariales.
+Vous participerez au projet de bout en bout de la conception à la réalisation de l'application mobile.
+Conception :
+Recueil et analyse des besoins, étude du système existant (le cas échéant)
+Conception du plan de la structure, maquettage
+Force de proposition sur l'UI/UX
+Estimation de la charge
+Évaluation de l'impact des solutions techniques sur le système actuel
+Développement :
+Rédaction des spécifications techniques
+Analyse et développement des composants
+Tests unitaires, analyse et rédaction du rapport de tests
+Veille technologique permanente
+Veille technologique :
+
+
+
+
+Télécharger et utiliser régulièrement de nouvelles applications.
+Lire des sites sur les nouveautés Android.
+Profil recherché :
+Formation École d'Ingénieurs ou équivalent universitaire Bac+5.
+Bonne connaissance du langage Java, de son environnement et des framework Android. Une petite expérience
+professionnelle sur des projets Android est un plus.
+Un réel plus serait d'avoir publié votre propre application sur le play store.
+Vous êtes curieux, technophile, et vous possédez un esprit d'entreprenariat. Vous souhaitez rejoindre une équipe
+jeune et dynamique au sein d'une entreprise à taille humaine.
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7276376
+
+
+
+
+

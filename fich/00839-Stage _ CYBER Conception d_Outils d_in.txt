@@ -1,0 +1,48 @@
+﻿Stage  /  CYBER  Conception  d'Outils  d’in
+CASSIDIAN  -  An  EADS  Company
+REFERENCE  :  10229215 LB FR
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161064
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION  DU  POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Dans le cadre du développement de son activité, Cassidian CyberSecurity crée des solutions
+innovantes en matière de sécurité. Le but de ce stage consiste à concevoir un outil de collecte et
+d'analyse de données dns et whois.
+Vous travaillerez parmi une équipe d'experts reconnus dans la communauté sécurité.
+Cette offre de stage est à pourvoir à compter du 3 Février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Etudier le fonctionnement des opérateurs de registre Internet,
+- Effectuer une spécification d'une plateforme de collecte de données DNS/whois,
+- Concevoir et développer une plateforme de collecte et d'analyse des données collectées.
+Les livrables attendus sont les suivants :
+- Un point de suivi hebdomadaire,
+- La documentation des outils développés,
+- Un POC permettant de faire la collecte et le traitement des données collectées
+PROFIL  :
+Etudiant(e) bac+5 IT
+Compétences:
+Principes Internet
+Base de données SQL
+Administration linux
+Python
+
+
+
+
+Travaille en équipe et qualités relationnelles
+Anglais:intermédiaire
+POUR  POSTULER  :  http://eads.contactrh.com/jobs/1536/5161064
+
+
+
+
+

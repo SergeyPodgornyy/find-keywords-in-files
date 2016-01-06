@@ -1,0 +1,61 @@
+﻿Stage  en  Business  Analyst
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC93429
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5393878
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Février
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Au sein de cette équipe, vous prenez  connaissance du fonctionnement des applications du
+périmètre, ainsi que des enjeux fonctionnels et techniques.
+Sous la responsabilité de votre tuteur, vous œuvrez  à l évaluation des outils Excel existants
+permettant la vérification du pricing des différents produits. Vous étudiez  les besoins des équipes
+de Business Analysts, de Développement et de Quality Assurance pour concevoir et implémenter un
+outil unifié de validation du pricing. Enfin, à l aide de cet outil, vous participez  à la revue du
+pricing des différents produits du périmètre.
+De plus vous participez également aux tâches de business analysis (analyse des besoins, rédaction
+des spécifications, etc ) sur les applications du périmètre.
+Apport du stage
+Ce stage vous permettra de développer :
+-vos connaissances du monde de la finance
+- le travail en transversal avec plusieurs équipes IT
+- vos connaissances techniques de l'architecture des systèmes supportant la finance de marché
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école de commerce, d’ingénieur ou université avec une
+spécialisation en système d’information avec une option en finance de marché.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+
+
+
+
+Vous êtes à l’aise avec VBA et SQL.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+bac+5 avec une spécialisation en système d’information avec une option en finance de marché.
+Anglais opérationnel.
+Vous êtes à l’aise avec VBA et SQL.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5393878
+
+
+
+
+

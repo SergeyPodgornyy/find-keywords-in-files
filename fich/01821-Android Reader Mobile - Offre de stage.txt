@@ -1,0 +1,59 @@
+﻿Aquafadas est une société innovante, leader sur le marché de l’édition numérique
+sur tablettes et smartphones. Forte des technologies et de l’expérience développées
+au cours de ces années, elle est aujourd’hui parmi les entreprises technologiques en
+plus  forte  croissance  en  Europe.  Aquafadas  appartient  au  Groupe  Japonais
+Rakuten, leader mondial de l’ e-commerce (Priceminister, Viber, Viki…).
+Aquafadas se positionne comme une société de référence partenaire technologique
+des professionnels de l’édition, de la presse et de la communication en général à
+l’assaut du marché numérique. Elle a développé des partenariats privilégiés avec
+des éditeurs comme Bayard, Lagardère, Mondadori, des agences comme Publicis et
+Havas, des entreprises comme Air France, EDF et Véolia, elle est aussi présente
+l’international avec des partenaires comme Cambridge University, Egmont, Shueisha
+et Hürriyet.
+Découvrez les outils Aquafadas gratuitement sur http://www.aquafadas.com.
+Stage (H/F)   - Développeur Android
+Projet:
+Développez une architecture de plugin au sein d’une liseuse
+Au sein de l’équipe Android, vous participerez au développement d’une architecture de
+plugins.
+Nous  souhaitons  activer  ou  désactiver  des  fonctionnalités  au  sein  de  notre  lecteur  de
+magazine enrichi au moment de la compilation ou lors de l’exécution de l’application.
+La réflexion se portera sur l’architecture permettant de sélectionner et de réaliser la mise à
+jour des composants à embarquer dans l’application sans nécessité de republication.
+Ce sujet vous permettra d’approfondir vos connaissances en développement Android et
+d’acquérir des compétences extrêmement solides grâce à :
+L’exposition à des frameworks très riches d’Aquafadas.
+Le besoin de concevoir une architecture logicielle permettant de résoudre des problèmes
+d’extensions de fonctionnalités.
+Votre rôle:
+Aussi vos missions consisteront à :
+Vous imprégner du fonctionnement de la solution de lecture numérique d’Aquafadas sur
+Android et de la bibliothèque de gestion du PDF.
+Créer une architecture de plugin dans un système complexe déjà existant.
+Utiliser le nouveau système de build Gradle intégré dans Android Studio, préconisé par
+Google.
+Votre profil :
+De formation Bac+4 minimum en développement informatique, vous avez un bon niveau en
+Java. La connaissance de l'IDE Android Studio et du SDK Android sont un plus.
+Qualités recherchées:
+Créativité, passion et autonomie.
+Bonne abstraction conceptuelle.
+Exigence visuelle stricte.
+Esprit analytique et rigoureux.
+
+
+
+
+Conditions:
+Stage de 6 mois à pourvoir à partir de Janvier 2015.
+Lieu : Montpellier, Quartier du Millénaire.Gratification de stage selon la loi en vigueur.
+Vous souhaitez participer à l'aventure d'Aquafadas et concevoir la technologie de demain
+dans le domaine de la lecture de livres, magazines, bandes-dessinées, contenus riches sur
+tablettes ?
+N'hésitez plus, rejoignez nous !
+Envoyez nous votre candidature (CV + LM) à l’adresse suivante : stages@aquafadas.com
+
+
+
+
+

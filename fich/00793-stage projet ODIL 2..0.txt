@@ -1,0 +1,50 @@
+﻿Stagiaire Projet ODIL 2.0 : Refonte
+technique du BPMS qualité du groupe
+NEO SOFT
+ENTREPRISE
+Néo-Soft est un groupe d’ingénierie informatique spécialisé en                                          3  domaines principaux : R&D,
+Systèmes d’information et l’infrastructure. Créée il y a 8 ans, nous comptons aujourd'hui plus de 600
+collaborateurs au niveau national.
+POSTE
+Néo-Soft s’est doté d’un Business Process Management System (BPMS) pour le suivi qualité de ses
+prestations, nommé ODIL. Le système étant fonctionnellement mature et stable, nous souhaitons
+migrer ODIL 1.0 sur un socle technique apportant encore plus d’évolutivité et de maintenabilité.
+Les objectifs du stage sont de :
+-                                                                                                       Monter en compétence sur le fonctionnel de l’outil avec l’aide de notre responsable Qualité
+(MOA) et du référent technico-fonctionnel sur ODIL 1.0
+-                                                                                                       Vérifier la compatibilité du socle technique pressenti avec le projet de migration (Silex, Twig,
+                                                                                                        Boostrap Twitter, Doctrine 2, phpExcel, phpWord)
+-                                                                                                       Développer la version ODIL 2.0 suivant nos règles de codage et l’utilisation de notre forge
+                                                                                                        logicielle (intégration continue), les tests unitaires
+-                                                                                                       Effectuer l’homologation technique
+-                                                                                                       Assurer le support à la recette fonctionnelle (réalisée par la MOA)
+-                                                                                                       Rédiger la documentation : spécifications, conception, maintenance, plans de tests, fiches
+                                                                                                        d’exploitation, manuel utilisateur
+-                                                                                                       Construire le chronogramme de MEP (Mise En Production) pour l’outil
+-                                                                                                       Réaliser la MEP avec l’aide du référent technico-fonctionnel ODIL 1.0
+-                                                                                                       Le support technique post-MEP, en coordination avec la MOA
+Environnement technique :
+-                                                                                                       Langage  PHP,  Micro-Framework  Silex,  Twig,  Boostrap  Twitter,  Doctrine                        2,  phpExcel,
+phpWord…
+-                                                                                                       Forge logicielle, outils d’intégration continue
+-                                                                                                       La connaissance d’un outil BPMS est un plus
+PROFIL
+Ce stage est destiné à un étudiant bac+5 à la  recherche d’un stage de fin d’études à partir de mars
+ou avril 2014 pour une durée de 6 mois.
+Compétences attendues :
+-                                                                                                       Bon relationnel, Capacité à formaliser le besoin, et à le transcrire en spécification technique,
+Autonomie
+-                                                                                                       Capacité d’adaptation, prise de recul, autonomie, rigueur
+
+
+
+
+-                                                                       Capacité de travail en groupe, tout en portant la responsabilité de son projet
+Pour postuler, merci d’adresser un CV et une lettre de motivation à :
+stagerennes@neo-soft.fr
+NEO-SOFT, DIFFERENT PARCE QUE VOUS L’ETES.
+
+
+
+
+

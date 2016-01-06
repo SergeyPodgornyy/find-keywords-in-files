@@ -1,0 +1,48 @@
+﻿KANTAR MEDIA RECRUTE UN/UNE STAGE IT KANTAAR MEDIA EN STAGE DE 5 À 6 MOIS.
+Date : 01/04/2015
+Référence de l’offre : stage IT EG-9143161
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Chambourcy 78240, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Le groupe Kantar est l'un des plus grands groupes mondiaux d'étude de marché, en matière de veille et
+d'analyse d'informations à valeur ajoutée. Avec un réseau mondial inégalé de 20 marques leaders dans leurs
+métiers, une présence dans 95 pays, 26 500 collaborateurs, KANTAR propose à ses clients une palette inédite
+d'expertises.
+Le Pôle Ad Intelligence de Kantar Media explore l'ensemble des medias  : Presse, TV, Radio, Internet,
+affichage, cinéma… pour détecter et analyser les stratégies de communication des marques.
+Tracking des investissements publicitaires, analyse des stratégies media, des messages publicitaires et veille
+des créations actualisées en continu : autant de solutions mises au service de nos clients afin de décrypter des
+tendances et des stratégies publicitaires.
+Description du poste :
+Recherchons stagiaire (6 mois) pour accompagner notre chef de projet dans réalisation d'un nouveau site web
+pour nos clients. Cet outil s'attachera à rapprocher les 2 mondes de la publicité : les investissements et les
+créations.
+MISSIONS :
+analyse des besoins.
+Elaborer les spécifications fonctionnelles et l'architecture avec les experts internes.
+Proposer un design innovant (responsive Design, HTML5).
+Développement du site web.
+Profil recherché :
+PROFIL
+Bac  +3,  vous  justifiez  idéalement  d'une  première  expérience  en  développement  de                          3  mois  sur  les
+technologies web et base de données.
+Curieux et autonome, vous êtes capable d'investiguer les problèmes et d'intégrer des nombreux composants
+pour faire fonctionner un système complexe.
+Créatif, vous êtes force de proposition pour faire évoluer l'existant.
+Impliqué, vous savez vous investir dans un projet et aimez travailler en équipe.
+Compétences souhaitées
+- technologies Microsoft .NET (C# - Asp.Net)
+- HTML 5, CSS, javascript, ajax
+- requêtage SQL
+- Développement en couches
+- Méthode Agile.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9143161
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿VALEO  RECRUTE  UN/UNE  STAGE  INGÉNIEUR  H/F  TÉLÉCOMS  &amp;
+RÉSEAUX  EN  STAGE  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  GP/ST/T&amp;R­5554795
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Télécom)
+Type  de  contrat    :  Stage
+Localisation    :  La  Verrière  78320,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Valeo  est  un  Groupe  indépendant  entièrement  focalisé  sur  la  conception,  la  fabrication  et
+la  vente  de  composants,  de  systèmes  intégrés  et  de  modules  pour  l'industrie  automobile,
+principalement  pour  la  réduction  des  émissions  de  CO2.  Valeo  compte  parmi  les  premiers
+équipementiers  mondiaux.  Présent  dans  29  pays,  à  travers  125  sites  de  production,  21
+centres  de  Recherche,  40  centres  de  Développement  et  12  plates­formes  de  distribution,  le
+Groupe  emploie  72  600  collaborateurs.
+La  Diversité  (égalité  Homme  /  Femme,  handicap,  seniors,  nationalités,  etc.)  est  au  coeur
+de  la  politique  de  recrutement  de  Valeo.
+Description  du  poste    :
+Sur  une  base  Cisco  vous  devrez  définir  les  configurations  standards  pour  le  réseau  LAN
+et  WLAN  Valeo  à  appliquer  sur  l'ensemble  des  sites  du  groupe  dans  le  monde  :
+­ Participation  à  la  mise  à  jour  du  catalogue  d'équipements  Cisco
+­ Réalisation  de  procédures  de  configuration
+­ Support  technique  pour  les  sites  Valeo
+­ Participation  aux  projets  d'amélioration  du  LAN  Valeo  (802.1X  ,  QoS,  sécurisation)
+­ Maintien  de  la  documentation
+Vous  devrez  également  suivre  le  bon  fonctionnement  de  l'outil  Rancid  de  gestion  des
+configurations  LAN  :
+­ Suivi  du  déploiement  de  Rancid
+­ Support  technique  aux  sites
+
+
+
+
+­ Analyse  des  remontées  d'inventaire
+­ Amélioration  des  scripts  d'analyse  des  données
+Vous  travaillerez  en  relation  directe  avec  les  responsables  IT  Valeo  dans  les  différents
+pays.
+Profil  recherché    :
+­ Diplômes  :  Bac  +  5  Informatique  /  Réseaux
+­ Profil  :  Ingénieur  Telecom  &  Réseaux
+­ Anglais  impératif
+Pour  postuler    :  http://valeo.contactrh.com/jobs/1536/5554795
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿Stage n°4 du LCE
+Sujet :  Démonstrateur  temps  réel  d'un  système  de  calibration
+dynamique d'une tête stéréoscopique
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser  l’innovation  dans  le  domaine  des  systèmes  embarqués.  Au  sein  du  LIST  le  Laboratoire
+Calcul Embarqué (LCE) est chargé de concevoir et de développer des calculateurs à haut niveau de
+performance (surface, consommation, puissance de calcul) pour les systèmes embarqués.
+Le développement récent de moyens de perception 3D (profondeur) a ouvert la voie à des systèmes
+embarqués capables d’analyser finement leur environnement  (assistance à la conduite, interaction
+homme-machine avancée, etc). La stéréovision (utilisation de deux caméras) offre des performances
+très intéressantes mais nécessite une phase de calibration pour assurer une détection précise de la
+profondeur.  La  calibration  consiste  à  évaluer  la  position  relative  des  deux  caméras,  opération
+coûteuse  en  temps  de  calcul  et  effectuée  le  plus  souvent  au  démarrage  du  système.  Le  LCE  a
+récemment  conçu  une  solution  matérielle  permettant  une  calibration  en  temps-réel  de  la  tête
+stéréoscopique, ouvrant la voie à de nouvelles applications, notamment l’utilisation d’une paire de
+caméras  mobiles.  Nous  proposons  au  candidat  de  développer  une  plateforme  de  démonstration
+mettant en avant cette technologie.
+L’objectif  du  stage  est  d’optimiser  et  d’intégrer  les  briques  matérielles  existantes  sur  une  carte
+matérielle à base de FPGA et d’un processeur embarqué de type ARM. Dans un premier temps, le
+candidat devra mettre en place la chaîne matérielle complète à partir des modules de calcul existants.
+Cela  consistera  notamment  à  la  conception  en  VHDL  de  modules  de  calcul  intensif  et  des
+interconnexions entre ces modules. Le candidat devra ensuite optimiser et intégrer sur le processeur
+embarqué des fonctions logicielles de calcul et de communication. Enfin, la dernière phase consistera
+à la place l’environnement de démonstration et à la caractérisation des performances temps-réel du
+système.
+Mots-clés : Conception matérielle, simulation numériques, adaptation et intégration de code
+embarqué, développement applicatif IHM
+Niveau demandé : Diplôme ingénieur (BAC+5)
+Durée : 6 mois
+Compétences :   Electronique   embarquée,   Architecture   des   systèmes   embarqués,
+Traitement d'images, VHDL, langage C/C++, Linux embarqué
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                               : Mehdi Darouich
+Téléphone                                                                                                         : 01 69 08 60 51
+Email                                                                                                             : mehdi.darouich@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                        Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                    Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                          Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

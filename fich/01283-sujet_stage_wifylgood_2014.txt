@@ -1,0 +1,81 @@
+﻿Présentation de Wifylgood
+Wifylgood est une startup Rennaise spécialisée dans le développement d’applications utiles, développées
+uniquement sur plateformes mobiles.
+Afin de nous accompagner sur différents projets, dont un d’envergure nationale, nous recherchons des
+stagiaires motivés par le domaine des applications mobiles.
+Venez participer au développement d’une société créative et ambitieuse tout en améliorant vos connaissances
+sur le domaine porteur et recherché du développement sur multi-plateformes mobiles.
+Envoyez vos CV et lettres de motivation à cette adresse : contact@wifylgood.com
+Indiquez les dates possible de vos stages, sachant que nous recherchons des stagiaires de mai à fin aout 2014
+Sujet de stage 1 :
+Sous la responsabilité du responsable de la société,   entouré par des ingénieurs expérimentés, nous vous
+accompagnerons sur le développement d’une plateforme web pour un réseau social d’envergure nationale.
+Nous souhaitons améliorer cette plateforme et ajouter de nouvelles fonctionnalités.
+Vous participerez notamment à :
+-                                                                                                               Compléter la définition de l’architecture de la plateforme
+-                                                                                                               Amélioration de la messagerie interne
+-                                                                                                               Ajouter des pages pour les petites annonces
+-                                                                                                               Pouvoir mettre des personnes en lien facilement (aspect de réseau social)
+-                                                                                                               Améliorer l’interface graphique et l’ergonomie associée (CSS)
+-                                                                                                               Ajouter des pages spécifiques pour chaque commune cliente pour accéder au site
+-                                                                                                               La création des outils web nécessaires à cette plateforme
+-                                                                                                               La gestion de bandeaux publicitaires et des statistiques
+-                                                                                                               L’optimisation des données coté serveur
+-                                                                                                               La documentation
+Mots clés : SQL, Phpmyadmin, PHP, CSS, web service, API, serveur, requêtes
+Durée : 2 à 3 mois
+Niveau requis : Issu(e) d’une formation école d’ingénieurs ou universitaire, niveau bac+4 à bac+5, vous êtes
+intéressé(e) par le développement d’un réseau social d’envergure nationale. Vous avez idéalement déjà des
+connaissances sur le monde des réseaux sociaux et le développement web. Vous êtes créatif(ve) et autonome.
+Sujet de stage 2 :
+Dans le cadre d’un projet d’envergure nationale nous avons développé une application mobile sous IOS et sous
+Androïd, ainsi qu’un back office pour l’administration du service, composé d’une BDD et une plateforme web.
+Nous souhaitons désormais améliorer cette plateforme back office   et optimiser le serveur dédié.
+Vous participerez notamment à :
+-                                                                                                               L’optimisation de certaines fonctions existantes sur le serveur dédié
+-                                                                                                               La gestion de l'envoi de notification, correction de bug sur certaines communes, amélioration de l'envoi
+programmé (ajout de tranche horaire, gestion des DOM TOM)
+
+
+
+
+-                                                                                                                                                                                                                                                                                                                                                                                                                            Mettre en place l’interaction avec les comptes facebook et Twitter des mairie, notamment sur l’envoi de
+                                                                                                                  notification, utiliser les API correspondantes
+-                                                                                                                                                                                                                       Ajout de pages spécifique à la version multilangue
+-                                                                                                                                                                                                                                                                                                                                                   création d’une API pour enregistrer les données provenant des communes
+-                                                                                                                                                                                                                                                                                                                                                                                                                            L’ajout de nouvelles fonctionnalités au sein de cette plateforme coté serveur : ajout des fonctions de
+                                                                                                                                                                                                                                                                                 vidéos, d'archivage, organisation des dossiers, services vocaux…
+-                                                                                                                                                                                                                       Amélioration de la plateforme « super administrateur »
+-                                                                                                                                                                                                                                                                                                                                                                                                                            La mise à jour de la BDD existante pour optimisation et mise à jour du document de suivit et schéma
+-                                                                                                                 La documentation
+Mots clés : SQL, Phpmyadmin, PHP, CSS, Joomla, web service, multi-thread
+Durée : 2 à 3 mois
+Niveau requis : Issu(e) d’une formation école d’ingénieurs ou universitaire, niveau bac+4 à bac+5, vous avez
+déjà des connaissances en développement web (PHP) et en bases de données (structure, optimisation,
+requêtes), ainsi que l’architecture de serveurs. Vous avez de plus une bonne culture globale informatique. Vous
+êtes créatif(ve) et autonome.
+Sujet de stage 3 :
+Sous la responsabilité du responsable de la société,   entouré par des ingénieurs expérimentés, nous vous
+accompagnerons sur le développement d’un module de réalité augmentée pour une application mobile
+existante sous iPhone.
+Vous participerez notamment à :
+-                                                                                                                 L’étude et le choix du meilleur environnement de développement pour la réalité augmentée (Qualcom?)
+-                                                                                                                 La mise en place de l’environnement de développement (SDK)
+-                                                                                                                 La création d'une maquette permettant de visualiser la réalité augmentée avec quelques éléments
+-                                                                                                                 La récupération des données à afficher provenant du serveur (requêtes)
+-                                                                                                                 L’insertion d'éléments en 3D dans la vue
+-                                                                                                                 Afficher les éléments en 2D sur une carte
+-                                                                                                                 La mise en place d'un menu pour le choix des éléments affichés
+-                                                                                                                 Autres fonctions iPhone a ajouter dans l'application existante
+-                                                                                                                 La documentation
+Mots clés : iPhone,   réalité augmentée, SDK, java
+Durée : 2 à 3 mois
+Niveau requis : Issu(e) d’une formation école d’ingénieurs ou universitaire, niveau bac+4 à bac+5, vous avez
+déjà des connaissances en développement d'application mobile et en bases de données (structure,
+optimisation, requêtes), ainsi que l’architecture de serveurs. Vous avez de plus une bonne culture globale
+informatique. Vous êtes créatif(ve) et autonome.
+
+
+
+
+

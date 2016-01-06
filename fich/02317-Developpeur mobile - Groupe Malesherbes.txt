@@ -1,0 +1,41 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR MOBILE - GROUPE MALESHERBES EN STAGE DE
+5 À 6 MOIS.
+Date : 09/02/2015
+Référence de l’offre : Developpeurmobile-8819014
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 17è 75017, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION AUCUNE CANDIDATURE NE SERA TRAITEE EN DEHORS DU LIEN SUIVANT :
+http://www.ajstage.com/offre/Developpeur-mobile-chez-Groupe-Malesherbes
+Le groupe Malesherbes appartient à une structure évoluant dans le conseil et l'audit, dans le domaine des
+fonds publics européens.
+Nous collaborons notamment avec les principaux acteurs de la mise en oeuvre des politiques européennes en
+France.
+Dans le cadre du développement d'une application mobile, nous sollicitons les compétences d'un développeur
+PHP/HTML/CSS/JavaScript, pour nous épauler dans la réalisation d'un projet ambitieux : la création d'une
+application mobile multiplateforme  (Android, IOS, Windows Phone) avec Cordova sous le Framework
+Symfony.
+Rattaché au chef de projet web, vous devrez être force de proposition en mettant en valeur votre expertise
+technique.
+Des connaissances en administration de serveur sous Debian sont un plus.
+Profil recherché :
+Vous faites des études supérieures en informatique (en développement web ou applicatif) et recherchez un
+stage pour valider votre année et valoriser vos compétences.
+Vous êtes passionné, avec de solides compétences et avez déjà travaillé dans un projet d'intégration d'un site
+internet ou d'une application mobile.
+Vous êtes force de proposition et savez travailler en autonomie. Vous êtes curieux et rigoureux dans vos
+travaux.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8819014
+
+
+
+
+

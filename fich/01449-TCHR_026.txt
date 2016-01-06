@@ -1,0 +1,125 @@
+﻿Proposition de stage de fin
+Technicolor CH Rennes Snc
+d’études - Année 2014-15
+975 av des Champs Blancs - CS 17616                                                             Tél. + 33 (0)2 99 27 30 00
+35576 Cesson-Sévigné Cedex - France                                                             fax + 33 (0)2 99 27 30 01                        Ref Proposition : TCHR_026
+Intitulé du stage
+TCHR_026 :Développement d’un prototype de service « Voiture connectée » utilisant Qeo/AllSeen
+Résumé du sujet
+Développement d’une application, sous android, fournissant à l’utilisateur un service complet
+et démontrable de voiture connectée.
+Dans une première phase, le stagiaire réalisera un développement logiciel, pour étendre un
+logiciel  de  navigation  sur  tablette  android                                                (OsmAnd)  en  utilisant  les  informations  en
+provenance du véhicule, de capteurs supplémentaires et d‘internet.
+Dans la deuxième phase, le stagiaire participera au développement du business-model et de
+l’approche du marché pour ce service.
+Sujet détaillé
+Contexte
+Technicolor est l’un des créateurs et promoteurs de AllSeen (www.allSeenAlliance.org), le
+protocole de communication de l’internet des objets, Open Source.
+Un des premiers cas d’usage est le développement des futurs services pour la voiture
+connectée, c'est-à-dire capable de communiquer avec tablettes/smartphones, internet,
+mais aussi accessoires et capteurs supplémentaires.
+Buts
+1)  Développer un cas d’utilisation complet, qui puisse servir à la promotion de AllSeen
+auprès des clients et partenaires et à la définition d’une offre de services étendue et
+originale
+2)  Donner au stagiaire l’opportunité de définir ses propres extensions au service et
+d’apporter ainsi sa touche de créativité.
+3)  Participer à l’approche « Business » du service
+Description des travaux
+Les travaux se déroulent sur 3 plans :
+   Business : Compréhension du service du point de vue de l’utilisateur final, des
+rémunérations possibles pour Technicolor, puis de la façon de communiquer autour
+du projet
+   Expérience utilisateur : Définition des informations à communiquer, par qui, quand,
+comment… Choix des modes d’expression
+   Software :   Développement   logiciel   sur   les   différentes   cibles,   tablette,
+éventuellement serveur web.
+Analyse, architecture multi-device, spécification, intégration, test.
+Candidater à stage.rennes@technicolor.com
+
+
+
+
+Proposition de stage de fin
+Technicolor CH Rennes Snc
+d’études - Année 2014-15
+975 av des Champs Blancs - CS 17616                                                                    Tél. + 33 (0)2 99 27 30 00
+35576 Cesson-Sévigné Cedex - France                                                                    fax + 33 (0)2 99 27 30 01    Ref Proposition : TCHR_026
+7 sujets sont définis,
+l’étudiant pourra en choisir 1,
+et/ou, s’il fait preuve de créativité, en proposer un de son invention,
+mais qui reste dans la thématique de la voiture connectée.
+Service 1 : Integration de Hovis dans la voiture connectée.
+Hovis est un service de maison connectée développé par Technicolor.
+Il comporte plusieurs aspects, comme la gestion des alarmes, l’interaction à distance avec
+un visiteur devant la porte…
+Définir  l’interface  utilisateur  spécifique  à  la  voiture  qui  tient  compte  du  fait  que  le
+conducteur doit rester concentré sur la conduite puis développer les modules de l’appli
+Android.
+Service 2 : Phone mode.
+Définir et implémenter dans les couches basses d’Android les méthodes qui permettent au
+véhicule de « prendre le contrôle » du téléphone du conducteur et de lui proposer une
+interface appropriée à la conduite. Par exemple en détournant les « intends »
+Service 3 : Aide à la conduite pour personnes âgées.
+Aider les personnes âgées à conduire de façon sécurisée.
+   Définir une interface utilisateur appropriée
+   pCall : «appel d’urgence en cas de panique »
+   CheckList : Lister et automatiser les préparatifs pour un déplacement
+   Mon  ange gardien  :  En  utilisant  les  informations  du  contexte,  identifier  les
+situations à risque.
+Service 4 : Jeunes conducteurs
+Aider les jeunes conducteurs à conduire de façon sécurisée et rassurer les parents.
+   Définir une interface utilisateur appropriée aux jeunes conducteurs
+   Fournir des statistiques aux parents tout en préservant la vie privée du jeune
+   Mécanisme d’alerte
+   Étendre cette définition sommaire en fonction de sa propre expérience de jeune
+conducteur
+Service 5 : Mes contenus
+Interfacer la tablette avec le véhicule, fournir une interface utilisateur appropriée à la
+conduite, intégrée à la navigation, qui permette la synchronisation de fichiers audio/vidéo
+de l’utilisateur, éventuellement dans le cloud, les jouer sur les hauts parleurs du véhicule,
+et le streaming de la vidéo sur plusieurs tablettes de façon synchrone. Utiliser par exemple
+VLC ou XBMC.
+Service 6 : Parking de rue
+Lorsqu’un véhicule est stoppé dans une rue à parcmètre, prévenir le conducteur des
+modalités et, si possible, réaliser un paiement sur internet ou par SMS.
+Fournir quelques services associés (radar pour retrouver le véhicule, statistiques…)
+Prototyper le service et si possible le tester en réalité.
+Candidater à stage.rennes@technicolor.com
+
+
+
+
+Proposition de stage de fin
+Technicolor CH Rennes Snc
+d’études - Année 2014-15
+975 av des Champs Blancs - CS 17616                                                          Tél. + 33 (0)2 99 27 30 00
+35576 Cesson-Sévigné Cedex - France                                                          fax + 33 (0)2 99 27 30 01    Ref Proposition : TCHR_026
+Service 7 : Outil de création vidéo
+Développer un outil qui permette la fabrication facile et conviviale de vidéo pour la
+promotion des services de voiture connectée. L’utilisation de blender, OpenStreetMap et
+Sketchup peut être envisagée.
+Mots clés
+Voiture connectée, Linux, Android, iOS, Internet of Things, application, service, network,
+embedded, User Experience
+Environnement de travail
+Linux, android, iOS, eclipse, C/C++, Java.
+Profil du stagiaire / Compétences requises
+BAC+4 / BAC+5
+User-oriented mindset
+Communication
+System architecture
+Embedded/real-time software development
+High-level Application
+User-Interface and design
+Testing
+Durée et période du stage
+Minimum 2 mois, idéalement 6 si on veut être créatif.
+Candidater à stage.rennes@technicolor.com
+
+
+
+
+

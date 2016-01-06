@@ -1,0 +1,50 @@
+﻿Détection d’une corde à la surface d’une rivière
+Objectif
+Le but du stage est de développer une méthode permettant d’extraire,  à partir d’images ou de séquences
+d’images prises au bord d’une rivière, la position d’une corde tendue en travers de l’écoulement.
+Contexte
+L’équipe Hydraulique des rivières du centre Irstea de Lyon-Villeurbanne mène des recherches, notamment
+dans le domaine de l’hydrométrie.  Une méthode originale de mesure du champ de vitesse à la surface d’un
+écoulement est de tendre une corde en travers, puis de quantifier la déformation subie du fait de l’écoulement.
+La présences d’objets flottants (feuilles, etc.) et de reflets rend la détection parfois difficile.
+(a)                                                                                                                 (b)
+Figure 1: Image d’une corde en travers d’un écoulement, et détection de cette corde
+Réalisations attendues
+L’objectif du stage est de proposer une méthode automatique permettant de détecter la corde sur une image
+ou une séquence d’images, puis de proposer une interface dédiée à l’interaction avec l’utilisateur (choix du
+paramétrage, analyse des résultats).
+Dans une première partie, il conviendra de tester une ou des méthodes classiques de détection : croissance
+de région, contour actif, . . . afin soit de déterminer la méthode la plus adaptée aux images, soit de laisser la
+possibilité à l’utilisateur de choisir la méthode en fonction des données.
+Dans un deuxième temps, la ou les méthodes seront étendues au cas de séquences d’images, où le résultat
+obtenu pour une frame t pourra servir de résultat à la frame t + 1.
+Les résultats obtenus seront évalués en comparaison avec des références manuelles pour la détection dans
+l’image, et avec des mesures effectuées par d’autres méthodes hydrométriques.
+Enfin, le stagiaire créera une interface utilisateur pour lui permettre de gérer des images et/ou séquences
+d’images, de régler le paramétrage et de lancer les traitements, puis de produire les résultats.
+Le stagiaire pourra s’appuyer sur une base de code existante en C++ qui comporte des éléments de gestion
+et de traitement des images ainsi qu’une interface de visualisation.  Une version sous R du code des post-
+traitements (passage de la corde aux vitesses) est également disponible.
+1
+
+
+
+
+Profil recherché
+Niveau master 2 ou fin d’école d’ingénieur.  Le stagiaire doit maˆıtriser un langage de programmation infor-
+matique orienté objet (de préférence C++) et avoir des connaissances en traitement d’images et de données.
+Un goût pour le travail pluridisciplinaire serait un plus.
+Encadrants / contact
+L. Pénard. Tél.  04.72.20.86.17. lionel.penard@irstea.fr
+J. Le Coz. Tél.  04.72.20.87.86. jerome.lecoz@irstea.fr
+Renseignements complémentaires
+Durée du stage:  5 à 6 mois, début prévu en mars ou avril 2015.
+Le stage s’effectuera  à l’Unité de Recherche Hydrologie-Hydraulique d’Irstea Lyon,  5  rue de La Doua  -
+CS70077, 69626 Villeurbanne Cedex
+Gratification : de l’ordre de 436,05 e/mois (montant 2014)
+2
+
+
+
+
+

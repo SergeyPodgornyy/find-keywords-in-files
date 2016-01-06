@@ -1,0 +1,40 @@
+﻿Stage  / Simulateur de Mobiles  (h/f)
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10228622
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4671151
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 06/01/2014
+DUREE  :  6 mois
+SECTEUR  :  Industry (Aeronautical/Spatial)
+FONCTION  :  Information systems / Telecom (Systems/Network/Database)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Cette offre de stage est à pourvoir à compter du 6 janvier 2014 (sujette à une certaine flexibilité).
+Dans le cadre d'un projet R&D, vous participerez à la réalisation d'un outil de simulation pour tester
+la nouvelle plateforme de l'Access Network d'un réseau PMR VoIP.
+Le défi de ce projet réside d'abord dans la prise en compte de la définition des besoins et la prise de
+connaissance des mécanismes de l'Access Network et de l'AIR Interface Tetrapol , puis dans la
+définition et la réalisation de l'outil de simulation de mobiles.
+Cet outil pourra s'appuyer sur le portage de briques déjà existantes ou être totalement développé.
+Le projet débutera par l'analyse des exigences puis se poursuivra par la réalisation d'une partie des
+développements de l'outil de simulation et se conclura par la présentation des résultats à un
+auditoire averti.
+PROFIL  :
+ingénieur, université (5ème année), spécialisé(e) Télécomm et Réseaux
+compétences :
+Réseaux, IP
+Langage C
+Linux
+travaille en équipe, qualités relationnelles.
+Anglais:avancé
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4671151
+
+
+
+
+

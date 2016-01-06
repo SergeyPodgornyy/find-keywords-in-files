@@ -1,0 +1,120 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : ELIGA                                                       Adresse : Maison de la Technopole, 15 rue du Chêne Germain
+Domaine d’activité : Editeur logiciel internet                                    Ville : Cesson-Sévigné
+Représentant de l’entreprise : Alain Papazoglou                                   N° téléphone : 06 71 90 85 16
+Sa qualité : Fondateur                                                            N° fax :
+N° de Siret : 445168388 00020                                                     Site Web : http://eliga;fr
+N° NAF :                                                                          Courriel : alain@eliga.fr
+Statut Juridique : SAS (au 31 mars 2014)                                          Signataire de la convention : Alain Papazoglou
+Effectif de l’établissement : 2
+Nom de l’encadrant de stage : Alain Papazoglou                                    Chargé du suivi administratif :   IDEM
+Sa qualité : Fondateur                                                            Sa qualité :
+Service :                                                                         N° téléphone :
+N° téléphone :   06 71 90 85 16                                                   Email :
+Email : stage@eliga.fr                                                            Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : R&D
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): Cesson-Sévigné
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+X Licence 3                                                                       13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                    8 semaines minimum à partir du 5 mai 2014
+X MIAGE                                                                           13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+X Spécialité MIAGE                                                                du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                   du 10 mars 2014 à fin août 2014
+X Spécialité GL                                                                   du 10 mars 2014 à fin août 2014
+X Spécialité   MITIC                                                              du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                du 10 mars 2014 à fin août 2014
+X Spécialité Recherche                                                            du 3 février 2014 à fin juin 2014
+                                                                                  Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+X Spécialité   CCI                                                                du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                       2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                       16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                      16 septembre au 27 septembre 2013
+                                                                                                       4 novembre 2013 au 10 janvier 2014
+                                                                                                       17 février 2014 au 11 avril 2014
+                                                                                                       19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                        entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                     entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET DU STAGE :
+Titre du stage proposé :
+Développement d’applications web multi-écrans HTML5 - JavaScript
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+PC / MAC / linux
+Sujet proposé détaillé :
+Eliga développe des applications web multi-écrans dans l’objectif de faciliter les interactions avec
+les grands écrans (TVs, vidéo-projecteurs, écrans dans la rue) à partir des mobiles, tablettes et
+nouveau objets connectés (Google Glass, montres connectées…
+Site web Eliga : http://eliga.fr
+YouSlide,  notre  première  application  multi-écrans,  permet  de  réaliser  des  présentations
+interactives et d'interagir en temps réel avec son auditoire. Le présentateur peut dynamiser sa
+conférence grâce à des quiz ou des votes envoyés au public. Le public peut également réagir à
+la conférence en envoyant des questions et commentaires à l’orateur. Le grand écran affiche en
+temps réel ces interactions et le résultat des votes ou quiz.
+Site web YouSlide : http://youslide.net
+Au cours de ce stage votre principale mission sera de développer de nouveaux modules autour
+de l’application multi-écrans YouSlide. Vous utiliserez essentiellement le langage javascript mais
+aussi les langages html5 et css3
+Vous êtes actuellement en école d’ingénieur ou équivalent, vous êtes spécialisé en informatique
+et passionné par les technologies du web, avec une préoccupation permanente des besoins de
+l’utilisateur final. Vous souhaitez effectuer un stage d'une durée de 6 mois au sein d'une StartUp
+ambitieuse sur des application et usages innovants. Alors n’hésitez pas à venir postuler pour un
+stage chez Eliga.
+INFORMATIONS COMPLÉMENTAIRES :
+UNIVERSITE DE RENNES 1                                                                                 TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                  FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Indemnité mensuelle (nette) :                                                                      Nom de l’Etudiant :
+Modalités de versement :                                                                           Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition : fin février 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui via stage@eliga.fr
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

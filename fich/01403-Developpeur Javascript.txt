@@ -1,0 +1,57 @@
+﻿SMALL IZ BEAUTIFUL RECRUTE UN/UNE DÉVELOPPEUR JAVASCRIPT EN STAGE DE 3 À 12 MOIS.
+Date : 13/05/2014
+Référence de l’offre : Pocket_Result-6396309
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : PARIS 75000, FR
+Durée du contrat : De 3 à 12 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Rejoignez Pocket Result, notre Start up B to B et son équipe de développeurs !
+Pocket Result conçoit et développe des applications et des plateformes collaboratives pour les métiers du
+marketing. Nos technologies sont innovantes, très pointues, voire complexes, et pourtant,... ultra simples à utiliser
+pour nos clients !
+Description du poste :
+Rejoignez Pocket Result, notre Start up B to B et son équipe de développeurs !
+Pocket Result conçoit et développe des applications et des plateformes collaboratives pour les métiers du
+marketing. Nos technologies sont innovantes, très pointues, voire complexes, et pourtant,... ultra simples à utiliser
+pour nos clients !
+Voici le challenge que vous allez relever !
+Pocket Result propose un savoir-faire unique au service d'une promesse : enfin de la mesure de performance
+marketing pensée pour les opérationnels.
+Hébergés au sein d'une SSII Internationale de plusieurs centaines de collaborateurs, nous travaillons dans des
+conditions motivantes, pour des marques prestigieuses (Adidas, L'Oréal, Picard Surgelés, Séphora...) et c'est
+notamment pour cela que nous sommes en expansion. Dans le cadre de notre développement, nous recrutons :
+un Développeur Javascript (H/F)
+Missions :
+Vous êtes passionné(e) par les techniques de développement web innovantes et le responsive design ?
+Vous souhaitez faire un stage de développeur JavaScript ?
+Directement rattaché au directeur technique, vos Missions sont les suivantes :
+- Configuration de A à Z de nos produits
+- Développement d'une application web dynamique avec JavaScript, Html et CSS.
+- Administration de serveurs Linux et de bases de données.
+- Intégration de projets clients
+Vous allez apprendre à gérer des bases données NoSQL, à mettre en oeuvre un cycle de déploiement rapide
+d'applications web, des frameworks JavaScript MVC  (backbone.js et ember.js), ainsi que notre plateforme
+serveur développée grâce à node.js
+Profil recherché :
+Autonome et responsable vous êtes étudiant(e) en école d'informatique et passionné(e) par le développement des
+techniques web innovantes. Vous avez le sens du détail et êtes sensibles à la qualité du code. Vous êtes également
+intéressé(e) par le web design. Curieux, vous êtes motivé(e) pour intégrer une équipe et progresser sur le long
+terme.
+
+
+
+
+Les étudiants(es) sont également les bienvenus(es)
+Informations complémentaires :
+Début de la mission : Dès que possible selon la disponibilité
+Type de contrat : Stage (au moins 3 mois) ou alternance
+Localisation : Paris possibilité de télétravail avec rendez-vous d'équipe réguliers
+Pour postuler : http://smalliz.contactrh.com/jobs/1536/6396309
+
+
+
+
+

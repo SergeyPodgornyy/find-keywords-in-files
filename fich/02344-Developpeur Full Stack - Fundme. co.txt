@@ -1,0 +1,62 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEUR FULL STACK - FUNDME. CO EN STAGE DE 5 À 6
+MOIS.
+Date : 13/02/2015
+Référence de l’offre : devfullstack-8851818
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 2è 75002, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION AUCUNE CANDIDATURE NE SERA TRAITEE EN DEHORS DU LIEN SUIVANT :
+http://www.ajstage.com/offre/Developpeur-Full-Stack-chez-Fundme
+1ère  plateforme  française  de  mise  en  relation  entre  startups  prometteuses  en  recherche  de  fonds  et
+investisseurs qualifiés (Business Angels avertis fonds d'investissement).
+Fundme fait se rencontrer investisseurs et startups en fonction des critères de chacun. Une sorte d'AngelList à
+la française, qui a permis de réaliser de belles levées de fonds depuis Janvier 2014 !
+Lauréat des  #101Projets et actuellement incubés au sein de l'incubateur Paris Finance Innovation, nous
+recherchons de nouveaux talents pour renforcer notre équipe technique et révolutionner l'écosystème startups
+avec nous !
+Offre à pourvoir dans le cadre d'un stage/CDD de fin d'études/pré-embauche:
+Une nouvelle plateforme est en cours de développement, codée à 95%, celle-ci sera très communautaire.
+La principale mission sera de nous aider dans le développement de notre API.
+Vous interviendrez également sur:
+La conception de nouvelles fonctionnalités sur la plateforme,
+Et la résolution des problématiques liées à l'organisation de notre data via des bases de données SQL/NoSQL.
+Technologies à maîtriser :
+Environnement UNIX
+Git
+PHP + POO + Zend 2 (framework MVC)
+PostgreSQL (ou MySQL)
+HTML5 + CSS3 + Javascript
+Les plus qui vont nous faire craquer :
+
+
+
+
+Docker addict
+Framework MVC Javascript (ReactJS, EmberJS, AngularJS, etc)
+SEO Junkie
+Ce que nous proposons:
+Stage/CDD de pré-embauche
+Équipe jeune, hyper-motivée et dynamique
+Locaux en plein coeur de Paris
+Forte ambiance start-up (au sein d'un incubateur dossiers + visites de start-ups au quotidien)
+Profil recherché :
+Profil idéal :
+Tu es fan de nouvelles technologies et tu ne jures que par ton shell (Oh My Zsh !)?
+La POO et le MVC n'ont plus de secret pour toi?
+PostgreSQL et MongoDB sont tes meilleurs amis quand il faut traiter toutes sortes de données et ta première
+pull request sur Github a été acceptée?
+Alors viens te surpasser et rejoins-nous!
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8851818
+
+
+
+
+

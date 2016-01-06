@@ -1,0 +1,35 @@
+﻿Date :Fri, 7 Feb 2014
+Stage développement application iphone
+La société Aladom est une start-up basée en centre-ville de Rennes (bureaux très sympa à
+5mn à pieds de la gare, à côté du TNB).
+Aladom propose un site internet qui permet de trouver des prestataires de services à
+domicile (ménage, garde d'enfants, soutien scolaire...)
+Nous avons aujourd'hui une application iPhone et nous souhaitons la faire évoluer.
+Dans le cadre du stage, vous travaillerez avec notre équipe pour mettre au point une
+nouvelle version de notre application.
+Enthousiaste, curieux et dynamique, vous êtes ouvert et vous aimez échanger.
+Programmeur dans l’âme, polyvalent, vous jonglez avec les interfaces utilisateurs et le
+codage.
+Vous connaissez parfaitement Javascript, HTML5, JQUERY Mobile, SQL... et vous avez au
+moins une expérience dans un environnement mobile (Xcode iOS, Android SDK, Phonegap,
+Titanium…).
+Vous êtes capable de trouver des solutions techniques les plus adéquates sur des
+problématiques complexes.
+Niveau(x) d'études
+Bac +5 - Bac +3/+4 - Bac +2 - Bac
+Contact :
+job@aladom.fr
+09 51 71 04 14
+--
+Guillaume THOMAS    guillaume.thomas@aladom.fr
+CEO
+Fr : +33.6.20.27.08.88
+USA : +1 941 306 1026
+France : 6 Rue Alain Gerbault, 35000 Rennes
+USA : 7319 Captain Kidd Av, Sarasota FL 34231
+www.aladom.fr - www.aladom.com - www.aladom.de
+
+
+
+
+

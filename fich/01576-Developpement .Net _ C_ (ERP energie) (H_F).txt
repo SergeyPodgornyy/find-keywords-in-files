@@ -1,0 +1,56 @@
+﻿ATOS RECRUTE UN/UNE DÉVELOPPEMENT .NET / C# (ERP ÉNERGIE) (H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175201-7741141
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : France 95870, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres aux nouvelles technologies afin de satisfaire la demande
+croissante de solutions.
+Description du poste :
+Atos développe pour un acteur majeur du monde de l'énergie , un ERP (un outil de gestion intégré : gestion
+de la chaine logistique, outils décisionnels, reporting, gestion financière).
+Ntic :
+Microsoft Dynamics NAV, Visual Studio, .Net, C#, SqlServer..
+Le stage proposé est une excellente opportunité pour découvrir et assimiler les outils, techniques et process
+d'un projet de développement. Il sera aussi l'occasion de monter en compétence sur MS Dynamics NAV, un
+des progiciels leader du marché des ERP.
+Profil recherché :
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce pôle conçoit et développe des
+applications de CRM pour de nombreux clients, dans de nombreux contextes métiers et technologiques.
+Le but du stage est de participer aux évolutions apportées au logiciel de CRM
+· Participation à l'analyse du besoin
+· Etude d'impact
+· Réalisation
+· Participation aux tests
+Vous  serez  intégrés                                                                                                  (es)  à  l'équipe  de  réalisation,  constituée  d'architectes  techniques,  de  concepteurs
+fonctionnels, de développeurs et de recetteurs. Cette équipe travaille en forte proximité avec le client, pour
+
+
+
+
+maintenir et faire évoluer cette application CRM structurante.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7741141
+
+
+
+
+

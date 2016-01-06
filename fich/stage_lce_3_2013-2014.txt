@@ -1,0 +1,53 @@
+﻿Stage n°3 du LCE
+Sujet : Prototype de chaine de traitement pour l’évitement d’obstacle
+sur véhicule robotisé
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser  l’innovation  dans  le  domaine  des  systèmes  embarqués.  Au  sein  du  LIST  le  Laboratoire
+Calcul Embarqué (LCE) est chargé de concevoir et de développer des calculateurs à haut niveau de
+performance (surface, consommation, puissance de calcul) pour les systèmes embarqués.
+Au sein du laboratoire un domaine d’application important est la vision embarqué. L’avènement de
+drones autonomes soulève des défis important pour la chaine de traitement requis pour maitriser la
+trajectoire en toute circonstance.
+Deux maillons indispensable de cette chaine sont la détection d’obstacle et le control & commande
+associé au pilotage du drone. Le CEA dispose de différentes algorithmes d’interprétation d’image et a
+un  background  important  concernant  les  systèmes  de  contrôle  temps-réel  avec  sureté  de
+fonctionnement.
+L’objectif  du  stage  est  de  travailler  sur  une  optimisation  conjointe  de  ces  deux  étapes  et  un
+prototypage sur drone quadri-copter robotisé.
+Après la prise en main de l’environnement de développement temps-réel, la première phase du stage
+sera dédiée à la mise au point da la chaine de traitement et de l’optimisation conjointe des différentes
+étapes. Ensuite un portage devra être réalisé sur le drone qui sera composé d’une plateforme avec
+caméra embarqué et d’une carte de traitement reconfigurable (FPGA). Les contraintes de ressources
+embarquées peuvent impliquer une modification des algorithmes proposés ou de leur implémentation
+afin de garantir le fonctionnement en temps réel. La performance obtenue avec cette solution sera
+directement démontrable avec le prototype sur véhicule robotisé.
+Moyens : Développement C et VHDL, portage de code sur Linux embarqué et FPGA, prise
+en main véhicule robotisé, développement applicatif démo
+Niveau demandé : Diplôme d’ingénieur   (BAC+5)
+Durée : 6 mois
+Compétences :   Electronique   embarquée,   Architecture   des   systèmes   embarqués,
+Traitement d'images, VHDL, langage C/C++, Linux embarqué
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                            : Thomas DOMBEK
+Téléphone                                                                                                      : 01 69 08 00 66
+Email                                                                                                          : thomas.dombek@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                     Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                 Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                       Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

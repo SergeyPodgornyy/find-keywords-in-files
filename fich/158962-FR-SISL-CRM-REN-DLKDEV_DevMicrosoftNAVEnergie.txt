@@ -1,0 +1,64 @@
+﻿Développements .Net / C# dans un projet d’ERP (énergie)
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+collaborateurs dans 47 pays, fournit à
+Contexte :
+ses clients du monde entier des services
+Atos développe pour un acteur majeur du monde de l’énergie (France,
+transactionnels de haute technologie,
+Europe, monde) un ERP (outil de gestion intégré : gestion de la chaine
+des solutions de conseil, d’intégration de
+logistique, outils décisionnels, reporting, gestion financière).
+systèmes et d’infogérance.
+Atos délivre les technologies qui
+Mission :
+accélèrent le développement de ses
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce
+clients et les aide à réaliser leur vision de
+pôle conçoit et développe des applications de CRM pour de nombreux
+l’entreprise du futur. Atos est le
+clients, dans de nombreux contextes métiers et technologiques.
+partenaire informatique mondial des
+Jeux Olympiques. Le Groupe est coté sur
+Le but du stage est de participer aux évolutions apportées au logiciel de
+le marché Eurolist de Paris et exerce ses
+CRM
+activités sous les noms d’Atos, Atos
+    Participation à l’analyse du besoin
+Consulting & Technology Services,
+    Etude d’impact
+Worldline et Atos WorldGrid.
+    Réalisation
+Pour plus d’information : atos.net
+    Participation aux tests
+Ce stage est basé à Rennes
+Vous serez intégrés à l’équipe de réalisation, constituée d’architectes
+Si ce stage vous intéresse,
+techniques, de concepteurs fonctionnels, de développeurs et de recetteurs.
+déposez votre candidature à l’adresse
+Cette équipe travaille en forte proximité client à maintenir et à faire évoluer   suivante :
+cette application CRM structurante.                                               http://fr.atos.net/fr-
+                                                                                  fr/emplois_carrieres/postulez
+Environnement technologique :
+Microsoft Dynamics NAV, Visual Studio, .Net, C#, SqlServer..                      ou contactez: Jean-Charles.Coeuru@atos.net
+                                                                                  Référence du stage : 158962
+Objectifs pédagogiques :
+Le stage proposé est une excellente opportunité pour découvrir et
+assimiler les outils, techniques et process d’un projet de développement. Il
+Qui êtes-vous ?
+sera aussi l’occasion de monter en compétence sur MS Dynamics NAV, un
+des progiciels leader du marché des ERP.
+De formation Bac+4-5 en informatique
+(Ecole d’ingénieur ou université) en
+cours de validation, vous recherchez un
+stage d’une durée de 6 mois (dates
+variables selon l’école et la formation
+en cours)
+
+
+
+
+

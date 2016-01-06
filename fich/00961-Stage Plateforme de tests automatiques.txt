@@ -1,0 +1,60 @@
+﻿Stage  Plateforme  de  tests  automatiques
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC93306
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5356362
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Janvier
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+L application Multipass est une application temps réel gérant la connectivité vers les plateformes de
+trading électronique et le cycle vie des négociations de trading sur le Forex (Spot, Swap, Option)
+Vous prenez connaissance du fonctionnement de l application Multipass, de ses enjeux fonctionnels
+et de performance. Vous participez ensuite à l évaluation des outils de tests en place et à la
+proposition de mise en place de nouvelles fonctionnalités. Sous la responsabilité de votre tuteur,
+vous avez pour mission le développement de cette application Java et de sa validation sur des
+données de test.
+Vous œuvrez à faire des  propositions sur les solutions proposées. Il travaillera avec l aide de l
+équipe (9 développeurs) et des architectes pour les choix techniques.
+Apport du stage
+Ce stage vous permettra de développer :
+-Vos connaissances du monde de la finance
+- Vos connaissances de l'IT
+- Le travail au sein d'une équipe en entreprise.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+4/5 en école de commerce, d’ingénieur ou université avec une
+spécialisation en système d’information.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+
+
+
+
+Vous êtes à l’aise avec JAVA .
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+4/5 en spécialisation en système d’information.Votre niveau
+d’anglais est opérationnel.Vous êtes à l’aise avec JAVA .
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5356362
+
+
+
+
+

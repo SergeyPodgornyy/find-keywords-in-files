@@ -1,0 +1,36 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 : Développement d'un banc de test pour produits
+SATCOM (H/F)
+Réf. 1416646
+Lieu : Thales Communications & Security - Cholet (49)
+Durée : env. 6 mois
+Contexte et missions :
+Thales, leader mondial des systèmes d'information critiques sur les marchés de la défense et de la sécurité recherche
+pour  son  activité  Communications  (Thales  Communications  &  Security),  un/une  stagiaire  pour  l'unité  PSC  (Pôle
+SatCom Cholet) du site de Cholet.
+Au  sein  de  l'équipe  d'intégration  et  de  soutien  des  produits  modems  SatCom  (communication  par  satellite),  le/la
+stagiaire participera aux différentes tâches de l'activité :
+- Evolution d'un banc de production de modems SatCom sous séquenceur TestStand de National Instrument
+- Ecriture de scripts et scénario en Python et C pour piloter le modem sous test (Linux embarqué) et les appareils de
+mesure via Ethernet et SNMP
+- Evolution d'une IHM développée sous Qt en Python
+-  Etude  d'intégration  d'outils  extérieurs  ou  développement  d'une  solution  permettant  de  construire  une  base  de
+données et générer des tableaux et courbes de résultats
+Profil et connaissances souhaitées :
+Stage Bac+5
+Compétences en développement logiciel (python, C, base de donnée)
+Connaissances sur les réseaux informatiques et les technologies de communication par satellite
+Autonomie, rigueur et esprit d'initiative
+Indemnité mensuelle brute : 1250                                                                                                 €
+Au sein de nos équipes, nous vous offrons :
+    du challenge,
+    des opportunités de carrière,
+    et des technologies innovantes pour rendre le monde plus sûr.
+Le monde mérite un bel avenir.
+Vous aussi.
+Pour postuler : https://www.thalesgroup.com/fr/homepage/carrieres (Réf. 1416646)
+
+
+
+
+

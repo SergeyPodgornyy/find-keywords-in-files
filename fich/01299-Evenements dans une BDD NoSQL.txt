@@ -1,0 +1,37 @@
+﻿FAIVELEY TRANSPORT RECRUTE UN/UNE EVÉNEMENTS DANS UNE BDD NOSQL EN STAGE DE 4
+À 6 MOIS.
+Date : 05/03/2014
+Référence de l’offre : TRSSTAGE1-5939296
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : La Ville aux Dames 37700, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Equipementier Ferroviaire, présent dans 23 pays (Europe, Chine, Etats-Unis, Inde, Australie, Brésil…) via 45
+entités, réalisant 876 millions d'euros de CA dont 75 % à l'international, 4865 collaborateurs, notre Groupe, en
+forte croissance, est un des leaders mondiaux de l'équipement ferroviaire. Il fonde sa notoriété sur sa créativité et
+la qualité de ses produits et services aux clients.
+Description du poste :
+Dans le cadre de nos réflexions, nous souhaitons étudier la faisabilité d'utiliser une base de données NoSQL (type
+‘Redis' par exemple) pour enregistrer des événements ferroviaires dans un « file system » sur mémoire flash
+(notamment sur des mémoires de type flash NAND)
+Activités :
+• Etudier les différents types de système de fichiers sur mémoire flash.
+• Créer une application prototype sur une plate-forme basée en NAND.
+• Évaluer l'efficacité d'utiliser une base de données NoSQL pour stocker de nombreux petits objets.
+• Etudier les temps, la disponibilité, la fiabilité, l'efficacité du stockage, rétention des données, accès disque …
+• Une démo et un rapport sera généré à la fin du stage.
+Profil recherché :
+* Bac+4 à Bac+5 en informatique / électronique
+• Connaissance en C++
+• Connaissance en base de données, logiciel embarqué
+• Des connaissances en base de données NoSQL / ‘redis' serait un plus
+• Bonne capacité d'adaptation, bonne autonomie et bonne rigueur
+Pour postuler : http://faiveley.contactrh.com/jobs/1536/5939296
+
+
+
+
+

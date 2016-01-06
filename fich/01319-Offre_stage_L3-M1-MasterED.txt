@@ -1,0 +1,22 @@
+﻿Réalisation d’une base de données sur le web
+Dans le cadre de l’association APIMED (Association Pour l’Initiative des étudiants du Master
+Environnement-Droit), plusieurs actions sont réalisées permettant de constituer un réseau de
+diplômés associé au Master Environnement-Droit  (site internet). Parmi ces actions, nous
+cherchons à constituer un outil si possible cartographique, utilisable par les étudiants des
+promotions  actuelles     permettant  d’interroger  la  base  de  données  liées  au  parcours
+professionnel  des  étudiants  diplômés  de  ce  master.  Dans  ce  but,  nous  cherchons  en
+particulier  à  réaliser :                                                                            1.)  la  base  de  données ;        2.)  l’interface  accessible  sur  intranet
+permettant  d’interroger  cette  base  avec  une  approche  si  possible  cartographique.  Le
+candidat  pourra  par  ailleurs  s’il  le  souhaite  participer  à  des  actions  de  communication
+associées   au   résultat   de   l’exploitation   de   cet   outil                                    (réalisation   d’une   plaquette,
+communication web…).
+Le stage est prévu d’une durée de deux mois et sera encadré par les responsables de la
+formation, il sera effectué en lien avec le bureau de l’association APIMED. Les candidatures
+sont à envoyer aux personnes suivantes :
+Cendrine Mony, cendrine.mony@univ-rennes1.fr
+Afif Daher, afif.daher@univ-rennes1.fr
+
+
+
+
+

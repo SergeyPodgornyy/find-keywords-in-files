@@ -1,0 +1,256 @@
+﻿Proposition  de  stage  de  BAC+4  ou  BAC+5  Pro  ou  Recherche
+Vérification  d'un  protocole  de  réseau  de  capteurs
+à  l'aide  d'outils  de  vérification  automatique
+Cadre  du  stage  :
+Le   CEA   LIST   est   un   centre   de   recherche   technologique   sur   les   systèmes   à   logiciel
+prépondérant   qui   mène   ses   recherches   en   partenariat   avec   les   grands   acteurs   industriels   du
+nucléaire,  de  l’automobile,  de  l’aéronautique,  de  la  défense  et  du  médical  pour  étudier  et  développer
+des  solutions  innovantes  adaptées  à  leurs  besoins.  Au  sein  du  CEA  LIST,  le  Laboratoire  de  Sûreté
+des  Logiciels  (LSL),  localisé  à  Saclay  (Essonne),  développe  les  outils  d'aide  à  la  validation  et  à  la
+vérification  de  logiciels  et  de  systèmes  matériels/logiciels.
+L'un  des  nos  outils,  nommé  Frama­C  [1],  permet  d'utiliser  l'analyse  statique  pour  calculer  les
+valeurs  possibles  des  variables  à  chaque  point  de  programme,  trouver  des  menaces  d'erreurs  à
+l'exécution,  prouver  des  propriétés  du  programme,  etc.  Un  autre  outil,  nommé  PathCrawler,  permet
+de  générer  des  cas  de  test  et  de  les  exécuter  afin  d'activer  tous  les  chemins  d'exécution  possibles
+d'un  programme  C.  Un  troisième  outil,  WP,  permet  la  vérification  déductive  du  programme  spécifié
+à  l'aide  d'un  langage  d'annotations  de  la  plate­forme  Frama­C.  Dans  le  cadre  d'un  projet  collaboratif,
+le  CEA  LIST  travaille  sur  l'implémentation  et  la  validation  de  protocoles  de  réseaux  de  capteurs  qui
+seront  utilisés  dans  des  domaines  critiques  (avionique,  transport,  etc.)
+Objectifs  du  stage  :
+Ce  stage  vise  à  vérifier  des  logiciels  embarqués  dans  un  réseau  de  capteurs  à  l'aide  des  outils
+de  vérification  automatique.  Dans  un  premier  temps,  il  s'agira  d'identifier  et  de  spécifier  des
+propriétés   de   sûreté   et   sécurité   de   fonctionnement,   notamment,   liées   à   la   communication   et
+diffusion  de  messages.  Ces  propriétés  seront  ensuite  spécifiées  dans  le  langage  de  spécification  de
+la  plate­forme  Frama­C,  incluant  des  préconditions,  postconditions,  assertions,  etc.  Ensuite,  des
+outils   de   vérification   seront   appliqués   pour   vérifier   les   propriétés   spécifiés   et   identifier   des
+éventuelles  erreurs.
+Les  algorithmes  seront  spécifiés  et  ensuite  prouvés  à  l'aide  des  greffons  de  preuve  de  Frama­
+C.  Un  protocole  existant  sera  utilisé  comme  le  point  de  départ  des  travaux.  Les  techniques  de  test
+pourront  être  utilisées  pour  la  validation  des  parties  du  code  qui  ne  pourront  pas  être  entièrement
+prouvées.  Ce  stage  permettra  au  stagiaire  de  découvrir  divers  outils  de  vérification  de  logiciels  et  les
+technologies  utilisées  pour  assurer  la  sûreté  et  la  sécurité  de  logiciels,  les  appliquer  à  la  vérification
+d'un  cas  d'étude  réel,  et  d'acquérir  ainsi  des  compétences  de  plus  en  plus  demandées  par  les
+entreprises.  Il  existe  des  possibilités  de  continuer  en  thèse  au  CEA  après  le  stage.
+Profil  des  candidats  :
+   Des  connaissances  en  génie  logiciel,  un  goût  pour  les  mathématiques  et  la  logique.
+   Bonnes  connaissances  du  langage  C,  notions  en  protocoles  de  communication  souhaitées.
+   Capacité  de  travail  en  équipe.
+Conditions  :  stage  indemnisé,  aide  au  logement  possible,  transport  CEA  en  Ile­de­France  gratuit.
+Encadrement  :  Nikolay  Kosmatov,  email  :  nikolay.kosmatov@cea.fr
+(Les  délais  administratifs  au  CEA  étant  assez  longs,  merci  de  nous  contacter  le  plus  tôt  possible.)
+Références
+[1]  Pascal  Cuoq,  Florent  Kirchner,  Nikolai  Kosmatov,  Virgile  Prevosto,  Julien  Signoles,  Boris
+Yakobowski:  Frama­C  ­  A  Software  Analysis  Perspective.  SEFM  2012:  233­247
+
+
+
+
+Proposition  de  stage  de  BAC+5  Pro  ou  Recherche
+Synthèse  d'invariants  de  boucles  pour  un  outil  de  vérification  automatique
+Cadre  du  stage  :
+Le   CEA   LIST   est   un   centre   de   recherche   technologique   sur   les   systèmes   à   logiciel
+prépondérant   qui   mène   ses   recherches   en   partenariat   avec   les   grands   acteurs   industriels   du
+nucléaire,  de  l’automobile,  de  l’aéronautique,  de  la  défense  et  du  médical  pour  étudier  et  développer
+des  solutions  innovantes  adaptées  à  leurs  besoins.  Au  sein  du  CEA  LIST,  le  Laboratoire  Sûreté  des
+Logiciels  (LSL),  localisé  à  Palaiseau  (Essonne),  développe  les  outils  d'aide  à  la  validation  et  à  la
+vérification  de  logiciels  et  de  systèmes  matériels/logiciels.
+L'un   des   nos   outils,   nommé   Frama­C                                                                                 (http://frama­c.com),   permet   d'utiliser   l'analyse
+statique  pour  calculer  les  valeurs  possibles  des  variables  à  chaque  point  de  programme,  trouver  des
+menaces  d'erreurs  à  l'exécution,  prouver  des  propriétés  du  programme,  etc.  Dans  Frama­C,  un
+programme  C  peut  être  spécifié,  ou  annoté,  par  des  propriétés  à  vérifier   (son  contrat,  ou  sa
+spécification)  exprimées  dans  un  langage  de  spécification  formelle.  Un  des  greffons  de  Frama­C,
+nommé  WP,    permet  de  prouver  qu'un  programme  spécifié  respecte  sa  spécification.  En  général,  la
+preuve   en   présence   de   boucles   nécessite   des   annotations   spécifiques,   appelées   invariants   de
+boucles,  qui  décrivent  le  comportement  de  la  boucle  après  un  nombre  quelconque  d’itérations.
+Objectifs  du  stage  :
+Certaines  annotations  de  boucles  nécessaires  pour  la  preuve  peuvent  être  déduites  grâce  à
+d'autres  analyses.  La  version  actuelle  de  Frama­C  ne  permet  pas  de  le  faire  de  manière  automatique.
+Ce  stage  vise  donc  à  rajouter  un  module  de  synthèse  d'invariants  de  boucles.  Il  pourra  explorer
+différentes  pistes  et  s'appuyer  en  partie  sur  des  travaux  existants  [1].
+Une  première  piste  consiste  à  appliquer  le  greffon  d'analyse  de  valeurs  Value  afin  de
+calculer    des  informations  sur  les  valeurs  possibles  des  variables  modifiées  par  les  boucles.  Il  existe
+un  greffon  de  Frama­C  Fusy  qui  récupère  une  partie  de  ces  d'informations.  Ces  informations
+pourront  ensuite  être  utilisées  pour  produire  des  invariants  (au  moins  partiels).
+D'autre  part,  des  méthodes  dynamiques   (runtime  assertion  checking,  génération  de  tests,
+exécution   symbolique   à   base   de   solveur   de   contraintes   etc.)   peuvent   produire   des   candidats
+d'invariants   à   partir   d'un   nombre   fini   d'exécutions                                                              (voire   toutes   les   exécutions   examinées
+symboliquement).  Ces  informations  pourront  être  obtenues  grâces  aux  analyseurs  existants  dans
+Frama­C.
+Enfin,  la  déduction  de  candidats  d'invariants  de  boucles  basée  sur  une  analyse  de  patterns  [1]
+à  partir  de  la  postcondition  sera  également  explorée.
+Ce   stage   permettra   au   stagiaire   de   découvrir   diverses   méthodes   de   vérification   de
+programmes,  les  combiner  et  d'acquérir  ainsi  des  compétences  en  vérification  de  plus  en  plus
+demandées  par  les  entreprises.  Il  existe  des  possibilités  de  continuer  en  thèse  au  CEA  après  le  stage.
+Profil  des  candidats  :
+   Très  bonnes  connaissances  en  génie  logiciel,  notamment  en  vérification  déductive.
+   Bonne  maîtrise  du  langage  OCAML.
+   Capacité  de  travail  en  équipe.
+Conditions  :  stage  indemnisé,  aide  au  logement  possible,  transport  CEA  en  Ile­de­France  gratuit.
+Encadrement  :  Nikolay  Kosmatov,  François  Bobot
+Contact  :   Nikolay  Kosmatov,  email  :  nikolay.kosmatov@cea.fr
+(Les  délais  administratifs  au  CEA  étant  assez  longs,  merci  de  nous  contacter  le  plus  tôt  possible.)
+Référence  :  [1]M.­V.Aponte  et  al.  Maximal  and  Compositional  Pattern­Based  Loop  Invariants,FM  2012,  pp.  37­51.
+
+
+
+
+Proposition de stage Pro niveau bac+4 ou bac+5
+Monitoring optimisé de la mémoire
+lors la vérification à l’exécution des programmes C
+Mots-clés : allocation dynamique, validité des pointeurs, vérification des programmes C, spécification formelle, run-
+time assertion checking
+Cadre
+Le CEA LIST est un centre de recherche technologique sur les systèmes à logiciel prépondérant qui mène ses
+recherches en partenariat avec les grands acteurs industriels du nucléaire, de l’automobile, de l’aéronautique, de la
+défense et du médical pour étudier et développer des solutions innovantes adaptées à leurs besoins. Au sein du CEA
+LIST, le Laboratoire de Sûreté des Logiciels (LSL), localisé à Palaiseau (Essonne, 91), développe des outils d’aide à
+la validation et à la vérification de logiciels et de systèmes matériels/logiciels, tout particulièrement dans le domaine
+des systèmes embarqués critiques.
+L’un des nos outils, nommé FRAMA-C (http://frama-c.com), est une plate-forme logicielle facilitant le
+développement d’outils d’analyse de programmes C. Le stage se déroulera au sein de l’équipe de R&D développant
+FRAMA-C.
+Objectifs
+Chaque programme C analysé par FRAMA-C peut être annoté par des spécifications formelles, écrites dans un lan-
+gage appelé ACSL [1]. FRAMA-C offre alors différentes techniques de vérification pour garantir que le programme
+satisfait sa spécification. Une des techniques a pour but de traduire une sous-classe des annotations ACSL- celles dites
+exécutables - en instructions C intégrées au programme sous analyse [2]. Cette transformation permet d’obtenir un
+nouveau programme C dont la correction vis-à-vis de sa spécification est vérifiée dynamiquement, pendant son exécu-
+tion : cette technique est appelée le runtime assertion checking. Une des difficultés principales de cette transformation
+réside dans la prise en compte du modèle mémoire du langage C. Par exemple, un accès à un tableau hors limites (e.g.
+avec un indice trop grand), ou à une zone mémoire allouée dynamiquement et ensuite libérée, serait invalide en C.
+Une bibliothèque a été développée [4, 3] pour collecter les allocations, dé-allocations et initialisations effectuées par
+le programme C et contrôler ensuite la validité (et d’autres propriétés) des accès mémoires.
+Ce stage vise à développer une version étendue et optimisée de la bibliothèque de monitoring qui intégrera de
+nouvelles fonctionnalités pour une meilleure détection de certaines erreurs. Notamment, des initialisations de variables
+(clause ACSL \intitialized) à partir d’autres variables (intitialisées ou non), des tentatives de modifications non-
+autorisées de variables (clause ACSL assigns), des tentatives d’utilisation d’une zone mémoire libérée et ré-allouée
+à nouveau seront mieux prises en compte. Un deuxième axe des travaux sera l’optimisation en utilisant des techniques
+de monitoring récentes consistant à surveiller la validité de la mémoire grâce à une copie (shadow page) avec des accès
+fortement optimisés qui pourront améliorer les performances de la bibliothèque [3]. La nouvelle version sera testée
+sur de nombreux exemples et pourra participer dans une compétition. Ce stage sera l’occasion d’acquérir une bonne
+expérience de développement pointu en C ainsi qu’une expertise en gestion de la mémoire et détection des anomalies.
+Candidatures
+Le candidat aura une très bonne maîtrise du langage C, notamment en gestion de la mémoire. Des connaissances en
+vérification de programmes seraient un plus. Les délais administratifs de recrutement au CEA étant de 2 à 3 mois
+minimum, merci de prendre contact le plus tôt possible.
+Contacts : Nikolai Kosmatov et Julien Signoles (prenom.nom@cea.fr)
+Références
+[1]  P. Baudin, J.-C. Filliâtre, C. Marché, B. Monate, Y. Moy, and V. Prevosto. ACSL : ANSI/ISO C Specification Language, 2014.
+http://frama-c.com/acsl.html.
+[2]  M. Delahaye, N. Kosmatov, and J. Signoles. Common specification language for static and dynamic analysis of C programs.
+In Symposium on Applied Computing (SAC’13), pages 1230-1235, 2013.
+[3]  A. Jakobsson, N. Kosmatov, and J. Signoles. Fast as a shadow, expressive as a tree : Hybrid memory monitoring for C. In the
+30th ACM/SIGAPP Symposium On Applied Computing (SAC 2015), 2015. To appear.
+[4]  N. Kosmatov, G. Petiot, and J. Signoles. An optimized memory monitoring for runtime assertion checking of C programs. In
+International Conference on Runtime Verification (RV 2013), pages 167-182, 2013.
+
+
+
+
+Pr♦♣♦s✐t✐♦♥  ❞❡  st❛❣❡  ❘❡❝❤❡r❝❤❡  ♥✐✈❡❛✉  ❜❛❝✰✺
+Pr❡✉✈❡  ❞✬✉♥❡  ❛♥❛❧②s❡  st❛t✐q✉❡  ♣♦✉r  ✉♥  ❣é♥ér❛t❡✉r  ❞❡  ❝♦❞❡
+▼♦ts✲❝❧és ✿ ❛♥❛❧②s❡ st❛t✐q✉❡✱ ❣é♥ér❛t✐♦♥ ❞❡ ❝♦❞❡✱ s♣é❝✐✜❝❛t✐♦♥ ❢♦r♠❡❧❧❡✱ r✉♥t✐♠❡ ❛ss❡rt✐♦♥ ❝❤❡❝❦✐♥❣
+❈❛❞r❡
+▲❡ ❈❊❆ ▲■❙❚ ❡st ✉♥ ❝❡♥tr❡ ❞❡ r❡❝❤❡r❝❤❡ t❡❝❤♥♦❧♦❣✐q✉❡ s✉r ❧❡s s②stè♠❡s à ❧♦❣✐❝✐❡❧ ♣ré♣♦♥❞ér❛♥t q✉✐
+♠è♥❡ s❡s r❡❝❤❡r❝❤❡s ❡♥ ♣❛rt❡♥❛r✐❛t ❛✈❡❝ ❧❡s ❣r❛♥❞s ❛❝t❡✉rs ✐♥❞✉str✐❡❧s ❞✉ ♥✉❝❧é❛✐r❡✱ ❞❡ ❧✬❛✉t♦♠♦❜✐❧❡✱ ❞❡
+❧✬❛ér♦♥❛✉t✐q✉❡✱ ❞❡ ❧❛ ❞é❢❡♥s❡ ❡t ❞✉ ♠é❞✐❝❛❧ ♣♦✉r ét✉❞✐❡r ❡t ❞é✈❡❧♦♣♣❡r ❞❡s s♦❧✉t✐♦♥s ✐♥♥♦✈❛♥t❡s ❛❞❛♣té❡s
+à ❧❡✉rs ❜❡s♦✐♥s✳ ❆✉ s❡✐♥ ❞✉ ❈❊❆ ▲■❙❚✱ ❧❡ ▲❛❜♦r❛t♦✐r❡ ❞❡ ❙ûr❡té ❞❡s ▲♦❣✐❝✐❡❧s ✭▲❙▲✮✱ ❧♦❝❛❧✐sé à P❛❧❛✐s❡❛✉
+✭❊ss♦♥♥❡✱  ✾✶✮✱  ❞é✈❡❧♦♣♣❡  ❞❡s  ♦✉t✐❧s  ❞✬❛✐❞❡ à  ❧❛  ✈❛❧✐❞❛t✐♦♥  ❡t à  ❧❛  ✈ér✐✜❝❛t✐♦♥  ❞❡  ❧♦❣✐❝✐❡❧s  ❡t  ❞❡ s②stè♠❡s
+♠❛tér✐❡❧s✴❧♦❣✐❝✐❡❧s✱ t♦✉t ♣❛rt✐❝✉❧✐èr❡♠❡♥t ❞❛♥s ❧❡ ❞♦♠❛✐♥❡ ❞❡s s②stè♠❡s ❡♠❜❛rq✉és ❝r✐t✐q✉❡s✳
+▲✬✉♥ ❞❡s ♥♦s ♦✉t✐❧s✱ ♥♦♠♠é ❋r❛♠❛✲❈  ✭❤tt♣✿✴✴❢r❛♠❛✲❝✳❝♦♠✮✱ ❡st ✉♥❡ ♣❧❛t❡✲❢♦r♠❡ ❧♦❣✐❝✐❡❧❧❡ ❢❛❝✐❧✐t❛♥t
+❧❡ ❞é✈❡❧♦♣♣❡♠❡♥t ❞✬♦✉t✐❧s ❞✬❛♥❛❧②s❡ ❞❡ ♣r♦❣r❛♠♠❡s ❈✳ ▲❡ st❛❣❡ s❡ ❞ér♦✉❧❡r❛ ❛✉ s❡✐♥ ❞❡ ❧✬éq✉✐♣❡ ❞❡ ❘✫❉
+❞é✈❡❧♦♣♣❛♥t ❋r❛♠❛✲❈ ✳
+❖❜❥❡❝t✐❢s
+❈❤❛q✉❡ ♣r♦❣r❛♠♠❡ ❈ ❛♥❛❧②sé ♣❛r ❋r❛♠❛✲❈  ♣❡✉t êtr❡ ❛♥♥♦té ♣❛r ❞❡s s♣é❝✐✜❝❛t✐♦♥s ❢♦r♠❡❧❧❡s✱ é❝r✐t❡s
+❞❛♥s ✉♥ ❧❛♥❣❛❣❡ ❛♣♣❡❧é ❆❈❙▲ ✶✳ ❋r❛♠❛✲❈  ♦✛r❡ ❛❧♦rs ❞✐✛ér❡♥t❡s t❡❝❤♥✐q✉❡s ❞❡ ✈ér✐✜❝❛t✐♦♥ ♣♦✉r ❣❛r❛♥t✐r
+q✉❡ ❧❡ ♣r♦❣r❛♠♠❡ s❛t✐s❢❛✐t s❛ s♣é❝✐✜❝❛t✐♦♥✳ ♥❡ ❞❡s t❡❝❤♥✐q✉❡s ❛ ♣♦✉r ❜✉t ❞❡ tr❛❞✉✐r❡ ✉♥❡ s♦✉s✲❝❧❛ss❡ ❞❡s
+❛♥♥♦t❛t✐♦♥s ❆❈❙▲✕ ❝❡❧❧❡s ❞✐t❡s ❡①é❝✉t❛❜❧❡s ✕ ❡♥ ✐♥str✉❝t✐♦♥s ❈ ✐♥té❣ré❡s ❛✉ ♣r♦❣r❛♠♠❡ s♦✉s ❛♥❛❧②s❡ ✷✳
+❈❡tt❡  tr❛♥s❢♦r♠❛t✐♦♥  ♣❡r♠❡t  ❞✬♦❜t❡♥✐r  ✉♥  ♥♦✉✈❡❛✉  ♣r♦❣r❛♠♠❡  ❈  ❞♦♥t  ❧❛  ❝♦rr❡❝t✐♦♥  ✈✐s✲à✲✈✐s  ❞❡  s❛
+s♣é❝✐✜❝❛t✐♦♥ ❡st ✈ér✐✜é❡ ❞②♥❛♠✐q✉❡♠❡♥t✱ ♣❡♥❞❛♥t s♦♥ ❡①é❝✉t✐♦♥ ✿ ❝❡tt❡ t❡❝❤♥✐q✉❡ ❡st ❛♣♣❡❧é❡ ❧❡ r✉♥t✐♠❡
+❛ss❡rt✐♦♥ ❝❤❡❝❦✐♥❣✳
+♥❡  ❞❡s  ❞✐✣❝✉❧tés  ♣r✐♥❝✐♣❛❧❡s  ❞❡  ❝❡tt❡  tr❛♥s❢♦r♠❛t✐♦♥  rés✐❞❡  ❞❛♥s  ❧❛  ♣r✐s❡  ❡♥  ❝♦♠♣t❡  ❞✉  ♠♦❞è❧❡
+♠é♠♦✐r❡ ❞✉ ❧❛♥❣❛❣❡ ❈ ❛✜♥ ❞✬êtr❡ ❡♥ ♠❡s✉r❡ ❞❡ tr❛❞✉✐r❡ ❝♦rr❡❝t❡♠❡♥t✱ ♣❛r ❡①❡♠♣❧❡✱ ❧✬❡①♣r❡ss✐♦♥ ❆❈❙▲
+\✈❛❧✐❞✭♣✮ q✉✐ ♣❡r♠❡t ❞❡ s♣é❝✐✜❡r q✉❡ ❧❡ ♣♦✐♥t❡✉r ♣ ❡st ✈❛❧✐❞❡ ✭✐✳❡✳ ♥♦♥ ♥✉❧ ❡t ❛❝❝é❞❛♥t à ✉♥❡ ③♦♥❡ ♠é♠♦✐r❡
+❧✐❝✐t❡✮✳ ❆✐♥s✐✱ ✉♥ ❛❝❝ès à ✉♥ t❛❜❧❡❛✉ ❤♦rs ❧✐♠✐t❡s ✭❡✳❣✳ ❛✈❡❝ ✉♥ ✐♥❞✐❝❡ tr♦♣ ❣r❛♥❞✮✱ ♦✉ à ✉♥❡ ③♦♥❡ ♠é♠♦✐r❡
+❛❧❧♦✉é❡  ❞②♥❛♠✐q✉❡♠❡♥t  ❡t  ❡♥s✉✐t❡  ❧✐❜éré❡✱ s❡r❛✐t  ✐♥✈❛❧✐❞❡✳ P♦✉r  ❝❡  ❢❛✐r❡✱  ❧❛ tr❛♥s❢♦r♠❛t✐♦♥  ✐♥str✉♠❡♥t❡
+♥♦t❛♠♠❡♥t  ❧❡  ♣r♦❣r❛♠♠❡  ✐♥✐t✐❛❧  ♣♦✉r  ❝♦❧❧❡❝t❡r s❡s  ❛❧❧♦❝❛t✐♦♥s✱  ❞é✲❛❧❧♦❝❛t✐♦♥s  ❡t  ✐♥✐t✐❛❧✐s❛t✐♦♥s  ✈✐❛  ❞❡s
+❛♣♣❡❧s ❞❡ ❢♦♥❝t✐♦♥s ✈❡rs ✉♥❡ ❜✐❜❧✐♦t❤èq✉❡ ❈ ❞é❞✐é❡ ♣ré❛❧❛❜❧❡♠❡♥t ❞é✈❡❧♦♣♣é❡ ✹✳ ❈❡tt❡ ✐♥str✉♠❡♥t❛t✐♦♥
+❡st ♥é❛♥♠♦✐♥s très ✐♥✈❛s✐✈❡✳ P♦✉r ❧❛ r❡♥❞r❡ ♣❧✉s ❧é❣èr❡ ❡t ♠♦✐♥s ❝♦✉t❡✉s❡ ❡♥ t❡♠♣s ❡t ❡♥ ♠é♠♦✐r❡✱ ✉♥❡
+❛♥❛❧②s❡ st❛t✐q✉❡  ✢♦t  ❞❡  ❞♦♥♥é❡s  ❛ été  ❞é✈❡❧♦♣♣é❡  ❞❡  ❢❛ç♦♥ à  ♥✬✐♥str✉♠❡♥t❡r q✉❡  ❧❡s  ♦♣ér❛t✐♦♥s s✉r  ❧❛
+♠é♠♦✐r❡ ré❡❧❧❡♠❡♥t r❡q✉✐s❡s✱ ❡t ♣❛rt✐❡❧❧❡♠❡♥t ❢♦r♠❛❧✐sé❡ ❞❛♥s ✸✳
+▲❡  ❜✉t  ❞✉ st❛❣❡  ❡st  ❞❡  ✜♥❛❧✐s❡r  ❧❛  ❢♦r♠❛❧✐s❛t✐♦♥  ❞❡  ❝❡tt❡  ❛♥❛❧②s❡  ❡t  ❞❡  ♣r♦✉✈❡r s❛  ❝♦rr❡❝t✐♦♥✳  ❉❡s
+❡①t❡♥s✐♦♥s ❡t ❞❡s ❛♠é❧✐♦r❛t✐♦♥s ❞❡ ❧❛ ✈❡rs✐♦♥ ❛❝t✉❡❧❧❡ ♣♦✉rr♦♥t ❡tr❡ ❛♣♣♦rté❡s ♣♦✉r tr❛✐t❡r ❝❡rt❛✐♥❡s ❡rr❡✉rs
+❞❡  ♠❛♥✐èr❡  ♣❧✉s  ❡✣❝❛❝❡  ❡t  ♣♦✉r r❡♥❞r❡  ❧✬❛♥❛❧②s❡  ♣❧✉s  ♣ré❝✐s❡✳  ▲❛  ♥♦✉✈❡❧❧❡  ✈❡rs✐♦♥ s❡r❛  ✐♠♣❧é♠❡♥té❡  ❡♥
+❖❈❛♠❧  ❞❛♥s ✉♥ ❣r❡✛♦♥ ❞❡ ❋r❛♠❛✲❈ ✳
+❈❛♥❞✐❞❛t✉r❡s
+▲❡  ❝❛♥❞✐❞❛t ❞❡✈r❛  ♠❛îtr✐s❡r  ❧❡s  ❧❛♥❣❛❣❡s  ❈ ❡t  ❖❈❛♠❧✳  ❉❡s ❝♦♥♥❛✐ss❛♥❝❡s  ❡♥  ❛♥❛❧②s❡ ❞❡  ♣r♦❣r❛♠♠❡s  ❡t
+❡♥ ♣r❡✉✈❡ ❞❡ t❤é♦rè♠❡s ❛✈❡❝ ✉♥ ❛ss✐st❛♥t ❞❡ ♣r❡✉✈❡ ✭❡✳❣✳ ❈♦q✮ s❡r❛ ✉♥ ♣❧✉s✳ ▲❡s ❞é❧❛✐s ❛❞♠✐♥✐str❛t✐❢s ❞❡
+r❡❝r✉t❡♠❡♥t ❛✉ ❈❊❆ ét❛♥t ❞❡ ✷ à ✸ ♠♦✐s ♠✐♥✐♠✉♠✱ ♠❡r❝✐ ❞❡ ♣r❡♥❞r❡ ❝♦♥t❛❝t ❧❡ ♣❧✉s tôt ♣♦ss✐❜❧❡✳
+❈♦♥t❛❝ts  ✿ ❏✉❧✐❡♥ ❙✐❣♥♦❧❡s ❡t ◆✐❦♦❧❛✐ ❑♦s♠❛t♦✈ ✭♣r❡♥♦♠✳♥♦♠❅❝❡❛✳❢r✮
+❘é❢ér❡♥❝❡s
+✶  P✳ ❇❛✉❞✐♥✱ ❏✳✲❈✳ ❋✐❧❧✐âtr❡✱ ❈✳ ▼❛r❝❤é✱ ❇✳ ▼♦♥❛t❡✱ ✳ ▼♦②✱ ❛♥❞ ✳ Pr❡✈♦st♦✳ ❆❈❙▲ ✿ ❆◆❙■✴■❙❖ ❈ ❙♣❡❝✐✜❝❛t✐♦♥
+▲❛♥❣✉❛❣❡✱ ✷✵✶✹✳  ❤tt♣✿✴✴❢r❛♠❛✲❝✳❝♦♠✴❛❝s❧✳❤t♠❧✳
+✷                                                                                                                        ▼✳ ❉❡❧❛❤❛②❡✱ ◆✳ ❑♦s♠❛t♦✈✱ ❛♥❞ ❏✳ ❙✐❣♥♦❧❡s✳  ❈♦♠♠♦♥ s♣❡❝✐✜❝❛t✐♦♥ ❧❛♥❣✉❛❣❡ ❢♦r st❛t✐❝ ❛♥❞ ❞②♥❛♠✐❝ ❛♥❛❧②s✐s
+♦❢ ❈ ♣r♦❣r❛♠s✳  ■♥ ❙②♠♣♦s✐✉♠ ♦♥ ❆♣♣❧✐❡❞ ❈♦♠♣✉t✐♥❣ ✭❙❆❈✬✶✸✮✱ ♣❛❣❡s ✶✷✸✵✕✶✷✸✺✱ ✷✵✶✸✳
+✸                                                                                                                        ❆✳  ❏❛❦♦❜ss♦♥✱  ◆✳  ❑♦s♠❛t♦✈✱  ❛♥❞  ❏✳  ❙✐❣♥♦❧❡s✳                                                            ❘❡st❡r st❛t✐q✉❡  ♣♦✉r  ❞❡✈❡♥✐r  ♣❧✉s r❛♣✐❞❡✱  ♣❧✉s  ♣ré❝✐s  ❡t  ♣❧✉s
+♠✐♥❝❡✳  ■♥ ❧❡s ✷✻♠❡s ❏♦✉r♥és ❋r❛♥❝♦♣❤♦♥❡s ❞❡s ▲❛♥❣❛❣❡s ❆♣♣❧✐❝❛t✐❢s ✭❏❋▲❆ ✷✵✶✺✮✱ ✷✵✶✺✳  ❚♦ ❛♣♣❡❛r✳
+✹                                                                                                                        ◆✳ ❑♦s♠❛t♦✈✱ ●✳ P❡t✐♦t✱ ❛♥❞ ❏✳ ❙✐❣♥♦❧❡s✳  ❆♥ ♦♣t✐♠✐③❡❞ ♠❡♠♦r② ♠♦♥✐t♦r✐♥❣ ❢♦r r✉♥t✐♠❡ ❛ss❡rt✐♦♥ ❝❤❡❝❦✐♥❣ ♦❢
+❈ ♣r♦❣r❛♠s✳  ■♥ ■♥t❡r♥❛t✐♦♥❛❧ ❈♦♥❢❡r❡♥❝❡ ♦♥ ❘✉♥t✐♠❡ ❡r✐✜❝❛t✐♦♥ ✭❘ ✷✵✶✸✮✱ ♣❛❣❡s ✶✻✼✕✶✽✷✱ ✷✵✶✸✳
+
+
+
+
+Pr♦♣♦s✐t✐♦♥  ❞❡  st❛❣❡  ❞❡  ♠❛st❡r
+●é♥ér❛t✐♦♥  ❛✉t♦♠❛t✐q✉❡  ❞❡  ❝♦❞❡
+à  ♣❛rt✐r  ❞❡  s♣é❝✐✜❝❛t✐♦♥s  ❢♦r♠❡❧ ❧❡s
+▼♦ts✲❝❧és ✿ ❣é♥ér❛t✐♦♥ ❞❡ ❝♦❞❡✱ s♣é❝✐✜❝❛t✐♦♥ ❢♦r♠❡❧❧❡✳
+❈❛❞r❡
+▲❡  ❈❊❆  ▲■❙❚  ❡st  ✉♥  ❝❡♥tr❡  ❞❡ r❡❝❤❡r❝❤❡ t❡❝❤♥♦❧♦❣✐q✉❡ s✉r  ❧❡s s②stè♠❡s à
+❧♦❣✐❝✐❡❧ ♣ré♣♦♥❞ér❛♥t q✉✐ ♠è♥❡ s❡s r❡❝❤❡r❝❤❡s ❡♥ ♣❛rt❡♥❛r✐❛t ❛✈❡❝ ❧❡s ❣r❛♥❞s ❛❝✲
+t❡✉rs ✐♥❞✉str✐❡❧s ❞✉ ♥✉❝❧é❛✐r❡✱ ❞❡ ❧✬❛✉t♦♠♦❜✐❧❡✱ ❞❡ ❧✬❛ér♦♥❛✉t✐q✉❡✱ ❞❡ ❧❛ ❞é❢❡♥s❡ ❡t
+❞✉ ♠é❞✐❝❛❧ ♣♦✉r ét✉❞✐❡r ❡t ❞é✈❡❧♦♣♣❡r ❞❡s s♦❧✉t✐♦♥s ✐♥♥♦✈❛♥t❡s ❛❞❛♣té❡s à ❧❡✉rs
+❜❡s♦✐♥s✳  ❆✉ s❡✐♥  ❞✉  ❈❊❆  ▲■❙❚✱  ❧❡  ▲❛❜♦r❛t♦✐r❡  ❞❡  ❙ûr❡té  ❞❡s  ▲♦❣✐❝✐❡❧s  ✭▲❙▲✮✱
+❧♦❝❛❧✐sé à ❙❛❝❧❛② ✭❊ss♦♥♥❡✱ ✾✶✮✱ ❞é✈❡❧♦♣♣❡ ❞❡s ♦✉t✐❧s ❞✬❛✐❞❡ à ❧❛ ✈❛❧✐❞❛t✐♦♥ ❡t à ❧❛
+✈ér✐✜❝❛t✐♦♥ ❞❡ ❧♦❣✐❝✐❡❧s ❡t ❞❡ s②stè♠❡s ♠❛tér✐❡❧s✴❧♦❣✐❝✐❡❧s✱ t♦✉t ♣❛rt✐❝✉❧✐èr❡♠❡♥t
+❞❛♥s ❧❡ ❞♦♠❛✐♥❡ ❞❡s s②stè♠❡s ❡♠❜❛rq✉és ❝r✐t✐q✉❡s✳
+▲✬✉♥  ❞❡s  ♥♦s  ♦✉t✐❧s✱  ♥♦♠♠é  ❋r❛♠❛✲❈  ✭❤tt♣✿✴✴❢r❛♠❛✲❝✳❝♦♠✮  ❡t  ❞é✈❡❧♦♣♣é
+❡♥  ❖❈❛♠❧✱  ❡st  ✉♥❡  ♣❧❛t❡❢♦r♠❡  ❧♦❣✐❝✐❡❧❧❡  ❢❛❝✐❧✐t❛♥t  ❧❡  ❞é✈❡❧♦♣♣❡♠❡♥t  ❞✬❛♥❛❧②s❡s
+❞❡ ♣r♦❣r❛♠♠❡s ❈✳ ▲❡ st❛❣❡ s❡ ❞ér♦✉❧❡r❛ ❛✉ s❡✐♥ ❞❡ ❧✬éq✉✐♣❡ ❞❡ ❘✫❉ ❞é✈❡❧♦♣♣❛♥t
+❋r❛♠❛✲❈ ✳
+❖❜❥❡❝t✐❢s
+❋r❛♠❛✲❈  ♣❡r♠❡t ❞✬❛♥♥♦t❡r ❢♦r♠❡❧❧❡♠❡♥t ✉♥ ♣r♦❣r❛♠♠❡ ❈ ❣râ❝❡ ❛✉ ❧❛♥❣❛❣❡
+❆❈❙▲ ✭❤tt♣✿✴✴❢r❛♠❛✲❝✳❝♦♠✴❛❝s❧✮ ❛✜♥ ❞❡ s♣é❝✐✜❡r ❧❡ ❝♦♠♣♦rt❡♠❡♥t ❛tt❡♥❞✉
+❞❡ ❝❡ ♣r♦❣r❛♠♠❡✳ ❈❡tt❡ ♣❧❛t❡❢♦r♠❡ ♣r♦♣♦s❡ ❛✉ss✐ ❞✐✛ér❡♥t❡s t❡❝❤♥✐q✉❡s ❞✬❛♥❛✲
+❧②s❡s ♣♦✉r ✈ér✐✜❡r q✉❡ ❧❡ ♣r♦❣r❛♠♠❡ s❛t✐s❢❛✐t ❜✐❡♥ s❛ s♣é❝✐✜❝❛t✐♦♥ ❆❈❙▲✳
+▲♦rsq✉✬✉♥ ♣r♦❣r❛♠♠❡ ♥✬❡st q✉❡ ♣❛rt✐❡❧❧❡♠❡♥t ❞é✜♥✐ ❝❛r ❧❡ ❝♦❞❡ ❞❡ ❝❡rt❛✐♥❡s
+❢♦♥❝t✐♦♥s ✭❣é♥ér❛❧❡♠❡♥t ✐ss✉❡s ❞❡ ❜✐❜❧✐♦t❤èq✉❡s ❡①t❡r♥❡s✮ ♥✬❡st ♣❛s ❝♦♥♥✉✱ ✐❧ ❡st
+t♦✉❥♦✉rs  ♣♦ss✐❜❧❡  ❞❡  ❧❡  ✈ér✐✜❡r st❛t✐q✉❡♠❡♥t  ✭✐✳❡✳ s❛♥s  ❧✬❡①é❝✉t❡r✮  ❡♥ s♣é❝✐✜❛♥t
+❡♥ ❆❈❙▲ ❧❡ ❝♦♠♣♦rt❡♠❡♥t ❛tt❡♥❞✉ ❞❡ ❝❡s ❢♦♥❝t✐♦♥s✳
+◆é❛♥♠♦✐♥s✱ r❡♣♦s❡r  ✉♥✐q✉❡♠❡♥t s✉r  ❝❡s s♣é❝✐✜❝❛t✐♦♥s  ❡♥  ❧✬❛❜s❡♥❝❡  ❞❡  ❝♦❞❡
+❡st  ♣r♦❜❧é♠❛t✐q✉❡  ♣♦✉r  ❡✛❡❝t✉❡r  ❞❡s  ✈ér✐✜❝❛t✐♦♥s  ❞②♥❛♠✐q✉❡s  ✭✐✳❡✳  ❛✈❡❝  ❡①é✲
+❝✉t✐♦♥  ❞✉  ♣r♦❣r❛♠♠❡ s♦✉s  ❛♥❛❧②s❡✮✳  ♥❡ s♦❧✉t✐♦♥  ❡st  ❛❧♦rs  ❞❡  ❢♦✉r♥✐r  ✉♥❡  ✐♠✲
+♣❧é♠❡♥t❛t✐♦♥  ❛❧t❡r♥❛t✐✈❡ r❡s♣❡❝t❛♥t  ❧❛ s♣é❝✐✜❝❛t✐♦♥  ❆❈❙▲  ❞❡  ❝❤❛q✉❡  ❢♦♥❝t✐♦♥
+♠❛♥q✉❛♥t❡✱ ♠❛✐s ❝❡ ♣r♦❝é❞é ♣❡✉t ✈✐t❡ ❞❡✈❡♥✐r ❢❛st✐❞✐❡✉①✳
+▲❡ ❜✉t ❞✉ st❛❣❡ ❡st ❞❡ ❞é✈❡❧♦♣♣❡r ✉♥ ♥♦✉✈❡❛✉ ♠♦❞✉❧❡ ❋r❛♠❛✲❈  ♣❡r♠❡tt❛♥t
+❞❡  ❣é♥ér❡r  ❛✉t♦♠❛t✐q✉❡♠❡♥t  ✉♥  ❝♦❞❡  ❝♦rr❡❝t  ❞❡s  ❢♦♥❝t✐♦♥s  ✐♥❝♦♥♥✉❡s à  ♣❛rt✐r
+❞❡  ❧❡✉rs s♣é❝✐✜❝❛t✐♦♥s  ❡♥  ❆❈❙▲✳ P❛r  ❡①❡♠♣❧❡✱  ❧♦rsq✉❡  ❧❛ s♣é❝✐✜❝❛t✐♦♥  ✐♥❞✐q✉❡
+q✉❡  ❧❛  ❢♦♥❝t✐♦♥  ❞♦✐t r❡t♦✉r♥❡r  0✱  ✐❧ s✉✣t  ❞❡  ❣é♥ér❡r r❡t✉r♥  ✵❀✳  ▲❛  ❣é♥ér❛t✐♦♥
+✕ ❡st✲✐❧ ❜❡s♦✐♥ ❞❡ ❧❡ ♣ré❝✐s❡r ❄ ✕ ❡st ❝❡♣❡♥❞❛♥t ❧♦✐♥ ❞✬êtr❡ t♦✉❥♦✉rs ❛✉ss✐ s✐♠♣❧❡
+❡t  ✐❧  ❝♦♥✈✐❡♥❞r❛  ❞✬✐❞❡♥t✐✜❡r  ❧❡ s❝❤é♠❛  ❞❡  ❣é♥ér❛t✐♦♥  ♣♦✉r  ❧❡ s♦✉s✲❡♥s❡♠❜❧❡  ❧❡
+♣❧✉s  ❧❛r❣❡  ♣♦ss✐❜❧❡  ❞✉  ❧❛♥❣❛❣❡  ❆❈❙▲✳  ▲❡s tr❛✈❛✉①  ♣♦✉rr♦♥t s✬❛♣♣✉②❡r s✉r  ❧❡s
+r❡❝❤❡r❝❤❡s ré❝❡♥t❡s ❞❛♥s ❧❡ ❞♦♠❛✐♥❡ ❞❡ ❧❛ s②♥t❤ès❡ ❞❡ ❢♦♥❝t✐♦♥s✱ ❝♦♠♠❡ ✶✳
+✶ ✳ ❑✉♥❝❛❦✱ ▼✳ ▼❛②❡r✱ ❘✳ P✐s❦❛❝✱ P✳ ❙✉t❡r✳ ❈♦♠♣❧❡t❡ ❋✉♥❝t✐♦♥❛❧ ❙②♥t❤❡✲
+s✐s✳ Pr♦❝❡❡❞✐♥❣s ♦❢ t❤❡ ✷✵✶✵ Pr♦❣r❛♠♠✐♥❣ ▲❛♥❣✉❛❣❡ ❉❡s✐❣♥ ❛♥❞ ■♠♣❧❡♠❡♥t❛t✐♦♥
+✭P▲❉■✬✶✵✮✳ ✷✵✶✵✳
+❈❛♥❞✐❞❛t✉r❡s
+▼❛îtr✐s❡r  ❧❡s  ❧❛♥❣❛❣❡s  ❖❈❛♠❧  ❡t  ❈  ❡st  ♥é❝❡ss❛✐r❡  ♣♦✉r  ❝❡ st❛❣❡✳ P♦ssé❞❡r  ❞❡s
+♥♦t✐♦♥s  ❡♥  ❝♦♠♣✐❧❛t✐♦♥  ❡t  ❡♥ s♣é❝✐✜❝❛t✐♦♥  ❢♦r♠❡❧❧❡  ❡st  ✉♥  ♣❧✉s✱  ♠❛✐s  ♥✬❡st  ♣❛s
+✐♥❞✐s♣❡♥s❛❜❧❡✳
+❈♦♥t❛❝t  ✿ ❏✉❧✐❡♥ ❙✐❣♥♦❧❡s ✭❥✉❧✐❡♥✳s✐❣♥♦❧❡s ❅❝❡❛✳❢r✮
+▲❡s ❞é❧❛✐s ❛❞♠✐♥✐str❛t✐❢s ❛✉ ❈❊❆ ét❛♥t ❞❡ ✷ à ✸ ♠♦✐s ♠✐♥✐♠✉♠✱ ♠❡r❝✐ ❞❡ ♣r❡♥❞r❡
+❝♦♥t❛❝t ❧❡ ♣❧✉s tôt ♣♦ss✐❜❧❡✳
+
+
+
+
+

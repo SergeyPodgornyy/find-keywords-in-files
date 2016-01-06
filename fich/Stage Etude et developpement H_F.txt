@@ -1,0 +1,62 @@
+﻿Stage Etude et développement H/F
+Société Générale France
+REFERENCE  :  ST/SM/RESG91279
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4559802
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION DU POSTE  :
+Votre environnement
+Au sein du département infrastructure de la Société Générale, l’équipe Quality & Production
+Support assure pour SGCIB (banque d investissement) et SGSS (services aux investisseurs), la
+supervision des processus de production et leur amélioration continue, en étroite collaboration avec
+les équipes de développement informatiques.
+Votre stage
+Directement rattaché au responsable de la cellule « Quality and Production Support », vous
+participerez activement à l'étude ainsi qu’à la réalisation d'un portail d'accès Intranet orienté
+Support à la Production.
+Cet outil marketing devra permettre aux différents acteurs d'accéder aux tableaux de bords de
+pilotage de la production, à la météo de la production, etc ...
+L'objectif sera de fournir un accès ergonomique à tous les éléments d'information ou de gestion,
+nécessaires au suivi de l'exploitation infrastructure des Activités de marché de la Société Générale.
+Vous serez impliqué dans toutes les phases de ce projet allant de la collecte des besoins clients, de
+la conception générale jusqu'à l'implémentation et la mise en production des diverses
+fonctionnalités.
+Apport du stage
+Notre volonté est de collaborer avec de jeunes talents motivés par les nouvelles technologies, ayant
+un sens du service et des qualités de communication et d’organisation. Vous bénéficierez d'une
+immersion dans une organisation complexe et riche, avec une bonne visibilité des équipes internes
+et du management. Vous serez fortement impliqué dans les choix technologiques et le planning des
+livraisons de ce projet.
+
+
+
+
+Votre profil
+Vous êtes étudiant(e) de niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation
+SI.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec SQL et PHP (ou java ou HTML).
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Bac+4/5 en école d’ingénieur ou université avec une spécialisation SI.
+Anglais opérationnel.
+Vous êtes à l’aise avec SQL et PHP (ou java ou HTML).
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4559802
+
+
+
+
+

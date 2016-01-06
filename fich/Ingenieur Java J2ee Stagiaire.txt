@@ -1,0 +1,46 @@
+﻿Ingénieur Java J2ee Stagiaire
+Fullsix
+REFERENCE  :  ingé java ekino
+POUR POSTULER  :  offre4658513.1536@fullsix.contactrh.com sous la référence ingé java ekino
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Levallois-Perret 92309, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 05/01/2014
+DUREE  :  plus de 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Internet - E-commerce (Webmaster / Webdesign)
+SOCIETE  :
+Ekino, agence dédiée à la réalisation technique de projets digitaux au sein du groupe Fullsix. Ekino
+se démarque pour son savoir-faire et l’expertise qu’elle apporte à ses clients sur l’ensemble de la
+chaine de production (de la conception à l’hébergement et la maintenance)
+Vous évoluerez dans un environnement enrichissant qui vous permettra d’acquérir une expérience
+significative en développement java/j2ee.
+Vous aurez notamment l’opportunité de travailler en collaboration avec une équipe d’experts sur
+des projets à forte ambition technologique pour des clients prestigieux tels que SFR, Renault, LCL,
+La Poste, la Fédération Française de Football…
+DESCRIPTION DU POSTE  :
+En relation avec un ingénieur senior, vous aurez pour missions :
+• La conception, le développement et la maintenance de sites
+• La réalisation d’applications web java
+Pour cela, vous serez amené(e) à utiliser :
+• Bases de données sous Oracle (10g), MySQL
+• Frameworks MVC : Struts 2, Stripes, GWT, Flex …
+• Orm et autres : Spring 2 / 3, Hibernate …
+D’autre part, vous évoluerez au sein d’un contexte d’industrialisation des développements
+particulièrement riches, comprenant notamment une chaîne d’intégration continue sous hudson ; du
+source control sous svn / git, des métriques de qualité de code telles que sonar, les applications étant
+packagees a l’aide de maven2.
+PROFIL  :
+De formation supérieure, vous possédez au moins une expérience en développement java. La
+connaissance de frameworks JavaScript / CSS serait un plus. Stage de pré-embauche.
+
+
+
+
+POUR POSTULER  :  offre4658513.1536@fullsix.contactrh.com sous la référence ingé java ekino
+
+
+
+
+

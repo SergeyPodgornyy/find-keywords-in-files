@@ -1,0 +1,31 @@
+﻿Stagiaire Projet MERCURE :
+Conception et développement d’un outil
+de gestion des déplacements
+ENTREPRISE
+Néo-Soft est un groupe d’ingénierie informatique spécialisé en                                          3  domaines principaux : R&D,
+Systèmes d’information et l’infrastructure. Créée il y a 8 ans, nous comptons aujourd'hui plus de 600
+collaborateurs au niveau national.
+POSTE
+Néo-Soft souhaite automatiser les tâches liées à la gestion des déplacements (600 personnes sur 11
+agences réparties sur le territoire national), et permettre à ses collaborateurs d’accéder à une
+synthèse de l’information.
+Les objectifs du stage sont de:
+-                                                                                                       Réaliser l’expression des besoins auprès des futurs utilisateurs
+-                                                                                                       Rédiger et faire valider les spécifications de la solution
+-                                                                                                       Réaliser la conception, les développements et les tests associés à l’outil à mettre en place
+-                                                                                                       Rédiger une documentation technique et fonctionnelle ainsi qu’un manuel utilisateur
+Environnement technique :
+-                                                                                                       PHP Microframework Silex, Twig, Bootstrap Twitter
+PROFIL
+Ce stage est destiné à un étudiant bac+5 à la  recherche d’un stage de fin d’études à partir de mars
+ou avril 2014 pour une durée de 6 mois.
+Autonomie, bon relationnel, capacité à formaliser le besoin et à le transcrire en spécification
+technique sont des qualités attendues.
+Pour postuler, merci d’adresser un CV et une lettre de motivation à :
+stagerennes@neo-soft.fr
+NEO-SOFT, DIFFERENT PARCE QUE VOUS L’ETES.
+
+
+
+
+

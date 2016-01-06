@@ -1,0 +1,42 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Ingénierie logicielle
+ Titre : Moteur de recherche Solr - Réalisation d’un service de recherche en mode SaaS
+ Lieu : Rennes                                                                                           Durée               : 4 à 6 mois
+ Formation : Bac + 5 (fin d’étude)                                                                       Date                : début 2014
+ Rémunération : stage indemnisé                                                                          Référence : APU-2
+Sujet : Jouve souhaite mettre en place une plateforme matérielle et logicielle pour offrir un service
+de recherche à ses clients.
+L’application  dispose  d’un  backoffice  permettant  de  paramétrer  et  d'administrer  le  moteur  de
+recherche, et d’un webservice permettant d'accéder au service de recherche.
+Ce projet met en œuvre le moteur de recherche Apache Solr et le crawler Apache Nutch pour la
+collecte des données.
+L’objectif du projet est de réaliser un certain nombre de fonctionnalités aujourd'hui manquantes ou
+incomplètes : gestion des utilisateurs, limitation et/ou contrôle des pages visitées, du volume des
+données, du nombre de requêtes mensuelles, connecteurs d’indexation sur des CMS  (Drupal,
+Typo3, Wordpress, Joomla), affichage des statistiques d’accès, réplication des index…
+Le stagiaire sera intégré au sein d'une équipe d'experts bigdata et moteurs de recherche. Les
+développements sont principalement en Java.
+Le stagiaire sera amené à étudier des algorithmes ou technologies tels que :
+   Traitement linguistique ;
+   Détection des entités nommées ;
+   Principe des moteurs de recherche (indexation, recherche, réplication,...) ;
+   Principe du crawling des pages web.
+
+
+
+
+Environnement :
+Vous serez intégré dans l’équipe experte en plusieurs domaines :
+   Moteurs de recherche Lucene et Solr
+   Crawler Apache Nutch
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_APU2@jouve.gestmail.com
+
+
+
+
+

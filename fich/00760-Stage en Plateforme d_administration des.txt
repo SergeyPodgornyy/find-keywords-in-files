@@ -1,0 +1,68 @@
+﻿Stage  en  Plateforme  d'administration  des
+Société  Générale  France
+REFERENCE  :  ST/SM/ITEC92592
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4942662
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Vous êtes rattaché à l'équipe Analytics en charge de la plateforme d'analyse de marché cross-asset.
+Les activités de l'équipe concernent :
+- Le développement, le monitoring et le suivi de nombreux process d alimentation
+- L'intégration de librairies financières
+- La mise à disposition de services de calculs
+- Le développement, l évolution et le monitoring de nombreux projets Web (HTML5 / Silvelight)
+permettant de faciliter les analyses du business
+Dans un contexte exigeant et rigoureux, vous participez pleinement aux activités de cette équipe
+Agile où il sera plus particulièrement en charge de l analyse, du développement, du déploiement et
+du suivi :
+- D un outil de gestion de contenu des référentiels de données de l équipe Analytics offrant des
+possibilités
+- D identification rapide des données (X-Asset, Multi Source, Multi Place, )
+- De manipulation (suppression / ajout / modification ) de données
+- Ergonomie simple (facilité d utilisation / identification des environnements / contrôles des
+actions )
+- Optimisation des recherches d instruments
+- Problématique de performance, de robustesse, de sécurité
+- De l enrichissement de la console actuelle afin de faciliter le support et l analyses des
+développeurs
+Apport du stage
+- un challenge technique
+
+
+
+
+- la possibilité de découvrir une grande variété des produits financiers ( Forex / Credit / Rates /
+Equity / ..)
+- la découverte de méthodes de développement avancées (agile, continuous delivery, qualité)
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur généraliste ou université avec une
+spécialisation en informatique.
+Votre niveau d’anglais est opérationel et vous avez une bonne connaissance du Pack Office
+Vous êtes à l’aise avec SQL, C#.
+Vous bénéficiez idéalement des connaissances en MVC4, WPF, WCF, JavaScript, C#4.0 est un plus
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+étudiant(e) de niveau bac+5 en école d’ingénieur généraliste ou université avec une spécialisation
+en informatique
+Votre niveau d’anglais est opérationel.
+A l’aise avec SQL, C#.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/4942662
+
+
+
+
+

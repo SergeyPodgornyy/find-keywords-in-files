@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE STAGE DÉV. D'IHM SYSTÈMES CRITIQUES H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 173771-7908297
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Dans le cadre d'un projet réalisé pour un acteur majeur du spatial, nous souhaitons prototyper l'IHM de
+supervision d'un système critique à l'aide de technologies client lourd (Eclipse RCP 4 ou Java FX) et de
+technologies Web (GWT).
+Mission :
+Intégré(e) au sein de l'équipe actuelle du projet et après une montée en compétence sur le domaine
+fonctionnel du projet, vous réaliserez les différents prototypes demandés sous la supervision du chef de
+projet.
+Environnement technologique et fonctionnel :
+Java, Eclipse RCP 4, Java FX, GWT, PostgreSQL, SVN, Maven, Jenkins, Topcased, Linux RedHat EL 6.5
+64 bits, CentOS 6.5
+Objectifs pédagogiques :
+L'objectif de cette mission de stage est de réaliser un prototype d'IHM critique dans un contexte industriel
+spatial.
+A l'issue de cette mission, vous aurez acquis une expérience significative sur le développement Java / IHM
+d'un système informatique critique.
+Profil recherché :
+De formation minimum Bac + 5 en informatique, en cours de validation, vous recherchez un stage d'une
+durée de 3 mois minimum à partir de septembre 2014 (dates variables selon l'école), en alternance ou à temps
+complet.
+Une première connaissance du langage Java est nécessaire.
+Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous le désirez,
+dans toute autre région dans laquelle Atos Systems Integration recrute.
+Vous êtes motivé(e) et rigoureux(se), aimez travailler en équipe et souhaitez vous investir sur un projet.
+Rejoignez-nous !
+Localisation : Toulouse - St Martin du Touch
+Pour postuler : http://atos.contactrh.com/jobs/1536/7908297
+
+
+
+
+

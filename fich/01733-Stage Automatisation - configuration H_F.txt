@@ -1,0 +1,60 @@
+﻿ATOS RECRUTE UN/UNE STAGE AUTOMATISATION - CONFIGURATION H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175048-7854158
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : LYON 69000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Ce stage s'inscrit dans le cadre des projets NGIN d'Atos :
+http://fr.atos.net/fr-fr/accueil/votre-business/telecommunications/next-generation-intelligent-networks-ngin.html
+Le stagiaire sera intégré dans une équipe conviviale d'une trentaine d'ingénieurs, centre d'expertise NGIN à
+vocation internationale, largement autonome dans ses choix techniques.
+Mission et objectifs :
+Le stage a deux objectifs principaux :
+Etude :
+*  Recueil  des  besoins  d'automatisation  du  déploiement  de  l'administration  de  nos  plateformes  de
+développement et les plateformes Télécoms déployées chez nos clients.
+*   Evaluation   des   solutions   de   configuration   management,   notamment   les   framework   chef
+(https://www.getchef.com/chef/) et puppet (http://projects.puppetlabs.com/projects/puppet).
+* Estimation du travail de configuration et de développement.
+Développement :
+* Mise en place de la solution retenue.
+* Mise en place d'un server de configuration si nécessaire.
+* Formation des utilisateurs
+Environnement technologique et fonctionnel :
+Développement : langages de script, xml, DSL, ruby,
+Serveur agents : chef ou puppet ou autre
+Objectifs pédagogiques
+Le stage a deux objectifs pédagogiques principaux :
+1. permettre aux étudiants de comprendre le métier d'un intégrateur système, ses exigences et ses contraintes
+2. former les étudiants aux différentes architectures et technologies mises en œuvre
+Profil recherché :
+Ce stage nécessite des connaissances gestion de configuration et en automatisation de taches (scripts, python
+,ruby, bash).
+Ce stage s'adresse à un étudiant souhaitant évoluer vers les métiers du développement et de l'intégration.
+
+
+
+
+Le stagiaire devra faire preuve d'autonomie et de curiosité. Il doit être force de proposition face aux besoins
+exprimés. Le niveau d'autonomie requis et les tâches décrites nécessitent l'intervention d'un étudiant en
+dernière année d'étude.
+Durée du stage
+Stage ou projet de fin d'étude d'une durée de 6 mois
+Pour postuler : http://atos.contactrh.com/jobs/1536/7854158
+
+
+
+
+

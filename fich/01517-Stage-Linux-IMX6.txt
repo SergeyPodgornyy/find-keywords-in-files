@@ -1,0 +1,39 @@
+﻿Portage d’un logiciel embarqué sur OS Linux  et mise en place d’un nouvel
+atelier de développement.
+Sujet
+Portage d’un logiciel embarqué sur OS Linux et mise en place d’un nouvel atelier de développement.
+Description
+Dans le cadre d'une réflexion sur l'utilisation d'une nouvelle plateforme logicielle, votre mission consistera à porter
+une application existante  (environnement QNX) vers un environnement Linux embarqué  (plateforme IMX6) et de
+mettre en place un atelier de développement afin d'évaluer les performances du futur système.
+Vous adaptez les couches basses logicielles (NAND, Ethernet, UART, USB...).
+Vous effectuez le portage de l'application existante sous Linux.
+Vous évaluez différentes solutions et mettez en place un atelier de développement (build, debugging and profiling
+tools…) équivalent à celui utilisé actuellement (QNX Momentics).
+Compétences requises
+Langage C/C++, UML
+Outils GNU (GCC, GDB...)
+Atelier de développement Eclipse
+De bonnes connaissances de l'environnement Linux sont indispensables pour le succès de ce stage. Vous êtes
+autonome et créatif et avez de bonnes capacités de synthèse et de présentation.
+Détails pratiques
+Stage de 5/6 mois se déroulant à Nantes au sein du service logiciel de CP technocenter.
+Rémunération attribuée.
+Contact
+Merci d’envoyer votre CV à
+David Guilloteau
+System Software Manager
+CP Technocenter
+38 rue Bobby Sands ZAC de la Lorie
+44818 Saint Herblain - France
+Phone dir.: +33 (0)2 40 80 28 14 - Fax: +33 (0)2 40 80 20 24
+E-mail: david.guilloteau@cp.com
+Distribution :
+Stage-Linux-IMX6.docx                                                                                                                                                                                                   8 / 24/09/2014 17:56:00   SUPPORT(s)-CADRE(s) : GEN-001
+Ce document et les informations qu'il contient, sont la propriété de la société GEORGES RENAULT. Ceux-ci ne doivent en aucun cas être communiqués ou transmis à des tiers sans l'autorisation préalable de la société
+GEORGES RENAULT.
+
+
+
+
+

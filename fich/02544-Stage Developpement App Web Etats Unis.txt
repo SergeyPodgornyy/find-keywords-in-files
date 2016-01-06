@@ -1,0 +1,33 @@
+﻿MYINTERNSHIPABROAD RECRUTE UN/UNE STAGE DEVELOPPEMENT APP WEB ETATS UNIS
+EN STAGE DE 6 À 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : UAtlEF3352-9850028
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Atlanta 00000, US
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Entreprise spécialisée dans le développement d'application pour Smartphone
+Description du poste :
+* Participer aux décisions concernant le processus de conception de l'application
+* Créer et maintenir le serveur de l'application
+* Développer les applications mobile (en utilisant Objective C / SWIFT pour iOS et JAVA pour Android)
+* Réaliser le design de l'interface graphique
+* Réaliser des tests et des analyses pour évaluer les fonctionnalités du produit
+* Créer et mettre en place les sites web pour les produits de l'entreprise
+Offre à pourvoir entre le 2015-08-31 et le 2015-10-22 pour une durée de 6 à 12 mois
+Profil recherché :
+* Être étudiant(e) ou jeune diplômé(e) spécialisé(e) en informatique ou en ingénierie
+* Avoir un niveau d'anglais Intermédiaire + (B2+)
+* Avoir d'excellente compétences en C/C+/JAVA
+* Avoir de bonnes connaissances en HTML5/CSS3/XML/ et PHP/Javascript
+* Avoir une expérience en développement de projet (iOS ou Android)
+* Avoir des bases en MySQL, MongoDB, HBase serait apprécié
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9850028
+
+
+
+
+

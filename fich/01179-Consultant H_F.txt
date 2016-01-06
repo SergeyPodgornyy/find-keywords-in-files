@@ -1,0 +1,50 @@
+﻿CAPGEMINI  RECRUTE  UN/UNE  CONSULTANT  H/F  EN  STAGE  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  SND­GSA/STAGE/S­5666345
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Analyste  Programmeur)
+Type  de  contrat    :  Stage
+Localisation    :  Toulouse  31000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services
+informatiques  et  de  l'Infogérance.  En  2012,  le  Groupe  a  réalisé  un  chiffre  d'affaires  de
+10,3 milliards  d'euros  et  emploie  aujourd'hui  plus  de  125  000  personnes  dans  44  pays.
+Le  groupe  Capgemini  est  signataire  de  la  Charte  de  la  diversité  en  entreprise.
+Description  du  poste    :
+La  division  Aerospatiale  &  Défense  est  pôle  de  référence  dans  les  secteurs  Aéronautique,
+Spatial   et  Défense.
+L'entité  Space,  Navigation  &  Defence  de  Capgemini  intervient  dans  des  domaines
+techniques  variés  (systèmes  sols  de  satellites,  systèmes  contrôle  aérien,  systèmes  de
+navigation  temps  réel,  systèmes  de  mesures,  systèmes  opérationnels  de  commandement,
+systèmes  de  renseignements,  systèmes  logistiques  …)  pour  le  compte  de  clients  publics
+ou  de  grands  groupes  industriels.
+Le  stage  se  déroule  dans  le  cadre  du  développement  d'un  Segment  Sol  Mission  pour
+plusieurs  satellites  d'observation  de  la  terre.
+Le  stage  consiste  à  définir  et  à  développer  des  algorithmes  liés  à  la  programmation  des
+différents  satellites.  Le  sujet  permettra  à  chaque  stagiaire  d'acquérir  des  compétences
+fonctionnelles  dans  le  domaine  spatial  des  missions  d'observation  de  la  terre.
+Une  connaissance  du  C++  est  nécessaire.
+En  plus  de  l'enrichissement  de  ses  compétences  techniques,  chaque  stagiaire  découvrira
+les  méthodologies  projet  de  Capgemini.  Ils/elles  seront  complètement  impliqué(e)s  dans
+la  vie  de  l'entité  ‘Space'  et  découvriront  le  métier  de  consultant­développeur  dans  le  cadre
+des  activités  d'un  segment  sol  spatial.
+Ce  stage  est  un  stage  de  pré­embauche.
+De  formation  supérieure  Bac+4/  Bac+5  en  informatique,  vous  êtes  intéressé(e)s  par  le
+développement  informatique  (Java,  Eclipse  RCP,  Linux,  ...),  les  sujets  spatiaux  et
+l'acquisition  de  compétences  fonctionnelles  qui  vous  permettront  d'asseoir  votre
+
+
+
+
+expérience.  Vous  disposez  déjà  d'une  base  solide  en  développement  sur  cet
+environnement  technologique.  Vous  appréciez  le  travail  en  équipe.
+Profil  recherché    :
+Stage  de  fin  d'études,  Bac+4/bac  +5
+Pour  postuler    :  http://capgemini.contactrh.com/jobs/1536/5666345
+
+
+
+
+

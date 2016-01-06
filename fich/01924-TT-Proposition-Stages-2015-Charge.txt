@@ -1,0 +1,41 @@
+﻿Stage 2015
+TEST DE CHARGE ET DIMENSIONNEMENT
+D'INFRASTRUCTURE
+(REF : VV3-2015)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé,  services  à  la  personne,  permettant  de  créer  une  véritable  interaction  entre
+l'usager et son environnement.
+Mission
+TAZTAG développe une solution de gestion d'équipements mobiles et de services de
+communication  basée  sur  une  authentification  sécurisée  des  équipements.  Cette
+solution comprend une infrastructure de serveurs ainsi que des clients mobiles.
+L'objectif  du  stage  est de  réaliser  des  tests  de  charge  permettant  de  mesurer  les
+capacités  de  la  plate-forme  et  d'en  déduire  des  recommandations  en  terme  de
+dimensionnement   d'infrastructure.
+Le stage commencera par un travail d'étude préalable : identification de critères clés
+(performance,    endurance, robustesse), définitions de scénarios critiques, définition
+d'indicateurs de mesure.
+Pour la mise en œuvre des tests et la collecte des résultats, des outils open-sources
+seront privilégiés. Des simulateurs pourront également être développés.
+Le stagiaire sera intégré dans le département R&D de taztag et sera co-encadré par
+des experts validation et IT.
+Profil recherché
+Vous  avez  un  niveau  BAC  +  4  ou  5                                                        :  master  ou  école  d’ingénieurs,  spécialité
+informatique. Vous êtes rigoureux(se), autonome, très motivé(e) pour participer à la
+mise en place une solution opérationnelle.
+Compétences souhaitées :
+   Développement    logiciel :    système    d'information    et/ou    développement
+d'application mobiles (ex. android)
+   Outils de développement open-source
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 3 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, claire.diehl-watrin@taztag.com, sp@taztag.com
+
+
+
+
+

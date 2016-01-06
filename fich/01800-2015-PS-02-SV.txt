@@ -1,0 +1,36 @@
+﻿Offre de stage                                                                              2015 - PS - 02 - SV
+
+Sujet                                                                                       DEVELOPPEMENT D’ALGORITHMES DE TRAITEMENT VIDEO EN OPENCL
+Thomson  Vidéo  Networks  est  une  entreprise  internationale  dans  le  domaine  de  la
+création et diffusion de contenu pour le marché professionnel de l’image. Notre site de
+Entreprise                                                                                  Rennes est un centre de développement de  350 personnes principalement dédié à la
+fourniture d’équipements et systèmes de compression et transmission de l’image sur tous
+types de réseaux pour les opérateurs et professionnels de télévision.
+6 mois à partir de février
+Lieu / Site                                                                                 Cesson-Sévigné                                                                      Période / Durée   2015
+Contexte :
+Missions
+L’équipe POLARIS est une  équipe transverse fournissant aux produits de THOMSON
+Vidéo Networks des bibliothèques logicielles communes de décodage/codage, analyse &
+traitement audio/vidéo (compresse ou pas). L’équipe utilise  les méthodologies agile
+(kanban/scrum) pour ses développements.
+Mission :
+Intégré à l’équipe POLARIS, le stagiaire va participer au développement, a
+l’optimisation et a la validation d’algorithmes en langage OPENCL.
+Mots clefs: OPENCL, C, Linux,   SVN
+Profil
+Ingénieur - STAGE
+Langages C/C++,   Linux/ Windows.
+Des connaissances en OPENCL ou en CUDA seraient un plus.
+Travail en équipe, rigueur, curiosité, soif d’apprendre  et autonomie
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    samuel.vermeulen@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

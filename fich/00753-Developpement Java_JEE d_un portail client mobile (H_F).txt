@@ -1,0 +1,66 @@
+﻿Développement  Java/JEE  d’un  portail  client  mobile  (H/F)
+Atos  Intégration
+REFERENCE  :  159047
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/4942098
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 21/10/2013
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier, des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie. Atos est présent dans 48 pays, compte 74 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros
+Atos Systèmes Intégration (SI) a pour vocation d’imaginer, développer et de maintenir
+opérationnels les systèmes d’information de ses clients. Pour cela, notre entité  dispose d’un riche
+portefeuille d’offres d’intégration de systèmes à forte valeur ajoutée, qui garantissent  une
+rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de
+satisfaire la demande croissante de solutions.
+DESCRIPTION  DU  POSTE  :
+Mission
+Contexte :
+L’objectif du projet WebCare est de développer les fonctions classiques d’un opérateur mobile sur
+le web et d’en promouvoir l’usage auprès des clients ; ce portail intègre notamment la gestion
+d’espaces Boutique en Ligne, Client et Téléconseiller. Une version mobile du portail existant est
+actuellement à l’étude. Atos est responsable de la réalisation du Front Office client en intégrant une
+solution Open Source Liferay. Le client Télécom est responsable de la mise en place d’une
+architecture SOA organisée autour d’enablers métiers fournissant les services nécessaires au
+développement de l’espace client.
+Mission :
+Intégré dans une petite équipe, le stagiaire pourra intervenir sur différentes phases du projet selon le
+planning. Le projet suit le cycle en V classique de développement d’une application : la rédaction
+de spécifications fonctionnelles, la conception, qui devra orienter les choix techniques, le
+
+
+
+
+développement, les tests, l’intégration technique, la rédaction de documents utilisateurs. Quelques
+activités spécifiques sont réalisées par Atos, comme l’intégration de maquettes graphiques fournies
+par un prestataire externe.
+Environnement technologique :
+Techniquement, ce stage permet de développer des compétences autour des nouvelles technologies
+(JEE, Spring MVC, JSP, JQuery, WebServices), des portails (Liferay), sur de l’outillage
+professionnel (conception UML, gestion de configuration SVN, tests HPQC, tests automatisés
+JUnit, Selenium, …)
+Objectifs pédagogiques :
+Le produit de ce stage devra être conduit conformément aux règles projet en vigueur (processus,
+qualité). Le stagiaire sera intégré dans l’équipe, lui permettant de participer et de découvrir le
+fonctionnement d’un projet informatique.
+PROFIL  :
+Profil
+De formation Bac +5 en informatique (Ecole d’ingénieur ou université) en cours de validation, vous
+recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage, ou, si vous
+le désirez, dans toute autre région dans laquelle AtoS recrute.
+Ce stage se déroulera à Rennes.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/4942098
+
+
+
+
+

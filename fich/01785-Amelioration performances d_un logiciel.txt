@@ -1,0 +1,68 @@
+﻿AXWAY RECRUTE UN/UNE AMÉLIORATION PERFORMANCES D'UN LOGICIEL EN STAGE  6
+MOIS.
+Date : 01/02/2015
+Référence de l’offre : 422 - 1-7854772
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Puteaux 92800, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Axway est le Spécialiste des Business Interaction Networks. Axway est actuellement le seul fournisseur du
+marché à gérer, exécuter, sécuriser et superviser toutes les interactions de l'entreprise, qu'il s'agisse de
+courrier électronique, de fichiers, de messages, de services, d'événements ou de processus. Plus de 11.000
+organisations dans tous les secteurs d'activité et dans plus de 100 pays s'appuient sur la gamme de services de
+gouvernance d'Axway pour assurer et optimiser l'efficacité de leurs chaînes de valeur, le respect des
+réglementations et la qualité de service.
+Les solutions logicielles complètes d'Axway pour l'entreprise comprennent:
+* Gestion du transfert de fichiers (MFT) pour des échanges de données B2B, inter-applications (A2A) et ad
+hoc sécurisés, vérifiables et faciles à gérer au sein des infrastructures existantes.
+* Business-to Business (B2B) pour l'automatisation et l'intégration des activités de chaîne logistique ou de
+valeur (par exemple, traitement des commandes, livraison, facturation et paiements).
+* Intégration pour l'orchestration de bout en bout de l'intégration des applications d'entreprise et des échanges
+de données.
+* Sécurité du courrier électronique et validation d'identité pour protéger le trafic entrant et sortant de courrier
+électronique.
+Ces progiciels sont mis en œuvre dans des solutions d'intégration globales pour répondre aux besoins de nos
+clients.
+Description du poste :
+Mission :
+Dans le cadre du projet de transfert de fichiers « Transfer CFT », vous intégrerez l'équipe de recherche et
+développement « Transfer CFT Core ».
+Vous  assurerez  les  fonctions  d'un  ingénieur  de  développement.  Votre  objectif  sera  d'améliorer  les
+performances d'un module précis du produit. Vous devrez mettre en place des tests pour mesures les
+performances actuelles, analyser les parties nécessitants des améliorations, proposer des modifications, les
+implémenter et mesure les nouvelles performances.
+Intérêt du stage :
+* Intégration d'une équipe R ;
+* Travail sur toutes les phases du projet : analyse et spécifications, développement, tests unitaires, tests
+automatiques et qualification ;
+* Développement portable (UNIX, Windows, z/OS, OS400, VMS etc…) ;
+* Mission répondant à des besoins clients.
+Environnement technique :
+* Axway 5 Suite
+* Langages de programmation : C, Python
+* Outils de tests : valgring, gprof, oprofile, etc…
+* Systèmes d'exploitation : Unix, Windows
+* Gestionnaire de projet : Version One
+
+
+
+
+Environnement humain :
+Accueilli par une équipe dynamique (7 personnes), et conseillé par des experts techniques et métiers, vous
+serez également suivi pendant toute la durée du stage par un tuteur et le directeur de projet.
+Profil recherché :
+Profil et connaissances requises :
+Formation BAC+5 en ingénierie en informatique.
+Bon esprit d'analyse et de synthèse, attrait pour les technologies de programmation, travail en équipe et
+bonne capacité d'adaptation.
+Des connaissances en C sont nécessaires et des notions sur les échanges sécurisés sont souhaitées.
+Un bon niveau d'anglais est requis.
+Pour postuler : http://axway.contactrh.com/jobs/1536/7854772
+
+
+
+
+

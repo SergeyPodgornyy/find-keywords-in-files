@@ -1,0 +1,38 @@
+﻿Canon Research Centre France S.A.S.
+Le  Centre  de  Recherche de CANON situé à RENNES ATALANTE,  dont  la mission
+consiste   à  développer   des   technologies   fondamentales   afin   de   contribuer   au
+développement de produits innovants pour le groupe CANON, propose un
+STAGE
+Génération de scènes 3D réalistes avec Unity 3D.
+Durée du stage                                                                                   : 3 à 6 mois à partir de mars 2015
+MISSIONS:
+Pour des applications de vision par ordinateur, Le Groupe Canon souhaite utiliser des
+caméras  mettant  en  œuvre  des  fonctions  de  haut  niveau  telles  que  tracking  ou
+identification.  Dans  ce  cadre,  nous  souhaitons  mettre  en  place  une  plate-forme  de
+simulation avancée permettant de générer des images de caméras artificielles.
+Le stage proposé consiste à synthétiser automatiquement des scènes 3D réalistes avec
+le moteur Unity 3D. La mission consisterait notamment à générer des scènes de type
+foule  évoluant  dans  une  rue,  dans  un  décor  indoor  et  à  dessiner  les  personnages,
+décors  et  textures  correspondants,  dans  le  but  de  créer  artificiellement  des  scènes
+multi-caméras.
+PROFIL :
+Vous êtes candidat à diplôme de Master  2 image et vidéo ou une école d’ingénieur.
+Vous êtes passionné d’informatique et de nouvelles technologies, avec de préférence
+une bonne connaissance du monde de l’image et de la vidéo et la maitrise du langage
+C#. La connaissance du moteur de création d’animations et de jeux vidéo Unity  3D
+serait également un plus.
+Vous êtes curieux, ouvert d’esprit et avez de réelles qualités relationnelles pour vous
+intégrer dans un environnement innovant et multiculturel.
+CONTACT :
+Adresser votre lettre de motivation, CV en mentionnant la référence TD20315CRF à :
+CANON Research Centre France
+A l’attention de Mme Lydie BUFFARD
+Rue de la Touche Lambert
+CS 91716
+35517 CESSON SEVIGNE CEDEX
+Ou par mel : info@crf.canon.fr
+
+
+
+
+

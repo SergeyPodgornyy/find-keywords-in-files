@@ -1,0 +1,1431 @@
+﻿Découvrez toutes nos
+opportunités d’alternance
+2015 – 2016
+
+
+
+
+Sommaire Général
+Division Application Development & Maintenance    3
+Division Aérospatiale & Défense                   11
+Division Communications & Energie-Utilities       27
+Division FS GBU France (Financial Services)       30
+Division Manufacturing, Consumer & Retail         37
+Capgemini
+Division Services                                 43
+Technology
+Services
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved   2
+
+
+
+
+Sommaire Division - Application Development & Maintenance (ADM)
+Présentation Division                                                                                                      4
+Missions proposées
+                                                                 Consultant Business Intelligence en alternance (H/F)     5
+                                                                 Consultant Flux en alternance (H/F)                      6
+                                                                 Consultant Technique Java/J2EE en alternance (H/F)       7
+                                                                 Consultant Microsoft en alternance (H/F)                 8
+                                                                 Consultant Oracle E-Business Suite en alternance (H/F)   9
+                                                                 Consultant Technico-Fonctionnel en alternance (H/F)      10
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                   3
+
+
+
+
+Division Application Development & Maintenance (ADM)
+Exemples de projets
+Activités de la division
+                                                                                        Développement et exploitation de sites et d’applications mobiles: La criticité de
+                                                                                        ces applications et l’enjeu de « time-to-market » ont conduit Capgemini à
+L’ADM représente plus du quart du marché des services applicatifs en France et en
+                                                                                        accompagner son client dans la mise en place de procédures de qualité logicielle
+constitue aujourd’hui le moteur de croissance. C’est un marché qui évolue, avec
+                                                                                        poussées dans un contexte méthodologique Agile. Dans ce centre de services,
+d’une part l’externalisation de pans de plus en plus larges des directions
+                                                                                        Capgemini déploie des standards élevés de qualité de code, soit sur ses propres
+informatiques et, d’autre part, l’émergence progressive d’un véritable métier de
+                                                                                        environnements pour certaines applications Web qui lui sont confiées, soit avec les
+gestion de patrimoine applicatif, au-delà de la maintenance traditionnelle
+                                                                                        usines logicielles client pour les sites Web les plus critiques et nécessitant une
+(refontes, déploiements, etc.) : le « run-to-build-to-run ». Sur ce marché
+                                                                                        collaboration au sein d’équipes communes. Nous mettons en particulier en œuvre
+particulièrement, les attentes de nos clients sont fortes, en termes de compétitivité
+                                                                                        une Plate-forme d’Intégration Continue (PIC) constituant un cadre normé et
+mais aussi d’engagement et de valeur ajoutée.
+                                                                                        industriel en matière de qualité logicielle : Maven, Jenkins, Sonar, CAST & gestion
+                                                                                        de configuration.
+Avec plus de 2 000 collaborateurs dédiés à l’ADM, nous occupons plus de 15% du
+marché français et travaillons pour de très grands clients positionnés sur divers
+                                                                                        Développement et maintenance des applications de la DSI Commerce : L’un des
+secteurs d’activités. Nous nous appuyons sur un savoir-faire industriel fort ,déployé
+                                                                                        leaders mondiaux de l'énergie, a confié à Capgemini le développement et la
+sur 7 sites principaux en France, nous recourons à l’offshore au travers de 2 centres
+                                                                                        maintenance des applications de sa DSI Commerce relatives aux Entreprises et aux
+majeurs au Maroc et en Inde, nous mutualisons des activités standardisées et enfin
+                                                                                        Collectivités locales. Nous sommes ainsi le partenaire en mesure d’industrialiser et
+nous inscrivons l’innovation au cœur de notre développement. La réussite de ce
+                                                                                        de sécuriser la maintenance évolutive et corrective d’un ensemble formé d’une
+modèle repose en particulier sur notre capacité à créer de la proximité
+                                                                                        trentaine d’applications stratégiques. Nous sommes en particulier en capacité de
+opérationnelle dans la durée avec nos clients.
+                                                                                        réaliser l’ensemble des phases du cycle en V, de la conception à l’intégration 2 à 2.
+                                                                                        Plusieurs offres Capgemini ont été mises en œuvre (RDV, AGILE, IAF, ASE, …) pour la
+Les services que nous proposons répondent à un double enjeu de performance et
+                                                                                        réalisation de plusieurs projets marquants tels que la ré-écriture de certaines
+de transformation du patrimoine applicatif de nos clients : maintenance, support,
+                                                                                        applications, les migrations techniques Solaris vers Linux et AIX et les montées de
+intégration technique et fonctionnelle, usines de développement et de tests,
+                                                                                        version des différents produits.
+programmes de refonte, d’évolution et de déploiement, … Pour délivrer ces
+services dans les meilleures conditions, nous avons installé un système de
+                                                                                        Construction et maintenance de nouvelles applications BtoC : Les équipes de
+production fondé sur quatre piliers : industrialisation, distribution des activités,
+Capgemini interviennent chez l’un des leader de la vente à distance dans le cadre
+standardisation et capitalisation.
+d’un centre de services dédié à la construction des nouvelles applications BtoC et à
+leur maintenance, dans un vaste périmètre couvrant la gestion de la relation client
+et les solutions Web, pour les enseignes du Groupe. Ce sont plus de 40
+collaborateurs qui délivrent au quotidien nos solutions dans des environnements
+technologiques J2E, Spring, Struts, WebLogic…
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                         4
+
+
+
+
+Ref:15-ALT-ADM-4485 - Consultant Business Intelligence en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+ADM
+Vous rejoignez notre ligne de Service ADM (Application Development Maintenance) et contribuez aux travaux relatifs à la mise en œuvre
+et à la maintenance de solutions informatiques industrielles pour le compte de nos clients. Intégré(e) au sein de notre Pôle d'Excellence BI
+(Business Intelligence) et dans le cadre d'un programme composé de plusieurs projets, vous rejoignez une équipe en charge de la
+maintenance évolutive et du développement de nouvelles applications décisionnelles.
+DESCRIPTION DE LA MISSION
+Au sein de notre entité vous intervenez sur les différentes phases d'un projet informatique de Business Intelligence :
+ la phase de spécifications fonctionnelles, la traduction technique des besoins fonctionnels,
+ la conception, les tests et recette,
+ la mise en production,
+ ou encore la maintenance corrective ou évolutive.
+Vous avez en charge la conception et  le développement  de processus métier grâce aux technologies BI.
+L’environnement technique est le suivant : Datastage, Ab Initio, Talend, BO, Qlikview…
+PROFIL RECHERCHE
+De formation Bac+5 en informatique, vous êtes reconnu(e) pour votre autonomie et votre sens du service.
+Vous maitrisez l'anglais opérationnel (présentations orales et écrites). Vous êtes volontaire, dynamique et appréciez le travail en équipe.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose de :
+ explorer le monde décisionnel à travers les différentes solutions du marché et d’acquérir de l’expérience dans un domaine porteur et
+innovant,
+ vous immerger dans l’environnement et les méthodologies Capgemini et de mieux appréhender le métier de Consultant.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                5
+
+
+
+
+Ref: 15-ALT-ADM-4486 - Consultant Flux en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+ADM
+Vous rejoignez notre ligne de Service ADM (Application Development Maintenance) et contribuez aux travaux relatifs à la mise en œuvre
+et à la maintenance de solutions informatiques industrielles pour le compte de nos clients. Nous recherchons des collaborateurs pour
+renforcer nos équipes et répondre ainsi efficacement aux besoins de nos clients.
+DESCRIPTION DE LA MISSION
+Vous participez à des projets d’envergure technologique importante (intégration des SI dans l’entreprise, gestion des flux du SI, interfaces
+EAI / ESB…). Vous avez pour principales missions :
+ l'analyse fonctionnelle  et la conception technique des fonctionnalités et des flux ,
+ la réalisation des nouveaux composants ainsi que les tests d’intégration.
+L’environnement technique est le suivant: Java, PL/SQL, Informatica, SGBD, EAI/ESB, ETL,…
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 avec une spécialisation en Informatique et vous savez faire preuve des qualités suivantes :
+ engagement, faculté d’adaptation, motivation,
+ travail en équipe.
+Vous maitrisez l'anglais opérationnel (présentations orales et écrites)
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose de :
+ acquérir une expertise technique à la fois dans les domaines de la gestion des flux et du développement Web,
+ gagner en autonomie et être force de proposition auprès de nos équipes et clients,
+ vous immerger dans l’environnement et les méthodologies de Capgemini.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                6
+
+
+
+
+Ref: 15-ALT-ADM-4487 - Consultant Technique Java/J2EE en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+ADM
+Vous rejoignez notre ligne de Service ADM (Application Development Maintenance) et contribuez aux travaux relatifs à la mise en œuvre
+et à la maintenance de solutions informatiques industrielles pour le compte de nos clients. Vous êtes rattaché(e) à nos équipes projets,
+adressant des problématiques complexes de transformation de SI.
+DESCRIPTION DE LA MISSION
+Intégré(e) au sein de nos équipes projet ADM en tant que Consultant Java/J2ee en alternance (H/F), vous:
+ prenez part à la construction de grands projets de transformation à la fois métier (organisation, process) et informatique
+(développements, mise en place de progiciels, interconnexion de systèmes) portant sur les nouvelles technologies, notamment Java/J2EE,
+ intervenez sur les différentes phases d’un projet : de la traduction technique des besoins fonctionnels, à la conception, la réalisation, aux
+tests et recette, à la mise en production ou encore à la maintenance corrective ou évolutive,
+ assurez le support fonctionnel auprès des utilisateurs.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 avec une spécialisation en Informatique et vous :
+ justifiez d’une première expérience en JAVA/J2EE,
+ appréciez le travail en équipe, autonomie et rigueur sont des qualités qui vous caractérisent,
+ maîtrisez l’anglais (présentations écrites et orales), êtes mobiles pour intervenir sur les sites de nos clients.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose de:
+ acquérir une expertise technique en langage objet, reconnue sur le marché et gagner en autonomie,
+ être force de proposition auprès de nos équipes et clients et, vous immerger dans l’environnement et les méthodologies de Capgemini.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                   7
+
+
+
+
+Ref: 15-ALT-ADM-4488 - Consultant Microsoft en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+ADM
+Vous rejoignez notre ligne de Service ADM (Application Development Maintenance) et contribuez aux travaux relatifs à la mise en œuvre
+et à la maintenance de solutions informatiques industrielles pour le compte de nos clients. De nos jours, une grande partie des projets sur
+lesquels nous travaillons nécessitent l’appui des technologies Microsoft. Nous recherchons donc des collaborateurs en alternance pour
+renforcer nos équipes et répondre ainsi efficacement aux besoins de nos clients.
+DESCRIPTION DE LA MISSION
+Intégré(e) au sein de nos équipes projet ADM en tant que Consultant Microsoft vous :
+ prenez part à la construction de grands projets de transformation à la fois métier (organisation, process) et informatique
+(développements, mise en place de progiciels, interconnexion de systèmes) portant sur les technologies, notamment C++, ASP.NET MVC,
+C#, services WCF,
+ intervenez sur les différentes phases d'un projet: de la traduction technique des besoins fonctionnels, à la conception, la réalisation, aux
+tests et recette, à la mise en production ou encore à la maintenance corrective ou évolutive.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ justifiez d’une expérience en C++, ASP.NET MVC, C#, services WCF,
+ maîtrisez l’anglais (présentations écrites et orales),
+ appréciez le travail en équipe, autonomie et rigueur sont des qualités qui vous caractérisent.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose de:
+ acquérir une expertise technique en langage objet reconnue sur le marché et gagner en autonomie,
+ être force de proposition auprès de nos équipes et clients et vous immerger dans l’environnement et les méthodologies de Capgemini.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                  8
+
+
+
+
+Ref: 15-ALT-ADM-4489 - Consultant Oracle E-Business Suite en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+ADM
+A l’heure où le marché des ERP évolue (Cloud, On Demand, In Memory, …), notre mode de delivery et nos méthodologies doivent plus
+que  jamais permettre à nos clients de renforcer leur efficacité métier par la technologie. Au sein de notre division ADM (Application
+Development & Maintenance), vous êtes rattaché(e) à notre entité ERP et participez à des projets de grande envergure.
+DESCRIPTION DE LA MISSION
+Sous la conduite d'un Chef de Projet, vous êtes chargé(e) de réaliser des études techniques et fonctionnelles. Vous intervenez sur les
+phases de réalisation, de mise en œuvre  et de déploiement opérationnel de systèmes d'information basés sur Oracle E-business Suite.
+Vous intervenez sur les différents modules : achat, vente, logistique, finance, production. Dans ce cadre, vous participez à :
+ la maintenance évolutive (évolutions réglementaires, techniques et nouvelles fonctionnalités),
+ la phase de spécifications (générales et détaillées) et de paramétrage,
+ la réalisation des adaptations et la qualification de l'évolution
+ la maintenance corrective (prise en charge des anomalies, analyse, correction).
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 avec une spécialisation en Informatique et vous :
+ souhaitez développer sur les ERP Oracle (la connaissance d’E-Business Suite n’est pas obligatoire),
+ avez un fort esprit d'entreprenariat, êtes autonome et rigoureux(se).
+Capacité d'adaptation, réactivité, esprit d'équipe et aisance relationnelle sont également des atouts pour mener à bien votre mission.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose de :
+ acquérir une expertise à la fois technique et fonctionnelle en ERP (Oracle E-Business Suite) et gagner en autonomie,
+ être force de proposition auprès de nos équipes et clients, et vous immerger dans l’environnement et les méthodologies de Capgemini.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                          9
+
+
+
+
+Ref: 15-ALT-ADM-4490 - Consultant Technico-Fonctionnel en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+ADM
+Vous rejoignez notre ligne de Service ADM (Application Development Maintenance) et contribuez aux travaux relatifs à la mise en œuvre
+et à la maintenance de solutions informatiques industrielles pour le compte de nos clients.
+Vous êtes basé(e) à Lille ou à Paris, et adressez des problématiques complexes de transformation de SI.
+DESCRIPTION DE LA MISSION
+Rattaché(e) à l’une de nos équipes, vous intervenez sur des projets d’évolution de systèmes d’information en réalisant des missions en
+lien avec :
+ la compréhension des process métiers de nos clients, et la rédaction de cahiers des charges ainsi que des spécifications techniques et
+fonctionnelles
+ le paramétrage de la solution et la réalisation des tests de recette de la solution
+ le support fonctionnel auprès des utilisateurs
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 avec une spécialisation en Informatique et vous :
+ avez une première expérience en finance, logistique, commerce ou achats
+ souhaitez développer votre maîtrise de la modélisation et des normes
+ maîtrisez l’anglais et aimez le travail en équipe
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose :
+ d’acquérir une solide expertise métier grâce à notre palette de clients
+ de vous former aux méthodologies qui font le succès des projets menés par Capgemini
+ de travailler pour des acteurs phares de votre région
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                            10
+
+
+
+
+Sommaire Division - Aérospatiale & Défense (A&D)
+Présentation Division                                                                                                      12
+Missions proposées
+                                                  Concepteur/Développeur PLM en alternance (H/F)                          13
+                                                  Consultant Aéronautique en alternance (H/F)                             14
+                                                  Consultant Big Data en alternance (H/F)                                 15
+                                                  Consultant Digital en alternance (H/F)                                  16
+                                                  Consultant Fonctionnel SAP Débutant en alternance (H/F)                 17
+                                                  Consultant Infrastructures et sécurité en alternance (H/F)              18
+                                                  Consultant en Développement mobile Cross Platform en alternance (H/F)   19
+                                                  Consultant secteur Navigation Aérienne en alternance (H/F)              20
+                                                  Consultant secteur Spatial en alternance (H/F)                          21
+                                                  Consultant SI application Telecom en alternance (H/F)                   22
+                                                  Consultant Technico-fonctionnel SAP en alternance (H/F)                 23
+                                                  Consultant Technique Java/GWT en alternance (H/F)                       24
+                                                  Développeur NTIC en alternance (H/F)                                    25
+                                                  Développeur Web en alternance (H/F)                                     26
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved    11
+
+
+
+
+Présentation Division - Aérospatiale et Défense (A&D)
+Activités de la division                                                               Exemples de projets
+Forte de 30 ans d’expérience sur les activités aéronautiques, spatiales et de          Création d’une maquette numérique pour la gestion des processus dans le cadre
+défense, la division Aérospatiale & Défense, dont le siège est à Toulouse, porte       de la configuration avion et la transformation de la chaîne logistique d’un géant de
+l’ensemble des activités du secteur au sein de Capgemini en France. La division        l’aéronautique (à la fois sur les processus métiers et l’évolution du Système
+Aérospatiale & Défense emploie 1 400 collaborateurs répartis sur 8 villes (Toulouse,   d’Information).
+Marseille, Pau, Sophia Antipolis, Bayonne, Rennes, Paris et Hambourg en
+Allemagne).                                                                            Développement de la chaîne mission des satellites Pléiades pour le Centre
+                                                                                       National d’Etudes Spatiales (CNES) et mise en œuvre du système de
+Elle développe ses activités dans les secteurs de l’Aéronautique, du Spatial, de la    programmation des satellites pour la gestion des demandes d’images de la part des
+Défense et également dans les Services et l’Industrie. Capgemini met au  service de    clients.
+ses clients des expertises métiers à forte valeur ajoutée (intégration de systèmes,
+conseil, NTIC, centres de services, outils collaboratifs, ERP, …).                     Création du système d’information technique de sous-marins pour le compte d’un
+Ministère, à l’étranger.
+Bénéficiant de l’expertise d’ingénieurs et de consultants évoluant au sein de
+centres industriels, de plateformes dédiées et de zones sécurisées, la division
+Aérospatiale et Défense de Capgemini est un acteur incontournable de la vie
+économique locale, nationale et internationale.
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                        12
+
+
+
+
+Ref: 15-ALT-AD-4491 - Concepteur/Développeur PLM en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Au sein de notre Centre d’Excellence National PLM (Product Lifecycle Management), nous accompagnons nos clients grands comptes
+industriels dans l’optimisation de la conception de produits complexes, à travers la mise en place de solutions innovantes.
+DESCRIPTION DE LA MISSION
+Dans le cadre de votre alternance, vous intervenez sur plusieurs missions liées à la réalisation de solutions fondées sur les outils Product
+Lifecycle Management (Teamcenter, PDMLink et Enovia) du marché :
+ les projets de gestion de données techniques,
+ la conception, le développement et l’intégration autour des outils PLM,
+ le recueil des besoins utilisateurs, la rédaction des spécifications, le support au déploiement, le paramétrage, l’installation et la
+configuration.
+PROFIL RECHERCHE
+En préparation d’un diplôme Bac+5 en informatique, vous :
+ avez des connaissances solides en Java, Oracle, XML, et idéalement une connaissance du PLM,
+ maîtrisez l’anglais (présentations écrites et orales),
+ avez le sens du contact, êtes rigoureux(se) et autonome,
+ appréciez le travail en équipe
+Vos capacités de communication et de rédaction sont appréciées.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose de:
+ développer vos connaissances et monter en compétence sur les outils PLM,
+ être force de proposition sur des problématiques complexes au cœur de la stratégie produit de nos clients.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                13
+
+
+
+
+Ref: 15-ALT-AD-4492 - Consultant Aéronautique en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+L’entité Aérospatiale & Défense BTS est le pôle dédié au Conseil en Système d’Information de Capgemini Technology Services.
+DESCRIPTION DE LA MISSION
+Vous êtes intégré(e) à une équipe de consultants déjà en place afin de :
+ apprendre à connaître l’environnement complexe de notre client,
+ monter en compétence sur les méthodes et outils mis en place au sein de l’équipe,
+ définir avec l’équipe de consultants la méthodologie nécessaire pour la conduite de la mission,
+ préparer et conduire des interviews/workshops,
+ définir de façon collaborative avec les différents acteurs les processus cibles,
+ proposer un plan d’action pour les mettre en place opérationnellement et accompagner le client dans le changement,
+ contribuer à la capitalisation des connaissances au sein de l’équipe.
+PROFIL RECHERCHE
+En préparation d’un diplôme Bac+5, vous :
+ maîtrisez l’anglais (présentations écrites et orales)
+ aimez le travail en équipe, êtes force de proposition et savez susciter de nouveaux besoins auprès de nos clients
+ faites également preuve d'une forte capacité d'analyse et de synthèse.
+A la recherche de réelles perspectives d'évolution, vous souhaitez vous impliquer dans des projets à forte valeur ajoutée.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose:
+ de travailler en collaboration directe avec les clients sous la responsabilité du chef de projet ou aux côtés d’un membre de l’équipe,
+ de participer / co-animer des réunions dans un environnement anglo-saxon, à forte connotation technique.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                            14
+
+
+
+
+Ref: 15-ALT-AD-4493 - Consultant Big Data en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Le domaine du Big Data est aujourd’hui en pleine effervescence, technologies et solutions se multiplient. Dans ce cadre, nous désirons
+aujourd’hui effectuer un état de l’art et des développements exploratoires. Le projet est mené dans le Centre de Services de la division
+Aérospatiale & Défense de Capgemini Sophia Antipolis.
+DESCRIPTION DE LA MISSION
+Au sein de notre entité vous intervenez sur différentes missions autour des enjeux Big Data. Les tâches qui vous seront confiées seront les
+suivantes :
+ réalisation d’un état de l’art des technologies et solutions disponibles dans le domaine « Big Data »,
+ mise en place d’une plate-forme de démonstration « Big Data »,
+ préparation de jeux de données, analyse et synthèse des résultats,
+ documentation des travaux effectués.
+L’environnement technique est le suivant : Linux, Java, SGBD SQL et NoSQL.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac + 5 en informatique, vous êtes passionné(e) par l’informatique et les technologies innovantes, et vous avez
+déjà des connaissances dans le domaine du Big Data.
+Aisance relationnelle, expression écrite fluide, sens de l’innovation et maitrise de l’anglais sont requis.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose :
+ un panorama des technologies Big Data,
+ des développements exploratoires java sous linux,
+ de  vous immerger dans l’environnement et les méthodologies Capgemini et de mieux appréhender le métier de Consultant.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                               15
+
+
+
+
+Ref: 15-ALT-AD-4494- Consultant Digital en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+L’entité Aérospatiale & Défense BTS Sophia est le pôle dédié au Conseil en Système d’Information de Capgemini Technology Services pour
+la région Méditerranée. Les missions menées par nos consultants sont très orientées Métiers sur des secteurs très diversifiés (Assurance,
+Automobile, Transport…) : schémas directeurs IT, Business Case, Change Management, BPM, Urbanisation de SI, Cartographie, etc.
+DESCRIPTION DE LA MISSION
+Dans le cadre du développement de l’offre Digital Customer Experience sur la région Sud-Est, l’entité Aérospatiale & Défense souhaite
+renforcer ses capacités de conseil dans le domaine du Digital plus particulièrement sur les domaines Marketing et eBusiness. Ainsi, votre
+mission consiste en :
+ la réalisation d’un Benchmark sur les solutions de Digital Marketing (SWOT, fonctionnalités mobiles…) et la rédaction d’un livre blanc,
+ la réalisation d’une étude de marché sur l’adéquation de ces solutions au marché local et les besoins de nos clients sur différents
+domaines métiers (Life Science, Transport, Insurance…),
+ la proposition et la mise en œuvre d’une implémentation d’un cas métier concret sous forme de Proof-of-Concept scénarisé selon un
+parcours Client (Marketing automation, couplage brique Marketing-CRM, social…).
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Commerce ou Conseil en Management des SI  et vous :
+ avez la capacité à travailler en toute autonomie et avez une forte capacité d’abstraction et êtes créatif(ve),
+ avez une appétence particulière pour les technologies digitales (Marketing/CRM plus particulièrement).
+LES   « PLUS » DE LA MISSION
+Cette mission vous offre l’opportunité de:
+ développer vos connaissances et d’acquérir de nouvelles compétences dans le domaine du Digital,
+ être force de propositions sur des problématiques complexes et pouvoir réaliser et suivre l’implémentation de vos idées,
+ acquérir la rigueur méthodologique d’une grande SSII au sein d’un projet complexe et exigeant.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                             16
+
+
+
+
+Ref: 15-ALT-AD-4495 - Consultant Fonctionnel SAP Débutant en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Le Centre de Compétences M&SC (Manufacturing & Supply Chain) de la Division Aérospatiale & Défense  assure la conduite de grands
+projets de transformation (métier & SI), allant de l’étude de cadrage jusqu’à la mise en œuvre et le déploiement de système d’information
+dans les secteurs de l’Aéronautique, du Spatial, de la Défense mais aussi de l’Industrie et des Services. Dans le cadre de votre mission,
+vous contribuez à des projets à dimension internationale sur le secteur Aéronautique et/ou à l’élaboration d’offres innovantes.
+DESCRIPTION DE LA MISSION
+Intégré(e) à une équipe de consultants Capgemini, vous travaillez en binôme avec un Consultant Expérimenté dans l’un des domaines
+fonctionnels majeurs du projet : la Supply Chain ou la Comptabilité/Contrôle de gestion. Selon les phases du projet, vous intervenez sur
+les activités suivantes :
+ organisation, préparation et conduite des ateliers de travail avec le client,
+ analyse du besoin, prototypage SAP et contrôle de faisabilité dans le standard du produit,
+ rédaction de spécifications fonctionnelles en collaboration avec le client et l’équipe,
+ explication du besoin fonctionnel et préparation des jeux de tests en collaboration avec un consultant technique,
+ préparation et exécution des tests fonctionnels (scénarii, cas de tests, jeux de données),
+ support de recette par le client et traitement des faits techniques et accompagnement du changement .
+PROFIL RECHERCHE
+Vous préparez un BAC+5 avec une spécialisation en SI et vous maîtrisez l’anglais (présentation orales et écrites) ainsi que les outils
+Microsoft. Implication, curiosité, pro activité sont des qualités qui vous caractérisent. Bon(ne) communiquant(e), vous aimez le travail en
+équipe.
+LES   « PLUS » DE LA MISSION
+Votre mission se déroule en collaboration directe avec le client, sous la responsabilité du Chef de projet et aux côtés d’un membre de
+l’équipe. Votre tuteur vous accompagne dans vos activités dans le but de vous rendre opérationnel et autonome sur le projet.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                               17
+
+
+
+
+Ref:15-ALT-AD-4496 - Consultant Infrastructures et sécurité en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+L’agence rennaise de la division Aérospatiale & Défense, accompagne ses clients du secteur de la Défense, dans la définition et la mise en
+œuvre de leurs systèmes d'information, qu'ils s'agissent des Systèmes d'Information Opérationnels de Commandement (SIOC), utilisés en
+milieu militaire et notamment en opérations extérieures, ou des Systèmes d'Administration et de Gestion (SIAG) de leurs activités.
+DESCRIPTION DE LA MISSION
+Vous êtes au cœur de l'évolution des nouvelles technologies et participez à des projets technologiquement avancés pour des clients du
+secteur de la Défense. Au sein d’une équipe projet et sous la responsabilité d'un chef de projet, vous :
+ prenez part aux travaux de conception, au choix et à l'analyse des systèmes et logiciels à intégrer,
+ avez en charge le paramétrage et le déploiement de logiciels comme par exemple des anti-virus, une messagerie, un annuaire, une
+solution de gestion des identités, un système de gestion de clés, etc.
+PROFIL RECHERCHE
+En préparation d’un Bac+5 en informatique, vous possédez une partie de ces compétences:
+ Sécurité réseau : Pare-feu, VPN, Proxy, etc.
+ Hébergement / Virtualisation : VMWare, Hyper V, Virtual Box
+ Bases de données : SQL Server, PostGreSQL
+ Annuaires identités et SSO : Active Directory, solutions Ilex et messageries : Exchange, Postfix, Jabber, Lync
+ Développements : C#, Java, Powershell, Bash et Technologies Web : Joomla, Drupal, JBOSS, etc.
+Vous pouvez être habilité(e) Défense.
+LES   « PLUS » DE LA MISSION
+Cette mission vous offre l’opportunité de:
+ découvrir l’environnement de la Défense, par le biais de projets technologiquement avancés dans des équipes à taille humaine,
+ acquérir la rigueur méthodologique d’une grande SSII au sein d’un projet complexe et exigeant.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                              18
+
+
+
+
+Ref:15-ALT-AD-4497 - Consultant en Développement mobile Cross Platform en
+alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Le domaine du développement mobile est aujourd’hui en pleine effervescence, technologies et solutions se multiplient.
+Dans ce cadre nous désirons aujourd’hui réaliser un projet utilisant des outils de développement Cross Platform dans le but de comparer
+celui-ci à des développements natifs.
+DESCRIPTION DE LA MISSION
+Intégré(e) à une équipe du centre de service vous intervenez sur les différentes parties  de l’application. Vous avez en charge :
+ les spécifications détaillées et design des écrans,
+ la conception technique en relation avec l’architecte du projet,
+ le développement de l’application,
+ la validation de l’application,
+ le packaging et déploiement de l’application sur les différentes plateformes, et la documentation des travaux effectués.
+L’environnement technique est le suivant: .NET / HTML5 / JavaScript / CSS; SQL Server.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac + 5 en informatique, vous êtes passionné(e) par l’informatique et les technologies innovantes, et vous avez
+déjà des connaissances dans le domaine du développement mobile.
+Aisance relationnelle, expression écrite fluide, maitrise de l’anglais, sens de l’innovation et  travail en autonomie sont requis.
+LES   « PLUS » DE LA MISSION
+Cette mission vous offre l’opportunité de:
+ obtenir une expérience dans le développement d’application mobile,
+ gagner en autonomie et proposer des solutions innovantes,
+ vous former aux méthodologies projet de Capgemini et expérimenter concrètement le métier de consultant dans une grande SSII.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                            19
+
+
+
+
+Ref: 15-ALT-AD-4502 - Consultant secteur Navigation Aérienne en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+La  division Aérospatiale & Défense, dans son unité CSD (Custom Software Development), prend en charge la réalisation de systèmes
+complexes critiques aéronautiques, spatiaux et de défense. Au sein de CSD, cette mission est proposée par le pôle “Spatial et ATM” et
+s’insère dans le cadre des projets du secteur navigation: visualisation/ contrôle trafic aérien, traitement de données radar, traitement
+information aéronautique, etc.
+DESCRIPTION DE LA MISSION
+Pour les grands comptes du domaine de la Navigation Aérienne, Capgemini délivre et maintien en conditions opérationnels des systèmes
+tels que le poste de contrôle en route, le système de dialogue électronique sol/bord, le système de routage des données radar, le système
+de dépôt de plan de vols, …   . Capgemini développe ces systèmes de A à Z, en partant des spécifications système jusqu’à la validation
+fonctionnelle, en passant par le design, le codage, le test et l’intégration logicielle. Au sein de l’équipe de développement, il vous est
+demandé de concevoir ou d’adapter le composant logiciel qui vous est confié, d’en réaliser le codage et les tests, dans les technologies
+majoritairement C++, mais aussi Java, Python, JavaScript…, en environnement Linux et Windows. Une participation aux travaux de
+spécification, d’intégration et de validation est aussi envisagée.
+PROFIL RECHERCHE
+Vous préparez un diplôme BAC+5 en informatique et disposez de solides bases en développement (JAVA, C++, Eclipse, PostgreSQL,
+Python, Spring, Linux). De plus, vous :
+ aimez les challenges , appréciez le travail en équipe, avez une très bonne autonomie, êtes rigoureux(se) et motivé(e),
+ êtes intéressé(e) par les sujets spatiaux (problématiques mathématiques, qualité image).
+LES   « PLUS » DE LA MISSION
+En plus de l’enrichissement de vos compétences techniques, vous découvrez les méthodologies projet de Capgemini.
+Vous êtes complètement impliqué(e) dans la vie de l’entité “Space / ATM” et découvrez le métier de consultant développeur
+dans le cadre des activités de R&D et d’innovation.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                              20
+
+
+
+
+Ref: 15-ALT-AD-4503 - Consultant secteur Spatial en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Capgemini Aérospatiale & Défense, dans son unité CSD (Custom Software Development), prend en charge la réalisation de systèmes
+complexes critiques aéronautiques, spatiaux et de défense. Au sein de CSD, cette mission est proposée par le pôle “Spatial et ATM” et
+s’insère dans le cadre des projets du secteur spatial : traitement de données satellite, centre de contrôle, centre de mission…
+DESCRIPTION DE LA MISSION
+Pour les grands comptes du domaine spatial, Capgemini délivre des segments sol mission, des segments sol utilisateur, des centres
+d’exploitation, des centres de production image. Capgemini développe ces systèmes de A à Z, en partant des spécifications système
+jusqu’à la validation fonctionnelle, en passant par le design, le codage, le test et l’intégration logicielle.
+Au sein de l’équipe de développement, il vous est demandé de concevoir le composant logiciel qui vous est confié, d’en réaliser le codage
+et les tests, dans les technologies majoritairement Java, mais aussi C++, Python, JavaScript…, en environnement Linux et Windows. Une
+participation aux travaux de spécification, d’intégration et de validation est aussi envisagée.
+PROFIL RECHERCHE
+Vous préparez un diplôme BAC+5 en informatique et disposez de solides bases en développement (JAVA, C++, Eclipse, PostgreSQL,
+Python, Spring, Linux). De plus, vous :
+ aimez les challenges et appréciez le travail en équipe,
+ avez une très bonne autonomie, êtes rigoureux(se) et motivé(e),
+ êtes intéressé(e) par les sujets spatiaux (problématiques mathématiques, qualité image).
+LES   « PLUS » DE LA MISSION
+En plus de l’enrichissement de vos compétences techniques, vous  découvrez les méthodologies projet de Capgemini.
+Vous êtes complètement impliqué(e) dans la vie de l’entité “Space / ATM” et découvrez le métier de consultant développeur
+dans le cadre des activités de R&D et d’innovation.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                             21
+
+
+
+
+Ref: 15-ALT-AD-4504 - Consultant SI application Telecom en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Pour notre client, leader dans le secteur des télécoms, nous maintenons des applications de gestion de suivi de la facturation et de la
+consommation à destination des clients entreprises et grand public. Au sein de ce projet, vous évoluez dans un environnement technique
+et fonctionnel  très varié qui vous offre une mission très challengeante.
+DESCRIPTION DE LA MISSION
+Intégré(e) à une équipe interne vous intervenez sur les différentes parties de l’application. Vous avez en charge :
+ les workshops de cadrage des fonctionnalités,
+ l’analyse d’impacts, avec chiffrage et estimation de la solution proposée,
+ les spécifications détaillées et la mise en œuvre des exigences, la conception technique en relation avec l’architecte du projet,
+ le développement sur une plateforme d’intégration continue ainsi que les  tests outillés et automatisés.
+L’environnement technique est le suivant : Apache, Tomcat, C, etc; Framework : Hibernate, Spring, Maven; Bases de données : Oracle
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 avec une spécialisation en Informatique et vous :
+ avez une première connaissance des technologies de développement Web J2ee (HTML, CSS, Java,…), C. La connaissance de bases de
+données (Oracle …), ainsi qu’une bonne connaissance d’Unix seraient un plus,
+ êtes autonome, avez le sens du relationnel et le goût du travail en équipe et maîtrisez l’anglais (présentations écrites et orales).
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous offre l’opportunité de :
+ gagner en autonomie et proposer des solutions innovantes,
+ monter en compétences sur des Framework récents et acquérir de solides connaissances fonctionnelles,
+ vous former aux méthodologies projet de Capgemini et expérimenter concrètement le métier de consultant dans une grande SSII.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                           22
+
+
+
+
+Ref: 15-ALT-AD-4505 - Consultant Technico-fonctionnel SAP en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Le Centre de Compétences M&SC (Manufacturing & Supply Chain) de la Division Aérospatiale & Défense  assure la conduite de grands
+projets de transformation (métier & SI), allant de l’étude de cadrage jusqu’à la mise en œuvre et le déploiement de système d’information
+dans les secteurs de l’Aéronautique, du Spatial, de la Défense mais aussi de l’Industrie et des Services.
+Dans le cadre de votre mission, vous contribuez à des projets de dimension internationale dans le secteur Aéronautique et/ou à
+l’élaboration d’offres innovantes (ex : SAP Mobilité, SAP Hara).
+DESCRIPTION DE LA MISSION
+Directement intégré(e) au sein d’une équipe de consultants, vous travaillez en binôme avec un Consultant Expérimenté sur des
+problématiques techniques SAP. Dans ce cadre, vous êtes amené(e) à :
+ analyser le besoin client et rédiger les spécifications fonctionnelles en collaboration avec le client ou avec le porteur d’offre,
+ faire du développement en Abap (langage de programmation SAP),
+ travailler en collaboration avec les consultants techniques pour les développements spécifiques (explication du besoin fonctionnel,
+réalisation des jeux de tests unitaires, …),
+ réaliser les tests fonctionnels et tests de non-régression.
+PROFIL RECHERCHE
+De formation BAC+5 avec une spécialisation en SI, vous maîtrisez l’anglais (présentation orales et écrites) ainsi que les outils Microsoft.
+Implication, curiosité, pro activité sont des qualités qui vous caractérisent. Bon(ne) communiquant(e), vous aimez le travail en
+équipe.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous offre l’opportunité de :
+ votre tuteur vous accompagne dans vos activités dans le but de vous rendre opérationnel et autonome sur le projet,
+ vous former aux méthodologies projet de Capgemini et expérimenter concrètement le métier de consultant dans une grande SSII.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                               23
+
+
+
+
+Ref: 15-ALT-AD-4506 - Consultant Technique Java/GWT en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+Notre client, leader dans le transport maritime, souhaite procéder à la refonte et à l’optimisation de son système d’information.
+Vous intégrez la Division Aérospatiale & Défense de Capgemini et participez  à un projet mené conjointement par l’agence de Marseille et
+de Rabat avec une équipe d’une quinzaine de personnes.
+DESCRIPTION DE LA MISSION
+Dans le cadre de la mise en œuvre de cette application, vous êtes intégré(e) à une équipe interne et intervenez sur les différentes parties
+de l’application. Les tâches qui vous sont confiées sont les suivantes :
+ reprise de données,
+ édition de rapport,
+ conception technique et développement en relation avec le référent technique du projet,
+ tests de validation.
+L’environnement technique est le suivant : JBOSS; Hibernate/JPA, GWT, JAVA/J2EE, EJB3, TALEND, BIRT.
+PROFIL RECHERCHE
+De formation Bac + 5 en informatique, vous pratiquez les technologies de développement Web J2ee (HTML, CSS, Java,…).
+La connaissance des bases de données (Oracle) ou du framework GWT est un plus.
+Aisance relationnelle, capacités d’adaptation fortes et sens du travail en équipe sont requis pour un projet exigeant et complexe.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous propose :
+ d’utiliser la méthodologie LEAN,
+ des enjeux client forts, un projet de grande ampleur, ainsi qu’un contexte international avec du travail en collaboration avec le Maroc,
+ des technologies récentes et attractives.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                               24
+
+
+
+
+Ref: 15-ALT-AD-4507 - Développeur NTIC en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+La division Aérospatiale & Défense, accompagne ses clients grands comptes des secteurs de la Défense et de l'Aéronautique,
+institutionnels comme industriels, dans la transformation de leurs systèmes d'informations, tant au travers de prestations dans le
+domaine fonctionnel (analyse du besoin, conduite du changement, refonte de processus) que technique (développement de SI,
+implémentation de solutions PLM ou ERP...).
+DESCRIPTION DE LA MISSION
+Au sein d’un projet de Build de SI pour un client du secteur Défense ou Aéronautique, dans une équipe à taille humaine, vous avez pour
+mission:
+ l’analyse de la solution globale sur le plan fonctionnel et de l’architecture,
+ la conception et le développement (Java, J2EE, PHP, C#, Sharepoint…),
+ la participation à la rédaction du plan de test, à la définition et à la mise en place de l’environnement d’intégration et de test,
+ la validation du bon fonctionnement de la solution sur un plan technique et fonctionnel.
+PROFIL RECHERCHE
+En préparation d’un Bac+5 en informatique, vous :
+ disposez d’une première expérience dans les technologies orientées objet (Java, J2EE, C#…) et/ou web (PHP, Drupal, .Net, Sharepoint),
+ êtes intéressé(e) par les secteurs de la Défense et de l’Aéronautique,
+ appréciez le travail en équipe et faites preuve de capacités d’organisation.
+Vous pouvez également être habilité(e) défense.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous offre l’opportunité de découvrir l’environnement fonctionnel pluriel du monde de la Défense et de
+l’Aéronautique, par le biais de projets technologiquement avancés dans des équipes à taille humaine.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                           25
+
+
+
+
+Ref: 15-ALT-AD-4508 - Développeur Web en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+A&D
+La division Aérospatiale & Défense, accompagne ses clients grands comptes des secteurs de la Défense et de l'Aéronautique,
+institutionnels comme industriels, dans la transformation de leurs systèmes d'informations, tant au travers de prestations dans le
+domaine fonctionnel (analyse du besoin, conduite du changement, refonte de processus) que technique (développement de SI,
+implémentation de solutions PLM ou ERP...).
+DESCRIPTION DE LA MISSION
+Vous contribuez à l’ensemble du cycle de vie d’un projet web /CMS, de la phase de recueil des besoins jusqu’à la mise en production.
+Sous la responsabilité d’un chef de projet, vous participez aux activités d’analyse et de développement du projet en prenant en charge
+tout ou partie d’un périmètre fonctionnel ou technique.
+L’environnement technique de cette mission est le suivant : LAMP, Drupal, Symfony 2 (ou autre framework PHP), HTML5 / CSS3 et les
+frameworks web, gestion de configuration (GIT, SVN).
+PROFIL RECHERCHE
+En préparation d’un diplôme Bac+5 en informatique, vous :
+ faites preuve d’une forte autonomie, avez le sens de l’initiative et possédez un fort esprit de synthèse et êtes pragmatique,
+ avez un goût prononcé pour les technologies Web, pour l’Internet,
+ avez une bonne maîtrise de l’anglais.
+Vos capacités de communication, d’analyse et de rédaction sont un plus apprécié.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous offre l’opportunité de :
+ découvrir l’environnement fonctionnel pluriel du monde de la Défense et de l’Aéronautique, par le biais de projets technologiquement
+avancés dans des équipes à taille humaine.
+ vous former aux méthodologies projet de Capgemini et expérimenter concrètement le métier de consultant dans une grande SSII.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                          26
+
+
+
+
+Sommaire Division - Communications & Energie-Utilities (CEU)
+Présentation Division                                                                                                         28
+Missions proposées
+                                                              Consultant Nouvelles Technologies ou CRM en alternance (H/F)   29
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                27
+
+
+
+
+Présentation Division - Communications & Energie-Utilities (CEU)
+Activités de la division                                                                                                                                                     Exemples de projets
+                                                                                                                                                                             Projet Digitale Customer eXperience: Ce projet auprès d’un leader mondial des
+                                                                                         La division Communications & Energie-Utilities  intervient dans trois secteurs :
+                                                                                                                                                                             assurances en Suisse vise notamment à permettre un marketing plus personnalisé.
+                                                                                        Télécommunications et Média
+C’est dans cette dynamique que notre client a profité de ce projet pour procéder à
+                                                                                        Energies, Utilities & Chimie
+                                                                                                                                                                                                                                                                                                                         une refonte nécessaire de son système d’information, en faisant du CRM la pierre
+                                                                                        Digitalisation
+                                                                                                                                                                                                                                                                                                                         angulaire de son IT. La solution CRM en mode SAAS mise en place par Capgemini
+                                                                                                                                                                                                                                                                                                                         s’intègre avec le système ERP qui sert quant à lui plutôt aux processus internes tels
+                                                                                         Cette Business Unit regroupe plus de 1000 Collaborateurs qui interviennent auprès
+                                                                                                                                                                                                                                                               que les finances, le controlling, les achats et les RH.
+                                                                                         de nos clients d’une part sur des applications novatrices, et d’autres part  sur
+l’intégration de systèmes.
+                                                                                                                                                                                                                                                                                                                         Projet d’Information Management: Nous délivrons un projet d’Information
+                                                                                         Les missions proposées permettent d’intervenir sur des domaines aussi variés que
+                                                                                                                                                                                                                                                                                                                         Management pour un acteur majeur du secteur nucléaire afin de lui permettre de
+le CRM, le BPM, les approches SOA et Digitales.
+                                                                                                                                                                                                                                                                                                                         mesurer la qualité et la complétude des informations de construction d’une
+                                                                                                                                                                                                                                                                                                                         nouvelle installation, et de se préparer à la phase d’opération. L’offre DiALM
+                                                                                                                                                                             Une large gamme de solutions et de                                                                                                          (Digital industrial Asset Lifecycle Management) développe également l’usage des
+                                                                                                                                                                             services:                                                                                                                                   technologies de réalité virtuelle pour la simulation et la formation aux interventions
+en milieu à risque, ainsi que la mobilité, la réalité augmentée et les drones pour les
+DCX - Digital Customer Experience                                                        opérations de maintenance et d’inspection.
+Dialm - Digital-industrial Asset Lifecycle
+Telecom, Media &
+Management
+Entertainment                                                                            BIWI - Bill As You Wish
+Smart Energy Services
+Digital Transformation
+Big Data - Insights & Data
+Billing
+Mobility
+Field Services
+Data Analytics
+Services platform…
+Energy & Utilities
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                          28
+
+
+
+
+Ref: 15-ALT-CEU-4509 - Consultant Nouvelles Technologies ou CRM en alternance
+(H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+CEU
+La division Communications & Energie-Utilities propose des missions vous permettant d’intervenir sur des domaines aussi variés que le
+CRM, le BPM, les approches SOA et Digitales. Nous recherchons donc des collaborateurs pour renforcer nos équipes et ainsi répondre
+efficacement aux besoins de nos clients.
+DESCRIPTION DE LA MISSION
+Votre mission consiste à prendre part à la construction de grands projets de transformation à la fois métier (organisation, process) et
+technique (développement, mise en place de progiciels, interconnexion de systèmes) portant sur les nouvelles technologies, notamment
+Java/J2EE, Microsoft (SharePoint 2010, SharePoint 2013, .Net), ou encore des progiciels dédiés au CRM (SalesForce, Siebel, Microsoft
+Dynamics). Intégré(e) à l’une de nos équipes, vous êtes amené(e) à intervenir sur les différentes phases d'un projet : conception,
+réalisation, tests, recette, mise en production ou encore à la maintenance corrective ou évolutive.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en informatique et vous disposez de compétences dans l’un des domaines suivants :
+ Programmation orientée objet, notamment Java/J2EE, C/C++,
+ HTML5 & XHTML/CSS, PHP, Javascript (DOM et Ajax),
+ MySQL ou autre serveur de base de données,
+ SharePoint et /ou .NET.
+Vous avez un niveau d’anglais opérationnel (présentations orales et écrites)
+LES   « PLUS » DE LA MISSION
+Cette alternance vous donne la possibilité de:
+ travailler dans un environnement technique et fonctionnel innovant,
+ acquérir une expertise sectorielle et méthodologique,
+ bénéficier d’un réel management de proximité et de consolider vos compétences techniques et fonctionnelles.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                           29
+
+
+
+
+Sommaire Division - Financial Services (FS GBU)
+Présentation Division                                                                                            31
+Missions proposées
+                                                 Consultant développement mobile en alternance (H/F)            32
+                                                 Consultant développeur en alternance (H/F)                     33
+                                                 Consultant Java/J2ee en alternance (H/F)                       34
+                                                 Consultant Nouvelles Technologies ou CRM en alternance (H/F)   35
+                                                 Ingénieur en Innovation en alternance (H/F)                    36
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved   30
+
+
+
+
+Présentation Division - Financial Services (FS GBU)
+Activités de la division                                                                Exemples de projets
+                                                                                        Refonte du SI Bancaire : pour gagner en performance, une banque internationale a
+Avec plus de 21 000 professionnels présents sur tous les continents, au service de
+                                                                                        décidé de rénover son Système d’Information sur la base des technologies
+900 clients et réunis au sein d’une Unité dédiée au secteur des Services Financiers
+                                                                                        Java/J2EE, l’objectif étant de se doter d’une solution plus moderne et évolutive.
+(FS GBU - Financial Services Global Business Unit), Capgemini occupe une position
+                                                                                        Afin de sécuriser cette ambitieuse migration ainsi que la phase de transition
+unique sur le marché.
+                                                                                        associée, le client a fait appel au Groupe Capgemini pour bénéficier de son retour
+                                                                                        d’expérience dans la refonte de SI bancaires.
+Au sein de Capgemini France, la FS GBU France développe et met en œuvre des
+solutions innovantes et adaptées aux enjeux stratégiques et technologiques des
+                                                                                        Développement et internationalisation d’une application sous Salesforce : un
+clients de la Banque, de l’Assurance et des Institutions financières de l’hexagone.
+                                                                                        acteur majeur de l’assurance décide, en 2012, de mettre en place pour ses points
+Elle compte près de 1300 collaborateurs et opère depuis la région parisienne,
+                                                                                        de vente, une application dédiée à la souscription et la gestion des garanties de
+Nantes, Montpellier et Ruoms (Ardèche), en faisant appel à une large palette
+                                                                                        prêt ainsi qu’à la déclaration des sinistres. Souhaitant renforcer son développement
+d’expertises métiers :
+en Asie-Pacifique, l’assureur décide de déployer l’application dans cette région.
+                                                                                       Banque
+Devant des problématiques d’internationalisation de l’application existante, cet
+                                                                                       Assurance
+                                                                                                                                                                               acteur a fait appel à l’expertise de Capgemini pour refondre l’application existante
+                                                                                       Finance de marchés
+                                                                                                                                                                               et en développer une nouvelle sous Salesforce.
+                                                                                       Multi-canal, Digital
+                                                                                       Cartes & Paiements
+Centre de Service de maintenance du SI IARD d’un leader de l’assurance : un des
+                                                                                       Risque & Conformité, BI
+leaders mondiaux de l’assurance a confié à Capgemini la maintenance de son
+Système d’Information IARD (Incendies, Accidents et Risques Divers). Des équipes
+Capgemini localisées en France et au Vietnam interviennent sur des projets
+d’évolution au cœur du SI du client (gestion de contrats, gestion des sinistres, f
+acturation, …). Après plusieurs années de collaboration réussie, le client a confié à
+Capgemini la réalisation d’un projet de refonte de son SI de gestion des sinistres,
+basé sur un progiciel du marché.
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                         31
+
+
+
+
+Ref: 15-ALT-FS-4510 - Consultant développement mobile en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+FS GBU
+L'entité Financial Services Global Business Unit, à laquelle vous serez rattaché(e), accompagne nos clients Banque/Assurance dans la
+transformation et l'évolution de leur SI avec une expertise dans les domaines suivants : Banque, Finance de marchés, Assurance, Risques
+et Conformité, Business Intelligence, Gestion de la relation client, Leasing, Banque de détail et Moyens de Paiement.
+DESCRIPTION DE LA MISSION
+Intégré(e) au sein de nos équipes parisiennes, vous évoluez sur un projet de mobilité qui vise à faciliter l'accès à l'information via la mise
+en place d'une application métier dédiée.
+Vous participez aux différentes phases du projet:
+ définition des attentes du client,
+ spécifications techniques et fonctionnelles,
+ conception, architecture et développement sous HTML5/Angular JS,
+ tests et assistance technique.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac + 5 en Informatique et :
+ le secteur Banques - Assurances vous intéresse,
+ vous maîtrisez l'anglais à l'écrit et à l'oral,
+ vous faites preuve de très bonnes capacités d'adaptation et de communication
+LES   « PLUS » DE LA MISSION
+En plus de l’enrichissement de vos compétences techniques, vous :
+ profitez d'un parcours évolutif au sein de notre Business Unit dédiée aux clients du secteur Banque-Assurance,
+ intégrez des projets ambitieux pour nos clients, Grands Comptes de la Finance, au niveau national et international.
+Pour postuler hortense.desvignes@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                  32
+
+
+
+
+Ref: 15-ALT-FS-4511 - Consultant développeur en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+FS GBU
+L'entité Financial Services Global Business Unit, à laquelle vous serez rattaché(e), accompagne nos clients Banque/Assurance dans la
+transformation et l'évolution de leur SI avec une expertise dans les domaines suivants : Banque, Finance de marchés, Assurance, Risques
+et Conformité, Business Intelligence, Gestion de la relation client, Leasing, Banque de détail et Moyens de Paiement.
+DESCRIPTION DE LA MISSION
+Intégré(e) au sein de nos équipes, vous participez aux différentes phases d’un projet d’intégration de systèmes: conception,
+développement, intégration et validation, tests et support. Vous évoluez dans des domaines variés tels que :
+ l'analyse de la solution globale,
+ l'expertise technique et le génie logiciel en modélisation et réalisation dans les technologies Java/JEE ou COBOL /Mainframe,
+ l’intégration de progiciels spécialisés de notre secteur d’activité,
+ la participation à la définition et à la mise en place de l'environnement d'intégration et de test,
+ la validation du bon fonctionnement de la solution sur un plan technique et fonctionnel.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ souhaitez évoluer dans un environnement innovant et être formé(e) aux technologies Mainframe ou Objet,
+ possédez des compétences techniques (théoriques et/ou stage) en COBOL ou en java/j2ee,
+ maîtrisez l’anglais (écrit et oral).
+LES   « PLUS » DE LA MISSION
+Au travers de cette alternance, vous suivrez un véritable parcours d’intégration qui vous permettra d’acquérir les fondamentaux
+de notre métier grâce à notre politique de formation et à un management de proximité.
+Notre présence mondiale vous offre par la suite la possibilité d'avoir une expérience de travail avec l’étranger.
+Pour postuler hortense.desvignes@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                           33
+
+
+
+
+Ref: 15-ALT-FS-4512 - Consultant Java/J2ee en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+FS GBU
+L'entité Financial Services Global Business Unit, à laquelle vous serez rattaché(e) accompagne nos clients Banque/Assurance dans la
+transformation et l'évolution de leur SI avec une expertise dans les domaines suivants : Banque, Finance de marchés, Assurance, Risques
+et Conformité, Business Intelligence, Gestion de la relation client, Leasing, Banque de détail et Moyens de Paiement.
+DESCRIPTION DE LA MISSION
+Intégré(e) au sein de nos équipes projet FS GBU, vous participez aux différentes phases : conception, développement, intégration et
+validation, tests et support d'un projet d'envergure d'intégration de système.
+Vous êtes amené(e) à évoluer au sein de nos équipes projets dans des domaines variés tels que :
+ l'analyse de la solution globale sur le plan fonctionnel et architecture,
+ l'expertise technique et le génie logiciel en modélisation et réalisation dans les technologies Objet (Java/JEE),
+ l'intégration de progiciels spécialisés de notre secteur d'activité,
+ la participation à la définition et à la mise en place de l'environnement d'intégration et de test,
+ la validation du bon fonctionnement de la solution sur un plan technique et fonctionnel.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ avez une première expérience théorique ou pratique en développement de nouvelles technologies (J2EE, Java),
+ maîtrisez l’anglais (écrit et oral),
+ avez de bonnes qualités d’adaptation et un sens du contact qui vous permettent de vous intégrer facilement au sein d’une équipe.
+LES   « PLUS » DE LA MISSION
+Au travers de cette alternance, vous suivrez un véritable parcours d’intégration qui vous permettra d’acquérir les fondamentaux
+de notre métier grâce à notre politique de formation et à un management de proximité.
+Notre présence mondiale vous offre par la suite la possibilité d'avoir une expérience de travail avec l’étranger.
+Pour postuler hortense.desvignes@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                           34
+
+
+
+
+Ref: 15-ALT-FS-4513 - Consultant Nouvelles Technologies ou CRM en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+FS GBU
+L'entité Financial Services Global Business Unit, à laquelle vous serez rattaché(e) accompagne nos clients Banque/Assurance dans la
+transformation et l'évolution de leur SI avec une expertise dans les domaines suivants : Banque, Finance de marchés, Assurance, Risques
+et Conformité, Business Intelligence, Gestion de la relation client, Leasing, Banque de détail et Moyens de Paiement.
+DESCRIPTION DE LA MISSION
+Intégré(e) à l’une de nos équipes, vous apportez votre contribution aux différentes phases d'un projet : conception, réalisation, tests,
+recette, mise en production ou encore maintenance corrective ou évolutive.
+Dans le cadre de votre mission, vous prenez part à la construction de grands projets de transformation à la fois métiers
+(organisation, process) et techniques (développement, mise en place de progiciels, interconnexion de systèmes) portant sur les
+nouvelles technologies, notamment Java/J2EE, Microsoft (SharePoint 2010, SharePoint 2013, .Net), ou encore des progiciels
+dédiés au CRM (SalesForce, Siebel, Microsoft Dynamics).
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac + 5 en Informatique et vous disposez de compétences dans l’un des domaines suivants :
+ programmation orientée objet, notamment Java/J2EE, C/C++
+ HTML5 & XHTML / CSS, PHP
+ SharePoint et / ou .NET
+Vous parlez anglais couramment.
+LES   « PLUS » DE LA MISSION
+En plus de l’enrichissement de vos compétences techniques, vous :
+ profitez d'un parcours évolutif au sein de notre Business Unit dédiée aux clients du secteur Banque-Assurance,
+ intégrez des projets ambitieux pour nos clients, Grands Comptes de la Finance, au niveau national et international.
+Pour postuler hortense.desvignes@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                            35
+
+
+
+
+Ref: 15-ALT-FS-4514 - Ingénieur en Innovation en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+FS GBU
+L'entité Financial Services Global Business Unit, à laquelle vous serez rattaché(e), accompagne nos clients Banque/Assurance dans la
+transformation et l'évolution de leur SI avec une expertise dans les domaines suivants : Banque, Finance de marchés, Assurance, Risques
+et Conformité, Business Intelligence, Gestion de la relation client, Leasing, Banque de détail et Moyens de Paiement.
+DESCRIPTION DE LA MISSION
+L'ExoTeam, est une équipe pluridisciplinaire mettant en œuvre les technologies, les méthodologies et les organisations vous permettant
+d'être à la pointe. Au sein de l'équipe, vous :
+ participez à la création d'outils et de solutions innovantes, êtes acteur de la création de valeur pour nos clients,
+ faites de votre alternance une expérience unique, enrichissante aussi bien professionnellement qu'humainement.
+Vous êtes amené(e) à :
+ travailler sur nos technologies de prédilections allant de java JEE à .Net en passant par Erlang, Akka, Javascript, MongoDB , les solutions
+tactiles et les IHM sans contact,
+ acquérir notre méthodologie phare : Scrum-XP, et bénéficier d'une formation adaptée à nos métiers.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac + 5 en Informatique et vous:
+ souhaitez évoluer dans un environnement innovant et être formé(e) aux technologies objet,
+ possédez des compétences techniques (théorique et/ou stage) en java/j2ee de la créativité, l'envie d'apprendre et de créer,
+ parlez anglais couramment.
+LES   « PLUS » DE LA MISSION
+Au travers de cette alternance, vous suivrez un véritable parcours d’intégration qui vous permettra d’acquérir les fondamentaux
+de notre métier grâce à notre politique de formation et à un management de proximité.
+Notre présence mondiale vous offre par la suite la possibilité d'avoir une expérience de travail avec l’étranger.
+Pour postuler hortense.desvignes@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                 36
+
+
+
+
+Sommaire Division - Manufacturing, Consumer & Retail (MCR)
+Présentation Division                                                                                                38
+Missions proposées
+                                                            Consultant Fonctionnel en alternance (H/F)              39
+                                                            Consultant Fonctionnel E-commerce en alternance (H/F)   40
+                                                            Consultant Java/J2ee en alternance (H/F)                41
+                                                            Consultant Mobilité en alternance (H/F)                 42
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved              37
+
+
+
+
+Présentation Division - Manufacturing, Consumer & Retail (MCR)
+Activités de la division                                                                 Exemples de projets
+                                                                                         Projet Google: un équipementier automobile a choisi Capgemini pour déployer
+La division MCR intervient dans trois secteurs :
+à grande échelle les applications en ligne de Google. L’objectif est d’équiper plus de
+                                                                                        Industrie
+30 000 utilisateurs dans le monde pour faciliter la collaboration entre les différents
+                                                                                        Grande Consommation
+sites du groupe. Cet équipementier souhaite ainsi optimiser ses processus et
+                                                                                        Retail
+                                                                                                                                                                                                                                                          favoriser le partage des connaissances.
+                                                                                                                                                                       Capgemini se positionne à la fois sur les offres métiers et technologiques, pour
+                                                                                                                                                                                                                                                                                                    Secteur Grande Consommation: Déploiement d’un programme SAP pour le
+                                                                                                                                                                       accompagner ses clients dans leurs projets de transformation cœur de métier ou
+                                                                                                                                                                                                                                                                                                    compte d’un industriel du secteur alimentaire dans le but de décloisonner
+                                                                                         d’innovation, leur permettant de se différencier sur le marché.
+                                                                                                                                                                                                                                                                                                    complètement l’organisation et d’harmoniser les pratiques du groupe à travers le
+                                                                                                                                                                                                                                                                                                    monde. Ce projet mobilise 40 consultants et une partie du delivery est réalisée en
+                                                                                                                                                                       Capgemini construit de véritables savoir-faire métier sur 5 business models
+                                                                                                                                                                                                                                                          offshore.
+                                                                                                                                                                       répondant aux enjeux majeurs du secteur Manufacturing, Consumer & Retail :
+                                                                                        Digital Industrial Lifecycle Asset Management
+                                                                                        Ingénierie et production
+                                                                                                                                                                      Après-vente, maintien en conditions opérationnelles
+                                                                                        Digital Customer Experience
+                                                                                        Digital commerce B2B, B2C
+Par ailleurs, nous concevons et développons des solutions collaboratives et métier
+liées à la mobilité et à la notion d’entreprise étendue, permettant à nos clients
+d’être à la pointe de la technologie et de se différencier sur leur marché.
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                          38
+
+
+
+
+Ref: 15-ALT-MCR-4515 - Consultant Fonctionnel en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+MCR
+Au sein de notre agence, vous êtes rattaché(e) à une de nos équipes projets adressant des problématiques complexes de transformation
+de systèmes d’information.
+DESCRIPTION DE LA MISSION
+Intégré(e) à l’une de nos équipes, vous intervenez sur des projets d’évolution de systèmes d’information en réalisant des missions telles
+que :
+ la définition et la formalisation des besoins fonctionnels auprès des clients, en lien avec la MOA et la MOE,
+ la rédaction des spécifications générales et détaillées des projets,
+ l’identification de solutions technologiques à forte valeur ajoutée.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ avez une première expérience en finance, logistique, commerce ou achats,
+ souhaitez développer votre maîtrise de la modélisation et des normes (UML, Merise…),
+ appréciez le travail en équipe et parlez anglais couramment.
+LES   « PLUS » DE LA MISSION
+En rejoignant Capgemini, nous vous donnons la possibilité :
+de bénéficier d’une formation adaptée à nos métiers et de construire votre carrière au travers de notre modèle de développement
+professionnel,
+ de bénéficier d’un management de proximité.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                             39
+
+
+
+
+Ref: 15-ALT-MCR-4516 - Consultant Fonctionnel E-commerce en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+MCR
+Le développement des solutions e-commerce et cross canal ont des répercutions directes sur les performances attendus des solutions
+d’exécution logistique. L’intégration avec les ‘’fronts’’ (site web, mobilité, store..) doit se faire en temps réel. Vous apportez une
+expertise pointue sur une solution leader du marché.
+DESCRIPTION DE LA MISSION
+Rattaché(e) à l’une de nos équipes, vous intervenez sur des projets d’intégration de plateformes e-commerce, de conseils sur des
+domaines en expertise (e-merchandising, webanalyse, webmarketing…) en réalisant des missions telles que :
+ la réalisation de benchmarks pour la phase de cadrage et cadrage du besoin métier,
+ la participation aux workshops avec le client,
+ la rédaction des spécifications générales et détaillées des projets et des cahiers de tests,
+ l’identification de solutions technologiques à forte valeur ajoutée.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ avez une première expérience en e-commerce et/ou webmarketing, webanalyse, SEO,
+ souhaitez développer votre connaissance sur les thématiques du digital chez les pure players & retailers,
+ appréciez le travail en équipe et parlez anglais couramment.
+LES   « PLUS » DE LA MISSION
+En rejoignant Capgemini, nous vous donnons la possibilité :
+ de bénéficier d’une formation adaptée à nos métiers et de construire votre carrière au travers de notre modèle de développement
+professionnel,
+ de bénéficier d’un management de proximité.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                          40
+
+
+
+
+Ref: 15-ALT-MCR-4521 - Consultant Java/J2ee en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+MCR
+De nos jours, une grande partie des projets sur lesquels nous travaillons nécessitent l’appui des technologies JAVA/J2EE.
+Nous recherchons donc des collaborateurs pour renforcer nos équipes et ainsi répondre efficacement aux besoins de nos clients.
+DESCRIPTION DE LA MISSION
+Intégré(e) à nos équipes, vous:
+ prendrez part à la construction de grands projets de transformation à la fois métier (organisation, process) et informatique
+(développements, mise en place de progiciels, interconnexion de systèmes) portant sur les nouvelles technologies, notamment Java/J2ee.
+ interviendrez sur les différentes phases d’un projet : de la traduction technique des besoins fonctionnels, à la conception, la réalisation,
+aux tests et recettes, à la mise en production ou encore à la maintenance corrective ou évolutive
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ justifiez d’une expérience en Java/J2ee
+ parlez couramment anglais (présentations écrites et orales)
+Autonomie et rigueur sont des qualités qui vous caractérisent. Vous appréciez le travail en équipe.
+Vous êtes mobile pour intervenir sur les sites de nos clients
+LES   « PLUS » DE LA MISSION
+En rejoignant Capgemini, nous vous donnons la possibilité :
+ de bénéficier d’une formation adaptée à nos métiers et de construire votre carrière au travers de notre modèle de développement
+professionnel
+ de bénéficier d’un management de proximité
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                  41
+
+
+
+
+Ref: 15-ALT-MCR-4522 - Consultant Mobilité en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+MCR
+Dans un contexte où la mobilité  est un avantage concurrentiel pour nos clients, nous vous proposons de travailler autour du
+développement  d’applications Mobiles et Tablettes (de type iOS, Android, Windows Mobile 7 et 8).
+DESCRIPTION DE LA MISSION
+En tant que consultant Mobilité en alternance (H/F), vous intervenez sur les différentes phases d’un projet de mobilité et êtes chargé(e):
+d’analyser l’état de l’art,
+ de concevoir des scénarii d’utilisation,
+ de développer des POC (Proof of Concept),
+ de tester et de présenter ces solutions auprès des managers,
+ de finaliser et packager ces solutions pour des présentations en clientèle.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ avez une connaissance des applications Mobiles,
+ appréciez le travail en équipe, êtes autonome, motivé(e) et rigoureux(se),
+ parlez couramment anglais et êtes mobile pour intervenir sur les sites de nos clients.
+LES   « PLUS » DE LA MISSION
+Cette mission vous offre la possibilité de :
+ acquérir de fortes expertises sectorielles et méthodologiques,
+ bénéficier d’une formation adaptée à nos métiers ainsi que d’un management de proximité,
+ développer des compétences en développement mobile et tablettes.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                              42
+
+
+
+
+Sommaire Division - Services
+Présentation Division                                                                                            44
+Missions proposées
+                                                 Concepteur Développeur au Lab’Innovation en alternance (H/F)   45
+                                                 Consultant ECM en alternance (H/F)                             46
+                                                 Consultant Nouvelles Technologies en alternance (H/F)          47
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved   43
+
+
+
+
+Présentation Division - Services
+Activités de la division                                                             Exemples de projets
+La division Services de Capgemini intervient dans le Secteur public en travaillant   Centralisation d’offres cinématographiques: Ce projet consiste en la centralisation
+pour des collectivités territoriales et des ministères, ainsi que dans le secteur    de toutes les offres de VoD sur une base d’œuvres exportées pour permettre à tous
+privé et l’industrie, les services liés aux transports, aux mutuelles / retraites    les amoureux du cinéma d’accéder, de louer ou bien d’acheter un film sur internet.
+/prévoyance.                                                                         Cela se traduit par le développement d’une application spécifique très
+Une aubaine en termes d’évolution de carrière pour élargir sa palette de             ergonomique et efficace disponible sur le site de notre client du secteur public,
+compétences !                                                                        mais également sur les sites de ses partenaires. Aujourd’hui, c’est déjà 10 000 films
+Avec 1/3 des projets dans les services publics et privés, 1/3 dans le secteur des    disponibles en 2 clics et le catalogue va encore s’enrichir, de films mais aussi
+mutuelles et assurances et le 1/3 restant en multisectoriel, les opportunités sont   bientôt de séries, de courts métrages et de documentaires.
+variées.
+                                                                                     Rénovation des SIRH: Notre client du secteur public a souhaité mettre en place ce
+Les projets sont ambitieux par leur taille et leur richesse en termes de contenu     programme afin de rénover et de faire progresser les systèmes d'information de
+fonctionnel et par rapport aux technologies mises en œuvre. Une opportunité          gestion des moyens et des personnels en termes de normes de développement,
+unique pour les collaborateurs de découvrir le fonctionnement d’une équipe projet    d’exploitation informatique, d’apport de nouveaux outils disponibles sur le marché,
+dans le domaine des systèmes d’information.                                          d’agilité face aux évolutions réglementaires, de dématérialisation et d’archivage.
+Harmonisation des SIRH: La pérennisation du système d’information de notre
+client passe par la finalisation des déploiements de pré-liquidation de paie
+(fiabilisation des données sur site, formation des nouveaux utilisateurs et
+accompagnement sur site après déploiement), le renouvellement de toutes les
+plateformes matérielles existantes et la montée de version des composants
+logiciels, notamment HR Access et BO tout en assurant une qualité de services aux
+niveaux applicatif (TMA) et exploitation (TME) en regard des attentes des
+utilisateurs.
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                      44
+
+
+
+
+Ref: 15-ALT-SE-4523 - Concepteur Développeur au Lab’Innovation en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+Services
+Vous rejoignez notre « Lab' Innovation » au sein duquel, Capgemini conçoit et réalise des projets innovants fondés sur des technologies
+mobiles, tablette, Web, Touch, Vocal, Cloud. Dans le cadre de votre mission, vous intégrez une équipe dynamique et contribuez à réaliser
+des applications simples d’usage, basées sur les nouvelles technologies afin d’apporter de l’innovation «métier» à nos clients.
+DESCRIPTION DE LA MISSION
+Au sein du Lab'Innovation, vos missions recouvrent :
+ la veille sur les nouvelles technologies,
+ la participation à des phases de brainstorming,
+ la conception fonctionnelle et technique d’applications,
+ le développement des IHM (Interface Homme Machine) et de la logique métier,
+ l’intégration avec le système d’information ainsi que les tests correctifs et le packaging des livraisons.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ êtes motivé(e) pour monter rapidement en compétences sur les technologies nouvelles,
+ appréciez le travail en équipe et les challenges,
+ disposez d'un bon niveau d'anglais.
+LES   « PLUS » DE LA MISSION
+En plus de l’enrichissement de vos compétences techniques, vous :
+ découvrez la méthodologie «SCAN-DESIGN-EXPERIMENT» du lab’Innovation,
+ participez à l’exploration et la mise en œuvre de nouveaux services,
+ êtes entièrement impliqué(e) dans les problématiques «métiers» de nos clients et découvrez le métier de Consultant en SSII.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                            45
+
+
+
+
+Ref: 15-ALT-SE-4524 - Consultant ECM en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+Services
+Avec le développement exponentiel du volume d'informations échangées dans les entreprises, le partage de ces informations, la
+dématérialisation des parcours clients et l'adoption grandissante de supports multimédias, les entreprises doivent faire face à de
+nouveaux enjeux. Dans ce contexte, le Pôle d'Excellence ECM (Enterprise Containt Management) de Capgemini participe et conduit de
+grands projets de transformation digitale.
+DESCRIPTION DE LA MISSION
+Intégré(e) à nos équipes, vous intervenez dans un contexte visant à développer et à soutenir les offres de Capgemini dans ce domaine.
+Vous participez   :
+ aux phases de conception technique et fonctionnelle et à la mise en œuvre d'applications de gestion de contenu,
+ à la mise en œuvre de prototypes sur des besoins fonctionnels spécifiés,
+ au développement, au paramétrage et à l'intégration des solutions leaders du marché: SharePoint /.Net, IBM FileNet, EMC
+Documentum ou HP Exstream, ADOBE.
+Un accent est mis sur la synergie et la collaboration entre les produits, les domaines ou les offres vis-à-vis d'autres acteurs de l'ECM.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ avez déjà une connaissance des environnements techniques Java, J2EE, PHP, XML, SQL, JSP, .Net…
+ disposez d’un bon niveau d’anglais et aimez travailler en équipe.
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous offre l’occasion de :
+ monter en compétences sur des technologies recherchées sur le marché de l’informatique documentaire,
+ contribuer à la mise en œuvre de solutions innovantes et participer à des projets au profit de grands comptes français et internationaux.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                               46
+
+
+
+
+Ref: 15-ALT-MCR-4534 - Consultant Nouvelles Technologies en alternance (H/F)
+Le groupe Capgemini est l’un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2014, le Groupe a
+réalisé un chiffre d’affaires de 10,573 milliards d’euros et emploie aujourd’hui près de 145 000 personnes dans plus de 40 pays.
+CONTEXTE
+Services
+Au sein de son entité dédiée à l’Innovation et aux Nouvelles Technologies, Capgemini fournit à ses principaux clients du Secteur Public, de
+la Santé, du Social, des Transports et des Secteurs Privés, des applications novatrices, axées sur l’intégration de systèmes, l’architecture et
+les web services.
+DESCRIPTION DE LA MISSION
+Dans le cadre de votre mission, vous intervenez pour le compte de nos principaux clients. Vous êtes intégré(e) dans une équipe projet
+pour prendre part à une ou plusieurs phases de la construction d’un projet de système d’information utilisant les nouvelles technologies :
+ compréhension des besoins du client, spécifications détaillées des fonctionnalités,
+ conception technique et développements spécifiques,
+ intégration et validation.
+PROFIL RECHERCHE
+Vous préparez un diplôme Bac+5 en Informatique et vous :
+ êtes passionné(e) par les Nouvelles technologies et souhaitez développer vos compétences en développement J2EE, JQuery, REST,
+JSON, HTML5, PHP, LAMP, Play, applications mobile, iOS, Android,
+ êtes rigoureux(se), doté(e) d’une bonne capacité d’écoute, appréciez le travail en équipe et les challenges,
+ disposez d’un bon niveau d’anglais (présentations écrites et orales).
+LES   « PLUS » DE LA MISSION
+Cette mission en alternance vous offre l’opportunité de :
+ développer vos connaissances et d’acquérir de nouvelles compétences techniques, méthodologiques et fonctionnelles.
+ gagner en autonomie et d’être force de proposition sur des projets complexes,
+ être entièrement impliqué(e) dans les problématiques «métiers» de nos clients et d’expérimenter ainsi le métier de Consultant en SSII.
+Pour postuler recrutement.ts.fr@capgemini.com
+Presentation Title | Date
+Copyright © Capgemini 2014. All Rights Reserved                                                                                                   47
+
+
+
+
+About Capgemini
+With almost  140,000  people in over  40  countries, Capgemini is
+one of the world's foremost providers of consulting, technology
+and  outsourcing  services.  The  Group  reported                                             2013   global
+revenues of  EUR 10.1 billion.
+Together   with   its   clients,   Capgemini   creates   and   delivers
+business and technology solutions that fit their needs and drive
+the  results  they  want.  A  deeply  multicultural  organization,
+Capgemini   has   developed   its   own   way   of   working,   the
+Collaborative Business ExperienceTM, and draws on Rightshore ®,
+its worldwide delivery model.
+www.capgemini.com
+The information contained in this presentation is proprietary.
+© 2014 Capgemini. All rights reserved. Rightshore®   is a trademark belonging to Capgemini.
+
+
+
+
+

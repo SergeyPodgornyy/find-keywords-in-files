@@ -1,0 +1,50 @@
+﻿JUNIOR TALENT RECRUTE UN/UNE STAGE - ANALYSTE DÉVELOPPEUR(SE) H/F EN STAGE 6
+MOIS.
+Date : 06/01/2015
+Référence de l’offre : SI/1214/000338-8518790
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Nous recherchons pour le groupe Solocal (Pages Jaunes, Mappy, A vendre A louer, Kapstage...), basé à
+Paris, un(e) stagiaire analyste développeur(se).
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+En 2013, Solocal Group a réalisé un chiffre d'affaires proche d' 1 milliard d'euros dont 60% sur réalisé sur le
+web, et se classe ainsi parmi les premiers acteurs européens en termes de revenus publicitaires sur Internet. Il
+fédère  près  de                                                                                                    5  000  collaborateurs,  dont  plus  de   2  300  conseillers  en  communication  en  France,
+Luxembourg, Maroc, UK et Espagne.
+4 bonnes raisons de rejoindre Solocal group :
+- Rejoindre une entreprise leader sur Internet et tournée vers les nouvelles technologies
+- Appartenir à une des 10 premières entreprises
+Description du poste :
+Au sein du pôle annonces qui porte l'offre  ‘Petites annonces'  (AVendreALouer.fr, AnnoncesJaunes.fr,
+Kapstages.fr,Embauche.com  …) du groupe SoLocal, le pôle logiciel est en charge de développer des
+solutions logicielles innovantes à destination des clients B2B de nos portails.
+A titre d'exemple, ils développent le logiciel métier qui équipe chaque agence du réseau Guy Hoquet et qui
+permet à chaque collaborateur de réaliser ses missions  : commercialisation des biens, publicité, CRM,
+pilotage de l'activité, prospection…
+En intégrant l'équipe ‘Recherche développement' évoluant dans un environnement Scrum et d'intégration
+continue, l'objectif de la mission est de participer activement à différents projets en contribuant pleinement
+aux phases d'analyses et de développement.
+Profil recherché :
+Bac + 4/5 formation d'école d'informatique ou équivalent.
+Environnement technique :
+Plateforme .Net
+C#
+Développement objet
+WinForm / WPF
+Asp.Net
+HTML5 (webApp mobile)
+SQL Server
+T-SQL
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8518790
+
+
+
+
+

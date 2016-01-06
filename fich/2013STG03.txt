@@ -1,0 +1,35 @@
+﻿Offre  de  stage
+référence  :  [2013STG03]
+Intitulé
+Etude  et  développement  d'une  base  de  données  touristiques  et  création  de  son  back  office
+L’entreprise
+Cartelmatic  est  une  S.A.S  basée  dans  la  Z.I.  sud­est    de  Rennes,  créée  en  1990,  à  l’initiative  de  Monsieur
+Philippe  Le  Berre.  Cartelmatic  est  spécialisée  dans  l’information  libre­service  en  extérieur.  Des  bornes
+permettent  un  accueil  interactif,  24H/24  soit  dans  les  offices  de  tourisme,  soit  dans  les  lieux  publics  grâce  à  un
+mobilier  urbain  spécifique.  L’entreprise  est  ainsi  en  partenariat  avec  les  grands  groupes  de  mobilier  français
+(Girod,  Lacroix)  qui  intègrent  les  solutions  Cartelmatic  dans  leur  mobilier  urbain.
+Description  du  stage
+L'entreprise  entend  remettre  à  plat  la  gestion  des  données  autour des dernières évolutions de la norme
+«TourinFrance  »,  la  version  3.11.  Le  projet  comporte  deux  phases  :
+1/ Conception de la la base de données (incluant également la confrontation des applications aux demandes
+actuelles des acteurs du tourisme, afin de proposer différentes améliorations et évolutions possibles de cette
+base . Un audit devra être effectué sur le domaine plus particulier des avis utilisateurs, et notamment leurs
+implémentations  possibles  dans  les  différents  réseaux  sociaux)
+2/  Elaboration d’un back­office permettant de gérer intégralement les différentes opérations sur les bases
+(ajout/modification/suppression  d’un  élément    mais  aussi  les  priorisations  des  différents  flux)
+Compétences
+HTML,  PHP,  Ajax,  JavaScript,  UML,modèle  conceptuel  de  données  (MCD),  SQL
+Profil  recherché
+Etudiant  ESIR  2  LSI,  autonome,  rigoureux
+Durée
+3 à  4  mois
+Rémunération
+436.05€ net  +  Tickets  restaurants
+Contact
+Pour  postuler  envoyer  lettre  de  motivation  et  CV  à  cartelmatic@cartelmatic.com  en  renseignant  la  référence  de
+l’offre.
+
+
+
+
+

@@ -1,0 +1,51 @@
+﻿JUNIOR TALENT M LAVAUD RECRUTE UN/UNE STAGIAIRE DÉV WEB & BACK-OFFICE H/F EN
+STAGE 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : SI/1114/000312-8110739
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 92110, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Junior Talent est un cabinet de recrutement spécialisé dans les recherches de profils étudiants  (stage,
+alternance) et de jeunes diplômés.
+Nous recherchons pour la société Solocal, un(e) stagiaire informatique développement web.
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+En 2013, Solocal Group a réalisé un chiffre d'affaires proche d' 1 milliard d'euros dont 60% sur réalisé sur le
+web, et se classe ainsi parmi les premiers acteurs européens en termes de revenus publicitaires sur Internet. Il
+fédère  près  de                                                                                                    5  000  collaborateurs,  dont  plus  de   2  300  conseillers  en  communication  en  France,
+Luxembourg, Maroc, UK et Espagne.
+Indemnités de stage : entre 1300 et 1500                                                                            €
+4 bonnes raisons de rejoindre Solocal group :
+*
+Description du poste :
+Pages Jaunes vous donne l'opportunité au travers d'un stage d'une durée de 6 mois d'affirmer vos talents de
+développeur(se) à travers différents projets de grande envergure :
+- Refonte de plusieurs sites web,
+- Refonte de l'architecture d'intégration des données,
+- Refonte du Back-Office.
+En menant à bien ces différents projets, vous pourrez également jouer de votre créatif en plus de vos
+compétences informatiques.
+Profil recherché :
+Compétences requises :
+- C# / .NET MVC
+- jQuery, CSS3
+- SQL (Transact SQL)
+- Visual Studio
+Profil :
+Rigoureux(se), vous êtes réactif(ve) et soucieux(se) de la qualité de vos développements. Vous aimez le
+travail en équipe et vous êtes prêt(e) à vous investir dans un projet en perpétuelle évolution.
+
+
+
+
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8110739
+
+
+
+
+

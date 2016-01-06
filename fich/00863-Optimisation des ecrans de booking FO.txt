@@ -1,0 +1,61 @@
+﻿Optimisation  des  écrans  de  booking  FO
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC93222
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5212195
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Sous la responsabilité de votre tuteur, vous participez à définir une stratégie pour la standardisation
+des écrans prêt-emprunt de titres (plan, chiffrage évolution, impact) pour l application interne de
+gestion des deals (XONE). L objectif est d identifier les composants graphiques des écrans de «
+booking ». Le stagiaire devra proposer une industrialisation du processus de création de ces écrans.
+Etude et développement d outils de tests des écrans prêt-emprunt de titres pour l application XONE.
+Environnement : .NET4.0, Windows Forms, Infragistics, C#
+Apport du stage
+Ce stage vous permettra de :
+-maîtriser design Pattern : MVP.
+-Développer dans le cadre de méthodes AGILES : Scrum
+-Test Driven Development.
+-Notion de couverture de code
+-L aptitude à faire des choix techniques liés à des contraintes d environnement et de développement.
+-Capacité à chiffrer des tâches et identifier les impacts
+-Acquisition d une expérience dans le monde de la finance concernant l activité prêt-emprunt titre.
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur ou université avec une spécialisation en
+Système d’information.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec.Net C#, Winforms, DesignPattern.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+
+
+
+
+Vous bénéficiez idéalement des connaissances en SQL, oracle est un plus.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+étudiant(e) de niveau bac+5 avec une spécialisation en Système d’information.
+à l’aise avec.Net C#, Winforms, DesignPattern. .
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5212195
+
+
+
+
+

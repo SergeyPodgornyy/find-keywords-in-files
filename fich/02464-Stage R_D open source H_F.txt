@@ -1,0 +1,38 @@
+﻿ATOS RECRUTE UN/UNE STAGE R&D OPEN SOURCE H/F EN STAGE 6 MOIS.
+Date : 01/05/2015
+Référence de l’offre : 185715-9416090
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Grenoble 38000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des services informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et
+Infogérance BPO, ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son
+expertise technologique et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie,
+Distribution Services, Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services
+aux Collectivités.
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Stage 2ème année ecole d'ingénieur d'une durée de 3 mois.
+Réalisation d'un simulateur de réseau d'eau, basé sur un produit open source.
+- Interface entre le simulateur et l'acquisition temps réel (protocole Modbus)
+- Interface graphique de présentation du réseau
+- Modélisation de quelques réseaux et d'usines pour test et démonstration
+- Tests de bout en bout entre le simulateur et la plateforme centralisée
+Le développement est à réaliser en Java.
+Profil recherché :
+Profil
+2ème année école d'ingénieur avec composante informatique/mathématique
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9416090
+
+
+
+
+

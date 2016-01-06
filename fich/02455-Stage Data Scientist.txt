@@ -1,0 +1,42 @@
+﻿MULTIPOSTING RECRUTE UN/UNE STAGE DATA SCIENTIST EN STAGE 6 MOIS.
+Date : 07/04/2015
+Référence de l’offre : StageData-9326821
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75009, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Créée en 2008 par deux jeunes entrepreneurs, Gautier Machelon et Stéphane Le Viet, Multiposting est une
+start-up française innovante devenue rapidement le leader européen des solutions technologiques dédiées au
+e-recrutement. En quelques années, l'entreprise a su s'imposer sur le marché du recrutement et gagner la
+confiance de 1 000 entreprises internationales dont 32 du CAC 40 (Total, Capgemini, Danone, etc.).
+Depuis sa création, l'entreprise connaît une croissance entre 50 et 100% par an. Elle prévoit de dépasser les
+12 millions d'euros en 2015. Cette hyper-croissance est accompagnée d'une politique active de recrutement :
+en 6 ans l'équipe est passée de 2 à 80 collaborateurs, dans ses bureaux parisiens (Paris 9).
+Multiposting   est   soutenue   par   des   entrepreneurs   majeurs   de   l'économie   numérique   comme
+Pierre-Kosciusko-Morizet, lefondateur de Price Minister et d'autres figures du web.
+Située au cœur de Paris, l'entreprise accueille ses collaborateurs au sein d'un cadre propice à l'épanouissement
+: des espaces ouverts, un jardin privatif, une borne d'arcade fabrication maison, une table de ping pong, tout
+cela avec une âme de start up.
+Découvrez notre vidéo interactive de recrutement : Multiposting, 2014
+Multiposting 13è/50 du Technology Fast 50 (Deloitte, 2014)
+Multiposting lauréat des trophées de l'international du Numérique (IE Club, 2014)
+Jetez un œil aux photos sur notre page Facebook :) https://www.facebook.com/multiposting
+Description du poste :
+L'objectif de ce stage sera d'implémenter des algorithmes développés par un laboratoire de recherche.
+* Etude d'articles sur les prédictions de clics de campagnes de e-recrutement
+* Extension des indicateurs de recommandation des job-boards
+* Développement d'un modèle de représentation des données temporelles et symboliques
+* Développement d'un algorithme de clustering
+* Développement d'un modèle de prédiction hybride
+* Evaluation de l'application avec un jeu de données réel.
+Profil recherché :
+Compétences solides en Python, R, JSON, MySQL
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9326821
+
+
+
+
+

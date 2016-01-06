@@ -1,0 +1,47 @@
+﻿STAGE BE
+FAIVELEY TRANSPORT
+REFERENCE  :  STG TRS 07
+POUR POSTULER  :  offre3396695.1536@faiveley.contactrh.com sous la référence STG TRS 07
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  LA VILLE AUX DAMES 37700, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Dès que possible
+DUREE  :  de 3 à 4 mois
+SECTEUR  :  Industries (Métallurgie)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Equipementier Ferroviaire, présent dans 23 pays (Europe, Chine, Etats-Unis, Inde, Australie,
+Brésil…) via 45 entités, réalisant 876 millions d'euros de CA dont 75 % à l'international, 4865
+collaborateurs, notre Groupe, en forte croissance, est un des leaders mondiaux de l’équipement
+ferroviaire. Il fonde sa notoriété sur sa créativité et la qualité de ses produits et services aux clients.
+DESCRIPTION DU POSTE  :
+Etudier la possibilité d’utiliser une BDD NoSQL dans le composant « Enregistreur d’événements »
+Le composant « Enregistreur d'événements » qui est en charge de tracer toutes les erreurs dans nos
+produits de vidéosurveillance à besoin d’intégrer des évolutions et à besoin d’améliorer sa gestion
+de sauvegarde.
+Cet enregistreur d’événements est un élément critique par le fait que le fichier sauvegardé doit être
+dimensionné de façon sécuritaire (il doit notamment être robuste lors des pannes de courant).
+Le but de ce stage est donc d’étudier la possibilité d’utiliser une base de données NoSQL pour
+stocker les événements du journal d'événements et de fournir une solution technique pour tirer parti
+de certains des avantages que proposent des solutions comme «Redis » (ajustement automatique de
+la taille).
+Activités :
+• Etudier les technologies NoSQL / redis
+• Etudier la faisabilité technique
+• Développer la nouvelle version de l’enregistreur d’événements
+• Tester / Valider
+• Évaluer l'efficacité d’utiliser une base de données NoSQL.
+PROFIL  :
+Bac+4 à Bac+5 en informatique/électronique, Connaissance du C++, Connaissance base de
+données, logiciel embarqué, , capacité d'adaptation, autonomie,rigueur
+
+
+
+
+POUR POSTULER  :  offre3396695.1536@faiveley.contactrh.com sous la référence STG TRS 07
+
+
+
+
+

@@ -1,0 +1,37 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : SAVE-LOGS : développement IHM d’une application d’analyse de logs
+   Lieu : Mayenne                                                                              Durée : 2   à 4 mois
+   Formation : Bac + ½ minimum                                                                 Date : 2014
+   Référence : EP-1                                                                            Rémunération : stage indemnisé
+Sujet : Vous participerez :
+   A la continuité d’un projet réalisé courant l’été 2013, permettant à l’ensemble
+des logs issus de serveurs de sauvegarde d’être intégré à une BDD MySQL.
+Votre   objectif   sera   de   développer   l’interface   hommes-machines   de
+consultation des résultats selon les profils des utilisateurs et de réaliser la
+documentation ;
+   Un cahier des charges sera fourni en début de projet ;
+   Vous développerez sur des environnements protégés de pré-production.
+Ce stage vous permettra d’intégrer une équipe constituée de client (interne Jouve), ingénieur
+en développement, tuteur et chef de projet, ainsi que des testeurs. Vous participerez à la
+gestion du projet et développerez vos acquis en PHP et MYSQL en environnement Linux.
+
+
+
+
+Environnement :
+   LAMP
+Vous    serez    intégré    dans    l’équipe
+infogérance.
+Si  cette  offre  vous  intéresse,  nous  vous  prions  de  bien  vouloir  envoyer  votre  candidature
+(CV  +  lettre  de  motivation)  à  l'adresse  suivante  :  ISTIC_EP1@jouve.gestmail.com
+
+
+
+
+

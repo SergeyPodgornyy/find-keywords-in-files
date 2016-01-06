@@ -1,0 +1,101 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de
+Beaulieu 35042 Rennes
+Cedex Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise :                                                                      HATVP                                                                                    Adresse :98 rue de Richelieu, 75002 Paris
+Domaine d’activité :                                                                       Administration                                                                           Ville :Paris
+Représentant de l’entreprise :                                                             Guillaume Valette-Valla                                                                  N° téléphone : 01 72 60 58 70
+Sa qualité :                                                                               Secrétaire général                                                                       N° fax : 01 72 60 58 66
+N° de Siret :                                                                              13 002 039 900 015                                                                       Site Web : www.hatvp.fr
+N° NAF :                                                                                   8411Z                                                                                    Courriel : secretariat.sg@hatvp.fr
+                                                                                           Autorité administrative
+Statut Juridique :                                                                         indépendante                                                                             Signataire de la convention : Guillaume Valette-Valla
+Effectif de l’établissement :                                                              30
+Nom de l’encadrant de stage :                                                              Thomas Blohorn                                                                           Chargé du suivi administratif : Kamila Smaïl
+Sa qualité :                                                                               Responsable SI                                                                           Sa qualité : Responsable des Affaires générales
+Service :                                                                                  Service informatique                                                                     N° téléphone : 01 72 60 58 60
+N° téléphone :                                                                             01 72 60 58 74                                                                           Email : kamila.smail@hatvp.fr
+Email :                                                                                    Thomas.blohorn@hatvp.fr                                                                  Fax : 01 72 60 58 66
+Fax :                                                                                      01 72 60 58 66
+Nom du service dans lequel le stage sera effectué : ….Service des systèmes d’information
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+X Licence 3                                                                                13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+X Parcours SR et GL, Recherche                                                             8 semaines minimum à partir du 13 mai 2015
+X MIAGE                                                                                    13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+X Spécialité MIAGE                                                                         du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                            du 9 mars 2015 à fin août 2015
+X Spécialité GL                                                                            du 9 mars 2015 à fin août 2015
+X Spécialité MITIC                                                                         du 9 mars 2015 à fin août 2015
+□ Spécialité SSI                                                                           du 9 mars 2015 à fin août 2015
+X Spécialité Recherche                                                                     du 1er février 2015 à fin juin 2015
+                                                                                           Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                         du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                     TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                      FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                   www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH En alternance avec 3 périodes de 5 semaines en formation universitaire et 3 périodes de 8 semaines
+en entreprise.
+□ Spécialité SEA                                                                                                         16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA En alternance avec 3 périodes de 5 semaines en formation universitaire et 3
+périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                                         entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET DU STAGE :
+Titre du stage proposé :……Étude dans le domaine de la veille automatisée
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Outils de veille automatisée : Keywatch/iScope ; AMI Enterprise Intelligence…
+Sujet proposé détaillé :
+LA HATVP a en projet d’outiller le mécanisme de collecte des   informations en lien avec les déclarations
+d’intérêts. Afin de s’assurer de la faisabilité du projet, l’objectif premier du stage est d’établir un état des lieux
+des outils existants et de sélectionner l’outil de veille le plus adapté (Ex : Keywatch/iScope ; AMI Enterprise
+Intelligence…) à analyser de nombreuses sources d’information  (Presse nationale et locale  ; Registres du
+commerce ; Sites Internet spécialisés ; Twitter…). Cet outil a vocation à établir une collecte ciblée en fonction
+des besoins de la HATVP. La mise en place de cet outil passe par la mise en œuvre d’un « démonstrateur » : Le
+stagiaire devra réaliser un ou plusieurs prototypes aptes à démontrer le bon fonctionnement et donc l’utilité de
+l’automatisation.  L’étude  de  faisabilité  est  l’objet  principal  du  stage.  En  fonction  de  la  durée  et  de
+l’avancement, le stage pourra se poursuivre sur l’industrialisation du prototype pour une mise en service
+effective.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                                            Indemnité légal                                                  Nom de l’Etudiant :
+Modalités de versement :                                                                                                 Mensuelle                                                        Diplôme :
+Avantages en nature à préciser :
+Remboursement de la moitié de la carte de transport
+Carte de cantine à tarif adapté
+Temps horaire hebdomadaire :                                                                                             35 heures
+Date limite de réponse à cette proposition : 01/03/2015
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Écrire directement à : stage.hatvp@hatvp.fr
+Cachet de l’entreprise :
+UNIVERSITE DE RENNES 1                                                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

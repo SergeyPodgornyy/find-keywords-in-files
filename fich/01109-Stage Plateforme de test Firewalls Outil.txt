@@ -1,0 +1,65 @@
+﻿Stage  Plateforme  de  test  Firewalls  Outil
+Société  Générale  France
+REFERENCE  :  ST/SB/RESG/1213
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5500846
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 01/03/2013
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Sécurité)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre stage
+Sous la responsabilité de votre tuteur, vous abordez
+2 sujets.
+1/Vous œuvrez au montage d’une plateforme de test « Firewalls »
+Vous devez donc dans un premier temps recueillir dans un premier temps les besoins des équipes
+études Sécurité en termes de plateforme de test.
+Vous devez ensuite proposer les équipements à intégrer dans cette plateforme ainsi que l
+architecture associée. Les outils/logiciels (management, station de rebond, supervision) seront aussi
+à considérer.
+La dernière étape consiste à déployer ce testbed
+2/ L équipe sécurité dispose d un outil d analyse des politiques de sécurité. Ce logiciel permet de
+base certains exports. Mais l activité des équipes nécessitent d adapter/automatiser ces rapports.
+Il faut donc comprendre dans un premier temps les besoins des ingénieurs sécurité. Et voir comment
+le réaliser en se basant sur l outil groupe et des scripts à développer.
+Apport du stage
+Ce stage vous permettra de monter en compétences sur les technologies de firewalling et les outils
+de management associés
+Vous pourrez développer votre expertise technique, ainsi que votre esprit de synthèse et votre
+communication.
+Ce projet se fera en interaction avec plusieurs équipes : étude, production et stratégie.
+Votre profil
+
+
+
+
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur ou université avec une spécialisation en
+réseau/sécurité.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+5 en école d’ingénieur ou université avec une spécialisation en
+réseau/sécurité.
+Votre niveau d’anglais est opérationnel.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5500846
+
+
+
+
+

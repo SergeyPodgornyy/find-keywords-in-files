@@ -1,0 +1,33 @@
+﻿Offre de stage : Développeur(se) polyvalent(e) PHP
+Aragon-eRH
+Nom de l’entreprise : Aragon-eRH                                                                                      Secteur : Edition de logiciels
+Présentation de l’entreprise : Aragon-eRH est une solution complète de gestion et de développement des
+Ressources Humaines, 100% web et 100% SaaS (software as a service) en Cloud Computing. Il s'agit d'une solution
+intégrée SIRH simple & global pour les organisations de 50 à 60000 collaborateurs. Composée de plusieurs modules
+développés par des professionnels des RH autour d'une base de données simple et riche en contenu, la solution
+Aragon-eRH fournit une suite logicielle (SIRH) efficace et facile d'utilisation. Les solutions d'Aragon-eRH en mode
+SaaS (Software as a Service), choisies par des leaders du secteur (Arcelor Mittal, Total, Caisse des Dépôts et
+Consignations Entreprises, Crédit Coopératif, Araxxe), vous garantissent un workflow homogène et efficace.
+Adresse du siège: 34 rue du banquier 75013 Paris                                                                      Site web : http://www.aragon-erh.com/
+Contact: Adélaïde DE PERTAT, Chargée de recrutement
+Durée : 6 mois                                                                                                        Date de début du stage : 01/09/2014
+Lieu du stage : St Malo
+Détail de l’offre :
+Dans le cadre de notre développement et de notre forte croissance aussi bien en France qu'à l'étranger, nous
+recrutons en stage de fin d'études un(e) Développeur(e) polyvalent(e) PHP (6 mois).
+Rattaché(e) à la Direction Technique, vous avez pour principale mission de poursuivre et pérenniser le
+développement de notre solution RH. Vous avez à charge le développement de nouvelles fonctionnalités et la
+maintenance applicative de la plate-forme. Les développements se font en PHP (Framework CakePHP), JavaScript
+(jQuery, Prototype, Scriptaculous, AJAX), HTML et CSS, interfacé avec une base de données MySQL sur une
+plateforme LAMP hébergée dans le Cloud Amazon AWS.Ce stage pourra se poursuivre par une embauche en CDI.
+Profil : Vous recherchez un stage de fin d'étude (Bac+5) d'une durée de 6 mois (minimum). Vous avez un profil
+ingénieur et de bonnes compétences PHP. Vous aimez travailler en autonomie, avez une bonne capacité d’analyse
+et un goût pour la résolution des problèmes. Vous êtes vif(ve) d'esprit, imaginatif(ve) et rigoureux(se). Une
+première expérience dans le développement web (PHP/SQL) est requise. La bonne maîtrise de l'anglais technique
+est nécessaire.
+Merci de postuler sur notre site : https://www.aragon-erh.com/aragonv3_erh/new_rec_portal
+
+
+
+
+

@@ -1,0 +1,57 @@
+﻿Consultant Evolution &
+Maintenance Applications
+Web (h/f)
+DIVISION                                                                                    RÉFÉRENCE DE L’OFFRE :
+ADM                                                                                         ST-ADM-3470
+                                                                                            LOCALISATION                                                                                 DOMAINE
+CONTEXTE                                                                                    GÉOGRAPHIQUE                                                                                 DU STAGE
+                                                                                            Nantes                                                                                       Technique
+Capgemini propose des
+Centres de Services NTIC                                                                    DATE DE DÉBUT                                                                                DURÉE
+qui mettent en œuvre des
+DU STAGE                                                                                    DE STAGE
+solutions innovantes et
+attendues par nos clients.                                                                  A partir de janvier 2015                                                                     4 à 6 mois
+Vous intégrez un Centre
+de Service qui assure la
+maintenance corrective et
+DESCRIPTION DU STAGE
+évolutive des applications
+de distribution ferroviaire                                                                 Vous participez au suivi et à la mise en œuvre de demande d’évolution du besoin
+via le canal Internet allant                                                                fonctionnel sur les applications Offres Horaires liées à la Billettique.
+de l’expression du besoin
+                                                                                            Vous participez à toutes les phases projet d’une évolution : analyse du besoin, chiffrage,
+jusqu’au déploiement de la
+                                                                                            spécifications, études d’impacts techniques, conception détaillée, pilotage et suivi de
+solution sur l’environnement
+                                                                                            la réalisation pour assurer une conformité au besoin dans le respect du planning défini,
+de production.
+mise en œuvre et tests, livraison, support au client suite à la réception du livrable.
+Environnement technologique basé sur les technologies Java/J2EE - Oracle - PHP -
+CMS Drupal.
+LES “PLUS”
+PROFIL RECHERCHÉ
+DU STAGE
+De formation Bac+3 à Bac+5 spécialisé en génie logiciel, vous :
+• avez des connaissances solides dans les environnements techniques décrits dans
+Vous découvrez les basiques
+la mission,
+du métier de l’ingénieur en
+• appréciez le travail en équipe et les challenges,
+technologie de l’information
+• avez un niveau d’anglais opérationnel,
+en travaillant sur un mode
+• souhaitez vous investir sur un projet qui exige curiosité, esprit d’analyse, adaptation
+collaboratif et acquérez un
+et rigueur.
+développement structuré
+intégrant un processus
+qualité en place.                                                                           POUR POSTULER
+Stage de pré-embauche                                                                       recrutement.ts.fr@capgemini.com
+Capgemini est signataire de la charte de la diversité en entreprise
+56 - STAGES 2014-2015_Capgemini Technology Services
+
+
+
+
+

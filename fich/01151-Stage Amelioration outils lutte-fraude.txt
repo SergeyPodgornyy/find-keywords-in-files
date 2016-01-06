@@ -1,0 +1,73 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  STAGE  AMÉLIORATION
+OUTILS  LUTTE­FRAUDE  EN  STAGE  6  MOIS.
+Date  :  01/02/2014
+Référence  de  l’offre    :  ST/SM/SAFE95387­5631598
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Description  du  poste    :
+Votre  environnement
+Au  sein  du  pôle  GLOBAL  BANKING  &  INVESTOR  SOLUTIONS  ­banque  de
+financement  et  d'investissement  Société  Générale,  une  entité  de  la  direction  de  la  banque
+d'investissement  a  en  charge  la  gouvernance  des  risques  opérationnels  en  matière  de  lutte
+contre  la  fraude  et  de  sécurité  de  l'information.  Le  département,  se  découpe  en  4  pôles  :  le
+pôle  Sécurité  Applicative  et  infrastructure,  le  pôle  Gestion  des  Identités  et  des  Accès,  le
+pôle  processus  contrôle  management,  le  pôle  intégrité  des  opérations  (Rogue  trading)  et
+le  pôle  Surveillance  et  Investigation  (SNI).  Le  stage  aura  lieu  dans  ce  dernier.  Ce  service
+est  en  charge  de  l'identification  des  zones  de  risques  et  de  la  mise  en  oeuvre  des
+investigations  correspondantes.
+Votre  stage
+Au  sein  du  pôle  Surveillance  et  Investigation,  vous  participerez  aux  activités  suivantes  :
+Lutte  contre  la  fraude
+o                                                                                                              Développement  informatique  /  analyse  de  données
+Optimiser  la  façon  dont  les  données  sont  analysées  par  les  investigateurs.  Plus  de  2  TB  de
+données  sont  à  exploiter,  ce  qui  nécessitera  la  mise  en  œuvre  d'une   architecture
+spécifique  et  d'algorithme  optimisés  afin  d'assurer  la  faisabilité  des  requêtes  nécessaire
+aux  recherches
+Identification  de  nouvelles  sources  de  données  et  création  de  l'interface  d'importation
+correspondante.
+
+
+
+
+o                                                                                                      Maitrise  d'ouvrage
+Recueil  des  besoins  des  investigateurs  dans  l'ensemble  des  implantations  GBIS  à
+l'international  au  sein  d'ateliers  à  mettre  en  œuvre.
+Sécurité  de  l'information
+o                                                                                                      Développement  informatique
+Développement  de  l'outillage  d'analyse  forensics   de  l'équipe  investigation  Information
+Security
+Amélioration  du  moteur  de  contrôle  sur  la  fuite  d'information
+Apport  du  stage
+Ce  stage  vous  offre  l'opportunité  de  développer  vos  compétences  techniques  et
+fonctionnelles,  et  gestion  de  projet.  Vous  développerez  vos  qualités  de  communication
+dans  un  environnement  international  avec  des  clients  exigeants.  Vous  vous  familiariserez
+avec  les  problématiques,  processus  et  solutions  d'analyse  et  d'évaluation  des  risques
+opérationnels  orientés  Fraude  et  sécurité  de  l'information
+Votre  profil
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  école  d'ingénieur  ou  université  avec  une
+spécialisation  en  informatique.
+Votre  niveau  d'anglais  est  opérationnel  et  vous  avez  une  bonne  connaissance  du  Pack
+Office.
+Vous  êtes  à  l'aise  avec  Javascript,  Oracle  et  VBA
+Vous  possédez  un  esprit  d'analyse  et  une  bonne  capacité  de  synthèse  afin  de  traiter  de
+multiples  informations  et  d'accomplir,  avec  succès,  les  travaux  qui  vous  seront  confiés.
+Durée  :  6  mois
+Type  :  Convention  de  stage
+Gratifications:  Selon  grilles  Société  Générale
+Profil  recherché    :
+Bac+4/5  école  d'ingénieur,  université  avec  spécialisation  informatique.
+Anglais  opérationnel,  bonne  connaissance  du  Pack  Office.  Vous  êtes  à  l'aise  avec
+Javascript,  Oracle  et  VBA.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5631598
+
+
+
+
+

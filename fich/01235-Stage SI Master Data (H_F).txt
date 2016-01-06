@@ -1,0 +1,75 @@
+﻿DANONE  PLACE  PARIS  RECRUTE  UN/UNE  STAGE  SI  MASTER  DATA  (H/F)  EN
+STAGE  6  MOIS.
+Date  :  01/03/2014
+Référence  de  l’offre    :  35465­5804124
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Système  /  Réseaux  /
+Base  de  Données)
+Type  de  contrat    :  Stage
+Localisation    :  Saint  Ouen  93400,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Avez­vous  envie  d'une  entreprise  qui  développe  en  donnant  des  responsabilités  et  de
+l'autonomie  à  ses  collaborateurs  /  stagiaires  et  alternant(e)s  ?
+Chez  Danone,  nous  donnons  à  tous  les  talents  les  moyens  de  progresser  et  de  s'épanouir
+professionnellement,  avec  quelques  principes  simples  :  proximité,  initiative  et
+performance.
+D'ailleurs  nos  stagiaires  nous  ont  plébiscités,  à  travers  l'enquête  Stage  Advisor,  comme
+l'une  des  meilleures  entreprises  où  faire  son  stage  !
+Ce  stage  est  à  pourvoir  à  partir  de  février­mars  2014  pour  une  durée  de  6  mois  au  siège  de
+Danone  à  St  Ouen  (93).
+Encadré(e)  et  formé(e)  par  un  manager  de  l'équipe  Master  Data,  ce  stage  vous  permettra
+d'acquérir  et  de  développer  des  compétences  dans  le  domaine  des  systèmes  d'information
+tout  en  découvrant  cette  culture  d'entreprise  forte.  Venez  grandir  chez  nous  !
+N'hésitez  pas  à  venir  échanger  avec  nous  sur  notre  page  Facebook  "Danone  Jobs"  et
+visionner  nos  vidéos  métiers  sur  Jobteaser.com  pour  en  savoir  plus  !
+Vous  travaillerez  avec  l'équipe  centrale  Master  Data  sur  le  déploiement  de  Thémis  (projet
+SAP)  et  sur  notre  nouveau  workflow  de  management  des  outils.
+Dimension  du  poste  :
+L'équipe  a  un  périmètre  mondial.  La  solution  Thémis  SAP  est  déjà  déployée  dans  plus  de
+40 filiales  de  Danone  (4  divisions  confondues).
+L'équipe  Master  Data  est  une  équipe  transversale  liée  à  toutes  les  fonctions  :  Industriel,
+Inventaires,  Achats,  Ventes,  Finance,...
+­Dans  la  plupart  de  nos  filiales  des  outils  ont  été  développés  dans  Lotus  Notes,  Excel,  ou
+
+
+
+
+autres  solutions  pour  gérer  les  process  de  maintenance  des  master  data,  les  demandes  et
+les  validations.  Ces  outils  correspondent  étroitement  aux  exigences  de  nos  filiales  et  sont
+assez  faciles  à  créer.
+­ Une  fois  le  Workflow  terminé,  les  filiales  ont  à  recréer  les  données  dans  le  système  SAP,
+ce  qui  réduit  la  productivité  et  la  qualité  (non­intégration  avec  notre  Core  Model  SAP
+Danone)
+­ Non­reproductibilité,  car  il  y  a  de  nombreux  Workflow  locaux,  mais  ils  sont  conçus
+pour  les  filiales  et  ils  ne  sont  pas  conçus  ou  organisés  dans  une  vision  commune  et
+centralisée
+Description  du  poste    :
+Les  activités  du  stage  vont  se  concentrer  sur  le  déploiement  de  notre  outil  de  workflow
+dans  le  système  SAP  :
+­ Former  les  Master  Data  Managers  locaux  des  filiales  de  Danone
+­ Elaborer  les  tâches/Planning  des  Master  Data  (MD)  avec  le  coordonnateur  du  projet
+local
+­ Participer  à  toutes  les  tâches  de  déploiement  :  Préparation  et  conduite  des  ateliers  MD,
+personnalisation  et  conception  fonctionnelle  des  Workflow  MD,  ...
+­ Fournit  une  méthodologie  et  une  expertise  aux  filiales  des  équipes  Master  Data  de  nos
+filiales
+­ Coordonner  les  Filiales  sur  la  collecte  et  la  validation  des  données.
+­ Fournir  des  rapports  réguliers  au  N+1  et  au  coordonnateur  de  déploiement
+Ce  que  ce  stage  va  vous  apporter  :
+­ Vous  aurez  une  formation  interne  de  conduite  de  projet  pour  obtenir  suffisamment  de
+compétences  et  de  connaissances  sur  les  Master  Data  pour  être  en  mesure  de  déployer
+notre  outil  de  Workflows.
+­ Vous  aurez  une  formation  d'initiation  à  SAP.
+­ Vous  coordonnerez  des  tâches  informatiques.
+­ Vous  travaillerez  avec  les  domaines  fonctionnels.
+Profil  recherché    :
+Bac+4/5,  vous  envisagez  de  travailler  dans  la  gestion  des  SI.  Vous  aimez  les  outils.Vous
+êtes  reconnu(e)  pour  votre  capacité  à  communiquer  et  à  embarquer  autour  d'un  projet.
+Pour  postuler    :  http://danone.contactrh.com/jobs/1536/5804124
+
+
+
+
+

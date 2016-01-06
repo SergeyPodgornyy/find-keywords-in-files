@@ -1,0 +1,42 @@
+﻿Stage fin d’études
+Solution de sécurisation de bases de données
+Lieu du stage : Cesson-Sévigné (Rennes Atalante), 35 510
+Durée : 4 à 6 mois
+Niveau d’études : Bac +4/+5
+Entreprise : SWID est une startup rennaise fondée en 2007 qui propose des solutions innovantes de
+sécurisation de données.
+Contexte
+Aujourd'hui, le recours à des bases de données est quasi-systématique pour stocker les informations
+nécessaires au bon fonctionnement des services Internet et Intranet. C'est le cas de la majorité des
+entreprises, des hôpitaux,   des gouvernements, etc. Toutefois, ces informations contenues dans des
+serveurs centralisés, parfois externalisés, sont sujettes à diverses attaques de vols, chantages, et
+reventes   d'informations.   Avec   des   fuites   qui   se   chiffrent   régulièrement   en   millions
+d’enregistrements, même chez les plus grands groupes internationaux, la sécurité est un enjeu de
+taille dans la société du numérique. Les solutions proposées actuellement pour la protection des
+bases de données impactent significativement les performances et sont peu utilisables en pratique.
+En collaboration étroite avec les meilleures équipes de recherche académique, Swid travaille depuis
+plusieurs années sur une solution de sécurisation des données qui permet d'une part de protéger les
+données les plus sensibles contre le vol, et d'autre part de tracer les données pour identifier toute
+utilisation frauduleuse.
+Objet du stage
+Le stagiaire intégrera l’équipe technique et contribuera à la spécification, l’étude, le développement
+et l’intégration d’algorithmes de protection des données. Il s’appuiera principalement sur des
+technologies de type Java et MySQL. Une partie du stage est consacrée à l’étude de l’existant
+(travaux de recherche, différentes méthodes et algorithmes de fragmentation et/ou de tatouage). Le
+stagiaire sera également en charge, conjointement avec l’équipe technique en place, de l’invention,
+de la spécification, de la conception, du développement et des tests d’un logiciel fonctionnel qui
+mettra en œuvre les algorithmes retenus.
+Profil recherché
+-                                                                                                         Bac +4/+5 dans le domaine de l’informatique.
+-                                                                                                         Intérêt pour la sécurité et la protection de données.
+-                                                                                                         Connaissances en développement logiciel, design patterns, méthodologie POO, utilisation
+d’un IDE.
+-                                                                                                         Autonomie,  rigueur, travail d’équipe, prise d’initiatives.
+-                                                                                                         Langages : Java (utilisation de librairies), MySQL, éventuellement PHP.
+Contact : Envoyez votre CV + lettre de motivation par mail à l’adresse : contact@swid.fr
+Rémunération : à partir de 800                                                                            € / mois selon expérience.
+
+
+
+
+

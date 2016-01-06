@@ -1,0 +1,54 @@
+﻿OFFRE DE STAGE VALEO
+Le Pôle Systèmes de Propulsion développe des solutions innovantes pour réduire la consommation
+de carburant et les émissions de CO2, tout en maintenant une conduite dynamique. Ces solutions
+couvrent une gamme complète de produits pour l’électrification et l’hybridation des véhicules. Il
+est  composé  de  cinq  Groupes  de  Produits:  Systèmes  électriques,  Systèmes  de  transmission,
+Systèmes  de  contrôle  moteur,  Systèmes  de  boucle  d’air,  Systèmes  pour  véhicules  hybrides  et
+électriques.
+Rattaché au Groupe de Produits Systèmes de Transmission, le site Valeo d’Amiens    dont
+l'activité est la recherche avancée dans tous les produits innovants de la Transmission, recherche un
+:
+Amélioration d’un logiciel de
+"Vous ne marchez jamais
+dépouillement d’essais de
+Quand vous pourriez
+courir, vous faites
+aujourd'hui ce que d'autres                                                                              frottement (h/f)
+font demain, vous vivez la
+vie complètement. "
+Bienvenue chez Valeo,
+Votre mission
+Valeo  est  un  Groupe  indépendant
+entièrement    focalisé                                                                                  sur                                                                        la
+Dans le cadre du développement de ses embrayages, Valeo cherche à optimiser un
+conception,  la  fabrication  et  la
+outil de dépouillement d’essais pour ses garnitures d’embrayage.
+vente de composants, de systèmes
+intégrés  et  de  modules  pour  les                                                                     Dans une première phase, le stagiaire devra :
+automobiles principalement pour la                                                                       - Comprendre le fonctionnement des systèmes d’embrayage et des grandeurs
+réduction  du  CO².  Valeo  compte                                                                       physiques mesurées lors des essais de frottement.
+parmi les premiers équipementiers
+- Analyser l’ergonomie et des fonctionnalités du logiciel existant en collaboration
+mondiaux.
+avec les utilisateurs.
+Dans une deuxième phase, le stagiaire devra réaliser la programmation sous Matlab
+Le    Groupe    emploie                                                                                  75                                                                         300
+collaborateurs  dans                                                                                     29  pays  dans                                                                                         afin de :
+                                                                                                         124 sites de production, 20 centres                                                                    - Développer une nouvelle interface graphique,
+de   Recherche,                                                                                          36   centres   de                                                                                      - Intégrer de nouvelles fonctionnalités pour le dépouillement des essais,
+                                                                                                         Développement et 12 plates-formes                                                                      - Définir une fonction de génération automatique de rapport sous Excel.
+de distribution.
+Profil
+Etudiant ingénieur maîtrisant la programmation sous Matlab.
+Compétences : Matlab, Excel, Word, Power Point, Connaissances en mécanique, Anglais
+Qualités recherchées : Autonomie, Organisation, Rigueur, Curiosité, Goût pour la programmation
+Durée du stage :                                                                                         4-6 mois                                                                   Date de début : Septembre
+Niveau d’études : bac+4
+Vous êtes curieux d’en savoir plus ?
+Merci d’adresser votre candidature à Sylvain MAITTE.
+sylvain.maitte@valeo.com
+
+
+
+
+

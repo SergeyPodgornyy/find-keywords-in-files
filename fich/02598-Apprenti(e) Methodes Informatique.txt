@@ -1,0 +1,84 @@
+﻿SAINT GOBAIN INTERSERVICES RECRUTE UN/UNE APPRENTI(E) MÉTHODES INFORMATIQUE
+EN APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 522780-10295055
+Domaine d’activité : Systèmes d'informations / télécom (Qualité/Méthodes)
+Type de contrat : Apprentissage/Alternance
+Localisation : Paris 92096, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Saint-Gobain, leader mondial de l'habitat, conçoit, produit et distribue des matériaux de construction en
+apportant  des  solutions  innovantes  sur  les  marchés  en  croissance  des  pays  émergents,  de  l'efficacité
+énergétique et de l'environnement. Saint-Gobain est une maison accueillante, sûre et ouverte sur le monde,
+dans laquelle on entre pour un parcours.
+Filiale de Saint - Gobain, la Direction des Systèmes d'Information (SGDSI) a pour vocation de définir, mettre
+en place et piloter la politique Systèmes d'Information et Télécoms du Groupe auprès de ses 1200 filiales et
+de ses fournisseurs dans le monde.
+Description du poste :
+La mission d'apprentissage se déroulera au sein de la Direction des Applications Groupe  (DAG) de la
+Direction des Systèmes d'information du Groupe Saint-Gobain, dont l'objectif est d'apporter un support
+informatique à l'ensemble de ses clients internes  (Direction Financière, Direction Ressources Humaines,
+Direction de L'Environnement, l'Hygiène et la Santé, Audit et le contrôle interne du Groupe...), en mode
+projet ou en mode récurrent.
+Au sein de l'équipe Méthodes, vous prendrez en charge les aspects méthodologiques de la gestion de
+l'exploitation informatique et ceux liés à la gestion de projet sous la supervision du Responsable Méthodes de
+la Direction des Applications Groupe.
+Dans le cadre d'un projet global baptisé ARIA, votre mission principale consistera à définir, à partir des
+meilleures pratiques constatées, les méthodes à appliquer pour garantir la meilleure gestion possible des
+activités  récurrentes  de  la  DAG:  Assistance/Support  aux  applications,  Exploitation  des  applications,
+Maintenance corrective et évolutive de ces applications. Vous construirez ainsi un kit méthodologique et des
+outils simples pour les responsables d'applications. Vous prendrez également en compte dans ces méthodes
+l'organisation du travail avec un centre offshore en Inde (anglais parlé courant indispensable).
+Méthodologie du récurrent (ARIA)
+Vous travaillez avec les responsables d'applications pour transformer les meilleures idées des uns en méthode
+générale pour tous sur les thèmes : Assistance/Support, Exploitation, Maintenance corrective et évolutive
+Vous mettez au point des outils variés supportant cette méthodologie :
+Divers outils ou templates opérationnels
+Supports de formation
+Interaction avec les applicatifs de ticketing et de gestion de projet/suivi des temps
+
+
+
+
+Interaction avec le centre offshore en Inde
+Vous participez à la formation et à la communication associée vers la DAG
+Méthodologie de gestion de projet
+Vous participez à la mise à jour de la méthodologie de projet déjà en place pour l'adapter aux besoins
+d'évolution et garantir sa cohérence avec la méthodologie du récurrent
+Vous travaillerez également à l'extension de la méthodologie existante aux méthodes agiles ainsi qu'à
+l'impact du travail avec le centre offshore en Inde sur la méthodologie de projet.
+Vous mettrez à jour en conséquence les différents supports : Guide général, présentations powerpoint, fiches
+mémo, etc.
+Formation
+Vous assurez la formation aux outils de gestion de projet et gestion des demandes et incidents en cohérence
+avec les principes méthodologiques définis par le Directeur des Applications Groupe
+Logiciels : Outil de ticketing (Service Now) et Outil de gestion de projet/suivi des temps Concerto (PSNext
+de Sciforma)
+Profil recherché :
+Formation Informatique de Gestion ou Sciences de Gestion avec une spécialité en Systèmes d'Information.
+Niveau d'études : Préparation Master 1 ou 2
+Connaissances souhaitées : Excel, Word, Power Point, notion sur les bases de données SQL, notions de
+gestion de projet, expérience en exploitation d'applications informatique.
+Qualités requises :
+Forte Sensibilité pour les Systèmes d'Information et la gestion de projet
+Sens du service
+Disponibilité et goût pour le travail en équipe
+
+
+
+
+Force de proposition
+Autonomie
+Rigueur et précision
+Qualité rédactionnelle en français
+Langues : Anglais parlé courant (bilingue apprécié)
+1 étudiant(e) en contrat d'apprentissage disponible à partir de septembre 2015
+Durée de l'alternance : 12 à 24 mois
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10295055
+
+
+
+
+

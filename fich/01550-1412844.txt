@@ -1,0 +1,32 @@
+﻿OFFRE DE STAGE N° 1412844
+Stage BAC+5 - Développement d’un logiciel
+d’analyse de défaillances (H/F)
+Avec un chiffre d'affaires de 1,8 milliards d'euros et des références prestigieuses, Thales Communi-
+cations & Security est numéro un européen des systèmes d’information et de communication sécuri-
+sés pour les marchés mondiaux de la défense, de la sécurité et du transport terrestre.
+La société compte près de 7 000 salariés répartis sur 9 sites principaux en France, au service de ses
+clients en France et à l'international.
+Localisation : Thales Communications & Security - 85 rue Emile Brault 53000 LAVAL
+Contexte
+Depuis plusieurs années, l’équipe Sûreté de Fonctionnement développe un outil d’analyse de défaillance
+pour équipements électroniques.
+La version actuelle se base sur des technologies Java   et Open Source. Depuis son déploiement en phase
+de tests, cette version génère de nouveaux besoins auprès des utilisateurs.
+Missions
+Le stage consistera à   :
+Implémenter un modélisateur fonctionnel
+Participer au recueil du besoin auprès des utilisateurs
+Rédiger et mettre à jour les documents d’ingénierie
+Implémenter et valider les développements
+Profil des candidats : BAC+5   -   Durée : 6 mois environ
+                                                                                                          Connaissances souhaitées : JAVA, bases de données / Oracle, XML, Netbeans
+Indemnité mensuelle brute : 1250                                                                          €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : delphine.pacini@thalesgroup.com
+
+
+
+
+

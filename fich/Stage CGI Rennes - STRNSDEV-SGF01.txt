@@ -1,0 +1,55 @@
+﻿Développement d’un système
+de gestion fiduciaire
+Fondée en  1976, CGI est un fournisseur mondial de s    ervices en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  de                     s  processus
+ENTITE : WST
+d’affaires  qui  offre  des  services-conseils  en  manag                      ement  ainsi
+DUREE : 6 MOIS
+que des services d’intégration de systèmes et d’out                            sourcing.
+LIEU : RENNES
+Avec  69  000  professionnels  présents  dans  40  pays  et                    répartis
+Contactez ?
+dans  400 bureaux partout dans le monde, nous conjug                           uons une
+Keiza BARBIN : keiza.barbin@cgi.com
+présence  locale  à un vaste  éventail  d’expertises.  V     oilà  la force
+et Stéphanie LEPEIGNEUL :
+de notre engagement.
+stephanie.lepeigneul@cgi.com
+OBJECTIF DU STAGE
+Offre de stage référence :
+ST/RNS/DEV-SGF/01                                                              Intégrer une équipe de développement au forfait pour un client du domaine
+bancaire sur des applications JAVA / Spring Webflow / Hibernate / Oracle.
+MISSIONS
+    Participer  à  la  conception  et  au  développement  d’évolutions
+demandées par le client
+    Participer   aux   corrections   d'anomalies   suite   aux   phases
+d'Homologation et de Recette client
+    Rédaction  de  fiches  de  tests,  et  de  spécification  techniques
+détaillées
+    Vous réalisez les fiches de tests unitaires et les développements de
+tout ou partie d’évolutions. Vous estimez vos charges avec l’aide de
+votre  maître de stage et  surveillez votre avancement  (calcul des
+restes à faire).
+    Vous pourrez être amené à avoir des contacts avec le client afin par
+exemple d’éclaircir des points dans les demandes d’évolution du
+client.
+    Vous  pourrez,  selon  vos  souhaits  d’évolution,      travailler  sur
+l’amélioration                                                                 de                                                                          l’environnement   de   développement
+(industrialisation  des  process,  mise  en  place  de  scripts  pour
+optimiser certaines taches, etc.) ou vous spécialiser dans le métier
+bancaire                                                                       (conception  technico-fonctionnelle,  passage  de  tests
+d’homologation, etc.).
+PROFIL
+    Formation bac+4/5 (École d’Ingénieur ou Université)
+    Connaissances de base en développement web et/ou orienté objet
+    Anglais
+Rejoignez-nous sur les réseaux sociaux : CGI recrute.
+www.cgi-recrute.fr
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

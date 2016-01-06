@@ -1,0 +1,64 @@
+﻿DISNEYLAND PARIS RECRUTE UN/UNE APPRENTI(E) ANALYSTE DÉCISIONNEL F/H EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 31/08/2015
+Référence de l’offre : ST-ALT RMA-10495796
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Marne-La-Vallée, Chessy 77777, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Avec 275 millions de visites depuis plus de 20 ans, Disneyland® Paris est la destination touristique la plus
+visitée en Europe. Disneyland Paris abrite deux parcs à thèmes et plus de 50 attractions exceptionnelles.
+Ainsi le rêve des grands classiques Disney, la magie du cinéma, de l'animation et de la télévision sont à
+portée de main de nos visiteurs. Disneyland Paris gère également le Disney Village et 7 hôtels à thèmes
+comptant plus de 6000 chambres pour apporter à nos visiteurs une expérience qualitative.
+Description du poste :
+Au sein du département Information Business Decision Support / Revenue Management Analytics, vous
+participerez à produire des analyses statistiques et communiquer les résultats. Vous explorerez les différentes
+solutions big data du marché pour traiter et analyser la donnée (Hadoop, NoSQL,...).
+ACTIVITES PRINCIPALES
+* Production d'analyses statistiques :
+- recueillir les besoins,
+-  comprendre  et  collecter  les  données  issues  de  sources  diverses                                         (systèmes  d'information  Revenue
+Management Analytics, Ventes Marketing, Internet, résultats d'enquêtes, ...),
+- nettoyer la donnée et contrôler sa qualité,
+- identifier les informations pertinentes,
+- produire des analyses statistiques,
+- communiquer les résultats et favoriser leur compréhension et leur exploitation par ses clients internes et
+externes.
+- construire des indicateurs de pilotage et des tableaux de bord.
+* Etudier les solutions big data du marché et l'utilité pour Disneyland Paris/ Revenue Management Analytics,
+produire un business case et des recommandations pour implémentation d'une telle solution.
+RESPONSABILITES
+* Représenter le département auprès de ses contacts internes et externes
+
+
+
+
+* Documenter son travail.
+* Former, accompagner ses collègues dans l'usage des outils et des solutions statistiques développés en
+interne.
+* Assurer les opérations d'extraction, de traitement et de mise en forme des données statistiques, en
+respectant les délais, le format et la qualité des données traitées tel que décrit dans un cahier des charges.
+*respecter et faire respecter les règles de confidentialité en vigueur.
+Profil recherché :
+Profil
+Inscrit en Master statistiques et informatique décisionnelle ou statistiques et traitement informatique des
+données (STID) en alternance.
+Compétences recherchées :
+*Compétences informatiques autour des technologies BI : SPSS, R, Microsoft Office, SGBD.
+* Fort intérêt pour le big data et les Technologies de l'Information et de la Communication.
+* Anglais courant.
+* Esprit de service et d'équipe.
+* Vous êtes une personne autonome, organisée, rigoureuse, consciencieuse, créative, à l'écoute et force de
+proposition
+* Vous faites preuve de curiosité intellectuelle et d'un esprit analytique.
+* Capacité à gérer son temps et respecter les délais impartis
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10495796
+
+
+
+
+

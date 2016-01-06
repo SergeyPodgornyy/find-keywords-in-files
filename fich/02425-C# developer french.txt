@@ -1,0 +1,27 @@
+﻿C#.NET développeur
+Amaris
+Amaris est un Groupe International de Conseil en Technologies et Management, présent dans
+plus de 55 implantations à travers le monde qui fonde sa croissance sur des équipes à taille
+humaine et apporte à ses clients et consultants une relation de PROXIMITE et des projets à
+forte VALEUR AJOUTEE.
+Description
+Vous recherchez un stage de fin d’étude ou un VIE. Vous travaillerez comme développeur Web
+C#.NET sur nos applications internes, vous contribuerez à la réalisation de nos projets et
+apporterez une valeur ajoutée à notre entreprise. Vous serez membre d’une équipe de
+développement dynamique et internationale. (L’équipe est répartie dans 10 pays différents et
+managée depuis la Suisse). Nous souhaitons mettre en place une équipe spécifique à
+Barcelone et recherchons des personnes motivées avec un véritable désir d’apprendre et de
+rester au minimum un an sur Barcelone.
+Profile
+Minimum 6 mois d’expérience en développement C#.NET Expérience professionnelle avec
+ASP.NET, MVC, SQL Server et web services Connaissances de Entity Framework, LinQ, TSF,
+WCF, MVVM, JavaScript, HTML, CSS, Jquery, Ajax, AngularJS, Twitter boostrap Anglais et/ou
+Espagnol sont un plus
+Contact
+Êtes vous intéressé? Envoyez votre CV à Emilia Rostkowska (erostkowska@amaris.com) et
+nous vous contacterons!
+
+
+
+
+

@@ -1,0 +1,57 @@
+﻿Stage  plateforme  de  monitoring
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC/1213
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5448606
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris La Défense 92000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Février
+DUREE  :  plus de 1 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Chef de Projet / MOE)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement :
+Vous intégrez une équipe d’une douzaine de personnes, majoritairement sur la partie
+développement, ainsi que quelques business analysts. Cette équipe est responsable d'une application
+de gestion et d'analyse des ordres passés et exécutés sur les marchés action pour le compte des
+clients de la banque (investisseurs institutionnels, brokers).
+L'application comporte deux modules principaux :
+* BaRS : Outil de booking permettant l'allocation et le booking automatisé des ordres selon les
+instructions envoyées par les clients
+* Analytics : Outil d'analyse et de reporting (PreTrade reports, PostTrade report, TCA) de toute
+l'activité Cash Equity (achat/vente d'actions).
+Vos missions :
+L'objectif du stage est l’amélioration de la plateforme de monitoring de l'application, basée sur
+ITRS Geneos, par l'ajout de nouveaux indicateurs dédiés à l'analyse en direct et à posteriori de la
+performance (pour l'équipe de développement) et à l'activité business (pour les business-analysts).
+A ce titre et en collaboration avec votre maître de stage qui assurera votre formation, vous
+participez aux tâches suivantes :
+* Implémenter dans la configuration Geneos les nouveaux indicateurs demandés
+
+
+
+
+* Implémenter côté applicatif (code Java) les modules de recueil de données requis par les
+nouveaux indicateurs (par exemple statistiques de fréquence de traitement, latence, etc.)
+* Implémenter les requêtes SQL rendues nécessaires par les nouveaux indicateurs (Oracle)
+* Enrichir la documentation à destination du support applicatif avec la description des nouveaux
+indicateurs implémentés (documentation en anglais à destinations d'utilisateurs internationaux)
+* Améliorer la plateforme de monitoring en participant aux réflexions sur le choix des nouveaux
+indicateurs à ajouter, de leur organisation (pour une restitution efficace vers les équipes utilisatrices)
+et de leur paramétrage
+PROFIL  :
+Bac +4/5 en Écoles d’ingénieur ou Université avec une spécialisation en Informatique.
+Vous avez de bonnes connaissances en Java, SQL et Linux (ligne de commande).
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5448606
+
+
+
+
+

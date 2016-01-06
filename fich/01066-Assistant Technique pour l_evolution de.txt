@@ -1,0 +1,58 @@
+﻿Assistant  Technique  pour  l'évolution  de
+SAINT  GOBAIN  Interservices
+REFERENCE  :  510318
+POUR  POSTULER  :  http://saint-gobain.contactrh.com/jobs/1536/5476640
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Ile-de-France 92096, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 06/01/2013
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Internet - E-commerce (Direction)
+SOCIETE  :
+La Direction des Systèmes d'Information (SGDSI) a pour vocation de définir, mettre en place et
+piloter la politique Systèmes d'Information et Télécoms du Groupe auprès de ses 1200 filiales et de
+ses fournisseurs dans le monde.
+DESCRIPTION  DU  POSTE  :
+Le stage se déroulera au sein de la Direction des Systèmes d’information du Groupe Saint Gobain,
+dont l’objectif est d’apporter un support informatique à l’ensemble de des utilisateurs du système
+d’information et de fournir des services informatiques industrialisés à l’ensemble des sociétés du
+groupe dans le monde.
+Au sein de l’équipe AD/Messagerie, vous contribuez aux différents projets/études et évolutions des
+infrastructures de messagerie du Groupe.
+Vous aurez ainsi la possibilité de mixer projets d’études amont et intégration et mises en œuvre
+pratiques concrètes.
+A ce titre, vous serez amené à :
+1.Mener une étude d’optimisation de notre solution actuelle de relai de messagerie / plateforme de
+filtrage Antispam et antivirus
+•Analyse des problématiques actuels et des améliorations souhaitées
+•Revue des paramétrages
+•Définition d’un plan d’optimisation et mise en œuvre des phases de tests
+2.Mener l’étude d’évolution de notre solution actuelle de relai de messagerie / plateforme de filtrage
+Antispam et antivirus
+a.analyse des solutions innovantes du marché,
+b.étude des différents scénarios techniques (offres classiques VS offres « cloud »)
+c.Rédaction d’un appel d’offres, analyse des réponses, et élaboration du cout global (TCO) incluant
+licences, maintenance, infrastructures et services).
+d.Rédaction de la synthèse pour définir l’évolution à donner.
+3.Participation à l’évolution de notre solution de reverse proxy.
+
+
+
+
+•Analyse des solutions proposées par Microsoft pour remplacer la technologie ISA 2004.
+•Validation avec l’équipe Sécurité de la DSI de la compatibilité avec les solutions d’authentification
+forte (token et soft token)
+•Coordination des tests pour valider la solution
+•Mise en œuvre de la solution
+PROFIL  :
+Formation Informatique de gestion ou Sciences de Gestion avec une spécialité en Systèmes
+d’Information
+Niveau d’études : Licence, Master 1
+POUR  POSTULER  :  http://saint-gobain.contactrh.com/jobs/1536/5476640
+
+
+
+
+

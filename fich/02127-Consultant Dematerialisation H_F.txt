@@ -1,0 +1,53 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT DÉMATÉRIALISATION H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-SE-3504-8373512
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris, Rennes 00000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                    Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                   2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Le pôle d'excellence Enterprise Content Management (ECM) contribue à renforcer l'industrialisation des
+processus de l'entreprise depuis l'entrée des documents dans le SI (dématérialisation, import, reconnaissance
+de carastères, indexation, distribution dans un workflow, etc…) jusqu'à leur traitement, leur archivage, la
+génération et la diffusion de contenus sortants (courriers, SMS, mail,etc...). Vous intervenez dans un contexte
+visant à développer et soutenir les offres Capgemini autour de la transformation digitale appuyé sur HP
+Extream, Sharepoint, IBM FileNet ou ECM Documentum.
+Vous êtes intégré(e) dans une équipe projet pour prendre part à une ou plusieurs phases de la construction
+d'un projet de système d'information de dématérialisation et de gestion de contenu :
+* compréhension des besoins du client,
+* spécifications détaillées des fonctionnalités,
+* conception technique, prototypes,
+* paramétrage et intégration des solutions Sharepoint/.net, IBM FileNet  , ECM Documentum ou sur la
+technologie HP Extream,
+* développements spécifiques notemment associés à la mise en oeuvre d'applications interactives sur tablettes
+et terminaux mobiles,
+* tests, correctifs et packaging des livraisons.
+Profil recherché :
+De formation Bac+5, vous :
+* avez déjà une connaissance de certains environnements techniques  (Java, J2E, XML, SQL, JSP,  .net,
+Maven, Jboss, Linux, Unix,etc...),
+* êtes intéressé(e) par le domaine de la dématérialisation en général et de la gestion de contenu en particulier,
+* appréciez le travail en équipe et les challenges,
+* possédez un bon niveau d'anglais.
+Ce stage vous permet de :
+* découvrir le métier d'ingénieur en technologie de l'information, le travail en équipe et le cycle de vie des
+projets informatiques,
+* contribuer à la transformation digitale de grandes entreprise,
+* prouver votre autonomie et votre capacité à trouver des solutions innovantes à des problématiques
+complexes dans des contextes stimulant de travail en équipe.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373512
+
+
+
+
+

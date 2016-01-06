@@ -1,0 +1,51 @@
+﻿ATOS RECRUTE UN/UNE STAGE C++& IHM CONTRÔLE SATELLITE (H/F) EN STAGE 6 MOIS.
+Date : 22/10/2014
+Référence de l’offre : 174592-7833791
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Mission
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Intégré(e) à nos équipes projets et pour le compte de nos plus grands clients du secteur des Services, de
+l'Industrie,  du  Secteur  Public,  de  l'Automobile,  des  Telecom  ou  de  la  Finance,  vous  participez  à  la
+conception, au développement et à la mise en production des applications dans des domaines variés.
+Vous avez pour missions de modifier des programmes conformément à l'analyse détaillée, planifier et
+exécuter des tests unitaires jusqu'à obtenir un résultat conforme, seul ou en équipe, spécifier les interfaces
+utilisateurs/système.
+Profil recherché :
+Profil
+Stage Transfert de données :
+Le but du stage est de développer une couche applicative pour permettre le téléchargement et le transfert de
+donnée entre différents composants d'un centre de contrôle et aussi permettre le transfert de donnée vers les
+satellites depuis un centre de contrôle. Lors du stage le candidat sera amené à développer une communication
+client/serveur basé sur les commandes de transfert de fichiers Unix (ftp, lftp,sftp).
+Connaissances exigées en python, C++ et protocoles ftp.
+Stage IHM Centre de controle Satellite :
+Le but du stage est de développer des IHMs destinée à visualiser les fonctions de bases et d'administration
+d'un centre de contrôle.
+Lors de ce stage, le candidat sera amené à développer des couches logicielles basées sur les standards
+CCSDS et d'IHM en C++/QT sur un système SOA.
+
+
+
+
+Des connaissances en Python et C++ et QT seraient appréciées.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7833791
+
+
+
+
+

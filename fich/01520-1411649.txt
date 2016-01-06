@@ -1,0 +1,33 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 : Développement d’un outil de gestion de livraison (H/F)
+Réf. 1411649
+Lieu : Thales Communications & Security - Cholet (49)
+Durée : env. 6 mois
+Contexte et missions :
+Au sein du laboratoire ES1 du service RES  (Radio Embedded Software), vous intégrez une équipe de
+développement de logiciels embarqués dans des postes radio tactiques.
+La  livraison  d’une  version  logicielle  pour  un  client  donné  nécessite  la  sélection  et  la  configuration  de
+nombreux packages ainsi qu’une customisation dépendant du pays du client.
+Vous aurez en charge la réalisation d’un logiciel en JAVA permettant d’automatiser et de sécuriser ces
+opérations de livraison en permettant entre autre :
+- d’ajouter de nouvelles versions
+- d’ajouter et de configurer de nouveaux packages
+- de gérer les règles de customisation
+- de vérifier les règles de cohérence entre packages
+- de comparer deux versions
+- de générer la documentation de livraison
+La configuration de l’outil devra être réalisable à l’aide de fichier XML.
+Connaissances souhaitées : Java, XML, XSL, HTML, PDF
+Indemnité mensuelle brute : 1250                                                                                          €
+Au sein de nos équipes, nous vous offrons :
+   du challenge,
+   des opportunités de carrière,
+   et des technologies innovantes pour rendre le monde plus sûr.
+Le monde mérite un bel avenir.
+Vous aussi.
+Pour postuler : https://www.thalesgroup.com/fr/homepage/carrieres (Réf. 1411649)
+
+
+
+
+

@@ -1,0 +1,58 @@
+﻿INFORMATIQUE                                                                                                                STAGE   2013-2014
+SOLUTION DE "REPORTING" JEE
+Stage rémunéré
+REF : 02_2014_Transv_AIR AAOT
+                                                                                                                            Créé en mai 2011 U GIE-IRIS, est le prestataire
+                                                                                                                            informatique  interne  au  Groupement  U
+DUREE : 3 mois - Période : Avril à Juin 2014
+                                                                                                                            (Hyper  U,  Super  U,  U  express).  Il  a  pour
+                                                                                                                            mission  la  centralisation  et  l'uniformisation
+                                                                                                                            des ressources informatiques des magasins U
+et des centrales.
+Chaque  année  nous  accueillons  une  douzaine  de
+Le pôle AAOT est en charge, au sein du GIE-IRIS, de la qualification et de
+stagiaires   qui   rejoignent   une   équipe   de                                                                           500
+la  mise  à  disposition  des  outils  informatiques  interne  au  GIE.  Il  est
+collaborateurs qui travaillent dans un environnement
+notamment en charges des différents socles technologiques sur lesquels
+technique constitué de 500 serveurs (Unix, Windows,
+sont développées nos applications.
+AS400), 1800 équipements réseaux et une centaine de
+Dans ce cadre, nous souhaitons rénover l’outillage permettant d’adresser
+bases de données, répartis dans les Datacenters et
+les aspects « Reporting » très souvent intégrés dans nos applications.
+reliés aux 1423 points de vente du groupe.
+Il faut donc évaluer et trouver l’outillage le plus pertinent dans notre
+contexte technique et fonctionnel.
+En immersion complète dans des projets
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+Après  une  période  d'acquisition  des  méthodes  et  outils,  vous  intervenez  avec
+l'accompagnement des équipes internes pour :
+Etude des frameworks et outils actuellement utilisés au GIE IRIS
+Identification des manques pour couvrir les nouveaux besoins
+Pilotage d'une étude de choix des solutions les mieux adaptées au contexte du GIE IRIS
+Mise en œuvre la solution sélectionnée sur un projet pilote concernant les statistiques d'utilisation d'un wiki
+interne GIE
+Identification et la rédaction de bonnes pratiques, de modes opératoires et l'implémentation d’un FAQ
+Acquisitions :
+Evolution dans un environnement technique riche au sein d'une structure informatique importante
+Suivi d'une méthodologie projet
+Connaissance d’un outil de « Reporting » moderne
+JAVA/J2EE - GWT - UML - WEBLOGIC - MAVEN - ECLIPSE - ORACLE
+Bac + 2/3 informatique, Ecole d'Ingénieurs ou Universitaire
+Connaissances techniques : JAVA
+Qualités requises : le stage impose une bonne intégration au sein du pôle Architecture Applicative et Outils Transverses.
+o   Force de proposition, vous faites preuve d'aisance technique et d'esprit d'initiative.
+o   Vous êtes doté d'un bon esprit d'analyse et de synthèse.
+o   Vous aimez le travail en équipe.
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

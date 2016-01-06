@@ -1,0 +1,45 @@
+﻿ATOS RECRUTE UN/UNE STAGE METH&TOOLS-SPATIAL TOOLS-E&M (H/F) EN STAGE 6 MOIS.
+Date : 22/10/2014
+Référence de l’offre : 174846 -7836401
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+L'activité Intégration de systèmes a pour vocation d'imaginer, de développer et de maintenir les systèmes
+d'information de ses clients.
+Intégré à nos équipes projets et pour le compte de nos plus grands clients du secteur des Services, de
+l'Industrie,  du  Secteur  Public,  de  l'Automobile,  des  Telecom  ou  de  la  Finance,  vous  participez  à  la
+conception, au développement et à la mise en production des applications dans des domaines variés.
+Mission : définition des assistants permettant de simplifier la conception de ces procédures. Ces assistants
+seront développés, intégrés à l'atelier et documentés. L'analyse des axes de simplification sera faite en amont
+du stage (une entrée). Le stagiaire aura les tâches suivantes :
+o Maquettage d'un ou plusieurs assistants d'aide à la création de procédure selon les axes définis en entrée
+o Présentation et mise à jour selon remarques de l'équipe
+o Codage d'un assistant sous la direction d'un expert technique Eclipse/Papyrus
+Objectifs pédagogiques : Le stagiaire aura la possibilité de développer ses compétences techniques dans le
+domaine d'applications Java, Eclipse et UML. Il devra définir et développer ces outils depuis la spécification
+des besoins jusqu'à la validation opérationnelle.
+Environnement technologique et fonctionnel : Le stagiaire intégrera l'équipe TOPCASED et bénéficiera de
+l'expertise sur java et développement de plug-ins ECLIPSE.
+Profil recherché :
+De formation Bac + 5 avec une culture informatique de génie logiciel, une connaissance de Java et des bases
+de données. Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage, ou, si
+vous le désirez, dans toute autre région dans laquelle Atos recrute. Vous êtes motivé(e) et rigoureux (se),
+aimez travailler en équipe et souhaitez-vous investir sur un projet. Rejoignez-nous
+Pour postuler : http://atos.contactrh.com/jobs/1536/7836401
+
+
+
+
+

@@ -1,0 +1,53 @@
+﻿SOGETI  HT  ­  RÉGION  OUEST  RECRUTE  UN/UNE  STAGE  INGÉNIEUR
+DÉVELOPPEMENT  JAVA  EN  STAGE  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  HT­MU9­SPC­stag­5556364
+Domaine  d’activité    :  Etudes  ­  Recherche  (Ingénieur  R  &amp;  D/Chercheur)
+Type  de  contrat    :  Stage
+Localisation    :  Toulouse  31000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Avec  3000  collaborateurs  en  France  et  plus  de  20  ans  d'expérience,  Sogeti  High  Tech
+figure  parmi  les  cinq  leaders  du  marché  de  l'Ingénierie  et  du  Conseil  en  Technologies.
+Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  des  plus  grands  groupes  industriels  mondiaux.  Nos  expertises  techniques
+et  métiers  dans  les  secteurs  de  l'aéronautique,  du  spatial,  de  la  défense,  du  ferroviaire,  de
+l'énergie  et  des  télécoms  renforcent  la  valeur  ajoutée  de  nos  solutions  au  service  des
+challenges  du  monde  industriel  du  XXIème  siècle.  A  vous  de  vivre  votre  passion  comme
+vous  l'avez  toujours  imaginé.
+Description  du  poste    :
+Dans  le  cadre  du  développement  de  ses  activités  spatiales,  SOGETI  High  Tech  Toulouse
+souhaite  intégrer  dans  ses  équipes  un  stagiaire.
+Le  programme  Galileo  est  le  programme  européen  de  Navigation  par  Satellite  (GNSS  ­
+Global  Navigation  Satellite  System)  lancé  par  l'ESA  (European  Space  Agency),  visant  à
+doter  l'Europe  d'un  système  indépendant  du  système  américain  GPS.
+Le  système  Galileo  se  décompose  en  différents  Segments  :  un  Segment  de  Contrôle  afin
+de  contrôler  les  satellites  et  un  Segment  Mission  visant  à  préparer  et  gérer  la  mission  de
+ces  satellites  (contrôle  du  message  de  navigation,  etc.).
+Les  Segments  sont  composés  de  plusieurs  Eléments,  eux­mêmes  structurés  de  plusieurs
+Composants.
+Sogeti  High  Tech  a  la  responsabilité  du  développement  de  deux  composants  d'un  Element
+du  Segment  Mission  visant  notamment  à  la  supervision  du  système.
+Totalement  intégré  à  l'équipe  projet,  le  stagiaire  aura  pour  mission  :
+­De  prendre  connaissance  du  contexte  métier  de  la  Navigation  par  Satellite  et  du  système
+Galileo
+­De  comprendre  et  participer  au  processus  de  cycle  en  V  et  des  différentes  revues  projet
+­De  participer  à  la  phase  de  conception  (UML)
+­De  participer  à  la  phase  de  développement  (Java/Swing)
+­De  participer  à  la  phase  de  validation
+­De  participer  à  la  préparation  des  livraisons
+
+
+
+
+Profil  recherché    :
+Bac  +5,  école  d'ingénieur(e)s  ou  universitaire,  vous  recherchez  un  stage  de  fin  d'études
+dans  le  développement  Java  sur  un  composant  du  Segment  Mission  Galileo.
+Pour  postuler    :  http://sogeti­high­tech.contactrh.com/jobs/1536/5556364
+
+
+
+
+

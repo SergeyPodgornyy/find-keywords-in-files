@@ -1,0 +1,69 @@
+﻿Proposition de stage REFRESH IT (Cesson Sévigné)
+PROFIL DE L’ÉTUDIANT SOUHAITE
+Master 2 Professionnel en Informatique                                                                                  (20 semaines obligatoires)
+X Spécialité MIAGE                                                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                                                         du 9 mars 2015 à fin août 2015
+X Spécialité GL                                                                                                         du 9 mars 2015 à fin août 2015
+X Spécialité   MITIC                                                                                                    du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                                                  du 1er février 2015 à fin juin 2015
+SUJET DU STAGE
+Titre du stage    Automatisation du processus de test du connecteur d                                                   e migration pour messagerie
+d’entreprise Office 365.
+Matériels, technologies, méthodes, langages, etc… u    tilisés au cours du stage
+    Visual Studio 2013
+    Framework .Net
+    C#
+    Team Foundation Server Coded UI Tests
+    Messagerie d’entreprise (Office 365, Microsoft Exchange, Lotus Domino, Google, Zimbra, etc…)
+    Office 365 (Microsoft)
+Le stage en quelques mots
+Contexte
+Refresh IT Solutions est un éditeur de logiciel spécialisé dans la transformation et l’évolution de l’IT (Information
+Technology) des entreprises. A ce titre, Refresh IT propose des solutions innovantes de migration des postes
+de travail  vers Windows  7  /  8.1 et  de  migration  des  systèmes de messagerie vers Office  365,  la  solution
+collaborative complète fournie par Microsoft dans le cloud.
+Refresh IT Solutions souhaite renforcer son offre logicielle et propose la réalisation de modules techniques
+supplémentaires à des stagiaires d’écoles d’ingénieurs ou d’université.
+Description
+Les solutions de migration de messagerie de Refresh IT Solutions reposent sur des composants de traitement
+de données de systèmes de messagerie d’entreprise. Le « Refresh Transporter » est un de ces composants.
+Son architecture logicielle repose sur des connecteurs de lecture et d’écriture adaptés aux différents logiciels
+du marché (Office 365, Microsoft Exchange, Lotus Domino, Google, Zimbra, etc…).
+Microsoft  faisant  évoluer  sa  plateforme  de  messagerie  Office  365  très  fréquemment  pour  y  intégrer  des
+correctifs ou de nouvelles fonctionnalités, Refresh IT Solutions souhaite se doter d’un mécanisme de validation
+automatique lui permettant de garantir en permanence le fonctionnement de son connecteur vers Office 365.
+Objectif
+Réaliser un robot logiciel                                                                                              , basé sur les tests automatisés d’interface graphique de Team Foundation Server,
+permettant de simuler le comportement d’un utilisateur                                                                  sur le portail Internet d’Office  365 pour vérifier le
+contenu d’une boite aux lettres migrée avec le « Refresh Transporter » et s’assurer que les messages, contacts
+et les calendriers sont conformes au contenu de la boite aux lettres source.
+
+
+
+
+Proposition de stage REFRESH IT (Cesson Sévigné)
+Etapes
+    Spécifications fonctionnelles et techniques
+    Réalisation du robot simulateur
+    Documentation, tests et validation
+Le stagiaire sera piloté et encadré par un ingénieur confirmé maîtrisant parfaitement les méthodes et
+technologies utilisées.
+CONTACTS POUR CE STAGE
+Nom de l’entreprise : Refresh IT Solutions                                                              Adresse : 11 Avenue des Peupliers
+Domaine d’activité : Editeur de logiciel                                                                Ville : 35510 Cesson Sévigné
+Représentant de l’entreprise : René-Philippe Mantrand                                                   Tél. : 0299840152
+Fonction : PDG
+N° de Siret :   49262554600022                                                                          Web :  http://www.refresh-it-solutions.com/
+N° NAF :   6202A
+Statut Juridique : S.A.S
+Effectif de l’établissement : 30
+Encadrant de stage : Simon Ferchaud                                                                     Chargé du suivi administratif :   Simon Ferchaud
+Fonction : Responsable produit                                                                          Fonction : Responsable produit
+Tél. : 0299840152                                                                                       Tél. : 0299840152
+E-mail : simon.ferchaud@refresh-it-solutions.com                                                        E-mail : simon.ferchaud@refresh-it-solutions.com
+
+
+
+
+

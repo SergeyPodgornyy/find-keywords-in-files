@@ -1,0 +1,103 @@
+﻿Technicolor R&D France Snc                                                                                                      tél. + 33 (0)2 99 27 30 00
+Internship proposal for 2015
+975 av des Champs Blancs - CS 17616                                                                                             fax + 33 (0)2 99 27 30 01
+Proposal ref:
+35576 Cesson-Sévigné Cedex - France
+DPL_2015_SP_VP_019
+Title of internship (web): DPL_2015_SP_VP_019 Signal Processing for Multimedia Security
+Summary of the internship (web)
+Piracy has been significantly facilitated by the commercial  deployment of software to manipulate digital multimedia
+content, and the development of rapid and efficient distribution networks. To tackle this issue, content protection is mainly
+ensured by cryptography during the distribution, but at the rendering time only forensics techniques can prevent from
+piracy. Such forensics solutions mostly rely on (i) digital watermarking to
+provide a tracing mechanism to be able to pinpoint the source of a leak
+when  it  occurs,  and  (ii)  passive  forensics  techniques  to  characterize
+pirate samples. Depending on the profile of the applicant, the internship
+will  focus  either  on  research  or  development.  Technicolor  topics  of
+interest in video forensics include  (but are not limited to): assessing
+HEVC  watermarking  system,  improving  HTTP  Adaptive  Streaming
+contents watermarking, refining fidelity models to ensure invisibility of
+the  watermarks  on  either  single  or  stereo  contents,  proposing  new
+features for video re-alignment in the particular case of short sequences,
+defining the piracy path and some passive video forensics statistics of the screencasting attack.
+Apply at: stage.rennes@technicolor.com
+
+
+
+
+Technicolor R&D France Snc                                                                                                                     tél. + 33 (0)2 99 27 30 00
+Internship proposal for 2015
+975 av des Champs Blancs - CS 17616                                                                                                            fax + 33 (0)2 99 27 30 01
+Proposal ref:
+35576 Cesson-Sévigné Cedex - France
+DPL_2015_SP_VP_019
+Title of internship: Signal Processing for Multimedia Security
+Internship period & duration: 6 months e.g. March-August 2015 (can be adjusted)
+Working environment: The selected candidate will join a team of 6 researchers and engineers working on signal processing for
+multimedia security. The members of the team are located in Rennes (France) in the new facilities of Technicolor R&D France, the largest
+Research Centre of the group.
+Context: The rapid transition from analog to digital media over the last decades puts the Entertainment industry under increased
+pressure to protect their high-valued assets. Piracy has indeed been significantly facilitated with the commercial deployment of software
+to manipulate digital content, and the development of rapid and efficient distribution networks. To tackle this issue, content protection is
+mainly ensured by cryptography during the distribution, but at the rendering time only forensics techniques can prevent from piracy.
+Such forensics solutions mostly rely on (i) digital watermarking to provide a tracing mechanism to be able to pinpoint the source of a leak
+when it occurs, and (ii) passive forensics techniques to characterize pirate samples.
+Objective: The intern will contribute to Technicolor’s effort to propose innovative solutions in video forensics. Depending on the profile
+of the applicant, the internship will focus either on research or development. Topics of interest include (but are not limited to):
+HEVC   watermarking.   Technicolor’s   video   watermarking                                                                                    Watermark detection on short sequences. In some applications
+technology  originally  tied  to  the  H.264/AVC  video  codec  has                                                                            such as content protection along the movie creation chain, short
+recently been exported to the HEVC coding format to enlarge the                                                                                sequences                                                                                                             (like  dailies)  need  to  be  watermarked.  However,
+scope of Technicolor’s offer. So far, fidelity models which aim at                                                                             watermark  detection  on  short  sequences  poses  numerous
+checking  the  invisibility  of  the  watermarks  as  well  as  the                                                                            challenges.  First  of  all,  realigning  the  pirate  video  with  the
+modulation strategy designed for H.264 have been reused for                                                                                    corresponding  master,  which  is  necessary  prior  to  watermark
+HEVC. The intern will be in charge to assess the relevance of                                                                                  detection,  is  more  difficult.  Actually,  realignment  relies  on
+existing fidelity criteria and to propose new improved one(s). He                                                                              content-dependent salient features such as key-frames, whose
+will also modify the watermarking modulation strategy to cope                                                                                  detection and extraction is more difficult on short sequences.
+with the new features of HEVC. This topic is particularly timely in                                                                            Secondly,  the  amount  of  watermark  embedded  on  a  short
+view  of  a  recent  specification  released  by  MovieLabs  that                                                                              sequence may be too small to reliably decode the watermark after
+mandates the used of forensic watermarking for 4K content.                                                                                     severe  degradation.  The  intern  will  explore  new  key  frames
+                                                                                                                                               extraction  strategies  as  well  as  new  temporal  consistency
+HAS watermarking. HTTP Adaptive Streaming  (HAS) essentially
+                                                                                                                                               constraints   to   improve   the   accuracy   of   Technicolor’s
+consists in switching between different qualities of a video in order
+                                                                                                                                               resynchronization framework. He will also design new detection
+to account for the ever changing bandwidth of the network and is
+                                                                                                                                               strategies to improve decoding on short sequences.
+routinely used for video consumption on mobile devices. However,
+these  regular  switches  have  been  reported  in  prior  work  to                                                                            Piracy path. Screencasting, aka. recording what is displayed on a
+potentially disrupt the watermark modulation strategy of our 2-                                                                                PC screen, is currently replacing camcording as a piracy threat.
+step  watermarking  systems.  The  intern  will  explore  various                                                                              Both video watermarking and fingerprinting are expected to be
+techniques to harmonize the payload embedding pace and/or new                                                                                  robust against the display-and-record pipeline, but this is hardly
+watermark detection paradigms.                                                                                                                 validated in practice due to the required tedious benchmarking
+                                                                                                                                               campaigns. The intern will analyze all the mechanisms occurring
+Fidelity  models.  Digital  watermarks  inserted  into  multimedia
+                                                                                                                                               along  a  specific  piracy  path  to                                                                                  (i)  model  the  distortions
+content  should  be  unnoticeable  by  an  average  viewer.  To
+                                                                                                                                               experienced by the content and/or (ii) design an efficient mimicry
+guarantee such imperceptibility, it is common practice to rely on
+                                                                                                                                               piracy  simulator.  When  relevant,  the  intern  will  also  explore
+perceptual models. However, common models such as PSNR and
+                                                                                                                                               whether such statistical evidence could be used to tell-tale which
+SSIM are tailored for compression and may not be readily usable in
+                                                                                                                                               devices or piece of software took part in the production of the
+watermarking. The intern will study how to measure perceived
+                                                                                                                                               analysed pirate sample.
+distortion either when only a few blocks are modified in a video or
+when noise is added to stereo video content.
+Candidates, who have a general interest in multimedia security but do not find an appealing internship in the list above, are encouraged
+to contact Gwenaël Doërr directly by email (gwenael.doerr@technicolor.com) to discuss potential internship topics and assess whether
+they are in line with Technicolor’s research roadmap.
+Profile of the applicant: 3rd year engineer or master, specialized in signal processing.
+Prerequisites:
+                                                                                                                                                  Signal processing fundamentals e.g. filtering, denoising, estimation, segmentation, indexing, compression, etc;
+                                                                                                                                              [opt.] Multimedia security e.g. DRM, watermarking, fingerprinting, forensics, biometrics, steganography;
+                                                                                                                                              [opt.] Machine learning, statistics, optics, communications, human perception;
+   Linux/windows environment;
+   C/C++ programming, Matlab;
+   Fluent in English.
+Apply at: stage.rennes@technicolor.com
+
+
+
+
+

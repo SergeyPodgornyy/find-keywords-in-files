@@ -1,0 +1,50 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT TECHNICO-FONCTIONNEL SAP H/F EN STAGE
+DE 4 À 6 MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-SE-3486-8373155
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris, Nantes, Rennes, Bordeaux 00000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                       Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                      2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+                                                                                                                       Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Le  pôle  d'excellence  Package  Based  Solutions                                                                      (PBS)  regroupe  l'ensemble  des  compétences  ERP
+fonctionnelles et techniques de Capgemini, dont SAP.
+Ses équipes de consultants interviennent auprès de clients de tous secteurs sur des projets de mise en œuvre
+dans différents domaines.
+Intégré(e) dans une équipe projet, vous contribuez à la construction de la solution fonctionnelle et/ou
+technique pour l'un de nos clients dans le respect des méthodes Capgemini. Vous participez à la mise en
+œuvre d'un projet d'intégration SAP dans les domaines suivants :
+* finance : modules FI, CO (exemple de mission : bascule SAP chez un industriel leader mondial dans la
+conception et la production de systèmes de pulvérisations/distributions),
+* logistique : modules MM, PP, SD (exemple de mission : plan de transformation chez un industriel leader
+sur le marché du conditionnement alimentaire),
+* gestion immobilière : module RE•FX (exemple de mission : mise en oeuvre d'une solution de gestion
+immobilière).
+Profil recherché :
+De formation Bac +5, vous :
+* possédez des connaissances sur un ou plusieurs modules SAP,
+* possédez des connaissances fonctionnelles (finance et/ou logistique et/ou gestion immobilière),
+* avez une bonne capacité d'analyse et de synthèse,
+* faites preuve d'esprit d'initiative et êtes autonome,
+* avez un bon relationnel.
+Ce stage vous permet de :
+* acquérir un savoir faire sur SAP et une compétence fonctionnelle : finance, logistique ou immobilière,
+*  participer  à  l'ensemble  des  étapes  clés  d'un  projet  informatique  avec  la  rédaction  de  spécifications
+fonctionnelles, de paramétrage avec la réalisation de tests unitaires et d'intégration de la solution,etc...
+* être contact direct avec le client, ce qui vous permet d'appréhender toutes les dimensions du métier de
+consultant.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373155
+
+
+
+
+

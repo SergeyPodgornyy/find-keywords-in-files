@@ -1,0 +1,47 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT D'APPLICATIONS PHP H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-ADM-3471-8372531
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Nantes 44000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                    Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                   2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Capgemini propose des Centres de Services NTIC à ses clients Grand Compte Nationaux. Composés
+d'équipes jeunes et dynamiques, ces centres vous proposent d'intégrer un environnement idéal pour mettre en
+œuvre des solutions innovantes et attendues par nos clients. Vous intégrez une équipe au sein d'un Centre de
+Services qui assure pour un de nos grands clients du secteur des services, la maintenance, les évolutions ainsi
+que la construction de nouvelles applications.
+En tant que Consultant évolution et maintenance d'applications - Nouvelles Technologies, vous participez à
+la maintenance des applications et au développement des évolutions fonctionnelles demandées par le client.
+Vous intervenez donc sur l'ensemble des processus allant de l'expression du besoin jusqu'au déploiement de
+la  solution  sur  l'environnement  de  production  du  client                                                      (analyse  du  besoin,  chiffrage,  spécifications
+détaillées, études d'impacts techniques, conception détaillée, mise en oeuvre et tests, livraison).
+Vous travaillez sur les environnements techniques suivants : LAMP (Linux, Apache MySQL, PHP) et .NET
+(ASP, ASP.NET, C#) + MSBI (SSIS, SSRS, SSAS).
+Profil recherché :
+De formation Bac+5 avec une spécialité en génie logiciel :
+* avez des connaissances solides dans les environnements techniques décrits dans la mission,
+* appréciez le travail en équipe et les challenges,
+* maitrisez un anglais opérationnel (présentations orales et écrites),
+* souhaitez vous investir sur un projet qui exige curiosité, esprit d'analyse, adaptation et rigueur.
+Ce stage vous permet de bénéficier d'une expérience solide sur des projets IT d'envergure et vous permet de :
+* travailler sur le cycle de vie des projets informatiques et le développement structuré d'un projet intégrant un
+processus qualité très exigeant (norme, documentation, processus).
+* avoir une formation adaptée à nos métiers,
+* apprendre le travail en équipe.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8372531
+
+
+
+
+

@@ -1,0 +1,52 @@
+﻿Stage n°7 du LCE
+Sujet : Architecture de caméra intelligente pour l’analyse de scène
+Le Commissariat à l’Energie Atomique et aux Energies Alternatives  (CEA) est un acteur majeur en
+matière de recherche, de développement et d’innovation. Cet organisme de recherche technologique
+intervient dans trois grands domaines : l'énergie, les technologies pour l'information et la santé et la
+défense. Reconnu comme un expert dans ses domaines de compétences, le CEA est pleinement
+inséré  dans  l'espace  européen  de  la  recherche  et  exerce  une  présence  croissante  au  niveau
+international. Situé en île de France sud (Saclay), le Laboratoire d’Intégration des Systèmes et des
+Technologies  (LIST)  a  notamment  pour  mission  de  contribuer  au  transfert  de  technologies  et  de
+favoriser  l’innovation  dans  le  domaine  des  systèmes  embarqués.  Au  sein  du  LIST  le  Laboratoire
+Calcul Embarqué (LCE) conçoit et de développe des calculateurs à haut niveau de performance pour
+les systèmes embarqués.
+L’évolution des technologies de capteurs CMOS a contribué à l’explosion du marché des systèmes de
+vision embarqués. Le LCE s’est positionné dans ce domaine depuis une décennie grâce à plusieurs
+réalisations de caméras intelligentes  (système intégrant capteur, processeur et mémoire) pour des
+traitements  d’image  bas  niveau.  L’intégration  de  fonctions  de  plus  haut  niveau,  telles  que  la
+reconnaissance d’objets, analyse de scène, perception du mouvement, etc., nous pousse à revoir
+l’organisation matérielle de ces caméras intelligentes.
+L’objectif du stage sera dans un premier temps de faire un état   de l’art complet des architectures de
+caméras intelligentes existantes (allant des capteurs souris basse résolution à cadence image élevée,
+jusqu’aux architectures en technologies très avancées, type intégration 3D). Dans un second temps,
+le candidat devra faire une proposition d’architecture haut-niveau, en mettant un accent particulier sur
+les moyens de communication et de mémorisation mis en œuvre dans l’architecture de la caméra
+intelligente.  La  proposition  devra  prendre  en  compte  d’une  part  les  spécificités  offertes  par  les
+technologies  CMOS  avancées  et  d’autre  part  les  caractéristiques  d’applications  haut  niveau
+(reconnaissance d’objet et analyse de scène). L’architecture sera mise en œuvre sous la forme d’un
+simulateur  (C++,SystemC et/ou VHDL) pour en étudier les caractéristiques principales. Ce sujet de
+stage pourra potentiellement être suivi d’une thèse.
+Mots-clés : Systèmes de vision embarqués, caméra intelligente, applications de traitement
+d’image haut niveau, architecture matérielle
+Niveau demandé : Master Recherche (BAC+5)
+Durée : 6 mois
+Compétences : Architecture des systèmes embarqués, Traitement d'images, langage C,
+VHDL, technologie CMOS
+Pièces à fournir : CV + lettre de motivation + classements
+Contact :
+Nom                                                                                                              : Stéphane Chevobbe
+Téléphone                                                                                                        : 01 69 08 27 46
+Email                                                                                                            : stephane.chevobbe@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                                       Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                                   Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                         Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

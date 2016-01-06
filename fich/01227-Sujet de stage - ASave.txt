@@ -1,0 +1,72 @@
+﻿SUJET DE STAGE
+ASAVE1
+Swid - 5 square du Chêne Germain, 35530 Brécé -   Page 1/3
+
+
+
+
+COORDONNÉES
+Entreprise
+Nom                                               SWID
+Dirigeant                                         MORUCCI Stephane
+Domaine d’activité                                Société d’ingénierie en informatique
+Adresse                                           5 square du chêne germain
+                                                  35510 Cesson-Sévigné
+N° téléphone                                      02 23 21 53 25
+Site Web                                          http://www.swid.fr
+                                                  Tuteur de stage
+Nom                                               MORUCCI Stéphane
+Qualité                                           Dirigeant
+N° téléphone                                      02 30 96 11 39
+Email                                             stephane.morucci@swid.fr
+                                                  Suivi administratif
+Nom                                               ROUAULT Alexandra
+Qualité                                           Assistante de direction
+N° téléphone                                      02 23 21 53 25
+Email                                             alexandra.rouault@swid.fr
+Swid - 5 square du Chêne Germain, 35530 Brécé -   Page 2/3
+
+
+
+
+SUJET DE STAGE
+Titre  du  stage                                                                                        :  Développement  d'une  solution  automatisée  de  sauvegarde,  cryptage,
+synchronisation et archivage de données dans le Cloud
+Type et configuration du matériel sur lequel le stagiaire travaillera : environnements Windows,
+Systèmes d'exploitations Ubuntu, environnement Windows, Raspberry Pi.
+Langages de programmation utilisés : C++/C, Qt, Shell, PHP, HTML, CSS, Javascript, Python
+Logiciels et méthodes employés  : Microsoft Visual Studio, outils de modélisation UML, GIT,
+Jenkins, cross-compilation, développements agiles.
+Objectif et mission :
+L'objectif de ce stage est de participer à la conception, au développement et à la mise en production
+d'une nouvelle solution automatisée de sauvegarde, cryptage, synchronisation et archivage de
+données dans le Cloud. L'accent sera mis sur la simplicité d'utilisation et d'intégration, avec une
+automatisation poussée.
+Le stage se décompose en trois parties :
+•  Dossier technique : le stagiaire participera à l'analyse et à la rédaction du cahier des charges
+et des spécifications fonctionnelles de la solution finale
+•  Développements : le stagiaire sera le principal contributeur de la solution Front-office
+(Windows) et participera aux développements back-office (Serveurs Ubuntu et Cloud)
+•  R&D :
+•  le stagiaire étudiera, proposera et participera aux développements permettant
+d'automatiser le processus complet lié au progiciel : de sa compilation avec des
+paramètres personnalisés saisis par le client final jusqu'à son déploiement sur le poste
+de travail.
+•  une étude sera également menée sur le portage de la solution sur des architectures de
+type Raspberry Pi.
+•  Gestion des politiques de sécurité liées à la gestion des données
+Tout au long de sa mission, le stagiaire recherchera des solutions Open-Source pouvant accélérer
+son travail de développement et d'intégration.
+INFORMATIONS COMPLÉMENTAIRES
+Durée du stage : 4 mois avec prolongation éventuelle de 2 mois
+Dates du stage : à définir avec le stagiaire
+Lieu du stage: Cesson-Sévigné (35 530)
+Temps horaire hebdomadaire : 35h
+Montant de l’indemnité mensuelle : A partir de 600                                                      € et selon expérience.
+Mode et date de versement : Virement bancaire à la fin du mois
+Swid - 5 square du Chêne Germain, 35530 Brécé -                                                         Page 3/3
+
+
+
+
+

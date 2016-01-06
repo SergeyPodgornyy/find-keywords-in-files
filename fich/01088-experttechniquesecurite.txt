@@ -1,0 +1,59 @@
+﻿EXPERT TECHNIQUE SECURITE DES SI                                                                               (H/F)  ­  BAGNOLET
+Lexsi, 1er groupe Français indépendant spécialisé en stratégie SSI et cyber sécurité, compte 180
+experts à la pointe du secteur de la sécurité informatique.
+Cabinet  leader sur son  marché, LEXSI est  implanté  à  Paris, Lyon,  Lille,  Singapour et  Montréal
+(Canada) et délivre ses prestations aussi bien en France qu’à l’international.
+LEXSI intervient à travers 4 pôles de compétences :
+VEILLE ET LUTTE CONTRE LA CYBERCRIMINALITE : CERT- LEXSI
+CONSEIL EN SECURITE DE L’INFORMATION
+AUDIT SECURITE DES SYSTEMES D’INFORMATION
+FORMATION EN SECURITE DES SYSTEMES D’INFORMATION
+Le CERT-LEXSI est la division de veille technologique et de lutte contre la cybercriminalité et la fraude en
+ligne de LEXSI  (180 personnes). Implanté en Europe, Asie et Amérique du Nord, le CERT-LEXSI
+propose une combinaison unique de technologies et de talents pour réduire les risques liés à Internet.
+Accrédité CERT, le CERT-LEXSI propose une force de réponse à incident et d'enquête  24/7; ses
+analystes, développeurs et chercheurs collaborent activement avec la communauté de recherche et les
+services anti-fraude à travers le monde.
+Le CERT-LEXSI recherche un Expert Technique (H/F),
+MISSIONS  :
+Sous  la  responsabilité  du  Manager  de  pôle,  vous  êtes  intégré(e)  à  l’Equipe  d’Experts
+Technique spécialisée en veille technologique sécurité, en ingénierie inverse et en réponse à
+incidents :
+Vous participez activement au service de Veille Technologique Sécurité à travers l’alimentation de
+la base de vulnérabilités et le suivi des actualités sécurité. À cet effet, vous analysez les
+vulnérabilités, les codes d’exploitation et les programmes malveillants afin de rédiger des
+bulletins d’alerte.
+Vous réalisez des missions de réponse à incidents, nécessitant de rechercher et de qualifier des
+actions malveillantes (malware, intrusions, menaces, etc.).
+Vous effectuez des recherches sur des projets innovants liés à  la sécurité  et à  l’étude des
+nouvelles menaces.
+La  variété  des  missions  et  des  projets  de  recherche  permettent  le  développement  de
+compétences techniques pointues :
+Exemples de missions : développement de solutions d’éradications de malwares lors d’infection
+pandémique,  accompagnement  suite  à  des  intrusions  informatiques,  recherche  forensique  sur
+smartphones, analyse de malwares bancaires  (Zeus, SpyEye, Torpig, Citadel, etc.), recherche de
+preuves sur des disques durs, recherche de vulnérabilités sur des solutions software et hardware,
+etc.
+
+
+
+
+Exemple  de  projets                                                                                           :  plateformes  d'analyse  antivirale,  sandboxes  d’analyse  de  malwares,
+développement d’outils forensiques, plateformes de récupération et/ou de surveillance de menaces,
+etc
+PROFIL  RECHERCHE  :
+De formation Bac+5, vous exercez votre passion pour le domaine de la sécurité informatique depuis
+au moins 3 ans. Vous disposez ainsi de solides compétences techniques en systèmes (GNU/Linux,
+Microsoft Windows), en réseaux et une pratique avérée des techniques d’ingénierie inverse.
+Vous aimez partager vos connaissances, développer vos idées, travailler de manière autonome en
+équipe et vous tenir informé sur l'évolution de la sécurité informatique. Rigoureux et disposant de
+bonnes  qualités  rédactionnelles,  vous  êtes  capable  de  parler,  de  lire  et  de  rédiger  des  textes
+techniques en langue anglaise.
+Le poste   basé à Bagnolet (93), est à pourvoir en CDI, dès à présent.
+Si vous souhaitez nous rencontrer, transmettez nous votre candidature à recrutement@lexsi.com, à
+l’attention de Linda VERZELE.
+
+
+
+
+

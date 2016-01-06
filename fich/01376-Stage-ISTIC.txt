@@ -1,0 +1,61 @@
+﻿Stage R&D (niveau Master 1 ou 2)
+Analyse d'image et apprentissage automatique pour le traitement de données géospatiales en environnement
+Equipe(s) et contact(s) :
+Sébastien Lefèvre / Nicolas Courty / Thomas Corpetti
+sebastien.lefevre@irisa.fr / nicolas.courty@irisa.fr / thomas.corpetti@univ-rennes2.fr
+Equipe OBELIX - IRISA / OSUR - Vannes ou Rennes
+Merci d'adresser toute demande aux 3 adresses électroniques.
+Localisation :
+IRISA, Bâtiment ENSIBS, Campus de Tohannic, 56000 Vannes
+OSUR - LETG Costel, Campus de Beaulieu ou de Villejean, 35000 Rennes
+Mots-clés  : Traitement d'image, Reconnaissance de formes, Apprentissage automatique, Fouille de données, Télédétection,
+Imagerie satellite et aérienne
+Contexte et environnement du stage :
+L'IRISA (Institut de recherche en informatique et systèmes aléatoires, www.irisa.fr), est une unité mixte de recherche (UMR 6074)
+en  informatique,  en  traitement  du  signal  et  des  images  et  en  robotique.  Elles  est  composée  de  plusieurs  établissement
+(principalement localisés sur Rennes). Elle s'organise autour de 7 départements, dont celui « Signaux et Images Numériques,
+Robotique » dans lequel émarge l'équipe OBELIX.
+L'équipe OBELIX (OBsErvation de L'environnement par Imagerie compleXe, www.irisa.fr/obelix) est une   équipe de l'IRISA
+soutenue par le CNRS, l'Université de Bretagne-Sud, et l'Université de Rennes 2. Elle s'intéresse aux thématiques de l'analyse et la
+fouille  de  données                                                                                                                         (image)  en  lien  avec  des  problématiques  environnementales.  Les  données  traitées  sont  massives,
+multidimensionnelles (multi- ou hyper-spectrales), bruitées, hétérogènes (multi-sources) et présentent un caractère spatio-temporel
+(séries d'images). L'équipe mène ses recherches en étroite collaboration avec le laboratoire LETG Costel au sein d'une équipe
+commune de l'OSUR (Observatoire des Sciences de l'Univers de Rennes), et a notamment en charge l'activité de R&D autour de la
+plate-forme imagerie de l'OSUR (osur.univ-rennes1.fr).
+Sujet :
+L'activité  de  recherche  de  l'équipe  OBELIX  consiste  en  des  développements  théoriques  et  méthodologiques  trouvant  des
+applications dans  de nombreux  domaines  où  l'apport  des  données géospatiales  permet  de  répondre à  des  problématiques
+environnementales  (écologie du paysage, géographie urbaine, géophysique, géomorphologie du littoral, gestion des risques,
+agriculture, climatologie, etc.). Ces contextes applicatifs sont fournis par les partenaires de l'équipe, en France (LETG-Costel à
+Rennes, LIVE et IPGS à Strasbourg, DYNAFOR à Toulouse, etc.) ou à l'étranger (EPFL en Suisse, ITC aux Pays-Bas, LIAMA en
+Chine, etc.).
+L'objectif du stage sera donc d'étudier un problème particulier (par exemple : segmentation, classification, détection d'objet,
+extraction d'informations, etc.) dans un contexte d'application prédéfini. Le problème/contexte sera choisi en fonction des priorités
+de l'équipe et selon le profil du stagiaire. Dans tous les cas, il s'agira de faire avancer l'état de l'art en apportant une solution à un
+problème posé en télédétection de l'environnement, avec l'aide des autres membres de l'équipe. La solution donnera lieu à une
+réalisation logicielle et une validation expérimentale, permettant de qualifier sa pertinence face au problème posé.
+Au cours du stage, le travail consistera à :
+1.                                                                                                                                           appréhender le problème posé (compréhension des verrous, connaissance de l'état de l'art) ;
+2.                                                                                                                                           développer une méthode permettant de résoudre le problème étudié ;
+3.                                                                                                                                           effectuer une évaluation solide des résultats obtenus ;
+4.                                                                                                                                           élaborer une démonstration du travail réalisé ;
+5.                                                                                                                                           identifier les perspectives ouvertes par ce travail ;
+6.                                                                                                                                           si les résultats sont concluants et les avancées significatives, participer en tant que co-auteur à l'écriture d'un article
+                                                                                                                                             scientifique en vue d'une publication d'audience internationale ;
+Compétences / connaissances recherchées :
+Analyse et traitement d'image et/ou Apprentissage automatique / Fouille de données
+Maitrise de l'anglais (langue de travail de l'équipe, littérature scientifique)
+Maitrise d'un langage de programmation (Java, C++, Python, etc.).
+Esprit d'analyse
+Travail en équipe
+Débouchés :
+En fonction du niveau et de la motivation du ou de la stagiaire, une poursuite en M2 recherche voire en thèse est envisageable.
+Cette poursuite peut être réalisée en Bretagne (Vannes ou Rennes) ou au sein d'un des partenaires de l'équipe en France ou à
+l'étranger.
+Gratification :
+Le stage est rémunéré conformément à la législation.
+
+
+
+
+

@@ -1,0 +1,43 @@
+﻿Proposition de Stage                                                                                          18/10/13
+Logiciel de visualisation de données géoréférencées  - réf. FORFAITS
+Intitulé du stage :
+IST-14-06
+Durée :                                                                                                       6 mois     Date de début :  Février 2014   Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech - Agence de Rennes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Dans  le  cadre  de  son  activité  R&D  dans  le  domaine  du  traitement  de  données,  ALYOTECH
+Technologies souhaite faire évoluer un logiciel de stockage de données d’études géoréférencées.
+Objectif général :
+L’objectif  de  ce  stage  consiste  à  concevoir,  développer  et  valider  de  nouvelles  fonctionnalités
+cartographiques basées sur Java / Eclipse RCP et Udig.
+Le  stage  se  déroulera  en  plusieurs  phases,  permettant  d'ajouter  successivement  de  nouvelles
+fonctionnalités.
+
+
+
+
+Proposition de Stage                                                                                            18/10/13
+Plusieurs plates-formes de développement seront exploitées (Linux/Windows). Les développements
+devront  être  testés  et  validés  unitairement  avant  leur  intégration  dans  le  logiciel.  Un  document
+décrivant les travaux réalisés et présentant une synthèse des résultats obtenus sera rédigé.
+Ce stage sera l’occasion de découvrir et d’appliquer le cycle industriel de développement.
+Profil recherché :
+Niveau de formation du stagiaire :
+Bac + 5 (Ecole d’ingénieurs, Master Informatique, Master pro)
+Compétences techniques :
+Développement informatique, Java
+Connaissance du framework Udig souhaitée
+Autres :
+Windows, Linux
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                                     02.23.21.11.11   Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

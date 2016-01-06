@@ -1,0 +1,31 @@
+﻿ANNONCE STAGIAIRE M1 - MIAGE
+Présentation de l’entreprise :
+Leader  français  des  équipements  de  manutention  pour  tracteurs,  avec  un  positionnement  haut  de  gamme  et  un
+rayonnement  international,  MX  évolue  sur  les  marchés  agricoles,  viticoles,  espaces  verts  et  collectivités.  Située  à
+Acigné,   près   de   Rennes                                                                                                            (35),  l’entreprise   emploie   500  personnes   dans   une   tradition   de   savoir­faire   et
+d’innovation.
+Thème  du  stage  :
+Mise  en  place  d’un  outil  informatique  de  reporting  groupe  (solution  Inside)  sur  une  des  sociétés  d’exploitation.
+ es  missions    roposées   :
+Dans  le  cadre  du  développement  du  système  d’information  groupe,  vous  participez  à  la  mise  en  place  d’un  outil
+informatique  de  reporting.
+La  mise  en  place  de  l’outil  débutera  sur  une  des  sociétés  d’exploitation  du  groupe  pour  être  étendue  à  l’ensemble
+des  sociétés  présentant  chacune  des  caractéristiques  propres.
+A  partir  d’un  cahier  des  charges  établi  en  amont  par  le  service  Contrôle  de  Gestion,  vous  participerez  à  la
+rédaction  du  référentiel  et  à  la  création  des  connecteurs  entre  le  logiciel  Inside  Studio  et  un  entrepôt  de  données
+(Blueway),  en  faisant  jouer  votre  esprit  d’analyse  pour  valider  en  permanence  le  cahier  des  charges  par  rapport
+au  contexte  multi­sociétés.
+Vous  êtes  rattaché  à  l’équipe  Contrôle  de  gestion  qui  pilote  le  projet  et  en  relation  avec  le  service  applications
+informatiques.
+Profil  recherché  :
+Master  1  MIAGE  minimum
+Vous  êtes  intéressé  par  l'informatique  de  gestion  pour  répondre  à  notre  attente  d’un  double  regard  côté
+informatique  sur  l’architecture  informatique  et  côté  gestion  sur  la  pertinence  et  la  simplicité  des  outils  mis  en
+place.
+Adresse  :
+Merci  d’adresser  votre  dossier  (lettre  de  motivation  et  CV)  à  :  nfresnel@m­x.eu
+
+
+
+
+

@@ -1,0 +1,40 @@
+﻿Proposition de stage "ingénieur" (2014)
+Sujet de stage
+Montage de liaison entre un robot exosquelletique et une caméra infrarouge   mesurant
+les mouvements oculaires
+Durée et date envisagées
+2-3 ou 6 mois entre février et septembre 2014
+Responsable du stage
+Responsable:                                                                                      Alexa Riehle (DR1 CNRS) et Florent Jaillet (IE2 CNRS)
+Institut:                                                                                         Institut de Neurosciences de la Timone (INT), Equipe CoMCo
+                                                                                                  UMR 7289   CNRS-AMU, Campus Santé Timone
+                                                                                                  27 Bd Jean Moulin
+                                                                                                  13005 Marseille
+Page Web:                                                                                         http://www.int.univ-amu.fr
+Email:                                                                                            alexa.riehle@univ-amu.fr et florent.jaillet@univ-amu.fr
+Téléphone:                                                                                        04 91 32 40 46 et 04 91 32 40 05
+Descriptif du projet
+Ce stage se déroule dans le cadre d'un projet en neuroscience cognitive qui vise
+à identifier les bases neuronales de l'intégration visuo-motrice. Plus précisément, il
+s'agit    de    faire    une    liaison    entre    notre    robot    exosquelletique    KINARM
+(http://www.bkintechnologies.com/) et une caméra rapide infrarouge pour mesurer les
+mouvements  oculaires  (EyeLink1000  http://www.sr-research.com/).  Le robot  contrôle
+(et enregistre) les mouvements du bras dans un plan horizontal, tout en fonctionnant
+avec un système de réalité virtuelle. Ce robot peut générer des mouvements passifs
+du bras ainsi que des perturbations du mouvement en activant des moteurs au niveau
+du coude et de l'épaule. Afin de contrôler le comportement visuo-moteur du sujet, il
+faut  intégrer,  dans  le  robot,  la  sortie  de  la  caméra  infrarouge  qui  mesure  les
+mouvements oculaires, afin de contrôler à la fois les comportements du bras et des
+yeux. Le robot a son propre logiciel (Dexterit-E), qui tourne sous Matlab Simulink. La
+caméra, elle aussi, tourne sous Matlab via PsychToolbox. L'objet du stage est de faire
+interagir  en  temps-réel  ces  deux  composants  logiciels  pour  répondre  aux  besoins
+expérimentaux du projet.
+Compétences requises
+Ce  stage  est  idéal  pour  un  étudiant  intéressé  par  une  démarche  multidisciplinaire
+entre  informatique  et  neurosciences.  De  bonnes  connaissances  en  programmation
+Matlab/Simulink sont requises.
+
+
+
+
+

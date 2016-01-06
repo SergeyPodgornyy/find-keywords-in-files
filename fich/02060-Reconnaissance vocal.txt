@@ -1,0 +1,71 @@
+﻿Reconnaissance vocal
+Sujet
+L'objet du stage est de participer à une étude sur l'utilisation de la reconnaissance vocale dans
+le cadre d'un projet collaboratif pour le monde hospitalisé  et au développement d'une
+maquette logicielle permettant d'évaluer cet apport.
+-Analyser les systèmes Reconnaissance vocal (exp. pocketsphinx) et leur utilisation
+opérationnelle
+-Proposer une utilisation de la reconnaissance vocale sur un cas opérationnel / pilotage
+-Maquettage de la solution de reconnaissance vocale
+-Intégration de la maquette dans le système existant avec l'environnement
+CONNAISSANCES Souhaitée
+Langages C / Javascript
+Connaissances de base en Reconnaissance vocale
+Profil
+De formation BAC+5, vous recherchez un stage d'une durée de 6 mois, à compter du 1er
+semestre 2015. Au sein de nos équipes, nous vous offrons :
+* du challenge,
+* des opportunités de carrière,
+* et des technologies innovantes.
+Niveau(x) d'études
+Bac +5
+Période
+6 mois
+Convention de stage
+Oui
+contact : contact@telecomsante.fr
+Traitement de l'image   (de préférence spécialité : Imagerie Numérique)
+Sujet
+L'objet du stage est de participer à une étude sur l'utilisation des caméra a champ large pour
+faire de la reconnaissance de chute dans le cadre d'un projet collaboratif pour le monde
+hospitalisé  et au développement d'une maquette logicielle permettant d'évaluer cet apport.
+- Analyse des système existant de caméra
+- Analyser les systèmes de traitement d'image  et leur utilisation opérationnelle
+-Maquettage de la solution de détection de chute
+-Intégration de la maquette dans le système existant avec l'environnement
+CONNAISSANCES Souhaitée
+Langages C / Javascript
+Connaissances de base en Reconnaissance vocale
+Profil
+De formation BAC+5, vous recherchez un stage d'une durée de 6 mois, à compter du 1er
+semestre 2015. Au sein de nos équipes, nous vous offrons :
+* du challenge,
+
+
+
+
+* des opportunités de carrière,
+* et des technologies innovantes.
+Niveau(x) d'études
+Bac +5
+Période
+6 mois
+Convention de stage
+Oui
+contact : contact@telecomsante.fr
+Merci pour votre aide
+--
+Guillaume  Roul
+TélécomSanté
+Directeur  de  production
+Phone  :  +33674858040
+Mail  :  guillaume.roul@telecomsante.com
+www.telecomsante.fr
+Bat  Prométhéum
+8  square  du  chêne  germain
+35510  Cesson  Sévigné
+
+
+
+
+

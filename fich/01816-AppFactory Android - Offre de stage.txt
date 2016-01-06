@@ -1,0 +1,55 @@
+﻿Aquafadas est une société innovante, leader sur le marché de l’édition numérique
+sur tablettes et smartphones. Forte des technologies et de l’expérience développées
+au cours de ces années, elle est aujourd’hui parmi les entreprises technologiques en
+plus  forte  croissance  en  Europe.  Aquafadas  appartient  au  Groupe  Japonais
+Rakuten, leader mondial de l’ e-commerce (Priceminister, Viber, Viki…).
+Aquafadas se positionne comme une société de référence partenaire technologique
+des professionnels de l’édition, de la presse et de la communication en général à
+l’assaut du marché numérique. Elle a développé des partenariats privilégiés avec
+des éditeurs comme Bayard, Lagardère, Mondadori, des agences comme Publicis et
+Havas, des entreprises comme Air France, EDF et Véolia, elle est aussi présente
+l’international avec des partenaires comme Cambridge University, Egmont, Shueisha
+et Hürriyet.
+Découvrez les outils Aquafadas gratuitement sur http://www.aquafadas.com.
+Stage (H/F)   - Développeur Objective C/Cocoa
+Projet:
+Créez un système de mise à jour de Gabarit (Template)
+Intégré(e) au sein de notre équipe de développeurs, vous participerez à la conception d’un
+système de mise à jour du modèle de données d’une application Mac OS X, cette dernière
+permettant de générer des applications mobiles.
+Votre rôle sera divisé en plusieurs parties :
+Compréhension et étude du fonctionnement du logiciel existant,
+Analyse de la meilleure architecture pour stocker et mettre à jour les données,
+Implémentation et enfin,
+Documentation.
+En fonction de l’avancée de ce projet et de votre stage, vous pourrez également participer à
+la  création  d’un  système  d’interaction  entre  notre  serveur  de  génération  d'application
+mobiles (Nightly Build) et le modèle de données de l’application OS X.
+Votre profil :
+De  formation  Bac+3  minimum  en  développement  informatique,  vous  avez  un  très  bon
+niveau  en  programmation  objet.  Vous  possédez  un  goût  prononcé  pour  la  qualité  de
+réalisation.
+La maitrise de l’anglais technique est requise.
+Qualités recherchées:
+Créativité, passion et curiosité
+Autonomie.
+Esprit analytique et rigoureux.
+Bonne connaissance des patrons de conception standard (Design patterns).
+La connaissance l’environnement de développement Xcode est un plus.
+Conditions:
+Stage de 5-6 mois à pourvoir à partir de Janvier 2015.
+Lieu : Montpellier, Quartier du Millénaire.Gratification de stage selon la loi en vigueur.
+
+
+
+
+Vous souhaitez participer à l'aventure d'Aquafadas et concevoir la technologie de demain
+dans le domaine de la lecture de livres, magazines, bandes-dessinées, contenus riches sur
+tablettes ?
+N'hésitez plus, rejoignez nous !
+Envoyez nous votre candidature (CV + LM) à l’adresse suivante : stages@aquafadas.com
+
+
+
+
+

@@ -1,0 +1,38 @@
+﻿STERIA RECRUTE UN/UNE STAGE DÉVELOPPEMENT J2EE/DOTNET EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : UTI/stage/2013-6177605
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : MEUDON/NANTERRE 92366, FR
+Durée du contrat : 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Steria est une SSII de 20000 personnes réparties dans 16 pays. Créé en 1969, Steria est présent en Europe, en
+Inde, en Afrique du Nord et en Asie du Sud-Est. Le Groupe a réalisé un chiffre d'affaires de 1,83 milliards d'euros
+en 2012. Son capital est détenu à hauteur de 20 % par ses collaborateurs.
+Description du poste :
+Le projet TAMARIS met en œuvre pour un grand opérateur énergétique, des technologies innovantes permettant
+un pilotage « au plus juste » des interventions des agents sur le terrain en fonction de leurs compétences, de leurs
+disponibilités, de leur proximité par rapport au lieu d'intervention.
+Descriptif :
+Au sein d'une équipe projet d'environ 15 personnes et sous la responsabilité directe du Chef de Projet vous
+participerez aux différentes phases d'étude et de développement du projet :
+- Conception détaillée des évolutions sur différentes applications du projet
+- Développement de ces évolutions
+- Tests et validation
+- Analyse des besoins exprimés par la MOA,
+- Rédaction de documents fonctionnels et techniques
+Technologies :
+Spring, Hibernate, Agualogic, Flex,Talend,.Net C# avec le Compact Framework 3.5, SPARUS
+La méthodologie du projet allie engagement forfaitaire et flexibilité « Agile ». Les réalisations sur ce projet se
+déroule donc en mode itératif
+Profil recherché :
+Vous êtes rigoureux (se), méthodique, autonome, proactif (ve), curieux (se) et créatif (ve). Vous avez une bonne
+capacité d'analyse et savez être force de proposition.
+Pour postuler : http://steria.contactrh.com/jobs/1536/6177605
+
+
+
+
+

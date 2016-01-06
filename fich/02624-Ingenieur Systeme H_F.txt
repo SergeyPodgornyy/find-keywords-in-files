@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE INGÉNIEUR SYSTÈME H/F EN STAGE 6 MOIS.
+Date : 01/08/2015
+Référence de l’offre : 183481-10402424
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Lyon 69000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Ce stage s'intègre au sein d'une équipe d'une dizaine de personnes ayant en charge l'administration et
+l'évolution d'un parc informatique de recette et d'intégration de plus de 500 serveurs. Ce stage se réalisera en
+collaboration avec notre client, acteur majeur de l'énergie.
+Mission:
+Vous avez en charge de réaliser la recette technique et l'administration du parc actuel soit :
+- Assurer le déploiement des évolutions des plateformes ainsi que l'outillage d'exploitation associé,
+- Automatiser le déploiement et concevoir l'industrialisation de l'activité de recette technique des différents
+outils de production et des systèmes d'exploitation.
+L'équipe aura également une fonction de support aux équipes clientes de son parc.
+Environnement technique :
+Environnement technique riche (Unix, Vmware...) et complexe (IBM PSeries, SAN, NAS, Blade Servers...).
+Outillage  d'exploitation                                                                                            (Ordonnanceur  Control-M,  supervision  Patrol,  sauvegarde  Networker).  Veille
+technologique sur Unix.
+Objectifs pédagogiques :
+- Permettre aux étudiants de comprendre le métier d'un intégrateur système, ses exigences et ses contraintes,
+- Former les étudiants aux différentes architectures et technologies mises en œuvre,
+- Mettre en avant ses capacités de coordination de projet en s'appuyant sur les méthodes acquises durant son
+cursus.
+Profil recherché :
+
+
+
+
+-
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10402424
+
+
+
+
+

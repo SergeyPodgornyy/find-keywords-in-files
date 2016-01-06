@@ -1,0 +1,59 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE STAGE SECLIN - DÉVELOPPEMENT J2EE H/F EN
+STAGE 6 MOIS.
+Date : 01/06/2014
+Référence de l’offre : STMH/SIOP/99553-6147602
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris / Ile de France 59000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement :
+Rejoignez la Direction des Systèmes d'Information de la Banque de Détail en France qui par sa technique
+novatrice maîtrisée, son approche spécifique mais exemplaire, accompagne l'évolution de l'activité du réseau
+d'agences en France.
+Vos missions :
+Vous intégrez une équipe de ce département dans le cadre d'une nouvelle application produisant des restitutions
+pour les clients Corporate.
+A ce titre et en collaboration avec votre maître de stage qui assurera votre formation, vous participez aux
+missions suivantes:
+* Développement en J2EE d'interfaces graphiques pour des utilisateurs internes du groupe  : d'une application de
+gestion bancaire (pour la gestion de demandes clients par exemple)Gestion des retours utilisateurs lors ou après la
+présentation de l'outil
+Profil recherché :
+Votre profil H/F :
+Vous êtes étudiant de niveau Bac +4/5 en École d'Ingénieur, de Commerce ou Université avec une spécialité en
+Informatique / Système d'information.
+Par ailleurs, vous maîtrisez le langage J2EE.
+Les apports du stage :
+Ce stage vous permettra de :
+* Acquérir une expérience dans le développement J2EE dans un environnement technique complexe
+* Découvrir les contraintes de contrôle qualité et du cycle de vie du projet en général
+* Découvrir l'environnement d'un grand groupe bancaire
+Et si c'était vous?
+
+
+
+
+Si votre candidature est sélectionnée, vous serez contacté par la Direction du Recrutement puis rencontrerez un
+opérationnel pour un entretien de motivation.
+Durée du stage : 6 mois
+Stage basé à : SECLIN
+Gratification selon grilles SG.
+Société Générale a reçu le label « Top Employer France 2014 » pour sa politique de Ressources Humaines et sa
+capacité à développer les talents à tous les niveaux de l'organisation
+Pour en savoir plus cliquez ICI
+En 2014, Société Générale fête ses 150 ans, ensemble continuons l'histoire.
+Découvrez l'histoire Société Générale ICI
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6147602
+
+
+
+
+

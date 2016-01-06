@@ -1,0 +1,56 @@
+﻿Technicolor R&D France Snc                                                                                 tél. + 33 (0)2 99 27 30 00
+Proposition de stage de fin
+975 av des Champs Blancs - CS 17616                                                                        fax + 33 (0)2 99 27 30 01
+d’études - Année 2014
+35576 Cesson-Sévigné Cedex - France
+Ref: PSL_SCP_003
+PSL_SCP_003 : Analyse de sécurité d’un service web permettant la protection de contenu vidéo
+puis étude et réalisation d’une application utilisant ce service Web à distance de façon sécurisée.
+Summary of the subject
+The goal of this internship is the security analysis of a service web that allows protecting video
+content,   and the study and implementation of a secure application that remotely accesses this web
+service. The work will be done in the context of the ContentArmor™ project, a video content
+protection solution proposed by Technicolor.
+The internship will be held in Cesson-Sevigné (near Rennes, France) in the « Content Platforms &
+Security / Security & Content Protection » laboratory.
+Sujet détaillé
+Contexte
+Les contenus vidéos qui circulent lors des travaux de postproduction ont une forte valeur et doivent
+absolument  être  protégés.  La  solution  Technicolor  ContentArmor™  fournit  une  solution  de
+protection de contenus. Une application Windows permet de protéger de tels contenus avant que
+ceux-ci ne soient distribués.
+Il existe également une version                                                                            « service web »   de cette solution qui permet à un ou plusieurs
+postes distants d’effectuer les opérations de protection. Il faut alors proposer à l’utilisateur distant
+une interface (application ou page web) pour accéder aux services de protections et s’assurer que cet
+accès au service web ne compromet pas la sécurité du système de protection.
+But
+Le but du stage est l’analyse de sécurité d’un service web permettant la protection de contenu vidéo
+puis étude et la réalisation d’une application utilisant ce service web à distance de façon sécurisée.
+Description des travaux
+Le stagiaire devra effectuer une analyse de sécurité d’une implémentation existante utilisant une
+application ne faisant appel qu’à quelques-unes des fonctionnalités offertes par le service web. Il
+s’agira d’identifier les vulnérabilités potentielles et d’implémenter quelques scénarios d’attaques
+pouvant compromettre la sécurité des données circulant sur le réseau ou mettre en danger le
+serveur hébergeant le service web.
+Au terme de cette analyse, le stagiaire proposera et implémentera des améliorations du service web
+et réalisera une interface cliente (application ou page web) qui permettra de solliciter le service web
+de façon sécurisée, notamment en mode multi clients.
+Mots clés
+Service web, réseaux, sécurité (authentification, autorisation…), interface utilisateur
+Environnement de travail
+Le stagiaire sera intégré au Laboratoire                                                                   « Content Platforms & Security  / Security  & Content
+Protection »  de Technicolor composé de 16 ingénieurs et chercheurs.
+Le stage est basé à Cesson-Sévigné.
+Profil du stagiaire / Compétences requises
+Sécurité réseau
+Service Web (http, REST, JSON).
+Développeur (C#, html, C/C++, javascript/php)
+Environnement Windows (visual studio, IIS)
+Durée et période du stage
+6 mois, début du stage entre février et avril 2014.
+Candidater à stage.rennes@technicolor.com
+
+
+
+
+

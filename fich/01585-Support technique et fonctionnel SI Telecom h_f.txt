@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE SUPPORT TECHNIQUE ET FONCTIONNEL SI TÉLÉCOM H/F EN STAGE
+6 MOIS.
+Date : 10/10/2014
+Référence de l’offre : 175283-7736339
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Le pole domaine Programme conçoit et développe des applications de supervision (alarmes), diagnostic et
+reporting statistiques de réseau . Le stage s'effectuera en plusieurs étapes :
+prise de connaissance des applications,
+Intégration dans l'équipe de support aux clients,
+Traitements des tickets clients et collaborateurs de l'opérateur télécom.
+Ntic :
+Remedy (Trouble Ticket management), MySQl, portail Web, outils spécifiques développés par la TMA et
+l'opérateur Telecom.
+Le stage proposé est une excellente opportunité pour comprendre les multiples aspects des réseaux de
+télécommunications , les outils de gestion de ces réseaux, les méthodes employées pour effectuer le support
+et la recherche de diagnostic, la gestion des tickets incidents.
+Profil recherché :
+De  formation  Bac+4-5  en  informatique                                                                               (Ecole  ingénieurs,  Université)  en  cours  de  validation,  vous
+recherchez un stage d'une durée de 4-6 mois ). Une proposition d'embauche en fin de stage est envisageable,
+sur le site de votre stage, ou, si vous le désirez, dans toute autre région dans laquelle AtoS recrute.
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7736339
+
+
+
+
+

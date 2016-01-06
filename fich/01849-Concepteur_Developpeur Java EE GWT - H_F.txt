@@ -1,0 +1,57 @@
+﻿LEOSPHERE RECRUTE UN/UNE CONCEPTEUR/DÉVELOPPEUR JAVA EE GWT - H/F EN STAGE 6
+MOIS.
+Date : 01/03/2015
+Référence de l’offre : LEO2015DDI01-8037232
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : ORSAY 91400, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+CONTEXTE
+* Entreprise de haute technologie de 130 collaborateurs
+* Marchés émergents : Energie éolienne, qualité de l'air, météorologie, climat, sécurité aéroportuaire
+* Collaboration industrie - recherche publique CEA, CNRS, ONERA, Ecole Polytechnique, NASA
+* Croissance rapide multi-métiers (ingénierie, systèmes optoélectroniques clés en main)
+* Fort déploiement à l'international (85% du CA)
+Description du poste :
+LEOSPHERE recherche un(e) stagiaire Concepteur/Développeur Java EE GWT, dynamique et motivé(e),
+souhaitant découvrir l'environnement d'une PME industrielle innovante.
+Intégré(e) au Département du Développement Industriel, Pôle Développement Logiciel, vous découvrirez la
+refonte de l'interface web à destination de nos clients permettant de visualiser les différentes données de
+mesure atmosphériques et de gestion de comptes.
+Accompagné(e)  par  l'ensemble  de  l'équipe,  vous  participerez  aux  missions  de  développement  des
+technologies JAVA/JEE GWT suivantes :
+- Rédaction de spécifications techniques
+- Développement de nouvelles pages dans l'application
+- Correctif d'anomalies
+- Intégration web HTML5, CSS3, JS
+- Tests unitaires et d'intégration
+Profil recherché :
+De formation Bac+5 Universitaire ou Ingénieur, vous recherchez un stage de fin d'études. Vous souhaitez
+relever de nouveaux challenges dans une entreprise jeune et dynamique.
+Vous avez déjà eu l'opportunité de mettre en pratique vos connaissances en Java EE - GWT et vous disposez
+de bonnes notions en programmation orientée objet.
+CONNAISSANCES ET COMPETENCES RECHERCHEES
+- Environnement technique : JAVA/JEE, GWT, JS, CSS3, HTML5
+- Maîtrise d'une des technologies suivantes fortement appréciée  : framework Spring, SVN Subversion,
+Jenkins, Apache Tomcat, Maven, Sonar.
+- Maitrise du Pack Office
+- Bonnes connaissances de l'Anglais écrit et oral
+QUALITES PERSONNELLES
+* Autonomie dans le travail
+* Initiative et force de proposition
+* Sens du travail en équipe
+* Esprit de synthèse et bonne communication écrite et orale
+
+
+
+
+* Sérieux et rigueur
+Pour postuler : http://leosphere.contactrh.com/jobs/1536/8037232
+
+
+
+
+

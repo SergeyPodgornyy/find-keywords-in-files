@@ -1,0 +1,49 @@
+﻿ATOS RECRUTE UN/UNE SERVEUR DE PRODUCTION DE LOGICIELS (H/F) EN STAGE DE 3 À 6
+MOIS.
+Date : 22/06/2015
+Référence de l’offre : 184034-10060997
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid. Pour plus d'information : www.atos.net
+Description du poste :
+Dans le cadre de votre mission vous prendrez part à l'installation sur une machine virtuelle vierge d'un
+système d'exploitation Linux ainsi qu'un ensemble d'outils dédiés à la production et au contrôle qualité de
+logiciel.
+Comme il est impossible d'arrêter le serveur de production, la mise à niveau sera réalisée en fabriquant une
+nouvelle plateforme identique à la plateforme actuelle.
+Une fois celle-ci réalisée et testée, une migration aura lieu pour transférer les données.
+Profil recherché :
+Bac+2 ou Bac+3, BTS, DUT ou Licence de formation type  « Services informatiques aux organisations
+solutions d'infrastructure, systèmes et réseaux », ou cycle universitaire équivalent.
+Compétences et qualités requises :
+-Connaissances du système Linux et son écosystème
+-Capacité à compiler et à installer des logiciels OpenSource
+-Connaissances des problématiques de production de logiciels (Génie Logiciel)
+-Autonomie et rigueur
+Des compétences dans le domaine de la sécurité seraient un plus.
+Technologies utilisées pendant le stage : Linux, Gestionnaire de source, Gestionnaire de compilation continu,
+Outils de contrôle de qualité du code, Base de données, Gestionnaire de construction, Wiki…
+Un expert technique de Bull sera désigné pour suivre et orienter les choix techniques du projet.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10060997
+
+
+
+
+

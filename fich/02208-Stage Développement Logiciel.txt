@@ -1,0 +1,34 @@
+﻿Annonce diffusée le : 30 Octobre 2014
+Offre de Stage
+Stagiaire Développement Logiciel
+(H/F)
+Bonnemain (35)
+Le  groupe  Delta  Dore                                                                    (800  personnes,   125  M€  de  CA)  conçoit,  fabrique  et
+commercialise  une  offre  complète  de  produits  et  services  en  domotique,  gestion
+technique du bâtiment et maîtrise de l’efficacité énergétique. Vous serez rattaché au
+Responsable Tests.
+MISSIONS
+Intégré au sein du Service Industrialisation, vos missions consisteront, à :
+Réaliser  un  logiciel  de  simulation  et  de  séquencement  sous  l’environnement
+Microsoft Visual Studio, fondé sur un protocole de communication spécifiquement
+conçu pour la mise au point et le test de nos produits,
+Concevoir à partir des besoins des utilisateurs une IHM claire et ergonomique en
+y intégrant toutes les fonctionnalités permettant de communiquer via différents
+médias,
+Mettre en œuvre les technologies .NET, XML, WPF, TCP/IP, UART dans le cadre
+du projet.
+PROFIL
+De formation Bac +3/4 en informatique, vous êtes spécialisé dans le développement de
+logiciels. Votre curiosité, votre autonomie, votre force de proposition et votre sens du
+travail en équipe vous permettront de mener à bien cette mission au sein d’un Groupe en
+pleine croissance (+46% de 2009 à 2012).
+Début : Dès que possible
+Durée : 4 à 6 mois
+CONTACT
+Delta Dore, Service Recrutement, Le Vieux Chêne, 35270 Bonnemain
+apprentis_stagiaires@deltadore.com
+
+
+
+
+

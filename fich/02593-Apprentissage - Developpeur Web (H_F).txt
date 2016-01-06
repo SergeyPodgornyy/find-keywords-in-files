@@ -1,0 +1,39 @@
+﻿IPSOS RECRUTE UN/UNE APPRENTISSAGE - DÉVELOPPEUR WEB (H/F) EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2015
+Référence de l’offre : APP/COR/JJ/2015-10316481
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Apprentissage/Alternance
+Localisation : Paris 75013, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+INSTITUT D'ETUDES ET DE SONDAGES
+Description du poste :
+Le Service des Nouvelles Technologies recrute un développeur Web afin de consolider son équipe du pôle de
+développement d'applications, principalement en PHP / Symfony2.
+Missions
+-Participer au développement de nouvelles applications web
+-Assurer la maintenance corrective et évolutive des applications existantes
+-Assister les Chefs de projet dans l'élaboration des spécifications techniques et fonctionnelles
+-Proposer une veille technologique des nouveaux outils et méthodes
+Profil recherché :
+Profil
+- Formation de niveau BAC+4 dans le domaine de l'informatique
+- Autonome, rigoureux, organisé
+- Esprit d'équipe, bon relationnel
+- Curieux, adaptable
+Compétences
+- Connaissance des méthodes de projets Agile
+- Connaissance des langages PHP, HTML, CSS, Javascript / jQuery, SQL
+- Connaissance des outils de gestion de versions
+- Connaissance des environnements LAMP et de la virtualisation
+- Expérience souhaitable sur le framework PHP Symfony2 ou similaire
+- Expérience sur le développement d'application Mobile serait un plus
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10316481
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿Développer  Web  H/F
+Yolaw
+REFERENCE  :  Développer Web H/F
+POUR  POSTULER  :  offre5473691.1972@yolaw.contactrh.com sous la référence Développer
+Web H/F
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris 75006, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 6.0 à 12.0 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Fondée en 2013 et basée à Paris au sein de l’incubateur Agoranov (spécialisé dans
+l’accompagnement de projets de technologie innovante), legalstart est une startup dont l’ambition
+est de révolutionner l’accès aux services juridiques par les entrepreneurs et les particuliers. Notre
+plateforme propose un service de génération automatique de documents juridiques ainsi qu’un
+service de mise en relation avec des avocats spécialisés. Grâce à la solution legalstart, l’utilisateur a
+accès à un service de qualité, facile d’utilisation et économique.
+DESCRIPTION  DU  POSTE  :
+Nous recherchons un développeur full-stack enthousiasmé à l’idée de participer aux différents
+aspects techniques de la mise en place d’une nouvelle plateforme web.
+Dans un premier temps, les efforts porteront principalement sur l’élaboration d’une app de
+création / rendering d’un formulaire de questions hautement dynamique, avec une forte composante
+front-end.
+Responsabilités :
+- Contribuer à concevoir et implémenter de nouvelles features sur les différents aspects de la
+plateforme
+- Consolider et optimiser les briques existantes
+- Contribuer aux projets open-source sur lesquels nous nous basons
+- Être à l’écoute des feedbacks utilisateurs et améliorer l’UX
+Profil recherché :
+- Etudiant(e) ou diplômé(e) d’école d’ingénieur ou d’informatique
+- Développeur full-stack (ou en passe de l’être)
+- Intéressé(e) par le challenge de concevoir, implémenter et mettre en production de nouvelles
+briques techno dans un cadre agile et itératif
+- Appétance pour les technos pointues
+
+
+
+
+- Bonnes qualités de communication avec un entourage non-technique
+Compétences techniques :
+- Parle couramment le Javascript
+- Bonne connaissance de Python
+- Expérience de développement front-end (expérience avec AngularJS ou autre framework MVC
+appréciée)
+- Connaissances solides en HTML5/CSS
+- Expérience en développement back-end web, préférentiellement Python / Django
+- Connaissance de SQL et des RDBMS (connaissances de bases de données schemaless appréciée)
+- Bases solides Git/Hg et scripting shell
+Stage rémunéré.
+Prime de 1 000 euros en fin de stage en fonction de la performance du stagiaire.
+PROFIL  :
+Profil recherché :
+- Etudiant(e) ou diplômé(e) d’école d’ingénieur ou d’informatique
+- Développeur full-stack (ou en passe de l’être)...
+POUR  POSTULER  :  offre5473691.1972@yolaw.contactrh.com sous la référence Développer
+Web H/F
+
+
+
+
+

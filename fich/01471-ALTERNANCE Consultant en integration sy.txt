@@ -1,0 +1,54 @@
+﻿SGCIO   RECRUTE   UN/UNE   ALTERNANCE   CONSULTANT   EN   INTÉGRATION   SY   EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 01/09/2014
+Référence de l’offre : 513046-7076748
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Ile-de-France 92400, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Saint-Gobain, leader mondial de l'habitat, conçoit, produit et distribue des matériaux de construction en apportant
+des solutions innovantes sur les marchés en croissance des pays émergents, de l'efficacité énergétique et de
+l'environnement. Saint-Gobain est une maison accueillante, sûre et ouverte sur le monde, dans laquelle on entre
+pour un parcours.
+SGCIO regroupe l'ensemble des compétences en Systèmes d'information du Pôle Matériaux Innovants (SAP,
+Exact, e-business, intégration des systèmes décisionnel).
+Basée en France, cette entité multiculturelle apporte son expertise en Systèmes d'information et en Gestion de
+projets avec professionnalisme et dynamisme et emploie des experts IT et métiers ayant le sens du client et du
+résultat.
+Description du poste :
+Au sein de la DSI du pôle Matériaux Innovants, vous rejoignez l'équipe Non SAP composée de 14 membres
+basés en France (5), Inde (7), Etats-Unis (1) et Brésil (1), l'équipe en Inde assurant une couverture 24/7 pour le
+support niveau 1.
+Le contexte est international, 18 pays pour environ 10 000 utilisateurs des applications supportées sur environ
+200 serveurs hébérgés dans des datacenters ou sites industriels.
+Ces applications généralement interfacées avec des ERP (SAP) ou plateformes d'intégration (WebMethods), et
+couvrent des domaines variés et critiques:
+Planification et Suivi de Production
+Logistique client
+Relation Client (CRM)
+Reporting et Business Intelligence
+Vos principales missions seront les suivantes :
+la réalisation d'interfaces,
+la participation à des projets de déploiement
+
+
+
+
+la rédaction des documentations
+le support auprès des utilisateurs clé
+Profil recherché :
+De niveau Bac+2/3, vous êtes passionnés par les réseaux de communication et sécurité des SI.
+Vous maitrisez les systèmes d'exploitation Windows et Unix, les SGBRD (Oracle, SQL, serveur), les langages de
+script (VB, Shell Unix, DOS, Perl, Python) et les notions de réseau (routage, filtrage, pare-feu, wifi, FTP, SFTP,
+SSH).
+Vous faites preuve d'une bonne communication écrite et orale aussi bien en français qu'en anglais. Vous êtes
+reconnu pour votre sens du service et des responsabilités, votre curiosité, votre rigueur et votre esprit d'équipe.
+Pour postuler : http://stgobainglass.contactrh.com/jobs/1536/7076748
+
+
+
+
+

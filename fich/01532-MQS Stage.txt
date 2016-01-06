@@ -1,0 +1,74 @@
+﻿www.mqs-formation.com
+ENTREPRISE : MQS (Management de la Qualité en Santé)
+Adresse :                                                                        Rue   Maryse Bastié bât C - Campus De Ker Lann --
+                                                                                 35170 BRUZ
+Téléphone :                                                                      02 99 05 04 43
+                                                                                 Représentée par :    Christian PHILIPPE
+                                                                                 Maître de stage :      Christian PHILIPPE
+Fonction :                                                                       Directeur Gérant MQS
+Adresse mail :                                                                   cphilippe@mqs-formation.com
+Téléphone :                                                                      02 99 05 04 43
+Le sujet de stage et les activités confiées au stagiaire seront :
+Sujet de stage
+Finaliser le développement du Logiciel CRISTAL'EVAL (logiciel de création de
+référentiels d’évaluations et d’audits)
+Activités
+1-  Diagrammes   UML
+   Analyse et validation des diagrammes UML (diagramme de classe, de
+séquence et de cas d'utilisation) pressentis
+   Choix des différentes interactions nécessaires avec le logiciel, ainsi que
+les différents objets qui allaient être manipulés
+   Analyse et validation de l'organisation architecturale du projet
+pressentie
+   Analyse et validation des 4 couches proposées : la base (BO)
+concernant la création des classes de la base de données ; la
+seconde (DAL) qui contient les opérations utiles nécessitant des accès
+aux données; la troisième (BLL) servant de lien entre la deuxième et la
+quatrième couche, c'est elle qui va appeler les bonnes fonctions de la
+DAL; la dernière l'ihm, la partie graphique du logiciel, qui contiendra  le
+principal du code
+2-  Base de données
+  Analyse et validation de la structure de la base de données locale en
+utilisant l'ORM en mode Code First
+  Création de la base de données en utilisant Entity Framework
+SARL MQS - Rue Maryse Bastié - Bât C - 35170 BRUZ                                Téléphone : 02 99 05 04 43
+cphilippe@mqs-formation.com
+
+
+
+
+www.mqs-formation.com
+3-                                                                                Code et utilisation du logiciel
+  Analyse et validation des menus et ses sous-menus
+  Analyse et validation du formulaire de création de référentiel
+  Analyse et validation des   formulaires de « thématiques »,
+« caractéristiques » et « détails des caractéristiques » évaluées
+  Création d’un bilan général avec export vers Word
+4-                                                                                Exécutable d’installation
+                                                                                   Création d’un exécutable afin d’installer les composants du logiciel et
+                                                                                  de déployer la base de données
+5-                                                                                Pré-remplissage de la treeview
+6-                                                                                Implémenter une opération de modification de référentiels existants.
+7-                                                                                Coder l'opération de réalisation d'évaluation
+8-                                                                                Création de la synthèse de l’évaluation. Celle-ci ne se débloquera qu'après
+avoir complété une évaluation et se contentera   de charger, en synthétisant,
+les informations de chaque thématique d'un référentiel. Au final elle
+présentera   de manière résumée les constats et cotations. Un diagramme de
+type ≪ camembert ≫ est également créée   sur les cotations, l’ensemble
+devra être exportable dans fichier   Excel ou WORD.
+9-                                                                                Mettre en place le style de l'application, c'est-a-dire de coller a une charte
+                                                                                  graphique définie. Ceci avec possibilité   dans ≪ Aide ≫ de switcher de
+thème.
+10- Mettre en place un système de protection par clé d’activation
+Logiciels et outils utilisés
+  Visual Studio Express 2012 : Permet de coder le logiciel, les classes etc...
+  Entity framework : ORM, pour créer le modèle a partir du code.
+  Microsoft SQL Server : pour créer la base de données.
+  HTML help workshop : utilise pour créer le fichier d'aide.
+SARL MQS - Rue Maryse Bastié - Bât C - 35170 BRUZ                                 Téléphone : 02 99 05 04 43
+cphilippe@mqs-formation.com
+
+
+
+
+

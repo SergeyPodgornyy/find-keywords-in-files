@@ -1,0 +1,53 @@
+﻿ATOS RECRUTE UN/UNE STAGE CLOUD / BIG DATA SPATIAL (H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 174952-7767783
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Description du poste :
+Mission :
+L'objectif du stage est d'intégrer nos équipes essentiellement rattachées à notre laboratoire d'innovation afin
+de prendre part à des projets de développement de systèmes logiciels d'analyse de données scientifiques et
+techniques mettant en œuvre des technologies et des concepts innovants :
+· Technologies Big Data : Hadoop, base de données NosQL, …
+· Système de stockage distribué : HDFS, …
+· Cloud : IaaS / PaaS
+· Web Semantic Linked Data :RDF / …
+· Framework Big Data et distribution d'application : AKKA, Spark, Scala, …
+· Machine learning
+· Data visualization : D3.js
+Ces projets s'inscrivent dans les domaines métiers suivants :
+· Spatial : Traitement de données observation de la Terre
+· Spatial et Aéronautique : Traitement de gros volumes de données de type télémétrie de systèmes critiques
+Environnement technologique et fonctionnel :
+Technologies  : RDF, Scala  ; Librairies d'acteurs et de traitement distribué. Bases de données NoSQL,
+AKKA, Spark, Open CV, librairie de traitement d'image, …
+Fonctionnel : Traitement de gros volumes de données métiers et/ou scientifiques, architectures orientées
+service
+Profil recherché :
+De formation Bac+5 en informatique en cours de validation, vous recherchez un stage d'une durée de 5 mois
+minimum à partir de novembre 2014 (dates variables selon l'école), en alternance ou à temps complet. Une
+première connaissance des langages Java, C et OCaml.
+Localisation : Toulouse
+Pour postuler : http://atos.contactrh.com/jobs/1536/7767783
+
+
+
+
+

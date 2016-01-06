@@ -1,0 +1,49 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Développement et
+Ingénierie Logicielle
+   Titre : Conception et développement du portail de la Software Factory Jouve
+   Lieu : Rennes (ou Mayenne)                                                                   Durée : 6   mois
+   Formation : Bac + 5                                                                          Date : A partir de Mars 2015
+   Référence : SBR-1
+   Rémunération : stage indemnisé
+Sujet : Une plateforme de développement logiciel comprend de nombreux outils (gestion des
+sources, gestion des anomalies, intégration continue, qualimétrie, documentation technique,
+documentation fonctionnelle, gestion de projet, etc …). Au fil des années Jouve a construit
+son usine logicielle à partir des meilleurs outils open-source disponibles sur le marché.
+Afin d’améliorer la cohérence entre tous ces outils et d’augmenter l’efficacité des équipes de
+développement, Jouve souhaite disposer d’un portail regroupant l’accès à tous ces outils
+pour chaque projet.
+L’objectif du stage sera de mettre en œuvre une première version de ce portail :
+   Prendre la mesure des différents outils composant l’usine logicielle
+   Participer à la planification de chaque sprint
+   Concevoir l’architecture du portail
+
+
+
+
+   Implémenter les fonctionnalités retenues parmi lesquelles :
+o   Présenter un tableau de bord projet élégant en récupérant des informations
+dans chaque outil
+o   Proposer  la  création  d’un  projet  qui  pilotera  la  création  des  éléments
+nécessaires dans chaque outil
+o   Implémenter un mécanisme de SSO entre le portail et les outils composant
+l’usine logicielle
+Environnement :
+   Php / Symfony 2
+   JavaScript
+   SVN/GIT
+   Windows / Linux
+   Jenkins
+Vous  serez  intégré  à  l’équipe  Expertise
+Logicielle  et  encadré  par  un  Ingénieur
+Logiciel  Sénior.  Le  projet  sera  mené  en
+méthodologie agile Scrum.
+
+
+
+
+

@@ -1,0 +1,53 @@
+﻿Développement  Mobile  et  Web-CiteGreen
+AJstage
+REFERENCE  :  cite green
+POUR  POSTULER  :  http://ajstage.contactrh.com/jobs/1536/4998696
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris 75000, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Février
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Internet)
+FONCTION  :  Systèmes d'informations / télécom (Analyste Programmeur)
+SOCIETE  :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage recherche régulièrement tout type de profil pour le compte de ses entreprises clientes sur
+www.ajstage.com.
+DESCRIPTION  DU  POSTE  :
+ATTENTION AUCUNE CANDIDATURE NE SERA PRISE EN COMPTE EN DEHORS DU
+LIEN SUIVANT
+http://www.ajstage.com/offre/Ingenieur-Etude-et-Developpement-Internet-chez-CiteGreen
+CitéGreen est une nouvelle start-up française créée début 2011, qui met au service du
+développement durable le meilleur des NTIC !
+Elle propose un programme d’incitation aux bonnes actions pour l’environnement et souhaite ré-
+enchanter la problématique environnementale en éliminant tout discours culpabilisant.
+Comment ça marche ?
+CitéGreen récompense les éco-gestes de ses utilisateurs (Recyclage, Transports Doux, Energie)
+avec du pouvoir d’achat sur les produits verts (bio, équitables, locaux, écoconçus).
+Votre mission consistera à accompagner l’équipe fondatrice dans le déploiement du service, et
+particulièrement à développer l’activité R&D aux côtés du directeur technique.
+Pour cela, vous pourrez intervenir sur les missions suivantes :
+- Spécification et développement de nouvelles fonctionnalités sur le portail Web, les APIs et les
+outils d'analyses de la performance
+- Co-management du plan de développement
+- Mise en place d’une infrastructure de tests automatisés
+
+
+
+
+- Intégration de la plateforme avec les différents partenaires de la plateforme
+Les compétences techniques requises sont :
+Maîtrise de la conception et de la programmation orientée objet
+Maîtrise de PHP5/MySQL (la connaissance du framework Yii est fortement appréciée)
+Connaissance du paradigme MVC (Modèle-Vue-Contrôleur)
+Connaissances Ajax/jQuery
+PROFIL  :
+De Bac+4 à Bac +5 dans une filière informatique (écoles d’ingénieurs ou filières universitaires
+spécialisées) vous souhaitez évoluer dans le domaine dynamique des technologies web.
+POUR  POSTULER  :  http://ajstage.contactrh.com/jobs/1536/4998696
+
+
+
+
+

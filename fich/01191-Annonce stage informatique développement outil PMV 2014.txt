@@ -1,0 +1,40 @@
+﻿Stage : Développement d’un outil informatique « PMV                                                                   » H/F
+Ingénieriste  de  l’énergie  et  du  bâtiment,  ALTEREA  accompagne  ses  clients  à  travers  une  démarche
+raisonnée, dans tous leurs projets de réhabilitation, de construction et d’optimisation, en leur garantissant des
+résultats  performants,  durables  et  mesurables.  Afin  de  répondre  au  mieux  aux  attentes  de  ses  clients,
+ALTEREA est répartie en 3 pôles :
+-                                                                                                                     Un pôle Assistance à Maitrise d’Ouvrage / Conseil,
+-                                                                                                                     Un pôle Maîtrise d’Œuvre TCE,
+-                                                                                                                     Un pôle Ingénierie Environnementale.
+Créée  en  2004,  ALTEREA  se  compose  aujourd'hui  d'une  équipe  pluridisciplinaire  d'une  cinquantaine  de
+collaborateurs hautement qualifiés. Dans le cadre de notre développement, nous recherchons un(e) stagiaire
+pour travailler sur un projet de développement d’outil informatique opérationnel « métier ».
+Poste et missions :
+                                                                                                                      L’objectif  du  stage  sera  de  concevoir  et  de  développer  un  outil  informatique   «  Plan  de  Mesure  et
+Vérification » :
+-                                                                                                                     Rédaction d’un PMV automatiquement
+-                                                                                                                     Saisie, analyse et choix des variables périodiques
+-                                                                                                                     Saisie, stockage des facteurs statiques
+-                                                                                                                     Calcul des ajustements (périodiques, statiques)
+-                                                                                                                     Extraction de bilans périodiques
+Le (la) stagiaire devra dans un 1er temps finaliser avec les experts ALTEREA l’analyse fonctionnelle de l’outil
+puis devra définir l’architecture technique (base de données, IHM, logiciel statistiques…) adéquate en fonction
+des besoins identifiés. L’outil s’appuiera sur des logiciels Open Source.
+L’étape suivante sera le développement de l’outil et la phase de recette permettant de livrer au final un outil
+opérationnel.
+Profil :
+De  formation  BAC+3/+5  Informatique  de  gestion,  vous  recherchez  un  stage  centré  sur  un  projet
+responsabilisant vous permettant de monter un projet de A à Z en faisant preuve de rigueur et de volonté de
+satisfaire vos clients internes. Votre compétence technique et votre capacité à travailler à la fois en autonomie
+et en équipe seront des atouts indispensables pour réussir ce challenge.
+Localisation des stages :    Paris (12ème)
+Rémunération :  Indemnité de stage + Tickets Restaurants + remboursement Pass Navigo
+Transmission des candidatures :
+A adresser par email à Cynthia DANIEAU, RRH, sous la référence UR/stg-INF :
+ALTEREA - A l’attention de Cynthia DANIEAU -recrutement@alterea.fr
+Offre de Stage Ingénieur   - ALTEREA                                                                                  20/01/2014
+
+
+
+
+

@@ -1,0 +1,33 @@
+﻿Stage SFR - Site de Rennes
+Libellé du stage : développement d’application Web et
+nouvelles technologies
+Période : 4 à 6 mois à partir de mai 2014
+Profil : Master (1er ou 2ème année) , école d’ingénieur
+(dernière année), spécialisation en Informatique
+-Objet du stage :
+L’objectif est de se doter d’un environnement de développement (Open source),
+pour permettre la réalisation et la gestion d’applications internes (Intranets, sites),
+mais également d’effectuer des prototypes d’applications.
+L’environnement est Open source du type : LAMP, Hudson/Jenkins, Le
+développement d’application WEB   est la priorité. Un environnement pour
+développer des applications mobile devra être détaillé par la suite.
+-Missions principales :
+Définir, documenter et Installer l’environnement de développement dans une cible
+intégration continue et multi développeurs.
+S  ’approprier et enrichir un outils Web interne : analyse de l  ’existant, gestion des
+évolutions.
+Prototypage d’applications mobile (android) : gérer l’interface avec le SI SFR
+Effectuer les études d’opportunité sur environnements connectés : études des SDK
+produits tels que la google chromecast, la BOX SFR etc…
+Le mode de suivi est en Agile.
+-Profil du candidat :
+Expertise et intérêt dans le développement Java et son éco système
+Sensibilité aux process de développement de type intégration continue.
+Autonome, curieux, rigoureux
+Contact SFR : Juan MESA - juan.mesa@sfr.com - 02 23 21 37 11
+Plus d’informations sur groupe.sfr.fr
+
+
+
+
+

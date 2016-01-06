@@ -1,0 +1,47 @@
+﻿Assistant  Arbitrage  statistique
+Amundi
+REFERENCE  :  8371/DBEN/...
+POUR  POSTULER  :  http://ca.contactrh.com/jobs/1536/4508699
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris 15 75015, France
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 15/07/2013
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Analyste Programmeur)
+SOCIETE  :
+Amundi est issue du rapprochement des expertises de gestion d’actifs du Crédit Agricole SA (75%)
+et de la Société Générale (25%), concrétisant ainsi une vision commune de la gestion d’actifs qui
+répond aux nouveaux défis de l’industrie pour servir plus efficacement ses clients.
+Avec près de 750 milliards d’euros sous gestion, ses trois mille collaborateurs, Amundi compte
+parmi les dix premiers acteurs mondiaux de l’Asset Management et dispose de centres de gestion
+couvrant les principales places financières en Europe et dans le monde.
+DESCRIPTION  DU  POSTE  :
+La gestion Performance Absolue consiste à générer de la performance quelque soit la direction des
+marchés. Pour ce faire, le desk arbitrage utilise des stratégies d’arbitrage L/S sur les actions et
+futures.
+Vous nous assisterez dans la recherche de modèles d’arbitrage basés sur des indicateurs de prix des
+actifs (volatilité, corrélation, beta, dispersion…) dont la fréquence des données ira de moyenne
+(journalière) à hautes (Intraday).
+Votre mission consiste à :
+* Modéliser les algorithmes de sélection des actifs à partir d’indicateurs statistiques,
+* Améliorer les outils de simulation des stratégies pour vérifier leur pertinence historique,
+* Implémenter différentes construction de portefeuille dont le but sera de gérer les risques inhérents
+aux modèles d’arbitrage
+PROFIL  :
+Formation : Master I ou II
+Spécialisation : Mathématique / Statistique / Informatique
+
+
+
+
+Langues : Anglais courant
+Qualités recherchées : Connaissance de la finance sera un plus, Anglais courant, Curiosité,
+Autonomie, Rigueur, Organisation
+POUR  POSTULER  :  http://ca.contactrh.com/jobs/1536/4508699
+
+
+
+
+

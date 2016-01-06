@@ -1,0 +1,61 @@
+﻿#Stage
+Refonte d’IHM
+utilisateur et
+administrateur
+Java J2EE
+Service Recherche et Développement
+07/01/2013
+Version 0.1
+NOMOTECH SA
+53 avenue de la Pierre Vallée
+Z.A. de l'Estuaire - 50220 POILLEY (FRANCE)
+
+
+
+
+Offre_de_stage.docx                                                                                                 Java J2EE
+Nous rejoindre
+L’entreprise
+Nomotech est une entreprise spécialisée dans les technologies télécom depuis 2003, c’est également
+l’un des leaders du marché français pour l’équipement en Internet Haut Débit des zones « blanches » et «
+grises ». L’entreprise participe ainsi activement à la résorption de la fracture numérique dans les zones rurales
+et périurbaines.
+Nomotech est également concepteur d’une technologie particulièrement innovante pour la diffusion de
+l’Internet Haut Débit par ondes radio - le WiFiMAX. L’entreprise a par exemple couvert l’intégralité du
+département de la Moselle (57) en infrastructure haut débit de technologie hertzienne; outre l’ingénierie radio,
+la conception des stations d’émission, le déploiement, l’exploitation, la supervision et la maintenance du
+réseau, NOMOTECH prend également en charge la vente des abonnements aux particuliers et entreprises par
+le biais de son activité « FAI » avec la marque OZONE (anciennement West Telecom et Idyle Telecom).
+La mission
+Dans le cadre de l’évolution des services proposés par notre fournisseur d’accès Internet, une refonte
+des interfaces utilisateurs et administrateurs est nécessaires. Ces changements s’inscrivent dans le cadre de la
+mise en place d’une solution d’« Auto Configuration Server » pour les nouvelles Box d’Ozone.
+Voici une présentation succincte de ces IHM :
+-                                                                                                                   IHM cliente pour les nouvelles Box Ozone.
+o   HTML / CSS / PHP
+-                                                                                                                   IHM d’administration du serveur ACS
+o   Java
+-                                                                                                                   IHM pour le service « Support »
+o   Java
+Les deux dernières IHM seront basées sur une application ‘métier’ fonctionnelle.
+Profil
+Vous êtes étudiant(e) Bac+ 4-5 en école d’ingénieur (ou Université) avec spécialisation dans le domaine
+du développement d’IHM.
+Compétences demandées :
+-                                                                                                                   Gestion de projet et conception (Merise, UML, documentation, …)
+-                                                                                                                   Maitrise de Java (IHM web)
+-                                                                                                                   HTML / CSS / PHP
+                                                                                                                    o   Connaissance du framework Zend serait apprécié
+-                                                                                                                   Base de données SQL
+-                                                                                                                   Notion de système Unix et administration
+o   Exemple : Jboss.
+Etant à l’écoute et force de proposition, vous serez  amené à proposer votre expérience dans le
+domaine du Java J2ee ainsi que dans l’élaboration des IHM. Nous attendrons également de vous de la rigueur
+et de l’autonomie pour porter ce projet à terme.
+© NomoTech                                                                                                          2/2                                                               07/01/2013
+Documentation Confidentielle                                                                                                                                                          Version 0.1
+
+
+
+
+

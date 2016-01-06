@@ -1,0 +1,67 @@
+﻿FICHE DE STAGE
+28/10/2013
+Stage 2014-1 :   « Processeur Multi-cœurs »
+Mise en œuvre du processeur Multi-cœurs DSP dans les
+architectures de modulation ou de démodulation numérique
+1 x Stagiaire profil « Traitement numérique du signal »
+La Société :
+TeamCast est une société high-tech créée en juillet  2003 qui propose des services et des
+produits  pour  les  professionnels  du  Broadcast                                                  (Radio  et  Télédiffusion)  pour  assurer  la
+transmission ou la diffusion des programmes (Radio Numérique, Télévision Numérique).
+La société réalise une grande partie de son chiffre d’affaires à l’export et est aujourd’hui un
+des leaders mondiaux dans la fourniture de solutions de modulation pour les marchés de la
+Digital TV. TeamCast se développe également rapidement sur le marché des transmissions
+satellites.
+TeamCast  compte  environ                                                                                                                                                                   50  salariés  et  prévoit  une  croissance  notable  dans  les   3
+prochaines années.
+Le sujet du stage :
+                                                                                                    TeamCast  conçoit des produits de modulation  et de démodulation numérique conforme à
+différents  standards                                                                               (standard  TNT,  satellite                                                              …).  La  plupart  de  ces  produits  mettent  en
+œuvre des FPGA de grande capacité.
+Le  stage  a  pour  but  d’étudier  la  possibilité  de  réaliser  ces  fonctions  de  modulation   /
+Démodulation  sur  la  base  du  processeur  multi-cœurs  DSP  des  sociétés  Kalray  et  Texas,
+programmable en code C et qui dispose d’un réseau de 256 DSP pour l’un et de 8 DSP pour
+le second.
+Le stage inclura :
+¾   Etude de l’architecture des composants multi-cœurs Kalray et Texas,
+¾   Mise en œuvre de la plateforme de développement Kalray,
+¾   Etude des fonctions de traitement du signal critiques et implémentation sur le
+composant Kalray
+¾   Evaluation de l’implémentabilité d’un Modulateur sur la base de code existant
+¾   Evaluation de l’implémentabilité d’un Démodulateur sur la base de code existant.
+Ce stage nécessite de bonnes notions de traitement du signal, un intérêt prononcé pour les
+structures de calcul parallèle et l’implémentation d’algorithme.
+www.teamcast.com
+
+
+
+
+Pourquoi faire un stage chez TeamCast ?
+TeamCast  accentue  son  offensive  internationale  et  prépare  les  produits  et  les
+« hommes  et  femmes »  de  demain.  Nous  vous  proposons  d’être  associé  à  notre
+démarche  technologique  au  sens  d’une  équipe  innovante  et  internationale  de
+diffusion/transmission   numérique   et   de   passer   de   la   théorie   pure   au   mode
+opérationnel au cœur d’une équipe projet.
+Nos valeurs:
+La croissance et la création de valeurs de TeamCast s’expriment par ses hommes,
+ses produits et ses clients. L’innovation et le respect  (clients et individus) sont les
+valeurs essentielles pour assurer une cohésion d’équipe au sens international.
+Conditions : 6 mois au siège de l’entreprise, encadré par un chef de projet.
+Indemnité de stage : 800                                                                       €/mois (brut).
+Localisation : au siège social de TeamCast à Saint-Grégoire, près de Rennes
+Centre Espace Performance - 35 769 Saint-Grégoire
+Contacts :
+Renseignements sur le sujet du stage : Olivier Rousset
+(olivier.rousset@teamcast.com)
+Contact administratif : Véronique Dolo
+(veronique.dolo@teamcast.com)
+Tél : + 33(0) 2 23 25 26 80
+Fax : + 33(0) 2 23 25 26 85
+Pour en savoir plus :
+www.teamcast.com
+www.teamcast.com
+
+
+
+
+

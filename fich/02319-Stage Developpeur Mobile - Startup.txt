@@ -1,0 +1,46 @@
+﻿PARIS  INCUBATEURS  RECRUTE  UN/UNE  STAGE  DÉVELOPPEUR  MOBILE  -  STARTUP  EN
+STAGE 6 MOIS.
+Date : 01/03/2015
+Référence de l’offre : DévMob-8834694
+Domaine d’activité : Etudes - Recherche (Chef de Projet/Ingénierie)
+Type de contrat : Stage
+Localisation : Paris 75006, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Créée en 2013 par Tanguy Morel et Michael Serres, anciens du conseil et de l'électronique, Interactive
+Mobility est née du constat qu'aucune offre digitale de divertissement n'était proposée aux passagers dans une
+grande majorité des moyens de transports. Ce sont pourtant les seuls endroits où l'accès à une connexion
+internet est quasiment inexistant.
+Sa plateforme multi-contenus permet aux acteurs de la mobilité d'offrir une nouvelle expérience digitale à
+leurs clients : diffusion de films, journaux, magazines, jeux, musique, informations touristiques…
+Lauréate de Scientipôle Initiative, soutenue par la BPI, Interactive Mobility équipe plusieurs centaines de
+voitures avec chauffeurs et depuis décembre les avions d'XL Airways.
+Interactive Mobility fait partie de la première promotion du Welcome City Lab, seul incubateur au monde
+dédié à l'innovation dans le tourisme.
+La jeune entreprise innovante est aujourd'hui composée d'une équipe de 8 personnes qui devrait doubler dans
+les 12 prochains mois.
+Description du poste :
+Sous  la  responsabilité  des                                                                                          2  fondateurs  et  du  Responsable  Technique,  vous  serez  en  charge  du
+développement d'un ou plusieurs projets d'application à intégrer dans notre solution. Dans cette optique, vous
+serez amené(e) à :
+* Développer, et faire évoluer certaines applications mobiles en lien avec les souhaits des différents clients.
+(Plateforme vidéo à la demande, kiosque presse digital, carte géoloc, jeux…etc)
+* Travailler en collaboration avec nos partenaires pour l'intégration de certaines technologies et contenus
+(Apple, Samsung, Google, médias, régies publicitaires)
+*  Véritable  project  leader,  votre  rôle  sera  de  mener  à  bien  les  projets  qui  vous  seront  confiés  des
+spécifications techniques à la livraison de la solution.
+Profil recherché :
+Le profil
+* Autodidacte ou de formation en informatique.
+* Références sur projets de développement android et/ou IOS
+* Des connaissances en IOS, Objective C
+Des connaissances en C# / ASP.net seraient un plus
+* Vous êtes prêt(e) à vous impliquer dans les projets, et être force de proposition.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8834694
+
+
+
+
+

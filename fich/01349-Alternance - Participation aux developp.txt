@@ -1,0 +1,61 @@
+﻿SOPRA    RECRUTE    UN/UNE    ALTERNANCE                                                                               -                                                                                                       PARTICIPATION    AUX    DÉVELOPP    EN
+APPRENTISSAGE/ALTERNANCE DE 6 À 12 MOIS.
+Date : 18/04/2014
+Référence de l’offre : STAGE/TELCO/RENN/6233995-6234006
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Rennes 35000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe, accompagne
+ses clients dans la réussite de la transformation de leurs métiers et systèmes d'information. Combinant valeur
+ajoutée et innovation dans les solutions apportées, qualité industrielle et performance des services délivrés, Sopra
+est le partenaire de référence des grandes entreprises et organisations qui recherchent le meilleur usage du
+numérique  pour  assurer  leur  développement  et  leur  compétitivité.  Le  Groupe  compte  plus  de                  16                                                                                                      000
+collaborateurs et a réalisé un chiffre d'affaires 2013 de 1,349 milliard d'euros.
+Sopra est coté sur NYSE Euronext Paris. Pour plus d'informations, retrouvez-nous sur www.sopra.com
+Notre entité Telecom Media, leader sur son marché par son savoir-faire, vous accueille sur l'un de ses quatre sites
+en  France                                                                                                             :  Paris,  Rennes,  Nantes  ou  Orléans.  Nous  accompagnons  nos  clients  dans  l'évolution  et  la
+transformation de leurs Systèmes d'Information, du conseil à la réalisation de projets innovants. Rejoignez nos
+700 collaborateurs et intervenez sur des domaines fonctionnels variés : portails, applications mobiles, CRM,
+chaîne de valeur, BI/Big Data, OSS, Broadcasting, etc.
+Description du poste :
+Le Provisionning est un domaine fonctionnel majeur dans la chaîne du « parcours client » d'un opérateur télécom.
+Ce domaine comprend majoritairement les applications de production des offres des opérateurs telecom mais
+aussi des applications transverses.
+Vous appréhenderez les différentes activités d'un projet dans un contexte international, et serez amené(e) à
+utiliser les méthodologies de développement ainsi que le système qualité Sopra.
+Le projet vise à compléter et étendre les applications transverses par le biais de composants applicatifs « libre
+services ».
+Vous participerez aux différentes phases des évolutions :
+- études et conception
+- développement / réalisation
+- qualification et intégration
+Cette mission vous permettra d'appréhender les techniques d'échanges de données, de gestion de tables et de
+gestion des habilitations.
+Intérêt de la mission
+- renforcer les compétences techniques .Net
+- acquérir une méthodologie projet
+- appréhender les processus de production mis en œuvre sur les projets Sopra
+Environnement technique
+Microsoft .Net 4.0, Silverlight, Webservices, Unix/Linux, Windows 2003 2008, Bases de données Oracle et SQL
+Server
+
+
+
+
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de projets qui assurera
+un suivi détaillé de l'activité dans le cadre des procédures appliquées sur les projets clients.
+Profil recherché :
+En  dernière  année  d'école  d'ingénieurs  ou  de  Master                                                         2  informatique,  vous  avez  des  connaissances  en
+programmation .NET.
+Vous faites preuve d'une curiosité pour un environnement humain interculturel.
+Pour postuler : http://sopra.contactrh.com/jobs/1536/6234006
+
+
+
+
+

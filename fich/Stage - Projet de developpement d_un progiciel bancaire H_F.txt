@@ -1,0 +1,67 @@
+﻿Stage  - Projet de développement d'un progiciel bancaire H/F
+Sopra Group
+REFERENCE  :  STAGE/SOPBANK/TOURS/4584443
+POUR POSTULER  :  offre4598152.1536@sopra-group.contactrh.com sous la référence
+STAGE/SOPBANK/TOURS/4584443
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Tours 37000, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Editeur de logiciels)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Banking Software est un éditeur « leader » spécialisé dans les solutions progicielles à haute
+valeur ajoutée, capable de répondre aux enjeux des banques et des institutions financières. Sopra
+Banking Software propose une offre globale, reconnue par le marché - Sopra Banking Suite -
+réunissant les solutions bancaires de Sopra Group, Callataÿ & Wouters et Delta Informatique. Grâce
+à ses 1 500 experts, Sopra Banking Software sert plus de 500 clients dans 70 pays. La société est
+une filiale de Sopra Group - acteur majeur du conseil, des services technologiques et de l'édition de
+logiciels en Europe - qui compte plus de 15 000 collaborateurs et a réalisé un chiffre d'affaires 2012
+de 1,217 milliard d'euros. Pour plus d'informations, retrouvez-nous sur
+www.soprabanking.com<http://www.soprabanking.com>.
+Sopra Banking Software, filiale de Sopra Group, est aujourd’hui l’un des principaux acteurs
+européens dans l’édition de logiciels bancaires. Sa vocation est d’offrir à l’ensemble des acteurs du
+secteur Banque & Finance des solutions progicielles à haute valeur ajoutée. Sopra Banking
+Software propose une offre très étendue et reconnue, réunissant les solutions issues de Sopra Group,
+Callataÿ & Wouters, Delta Informatique et Tieto Financial Services UK. Avec 1800 experts, Sopra
+Banking Software sert plus de 500 clients dans 70 pays.
+DESCRIPTION DU POSTE  :
+Mission
+Au sein de l'équipe Recherche & Développement (R&D), vous participerez aux projets de
+fabrication autour du progiciel "Amplitude", dans le respect des méthodes et des outils
+d’industrialisation.
+"Amplitude" est un progiciel bancaire intégré, distribué dans 44 pays auprès de plus de 150 clients.
+Vous travaillerez sur la conception, le développement et l’intégration de composants logiciels et
+aborderez la méthodologie de pilotage d’un projet de développement. Compte tenu de notre activité
+à l’international, vous serez amené(e) à travailler sur des projets anglophones.
+Intérêt du stage
+- découvrir un progiciel bancaire intégré couvrant les différents domaines fonctionnels de la banque
+de détail
+- appréhender les outils permettant la gestion multi-lingue et multi-alphabet du progiciel
+
+
+
+
+- être formé(e) aux outils de développement Généro
+- travailler en équipe et en mode projet
+Environnement technologique/fonctionnel
+Linux, Généro, Oracle.
+Vous découvrirez le domaine de l'édition de progiciels bancaires.
+Environnement humain
+Au sein de l’entité progiciel Amplitude, la R&D est adossée aux activités de conseil et de services.
+Elle partage ainsi l’expérience acquise auprès de nos clients de référence. Vous serez intégré(e) à
+l’équipe R&D et serez accompagné(e) par un Chef de Projet.
+PROFIL  :
+En dernière année d'école d'ingénieurs ou en Master 2 informatique, vous avez des notions sur les
+environnements UNIX et en bases de données.
+Vous faites preuve d’un bon relationnel, vous aimez le travail en équipe et êtes rigoureux(se) et
+autonome.
+Une bonne maîtrise de l’anglais serait appréciée.
+POUR POSTULER  :  offre4598152.1536@sopra-group.contactrh.com sous la référence
+STAGE/SOPBANK/TOURS/4584443
+
+
+
+
+

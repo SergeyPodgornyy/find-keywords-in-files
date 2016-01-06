@@ -1,0 +1,51 @@
+﻿ATOS RECRUTE UN/UNE INTÉGRITÉ PHYSIQUE MODULE SÉCURITÉ H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 28/01/2015
+Référence de l’offre : 2014-1519-8714952
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Dans le cadre de l'évolution du produit "Hardware Security Module CRYPT2PAY (HSM)", votre stage
+consistera à renforcer le moteur de surveillance de l'intégrité physique du module de sécurité.
+Vos missions principales seront les suivantes:
+- Analyse de l'existant
+- Rédaction d'une specification de la nouvelle architecture proposée qui servira de plan de projet
+- Réalisation et validation des développements
+- Réalisation d'une recette finale en fin de mission
+Profil recherché :
+Bac + 5, diplôme d'ingénieur en Informatique ou cycle universitaire équivalent.
+Compétences requises
+- Langage C
+- Connaissance des fmailees de Microcontrôleurs intégrés type MICHOCHIP PIC
+- Connaissance du langage machine de ces composants
+- Programmation HDL
+Compétences appréciées
+- Microsoft OFFICE
+- MICROCHIP MPLAB
+- Rigueur
+- Esprit de synthèse
+- Autonomie
+- Esprit d'équipe
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8714952
+
+
+
+
+

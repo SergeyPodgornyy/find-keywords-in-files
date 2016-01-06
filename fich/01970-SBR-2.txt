@@ -1,0 +1,49 @@
+﻿Conseiller, Accompagner, Concevoir,
+Diffuser en ligne.
+Jouve IT Solutions libère vos
+contenus
+Offre de Stage
+Développement et
+Ingénierie Logicielle
+   Titre : Conception et mise en œuvre d’une usine logicielle Drupal 8
+   Lieu :  Mayenne (ou Rennes)                                                                    Durée : 4 à 6   mois
+   Formation : Bac + 4/5                                                                          Date : 2014-2015
+   Référence : SBR-2
+   Rémunération : stage indemnisé
+Sujet :  Jouve  est  expert  dans  le  développement  de  sites  Internet  à  base  de  CMS,  et
+notamment avec Drupal.
+Une plateforme de développement industrialisée autour de Drupal 7 a été mise en œuvre en
+interne pour répondre aux besoins de qualité et d’efficacité des nombreux projets menés à
+bien.  L’arrivée  prochaine  de  Drupal                                                            8  nécessite  une  remise  à  jour  profonde  de  cette
+plateforme  de  développement  en  y  intégrant  toutes  les  nouveautés  de  cette  nouvelle
+mouture  ainsi  que  l’évolution  des  processus  de  développement  internes  à  Jouve  en
+perpétuelle évolution.
+L’objectif du stage sera de mettre en place une plateforme de développement autour de
+Drupal 8 en s’inspirant de l’existant en Drupal 7 :
+
+
+
+
+   Appropriation technique et fonctionnelle de la plateforme existante
+   Participation à la définition technique et fonctionnelle de la nouvelle plateforme
+   Implémentation de cette nouvelle plateforme en méthode agile Scrum
+   Documentation technique
+   Documentation aux utilisateurs
+   Démonstration aux utilisateurs
+Environnement :
+   PHP / Drupal 7 / Drupal 8
+   drush
+   SVN/GIT
+   Windows / Linux
+   Intégration continue Jenkins
+   Techniques de virtualisation
+Vous  serez  intégré  à  l’équipe  Expertise
+Logicielle  et  encadré  par  un  Ingénieur
+Logiciel  Sénior  expert  en  développement
+PHP/Drupal.   Le   projet   sera   mené   en
+méthodologie agile Scrum.
+
+
+
+
+

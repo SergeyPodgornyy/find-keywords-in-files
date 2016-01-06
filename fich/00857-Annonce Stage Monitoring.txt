@@ -1,0 +1,58 @@
+﻿Editeur  de  solutions  dans  le  «cloud»  pour  le  marketing  relationnel  digital,  Digitaleo  permet  aux  entreprises  d’acquérir,  de
+développer  et  de  fidéliser  leur  clientèle  en  temps  réel  par  le  biais  de  différents  canaux  (SMS,  site  mobile,  Qrcode,  email,
+vocal  et  réseaux  sociaux).
+La  raison  d'être  de  la  société  repose  sur  l'évolution  des  canaux  qui  deviennent  tous  numériques.  Le  marketing  direct  et  la
+relation  client  suivent  aussi  la  même  tendance.  Le  temps  réel  devient  indispensable.
+Développement  d'un  outil  de  supervision  de  campagnes  marketing
+(développement  d'une  Single  Page  Application  avec  le  MVC  coté  client)
+­ H/F  ­
+Contexte
+Digitaleo  enrichi  régulièrement  sa  plateforme  de  relation  marketing  de  nouveaux  canaux  digitaux  et  ses  volumes  d'envoi  sont
+de  plus  en  plus  conséquents.
+L'équipe  d'exploitation  de  la  plateforme  a  ainsi  besoin  d'un  outil  permettant  de
+                                                                                                                                                surveiller  de  manière  précise  les  différents  envois  marketing  ;
+                                                                                                                                                analyser  les  logs  des  différentes  applications  afin  de  détecter  d'éventuels  ralentissements  ou  problèmes.
+Parallèlement  à  cela,  nous  souhaitons  tester  le  développement  d'une  application  complète  à  partir  d'un  framework  MVC
+javascript  tel  que  Angular,  Ember  ou  BackBone.  Cet  outil  de  monitoring  servira  de  prototype  pour  migrer  nos  produits  vers
+cette  technologie.
+L'IHM  devra  être  «  Responsive  Design  »  afin  de  suivre  les  envois  sur  tablette  ou  smartphone.
+Missions du / de la stagiaire
+Le  stage  consistera  à:
+   Affiner  les  spécifications  fonctionnelles  en  collaboration  avec  l'équipe  d'exploitation  ;
+                                                                                                                                                Définir  la  structure  logicielle  de  l'application  javascript  en  collaboration  avec  l'équipe  de  développement  ;
+                                                                                                                                                Implémenter  l'IHM  en  se  basant  sur  les  APIs  REST  existantes
+Profil
+Etudiant(e)  préparant  un  diplôme  de  niveau  BAC+4  /  BAC+5,  Ecole  d’ingénieurs  ou  Master  Universitaire.
+Compétences  techniques  attendues:
+   Compétences  suffisantes  en  technologies  WEB  (modèle  MVC,  framework  JS  MVC,  javascript/Jquery,  HTML,  CSS,
+webservices  REST).
+Digitaleo  ­  Campus  de  Ker  Lann  Bâtiment  K3  ­  Rue  Maryse  Bastié  ­  35170  BRUZ
+
+
+
+
+Qualités  professionnelles  attendues:
+   D’une  grande  rigueur,  le/la  candidat(e)  saura  aussi  faire  preuve  d’autonomie  et  d’une  forte  capacité  d’abstraction  et
+de  proposition  ;
+   Le/La  candidat(e)  doit  également  posséder  des  facilités  à  communiquer  et  une  maitrise  de  l'anglais  technique  ;
+   Le/La  candidat(e)  doit  avoir  une  réelle  appétence  pour  l'utilisabilité,  l'ergonomie,  l’expérience  utilisateur  et  le
+webdesign.
+Environnement
+Vous  serez  intégré  au  sein  d'une  équipe  de  4  à  6  développeurs  pratiquant  les  méthodes  agiles  (Scrum,  Kanban,  …)  et
+travaillerez  dans  l'environnement  technique  suivant  :
+                                                                                                                                                                              environnement  de  développement  Netbeans  ;
+                                                                                                                                                                              Javascript  (Jquery,  AngularJS,  …)  ;
+                                                                                                                                                     plateforme  LAMP  ;
+                                                                                                                                                     GIT  ;
+                                                                                                                                                     intégration  continue.
+Vous  avez  envie  d’évoluer  dans  un  environnement  dynamique  où  l’esprit  d’équipe,  la  simplicité  et  la  créativité  portent  les
+projets  d’entreprise.
+Rejoindre  Digitaleo,  c'est  intégrer  une  équipe  à  taille  humaine  où  chaque  salarié  a  compris  son  rôle  et  sa  mission  et  participe
+activement  à  la  construction  du  projet  d'entreprise,  dans  une  ambiance  conviviale  et  studieuse.
+Pour  nous  rejoindre  envoyez­nous  votre  candidature  à  rh@digitaleo.com.
+Digitaleo  ­  Campus  de  Ker  Lann  Bâtiment  K3  ­  Rue  Maryse  Bastié  ­  35170  BRUZ
+
+
+
+
+

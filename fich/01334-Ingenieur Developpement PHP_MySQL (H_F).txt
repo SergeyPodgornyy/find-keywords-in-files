@@ -1,0 +1,85 @@
+﻿CRÉDIT  AGRICOLE  RECRUTE  UN/UNE  INGÉNIEUR  DÉVELOPPEMENT  PHP/MYSQL  (H/F)  EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2014
+Référence de l’offre : 9355FF/EM-6147698
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Kremlin-Bicêtre 94270, FR
+Durée du contrat : 12 mois
+Niveau d’études : None
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Le groupe Crédit Agricole, un leader européen.
+Présent dans tous les métiers de la finance, le Crédit Agricole est N°1 de la banque de proximité en France et se
+place aux premiers rangs de la banque de détail en Europe.
+Son ambition : construire un leader européen, à dimension mondiale, de la banque et de l'assurance, dans le
+respect des principes du Pacte mondial des Nations unies.
+Description du poste :
+SILCA , opérateur mutualisé de production IT du groupe Crédit Agricole S.A. en France et à l'étranger, né en
+2005 du rapprochement des productions informatiques de Crédit Agricole, LCL et CACIB.
+Société en Nom Collectif  , SILCA accompagne le développement de ses clients internes au Groupe Crédit
+Agricole, en constituant un pôle de compétences et de savoirs faires techniques et technologiques.
+SILCA  s'engage  à  leurs  côtés,  en  offrant  des  services  intégrés  et  mutualisés                                  (infogérance  d'application,
+infogérance  de  service,  infogérance  de  plateformes,  services  d'infrastructure,  environnement  de  travail
+utilisateurs, projets et expertises).
+SILCA regroupe 650 collaborateurs répartis sur les sites du Kremlin Bicêtre, de Saint Quentin en Yvelines, de
+Chartres .
+Présentation du service
+Au sein de la Direction Clients, l'équipe Gestion des Changements (GDC) est un acteur majeur des processus
+ITIL.
+Gestion des changements
+- Animation du Comité des changements hebdomadaire (CAB).
+- Présentation des changements majeurs au Comité Stratégique des Changements (CSC).
+- Contrôle des changements applicatifs et techniques majeurs, comprenant l'évaluation des impacts, risques,
+indisponibilités des changements ; Formalisation de ces changements ; Contrôle de la bonne réalisation des
+changements applicatifs, systèmes et réseaux.
+- Alimentation du Référentiel des Changements ; Production du planning prévisionnel.
+Gestion des incidents
+- Animation des points de production quotidiens pour le compte de la Direction Clients.
+- Analyse des incidents sur changements  (bloquants/majeurs) et suivi des plans d'actions d'amélioration des
+changements.
+- Révision de la typologie dans le cadre de récurrence d'incidents courants.
+Certificats
+-  Suivi  des  renouvellements/créations/révocations  des  certificats  SSL,  clés  logiciels  et  dongles,  périmètre
+serveurs.
+
+
+
+
+- Alimentation de l'Echéancier SILCA, niveaux organisationnel et applicatif
+- Alerte sur échéances ; Production d'un état des échéances à 45 jours.
+- Point d'entrée SILCA vis-à-vis des contributeurs internes et d'Autorité de Certification
+Descriptif de vos missions
+Vous interviendrez sur les thèmes Certificats et Référentiels des changements
+Certificats
+- Analyse de l'existant et recensement des besoins d'évolutions
+- Refonte de l'outil actuel (macros Excel) en un développement PHP/MySQL : spécifications, développement,
+documentation
+- Développement de nouvelles fonctionnalités. Exemple : un portail de restitution accessible aux contributeurs,
+aux clients
+Référentiel des changements
+- Recensement des besoins d'évolution sur les outils portant sur le Référentiel des Changements
+- Rédaction des spécifications, développement, documentation
+- Mise en œuvre de ces évolutions (VBA)
+PROFIL :
+Formation : Bac+4 à Bac+ 5
+Spécialisation : MIAGE informatique, Ecole Ingénieur Informatique
+Expériences recherchées : 1ère expérience en développement PHP
+Compétences requises :
+Langages de programmation : PHP, MySQL, VBA (macros Excel)
+Systèmes d'exploitation : Linux, Windows 7 (environnement à définir en début d'alternance)
+Autres outils : outils bureautiques
+Qualités recherchées :
+Goût pour la technique.
+Bonne capacité d'analyse, bonne communication écrite et orale, force de propositions
+Esprit d'équipe, capacité d'adaptation
+Sens du service aux utilisateurs et aux clients
+Rigoureux, dynamique, autonome, ouvert d'esprit
+Profil recherché :
+-
+Pour postuler : http://ca.contactrh.com/jobs/1536/6147698
+
+
+
+
+

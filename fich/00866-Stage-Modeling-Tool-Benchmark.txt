@@ -1,0 +1,49 @@
+﻿Étude d’outils de modélisation UML et de génération de code C++
+1 / 1
+Sujet
+Evaluation de différents outils de modélisation objet et de génération de code C++.
+Description
+Nos systèmes de vissage industriels embarquent une quantité importante de software pour des problématiques de
+pilotage temps réel et de gestion du processus de production (guidage, traçabilité,...).
+Aujourd’hui,  Rational  Rhapsody  nous  permet  de  modéliser,  développer  et  générer  le  code  C++  des  différents
+firmware  embarqués  dans  nos  produits.  Nous  utilisons  particulièrement  la  modélisation  de  comportements  par
+StateChart et le moteur fourni par Rational pour l'exécution de ces StateChart : Framework OXF.
+Mais nous ne sommes pas totalement satisfaits de cette solution et nous cherchons des solutions alternatives.
+Votre mission consistera à rechercher et étudier les différents outils de modélisation et de génération du marché.
+Après un premier tri basé sur un projet de test, vous pourrez évaluer quelques uns de ces outils sur un composant
+réel simple et représentatif de notre utilisation de Rhapsody.
+Les critères de choix se feront notamment sur:
+-                                                                                                                                                                                                                       la migration depuis Rhapsody : iso-fonctionnalité (principalement au niveau StateChart), outils de migration,…
+-                                                                                                                                                                                                                       la convivialité : capacités de l’éditeur, performance de génération, simplicité de basculement modèle <=> code,…
+-                                                                                                                                                                                                                       l’intégration avec les autres outils : gestion de configuration (SVN/Mercurial), intégration continue,…
+Si le temps le permet, vous pourrez également commencer le développement d’un outil de migration automatique en
+l’appliquant sur le composant de travail et un autre plus complexe.
+Environnement
+Contrôleurs de vissages industriels (www.desouttertools.com), OS QNX/Linux, Hardware propriétaire, Framework :
+OXF, Qt
+Compétences requises
+Maitrise de l’UML et de la conception objet
+Langage C/C++
+OS type Unix
+Vous êtes autonome, curieux et créatif et avez de bonnes capacités de synthèse et de présentation.
+Détails pratiques
+Stage de 5/6 mois se déroulant à Nantes au sein du service logiciel de CP Technocenter.
+Rémunération attribuée.
+Contact
+Merci d’envoyer votre CV à
+Laurent Macquet
+Line manager Software
+CP Technocenter
+38 rue Bobby Sands ZAC de la Lorie
+44818 Saint Herblain - France
+Phone dir.: +33 (0)2 40 80 89 94 - Fax: +33 (0)2 40 80 20 24
+E-mail: laurent.macquet@cp.com
+Distribution :
+Stage-Modeling-Tool-Benchmark.docx                                                                                                                                                                                      4 / 12/11/2013 16:08:00                                                                                            SUPPORT(s)-CADRE(s) : GEN-001
+Ce document et les informations qu'il contient, sont la propriété de la société GEORGES RENAULT. Ceux-ci ne doivent en aucun cas être communiqués ou transmis à des tiers sans l'autorisation préalable de la société
+GEORGES RENAULT.
+
+
+
+
+

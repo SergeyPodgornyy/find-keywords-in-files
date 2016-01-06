@@ -1,0 +1,79 @@
+﻿OFFRE DE STAGE 2013 - 2014
+INGENIEURS SECURITE des SI                                                                                     ref : 35CSD-2013-SEC-3
+Intitulé du stage
+Gestion des identités (IAM) & Frameworks de Sécurité
+Contexte du stage
+Au sein d’une équipe Capgemini spécialisée en sécurité des systèmes d’informations, et dans le cadre
+du développement des offres « Architecture de Sécurité » et « Gestion des Identités » portée par
+Capgemini, le stagiaire aura pour mission d’effectuer une étude approfondie des différents systèmes
+de gestion, de fédération des identités et des accès  (SSO, Annuaire, SAML, etc.) et proposer des
+implémentation  différentes  utilisant  des  frameworks  de  sécurité  (Spring  Security,  Apache  Shiro,  ,
+OAUTH, JAAS, ESAPI, etc.).
+Cette étude a pour objectif de définir les différents cas d’usages et l’état de l’art de l’utilisation des
+différents  Système  de  gestion  des  identités.  En  complément  de  quoi,  sera  identifié  un  cadre
+d’utilisation  des  différentes  solutions/Frameworks afin, de  simplifier le choix de la solution  par  les
+Architectes sécurité de Capgemini selon les besoins et les cas d’usage
+Descriptif de la mission
+Au sein d’une équipe Capgemini dédiée aux problématiques de sécurité et constituée, d’architectes,
+de consultants et d’experts spécialisés en sécurité des systèmes d’information et en management de
+risques, le stagiaire aura pour mission l’étude et la contribution à la mise en place de l’offre Gestion
+des identités et des accès.
+Le stagiaire participera à la vie de la communauté « Sécurité » de Capgemini et pourra s’y appuyer
+pour sa montée en compétence et pour mener à bien son stage de fin d’étude.
+Objets du stage et activités attendues :
+Ce stage est constitué des étapes suivantes :
+Etape1 : Etude des systèmes IAM
+1.   Etude des différents styles d’architectures logicielles de type N-Tier : SOA, REST, Mobile, etc.
+2.   Etude des critères et mécanismes de sécurité et leurs implémentations dans les architectures
+logicielles
+3.   Etude des différents systèmes de gestion des identités et des accès : CAS, JOSSO, OpenAM,
+etc.
+4.   Etude des solutions de fédération des identités : SAML, Liberty, WS-Federation, etc.
+Etape2 : Déclinaison des systèmes selon les architectures
+1.   Etude des différentes déclinaisons des systèmes IAM selon les architectures choisies :
+ROA/WOA, SOA, Mobile, etc.
+2.   Identification de Pattern d’architecture de sécurité pour l’IAM
+3.   Etude des solutions techniques existantes dans les frameworks de sécurité
+Etape3 : Réalisation de maquette et de pattern d’intégration
+1.   Intégration et maquettage des différentes solutions IAM en utilisant des frameworks de
+sécurité
+Etape4 : Rapport de stage
+1.   Rédaction du rapport de stage.
+Vous utiliserez l’environnement technologique suivant :
+Sécurité                                                                                                       :   Architecture   Sécurité,   Gestion   d’identités   et   des   accès   (IAM),   SSO,   Annuaire,
+Provisionning, Fédération (SAML).
+Langages : JAVA/J2EE,
+
+
+
+
+Frameworks: Spring Security, Apache Shiro, JAAS, ESAPI
+Compétences acquises à la fin du stage
+1.   Compétences en sécurité des systèmes d’information :
+a.   Bonnes pratiques sécurité
+b.   Architecture Sécurité
+c.   IAM : Gestion des identités et des accès
+2.   Une méthodologie de suivi de projet et la capacité à travailler en équipe
+3.   Une vision des différentes phases d’un projet
+4.   Une mise en œuvre sur le terrain de connaissances techniques
+Vous serez accompagné tout au long de votre stage par un maître de stage (Consultant Sénior) et un
+Manager  qui  vous  guideront  au  sein  de  la  société.  Le  stage  s’achèvera  par  un    transfert  de
+compétences oral et écrit.
+Profils
+De formation Bac+5, école d’ingénieur ou formation universitaire avec une composante Sécurité de
+SI, vous recherchez un stage de fin d'études et vous possédez des bases solides en sécurité des
+systèmes d’informations.
+Vous disposez d’une bonne faculté d’adaptation et possédez un esprit de synthèse développé.
+Esprit d’équipe, rigueur, autonomie, et empathie sont des aptitudes les plus essentielles que nous
+souhaitons retrouver chez nos futurs chefs de projets, architectes ou consultants.
+Lieu du stage
+Rennes
+Indemnités de stage
+1000 euros brut / mois + tickets resto + avantage CE
+Durée du stage
+6 mois.
+
+
+
+
+

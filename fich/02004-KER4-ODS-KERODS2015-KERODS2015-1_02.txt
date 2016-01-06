@@ -1,0 +1,47 @@
+﻿KER4-ODS-KERODS2015-KERODS2015-1.02                                                                        Offre de stage
+03/11/2014                                                                                                 Stage KEREVAL
+  Offre de stage
+KEREVAL, laboratoire de test, spécialisé dans la qualification de composants, solutions et architectures
+logicielles, propose de rejoindre son équipe pour le sujet de stage suivant :
+Intitulé du stage                                                                                          Description
+Développement d’un outil de gestion de tests                                                               Il s’agit de développer une application web permettant
+d’applications mobiles                                                                                     de faciliter et d’industrialiser la planification, l’exécution
+et le reporting des tests fonctionnels d’applications
+mobiles.
+Objectifs                                                                                                  Cet outil devra permettre aux testeurs de travailler en
+                                                                                                           mode collaboratif et de s’interfacer avec les différents
+Objectif 1 : Industrialiser la gestion des tests mobiles                                                   outils que les testeurs utilisent (JIRA, RTK, TestLink,
+                                                                                                           HP QC/ALM, environnements mobiles Android, iOS,
+Objectif 2 : S’interfacer avec les environnements
+WP8…).
+mobiles
+                                                                                                           Ce stage est un projet à part entière : il sera demandé
+Objectif 3 : S’interfacer avec les outils JIRA et RTK
+                                                                                                           au stagiaire de participer aux phases de recueil des
+                                                                                                           besoins, de spécification, de développement et de test
+A qui s’adresse cette offre ?                                                                              de la solution.
+Ingénieur informatique avec des compétences en
+développement (Java).
+Période et durée
+1er semestre 2015, 6 mois.
+Environnement
+Java, Eclipse, JIRA, Android, iOS, WP8…
+Identifiant du stage                                                                                       Apport pour le stagiaire
+Technologies mobiles.
+STAGE-MOB-01-2014                                                                                          Développement d’une application opérationnelle
+innovante.
+Evolution dans une équipe dynamique et soudée.
+Méthode de gestion de projet agile.
+Contact
+SAS KEREVAL
+4 rue Hélène Boucher
+Z.A Bellevue
+35 235 THORIGNE FOUILLARD
+Tél : 02 23 20 36 64
+stage@kereval.com
+4-Confidentiel (personnel)                                                                                 Document validé                                                  Page 3 / 3
+
+
+
+
+

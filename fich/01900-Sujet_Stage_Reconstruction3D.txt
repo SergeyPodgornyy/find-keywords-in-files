@@ -1,0 +1,40 @@
+﻿Sujet de Stage M2/Ingénieur
+Stage suivi par une thèse CIFRE
+TITRE : Reconstruction d’environnement 3D pour la réalité augmentée
+sur dispositifs mobiles
+Contexte : Aujourd’hui, l’interaction sur dispositifs mobiles (smartphone, tablette, lunette RA) rencontre un
+véritable succès, en particulier, avec les approches de réalité augmentée. Ce type d’environnement permet
+d’augmenter  visuellement  une  scène  réelle  avec  des  données  et  contenus  3D.  L’utilisateur  peut  ensuite
+interagir en 3D avec ces environnements mixtes. Cette approche nécessite toutefois un modèle temps réel et
+fidèle de la scène réelle afin de garantir la cohérence des représentations. Le sujet de stage propose d’aborder
+la problématique de reconstruction d’environnements  3D sur des dispositifs mobiles avec des données de
+profondeur.
+Objectif : L’objectif du stage est de proposer une approche de reconstruction 3D de scènes d’intérieur. Le
+travail se focalisera sur l’utilisation d’un capteur de profondeur, par exemple exploitant la lumière structurée,
+dédié aux dispositifs mobiles (type PrimeSense Capri). Il sera couplé à un capteur image pour accéder aux
+données colorimétriques. Il est demandé de segmenter les données de profondeur, détecter et apparier des
+primitives géométriques pour ensuite remonter aux objets texturés constituant la scène. Une fonction de
+calibrage des capteurs et de recalage des données image/profondeur doit être étudiée et développée afin de
+produire un modèle consistant. Ce travail nécessitera l’étude et le développement d’algorithmes optimisés
+ainsi que l’adaptation de librairies (ex. PointCloud) aux dispositifs mobiles.
+Selon les aptitudes du candidat et des résultats obtenus, le stage se poursuivra par une thèse CIFRE.
+Référence:
+S. Izadi, D. Kim, O. Hilliges, D. Molyneaux, R. Newcombe, P. Kohli, J. Shotton, S. Hodges, D. Freeman, A. Davison,
+and A. Fitzgibbon.  2011. KinectFusion: real-time  3D reconstruction and interaction using a moving depth
+camera. In Proceedings of the  24th annual ACM symposium on User interface software and technology
+(UIST'11). ACM, New York, NY, USA, 559-568.
+Prérequis : Bon niveau en C++/Java. Une expérience ou des compétences en traitement d’images, OpenGL
+et Android. Maîtrise de l’anglais appréciée.
+Salaire : 860 euros / mois (plus frais de transport)
+Lieu su stage : LIMSI-CNRS, Orsay
+Le dossier de candidature devra comprendre un CV détaillé, une lettre de motivation et le relevé de notes de la
+dernière année.
+Candidature / information :
+Mehdi Ammi                                                                                                           Michele Gouiffes
+Mail : ammi@limsi.fr                                                                                                 Mail : michele.gouiffes@limsi.fr
+Tel : 01 69 85 81 03                                                                                                 Tel : 01 69 85 81 13
+
+
+
+
+

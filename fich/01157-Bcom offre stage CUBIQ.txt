@@ -1,0 +1,56 @@
+﻿Réf :Bcom/2014-                                                                                        Rennes, le 6 Janvier 2014,
+008
+Objet :                                                                                                Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                       Technologique b<>com dans le domaine Convergence et Ubiquité
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur      3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                            Mise en œuvre d’un réseau programmable et virtualisé
+stage
+Descriptif de la mission :
+Au sein du laboratoire Convergence, Ubiquité et Qualité des réseaux, le/la stagiaire a pour
+mission de mettre en place une maquette de réseau convergent programmable. Il/elle :
+    Participera à la définition et aux choix des composants de réseau programmables à
+mettre en place dans un environnement de laboratoire (« maquette »). En particulier :
+contrôleur SDN OpenFlow, switchs virtuels, points d’accès WiFi ou eNodeB LTE,
+routeurs, serveurs AAA, services de caching. Les solutions open source seront
+privilégiées (ex : OpenDaylight, OpenVswitch, OpenStack, Open Contrail)
+    Intègrera sur la maquette les différents composants logiciels de fonctions réseau
+virtualisées et programmables. Cette intégration se fera par étapes afin d’évaluer la
+complexité de déployer de manière virtualisée des fonctions réseaux sur une
+architecture banalisée x86
+    Contribuera à définir et démontrer un cas pratique de programmation de fonction
+réseau, par exemple déploiement dynamique de nouveaux services et adaptation du
+« plan de forwarding »
+    Participera à des tests de performances.
+Profil recherché :                                                                                     Bac+5 (école d’ingénieur, Master Recherche ou Professionnel), spécialité
+Réseaux et Informatique
+Compétences souhaitées :
+    Architecture et protocoles réseaux: TCP/IP, Ethernet, WiFi, réseaux cellulaires 3G/4G
+    Programmation C/C++
+    OS Linux
+    Expérimentation de protocoles réseaux (tests, monitoring, mesures de performances)
+Une    mise    en    œuvre    de    solutions    SDN/OpenFlow    et/ou    d’environnements    de
+virtualisation/cloud tels que OpenStack serait appréciée.
+Intérêt   pour   le                                                                                    Evolution  des  réseaux  de  télécommunications,  notamment  apport  des
+stagiaire                                                                                              technologies orientées logiciel (SDN, virtualisation)
+Mise   en   œuvre   pratique   et   expérimentation   de   solutions   réseau
+innovantes, intégration de solutions Open Source
+Réelle intégration au sein d’équipes pluridisciplinaires
+Secteur de la recherche et de l’innovation
+Mission à véritable enjeu
+Modalités                                                                                              Durée : 6 mois
+Date de démarrage : à partir de Mars 2014
+Localisation : Rennes
+Date de fin de dépôt des candidatures : 07/02/2014
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                 140106
+
+
+
+
+

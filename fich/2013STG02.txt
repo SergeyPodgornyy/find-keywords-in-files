@@ -1,0 +1,32 @@
+﻿Offre  de  stage
+référence  :  [2013STG02]
+Intitulé
+Amélioration  d’un  ERP
+L’entreprise
+Cartelmatic  est  une  S.A.S  basée  dans  la  Z.I.  sud­est    de  Rennes,  créée  en  1990,  à  l’initiative  de  Monsieur
+Philippe  Le  Berre.  Cartelmatic  est  spécialisée  dans  l’information  libre­service  en  extérieur.  Des  bornes
+permettent  un  accueil  interactif,  24H/24  soit  dans  les  offices  de  tourisme,  soit  dans  les  lieux  publics  grâce  à  un
+mobilier  urbain  spécifique.  L’entreprise  est  ainsi  en  partenariat  avec  les  grands  groupes  de  mobilier  français
+(Girod,  Lacroix)  qui  intègrent  les  solutions  Cartelmatic  dans  leur  mobilier  urbain.
+Description  du  stage
+Vous  devrez  reprendre  le  travail  déjà  accompli  par  un  précédent  stagiaire  de  l’ESIR  dans  le  but  de  fournir  un
+ERP  pour  Cartelmatic.  Cet  ERP  étant  développé  avec  le  framework  CodeIgniter,  vous  devrez  vous  former  à
+celui  ci  et  développer  les  diverses  fonctionnalités  :  gestion  commerciale,  gestion  stock,  gestion  fabrication,
+gestion  parc.
+Compétences
+HTML,  PHP,  CodeIgniter  serait  un  plus.
+Profil  recherché
+Etudiant  ESIR  2  LSI,  autonome,  rigoureux
+Durée
+3 à  4  mois
+Rémunération
+436.05€ net    +  Tickets  restaurants
+Contact
+Contact  :
+Pour  postuler  envoyer  lettre  de  motivation  et  CV  à  cartelmatic@cartelmatic.com  en  renseignant  la  référence  de
+l’offre.
+
+
+
+
+

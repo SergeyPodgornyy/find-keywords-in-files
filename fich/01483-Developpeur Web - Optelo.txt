@@ -1,0 +1,36 @@
+﻿OPTELO RECRUTE UN/UNE DÉVELOPPEUR WEB - OPTELO EN STAGE DE 5 À 6 MOIS.
+Date : 23/07/2014
+Référence de l’offre : Optelo-7023991
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION,  AUCUNE  CANDIDATURE  NE  SERA  PRISE  EN  COMPTE  EN  DEHORS  DU  LIEN:
+http://www.ajstage.com/offre/STAGIAIRE-DEVELOPPEUR-WEB-PHP-CSS-HTML-JAVASCRIPT-chez-Optelo
+Coté sur le marché Alternext, le Groupe Adverline propose plusieurs métiers complémentaires: régie publicitaire
+internet, micro-paiement, édition et hébergement de sites...
+Sa filiale Optelo est l'une des sociétés pionnières du micro-paiement en France et propose des systèmes complets
+de monétisation d'audience à destination des éditeurs internet et des médias.
+Aujourd'hui, la technologie d'Optelo permet d'offrir des paiements de type SMS+, Audiotel, Internet+, MPME et
+carte bancaire.
+Rattaché(e) au service technique, vous interviendrez techniquement sur la plateforme de paiement Optelo.
+Dans un environnement dynamique et ambitieux, vous participerez à l'évolution de la plateforme et à la création
+de nouveaux produits dans le paiement et les telecoms.
+Profil recherché :
+Vous maitrisez parfaitement les langages PHP/HTML/CSS/JS/JQuery
+Vous montrez de l'intérêt pour les problématiques de sécurité liées au domaine du paiement.
+Vous faites preuve de grandes capacités d'adaptation et d'autonomie.
+Vous justifiez d'une formation de 3 à 5 ans dans une école d'informatique, école d'ingénieur.
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/7023991
+
+
+
+
+

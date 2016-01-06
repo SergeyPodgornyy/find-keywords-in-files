@@ -1,0 +1,37 @@
+﻿Stage 2015
+RÉALISATION D'UN SYSTÈME DE GÉNÉRATION
+OTP SECURISE SUR ANDROID
+(REF : OTP-2015)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé, services à la personne…, permettant de créer une véritable interaction entre
+l'usager et son environnement.
+Mission
+L'objectif  du  stage  est  de  participer  à  l'élaboration  d'un  système  de  génération
+d'identifiants   temporaire                                                                   (One-time-password)   destiné   à   l'authentification   de
+personnes permettant l'accès à divers services.
+Le stage s'articulera autour des technologies embarquées dans les produits de TazTag,
+notamment les éléments sécurisés, les capteurs biométriques, le NFC, et le système
+d'exploitation  Android.  Le  stagiaire  devra  réaliser  l'ensemble  des  développements
+nécessaire au projet aussi bien au sein d'un secure element Javacard qu'au niveau
+d'Android. Selon l'avancement du projet, le stagiaire pourra participer au déploiement
+d'un service de démonstration sécurisé à l'aide du générateur réalisé.
+Le stagiaire sera intégré dans l'équipe de recherche et développement de TazTag et
+sera  encadré  par  des  experts  techniques  en  sécurité,  systèmes  embarqués  et  en
+développement sur plateformes Android.
+Profil recherché
+Vous  avez  un  niveau  BAC                                                                   5                                                             :  master  ou  école  d’ingénieurs.  Vous  avez  des
+compétences  en  développement  Android,  en  systèmes  embarqués  et/ou  sécurité.
+Vous êtes passionné(e), autonome et très motivé(e) pour mettre en place une solution
+opérationnelle.
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 5 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, alexis.martin@taztag.com
+
+
+
+
+

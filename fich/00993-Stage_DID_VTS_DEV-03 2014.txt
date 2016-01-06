@@ -1,0 +1,71 @@
+﻿Offre  de  STAGE:  DID_VTS_DEV‐03_2014
+STAGE : DEVELOPPEMENT DE PROTOTYPE
+EN REALITE VIRTUELLE
+H/F ‐ Lieu : Laval ‐ Durée : 4‐6 mois ‐ Stage Rémunéré
+(Stage niveau bac+3/4/5)
+Société  :
+DIDHAPTIC  est  une  jeune  société,  qui  crée  des  plates‐formes  complètes  de  formation  appliquée
+pour  les  métiers  de  la  santé.  Particulièrement  pour  les  métiers  où  la  mise  en  situation  réelle  du
+praticien   en   formation   ou   de   l’étudiant   peut   se   révéler   dangereuse,   trop   onéreuse,   ou
+techniquement  impossible.
+De  taille  humaine,  DIDHAPTIC  fédère  ses  collaborateurs  autour  de  sa  culture  de  proximité  et  de
+son  écoute.
+Contexte  :
+DIDHAPTIC  développe  et  maintient  plusieurs  simulateurs  d’apprentissage  avant‐gardiste  :
+   Un  simulateur  appelé  VirTeaSy  Dental  utilisé  pour  l’apprentissage  des  chirurgiens‐dentistes.
+Avec  la  plate‐forme  de  réalité  virtuelle,  le  praticien  en  formation  retrouve  l’environnement
+d’intervention  de  son  cabinet.  Le  geste,  l’image  et  le  son  l’immergent  dans  l’action  pour
+mieux  maîtriser  la  technicité.
+   Un  simulateur  appelé  AltiPhobe  utilisé  pour  l’apprentissage  de  travaux  en  hauteur  tel  que
+des  opérations  de  maintenance  sur  éolienne,  la  maintenance  d’un  viaduc,  le  nettoyage  de
+vitre  de  building,…
+VirTeaSy  Dental                                                                                                    AltiPhobe
+1
+
+
+
+
+Offre  de  STAGE:  DID_VTS_DEV‐03_2014
+Sujet  de  stage  :
+Dans  un  objectif  de  développement  de  nouveaux  produits  en  réalité  virtuelle,  DIDHAPTIC  possède
+quelques   idées   d’applications   ou   de   projets   liés   à   la   réalité   virtuelle.   DIDHAPTIC,   porté   par
+l’innovation,  désire  étudier  et  développer  de  nouveaux  prototypes  basés  sur  ces  idées.
+Ainsi,   il   sera   demandé   au   stagiaire   de   réaliser   différents   prototypes   d’application   de   réalité
+virtuelle    temps  réel  intégrant  des  dispositifs  sensoriels  et  des  possibilités  de  vision  en  relief  et
+d'immersion  dans  l'image  de  l'utilisateur.
+DIDHAPTIC  recherche  un  stagiaire  motivé,  créatif,  curieux  de  nature  et  ayant  des  connaissances
+dans  la  réalisation  d’application  en  réalité  virtuelle,  afin  de  développer  de  nouveaux  produits
+et/ou  applications.  Le  stagiaire  devra  être  force  de  proposition.
+Au  sein  d’une  petite  équipe  et  sous  la  responsabilité  directe  d’un  ingénieur  expérimenté,  le
+stagiaire  aura  la  charge  des  activités  suivantes  :
+   Proposition  d’idée  de  prototypes.
+   Etude  de  marché,  étude  de  concurrence,  rédaction  de  cahier  des  charges.
+   Développer  un  ou  des  prototypes  conduisant  à  de  potentiels  nouveaux  produits
+   Développer  des  prototypes  pour  démonstration  lors  de  salon.
+   Participation  et  présentation  éventuelle  du  ou  des  prototypes  lors  de  salon  (Ex  :  LAVAL
+Virtual)
+Pour   chaque   réalisation   de   prototypes,   les   missions   confiées   comprennent   un   travail   de
+recherche,  de  modélisation  3D  et  de  développement.
+Bénéfices  pour  le  stagiaire  :
+Au  travers  de  ce  stage,  le  stagiaire  comprendra  les  enjeux  actuels  du  développement  de  produits
+innovants.   Par   ailleurs   il   approfondira   ses   connaissances   avec   des   nouvelles   techniques   et
+méthodologies  qui  lui  procureront  des  compétences  très  recherchées  sur  le  marché  du  travail
+dans  un  contexte  de  technologies  liées  à  la  réalité  virtuelle.
+Connaissances  demandées  :
+C++,  C#
+Technologies  abordées  durant  le  stage  :
+C++,  C#,  Unity  3D,  3DS  Max,  Photoshop,  Visual  Studio
+Comment  postuler  :
+Candidature  sur  contact@didhaptic.com  à  l’attention  de  Mélanie  RAPINE  ‐  Responsable  RH
+Code  stage  :  DID_VTS_DEV‐03_2014
+DIDHAPTIC
+6, Rue  Léonard  de  Vinci
+BP  0119
+53001 LAVAL  cedex
+www.didhaptic.com
+2
+
+
+
+
+

@@ -1,0 +1,36 @@
+﻿ZENIKA RECRUTE UN/UNE DÉVELOPPEUR JAVA H/F EN CDI TEMPS PLEIN.
+Date : 20/10/2014
+Référence de l’offre : Dév Nantes -7769057
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Nantes 44000, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +4
+Années d’expérience : 4-5 ans
+Description de l’entreprise :
+Zenika est un cabinet spécialisé dans l'Architecture Informatique et les Méthodes Agiles. La société compte
+140 collaborateurs et est implantée à Nantes, Rennes, Lyon et Paris avec un Centre de Formation dans
+chaque agence.
+Zenika rentre pour sa première participation, au  7è rang du palmarès Great Place to Work  2014 des
+entreprises de moins de 500 salariés et est une entreprise ouverte à tous les handicaps et signataire de la
+charte de Diversité.
+Acteur majeur et reconnu dans le monde Java, la société propose aujourd'hui une offre globale unique qui lui
+permet  d'accompagner  ses  clients  dans  la  mise  en  place  de  leur  système  d'information  basé  sur  des
+technologies Open-Source.
+Description du poste :
+Intégré à une équipe, vous intervenez sur des projets de développement, dans des environnements nouvelles
+technologies sur des sujets variés et innovants en France ou à l'International (Londres…)
+Idéalement vous maîtrisez une, ou plusieurs, des technologies suivantes : Les différentes briques Spring,
+Hibernate, AngularJS, Elasticsearch, Mobilité, Maven, Jenkins, BIRT, Groovy, REST, MongoDB, Tomcat…
+Comme tout consultant Zenika, vos qualités techniques et humaines pourront pleinement s'exprimer au
+travers d'une triple compétence : Conseil, Réalisation et Formation.
+Profil recherché :
+Vous  lisez  régulièrement  les  meilleurs  blogs  techniques,  vous  contribuez  peut-être  même  à  un  projet
+Open-Source. L'important pour nous est de déceler votre passion, votre envie d'élargir vos compétences, de
+partager votre savoir au sein de Zenika et de la communauté.
+Pour postuler : http://zenika.contactrh.com/jobs/1972/7769057
+
+
+
+
+

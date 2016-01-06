@@ -1,0 +1,36 @@
+﻿Stagiaire Projet CASSP : Outil de
+gestion de plateforme Cloud
+ENTREPRISE
+Néo-Soft est un groupe d’ingénierie informatique spécialisé en                                          3  domaines principaux : R&D,
+Systèmes d’information et l’infrastructure. Créée il y a 8 ans, nous comptons aujourd'hui plus de 600
+collaborateurs au niveau national.
+POSTE
+Entité transverse du groupe Néo-Soft, la Software Factory prend en charge les offres structurées
+(Forfait, Centres de Ressources, Centres de Services, TMA, TRA…) depuis la réponse à l’appel d’offre
+jusqu’à mise en œuvre, et au pilotage opérationnel de la réalisation du projet.
+La SW Factory est aussi garante de l’industrialisation des processus et méthodes, de l’amélioration
+continue des bonnes pratiques de développement sur ses projets.
+Contexte du stage
+Le projet CASSP porté par la SW Factory est basé sur une plateforme Cloud basée sur une
+architecture  Opensource.  Dans  le  cadre  de  la  montée  en  charge  de  cette  plateforme,  nous
+souhaiterions  une  gestion  automatisée  des  machines  virtuelles,  tant  au  niveau  de  leur
+provisionnement qu’au niveau de leur gestion de cycle de vie.
+Objectifs
+Phase 1 : Automatisation et gestion de VM dans un environnement OpenSource (Provisionning).
+Phase 2 : Mise en place de méteo (Monitoring) et Dashboard (reporting) :sur les consommations et
+allocations de VM, stockage, réseau …
+Phase 3 : mise en place de capacity planning, et d’optimisation de capacité CPU, RAM, Stockage.
+Phase 4 : adaptation de cet outil au format mobile.
+Environnement Technique
+Développement / Infrastructure Cloud : OPENSTACK et langages associés Ruby, Python, Java.
+PROFIL
+Ce stage est destiné à un étudiant bac+5 à la  recherche d’un stage de fin d’études à partir de mars
+ou avril 2014 pour une durée de 6 mois.
+Pour postuler, merci d’adresser un CV et une lettre de motivation à :
+stagerennes@neo-soft.fr
+NEO-SOFT, DIFFERENT PARCE QUE VOUS L’ETES.
+
+
+
+
+

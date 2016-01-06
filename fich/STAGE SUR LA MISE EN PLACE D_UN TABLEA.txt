@@ -1,0 +1,60 @@
+﻿STAGE SUR LA MISE EN PLACE D’UN TABLEA
+Société Générale France
+REFERENCE  :  ST/SM/ITEC81048
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4240414
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de Fra 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Dès que possible
+DUREE  :  de 1 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION DU POSTE  :
+Votre environnement :
+Au sein de la Banque de Financement & d'Investissement de la Société Générale, la Direction des
+Systèmes d'Information a en charge le développement et la gestion des systèmes liés aux produits
+de financement et d'investissement sur les financements structurés. Au sein de l'équipe, le domaine
+informatique a en charge le développement des applications liées à la détermination du besoin des
+opérations, comprenant :
+- la gestion des opportunités commerciales
+- la structuration des opérations de financement,
+- le pricing des opérations de financement,
+- la gestion des demandes d'autorisation de crédit,
+- le processus « Know Your Customer » aspects légaux et informations sur le client.
+Ces applications s'adressent à une grande variété d'utilisateurs (Front Office, Middle Office, Back
+office, équipes en charge du suivi des clients et des risques) sur plusieurs places à travers le monde.
+Votre stage :
+A ce jour de nombreux flux fonctionnels existent entre le système de gestion des autorisations de
+crédit et des applications tierces. Ces flux d’une grande complexité fonctionnelle provoquent des
+exceptions inexploitées à ce jour pouvant générer des écarts entre les systèmes. L’objectif du stage
+est de concevoir un tableau de bord fonctionnel permettant d’extraire, normaliser, consolider,
+catégoriser et analyser ces exceptions ce qui permettra de prendre les mesures correctives adéquates
+et maintenir une cohérence globale entre les systèmes. Au cours de ce stage, vous participez aux
+
+
+
+
+missions suivantes :
+- Définir et prototyper une solution technique en lien avec les utilisateurs permettant la récupération
+des données et la mise en œuvre opérationnelle du tableau de bord.
+-Produire tous les documents techniques en anglais permettant la reprise du prototype pour
+industrialisation dans notre centre de développement en Inde.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+4/5 en école d’ingénieur ou université avec une spécialisation
+en informatique.
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4240414
+
+
+
+
+

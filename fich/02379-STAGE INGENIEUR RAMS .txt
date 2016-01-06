@@ -1,0 +1,43 @@
+﻿FAIVELEY TRANSPORT RECRUTE UN/UNE STAGE INGENIEUR RAMS EN STAGE DE  3 À  6
+MOIS.
+Date : 04/03/2015
+Référence de l’offre : STGINGNSF01-9037446
+Domaine d’activité : Production - Maintenance - Qualité - Sécurité - Environnement (Direction Technique)
+Type de contrat : Stage
+Localisation : Neuville-en-Ferrain 59960, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Faiveley Transport est un fournisseur mondial de systèmes intégrés d'équipements ferroviaires à haute valeur
+ajoutée. Avec plus de 5 500 employés dans 24 pays, Faiveley Transport a réalisé un chiffre d'affaires de 982
+millions d'euros au cours de l'exercice 2013/2014. Le Groupe fournit les constructeurs, les opérateurs et les
+organismes de maintenance ferroviaire dans le monde entier avec la gamme de systèmes la plus complète du
+marché : Energy Comfort (climatisation et captage de courant et information passagers), Access Mobility
+(systèmes d'accès passagers et portes palières), Brakes Safety (systèmes de freinage et coupleurs) et Services.
+Description du poste :
+Au sein de la Direction Technique, vous aurez en charge :
+1) La création de la base de données de capitalisation des données REX :
+Trouver une méthodologie permettant d'estimer les différents paramètres de la fiabilité taux de défaillances
+des composants, le taux de répartition des défaillances sur chaque composant, le taux de NFF (Défaillances
+sans cause racine) et la MTBF du système complet à partir des données capitalisées dans la base REX.
+La base de données doit générer l'évolution de la fiabilité (MTBF) par rapport aux temps de fonctionnement
+par projet.
+2) Création de la base fiabilité prévisionnelle :
+Estimer la fiabilité prévisionnelle des composants électriques et électroniques suivant les normes MILHDBK,
+RDF2000…
+Réaliser une étude de fiabilité qualitative sur la carte électronique du système….
+Profil recherché :
+De niveau Bac+4/Bac+5, vous avez une bonne maitrise de la programmation Excel (VB), des connaissances
+en méthodes de la sureté de fonctionnement (notions en statistiques et loi de probabilités), des connaissances
+de base en électronique, électrique et en mécanique. Vous savez faire preuve de rigueur et d'autonomie.
+Vous rendrez compte à l'ingénieur RAMS qui vous guidera dans la réalisation de cette mission et assurera la
+bonne coordination du déroulement du stage au sein de l'entreprise.
+Ce stage sera soumis à une clause de confidentialité.
+Le résultat final de la mission est d'avoir une base de données fiabilité opérationnelle et prévisionnelle.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9037446
+
+
+
+
+

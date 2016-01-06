@@ -1,0 +1,49 @@
+﻿Ingénieur en Nouvelles
+Technologies (h/f)
+DIVISION                                                              RÉFÉRENCE DE L’OFFRE :
+SERVICES                                                              ST-SE-3498
+                                                                      LOCALISATION                                                                             DOMAINE
+CONTEXTE                                                              GÉOGRAPHIQUE                                                                             DU STAGE
+                                                                      Nantes, Brest, Bordeaux, Rennes                                                          Technique
+Au sein de son unité
+dédiée à l’Innovation et aux                                          DATE DE DÉBUT                                                                            DURÉE
+Nouvelles Technologies,
+DU STAGE                                                              DE STAGE
+composée de 650
+consultants, Capgemini                                                A partir de janvier 2015                                                                 6 mois
+fournit à ses principaux
+clients du secteur Public,
+de la Santé, du Social, des
+DESCRIPTION DU STAGE
+Transports et des secteurs
+Privés, des applications                                              Vous êtes intégré(e) dans une équipe projet pour prendre part à une ou plusieurs
+novatrices, axées sur                                                 phases de la construction d’un projet de système d’information utilisant les nouvelles
+l’intégration de systèmes,                                            technologies (Java/J2EE, .net, PHP.).
+l’architecture et les web                                             Vous travaillez notamment sur :
+services.                                                             •  la compréhension des besoins du client et de son environnement technique et
+fonctionnel,
+•  les spécifications détaillées des fonctionnalités,
+•  la conception technique, prototypes,
+•  les développements spécifiques,
+•  l’intégration et la validation.
+LES “PLUS”
+DU STAGE                                                              PROFIL RECHERCHÉ
+                                                                      De formation Bac+5, vous :
+Vous découvrez les                                                    •  avez déjà une connaissance de certains des environnements techniques tels que :
+différentes phases                                                    Java, J2EE, JQuery, PHP, .net, Drupal, REST, JSON, HTML5, IOS, Android,
+d’un projet de Système                                                •  êtes rigoureux(se) et doté(e) d’une bonne capacité d’écoute,
+d’Information et la                                                   •  appréciez le travail en équipe et les challenges,
+méthodologie projet et                                                •  possédez un bon niveau d’anglais.
+montez en compétence sur
+le développement et/ou la
+conception sur des projets                                            POUR POSTULER
+complexes.
+recrutement.ts.fr@capgemini.com
+Stage de pré-embauche
+Capgemini est signataire de la charte de la diversité en entreprise
+Capgemini Technology Services_STAGES 2014-2015 - 119
+
+
+
+
+

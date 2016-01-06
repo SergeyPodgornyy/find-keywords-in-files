@@ -1,0 +1,46 @@
+﻿Flot FPGA - Stage
+REF: FPGA-Q1_2015
+Sujet:  Mise  en  œuvre  et  amélioration  d’outils  de  programmation  FPGA
+embarqué.
+Période: 6 mois à partir de début 2015
+Scaleo chip est une société "fabless" de semi-conducteurs basée à Sophia-Antipolis qui conçoit,
+développe et vend des solutions complètes et à forte qualité ajoutée, associant des systèmes-sur-
+puce  (System-on-Chip-SoC)  et  leur  logiciel  embarqué  pour  l'industrie  de  l'automobile  et  de
+l'électronique.
+L'offre de produits de Scaleo chip inclut des microcontrôleurs automobiles standards destinés aux
+groupes  motopropulseurs,  au  contrôle  de  l’habitacle,  et  aux  secteurs  de  l’information  aux
+conducteurs et de l’info-divertissement. La société tire profit de sa technologie et de son savoir -
+faire en proposant également la fabrication et le développement sur mesure de produits semi-
+conducteurs pour les applications où la qualité est essentielle, tels que les marchés de l'industrie et
+de la défense.
+Résumé du stage:
+Packaging de l’environnement d’un flot de programmation d’un FPGA embarqué dans un SoC :
+a.  Amélioration du flot de Placement & Routage ;
+b.  Portage de l’outil sur plateforme Windows ;
+c.  Mise en place du flot de simulation ;
+d.  Rédaction du User Guide associé.
+Phases de développement du stage :
+Il vous sera demandé d’améliorer un flow de développement d’un module FPGA embarqué en
+suivant les différentes phases du cycle traditionnel de vérification :
+   Etude de faisabilité ;
+   Rédaction de la spécification ;
+   Codage en langage C pour les outils ;
+   Écriture des scénarios de test en RTL;
+   Debug C/RTL et rapport de validation.
+Compétences et expérience souhaitées :
+   Etudiant ingénieur électronique en dernière année d’étude avec un bon niveau d’anglais ;
+   Connaissance des langages C/C++ requise ;
+   Connaissance des langages RTL (Verilog et/ou VHDL) requise ;
+   Connaissance des systèmes embarqués (SoC) et FPGA requise.
+Si vous êtes intéressés, merci d’envoyer votre candidature à : internship.2015@scaleochip.com
+en précisant le mot clé : FPGA-Q1_2015 dans le sujet du message.
+Scaleo chip
+1681, route des Dolines
+Les Taissounières - HB3
+06 560 Valbonne, Sophia Antipolis
+web : http://www.scaleochip.com
+
+
+
+
+

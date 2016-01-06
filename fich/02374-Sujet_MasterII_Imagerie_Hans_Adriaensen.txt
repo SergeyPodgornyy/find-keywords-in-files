@@ -1,0 +1,36 @@
+﻿Master II en Imagerie bio-informatique
+Proposition de stage de recherche 2015-2016
+Organisme d’accueil : INRA Centre Val de Loire
+Nom de l’Unité : Physiologie de la Reproduction et des Comportements (PRC)
+Adresse : UMR PRC - 37380 Nouzilly
+Tél : 02 47 42 73 45
+@mail : hans.adriaensen@tours.inra.fr
+Directeur de l’Unité: Florian GUILLOU
+Responsable du stag: Hans Adriaensen
+Projet  de  recherche  :  Quantification  de  granulomes  tuberculeux  de  poumons  de
+blaireaux sur image IRM.
+Les populations de blaireaux infectées par Mycobacterium bovis, l’agent zoonotique responsable de la
+tuberculose bovine  (TB) peuvent, dans certaines régions, recontaminer les bovins, menaçant alors les
+programmes d’éradication de la TB en élevage. La vaccination est donc envisagée pour contrôler cette
+maladie dans les populations de blaireaux et, indirectement, sa transmission aux bovins.
+Le projet vise à contribuer au développement du vaccin oral contre la tuberculose du blaireau. Un lot a été
+vacciné puis infecté et un autre lot infecté et non-vaccinés a servi de contrôle. Les animaux ont ensuite été
+autopsiés afin de comparer la sévérité des lésions macroscopiques entre groupes vaccinés et contrôles et
+établir la protection apportée par le vaccin oral (en termes de réduction de la sévérité des lésions chez les
+vaccinés).
+La sévérité des lésions tuberculeuses est quantifiée par l’intermédiaire d’un score appliqué a des données
+récoltées de manière standard pour tous les animaux (description des lésions selon leur localisation, leur
+taille, leur dispersion et leur niveau d’agglomération). Les lésions du poumon obtenues dans ce modèle
+expérimental sont typiquement d’un diamètre de  1-2 mm, plus ou moins coalescées et dispersées, et
+présentes de façon homogène à la surface et dans le parenchyme pulmonaire.
+L’Imagerie Résonance Magnétique (IRM) a été utilisé pour obtenir une vision en 3D des 11 poumons de
+blaireaux .Une description fine et précise des lésions permettrait de quantifier de manière plus complète et
+plus objective la dispersion, le tropisme et le volume final des granulomes tuberculeux afin d’estimer plus
+précisément l’efficacité du vaccin à ralentir le développement des lésions. Nous proposons ici un stage de
+6  mois  qui  a  pour  objectif  de  quantifier  des  granulomes  tuberculeux.  Des  outils  de  seuillage  et  de
+segmentation seront ainsi développés et utilisés.
+
+
+
+
+

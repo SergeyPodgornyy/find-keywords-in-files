@@ -1,0 +1,79 @@
+﻿OFFRE DE STAGE EN INFORMATIQUE
+Lieu :
+Dimension Data Luxembourg
+WEST SIDE VILLAGE
+Rue Pafebruch 89D
+L -8308 CAPELLEN
+LUXEMBOURG
+Phone +352 25.48.25 -1
+Point de contact :
+Nom : Bertrand Heckly
+DCS Engineering Manager
+Reference: PS-CC-UC-StagesFY14 (à préciser en entête de vos communications)
+Email: lu.stage@dimensiondata.com
+Stage rémunéré
+Entreprise: Dimension Data -http://www.dimensiondata.com /lu
+Avec plus de 10 000 collaborateurs dans plus de 40 pays, Dimension Data
+(Code LSE : DDT), fournisseur spécialisé de solutions et de services informatiques,
+aide   ses   clients   à   concevoir,   déployer   et   exploiter   leurs   infrastructures
+informatiques.
+Dimension  Data  applique  son  expertise  dans  les  domaines  des  réseaux  IP,  de  la
+téléphonie  et  la  collaboration,  de  la  sécurité,  des  plates-formes  système  et  des
+technologies  dédiées  aux centres de contacts.  Dimension  Data met  également au
+service  de  ses  clients  ses  qualités  uniques  de  conseil,  d'intégration  et  de  gestion
+pour  leur  fournir  des  solutions  complètes  et  personnalisées  allan t  de  l'intégration
+traditionnelle à des offres de service clef en main de multi -sourcing.
+Sujet  : Etendre les fonctionnalités de Communications Unifiées en dehors de
+l’entreprise :  étude  des  technologies  et  produits  adaptés  aux  contraintes  et
+besoins des deux profils d’utilisateurs, employés et externes.
+Les  solutions  d’entreprise  de  Communications  Unifiées  (voix,  vidéo,  messagerie
+instantanée)  sont  aujourd’hui  mâtures  et  de  plus  en  plus  adoptées  dans  les
+environnements  maitrisés  des  entreprises .  En  revanche,  l’élargissement  de  ces
+
+
+
+
+OFFRE DE STAGE EN INFORMATIQUE
+services   en   dehors   de   l’interne   est   encore   balbutiant   et   plusieurs   pistes
+technologiques sont en concurrence .
+Deux  types  d’utilisateurs  de  ces  fonctionnalités  sont  à  prendre  en  considération  :
+les  employés  de  l’entreprise                                                                   (mobilité,  BYOD…)  et  les  utilisateurs  externes  à
+l’entreprise  (clients,  collaborateurs,  fournisseurs…).  Chacun  de  ces  deux  profils  a
+des besoins et des contraintes différentes  : contrôle de l’environnement technique,
+niveau de sécurisation, facilité d’installation et d’utilisation…
+D’un  point  de  vue  technologique,  les  terminaux  peuvent  être  aussi  bien  des
+smartphones,  des  tablettes,  des  PC/MAC ,  voire  dans  un  avenir  proche  n’importe
+quel navigateur Web compatible . Il s’agira donc en plus de la partie infrastructure,
+de  considérer  les  différentes  approches                                                       « client » :  client  lourd,  Apps,  plugin,
+plugin-less (notamment WebRTC)…
+Les  attentes  à  l’issue  du  stage  sont  d’avoir  inventorié  et  classifié  les  différents
+besoins du marché  et cas d’utilisations  en termes de fonctionnalités UC ainsi que
+les  possibilités  et  contraintes  associées  à  chaque  cas .  Il  s’agira  également  de
+réaliser une évaluation technique comparative d’au moins deux solutions majeures
+existantes par la mise en place d’un lab .
+Le stagiaire participera notamment aux points ci-dessous durant son stage :
+●                                                                                                 Approfondissement des concepts et protocoles de Communications Unifiées
+●                                                                                                 Etude des cas d’utilisations et des profils utilisateurs
+○  Utilisateurs « corporate »
+○  Utilisateurs externes
+●                                                                                                 Inventaire des contraintes techniques et fonctionnelles
+○  Nature des terminaux
+○  Infrastructure centrale
+○  Sécurisation
+○  Fonctionnalités …
+●                                                                                                 Prise de contact avec les solutions dominantes du marché (Cisco, Microsoft…)
+●                                                                                                 Implémentation de différentes solutions dans une infrastructure de lab
+●                                                                                                 Comparatif plus/moins entre les solutions
+○  Niveau de maturité
+○  Compatibilités
+○  Fonctionnalités
+○  Evolutions futures …
+●                                                                                                 Rédaction de documentations
+●                                                                                                 Suivi avec le tuteur de stage
+●                                                                                                 Présentation des résultats à l’équipe
+●                                                                                                 Participation aux réunions de travail de l’équipe
+
+
+
+
+

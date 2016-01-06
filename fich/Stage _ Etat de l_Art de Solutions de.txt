@@ -1,0 +1,39 @@
+﻿Stage  / Etat de l’Art de Solutions de
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10226519 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899799
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 02/01/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 4 à 6 mois.
+Au sein de Cassidian CyberSecurity, vous intégrerez le département Cyber Défense, en charge de la
+veille technologique et de l'évaluation de produits pour toutes les solutions couvrant le besoin de
+détection d'événements sécurité, l'analyse et le suivi.
+Dans ce contexte, l'objectif du stage est d'étudier et définir l'état de l'art de solutions de détections
+d'intrusion de type IDS, IPS/IPDS, qui sont représentatives sur le marché.
+Une évaluation fonctionnelle de 2 ou 3 solutions choisies sera réalisée sur la plateforme de test
+R&D dédiée.
+Cette offre de stage est à pourvoir à compter du 2 janvier 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Identifier les chemins d'intégration et les efforts requis au regard des solutions existantes
+déployées sur la plateforme,
+- Etablir un état de l'art, une présentation des résultats de tests et la documentation.
+PROFIL  :
+Bac+5 systèmes, réseaux et la sécurité ainsi que sur Linux / Windows.
+Travaille en équipe et excellentes qualités relationnelles.
+Anglais:intermédiaire.
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4899799
+
+
+
+
+

@@ -1,0 +1,135 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom  de  l’entreprise :  MITSUBISHI  ELECTRIC  R&D                                       Adresse : 1 allée de Beaulieu - CS 10806
+CENTRE EUROPE                                                                            Ville : RENNES cedex 7
+Domaine d’activité : Centre de Recherche                                                 N° téléphone : 02 23 45 58 58
+Représentant de l’entreprise : Mme BRANCHEREAU                                           N° fax : 02 23 45 58 59
+Sa qualité : Responsable Ressources Humaines                                             Site Web : www.fr.mitsubishielectric-rce.eu
+N° de Siret : 40 27 26 467 000 36                                                        Courriel : m.branchereau@fr.merce.mee.com
+N° NAF : 7112B                                                                           Signataire de la convention : Mr MARTI, Directeur
+Statut Juridique : SARL
+Effectif de l’établissement : 40
+Nom de l’encadrant de stage : Mr MANGIN                                                  Chargé du suivi administratif : Mme BRANCHEREAU
+Sa qualité : Ingénieur de recherche                                                      Sa qualité : Responsable des Ressources Humaines
+Service : Systems Networks and Services                                                  N° téléphone : 02 23 45 58 08
+N° téléphone : 02 23 45 58 33                                                            Email : m.branchereau@fr.merce.mee.com
+Email : c.mangin@fr.merce.mee.com                                                        Fax : 02 23 45 58 59
+Fax : 02 23 45 58 59
+Nom du service dans lequel le stage sera effectué : Systems Networks and Services
+Lieu du stage (s’il est différent de l’adresse de l’entreprise):
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                              13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                           8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                  13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                       du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                          du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                          du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                     du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                       du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                   du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+UNIVERSITE DE RENNES 1                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+□ Spécialité   CCI                                                                                                        du 14 avril 2014 à fin août 2014
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                                          2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                                          16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                                         16 septembre au 27 septembre 2013
+                                                                                                                          4 novembre 2013 au 10 janvier 2014
+                                                                                                                          17 février 2014 au 11 avril 2014
+                                                                                                                          19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+ Spécialité ST                                                                                                           entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                                        entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé : Etude de fonctions réseau Ethernet automobile
+Dans le cadre de ses activités de recherche, Mitsubishi Electric R&D Centre Europe  (MERCE) travaille sur les
+modifications à apporter au protocole Ethernet pour son application au domaine des réseaux de contrôle embarqués
+automobiles.
+Jusqu’à récemment, les réseaux de contrôle embarqués automobiles reposaient exclusivement sur des protocoles
+dédiés tels que CAN (Controller Area Network) et FlexRay.
+Avec le développement de fonctions de contrôle des véhicules et d’assistance à la conduite  (Advance Driver
+Assistance System) de plus en plus perfectionnées, les calculateurs embarqués se sont multipliés et leur complexité a
+augmenté, entraînant un accroissement des volumes de données échangés sur le réseau de contrôle du véhicule. Cette
+évolution fait apparaître le besoin de nouvelles architectures de réseau et de protocoles adaptés.
+Le protocole Ethernet apparaît de plus en plus comme la solution permettant la convergence de ces nouvelles
+applications sur un réseau unique et les adaptations requises pour l’adaptation d’Ethernet aux fortes contraintes temps
+réel et de sûreté de fonctionnement des réseaux automobiles embarqués sont en cours de standardisation à l’IEEE
+(IEEE 802.1 Time Sensitive Networking, TSN).
+L’objet du stage est d’étudier un sous-ensemble de ces adaptations d’Ethernet, et en particulier des mécanismes de
+multiplexage et de mise en forme des flux de données issues de différents types de capteurs et actuateurs, et de
+démontrer leur efficacité et leur robustesse par rapport aux contraintes du réseau de contrôle automobile : débit,
+latence, synchronisation, perte de paquets.
+A titre d’exemple,  ces mécanismes devront assurer la co-existence entre flux de données natifs Ethernet (vidéo généré
+par des caméras de recul par ex.) et flux de données « classiques » de type CAN encapsulés et transportés sur Ethernet.
+Leur faisabilité sera évaluée par une implémentation sur une plateforme micro-contrôleur.
+Type  et  configuration  du  matériel  sur  lequel  le  stagiaire  travaillera                                            (matériels,  technologies,
+méthodes, langages…) : Compétences requises
+   Intérêt pour l’application de protocoles réseau à des environnements fortement contraints ;
+   Intérêt pour la programmation embarquée, bas niveau (micro-contrôleur) ;
+   Autonomie;
+   Lecture et écriture de l’anglais technique ;
+   Maîtrise du langage C, Linux.
+UNIVERSITE DE RENNES 1                                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Sujet proposé détaillé :
+   Revue des protocoles CAN et Ethernet TSN ;
+   Etude de l’encapsulation de CAN sur Ethernet ;
+   Etude d’une fonction de mise en forme de trafic CAN sur Ethernet correspondant aux contraintes du réseau de
+contrôle du véhicule ;
+   Mise en œuvre des mécanismes étudiés sur une plateforme micro-contrôleur ;
+   Rapport et présentation du travail.
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : 1.645 Euros bruts                                                                   Nom de l’Etudiant :
+Modalités de versement : par virement bancaire                                                                    Diplôme :
+Avantages en nature à préciser : Tickets restaurant
+Temps horaire hebdomadaire : 35 heures
+Date limite de réponse à cette proposition : mi-février 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui
+Contacts (renseignements et candidature) :
+    David MENTRÉ (d.mentre@fr.merce.mee.com)
+    Magali BRANCHEREAU (m.branchereau@fr.merce.mee.com)
+Pour candidater, merci d’adresser CV et lettre de motivation par email à ces deux contacts.
+UNIVERSITE DE RENNES 1                                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

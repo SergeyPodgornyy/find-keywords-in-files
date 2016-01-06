@@ -1,0 +1,40 @@
+﻿Stage  -  Adaptation  et Industrialisation
+d ’un  tableau  de  bord  projet interactif sur TV  (H/F) RENNES
+Un  tableau  de  bord  interactif  regroupant  des  indicateurs  sur  la  qualité  du  code,  la  disponibilité  des
+plateformes, l’avancée de l’équipe, la visibilité, les infos utiles… est en place sur un projet agile au sein de
+l’agence. Affiché sur une TV, il permet de partager les informations entre l’ensemble des acteurs et participe
+au Management Visuel.
+Intégré  dans  cette  équipe,  il  vous  faudra  adapter  et  améliorer  ce  tableau  de  bord  pour  l’utiliser  très
+facilement sur n’importe quel projet en prenant en compte les besoins de tous.
+Une  fois  ce  tableau  de  bord  rendu  « générique »,  il  sera  nécessaire  de  l’adapter  afin  d’afficher  les
+informations de plusieurs projets en même temps.
+DESCRIPTIF
+Le stage se déroulera en plusieurs étapes :
+-Dresser un état de l’art des fonctionnalités déjà existantes et celles demandées par les différents acteurs
+-Réalisation d’un démonstrateur avec le tableau de bord existant avec commande à distance
+-Conception, design et choix de l’architecture technique et réseau
+-Adaptation pour le rendre générique à n’importe quel projet
+-Industrialisation du tableau de bord pour mise en place simple et rapid
+-Adaptation pour rendre le « tableau de bord interactif » multi-projet
+-Publier le « tableau de bord interactif » sous licence open source
+TECHNOLOGIES MISES EN ŒUVRE
+Node.js, JavaScript, CSS3, WebSocket, open source
+PROFIL
+Formation Ecole d’Ingénieurs ou Master 2 en informatique.
+Nous recherchons un stagiaire à l’aise dans le domaine des technologies Web en particulier JavaScript.
+Curieux, autonome, force de proposition, vous évoluerez au sein de l’équipe projet.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en fonction des
+exigences de votre école.
+Si vous souhaitez répondre à cette offre, merci d’adresser votre candidature à : drh-ouest@sii.fr
+Suivez-nous sur Facebook, Twitter, LinkedIn, Viadéo
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees" pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                                    1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite         Usage interne
+préalable de SII.                                                                                                        SII
+
+
+
+
+

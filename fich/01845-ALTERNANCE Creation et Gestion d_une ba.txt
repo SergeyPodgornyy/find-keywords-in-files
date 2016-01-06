@@ -1,0 +1,46 @@
+﻿SAINT GOBAIN GLASS FRANCE RECRUTE UN/UNE ALTERNANCE CRÉATION ET GESTION
+D'UNE BA EN APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 514895-7987189
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Apprentissage/Alternance
+Localisation : Ile-de-France 92400, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Véritable tête de pont technologique du Groupe Saint-Gobain, le Pôle Matériaux Innovants s'appuie sur un
+puissant levier de croissance : l'innovation.
+Saint-Gobain Glass, leader mondial des verres à couches et premier verrier européen, est spécialiste de la
+fabrication du verre plat, du dépôt de couches par magnétron et du verre feuilleté.
+Il regroupe toutes les unités de fabrication de l'activité Vitrage pour : les verres plats, à couches, teintés,
+feuilletés, argentés et imprimés. Ces vitrages performants allient efficacité énergétique, confort et respect de
+l'environnement.
+Description du poste :
+Entité du Vitrage, Saint-Gobain Glass Exprover a pour mission de représenter et vendre la gamme des
+produits SGG et GS dans tous les pays dans lesquels ces entités n'ont pas d'usine et en dehors de leurs
+territoires animés. Les « territoires » Exprover couvrent différents pays sur les 5 continents.
+Au sein des équipes commerciales et marketing, vous serez en charge des missions suivantes:
+Création et optimisation d'une base de donnée Access consolidant toutes les ventes du périmêtre Exprover.
+Mise en place de reporting commercial accessible depuis Access et Excel.
+Cette base de donnée gère des caractéristiques techniques de produits, des informations clients, un planning
+de visites, le suivi des audits, la réalisation des questionnaires d'audit, la génération des rapports d'audit,
+l'impression des certificats, la génération de toutes les requêtes pour tableaux de bord sous Excel.
+A partir de cette base Access existante sur un poste en local, vous aurez pour mission de :
+concevoir une architecture multi utilisateurs nomades avec mise à jour bidirectionnelles des données entre un
+serveur et les utilisateurs.
+Créer les tables, formulaires, requêtes et états.
+Migrer de l'ancienne base vers la nouvelle et améliorer sa fonctionnalité.
+Assurer le suivi, la mise en service et le bon focntionnement de l'outil.
+Poste basé à La Défense (92).
+Profil recherché :
+Etudiant informatique et SI de niveau bac +3/4, vous maitrisez Access et Excel et êtes passionné par les SI et
+le développement d'outils informatiques.
+Vous êtes reconnu pour votre rigueur, votre autonomie et vos capacités relationnelles.
+La maitrise de l'anglais est souhaitée.
+Pour postuler : http://stgobainglass.contactrh.com/jobs/1536/7987189
+
+
+
+
+

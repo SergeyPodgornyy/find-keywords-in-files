@@ -1,0 +1,36 @@
+﻿EUROVIA RECRUTE UN/UNE CONCEPTEUR/DÉVELOPPEUR INFORMATIQUE EN STAGE DE 4 À 5
+MOIS.
+Date : 06/08/2014
+Référence de l’offre : Stage2014Preven-7150869
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Rueil Malmaison 92565, FR
+Durée du contrat : De 4 à 5 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+EUROVIA, filiale du Groupe VINCI, est un des leaders mondiaux des travaux liés à la route, au rail et aux
+aménagements urbains, et également un acteur majeur du recyclage et de la production industrielle de matériaux
+en Europe.
+Description du poste :
+Au sein de la Direction Prévention, rattaché(e) au Directeur, vous aurez pour mission de développer un outil
+informatique pour faire coïncider les informations relatives aux indicateurs sécurité provenant d'Eurovia, ainsi
+que celles provenant des 60 agences de travail temporaire avec lesquelles nous travaillons.
+Pour ce faire, vous serez amené(e) à :
+- Mettre en place un outil commun à Eurovia et aux 60 agences de travail temporaire, afin de produire des
+statistiques mensuelles ;
+- Développer cet outil qui nous permettra d'agréger et consolider l'ensemble des données, les analyser et générer
+des tableaux de synthèse par enseigne ou par groupe d'entreprises de travail temporaire.
+Profil recherché :
+Etudiant(e) en BTS/DUT ou Licence, spécialisé en Informatique / Statistiques, vous êtes intéressé(e) par une
+mission de conception et développement d'un outil informatique dans le but de participer au bon suivi des
+indicateurs sécurité d'un groupe leader dans les travaux publics.
+Afin de mener à bien cette mission, vous mettez en œuvre vos connaissances en informatique sur Excel/Access et
+maîtrisez les macros.
+Stage basé à Rueil-Malmaison (92) à pourvoir dès que possible pour une durée de 4 mois.
+Pour postuler : http://vinci.contactrh.com/jobs/1536/7150869
+
+
+
+
+

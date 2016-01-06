@@ -1,0 +1,41 @@
+﻿Stage  - Etude  et évaluation  des  générateurs  d ’application
+«  Full Stack  »  (H/F) RENNES
+L’objectif du stage est de mener à bien une étude théorique et pratique des « scaffolding
+tools », des générateurs d’application. Le « scaffolding » (Génération de sources plus ou
+moins prêtes à l’emploi dans l’objectif d’accélérer certaines tâches de développement
+répétitives)  des  rubyistes  permet,  au  prix  de  l’exécution  de  quelques  lignes  de
+commandes, de disposer d’une application web opérationnelle, autorisant la manipulation
+élémentaire des données de leur modèle au travers d’écrans de saisie et de listes - Ce
+squelette d’application pourra être repris par les développeurs pour implémenter le code
+métier.
+DESCRIPTIF
+Le stage se déroulera en plusieurs étapes :
+   Dresser un état de l’art neutre des principales solutions du marché afin d’identifier les
+candidats à une étude et une expérimentation approfondie.
+   Développement d’une application Proof of Concept (PoC) autour de cas d'utilisation
+sélectionnés.
+   Benchmark des différentes solutions implémentées.
+TECHNOLOGIES MISES EN ŒURE
+Scaffolding, Yeoman, Java, JHipster, AppFuse, Play !, SpringRoo, PHP,
+Phreese, Groovy, Griffon, Stamplay
+PROFIL
+Formation Ecole d’Ingénieurs ou Master 2 en informatique.
+Nous recherchons un stagiaire avec une bonne capacité d'analyse technique dans le
+domaine des technologies Web. Curieux, autonome, force de proposition et passionné,
+vous évoluerez dans un contexte très technique.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en
+fonction des exigences de votre école.
+Si vous souhaitez répondre à cette offre, merci d’adresser votre candidature à  : drh-
+ouest@sii.fr
+Suivez-nous sur Facebook, Twitter, LinkedIn, Viadéo
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees" pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                              1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite   Usage interne
+préalable de SII.                                                                                                  SII
+
+
+
+
+

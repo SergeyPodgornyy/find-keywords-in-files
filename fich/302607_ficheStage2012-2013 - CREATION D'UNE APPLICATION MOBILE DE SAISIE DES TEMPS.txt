@@ -1,0 +1,97 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 2339 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : HARDIS Groupe                                                                  Adresse : 3 rue G. Marconi
+Domaine d’activité : Services Informatiques                                                          Ville :44800 Saint Herblain
+Représentant de l’entreprise : Hadrien Boyé                                                          N° téléphone :02 51 70 82 12
+Sa qualité : Chef de Projet E-Solutions                                                              N° fax :
+N° de Siret :                                                                                        Site Web : http://www.hardis.fr
+N° NAF :                                                                                             Courriel : hadrien.boye@hardis.fr
+Statut Juridique :                                                                                   Signataire de la convention : Hadrien Boyé
+Effectif de l’établissement : 650 Personnes
+Nom de l’encadrant de stage : Hadrien Boyé                                                           Chargé du suivi administratif : Zein Srour
+Sa qualité : Chef de Projet E-Solutions                                                              Sa qualité : Directeur Agence Ouest
+Service : Pôle E-Solutions                                                                           N° téléphone : 02 51 70 82 12
+N° téléphone : 02 51 70 82 14                                                                        Email : zein.srour@hardis.fr
+Email : hadrien.boye@hardis.fr                                                                       Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : PÖLE E-Solutions
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI
+SUJET DU STAGE :
+Titre du stage proposé : CREATION D'UNE APPLICATION MOBILE DE SAISIE DES TEMPS
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Technologies  mises  en  œuvre  :  Développement  mobile  (Apache  Cordova  ;  Android  ;  …)  Web
+services REST ; Design Patterns
+Sujet proposé détaillé :
+UNIVERSITE DE RENNES 1                                                                               TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                             www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+L’agence ouest du groupe HARDIS (650 personnes) est spécialisée dans le conseil, l'expertise et la
+mise  en  œuvre  de  projets  de  développement  logiciels,  sur  la  base  des  technologies  WEB  et
+Décisionnel.
+Sujet du Stage
+Vous  aurez  pour  mission  de  développer  une  application  mobile  permettant  aux  collaborateurs
+d’effectuer la saisie des temps passés sur les différents projets de l’agence. Cette application sera
+interfacée avec notre système de gestion d’affaires, permettant de suivre l’avancement des projets et
+leur facturation.
+Vous interviendrez sur l’ensemble du cycle projet sous la responsabilité d’un chef de projet de
+l’agence. Vous serez assisté d’un architecte applicatif pour l’évaluation de composants « open source
+» et la validation des choix d’architecture. Vous participerez en particulier aux phases suivantes :
+analyse du besoin ; spécifications détaillées des fonctionnalités à réaliser ; conception technique des
+applications à développer ; leur réalisation puis leur validation dans un environnement d’intégration.
+Le projet sera conduit de manière itérative (méthodes agiles SCRUM et XP). Vous appliquerez les
+bonnes pratiques d’analyse et de conception objet  (UML  ; design patterns  ; prototypage). Vous
+mettrez en œuvre la forge logicielle de l’agence pour assurer l’industrialisation des développements
+dans une démarche d’intégration continue.
+Objectifs du stage
+− Expérimenter le cycle complet d’un projet de développement
+− Maîtriser les principaux aspects techniques d’une application mobile
+− Produire un ou plusieurs modules logiciels complètement fonctionnels et répondant au besoin
+Tâches à réaliser
+− Prise de connaissance du domaine et des différentes applications
+− Recueil et analyse des besoins ; spécifications détaillées
+− Conception technique ; prototypage
+− Réalisation des développements ; tests unitaires
+Modalités du Stage
+− Formation : Bac +5 ; Stage de fin d'études
+− Connaissances souhaitées : développement Java et/ou technologies Web / modélisation UML
+− Lieu : Nantes / Durée du stage : 4 à 6 mois
+− Stage rémunéré devant déboucher sur une embauche en CDI
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                             Nom de l’Etudiant :
+Modalités de versement :                                                                                  Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35H
+Date limite de réponse à cette proposition : Janvier 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? OUI
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

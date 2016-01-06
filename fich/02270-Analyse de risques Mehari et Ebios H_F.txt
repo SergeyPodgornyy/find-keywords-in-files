@@ -1,0 +1,60 @@
+﻿ATOS RECRUTE UN/UNE ANALYSE DE RISQUES MEHARI ET EBIOS H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 28/01/2015
+Référence de l’offre : 2013-1474-8713661
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+La version actuelle de la méthodologie EBIOS 2010 publiée par l'ANSSI, et maintenant compatible ISO/IEC
+27001 et ISO/IEC 27005, est largement utilisée et reconnue en France, notamment dans le secteur public.
+Le Pôle Conseil et Audit en SSI de Bull Sécurité a construit un outil d'appropriation des méthode EBIOS et
+MEHARI, à destination de l'ensemble de ses consultants en Sécurité des SI.
+Il est déjà utilisé pour toute intervention en gestion des risques et en homologation de système de sécurité de
+l'information (selon le RGS).
+Cet outil doit évoluer en suivant l'actualité de l'offre de prestations Sécurité du Pôle Conseil et Audit en
+Sécurité des SI, et s'enrichir des fonctionnalités souhaitées par les consultants.
+Rattaché(e) au Consultant Sénior en Sécurité, vos missions seront les suivantes :
+-  Prise  en  main  de  la  méthodologie  EBIOS  de  l'ANSSI,  afin  d'appréhender  son  cheminement  et  les
+référentiels associés, ainsi que l'outil Ebios Bull existant
+- Prise en main de la méthodologie MEHARI
+- Evolution et enrichissement de ces outils.
+Il est demandé en particulier d'être force de proposition pour la suggestion d'évolutions des outils, ou pour la
+priorisation ou l'implémentation de celles-ci.
+De plus, il pourra vous être demandé de participer, toujours encadré(e) par un Consultant, à des activités
+autres du Pôle Conseil et Audit en SSI, en lien avec la Sécurité des Systèmes d'Information (Politiques de
+Sécurité, Plan de Continuité d'Activité, Politiques de Certification, Audits…).
+Profil recherché :
+Compétences requises
+- Connaissances en Sécurité des Systèmes d'Information
+- Autonomie
+- Aisance rédactionnelle et relationnelle
+
+
+
+
+Compétences appréciées
+- Connaissances en gestion des risques
+- Connaissance en Excel / VBA
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8713661
+
+
+
+
+

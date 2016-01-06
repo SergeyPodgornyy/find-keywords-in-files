@@ -1,0 +1,37 @@
+﻿BNP   PARIBAS   PERSONAL   FINANCE   RECRUTE   UN/UNE   STAGE   CHARGÉ   DE   PROCESS
+RECOUVREMENT H/ EN STAGE 6 MOIS.
+Date : 01/06/2014
+Référence de l’offre : STA2067-6389196
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Ile de France 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Avec plus de 16 000 collaborateurs présents dans une vingtaine de pays et près de 123 milliards d'euros d'encours
+gérés, BNP Paribas Personal Finance est le numéro 1 du crédit aux particuliers en France et en Europe. Partenaire
+de référence du monde du commerce, des services, des banques et sociétés d'assurance, BNP Paribas Personal
+Finance est le premier multispécialiste capable d'offrir une gamme complète de crédits aux particuliers. Des
+offres de crédit au service des clients et qui engagent l'entreprise au quotidien.
+Description du poste :
+La Direction des Opérations France (DOF) de BNP Paribas Personal Finance recherche pour son équipe Système
+d’Aide à la Décision (SAD) un Chargé de Process Recouvrement H/F en stage pour une durée de 4 à 6 mois.
+Vous contribuerez à l’amélioration de l’outil de suivi de la communication client.
+L’équipe SAD de la DOF a la responsabilité de faire évoluer les processus recouvrement à travers l’amélioration
+des efficacités, la réduction des coûts et l’optimisation de la communication.
+Vos missions principales  :
+- Recueillir les besoins métier d’évolution de l’outil de communication  ;
+- Améliorer le suivi existant des courriers  en améliorant les requêtes existantes (SQL) ;
+- Elargir les fonctionnalités de cet outil sur le suivi des emails et des sms  ;
+- Mettre à jour l’applicatif web (PHP).
+Profil recherché :
+Vous préparez un Bac +4/5 type école d’ingénieur, école de commerce ou équivalent universitaire avec une
+spécialisation en informatique ou en développement web.Vous maîtrisez le Pack Office ainsi que les langages
+PHP et SQL.
+Pour postuler : http://bnpperfin.contactrh.com/jobs/1536/6389196
+
+
+
+
+

@@ -1,0 +1,60 @@
+﻿Offre de stage
+L'Entreprise
+Ecosphère est un bureau d'études en environnement  (faune/flore) spécialisé dans l'expertise écologique, le
+conseil et l'aménagement des milieux naturels basé à St Maur des Fossés (94, Ile de France).
+http://ecosphere.fr
+Cadre du Stage
+La gestion de la ressource en temps est l'élément clé dans la gestion d'un bureau d'études comme de la plupart
+des sociétés de service. Dans ce cadre, Ecosphère a développé des outils de gestion du temps qui doivent
+désormais être mis à jour.
+Ecosphère comprend 7 sites répartis dans toute la France. Un intranet permet de partager, d'échanger et de
+gérer certains aspects administratifs de l'entreprise malgré cette distance. Tous les derniers développements
+ont été intégrés à cet intranet afin de centraliser et d'unifier la plupart de nos outils.
+Le stage
+L'objectif de ce stage est de développer un module de gestion du temps à la manière d'un ERP. Interfacé avec
+les applications de gestion des congés et de gestion du temps passé sur les projets, ce module aura pour
+objectif de gérer la planification des projets. Au croisement entre l'application de gestion de projet et l'ERP; ce
+module prendra une place centrale au sein du système d'information d'Ecosphère.
+Une première maquette permettant d'évaluer la faisabilité et de présenter la démarche à la direction été
+développée dont voici une capture d'écran :
+Siège social : 3 bis rue des Remises, F-94100 Saint-Maur-des-Fossés
+tél. 33 (0)1 45 11 24 30 - fax. 33 (0)1 45 11 24 37
+www.ecosphere.fr - e-mail : ecosphere@ecosphere.fr
+S.A. au capital de 150 000                                                                                            € - R.C.S. Créteil B 353 859 580
+
+
+
+
+Le stage s'appuira sur :
+    le CMS Open Source MojoPortal
+    les technologies ASP.NET
+    le langage C #
+    un hébergement ASP.NET en interne (Windows Server 2008 R2 avec SQL Server) déjà opérationnel
+    un cahier des charges rédigé conjointement par le stagiaire et son maître de stage en début de stage
+Selon les capacités du stagiaire, d'autres missions pourront lui être confiées, en accord avec les objectifs de son
+stage et les priorités d'Ecosphère.
+Profil recherché
+    Bac+3/+5 en informatique
+    Formé et compétent dans les technologies ASP.NET
+    Développement Web : JavaScript, CSS, XHTML...
+    Compétences en AJAX appréciées
+    Autonome, curieux et rigoureux
+Modalités
+    Le stage pourra commencer dès possible pour une durée de 4 à 6 mois
+    Rémunération en accord avec la législation et selon profil
+    Localisé à Saint Maur des Fossés (94, Ile de France)
+Contact
+Thomas Sauzon
+Responsable SIG et Informatique
+Tél : 01 55 11 24 30
+Mél : thomas.sauzon@ecosphere.fr
+Candidature exclusivement par voie électronique (CV et texte l'accompagnant par mél)
+Siège social : 3 bis rue des Remises, F-94100 Saint-Maur-des-Fossés
+tél. 33 (0)1 45 11 24 30 - fax. 33 (0)1 45 11 24 37
+www.ecosphere.fr - e-mail : ecosphere@ecosphere.fr
+S.A. au capital de 150 000                                                                                            € - R.C.S. Créteil B 353 859 580
+
+
+
+
+

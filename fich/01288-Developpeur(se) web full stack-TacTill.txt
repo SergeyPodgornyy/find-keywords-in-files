@@ -1,0 +1,61 @@
+﻿AJSTAGE  RECRUTE  UN/UNE  DÉVELOPPEUR(SE)  WEB  FULL  STACK­TACTILL
+EN  STAGE  DE  5  À  6  MOIS.
+Date  :  01/04/2014
+Référence  de  l’offre    :  dwt­5923006
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Montrouge  92120,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  None
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+AJstage  propose  aux  étudiants  des  offres  de  stages,  apprentissages,  VIE  et  premiers
+emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises
+clientes  sur  www.ajstage.com.
+Description  du  poste    :
+TacTill  est  une  startup  qui  change  la  façon  dont  on  fait  du  shopping  en  donnant  de
+nouvelles  armes  aux  commerçants.  Son  produit  phare  :  la  caisse  enregistreuse  sur  iPad.
+Après  une  première  année  riche  en  émotions,  nous  sommes  à  la  recherche  d'un(e)  web
+developer  prêt(e)  à  rejoindre  l'aventure.
+En  2013,  TacTill  a  envahi  le  web  en  proposant  aux  commerçants  une  réplique  web  de  tout
+ce  qu'ils  font  dans  la  boutique.  Construit  sur  Node  et  Mongo,  notre  API  sert  des  centaines
+de  commerçants.  Une  web  app  Angular  est  là  pour  leur  permettre  de  gérer  leur  données  et
+paramétrer  leurs  iPads.
+Ta  mission  est  simple,  participer  au  développement  de  TacTill.  En  tant  que  web
+developer,  tu  auras  la  responsabilité  de  faire  grandir  TacTill  aussi  vite  que  le  marché  en
+pleine  expansion.  Tu  seras  notamment  en  charge  :
+de  maintenir  l'API  Node  et  exploiter  tout  le  potentiel  d'une  boutique  connectée.
+de  l'évolution  du  Back  Office.
+de  développer  les  hacks  qui  permettront  à  ton  travail  de  se  retrouver  entre  les  mains  de
+milliers  d'utilisateurs
+d'assurer  le  bon  fonctionnement  des  services  hébergés  sur  AWS.
+Profil
+TacTill  est  en  pleine  croissance.  Nous  sommes  à  la  recherche  d'un  dev  ascendant
+entrepreneur  qui  n'a  pas  peur  de  défendre  son  point  de  vue  et  de  prendre  des  risques  avec
+
+
+
+
+nous.  En  quelques  mots  :
+Tu  as  déjà  participer  au  développement  d'un  projet  web
+Tu  es  autonome  et  n'a  pas  peur  de  prendre  en  charge  un  projet
+Tu  as  utilisé  Node.js,  Angular.js  ou  a  très  envie  de  monter  en  compétence  dessus.
+Tu  parles  le  JavaScript
+Tu  sais  gérer  une  architecture  complexe
+StackOverflow  est  ta  bible
+MERCI  DE  POSTULER  VIA  :
+http://www.ajstage.com/offre/Developpeur­se­web­full­stack­chez­TacTill
+Profil  recherché    :
+Tu  es  sensible  aux  interfaces  léchées  et  ouvrir  photoshop  ne  te  fais  pas  peur
+Tu  es  data  driven  ou  as  de  bonnes  bases  en  web  marketing
+Tu  seras  en  contact  direct  avec  les  fondateurs  et  pourras  participer  activement  au
+développement  logiciel  et  stratégique  de  l'entreprise.  Idéalement  en  fin  d'étude,  tu  n'as  pas
+peur  de  continuer  en  startup  si  l'expérience  est  concluante.
+Pour  postuler    :  http://ajstage.contactrh.com/jobs/1536/5923006
+
+
+
+
+

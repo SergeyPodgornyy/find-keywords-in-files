@@ -1,0 +1,45 @@
+﻿UNIVERSITÉ DE RENNES I
+Institut de Physique de Rennes
+UMR CNRS 6251
+Département Optique & Photonique
+http://www.ipr.univ-rennes1.fr
+Offre de stage M1 / Ingé 2e année
+Evaluation  des  performances  de  détection  en  imagerie
+polarimétrique  par contraste  de  speckle
+L’imagerie  polarimétrique  consiste  à  mesurer  et
+analyser l’état de polarisation de la lumière rétrodiffusée
+par un objet en tout point de l’image. Ce type d’imagerie
+trouve des applications de plus en plus nombreuses, par
+exemple pour la microscopie, la caractérisation de défauts
+de surfaces et pour la biologie  (suivi de l’évolution de
+cellules cancéreuses par exemple). Les méthodes usuelles
+nécessitent d’acquérir et traiter plusieurs images (signaux
+multidimensionnels).
+Dans  la  perspective  d’augmenter  la  simplicité  et  la  rapidité    des  systèmes  d’imagerie
+polarimétrique, une méthode « computationnelle » fondée sur l’acquisition   d’une unique image a
+été étudiée récemment à l’IPR [1]. Celle-ci permet   de réaliser une image du degré de polarisation
+lorsque la scène imagée  est illuminée  par un éclairement cohérent (illumination laser). Toutefois, il
+est nécessaire de disposer sur l’image de zones homogènes de plusieurs centaines de pixels, afin de
+disposer d’une précision suffisante, et ce au détriment de la résolution.
+Dans  la  continuité  de  ces  travaux,  le  stage  proposé  vise  à  évaluer  rigoureusement  les
+performances   d’une   telle   approche                                                                   « computationnelle »   pour   des   problèmes   de
+détection/discrimination  de  matériaux  aux  propriétés  polarimétriques  distinctes.  Pour  cela,
+l’étudiant devra simuler numériquement des signaux optiques réalistes afin de comparer différents
+tests statistiques de détection. Les performances de ces tests de détection seront comparées avec les
+performances des méthodes usuelles à plusieurs images. Dans un second temps, ces résultats
+pourront également être mis en relation avec l’évaluation de bornes optimales de performances de
+détection (borne de Chernoff, borne de Bhattacharyya).
+Les compétences requises pour ce stage sont : un bon niveau en programmation (langage C /
+Matlab), de bonnes connaissances en mathématiques (statistiques).
+Un goût pour la simulation et l’optique seront aussi de forts atouts pour une candidature.
+[1] Fade J., Roche M., Alouini M., “Computational polarization imaging from a single speckle im-
+age”, Optics Letters 37, 386-388 (2012).
+Candidature: envoi CV+notes
+Mots-clés  imagerie, détection/discrimination, polarisation, simulation, statistique
+Durée : 7 à 8 semaines
+Responsable: Julien FADE         julien.fade@univ-rennes1.fr                                              Tél. 02 23 23 52 15
+
+
+
+
+

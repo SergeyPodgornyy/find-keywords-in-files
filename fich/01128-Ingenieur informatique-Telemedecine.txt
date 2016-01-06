@@ -1,0 +1,57 @@
+﻿AXON&#39;  CABLE  SAS  RECRUTE  UN/UNE  INGÉNIEUR  INFORMATIQUE­
+TÉLÉMÉDECINE  EN  STAGE  DE  6  À  9  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  ST­BG­0713­INFO­5617587
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Montmirail  51210,  FR
+Durée  du  contrat    :  De  6  à  9  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Depuis  presque  50  ans  Axon'  Cable  se  consacre  à  la  conception  et  la  fabrication  de  câbles
+et  systèmes  d'interconnexion  innovants  pour  l'électronique  de  pointe.  Destinés  à  des
+secteurs  d'activité  aussi  divers  que  l'aéronautique  et  le  spatial,  l'automobile,  le  militaire,  le
+médical  et  la  recherche  pétrolière,   les  produits   Axon'  sont  utilisés  par  des  sociétés
+comme  EADS,  Schneider,  Thales,  Valeo,  Schlumberger,...
+Ainsi,  des  réseaux  bus  de  transmission  de  données  d'Axon'  sont  intégrés  dans  la  fusée
+Ariane,  des  câbles  plats  dans  les  casettes  airbag  des  voitures,  des  harnais  robustes  dans
+les  systèmes  de  communication  des  fantassins,  des  câbles  coaxiaux  miniatures  dans  les
+échographes  et  des  connecteurs  micro­miniature  dans  les  outils  de  forage  pétrolier.  Une
+liaison  AXON'  équipe  même  le  robot  Curiosity  envoyé  sur  Mars  .
+Aujourd'hui,  le  groupe  Axon'  emploie  plus  de  1700  salariés  en  Europe,  Amérique  et  Asie.
+Description  du  poste    :
+Au  travers  de  sa  filiale  DOMOCARE,  Axon'  développe  des  solutions  de  télésanté
+destinées  au  suivi  à  distance  des  paramètres  physiologiques  des  personnes.  L'entreprise
+développe  également  des  dispositifs  médicaux.  Ces  solutions  font  appel  à  de  nombreuses
+compétences  dans  le  domaine  des  TIC.
+Après  une  formation  aux  produits  et  aux  méthodes  de  développement,  vous  serez
+chargé(e)  de  :
+•  développer,  analyser  et  tester  des  applications,
+•  rédiger  des  documentations  techniques,
+•  tenir  compte  des  contraintes  liées  à  la  sécurité  des  données  et  aux  aspects
+réglementaires.
+Vous  serez  accueilli(e)  dans  l'équipe  de  Recherche  et  Développement  de  la  filiale
+DOMOCARE  et  encadré(e)  par  un  tuteur  dédié  pendant  toute  la  durée  du  stage.
+Possibilité  de  logement.
+
+
+
+
+Ce  stage  est  susceptible  de  déboucher  sur  un  emploi  en  CDI.
+Envoyez  vos  lettres  de  candidature  et  CV  à  l'attention  d'Annie  Lambert,  job@axon­
+cable.fr  en  rappelant  la  référence  STAGE_BG_0713  INFO.  Dans  l'objet  de  votre  mail  et
+sur  votre  lettre.  Sans  indication  de  cette  référence  votre  candidature  ne  pourra  pas  être
+traitée.
+Profil  recherché    :
+­ Visual  studio  2010,  C#,  ASP.Net,   HTML5,  AJAX.
+­ MVC,  MVC2.
+­ SQL  Serveur  2005  et  2008.
+­ Windows  XP,  Windows  7,  Windows  Server  2003  et  2008,  IIS  7,  IIS  7  .5.
+Pour  postuler    :  http://axon.contactrh.com/jobs/1536/5617587
+
+
+
+
+

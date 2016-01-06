@@ -1,0 +1,36 @@
+﻿Proposition de stage Analyse de sécurité et audit réseaux
+Dans le cadre d'une certification ISO/IEC 27001 de notre activité
+Avec le RSSI et le responsable des systèmes et réseaux vous contribuez à la rédaction de
+politique spécifiques de sécurité à partir des politiques déjà établie.
+En collaboration avec les administrateurs systèmes et réseaux vous êtes chargé d’analyser les
+risques portant atteinte à la sécurité des FW et des réseaux suivant la méthode Ebios et les
+politiques de sécurité élaborées.
+vous rédigez les spécifications et les procédures associées à la mise en oeuvre de mesures
+complémentaires où elles se révéleront nécessaires et définissez les indicateurs de sécurité.
+Vous définissez la méthodologie d'audit internes (objectifs, acteurs, les étapes, les ressources
+matérielles ..) et validez les résultats obtenus.
+Vous serez en relation avec le RSSI pour la partie formelle et par le responsable système te
+réseaux pour la partie technique.
+Le cadre de votre action:
+Le Coeur de réseau est bâti sur un /20 IPV4 de notre AS 20757 et IPV6, Il comporte plusieurs
+datacenters Multihomés [Cogent, Zayo (ex néotélécom) et un Peering établi sur Equinix IX ]
+Les routeurs (BGP) et deux niveaux de filtrage (services externes et FW internes) peuvent
+faire partie de votre champ d'étude qu'il faudra préciser en fonction de la durée du stage.
+Durée minimale 3 mois, souhaitée 6.
+Le lieu de stage est Angers (49 Maine et Loire).
+Votre profil
+Formation Bac + 4/5 technique systèmes et Réseaux avec spécialisation sécurité des SI (ou
+cybersécurité)
+Capacités rédactionnelles en analyse et synthèse
+Goût pour le pilotage de projet et le travail en équipe avec un bon sens relationnel
+--
+Bernard Sinnaeve
+Nameshield
+27 rue des Arènes
+49100 ANGERS
++33 2 41 18 28 28
+
+
+
+
+

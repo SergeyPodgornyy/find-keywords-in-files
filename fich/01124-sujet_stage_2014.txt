@@ -1,0 +1,33 @@
+﻿Tactilia jeune startup rennaise développe pour ses clients des solutions logicielles et matérielles. Les
+logiciels sont, soit développés à partir d'un cahier des charges défini conjointement avec le client,
+soit des produits packagés.
+Pour notre produit principal packagé, nous développons en interne une plateforme logicielle client-
+serveur, dont le principal client est une application sur tablette (iPad ou Android). Les technologies
+mises en œuvre font appel aux standards et sont principalement : Play ! et Appcelerator.
+L'architecture mise en œuvre est modulaire, chaque module est lui-même composé de différentes
+parties réparties entre le serveur, le back-office et le client : générateur de code, facturation,
+exploitation des données, administration,...
+Dans ce cadre, le but du stage est de participer à la définition et au développement de la plateforme.
+Le sujet sera définit conjointement avec le stagiaire, en fonction des besoins de tactilia et des
+souhaits et compétences du stagiaires. Les sujets possibles sont :
+   amélioration de l'atelier logiciel par l'amélioration des procédures de développement, test,
+déploiement. Mots clés : java (annotations), JUnit, git, jenkins, python, linux,...
+   extensions du client sur tablette par ajout de fonctionnalités, commandes, jeux, widgets
+nouveaux. Mots clés : javascript, html5, css3, titanium appcelerator, jQuery, iOS, Android,
+QRCode,...
+   extensions du serveur par ajout de nouvelles fonctionnalités, pages, api RESTful. Mots clés :
+java, javascript, html5, css3, angularjs, jQuery, Play!, bootstrap, mongoDB,...
+Les mots clés sont par importance décroissante, cela veut dire une connaissance correcte du
+premier, pour être suffisamment autonome au cours du stage, jusqu'à avoir connaissance de
+l'existence des derniers, le but étant qu'à la fin du stage vous soyez autonome sur ces technologies.
+Contact :
+Benoît Chanclou
+Directeur technique / CTO
++33 (0)6 33 73 24 97
+mailto://benoit.chanclou@tactilia.fr
+http://www.tactilia.fr
+
+
+
+
+

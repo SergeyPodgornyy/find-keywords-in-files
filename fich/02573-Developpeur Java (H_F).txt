@@ -1,0 +1,35 @@
+﻿ZENIKA RECRUTE UN/UNE DÉVELOPPEUR JAVA (H/F) EN CDI TEMPS PLEIN.
+Date : 17/06/2015
+Référence de l’offre : DEVJAVAPARIS-10058194
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : CDI
+Localisation : Paris 75009, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+Zenika est un cabinet spécialisé dans l'Architecture Informatique et les Méthodes Agiles. La société compte
+155 collaborateurs et est implantée à Paris, Rennes, Lyon, Nantes et Lille avec un Centre de Formation dans
+chaque agence.
+Zenika, 4è rang du palmarès Great Place to Work 2015 des entreprises de moins de 500 salariés et est une
+entreprise ouverte à tous les handicaps et signataire de la charte de Diversité.
+Acteur majeur et reconnu dans le monde Java, la société propose aujourd'hui une offre globale unique qui lui
+permet  d'accompagner  ses  clients  dans  la  mise  en  place  de  leur  système  d'information  basé  sur  des
+technologies Open-Source.
+Description du poste :
+Intégré à une équipe, vous intervenez sur des projets de développement, dans des environnements nouvelles
+technologies sur des sujets variés et innovants en France ou à l'International (Londres...)
+Idéalement vous maîtrisez une, ou plusieurs, des technologies suivantes : Les différentes briques Spring,
+Hibernate, AngularJS, Elasticsearch, Mobilité, Maven, Jenkins, Groovy, REST, MongoDB, Tomcat...
+Comme tout consultant Zenika, vos qualités techniques et humaines pourront pleinement s'exprimer au
+travers d'une triple compétence : Conseil, Réalisation et Formation.
+Profil recherché :
+Vous  lisez  régulièrement  les  meilleurs  blogs  techniques,  vous  contribuez  peut-être  même  à  un  projet
+Open-Source. L'important pour nous est de déceler votre passion, votre envie d'élargir vos compétences, de
+partager votre savoir au sein de Zenika et de la communauté.
+Pour postuler : http://apply.multiposting.fr/jobs/1972/10058194
+
+
+
+
+

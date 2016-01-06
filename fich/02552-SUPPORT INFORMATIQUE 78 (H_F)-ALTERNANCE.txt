@@ -1,0 +1,41 @@
+﻿HILTI FRANCE RECRUTE UN/UNE SUPPORT INFORMATIQUE 78 (H/F)-ALTERNANCE EN
+APPRENTISSAGE/ALTERNANCE DE 6 À 24 MOIS.
+Date : 01/07/2015
+Référence de l’offre : IT/SN-9967711
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : MAGNY LES HAMEAUX (78) 78117, FR
+Durée du contrat : De 6 à 24 mois
+Niveau d’études : Bac +3
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Le groupe Hilti est un leader mondial dans la conception, la fabrication et la commercialisation de produits
+hautes-performances à forte valeur ajoutée pour les professionnels de la construction et de la rénovation de
+bâtiments.
+Nous recherchons l'excellence par l'innovation (plus de 30 innovations par an), la qualité totale, la relation
+directe avec nos clients et un marketing efficace.
+Présent dans 120 pays, nous comptons plus de 20 000 collaborateurs dont deux tiers sont, chaque jour, en
+contact direct avec nos clients, soit 200 000 contacts quotidiens dans le monde entier.
+Description du poste :
+Vous agissez en tant que technicien support et garantissez la continuité de l'activité et la satisfaction des
+utilisateurs.
+- Réceptionner, identifier et résoudre les incidents et requêtes des utilisateurs.
+- Assurer le support des utilisateurs sur site et à distance.
+- Déployer de nouveaux matériels informatiques.
+- Installer et mettre à jour les logiciels.
+- Diagnostiquer des défaillances, proposer des solutions.
+- Réalisation de projets globaux.
+Profil recherché :
+- Etudiant en première année en informatique, à la recherche d'un contrat en alternance, vous êtes organisé,
+dynamique et capable d'adaptation.
+- Vous connaissez plusieurs des technologies suivantes : Microsoft Windows 8.1 - Microsoft IIS - Active
+Directory - Windows updates (WSUS) - Déploiement d'images (PXE, WDS, ...) - Matériel HP, LENOVO -
+notions Réseau LAN, VLAN, DHCP, DNS.
+- Votre rigueur et votre fiabilité sont reconnues.
+- Votre anglais est opérationnel.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9967711
+
+
+
+
+

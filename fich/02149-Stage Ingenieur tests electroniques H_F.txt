@@ -1,0 +1,51 @@
+﻿SOGETI HIGH TECH RECRUTE UN/UNE STAGE INGÉNIEUR TESTS ÉLECTRONIQUES H/F EN
+STAGE DE 6 À 12 MOIS.
+Date : 08/01/2015
+Référence de l’offre : MU8-STA-IL-BUI-8539084
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : LYON 69000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+Dans  le  cadre  d'un  projet  d'envergure  dans  le  domaine  ferroviaire,  nous  proposons  un  stage  en
+développement de programme de test IN-SITU électronique.
+Suite  à  une  migration  vers  des  testeurs  IN-SITU  de  nouvelle  génération,  nous  souhaitons  migrer  les
+programmes de test de plusieurs dizaines de cartes électroniques.
+Vous serez intégré à une équipe d'ingénieurs et techniciens et serez suivi quotidiennement par un team leader
+technique et un chef de projet expérimenté.
+Vous pourrez participer à toutes les étapes du cycle en V :
+- Réception et validation des livrables d'entrées
+- Analyse des schémas électroniques des cartes et des programmes de migration d'ancienne génération
+- Rédaction des spécifications techniques du programme de migration
+- Développement
+- Phase de validation/debug sur simulateur
+De plus, vous aurez la chance de découvrir les rouages d'un projet d'envergure (plusieurs années, plus de 10
+personnes).
+Profil recherché :
+Compétences souhaitées :
+* Lecture et exploitation de schémas électroniques
+* Développement C
+* Une expérience sur bancs de test (de préférence IN-SITU) serait un plus
+Une formation complémentaire aux outils propriétaires utilisés vous sera donnée par nos équipes.
+L'adaptabilité, le sens du service et l'autonomie seront clefs dans la réussite de ce stage.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8539084
+
+
+
+
+

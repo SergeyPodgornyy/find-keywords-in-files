@@ -1,0 +1,57 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+PSD-01 « Les Normes de suivi de la qualité de service dans les réseaux
+mobiles » (6 mois)
+Description du stage proposé
+Ce stage vise à positionner les indicateurs de suivi de la QoS proposés par les solutions Astellia vis-à-
+vis des normes existantes sur le sujet (ETSI, 3GPP).
+Cela passera par une immersion dans le monde de l’analyse de performance des réseaux mobiles,
+celui d’Astellia - un des leaders sur son marché - et plus généralement celui des différents acteurs
+des réseaux mobiles.
+Le périmètre du stage englobe l’ensemble des technologies de réseaux 3GPP existantes de la 2G à la
+4G.  Il  mettra  en  jeu  et  permettra  de  développer  des  compétences  relatives  à  l’architecture  des
+réseaux mobiles du réseau d’accès jusqu’au cœur de réseau, aux différentes procédures mise en
+œuvre pour délivrer les services et enfin à la problématique du suivi de la performance et de la QoS.
+Les grandes étapes du stage seront :
+    Formation et prise en main des outils Astellia ;
+    Acquisition des concepts de base relatifs au suivi de la performance et de la QoS ;
+    Etat des lieux et classement des normes existantes sur le sujet (ETSI, 3GPP, ITU) ;
+    Comparaison entre l’approche et les indicateurs (KPI) adoptée et conçus par Astellia et ceux
+des normes identifiées ;
+Contexte de réalisation (compétences, outils, ...) :
+   Environnement   technique :   Réseaux   mobiles:   architecture,   protocoles,   signalisation,
+normes.
+   Connaissances requises : Un premier niveau de connaissance sur les réseaux mobiles.
+Profil
+Etudiant(e) de dernière année d’école d’Ingénieur Télécoms
+Période
+De Mars à Septembre 2014
+Page 2
+
+
+
+
+

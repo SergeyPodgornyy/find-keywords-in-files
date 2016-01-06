@@ -1,0 +1,77 @@
+﻿OFFRE DE STAGE EN INFORMATIQUE
+Lieu :
+Dimension Data Luxembourg
+WEST SIDE VILLAGE
+Rue Pafebruch 89D
+L -8308 CAPELLEN
+LUXEMBOURG
+Phone +352 25.48.25 -1
+Point de contact :
+Nom : Bertrand Heckly
+DCS Engineering Manager
+Reference: PS-CC-Interco-StagesFY14 (à préciser en entête de vos communications)
+Email: lu.stage@dimensiondata.com
+Stage rémunéré
+Entreprise: Dimension Data -http://www.dimensiondata.com /lu
+Avec plus de 10 000 collaborateurs dans plus de 40 pays, Dimension Data
+(Code LSE : DDT), fournisseur spécialisé de solutions et de services informatiques,
+aide   ses   clients   à   concevoir,   déployer   et   exploiter   leurs   infrastructures
+informatiques.
+Dimension  Data  applique  son  expertise  dans  les  domaines  des  réseaux  IP,  de  la
+téléphonie  et  la  collaboration,  de  la  sécurité,  des  plates-formes  système  et  des
+technologies  dédiées  aux centres de contacts.  Dimension  Data met  également au
+service  de  ses  clients  ses  qualités  uniques  de  conseil,  d'intégration  et  de  gestion
+pour  leur  fournir  des  solutions  complètes  et  personnalisées  allan t  de  l'intégration
+traditionnelle à des offres de service clef en main de multi -sourcing.
+Sujet                                                                                             :  Interconnexion  d’un  environnement  de  Communications   Unifiées
+d’entreprise,  jusque -là  isolé,  avec  d’autres  environnements  privés  et  grand
+public.
+Les  solutions  d’entreprise  de  Communications  Unifiées  (voix,  vidéo,  messagerie
+instantanée) sont aujourd’hui mâtures et de plus en plus adoptées et déployées . La
+plupart du temps, ces environnements fournissent un service interne à l’entreprise
+pour  les  employés  uniquement.  La  seule  ouverture  vers  le  monde  extérieur  ne
+concerne  que  la  voix  via  le  réseau  téléphonique  public.  Les  fonctionnalités
+
+
+
+
+OFFRE DE STAGE EN INFORMATIQUE
+modernes   telles   que   la   messagerie   instantanée   ou   la   vidéoconférence   sont
+réservées  aux  interactions  internes.  Il  en  va  souvent  de  même  pour  les  réseaux
+sociaux d’entreprise.
+Dans  un  premier  temps,  le  stage  a  pour  but  d’étudier  les  différents  scénarios
+d’interconnexion et leurs dépendances  : fédérations uniques B2B, fédérations avec
+des  réseaux  grand  public.  L’étude  devra  se  concentrer  sur  deux  constructeurs
+majeurs  du  marché  des  Communications  Unifiées                                           (Cisco  et  Microsoft)  et  les
+acteurs  grand  public  (Google,  Facebook,  Skype…)  afin  d’étudier  et  de  mettre  en
+œuvre  les  solutions  techniques  proposées  dans  un  environnement  de  lab.  Les
+fonctionnalités de voix, vidéo et messagerie instantanée sont la priorité.
+Dans  un  deuxième  temps  si le  temps  le  permet ,  la  problématique  sera  étendue  à
+l’interconnexion  de  réseaux  sociaux  d’entreprise  avec  des  réseaux  sociaux  grand
+public de type LinkedIn, Facebook ou Twitter.
+Le stagiaire participera notamment aux points ci-dessous durant son stage :
+●                                                                                            Approfondissement des concepts et protocoles de Communications Unifiées
+●                                                                                            Inventaire des différents modes d’interconnexions et de fédérations possibles
+○  Fédérations privées B2B
+                                                                                             ○  Fédérations avec des réseaux publics…
+●                                                                                            Inventaire des contraintes techniques et fonctionnelles des différents modes
+○  Fonctionnalités
+○  Compatibilités
+○  Sécurisation…
+●                                                                                            Prise de contact avec les acteurs dominants du marché (Cisco, Microsoft ,
+Skype, Google, Facebook …)
+●                                                                                            Implémentation de différentes solutions dans une infrastructure de lab
+●                                                                                            Comparatif plus/moins entre les solutions
+○  Niveau de maturité
+○  Compatibilités
+○  Fonctionnalités
+○  Evolutions futures…
+●                                                                                            Rédaction de documentations
+●                                                                                            Suivi avec le tuteur de stage
+●                                                                                            Présentation des résultats à l’équipe
+●                                                                                            Participation aux réunions de travail de l’équipe
+
+
+
+
+

@@ -1,0 +1,72 @@
+﻿Stage  -  Participation  aux  activités  de  la  cellule  Bench  &
+Performance  H/F
+Sopra  Group
+REFERENCE  :  STAGE/TELCO/RENN/4206964
+POUR  POSTULER  :  offre5203833.1536@sopra-group.contactrh.com sous la référence
+STAGE/TELCO/RENN/4206964
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son
+expertise métier (OSS, Provisioning, Mediation, Rating/ Billing, Revenue Assurance, CRM,
+Business Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra
+Group un acteur majeur dans le domaine des Télécoms et des Médias.
+DESCRIPTION  DU  POSTE  :
+Mission
+La cellule Bench & Performance intervient de façon transverse sur de nombreux projets de l’agence
+rennaise. Constituée d’une équipe d’experts, elle apporte le support aux projets, en proposant des
+méthodes, outils, expertise et savoir-faire industriels permettant la détection, l’analyse et la
+résolution de problème de performances sur des environnements hétérogènes.
+Intégré(e) à la cellule Bench & Performance et accompagné(e) du Chef de Projet et d’un Expert
+technique, vous participerez à la mise en œuvre de tests de performance. Vos compétences multi-
+technologiques vous permettront de :
+- spécifier les objectifs du projet, la méthode, les tests, les environnements techniques et outils
+- développer les scripts de tests permettant de simuler la charge utilisateur
+- industrialiser les tests de performance (initialisation, lancement, monitoring, rapport)
+
+
+
+
+- analyser les résultats (client, serveur web, serveur d’application, application, base de données,
+systèmes et réseaux)
+- déterminer les problèmes et proposer des solutions/recommandations
+Intérêt du stage
+- acquérir une méthodologie projet
+- comprendre le fonctionnement global d’une application, d’un système
+- comprendre les problématiques de performance à tous les niveaux d’une application ou d’un
+système
+Environnement technologique/fonctionnel
+Microsoft .NET/VB, JAVA, Windows, Unix/Linux, SQL Server, Oracle, Systèmes et Réseaux
+LoadRunner, Jmeter, WITBE, SOAPower, Zabbix
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Chef de Projet
+qui assurera un suivi détaillé de l’activité dans le cadre des procédures appliquées sur les projets
+clients ou internes.
+PROFIL  :
+En dernière année d’école d’ingénieurs ou de Master 2 informatique, vous avez des capacités à
+appréhender un contexte projet multi-domaine (applicatif, base de données, systèmes et réseaux).
+Votre relationnel, rigueur et esprit de synthèse sont les atouts qui vous permettront d’évoluer
+rapidement au sein d’une équipe.
+POUR  POSTULER  :  offre5203833.1536@sopra-group.contactrh.com sous la référence
+STAGE/TELCO/RENN/4206964
+
+
+
+
+

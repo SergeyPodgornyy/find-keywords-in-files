@@ -1,0 +1,24 @@
+﻿Tx5SEEE TLS TR Development of a Requirement - Model synchronization tool
+Mission et activités :
+The intern will contribute to the development of a research software for linking requirements and
+models in the context of Model Based System Engineering (MBSE). The internship will occur at the
+beginning of a three years collaborative project called ModelWriter where text-model synchronization
+capabilities will be developed for various tierce editors. The tool will be based on the existing Eclipse
+open source Intent project, which is conceived for linking pieces of documents with technical artefacts
+(pieces of code, models...).
+More specifically, the intern will contribute to:
+-                                                                                                           analyze needs for a use case that concerns the linking of a set of design requirement
+documents and a rule database
+-                                                                                                           Install and update the current environment with use case data
+-                                                                                                           enhance code capability to treat the link between an editor and a rule database
+Computer science (Master 2). Java development skills; experience with SWT and Eclipse framework
+technologies (JDT, CDT, PDE, etc.) and in object-oriented development and design. Background in
+user interface technologies and design. Interest in knowledge management is a plus.
+Compétences détaillées
+Détails relatifs au poste :
+http://www.airbusgroup.com/
+
+
+
+
+

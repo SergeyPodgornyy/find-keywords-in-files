@@ -1,0 +1,50 @@
+﻿Approche innovante du pilotage de systèmes d’imagerie biologique :
+Développement d’un prototype d’interface utilisateur et de codes embarqués
+générés par modélisation en machine d’états.
+Une ingénierie inverse de la
+division cellulaire (CeDRE)
+Approche des équipes
+Directement  adossée  à  la  plateforme  MRic  et  en  collaboration  étroite  avec  les  biologistes  de  la
+communauté Rennaise, l’équipe « Microscopie de Fluorescence Quantitative » (MFQ, Resp. M. Tramier) a
+vocation de développer des techniques et des méthodologies en microscopie de fluorescence pour étudier la
+dynamique des interactions protéiques et des activités biochimiques sur échantillon vivant. Son activité se
+situe à l’interface entre cette recherche méthodologique et son application en biologie pour répondre à de
+nouvelles questions d’intérêt.
+L’équipe  « Une ingénierie inverse de la division cellulaire »  (CeDRE, Resp. J. Pécréaux) vise à
+comprendre les aspects physiques et mécaniques de la division cellulaire par une approche interdisciplinaire :
+elle combine biologie, microscopie, modélisation biophysique basée sur une quantification des expériences
+par  la  physique  expérimentale  et  les  statistiques,  analyse  d’image  et  du  signal.  Son  activité  requiert
+l’utilisation et le développement d’approches de microscopie innovantes et quantitatives.
+Contexte du stage et objectif
+Par son caractère peu invasif, par le développement de sondes fluorescentes endogènes, la microscopie
+photonique est devenue un outil incontournable de la recherche en biologie. En particulier, pour observer le
+vivant,  un  enjeu  majeur  est  de  pouvoir  suivre  rapidement  les  évènements  dynamiques  observés  à  des
+cadences de quelques images à quelques dizaines d’images par seconde. Il s’agit donc d’optimiser la vitesse
+d’acquisition  des  images  par  une  approche  innovante  de  la  coordination  entre  les  différents  modules
+composant le système d’imagerie. Dans ce cadre, le pilotage des différents périphériques est un aspect clef
+dans la recherche de performances. Notre recherche amont a permis de définir une méthodologie innovante
+de pilotage qui fait l’objet d’un dépôt de brevet. Nous sommes donc engagés dans un projet de maturation
+avec la Société d’Accélération du Transfert Technologique  (SATT Ouest Valorisation) qui permettra de
+démontrer les potentialités industrielles de cette invention déclinée en produit. Pour ce faire, nous utiliserons
+un microcontrôleur sur lequel un set d’instructions spécifiques à la série d’images à acquérir sera chargé puis
+exécuté via une interface utilisateur accessible aux non experts. Dans la phase de prototypage actuelle, le
+premier objectif du stage consiste à créer une modélisation en machine d’états du système d’imagerie et à
+l’utiliser pour générer le code adéquat pour le microcontrôleur. Le second objectif vise à créer un logiciel
+permettant le choix du set d’instruction dans une bibliothèque de tels codes auto-générés et à le particulariser
+avec les spécifications de l’utilisateur, le tout via une interface utilisateur ergonomique.
+Compétences pour le stage
+•                                                                                                                      Machine d’états et/ou diagrammes de flux avec si possible une expérience de leur simulation. Une
+connaissance de simulink ou matlab serait un plus.
+•                                                                                                                      Maîtrise de techniques d’algorithme de base ainsi que d’un langage de programmation  (orientée
+                                                                                                                       objet de préférence) permettant la conception d’interface multiplateformes.
+•                                                                                                                      Très motivé par un environnement multi-disciplinaire, aimant travailler en équipe et capable de
+communiquer professionnellement en anglais.
+Contact: Jacques Pécréaux :jacques.pecreaux@univ-rennes1.fr (pecreaux.openwetware.org)
+Marc Tramier :marc.tramier@univ-rennes1.fr
+IGDR, CNRS UMR 6061 - Faculté de Médecine (Univ. Rennes 1)
+2 avenue du Pr L. Bernard, 35000 Rennes cedex, France
+
+
+
+
+

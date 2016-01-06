@@ -1,0 +1,57 @@
+﻿Consultant stagiaire Sécurité des mobi
+Orange Business Services
+REFERENCE  :  OC/SECU/ST
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4807649
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Paris 75018, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 04/10/2013
+DUREE  :  de 1 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Conseil/Audit)
+FONCTION  :  Systèmes d'informations / télécom (Sécurité)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités. Orange Business Services a
+remporté quatre fois le titre de meilleur opérateur mondial aux World Communication Awards.
+DESCRIPTION DU POSTE  :
+Mission : Développer les connaissances techniques en sécurité sur les mobiles, en particulier
+smartphones et tablettes. Développer une nouvelle approche et de nouveaux outils pour auditer la
+sécurité de ces « devices » dans leur environnement technique.
+Principales activités :
+Dans le cadre de l'offre sécurisation des « Mobile Devices », le stagiaire devra mener à bien les
+activités suivantes :
+• Description de l'environnement technique : Android, iOS, Blackberry, etc.
+• Roadmap des différents éditeurs/constructeurs
+• Extrapolation aux tablettes
+• Lister les solutions techniques de sécurité qui peuvent être pertinente.
+• Tester les outils de sécurisation de l'environnement smartphone les plus communs ou aboutis.
+• Panorama des outils de MDM
+• Tester les vulnérabilités publiques sur les smartphones
+• Faire des scénarios d'attaque utilisables comme démonstrateurs
+• Développer des outils automatiques ou semi-automatiques pour tester le niveau de sécurité de
+
+
+
+
+smartphones ou tablettes.
+• Mettre à jour la méthode d'audit technique (pentest) d'Orange Consulting en fonction des résultats
+précédents pour valider le niveau de sécurité d'un smartphone ou d'une tablette.
+Idéalement les résultats de ce stage pourront être validés par une mission chez un client.
+PROFIL  :
+Diplôme d'Ingénieur (ou niveau universitaire équivalent) formé aux Technologies de l'Information
+et de la Communication.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4807649
+
+
+
+
+

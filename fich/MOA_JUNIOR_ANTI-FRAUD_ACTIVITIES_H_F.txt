@@ -1,0 +1,48 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE MOA JUNIOR ANTI-FRAUD ACTIVITIES H/F EN
+CDI TEMPS PLEIN.
+Date : 07/05/2014
+Référence de l’offre : JD/ITEC/CDI_201-6363264
+Domaine d’activité : Systèmes d'informations / télécom (Consultant / Audit / AMOA)
+Type de contrat : CDI
+Localisation : Paris / Ile de France 75001, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Vos missions seront les suivantes :
+1) Cadrage  : Clarifier les besoins exprimés par les clients à travers l'animation de workshops, la conduite
+d'interviews, Définir les solutions et en évaluer les impacts, consolider l'estimation budgétaire SI des solutions,
+Contribuer à l'analyse de la pertinence économique des solutions, évaluer les risques SI liés aux solutions et
+conseiller et proposer des arbitrages (fonctionnels, budget, délais, …)
+2) Analyse et conception  : Valider les spécifications fonctionnelles avant revues par l'ensemble des acteurs
+impliqués (client, maîtrise d'œuvre, …), Rédiger ou apporter son expertise sur les spécifications fonctionnelles
+complexes
+3) Validation fonctionnelle : Élaborer le plan de validation fonctionnelle, S'assurer de l'identification et de la
+rédaction des cas de tests fonctionnels à partir des spécifications fonctionnelles, S'assurer de la réalisation des
+tests et de l'analyse les résultats
+4) Conduite du changement et accompagnement fonctionnel
+-Valider les supports de formation
+-Définir le plan de formation des utilisateurs
+-Rédiger et faire valider les guides utilisateurs
+-Participer, le cas échéant, à l'évolution des processus métier en apportant son expertise
+-Piloter (gestion des priorités, répartition des tâches, contrôle des résultats) le support fonctionnel de niveau 3
+-Piloter la gestion des évolutions fonctionnelles en collaboration avec le client et la maîtrise d'œuvre
+5) Méthodes et outils : Être force de proposition sur l'évolution des méthodes et outils de son périmètre et Utiliser
+et respecte les méthodes et outils de reporting (dashboard, comités, …)
+6) Support de Production:Assurer une production de qualité, Assurer le support de Production de niveau 1 et 2 et
+Etre en mesure d'analyser les questions ou point de support en autonomie en utilisant les éléments techniques à
+disposition (ex  : base de données).
+Profil recherché :
+Bac+5 en informatique, vous avez idéalement effectué un stage en MOA dans un environnement bancaire. Vous
+avez des connaissances de langage type JAVA, SQL. Anglais courant demandé.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6363264
+
+
+
+
+

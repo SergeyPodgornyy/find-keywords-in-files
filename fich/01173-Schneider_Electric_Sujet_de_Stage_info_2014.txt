@@ -1,0 +1,43 @@
+﻿SUJET DE STAGE
+CONTACT :  Olivier MORIN
+tel :                                                                                                                 + 33 (0)4 76 57 62 92
+e-mail :  olivier.morin@schneider-electric.com
+adresse :  Schneider Electric Industries SAS (Site 38 EQI)
+Power Business/Engineering/Technical Enclosures & Busways
+F-38050 Grenoble cedex 9
+N° SIRET  954 503 439 01719
+Sur la base d’un logiciel existant de calcul électrothermique, développer une
+version prototype incluant de nouvelles fonctionnalités (interface, calcul …)
+Contexte :
+Un logiciel « métier » de calcul électrothermique des armoires électriques basse tension (OKKEN) est
+aujourd’hui utilisé dans les différents centres techniques mondiaux de Schneider Electric afin de supporter nos
+clients dans leur dimensionnement.
+Afin d’étendre son utilisation, de nouvelles méthodes de calculs « simples » et une maquette d’interface doivent
+être testées et implémentées avant une industrialisation par un prestataire informatique spécialisé en 2015.
+Missions :
+A partir de la version existante et de nouvelles spécifications, l’objectif est de développer et tester une version
+prototype incluant :
+-                                                                                                                     de nouvelles fonctionnalités de calcul thermique et électrique pour des configurations spécifiques non
+disponibles aujourd’hui dans l’outil existant
+-                                                                                                                     une nouvelle interface permettant la mise en place rapide et facile d’une série de configuration d’armoires
+interdépendantes ainsi que les fonctions de calcul associées.
+A l’issu du stage le travail réalisé devra être documenté afin de servir de cahier des charges et de base au
+développement d’une version officielle de l’outil.
+Compétence spécifique :
+Connaissance de l’environnement de programmation VISUAL STUDIO
+Notion de Transfert thermique / Notion de modélisation
+Notion d’Electrotechnique
+Anglais
+Durée souhaitée : de 4 mois à 6 mois
+Début souhaité : Avril 2014
+Lieu : Eybens (périphérie de GRENOBLE)
+Indemnité de stage :
+960€ brut par mois (BAC+5)
+600€ brut par mois (BAC+4)
+Envoyer CV + lettre de motivation
+par email ou par courrier
+
+
+
+
+

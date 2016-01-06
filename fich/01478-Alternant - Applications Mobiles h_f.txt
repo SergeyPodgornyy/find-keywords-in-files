@@ -1,0 +1,43 @@
+﻿EXPERIS  EXECUTIVE  RECRUTE  UN/UNE  ALTERNANT  -  APPLICATIONS  MOBILES  H/F  EN
+APPRENTISSAGE/ALTERNANCE DE 12 À 24 MOIS.
+Date : 25/07/2014
+Référence de l’offre : TCU 07-7045909
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Lyon 69006, FR
+Durée du contrat : De 12 à 24 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Experis Executive est un cabinet de recrutement de cadres supérieurs et de dirigeants qui associe évaluation,
+motivation et intégration, grâce au savoir-faire de 35 consultants spécialisés par secteurs et métiers.
+Experis Executive accompagne Agixis dans son recrutement d'un Stagiaire Ingénieur Applications Mobiles en
+Alternance.
+Description du poste :
+L'objectif du stage proposé est de participer à la conception et à la réalisation d'un Framework de développement
+d'applications mobiles en lien avec des fonctions de Back Office.
+Dans ce cadre, Agixis recherche un étudiant intervenant dans différents domaines technologiques : applications
+mobiles, réseaux de communication sans fil, applications Java J2EE.
+Vous travaillez au sein des équipes intégration en charge du développement des solutions de gestion d'équipes
+avec terminaux Android afin de définir un Framework de développement simplifiant l'évolution des applications
+en lien avec le Back Office.
+Encadré par un chef de projet et avec le support des équipes techniques, vous participez à l'ensemble des phases
+du projet :
+* Analyse des technologies,
+* Définition de normes d'ergonomie,
+* Réalisation de composants graphiques et de template d'IHM,
+* Réalisation des frameworks de développement Android et Back Office Java/J2EE
+* Réalisation d'un support de cours et formation des équipes projet.
+Profil recherché :
+Ayant pour objectif d'obtenir un diplôme d'ingénieur, vous recherchez votre prochaine alternance. De formation
+initiale bac+4/5, vous justifiez idéalement d'un premier stage ou d'une première expérience et vous avez envie de
+vous spécialiser sur les technologies Java, Java-J2ee et Java-Androïd.
+Rigoureux, vous avez le sens de l'initiative et vous voulez apprendre pour acquérir de l'autonomie. Dynamique,
+doté d'un excellent relationnel vous avez le sens du service. Vous êtes passionné par les technologies.
+Technologies : JAVA, JAVA J2EE, Web Services, Androïd.
+Pour postuler : http://experis.contactrh.com/jobs/1536/7045909
+
+
+
+
+

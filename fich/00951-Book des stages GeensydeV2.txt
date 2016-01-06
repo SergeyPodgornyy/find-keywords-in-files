@@ -1,0 +1,86 @@
+﻿<
+Offre de Stage
+Autonomie Décisionnelle
+Geensyde                                                                                                         «  Global  Embedded  ENgineering   ­ SYstem  Design   for  Efficiency  »   est   une   société
+d’ingénierie  dynamique  et  en  pleine  expansion.  Pour  accompagner  notre  croissance,  nous  recrutons
+des  stagiaires  de  fin  d’études  dans  une  perspective  d’embauche  à  l’issue  du  stage.  Geensyde  est
+focalisée  sur  la  mise  en  œuvre  d’une  démarche  d’ingénierie  système  globale  pour  la  conception  et
+le  développement  de  systèmes  embarqués  critiques.  Nos  clients  sont  essentiellement  des  grands
+comptes  du  secteur  industriel  :  aéronautique,  ferroviaire,  automobile,  défense  et  spatial.00
+1
+
+
+
+
+Pourquoi nous rejoindre ?
+maine,
+-   Direction  proche  de  ses  collaborateurs,
+-   Turnover  quasi  inexistant,
+Notre  positionnement  de  société  d’ingénierie  :
+-   Focalisation  sur  l’informatique  industrielle  uniquement,
+-   Expertise  des  systèmes  embarqués  critiques,
+-   Positionnement  sur  des  besoins  de  sous­traitance  de  savoir­faire  et  non  de  volume,
+-   Investissement  RDT  :  recherche  et  développement  de  technologies  innovantes  support  à  l’amélioration  des  processus
+d’ingénierie.
+Trajectoire  de  carrière  centrée  sur  la  technique  :
+-   Expert  technique,
+-   Expert  processus  et  outils,
+-   CdP  technique.
+Nos  valeurs  :
+-   Esprit  d’initiative  et  créativité,
+-   Appétence  pour  la  technique,
+-   Goût  pour  l’innovation.
+Des  activités  pointues
+-   Prendre  en  charge  un  problème  à  une  frontière  d’expression  du  besoin  applicatif  et  assurer  le  développement  d’une
+solution  adaptée,  depuis  la  conception  jusqu’aux  tests  et  à  la  validation  à  des  activités  d’innovation  et  de  R&D  :  pôles
+de  compétitivité,  contribution  à  des  standards  internationaux...
+Nous  recrutons  sur  profil  dans  une  démarche  de  pré­embauche.  Notre  choix  portera  avant  tout  sur  des  candidats  ayant  une
+véritable  volonté  de  développer  ou  d’approfondir  une  expertise  d’ingénierie  informatique  industrielle.
+Si  notre  société  et  notre  domaine  d’intervention  rencontrent  votre  adhésion,  postulez  !
+2
+
+
+
+
+Profils recherchés
+Nous  recrutons  des  étudiants  passionnés  par  l’ingénierie  appliquée  à  l’industrie,  et  qui  ont  pour  projet  de
+donner  cette  coloration  à  leur  carrière.
+De  formation  bac  +  5  (majeure  systèmes  embarqués)
+Anglais  requis
+Infos Pratiques
+-   Lieu  :  Versailles
+-   Durée  :  6  mois
+-   Pour  postuler  :  stages@geensyde.fr  (merci  d’indiquer  la  référence  de  l’offre  pour  laquelle  vous  postulez)
+3
+
+
+
+
+Intégration                                                                                                                                         d’algorithmes                                                                d’autonomie
+décisionnelle  H/F
+Ref  :  Geensyde­S­autonomie­décisionnelle
+Contexte  :  L’autonomie  décisionnelle  est  un  sujet  en  pleine  expansion  dans  de  nombreux  domaines  industriels,  notamment
+pour  tout  ce  qui  a  trait  aux  véhicules  autonomes.  Dans  ce  contexte  Geensyde  cherche  à  rendre  plus  accessibles  à  l’industrie
+les  solutions  développées  dans  le  monde  académique  et  prend  part  à  des  projets  de  recherche  et  développement  sur  ce
+sujet.
+Geensyde  travaille  notamment  à  la  mise  au  point  d’une  plate­forme  de  développement  permettant  de  rendre  plus  aisée
+l’intégration  de  solutions  d’autonomie  décisionnelle  dans  les  systèmes  embarqués.
+Objet  du  stage  :  Le  stage  proposé  consiste  à  intégrer  dans  un  environnement  de  développement  le  support  nécessaire  à  la
+mise  en  œuvre  de  solutions  de  programmation  par  contraintes.  Il  s’agira  de  permettre  à  un  utilisateur  sans  connaissance
+particulière  de  ces  techniques  de  pouvoir  les  intégrer  dans  son  système  en  se  concentrant  sur  la  connaissance  métier  qu’il  a
+de  son  problème.
+Une  des  difficultés  consistera  à  trouver  un  juste  équilibre  entre  la  simplicité  de  mise  en  œuvre  d’une  part  et  la  capacité  à
+adresser  des  problèmes  variés  d’autre  part.
+Après  une  phase  de  prise  en  main,  le  stagiaire  concevra  et  réalisera  un  composant  de  programmation  par  contraintes  qui
+sera  ensuite  intégré  à  la  plate­forme  de  développement.
+Compétences  requises
+-                                                                                                                                                   Développement  logiciel  ;
+-                                                                                                                                                   Programmation  par  contraintes  ;
+-                                                                                                                                                   Prolog  ;
+-                                                                                                                                                   Formation  en  informatique  industrielle  bac+5  (profil  informaticien).
+4
+
+
+
+
+

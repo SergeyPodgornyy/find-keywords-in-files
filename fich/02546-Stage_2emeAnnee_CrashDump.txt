@@ -1,0 +1,35 @@
+﻿Développement pour l’outil de debug embarqué « Crash Dump ».
+Dans le contexte de l’outil de « Crash Dump », nous proposons un stage consacré au
+développement des fonctionnalités de collecte, configuration et analyse, de nouvelles
+informations de debug. Les développements seront principalement autour de :
+-                                                                                        Kernel Linux :
+o   Développement d’un outil pour récupérer des informations des zones mémoire,
+au-delà de la mémoire système.
+o   Développement d’une interface pour envoyer la trace du Kernel Linux vers des
+fichiers de debug.
+o   Configuration   d’une   mémoire   partagée   entre   les   différentes   instances
+d’exécution du Kernel, gérées par Crash Dump.
+-                                                                                        Services Linux :
+                                                                                         o   codage d’un outil pour l’échange de fichiers de debug   à travers le réseau.
+                                                                                         Compétences requises:
+-                                                                                        Bonnes bases de programmation dans   C, C++.
+-                                                                                        Bonne connaissance de Linux, en tant qu’utilisateur.
+-                                                                                        Expérience en architecture logicielle, lors des projets académiques
+-                                                                                        Connaissance dans le développement des pilotes Linux et systèmes de contrôle de
+version, (GIT, SVN, etc.) est un plus.
+Durée:
+Stage de deuxième année d’ingénieur en informatique, durée entre 2 et 3 mois.
+Lieu:
+Locaux de STMicroelectronics à Crolles (Isère - France)
+Contact:
+Carlos Prada, email carlos.prada-rojas@st.com
+Sur la société :
+Fondé en 1987, STMicroelectronics est aujourd’hui le premier fabricant européen de
+semi-conducteurs avec plus de 51 000 collaborateurs et est présent dans 36 pays. Nos
+composants sont au cœur de tous les systèmes électroniques de télécommunication,
+informatique, automobile, grand public, cartes à puces, etc.
+
+
+
+
+

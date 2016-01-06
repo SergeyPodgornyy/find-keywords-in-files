@@ -1,0 +1,96 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : MOBILE READY                                                        Adresse : 80, avenue des Buttes de Coësmes
+Domaine d’activité : Service informatique aux entreprises                                 Ville : 35700 Rennes
+Représentant de l’entreprise : Patrick Demellier                                          N° téléphone : 02 99 54 85 38
+Sa qualité : Président / CEO                                                              N° fax :
+N° de Siret : 80152970200012                                                              Site Web : http://mobileready.io
+N° NAF : 6202A                                                                            Courriel : patrick.demellier@mobileready.io
+Statut Juridique : SAS                                                                    Signataire de la convention :
+Effectif de l’établissement : 3
+Nom de l’encadrant de stage : Patrick Demellier                                           Chargé du suivi administratif : idem
+Sa qualité : CEO                                                                          Sa qualité :
+Service :                                                                                 N° téléphone :
+N° téléphone : 02 99 54 85 38                                                             Email :
+Email :   patrick.demellier@mobileready.io                                                Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : …..………………………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 13 mai 2015
+□ MIAGE                                                                                   13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+ Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                              En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                              16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                             En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                              entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                               entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET DU STAGE :
+Titre du stage proposé : Ingénieur Développement
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Connaissances :                                                                                               Python (frameworks Flask et Nagare), HTML5, CSS, Javascript
+Hébergement :                                                                                                 Hébergement Cloud (Azure, AWS ou AppEngine)
+Les plus :                                                                                                    Java, Android, IOS, Windows Phone
+Sujet proposé détaillé :
+Développement / Evolutions du Front End de la plateforme de test MobileReady.
+Créée en  2014, MobileReady est une startup d’origine rennaise. Plateforme automatisée de test
+d’applications  mobiles,  la  société  propose  ses  solutions  et  son  expertise  à  tous  les  créateurs
+d’applications pour smartphones et tablettes.
+Au sein de cette équipe en pleine croissance, le stagiaire pourra mettre en avant ses capacités
+techniques, mais aussi son autonomie, sa force de proposition et sa rigueur, dans la réalisation de
+ses projets.
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                                 Nom de l’Etudiant :
+Modalités de versement :                                                                                      Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition : 15/01/2015
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

@@ -1,0 +1,63 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉV FULL STACK JAVASCRIPT - 360 LEARNING EN STAGE DE 6
+À 12 MOIS.
+Date : 13/01/2015
+Référence de l’offre : devfullstack-8576378
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 8e 75008, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+ATTENTION AUCUNE CANDIDATURE NE SERA TRAITEE EN DEHORS DU LIEN SUIVANT :
+http://www.ajstage.com/offre/Developpeur-Full-Stack-JavaScript-chez-360Learning
+360Learning est la solution e-learning pour les organisations en croissance.
+Grâce à 360Learning, entreprises et organismes de formation maîtrisent les nouvelles technologies en matière
+de formation digitale pour atteindre leur objectif de croissance et de performance.
+Plus de  500 organisations utilisent  360Learning pour créer et diffuser leurs formations  : HEC, Orange,
+MMA, SCNF, Havas, Sodexo, Nespresso, Crédit Agricole, Essilor, Hermès, Michel et Augustin.
+Financée  par  le  fonds  d'investissement  ISAI                                                                      -  Pierre  Kosciusko  Morizet,  Jean-David  Chamboredon
+(fondateur du mouvement des #pigeons), en pleine croissance, 360Learning et régulièrement citée parmi les
+meilleurs startups françaises qui vendent aux entreprises.
+Pour en savoir plus sur notre culture d'entreprise: https://www.swipe.to/9266s
+360Learning recherche un développeur JavaScript qui sera amené à progresser rapidement sur les différents
+frameworks utilisés dans le développement de notre web app (cf. liste ci-dessous), et amené à accompagner à
+terme l'évolution de l'équipe de développement en prenant un rôle de cadre.
+360Learning a une forte culture des responsabilités et vous serez donc amené à produire dès le premier jour
+des fonctionnalités qui seront mises en production et utilisées par les clients. En savoir plus sur notre culture :
+http://www.swipe.to/5618x
+Dans  une  startup  dynamique  de                                                                                     15  personnes,  en  pleine  croissance,  vous  rejoignez  l'équipe  de
+développement (3 personnes, 3 recrutements en cours). Vous êtes motivés, et ambitieux.
+Ce poste est ouvert en CDD, CDI.
+Profil recherché :
+Expérience / connaissance préalables souhaitées :
+Client side:
+Vous êtes déjà familier de :
+jQuery
+Un au moins parmi: Angular, backbone, underscore, gwt, google closure.
+Un outil de template (de préférence mustache, handlebar ou twitter bootstrap)
+Serveur side:
+
+
+
+
+(facultatif) Vous avez déjà travaillé avec :
+Une base de données non relationnelle
+Une appli métier avec des workflows, des alertes / des envois de mail, vendue en B2B
+Node.js
+Mongodb
+Et idéalement :
+Avoir commandé administré un serveur dédié
+Avoir utilisé Amazon web service (pour des serveurs ou autre)
+Idem rackspace
+Avoir utilisé un IaaS / PaaS quelconque, pour faire un site que l'on peut encore visiter
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8576378
+
+
+
+
+

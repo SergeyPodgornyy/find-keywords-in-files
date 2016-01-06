@@ -1,0 +1,90 @@
+﻿Sujet de stage « Développement d’une extension « réseaux sociaux vers SAML »
+pour le service national Comptes Réseaux Universels »
+Mots clef
+Middleware, sécurité, Single Sign On, intégration, SAML, fédération d’identités, Shibboleth, CAS,
+Single Log Out, Java, Eclipse, SQL, Maven, XML, SVN / GIT, OAuth
+Contact
+GIP RENATER
+CRI - Campus de Beaulieu
+263, Avenue du Général Leclerc - CS74205
+35042 Rennes Cedex
+Mehdi Hached : mehdi.hached@renater.fr - 02 23 23 69 38
+Contexte du projet
+RENATER, Réseau National de télécommunications pour la Technologie l’Enseignement et la
+Recherche,  a  été  déployé  au  début  des  années                                                       90  pour  fédérer  les  infrastructures  de
+télécommunication  pour  la  recherche  et  l’éducation.  Afin  de  mener  à  bien  cette  action,  le
+Groupement d’Intérêt Public RENATER a été constitué en janvier 1993. Le GIP RENATER assure
+la maîtrise d’ouvrage du réseau RENATER et est constitué d’une cinquantaine de personnes. Il
+apporte également support et expertise dans les domaines réseau, sécurité et middleware. Ses types
+d'intervention  sont  multiples                                                                           :  formation,  conseil,  mise  en  œuvre  de  services  nationaux,
+participation à des projets européens, développement de logiciels. Le GIP a une antenne à Rennes
+composée d’une dizaine de personnes, basée à la Direction des Systèmes d’Information (DSI) de
+l'Université de Rennes 1.
+Le GIP RENATER opère également une infrastructure nationale de fédération d’identités  (la
+Fédération Education-Recherche https://federation.renater.fr) à destination des universités et des
+établissements de Recherche. Son standard sous-jacent est SAML. La fédération d'identités
+permet de simplifier et sécuriser les connexions à des services Web dont l'accès est contrôlé :
+plates-formes d'enseignement à distance, portails documentaire, applications métiers... Elle répond
+bien aux besoins de mutualisation entre organismes, aux problématiques de nomadisme et facilite le
+respect de la loi “Informatique et libertés”.
+Dans  ce  contexte,  RENATER  opère  un  fournisseur  d’identités  appelé                                 « Comptes  CRU »
+(https://cru.renater.fr) qui permet à des utilisateurs non rattachés à des établissements ayant déjà un
+fournisseur d’identités d’accéder à certaines ressources de la communauté d’enseignement supérieur
+et de la recherche. Les « Comptes CRU » permettent la création libre d’un compte qui est validé par
+un « email challenge » permettant de s’assurer que l’utilisateur est bien propriétaire de l’adresse
+email associée à ce Compte. Plusieurs utilisateurs aimeraient pouvoir associer directement leur
+compte social existant (Facebook, Windows Live ID, Yahoo!, PayPal…) à un « Compte CRU »
+afin d’éviter la création d’un couple login/password supplémentaire. C’est ce qu’on appelle une
+passerelle Social2SAML.
+Le  logiciel  Shibboleth                                                                                  (http://shibboleth.net)  est  un  logiciel  open  source  implémentant  des
+fonctionnalités de fournisseur de service (SP) et de fournisseur d’identités (IdP) SAML. C’est sur
+
+
+
+
+cette  brique  technique  qu’est  principalement  basé  le  fournisseur  d’identités                     « Comptes
+CRU ». Ce logiciel est développé par le consortium Shibboleth dont RENATER est membre et est
+utilisé par un nombre important d’universités et instituts de recherche à l’échelle internationale. Le
+logiciel IdP Shibboleth qui nous concerne dans le cadre de ce stage est développé en Java basé sur
+le framework Spring.
+Objectifs du stage
+Le stage sera organisé en plusieurs étapes :
+Étude préliminaire des technologies de la fédération d’identités et des mécanismes de
+mise en proxy de l’authentification aux Comptes CRU
+Le  stagiaire  devra  étudier  les  différentes  technologies  permettant  de  mettre  en  proxy
+l’authentification des  « Comptes CRU ». Il explorera également le protocole sous-jacent de la
+fédération d’identités SAML 2 Core Specs afin de rédiger les spécifications du développement
+envisagé. Les spécifications et le développement devront comporter une étude de risque sur la
+sécurité des différents couplages Social2SAML.
+Développement des extensions
+Suite à l’étude et à la rédaction des spécifications, le stagiaire devra développer un certain nombre
+de modules en proxy. Selon l’ampleur de la tache le stagiaire devra traiter en priorité les module les
+plus utilisés à savoir Facebook, LinkedIn et Yahoo!. Le développement se fera en s’appuyant sur la
+forge Sourcesup (plateforme SVN/GIT).
+Test, validation et déploiement au sein du SI du GIP
+Le stagiaire devra tester rigoureusement les couplages développés sur un service « Comptes CRU »
+de test. Si le développement est validé, une phase de déploiement en béta-test pourra être faite avant
+la fin du stage.
+Documentation  d’exploitation et de support
+Suite aux développements, le stagiaire devra documenter son travail dans une documentation
+d’exploitation du service ainsi enrichi. Une documentation de support, expliquant le fonctionnement
+à l’utilisateur final devra également être rédigée.
+Les encadrants pourront assister le stagiaire dans les choix de développement.
+Profil souhaité
+Étudiant en master 1 ou équivalent en informatique.
+Pré-requis : programmation (Java, XML, Maven, SVN ou GIT, MySQL), aptitude à rédiger de la
+documentation, maîtrise de l'anglais écrit, connaissance des technologies web, connaissances en
+sécurité Web (certificats, signatures, chiffrements, redirections Web…).
+Conditions matérielles et déroulement du stage
+Le stage se déroulera au sein de l’antenne rennaise du GIP RENATER basée dans les locaux de la
+Direction des systèmes d’information de l’Université de Rennes 1. L’encadrement sera assuré par
+un des opérateurs de la fédération Education-Recherche. Le stagiaire pourra également s'appuyer
+sur les compétences des autres membres de l'équipe du GIP à Rennes.
+Environnement : poste de travail et serveurs sous Linux.
+Durée du stage : de 3 mois à 4 mois.
+Indemnisation : 1105€ Brut mensuel
+
+
+
+
+

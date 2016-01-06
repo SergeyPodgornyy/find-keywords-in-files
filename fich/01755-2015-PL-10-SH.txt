@@ -1,0 +1,52 @@
+﻿Offre de stage                                                                                    2015 - PL - 10 - SH
+
+Développement d’une application Web et Desktop d’édition avancée de conditions de
+Sujet
+déclenchement d’actions
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision par
+satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet, Thomson
+Video Networks  offre  à ses clients  - des opérateurs  de réseaux, des  fournisseurs  de
+contenus ou des opérateurs Pay-TV -  la diffusion d’une qualité vidéo supérieure vers tous
+Entreprise
+types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ  500 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+4 à 6 mois à partir de
+Lieu / Site                                                                                       Rennes                                                                                      Période / Durée
+février/mars 2015
+Contexte :
+Missions                                                                                          Développement logiciel au sein de l’équipe Network Management System chargée de
+développer les produits XMS/XMU d’exploitation et supervision des systèmes de diffusion
+de TV numérique.
+Sujet de stage :
+Conception et développement d’une application visant à éditer / sauvegarder / charger des
+conditions  complexes  de  basculement  de  redondance  automatique  d’équipements                -
+conditions essentiellement basées sur les alarmes et statuts remontés par ces équipements.
+Ces conditions sont actuellement exprimées dans un fichier xml. Le stage inclut l’étude
+d’une extension à d’autres types d’actions que les basculements de redondance.
+L’application se déclinera en une version Web et une version Desktop lancée depuis les
+applications utilisateurs existantes (Java) du produit XMS.
+Le stage inclut la validation de l’application dans l’environnement réel du système.
+Environnement de travail :
+UML
+Architecture Orientée Services (JSON, REST)
+Serveur : Tomcat, Java (sous Eclipse), XML, Spring
+Client Web : HTML5, CSS3, JavaScript, AngularJS
+Gestion de configuration CVS/SVN
+Méthode AGILE
+Ingénieur en informatique.
+Profil                                                                                            Ouverture d’esprit, fortes capacités d’initiative et de proposition. Curieux et autonome.
+Gout prononcé pour la conception d’interfaces homme-machine conviviales et
+ergonomiques.
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    sandra.heligon@thomson-networks.com
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

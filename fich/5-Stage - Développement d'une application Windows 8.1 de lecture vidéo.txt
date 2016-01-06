@@ -1,0 +1,39 @@
+﻿Stage - Développement d’une application Windows 8.1 de lecture vidéo
+Société de conseil en technologies de plus de 4 200 personnes, SII est structurée autour d'un réseau d'agences à taille
+humaine. Depuis plus de 30 ans, notre réussite est fondée sur une culture d'entreprise forte et des valeurs reposant
+sur la proximité et la confiance.
+L'agence de Rennes, située au cœur de la technopole Rennes-Atalante, compte déjà plus de 480 collaborateurs et
+prévoit de recruter plus de 50 personnes sur 2013 sur les secteurs des télécoms, de l'industrie et des services.
+Contexte du stage :
+Au  sein  de  notre  entité  Delivery  et  encadré  par  un  Scrum  Master,  nous  recherchons  un  stagiaire  pour  le
+développement  d’une  application  Windows  8.1  de  lecture  de  vidéos.  Cette  application  viendra  compléter  une
+application Web déjà existante.
+Le stage se déroulera en deux étapes :
+Avec le support de l’équipe projet, le stagiaire réalisera dans un premier temps une montée en compétence sur
+l’application  Web  existante,  à  travers  des  tâches  d’optimisation  et  d’outillage.  Cette  montée  en  compétence
+permettra une meilleure appréhension du projet et des enjeux relatifs à l’application Windows 8.1.
+Dans un second temps, il s’agira de développer l’application Windows 8.1. L’objectif sera double. Il faudra démontrer
+la réutilisabilité du code métier existant pour l’application Web d’un côté. Et de l’autre, il faudra démontrer une
+créativité sur l’interface utilisateur proposée pour Windows 8/8.1. La cible première sera l’usage sur PC mais devra
+intégrer les fonctionnalités tablette (gestion des interfaces tactiles notamment).
+Technologies mises en oeuvre :
+JavaScript et JSON , Outillage d’un projet JavaScript, paramétrage serveur Web (Apache, NodeJS), Maven / Jenkins,
+Sonar, HTML, CSS, Visual Studio...
+Formation souhaitée :
+Ecole d’Ingénieurs ou Master 2 en informatique
+Profil souhaité :
+Nous recherchons un candidat autonome, force de proposition et méthodique qui a idéalement eu l’occasion de
+travailler autour des différentes technologies citées lors de ses précédents stages.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en fonction des exigences de
+votre école.
+Si vous souhaitez répondre à cette offre, merci de nous adresser votre candidature à : drh-ouest@sii.fr
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees"  2013/2014 pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                                                1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite préalable de SII.   Usage interne SII
+
+
+
+
+

@@ -1,0 +1,50 @@
+﻿ATOS RECRUTE UN/UNE STAGE ARCHITECTURE J2EE FRONT END EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175972-7889377
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Vous intégrez et assistez une équipe de consulting appartenant à la direction technique d'ATS Sud-Est.
+Cette équipe répond aux demandes d'expertises techniques, audits, missions d'accompagnement et conseil,
+très orientées J2EE.
+Afin de répondre à ce niveau d'expertise élevé, nous nous devons de maintenir à jour nos prototypes
+d'architecture N-Tier à l'état de l'art des standards.
+Il  vous  sera  demandé  de  contribuer  à  la  maintenance  du  frontend  de  notre  prototype  ou  à  son
+industrialisation.
+- Vous développez des interfaces graphiques web de différents types : site web, portlet … venant consommer
+les services exposés par le backend (SOAP,REST, …)
+- Vous prenez part aux diverses études clients menée par l'équipe
+- Vous participez aux travaux de recherche et d'étude technique (R)
+- Vous rédigez des rapports/synthèses d'étude (Recommandations, …)
+- Vous participez à des audits pouvant porter sur la qualité ou le respect de normes/standards
+- Vous réalisez des prototypes ou composants J2EE
+Profil recherché :
+De formation minimum Bac + 5 en cours de validation, vous recherchez un stage de fin d'études d'une durée
+de 6 mois.
+Vous êtes spécialisé(e) dans le domaine IHM ou en développement web avec un goût prononcé pour les
+nouvelles technologies et le graphisme.
+Vous êtes mobile, créatif(ve) et avez le sens du travail d'équipe.
+La maîtrise de l'anglais est indispensable.
+Stage de pré-embauche envisageable.
+
+
+
+
+Pour postuler : http://atos.contactrh.com/jobs/1536/7889377
+
+
+
+
+

@@ -1,0 +1,60 @@
+﻿PARIS INCUBATEURS RECRUTE UN/UNE STAGE DÉVELOPPEUR EN STAGE DE 3 À 6 MOIS.
+Date : 23/09/2014
+Référence de l’offre : 2014_04_KWYK-7577162
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75018, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +2
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Paris Région Lab Incubateurs, recrute pour l'une de ses entreprises, Kwyk:
+T'es-tu déjà ennuyé en cours de maths ?
+Nous oui!
+Et nous avons créé un moyen stimulant pour que chaque élève puisse s'entraîner sur des exercices corrigés
+automatiquement et ciblés sur ses besoins.
+C'est un site web d'entraînement en maths pour les élèves au collège et lycée, piloté par leurs profs.
+www.kwyk.fr
+Description du poste :
+Qui sommes-nous ?
+Une start-up, fondée en 2011 par deux centraliens passionnés d'éducation, Kwyk est désormais utilisé par
+3000 élèves dans une douzaine d'établissements.
+Que vas-tu faire ?
+Voici 3 axes de développement auquel tu pourras participer selon tes affinités :
+- Développement d'exercices de maths innovants
+- Détecter statistiquement les lacunes des élèves avec du machine learning.
+- Scaling d'un site web avec des pics de connexion
+De plus, tu pourras choisir d'investir 20% de ton temps dans une mission de ton
+choix. C'est l'occasion de découvrir comment marche vraiment une startup et
+d'avoir un énorme impact sur le produit et nos élèves !
+Compétences techniques à mettre en valeur
+Voici notre stack pour que tu puisses mieux choisir les éléments à mettre en valeur
+dans ton CV:
+- Python/Django
+- Postgresql
+- Git
+- Linux
+Où sommes-nous ?
+Nos bureaux sont situés à Paris, à 5 minutes du métro Marcadet-Poissonniers, dans
+un incubateur à thématique numérique, green-tech et jeux vidéo.
+N'envoyez pas de lettres de motivation s'il vous plait.
+Profil recherché :
+
+
+
+
+Expérience dans le développement web.
+Etudiant ou jeune diplômé d'école ou encore les autodidactes.
+Compétences techniques à mettre en valeur
+Voici notre stack pour que tu puisses mieux choisir les éléments à mettre en valeur
+dans ton CV:
+- Python/Django
+- Postgresql
+- Git
+- Linux
+Pour postuler : http://parisincub.contactrh.com/jobs/1536/7577162
+
+
+
+
+

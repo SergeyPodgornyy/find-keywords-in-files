@@ -1,0 +1,51 @@
+﻿Stage n° 10 du LCE : Modélisation et estimation de l’effet des
+phénomènes de nature aléatoire dans les circuits intégrés.
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+Le  stage  proposé  s’inscrit  dans  le  thème  de  la  conception  des  systèmes  sur  puce
+multiprocesseur sur des technologies silicium avancées. Pour ces technologies, la fiabilité du
+système devient un problème majeur ; les paramètres électriques des transistors tendent à
+dévier de leur valeur initiale au cours du temps à cause de phénomènes physiques internes.
+Une déviation extrême de ces paramètres conduira inévitablement à la panne du système.
+Sur des technologies nanométriques (sub-32nm), ces déviations se produisent par des sauts
+à des instants aléatoires. Pour éviter leur occurrence, des marges de sécurité sont ajoutées
+de manière empirique  (par ex. sur la tension d’alimentation  minimale) au détriment de la
+consommation d’énergie et la performance. Des solutions pour modéliser ces phénomènes
+et les intégrer dans des outils de CAO sont nécessaires. Cela permettra de concevoir des
+systèmes fiables et moins énergivores.
+Dans ce stage, le candidat s’appuiera sur un état de l’art assez exhaustif sur la physique des
+phénomènes de nature aléatoire afin d’identifier les paramètres d’un circuit qui influent sur
+leur comportement. Le candidat proposera ensuite une méthodologie de modélisation de ces
+phénomènes dans un transistor en s’appuyant sur les travaux existants et la théorie des
+processus stochastiques. Enfin, il devra proposer des solutions pour permettre la propagation
+de la déviation des transistors à l’échelle d’un circuit. Cette propagation s’appuiera sur des
+techniques de simulation (Monte Carlo) ou sur des propriétés mathématiques des processus.
+Une preuve de concept avec un outil logiciel tel que Scilab  (ou autre) sera attendu. Une
+thèse est ouverte dans la continuité des travaux de ce stage.
+Profil recherché :
+Niveau demandé :   BAC + 5
+Durée :                                                                                               6 mois
+Compétences :                                                                                         mathématique/physique et programmation C/C++/script (python…)
+                                                                                                      Pièces à fournir :    CV + lettre de motivation + classements
+Contact:                                                                                              Olivier Héron, ingénieur chercheur, Ph.D.
+                                                                                                      olivier.heron@cea.fr
+Laboratoire d’Intégration des Systèmes et des Technologies                                            Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                        Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                              Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

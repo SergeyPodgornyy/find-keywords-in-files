@@ -1,0 +1,49 @@
+﻿Stage  / Cyber Solution de Messagerie Sé
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10222534 TL FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4246259
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +2
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 01/12/2013
+DUREE  :  6 mois
+SECTEUR  :  Industry (Aeronautical/Spatial)
+FONCTION  :  Information systems / Telecom (Development Engineer)
+SOCIETE  :
+EADS est un leader mondial de l'aéronautique, de l'espace, de la défense et des services associés.
+En 2012, le Groupe - qui comprend Airbus, Astrium, Cassidian et Eurocopter - a dégagé un chiffre
+d'affaires de 56,5 milliards d'euros avec un effectif de plus de 140 000 personnes.
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 3 à 6 mois.
+Dans le cadre du développement des services des plateformes d'intégration de Cassidian
+CyberSecurity, l'équipe des moyens transverses cherche à étudier les services à mettre en œuvre
+pour répondre aux besoins opérationnels des équipes d'intégration et de validation de l'entité.
+Cette offre de stage est à pourvoir à compter du 1er Décembre 2013 (sujette à une certaine
+flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Effectuer un recueil de besoins au niveau de la messagerie (cahier des charges), à l'issu duquel
+vous réaliserez une étude des solutions du marché en tenant compte des différents environnements
+et architectures existants,
+- Rédiger un compte rendu détaillé d'analyse, agrémenté d'une étude tarifaire et des ressources
+matérielles nécessaires afin de permettre le choix de la solution à mettre en place,
+- Intégrer la solution retenue et déployer les clients puis fournir de la documentation sur
+l'architecture, la mise en place et l'administration de la solution (client / serveur).
+PROFIL  :
+Compétences:
+- Environnement Linux
+- Environnement Windows (serveur et poste)
+- Administration de système
+- Esprit d'équipe
+- Qualités relationnelles
+
+
+
+
+Anglais: intermédiaire
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4246259
+
+
+
+
+

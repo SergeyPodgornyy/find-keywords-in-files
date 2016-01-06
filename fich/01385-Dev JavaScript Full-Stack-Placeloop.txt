@@ -1,0 +1,58 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉV JAVASCRIPT FULL-STACK-PLACELOOP EN STAGE DE  5 À  6
+MOIS.
+Date : 01/03/2015
+Référence de l’offre : dvjsfsp-6316296
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+Placeloop est une plateforme SaaS permettant la digitalisation des points de vente sur de multiples canaux
+(Email, SMS, Facebook, Twitter, QR-Code, iBeacons, et bien d'autres.)
+Au-delà de cette première brique local, Placeloop travaille au développement d'un nouvel écosystème…
+La plateforme
+Structurée autour d'un cœur applicatif contenant le code métier ainsi que l'intégration aux services tiers, la
+plateforme expose des APIs REST à destination d'applications clientes internes (nos interfaces web, applications
+mobiles) et bientôt externes pour des développeurs tiers, web et mobile.
+Notre stack est principalement basée sur JavaScript avec l'utilisation de Node.js/Express.js côté serveur, et
+Angular.js côté client.
+Nous mettons l'innovation au cœur de notre activité, la tête pleine de projets nous faisons évoluer notre produit de
+façon continue.
+Sous la responsabilité directe du CTO vous serez amené(e) à réaliser les missions suivantes: Conception,
+architecture, développement et maintenance.
+Cœur applicatif
+APIs
+Front end
+Participation au comité produit
+De formation bac+3/5 type école d'informatique, ingénieur ou équivalent universitaire. Vous êtes curieux,
+autonome, passionné par JavaScript et le développement Web, avez une excellente culture d'internet, vous
+souhaitez utiliser votre créativité pour résoudre de vrais problématiques et créer de nouveaux usages dans un
+environnement technique solide et innovant.
+Vous avez l'esprit entrepreneur et voulez vous investir dans un projet qui va changer les usages digitaux et qui
+représente un vrai challenge technique ?
+
+
+
+
+Rejoignez l'équipe de développement de notre plateforme !
+Connaissances requises
+Bonne expérience (projet, stages, freelance…) dans le développement web (toutes technos confondues)
+Bonne expérience (projet, stages, freelance…) en Javascript (Node.js / JQuery / Angular.js ou autres)
+Expérience en base de données NoSQL (MongoDB) un plus !
+Utilisation de GitHub et/ou StackOverflow, un plus !
+MERCI DE POSTULER VIA :
+http://www.ajstage.com/offre/Developpeur-JavaScript-Full-Stack-chez-Placeloop
+Profil recherché :
+Possibilité d'embauche à la fin du stage.
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/6316296
+
+
+
+
+

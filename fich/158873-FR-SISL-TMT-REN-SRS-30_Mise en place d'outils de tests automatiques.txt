@@ -1,0 +1,72 @@
+﻿Mise en place d’outils de tests automatiques application SNMP
+Atos SE (SocietasEuropaea), acteur
+Votre mission
+                                                                                     international des services informatiques
+                                                                                     avec un chiffre d’affaires annuel de 8,8
+Contexte :
+                                                                                     milliards d’euros et 77.000
+Le stage est proposé dans le domaine  « Fullfillment& Assurance  » au sein
+                                                                                     collaborateurs dans 47 pays, fournit à
+des  équipes  projets  du  secteur  «  Network  Management  »  (60  personnes        ses clients du monde entier des services
+environ).
+                                                                                     transactionnels de haute technologie,
+                                                                                     des solutions de conseil, d’intégration de
+Mission :
+                                                                                     systèmes et d’infogérance.
+Le   stage   est   réalisé   au   sein   du   pôle   "Network   Management"   du
+                                                                                     Atos délivre les technologies qui
+Département de Rennes. Ce pôle conçoit et développe des applications de              accélèrent le développement de ses
+supervision  (alarmes), diagnostic et reporting statistiques de réseau dans
+clients et les aide à réaliser leur vision de
+un environnement Intranet / Extranet.                                                l’entreprise du futur. Atos est le
+                                                                                     partenaire informatique mondial des
+Le but du stage est la mise en place d’outils permettant l’automatisation de
+                                                                                     Jeux Olympiques. Le Groupe est coté sur
+tests d’une application de polling d’équipements en SNMP.                            le marché Eurolist de Paris et exerce ses
+                                                                                     activités sous les noms d’Atos, Atos
+Le stage s’effectuera en plusieurs étapes :
+                                                                                     Consulting&Technology Services,
+1.   Prise de connaissance de l’application de supervision
+                                                                                     Worldline et Atos WorldGrid.
+d’équipements selon le protocole SNMP
+                                                                                     Pour plus d’information : atos.net
+2.   Prise de connaissance des outils envisagés pour ces tests : SOAP
+UI, HPQC…
+Ce stage est basé à Rennes
+3.   Définition de la méthodologie pour effectuer les tests (selon leur
+type, la fréquence, …)
+Si ce stage vous intéresse,
+4.   Développement des outils nécessaires pour ces tests
+déposez votre candidature à l’adresse
+5.   Mise en place des tests de l’application de polling SNMP sur la
+suivante :
+plateforme de développement AtoS
+http://fr.atos.net/fr-
+6.   Ecriture de la documentation : manuel d’utilisation, de
+fr/emplois_carrieres/postulez
+maintenance, fiches de tests, …
+                                                                                     Référence du stage : 158873
+Compte tenu de l’aspect expérimental/prototype, le contour du stage sera
+revu régulièrement selon les études et l’avancement avec le responsable du
+stage et les principaux acteurs du programme.
+Qui êtes-vous ?
+Environnement technologique :
+SOAP UI, Groovy (pseudo java), VB script, SVN, Mantis,   …                           De formation Bac+4-5 en informatique
+                                                                                     (Ecole d’ingénieur ou université) en
+                                                                                     cours de validation, vous recherchez un
+Objectifs pédagogiques :
+                                                                                     stage d’une durée de 4-6 mois (dates
+Le   stage   proposé   est   une   excellente   opportunité   pour   intégrer   la
+                                                                                     variables selon l’école). Une
+problématique   de   validation   d’une   application   selon   les   étapes   de
+                                                                                     proposition d’embauche en fin de
+développement d’un projet.
+                                                                                     stage est envisageable, sur le site de
+                                                                                     votre stage, ou, si vous le désirez, dans
+                                                                                     toute autre région dans laquelle AtoS
+                                                                                     recrute.
+
+
+
+
+

@@ -1,0 +1,40 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : Identity Manager
+   Lieu : Rennes                                                                          Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                  Date : 2014-2015
+   Référence : PHL-3                                                                      Rémunération : stage indemnisé
+Sujet :
+Jouve souhaite déployer une solution de gestion des entrées/sorties du personnel dans le
+système d’information du groupe sur la base de procédures automatisées via un workflow.
+Ce projet de stage consiste à :
+   Rédiger un document de spécifications techniques et fonctionnelles sur la
+base d’un cahier des charges fourni par le chef de projet
+   Etudier                                                                                /  Maquetter    une  ou  plusieurs  solutions  techniques  répondant  à
+l’expression de besoins  (Microsoft Forefront Identity Manager, Novel NetIQ,
+autre)
+   Sélectionner en collaboration avec le chef de projet et la direction de la DSI de
+manière  générale,  la  solution  qui  sera  retenue  pour  être  déployée  dans
+
+
+
+
+l’environnement de production du groupe
+   Déployer la solution dans un des deux Datacenter du groupe et l’intégrer avec
+l’écosystème de l’entreprise (Active Directory 2012)
+   Rédiger les différents guides de la solution (guide utilisateur, administrateur,
+manuel d’exploitation)
+Environnement :
+   Windows AD 2012
+Vous    serez    intégré    dans    l’équipe
+Communications Unifiées.
+
+
+
+
+

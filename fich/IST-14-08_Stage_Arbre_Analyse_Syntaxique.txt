@@ -1,0 +1,60 @@
+﻿                                                                                                                                  Proposition de Stage                                            18/10/13
+                                                                                                            Intitulé du stage :   Extension d’un analyseur syntaxique - réf. FORFAITS IST-14-08
+Durée :                                                                                                     6 mois                Date de début :  Mars 2014                                      Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech Technologies - Agence de Rennes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Ce stage s’inscrit dans le cadre d’un projet de R&D d’une durée de 2 ans visant à développer une
+librairie de lancer de rayon en OpenCL qui sera commercialisée au terme du développement.
+Cette librairie a pour but de construire des moteurs de lancer de rayon avec un minimum d’effort.
+L’utilisateur doit seulement fournir quelques briques de base qui sont incluses dans un squelette de
+code générique, ce qui permet d’obtenir un moteur de lancer de rayon GPU fonctionnel.
+C’est lors de cette étape de « branchement » des briques utilisateur dans le squelette de code que
+l’utilisation d’un outil d’analyse syntaxique et sémantique est nécessaire.
+Icone de la librairie Clang
+Objectif général :
+La librairie de lancer de rayon développée par Alyotech contient une première version du module
+d’analyse  syntaxique.  Celui-ci  est  implémenté  selon  une  approche  naïve  basée  sur  l’analyse  de
+chaînes de caractères et l’utilisation d’expressions régulières.
+L’objectif principal du stage est de remplacer le module existant par un module basé sur l’utilisation
+d’un parser et d’un arbre d’analyse syntaxique (Abstract Syntax Tree, ou AST). Plus particulièrement,
+il est demandé d’étudier les solutions existantes qui fournissent de tels outils.
+Les différents points abordés dans le stage seront les suivants :
+L’étude des solutions existantes (LLVM/Clang, Apache Ant, etc.)
+Le parsing de code et l’utilisation d’un arbre d’analyse syntaxique (AST)
+
+
+
+
+Proposition de Stage                                                                                  18/10/13
+L’extension de la grammaire OpenCL afin d’intégrer des éléments de langage spécifiques au
+code source utilisé dans la librairie de lancer de rayon
+La réécriture automatique d’appels de fonctions
+L’agrégation des sources en un code compatible OpenCL
+Exemple d’arbre d’analyse syntaxique
+En fonction de l’avancement des travaux au démarrage du stage, le déroulement du stage pourra être
+légèrement  adapté,  notamment  par  le  développement  d’un  démonstrateur  (interface  graphique)
+permettant de présenter la recompilation du moteur de lancer de rayon à la volée.
+Le stagiaire sera et intégré à l’équipe projet mise en place par ALYOTECH, constituée d’un chef de
+projets et d’un ingénieur de développement.
+Profil recherché :
+
+
+
+
+Proposition de Stage                                                                               18/10/13
+Niveau de formation du stagiaire : Bac + 5 (Ecole d’ingénieur)
+Compétences techniques : programmation informatique (C++,C), théorie des langages.
+Autres :
+Autonomie, méthodologie, esprit d’initiative
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                        02.23.21.11.11   Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

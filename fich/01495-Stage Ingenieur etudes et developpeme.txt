@@ -1,0 +1,58 @@
+﻿CAPGEMINI RECRUTE UN/UNE STAGE INGÉNIEUR ÉTUDES ET DÉVELOPPEME EN STAGE DE 6 À
+12 MOIS.
+Date : 01/09/2014
+Référence de l’offre : TM-M-Stage COJU-7317290
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Suresne 92150, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Le groupe Capgemini est l'un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance.
+En 2013, le Groupe a réalisé un chiffre d'affaires de 10,1 milliards d'euros et emploie aujourd'hui plus de 130 000
+personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+La division Télécom Média de Capgemini est dédiée depuis plus de trente ans au marché des télécommunications
+et des médias. Ses expertises couvrent les domaines du conseil, de l'intégration de systèmes et de l'externalisation
+pour les fournisseurs de services en télécommunications et les entreprises de communication.
+Vos responsabilités:
+En tant que stagiaire ingénieur études et développement  (H/F), vous mettrez en œuvre et développerez vos
+compétences techniques et fonctionnelles en participant aux différentes phases des projets  : spécifications,
+développement, intégration.
+Vous serez susceptible d'intervenir sur une large palette de technologies :
+- Langages objet : Java, C++, C#, PHP ;
+- Technos Web: J2EE, Web 2.0, Ajax, Struts, Webservices, Google Web Toolkit ;
+- Voix sur IP : SIP, VXML, langage naturel ;
+- Technologies Open Source ;
+- Systèmes : Unix/Linux, Windows, ...,
+- Progiciels métier : Siebel, Clarify, BSCS, ComverseOne, Oracle Application, Oracle BRM, Comptel ;
+- Outils de BPM : BPEL, Webmethod,…
+Vous interviendrez sur une de nos offres /expertises :
+* Billing (systèmes de facturation)
+* Data Intelligence
+* Customer Experience
+* Digital
+Profil recherché :
+De formation Bac+ 5,
+-Vous avez acquis des compétences dans la conception et le développement lors de vos études et souhaitez les
+mettre en application sur le terrain ;
+- Vous avez un niveau opérationnel en anglais (présentations écrites et orales) ;
+-Vous êtes volontaire, dynamique et appréciez le travail en équipe.
+Une embauche est possible à l'issue du stage.
+
+
+
+
+Vous souhaitez évoluer vers des postes à responsabilités dans l'architecture technique et/ ou fonctionnelle, ou le
+management de projet ?
+Alors, REJOIGNEZ-NOUS !
+Retrouvez-nous sur facebook.com/capgeminifrance
+Pour postuler : http://capgemini.contactrh.com/jobs/1536/7317290
+
+
+
+
+

@@ -1,0 +1,102 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : DGA Maîtrise de l’Information                                       Adresse : La Roche Marguerite - route de Laillé
+Domaine d’activité : Sécurité des Systèmes d’Information                                  Ville : Bruz
+Représentant de l’entreprise :
+                                                                                          N° téléphone :
+Sa qualité : Ingénieur                                                                    N° fax :
+N° de Siret :                                                                             Site Web :
+N° NAF :                                                                                  Courriel :
+Statut Juridique :                                                                        Signataire de la convention :
+Effectif de l’établissement :
+Nom de l’encadrant de stage : Gurvan Le Guernic                                           Chargé du suivi administratif :
+Sa qualité : Ingénieur                                                                    Sa qualité :
+Service : SSI/IPS/AP                                                                      N° téléphone :
+N° téléphone : 02.90.02.68.30                                                             Email :
+Email : gurvan.le-guernic@intradef.gouv.fr                                                Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : SSI1/IPS/AP …………………………………
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+X Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 13 mai 2015
+X MIAGE                                                                                   13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+X Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                               En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                               16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                              En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                               entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                                entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                             entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé : Modification du noyau Linux à fin de filtrage des interfaces (USB,
+Ethernet, NFC, Bluetooth, Wifi, …)
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) : C, C++, Noyau Linux
+Sujet  proposé  détaillé  :  De  plus  en  plus  d’équipements  sont  conçus  à  partir  de  composants
+génériques  fournissant  différents  services.  Ces  équipements  offrent  alors  une  surface  d’attaque
+(interactions possibles entre l’équipement et un attaquant potentiel) plus grande que nécessaire pour
+le contexte d’utilisation de l’équipement (messages inutiles à l’équipement, mais tout de même traités
+par  l’interface).  Pour  ces  équipements,  le  filtrage  des  interfaces  permet  de  réduire  la  surface
+d’attaque et participe donc à la sécurisation de l’équipement.
+Le but du stage est de développer des hooks/intercepteurs dans les piles de communication du
+noyau linux afin de pouvoir connecter des greffons permettant de filtrer des interfaces (au moins USB
+et Ethernet) du noyau Linux au niveau liaison de donné  (« Data Link Layer  ») et supérieurs. Le
+stagiaire développera également quelques greffons permettant d’enregistrer les trames transitant sur
+ces interfaces et d’appliquer des politiques de filtrage simples (permettant par exemple d’empêcher la
+connexion de claviers sur un port USB).
+Durée : Le stage peut être soit un stage de  3 mois indemnisé, soit un stage de 4 à 6 mois non
+indemnisé (à confirmer).
+Période : entre janvier 2015 et décembre 2015
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle : 436,05                                                                                   €                                                                           Nom de l’Etudiant :
+Modalités de versement :                                                                                                                                                                   Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                         TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                          FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                       www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

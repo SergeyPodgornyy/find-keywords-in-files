@@ -1,0 +1,63 @@
+﻿DIRECTION GENERALE POUR L’ARMEMENT
+ESSAIS EN VOL
+Sujet :
+L’établissement DGA Essais en Vol est en charge de l’expertise, des essais et de la certification
+des aéronefs français militaires et civils. Il développe, au travers de systèmes d’information
+scientifiques, des capacités d’acquisition en temps réel et d’analyse de données de vol d’une part,
+et des moyens d’études en simulation d’autre part. Les systèmes informatiques sont donc au
+cœur de l’activité, leur sécurité est un enjeu majeur. La sensibilité des informations traitées et les
+projets  d'interconnexion  avec  d'autres  systèmes  d'information,  nationaux  et  internationaux,
+conduisent DGA EV à faire preuve d'un haut niveau de sécurité.
+Dans ce cadre, et sélectionné parmi l’ensemble des plates-formes de simulation et des systèmes
+d’acquisition, l’objectif du stage est de conduire une analyse de risque et un audit d’un ou
+plusieurs systèmes, de rédiger les dossiers de sécurité et les plans d’actions pour atteindre les
+objectifs de sécurité de l’établissement. Cette démarche aboutira à l’homologation des systèmes
+considérés.
+Intérêt pour le stagiaire :
+Au-delà  de  la  reconnaissance  d’une  expérience  professionnelle  au  sein  d’un  établissement
+étatique,  DGA  EV  apporte  au  stagiaire  une  connaissance  des  systèmes  d’informations  de
+simulation et  ‘temps réel’, concrétise le déroulement d’une méthode d’analyse de risque et
+permet  d’approcher  l’environnement  aéronautique.  La  mise  en  pratique  des  principes  de  la
+sécurité informatique dans un environnement complexe sera un atout précieux.
+Niveau attendu et domaine de compétence :
+Bac +5 (Master ou école d’ingénieur) dans le domaine de la sécurité des systèmes d'information
+(SSI).
+Profil :
+Bon sens de l'organisation ; qualités rédactionnelles indispensables ; esprit de synthèse.
+Une  connaissance  technique  générale  dans  les  domaines  des  réseaux  et  des  systèmes  est
+suffisante.
+La connaissance d’une méthode d’analyse de risque (EBIOS par exemple) serait appréciée.
+Pré requis :
+Être de nationalité française.
+Durée et période du stage:
+Dès le 1/02/2014 et jusqu'au 30/09/2014.
+Localisation du stage :
+Le stage se déroulera soit à Cazaux (33) soit à Istres (13).
+Gratification et avantages :
+Gratification ;
+Restauration méridienne possible sur le site ;
+Logement éventuellement possible ;
+Le tuteur de stage tient à votre disposition les conditions d’obtention de la gratification, son
+montant et les coûts associés des avantages proposés.
+
+
+
+
+Tuteurs de stage :
+Pour Cazaux :                                     Pour Istres :
+Eric SAPIN                                        Jean Michel PICOT
+Officier de sécurité des systèmes d'information   Officier de sécurité des systèmes d'information
+eric.sapin@intradef.gouv.fr                       jean-michel.picot@intradef.gouv.fr
+Tél 05 57 15 40 41                                Tél 04 42 48 32 62
+Adresse postale :
+DGA Essais en Vol                                 DGA Essais en Vol
+Site de Cazaux                                    Site d’Istres
+BP 10416                                          13808 ISTRES CEDEX
+33164 LA TESTE CEDEX
+Adresse géographique
+Sur la base aérienne 120 à Cazaux (33)            Sur la base aérienne 125 à Istres (13)
+
+
+
+
+

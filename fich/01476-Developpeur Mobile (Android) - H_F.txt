@@ -1,0 +1,37 @@
+﻿INTERACTIVE MOBILITY RECRUTE UN/UNE DEVELOPPEUR MOBILE (ANDROID) - H/F EN STAGE
+DE 3 À 6 MOIS.
+Date : 24/07/2014
+Référence de l’offre : DevDroid20142-7037084
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris 6ème 75006, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Créée en 2012, Interactive Mobility propose des solutions de divertissement digital aux opérateurs de transport et
+d'hospitalité.
+Nos solutions répondent à leurs besoins d'offrir aux passagers des solutions de distractions et d'information.
+L'entreprise est en fort développement et fait partie du Welcome city Lab,  1er incubateur mondial dédié à
+l'innovation dans le tourisme.
+Description du poste :
+Sous la responsabilité du CTO, vous intégrez l'équipe développement front end. Vous serez en charge du
+développement d'un ou plusieurs projets d'application à intégrer dans notre solution. Dans cette optique, vous
+serez amené(e) à :
+* Développer, et faire évoluer certaines applications mobiles en lien avec les souhaits des différents clients.
+(kiosque presse digital, carte géoloc, player vidéo…etc)
+* Travailler en collaboration avec nos partenaires pour l'intégration de certaines technologies et contenus
+(opérateurs télécoms, médias, régies publicitaires)
+* Véritable project leader, votre rôle sera de mener à bien les projets qui vous seront confiés des spécifications
+techniques à la livraison de la solution.
+Profil recherché :
+* Autodidacte ou de formation en informatique.
+* Références sur projets de développement android
+* Des connaissances en C# / ASP.net seraient un plus
+* Vous êtes prêt(e) à vous impliquer dans les projets, et être force de proposition.
+Pour postuler : http://parisincub.contactrh.com/jobs/1536/7037084
+
+
+
+
+

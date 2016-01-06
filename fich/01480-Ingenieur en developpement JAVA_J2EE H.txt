@@ -1,0 +1,42 @@
+﻿BNP  PARIBAS  PERSONAL  FINANCE  RECRUTE  UN/UNE  INGÉNIEUR  EN  DÉVELOPPEMENT
+JAVA/J2EE H EN APPRENTISSAGE/ALTERNANCE 24 MOIS.
+Date : 01/07/2015
+Référence de l’offre : STA2108-7157610
+Domaine d’activité : Systèmes d'informations / télécom (Chef de Projet / MOE)
+Type de contrat : Apprentissage/Alternance
+Localisation : Ile de France 92300, FR
+Durée du contrat : 24 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Avec plus de 16 000 collaborateurs présents dans une vingtaine de pays et près de 123 milliards d'euros d'encours
+gérés, BNP Paribas Personal Finance est le numéro 1 du crédit aux particuliers en France et en Europe. Partenaire
+de référence du monde du commerce, des services, des banques et sociétés d'assurance, BNP Paribas Personal
+Finance est le premier multispécialiste capable d'offrir une gamme complète de crédits aux particuliers. Des
+offres de crédit au service des clients et qui engagent l'entreprise au quotidien.
+Description du poste :
+Vous intégrez le département Décisionnel de la Direction des Systèmes d’Information  (DSI), en charge du
+développement, du déploiement et de la maintenance évolutive des systèmes d'informations décisionnels de BNP
+Paribas Personal Finance, en France et à l’international.
+Au sein de ce département, l'équipe Projet Outils Décisionnelles conçoit et réalise les développements Java /
+J2EE dans le cadre de nouvelles applications Web. Les applications décisionnelles ont pour objectif de fournir
+aux fonctions centrales des outils  :
+- De mesure des performances, de suivi des actions, des risques  ;
+- De diagnostic des situations  ;
+- De communication vers la hiérarchie et les fonctions transverses  ;
+Vous prenez part aux missions suivantes  :
+- Accompagner le client dans l’expression de ses besoins (AMOA)  ;
+- Construire les solutions génériques, évolutives et industrialisées  ;
+- Etre force de proposition sur les axes d’optimisations et d’innovations  ;
+- Prendre en charge la conception, le développement et la mise en production.
+Profil recherché :
+Vous  préparez  une  formation  Bac+4/5,  de  type  école  d’ingénieur  ou  équivalent  universitaire  avec  une
+spécialisation en Mathématiques et/ou Informatique. Expérience : Doté(e) d’un bon relationnel, vous appréciez le
+travail en équipe. Rigoureux(se) et organisé(e), vous faites preuve de bonnes capacités de synthèse.  Enfin, vous
+disposez d’une bonne curiosité intellectuelle et savez prendre des initiatives.
+Pour postuler : http://bnpperfin.contactrh.com/jobs/1536/7157610
+
+
+
+
+

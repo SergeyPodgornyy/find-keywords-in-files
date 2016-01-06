@@ -1,0 +1,63 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  STAGE  EN  ASSISTANCE
+MAÎTRISE  D&#39;OUVRAGE  EN  STAGE  6  MOIS.
+Date  :  01/02/2014
+Référence  de  l’offre    :  ST/SB/ITEC94742­5643146
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Directeur  de
+Projet/MOA)
+Type  de  contrat    :  Stage
+Localisation    :  Paris  /  Ile  de  France  75000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Société  Générale  est  l'un  des  premiers  groupes  de  services  financiers  de  la  zone  euro.
+Parce  qu'il  n'y  a  pas  de  succès  collectif  sans  réussite  individuelle,  de  progrès  d'entreprise
+sans  évolutions  personnelles,  Société  Générale  propose  à  chacun  de  ses  collaborateurs
+une  aventure  professionnelle  épanouissante  et  enrichissante,  qui  respecte  la  diversité  des
+talents  avec  plus  de  159  000  collaborateurs  dans  77  pays.
+Description  du  poste    :
+Votre  stage
+Vous  intégrez  une  équipe  gérant  une  application  de  restitution  des  Analyses  de  Risques  de
+marché.
+Afin  de  réduire  les  coûts  de  livraison  de  l  application,  vous  créez  un  nouvel  outil  de  tests
+de  non­régression.  Vous  aidez  à  définir  les  standards  de  la  nouvelle  stratégie  de  tests
+après  avoir  été  formé  aux  outils  de  tests  existants  et  au  fonctionnement  de  l  application  :
+étendue  du  référentiel  de  test,  cas  de  tests,  seuil  d  acceptance,  etc
+Vous  participez  aussi  aux  projets  d  évolutions  impactant  l  application  et  participez  aussi
+aux  réunions  avec  les  utilisateurs.
+Apport  du  stage
+Ce  stage  vous  permettra  :
+­ d'être  initié  aux  différents  risques  de  marchés  et  à  leur  utilisation
+découvrir  le  quotidien  d  une  maîtrise  d  ouvrage  au  sein  d  une  équipe  applicative
+­ d'être  familiarisé   fonctionnellement  avec  le  système  d  information  d  une  grande  banque
+­  de  contribuer  à  un  projet  international,  avec  des  clients  à  Paris,  NY,  HongKong  et  des
+équipes  de  développements  à  Paris  et  Bangalore.
+Votre  profil
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  école  d'ingénieur  ou  université  avec  une
+spécialisation  en  système  d'information.
+Votre  niveau  d'anglais  est  opérationnel  et  vous  avez  une  bonne  connaissance  du  Pack
+
+
+
+
+Office.
+Vous  êtes  à  l'aise  avec  SQL.
+Vous  possédez  un  esprit  d'analyse  et  une  bonne  capacité  de  synthèse  afin  de  traiter  de
+multiples  informations  et  d'accomplir,  avec  succès,  les  travaux  qui  vous  seront  confiés.
+Vous  bénéficiez  idéalement  des  connaissances  en  VBA  est  un  plus.
+Et  si  c'était  vous?
+Si  votre  CV  est  sélectionné  par  le  recrutement,  vous  rencontrerez  un  opérationnel  pour  un
+entretien  de  motivation.  La  décision  de  vous  recruter  pour  ce  stage  appartiendra  à  ce
+manager.
+Durée  :  6  mois
+Type  :  Convention  de  stage
+Gratifications:  Selon  grilles  Société  Générale
+Profil  recherché    :
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  avec  une  spécialisation  en  système  d'information.
+Votre  niveau  d'anglais  est  opérationnel.Vous  êtes  à  l'aise  avec  SQL  et  VBA.
+Pour  postuler    :  http://socgen.contactrh.com/jobs/1536/5643146
+
+
+
+
+

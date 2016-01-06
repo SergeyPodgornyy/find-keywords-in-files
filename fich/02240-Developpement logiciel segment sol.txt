@@ -1,0 +1,50 @@
+﻿CS  COMMUNICATION  ET  SYSTEMES  RECRUTE  UN/UNE  DÉVELOPPEMENT  LOGICIEL
+SEGMENT SOL EN STAGE 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : ESP/TLS/n°7-8598226
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : TOULOUSE 31500, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Le département Ground Systems Engineering au sein de la Business Unit E-SPACE Geo Information de
+CS-SI à Toulouse, conçoit et développe pour ses clients du secteur spatial (CNES, ESA, Astrium, TAS) de
+nombreux systèmes informatiques pour des programmes spatiaux scientifiques, d'observation de la Terre ou
+de télécommunication.
+Nous travaillons dans les domaines de la Simulation mission, de la Mécanique Spatiale et des Centres de
+Mission et Centres de Contrôle.
+Nous recherchons un stagiaire à partir du mois de février ou mars 2015 et pour une durée de 6 mois. Ce stage
+se déroule au sein du projet pour la DGA « Chaine de programmation CSO » qui assure la programmation du
+satellite CSO d'observation optique de la Terre.
+Vous aurez la responsabilité de l'implémentation de fonctionnalités de programmation de la charge utile du
+satellite. Ces implémentations sont basées sur des algorithmes qui intègrent les spécificités de la plateforme
+satellite, les caractéristiques de l'appareil de prises de vue et les contraintes de communications bord-sol
+(satellite orbite basse héliosynchrone).
+Ainsi, vous participerez à toutes les phases de développement du projet qui sont:
+* Analyse et compréhension du besoin client,
+* Définition des choix de conception,
+* Proposition de solutions technique,
+* Développement des solutions retenues par le client,
+* Validation et livraison du logiciel.
+Ce stage pourra se concrétiser par une proposition d'embauche
+Profil recherché :
+De formation école d'ingénieur (2ème ou 3ème année), ou diplôme universitaire équivalent, vous aimez
+programmer  et  utiliser  les  outils  informatiques  pour  créer  des  logiciels.  Vous  possédez  de  bonnes
+connaissances en C/C++.
+Vous appréciez travailler en équipe. Vous êtes curieux et organisé.
+Des connaissances dans le domaine du secteur spatial serait un plus.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8598226
+
+
+
+
+

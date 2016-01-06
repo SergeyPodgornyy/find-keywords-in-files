@@ -1,0 +1,27 @@
+﻿Stage Développeur H/F
+Forte de son expertise dans les domaines de la collecte de don                                           nées et
+du conseil en élevage, EILYPS, partenaire majeur des éleveu    rs en Ille-
+et-Vilaine, accompagne ses 3600 adhérents au quotidien pou                                               r améliorer
+toujours plus les performances des élevages.
+Missions
+Intégré aux équipes Système d’Informations et Technique-A                                                nimal, votre mission sera de participer
+activement  au  développement  d’une  application  de  gestion  d                                        e  l’alimentation  des  génisses
+laitières, destinée à nos techniciens sur le terrain. Ce pro                                             jet s’inscrit dans une architecture SOA :
+• Elaborer puis développer la nouvelle solution
+• Commenter le développement dans le code source : rédaction des spécificités et réalisation d’un MCD
+• Valider le bon fonctionnement de la solution
+Profil recherché
+• Etudiant en informatique bac+4/5, vous êtes proactif et autonome
+• Excellente maîtrise de l’expression écrite requise
+• Bonnes connaissances des technologies : C#, .net, SGBD (Oracle), IIS, Web Service, Interfaçage (ERP)
+Modalités pratiques
+• Poste basé en périphérie ouest de Rennes
+• Stage temps plein 2 à 3 mois dès que possible
+Candidatures à adresser à :
+• Indemnité de stage légale
+anais.durand@eilyps.fr
+
+
+
+
+

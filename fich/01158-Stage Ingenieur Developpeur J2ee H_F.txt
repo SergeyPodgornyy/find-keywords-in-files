@@ -1,0 +1,66 @@
+﻿STERIA  RECRUTE  UN/UNE  STAGE  INGÉNIEUR  DÉVELOPPEUR  J2EE  H/F  EN
+STAGE  DE  5  À  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  SPT/0114/ABE­5645241
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Vélizy  78140,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Les  20  000  collaborateurs  de  Steria,  répartis  dans  16  pays,  prennent  en  charge  les
+systèmes,  les  services  et  les  processus  qui  facilitent  la  vie  quotidienne  de  millions  de
+personnes  chaque  jour.
+Créé  en  1969,  Steria  est  présent  en  Europe,  en  Inde,  en  Afrique  du  Nord  et  en  Asie  du
+Sud­Est.  Le  Groupe  a  réalisé  un  chiffre  d'affaires  de  1,83  milliard  d'euros  en  2012.  Son
+capital  est  détenu  à  plus  de  20  %(*)  par  ses  collaborateurs.  Steria,  dont  le  siège  social  est
+basé  à  Paris,  est  coté  sur  Euronext  Paris.
+(*):  dont  les  «  SET  Trust  »  et  «  XEBT  Trust  »  (4,15%  du  capital)
+Description  du  poste    :
+En  conséquence  du  fort  développement  de  nos  activités  Transport,  nous  recherchons  un
+ingénieur  étude  et  développement  Java  J2ee  junior  (H/F)  pour  rejoindre  notre
+département.  Nos  projets  à  forts  engagements  de  résultat  sont  ferroviaires,  routiers  et
+aériens.
+En  combinant  pragmatisme  et  innovation,  connaissances  pointues  des  processus  métier  et
+des  technologies,  nous  vous  apportons  les  clés  du  transport  intelligent  avec,  notamment  :
+•  Des  informations  en  temps  réel,  gages  d'un  service  de  meilleure  qualité  pour  les  usagers
+des  transports  routiers,  ferroviaires  ou  aériens,
+•  Des  systèmes  de  transport  plus  sûrs,  grâce  à  des  plans  d'intervention  d'urgence  et  de
+gestion  de  crise,
+•  Des  réseaux  de  transport  urbain  plus  écologiques  et  économiques,
+•  Une  gestion  et  une  maintenance  améliorées  des  ressources,
+•  Des  transports  ferroviaires  transfrontaliers  plus  fluides,  via  la  surveillance  du  réseau
+ferré  européen.
+Nous  sommes  reconnus  pour  l'excellence  de  nos  services  et  nos  partenariats  durables  avec
+nos  clients.  Il  est  à  noter  que  95  %  de  nos  clients  nous  renouvellent  leur  confiance.
+
+
+
+
+Dans  le  cadre  de  votre  mission  vous  intégrez  l'équipe  projet  et  travaillerez  en  interface
+avec  l'ensemble  de  l'équipe  projet.
+­                                                                                                           Rédaction  de  spécifications  techniques,
+­                                                                                                           Contribution  à  la  rédaction  des  dossiers  de  conception  ,
+­                                                                                                           Réalisation  et  développement  applicatif,
+­                                                                                                           Tests  et  validation,
+­                                                                                                           Participation  à  la  rédaction  des  manuels  d'installation  et  d'exploitation  des
+modifications.
+Ingénieur  en  informatique,  vous  rechercher  une  expérience  en  Java  J2ee,  une  première
+expérience  ou  des  connaissances  sont  souhaitables.
+Des  connaissances  dans  les  technologies  suivantes  sont  souhaitables  :
+Spring,  EJB,  JSP,  Servlet,  JBoss,  Tomcat,  Eclipse,  Struts,  Hibernate
+Pour  ce  poste  offrant  de  réelles  possibilités  d'évolution,  vous  devrez  faire  preuve  de
+rigueur,  d'autonomie,  d'une  bonne  capacité  d'organisation  et  d'un  sens  aigu  de  la  qualité  et
+du  service  client.
+Profil  recherché    :
+Vous  intégrez  l'une  des  10  premières  ESN  en  Europe  et  profitez  de  l'expérience  de  Steria
+auprès  de  ses  clients  Grands  Comptes.
+Nos  opportunités  de  carrières  sont  ouvertes  à  tous.
+Pour  postuler    :  http://steria.contactrh.com/jobs/1536/5645241
+
+
+
+
+

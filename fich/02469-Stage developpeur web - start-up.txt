@@ -1,0 +1,70 @@
+﻿ARIA RECRUTE UN/UNE STAGE DÉVELOPPEUR WEB - START-UP EN STAGE DE 3 À 6 MOIS.
+Date : 15/04/2015
+Référence de l’offre : E4201-9407012
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : Paris 75007, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+ARIA est la référence du recrutement de stagiaires, apprentis et jeunes diplômés en France.
+www.aria-recrutement.com
+Nous proposons aux étudiants et aux jeunes diplômés des stages et des CDI dans des startups, des PME ou
+des grands Groupes dans tous les secteurs d'activité.
+ÉTUDIANTS
+Trouvez le stage idéal (césure ou fin d'études), conforme à votre formation, en France ou à l'étranger.
+Vous cherchez un apprentissage ? Nous avons des offres qui correspondent à votre profil.
+JEUNES DIPLÔMÉS
+Vous êtes jeune diplômé ou avez entre 1 et 3 ans d'expérience professionnelle ?
+Vous cherchez votre premier emploi ou vous souhaitez rejoindre une nouvelle entreprise ?
+Dynamisez votre recherche, trouvez votre CDI idéal et accélérez votre carrière grâce à ARIA.
+Nos clients sont des startups, des PME et des grands groupes.
+Nos spécialisations :
+* Web / e-commerce
+* Ingénieurs
+* Finance Comptabilité
+* Commercial
+* Informatique
+* Logistique Achats
+* Industrie
+* Juridique Fiscal
+* Marketing
+* Communication
+* Immobilier
+* Banque
+* Assurance
+* Ressources Humaines
+* Sciences / Pharma
+* Profils internationaux
+Consultez nos offres | Déposez votre cv :
+www.aria-recrutement.com
+Description du poste :
+La société édite un portail immobilier spécialisé dans la location de bureaux visant à changer les usages du
+secteur en valorisant la donnée (Datavisualisation, Algorithme Big Data, Machine learning).
+Missions:
+- Développement des interfaces (PHP, HTML 5)
+
+
+
+
+- Développement des flux et d'une API ( JSON)
+- Mise en place d'optimisations de code orientées SEO
+- Intégration d'un design responsive en CSS (BootStrap)
+Profil recherché :
+- Un stagiaire développeur Web (PHP, , CSS, HTML 5,, Javascript, JQuery).
+Vous êtes créatif, passionné par l'informatique et les technologies émergentes, intéressé par le fait de
+rejoindre une start up en plein développement. Vous disposez d'une première expérience concrète de
+développement.
+Vous avez un profil et pas seulement un joli CV, vous êtes intéressant(e) et pas uniquement un ingénieur en
+devenir.
+Technologies Front : PHP, CSS, HTML, Smarty, JQuery, Javascript, BootStrap , SQL, Applications ou
+versions mobiles,
+Technologies Big data: MongoDB
+Envoyer vos candidatures à arnaud@aria-recrutement.com
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9407012
+
+
+
+
+

@@ -1,0 +1,64 @@
+﻿KER4-ODS-2013-001-IE-0.01                                                                                  Offre de stage
+14/10/2010                                                                                                 Evaluation d'outils d'Ingénierie des Exigences
+  Offre de stage
+KEREVAL, laboratoire de test, spécialisé dans la qualification de composants, solutions et architectures
+logicielles, propose de rejoindre son équipe pour le sujet de stage suivant :
+Intitulé du stage                                                                                          Description
+                                                                                                           KEREVAL dispose aujourd’hui d’une forte expertise dans
+Evaluer les outils d’Ingénierie des Exigences et retenir
+                                                                                                           le métier du test. Un des fondamentaux du processus de
+l’outillage support répondant aux besoins de KEREVAL
+                                                                                                           test est la traçabilité vers les exigences pour afficher la
+Objectifs                                                                                                  couverture de tests. Cela nécessite donc une bonne
+                                                                                                           maîtrise du processus d’Ingénierie des Exigences.
+1.   Mettre en place un référentiel des critères
+d’évaluation des outils d’Ingénierie des
+                                                                                                           KEREVAL s’est investi dans la définition, la mise en
+Exigences
+                                                                                                           place et la formation d’un processus d’Ingénierie des
+2.   Identifier la liste des outils pouvant répondre aux
+                                                                                                           Exigences. KEREVAL souhaite maintenant proposer un
+critères définis
+                                                                                                           outillage support au processus d’Ingénierie des
+3.   Evaluer les outils
+Exigences. Cela comprend :
+4.  Mettre en place l’outillage retenu pour répondre
+aux besoins de KEREVAL
+L’outillage pour la gestion du référentiel des
+exigences (points de vue, bases de référence,
+A qui s’adresse cette offre ?
+gestion des changements, traçabilité)
+Profil ingénieur avec des compétences en processus de                                                      L’outillage de développement/formalisation des
+développement, idéalement modélisation                                                                     exigences (collecte, langage restreint, modèle de
+                                                                                                           formalisation, modélisation, model checking)
+Période et durée
+                                                                                                           Le travail à réaliser par le stagiaire consiste à :
+Dès que possible, pour une durée minimum de 6 mois
+                                                                                                           Identifier le besoin en outillage support
+Environnement
+                                                                                                           Définir un référentiel d’évaluation des outils
+Environnement lié à l’Ingénierie des Exigences                                                             Evaluer les outils (gestion et développement des
+comprenant la gestion et le développement des                                                              exigences)
+Exigences (avec les aspects modélisation)                                                                  Mettre en place la solution retenue pour
+                                                                                                           l’outillage d’Ingénierie des Exigences
+Identifiant du stage
+                                                                                                           Etablir le référentiel de prise en main
+                                                                                                           (documentation installation, administration et
+                                                                                                           utilisation, formation utilisateur, etc.)
+KER4-ODS-IE-2015-03
+Le stagiaire sera intégré dans l’équipe qui travaille sur les
+aspects Ingénierie des Exigences et prendra en compte
+de réelles contraintes industrielles.
+Contact
+SAS KEREVAL
+4 rue Hélène Boucher
+Z.A Bellevue
+35 235 THORIGNE FOUILLARD
+Tél : 02 23 20 36 64
+stage@kereval.com
+4-Confidentiel (personnel)                                                                                 Document validé                                               Page 3 / 3
+
+
+
+
+

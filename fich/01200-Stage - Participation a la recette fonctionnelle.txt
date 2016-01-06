@@ -1,0 +1,72 @@
+﻿SOPRA  GROUP  RECRUTE  UN/UNE  STAGE  ­  PARTICIPATION  À  LA  RECETTE
+FONCTIONNELLE  EN  STAGE  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  STAGE/ISSFAPS/ORL/4220288­5712125
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Télécom)
+Type  de  contrat    :  Stage
+Localisation    :  Orléans  45000,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Sopra  Group,  acteur  majeur  du  conseil,  des  services  technologiques  et  de  l'édition  de
+logiciels  en  Europe,  accompagne  ses  clients  dans  la  réussite  de  la  transformation  de  leurs
+métiers  et  de  leurs  systèmes  d'information.  Combinant  valeur  ajoutée  et  innovation  dans
+les  solutions  apportées,  qualité  industrielle  et  performance  des  services  délivrés,  Sopra
+Group  est  le  partenaire  de  référence  des  grandes  entreprises  et  organisations  qui
+recherchent  le  meilleur  usage  du  numérique  pour  assurer  leur  développement  et  leur
+compétitivité.  Sa  filiale,  Sopra  Banking  Software,  est  un  éditeur  leader,  spécialisé  dans
+les  solutions  applicatives  pour  le  marché  financier.  Le  Groupe  compte  plus  de  15  000
+collaborateurs  et  a  réalisé  un  chiffre  d'affaires  2012  de  1  217  millions  d'euros.  Sopra
+Group  (SOP)  est  coté  sur  NYSE  Euronext  Paris  (Compartiment  B)  -  Code  ISIN:
+FR0000050809.  Pour  plus  d'informations,  retrouvez­nous  sur  www.sopragroup.com.
+Au  sein  de  Sopra  Group,  vous  êtes  rattaché(e)  à  la  Division  Assurances  et  Protection
+Sociale  qui  regroupe  500  collaborateurs  et  intervient  sur  les  grands  projets  de
+transformation  des  SI  de  nos  clients,  principaux  acteurs  du  marché.  Nous  offrons  notre
+expertise  des  processus  métier  (GRC,  BPM,  BI)  et  accompagnons  nos  clients  grands
+comptes  dans  leurs  évolutions  aux  travers  des  activités  de  Conseil  et  d'intégration  de
+systèmes  et  solutions.
+Description  du  poste    :
+Mission
+Au  sein  de  notre  centre  de  compétences  Assurance  et  Protection  Sociale,  vous  serez
+rattaché(e)  à  notre  cellule  de  qualification  et  participerez  à  toutes  les  phases
+fonctionnelles  du  projet.  Vous  interviendrez  de  la  conception  des  plans  de  tests  jusqu'à  la
+réalisation  de  la  qualification  finale  avant  livraison.  Vous  participerez  également  à  une
+mission  d'Assistance  à  Maîtrise  d'Ouvrage  (AMOA)  pour  la  production  des  spécifications
+détaillées  et  contribuerez  au  processus  de  validation  fonctionnelle  des  projets  et  des
+maintenances  (évolutions/incidents)  avant  livraison  au  client  pour  recette  ou  mise  en
+production.
+Vous  serez  ainsi  associé(e)  à  toutes  les  phases  du  projet  :
+
+
+
+
+­ compréhension  et  traduction  des  besoins  fonctionnels
+­ définition  des  plans  de  tests
+­ réalisation  des  tests
+­ diagnostic  et  remontée  des  anomalies
+Intérêt  du  stage
+­ participer  aux  phases  fonctionnelles  d'un  projet  d'évolution  du  système  d'information
+d'un  acteur  majeur  dans  le  domaine  des  assurances  ou  de  la  protection  sociale
+­ découvrir  le  quotidien  d'une  équipe,  la  gestion  d'un  projet,  les  méthodes  et  outils  Sopra
+Group
+­ découvrir  le  métier  de  la  qualification  et  de  la  recette,  dans  une  perspective  d'évolution
+vers  les  missions  d'assistance  à  la  maitrise  d'ouvrage
+­ acquérir  des  compétences  métier  en  assurance  et  protection  sociale
+Environnement  technique
+Quality  Center,  environnements  techniques  Java  J2EE.
+Environnement  humain
+Vous  serez  encadré(e)  par  un  Chef  de  Projet  et  accompagné(e)  par  un  tuteur  durant  toute
+la  durée  de  votre  stage.
+Profil  recherché    :
+Actuellement  en  dernière  année  école  d'ingénieurs  ou  M2  informatique,  vous  avez  le  sens
+du  service  et  vous  souhaitez  approfondir  vos  connaissances  dans  les  métiers  de
+l'assurance,  la  retraite  et  la  prévoyance.
+Vous  possédez  des  qualités  rédactionnelles,  vous  êtes  autonome,  rigoureux(se)  et  vous
+avez  un  esprit  d'analyse  et  de  synthèse.
+Pour  postuler    :  http://sopra­group.contactrh.com/jobs/1536/5712125
+
+
+
+
+

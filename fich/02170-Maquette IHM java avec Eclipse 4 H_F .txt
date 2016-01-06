@@ -1,0 +1,34 @@
+﻿CS COMMUNICATION ET SYSTEMES RECRUTE UN/UNE MAQUETTE IHM JAVA AVEC ECLIPSE
+4 H/F EN STAGE 6 MOIS.
+Date : 12/01/2015
+Référence de l’offre : ESP/TLS/n°4 -8567281
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31506, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+L'objectif du stage est l'étude et la réalisation d'une maquette pour définir l'IHM d'un atelier d'ingénierie de
+données.
+En partant de l'analyse et de l'expérience d'un atelier existant  (BEST), le candidat devra identifier les
+améliorations ergonomiques et graphiques afin d'en rendre l'utilisation plus confortable et agréable.
+La solution devra prendre en compte l'exigence de modélisation et visualisation de gros volumes de données
+et la séparation de la couche graphique du modèle de données.
+Le choix technique retenu pour la réalisation est la réalisation d'un « renderer » basé sur la technologie «
+javafx » au sein d'une application Eclipse 4.
+Profil recherché :
+Ecole ingénieur ou équivalent universitaire (BAC+5), vous avez des connaissances en Java et Eclipse 4.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8567281
+
+
+
+
+

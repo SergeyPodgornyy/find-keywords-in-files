@@ -1,0 +1,41 @@
+﻿Proposition de sujet de stage étudiant
+Année scolaire 2014   -   2015
+Entité d’accueil :
+                                                                                                                                  DGA Maitrise de l’information, Bruz (35)
+                                                                                                                                                                                                               TR)
+                                                                                                                                  Laboratoire : Systèmes de Radio Tactiques
+DIRECTION TECHNIQUE
+DGA Maîtrise de l'information
+Nom du tuteur                                                                                                                     Jean-Philippe Delahaye
+Coordonnées                                                                                                                       Jean-philippe.delahaye@intradef.gouv.fr, 02 99 42 93 52
+Diplôme préparé                                                                                                                   Ecoles d’ingénieurs ou universitaires, télécom, informatique, électronique
+Nature des travaux
+Sujet de Stage :D éveloppement de drivers logiciels sur plateformeDSR
+Développement  et  implantation  de  pilotes  logiciels (driver)  pour  plateforme  radio
+logicielle standardisée (plateforme SDR).
+Contexte :
+Dans un contexte de conception des futurs terminaux mobiles de radio transmission de type radio logicielle (SDR Software
+Defined Radio), les applications de plus en plus complexes (forme d’onde) s’appuient sur de nombreux services logiciels offerts
+par la plateforme sous forme d’API (Application Programming Interface). IP API, Ethernet API, Audio API, RF Transceiver
+sont parmi service logiciels communs d’une plateforme SDR standardisée.
+Travaux :
+L’objet de ce stage est de développer le service de pilotage du front end RF (appelé RF Transceiver API) d’une plateforme sous
+forme de composants logiciels. Les composants logiciels seront développés en C++ sous Linux sur l’environnement de
+développement Eclipse.
+                                                                                                                                  -                                                                            Etudes des spécifications de l’API RF Transceiver.
+                                                                                                                                  -                                                                            Développement en C/C++ de nouveaux composants logiciels support plateforme (driver) implantant l’API
+                                                                                                                                  -                                                                            Implantation des composants et test sur plateforme temps réel embarquée (processeur ARM Cortex A8, RTOS Linux ou
+                                                                                                                                  Host Linux x86)
+                                                                                                                                                                                                               Compétences techniques requises:
+                                                                                                                                                                                                               Langage C++, programmation d’API, support plateforme, Linux, environnement modélisation UML et développement C/C++,
+                                                                                                                                  Eclipse.
+Durée                                                                                                                             Long
+Formule administrative                                                                                                            Convention gratifiée
+Période souhaitée                                                                                                                                                                                              de février/mars 2015)
+Habilitation                                                                                                                      Non
+Commentaires                                                                                                                                                                                                   ail sont nécessaires.
+
+
+
+
+

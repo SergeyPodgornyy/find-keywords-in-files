@@ -1,0 +1,58 @@
+﻿Réf : Bcom/2014-                                                                                               Rennes, le 10 Janvier 2014,
+002
+Objet :                                                                                                        Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                               Technologique b<>com dans le domaine e-Santé
+A  propos  de
+b<>com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur              3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                                    Commande vocale, application à la chirurgie assistée par ordinateur
+stage
+Descriptif de la mission :
+Vous intégrerez le laboratoire  « Médecine Augmentée » au sein d’un projet innovant dans le
+domaine de la Chirurgie Assistée par Ordinateur (CAO).
+Ce stage portera sur le développement d’une solution, basée sur de la reconnaissance vocale,
+qui  permette  à  un  clinicien  d’interagir  et  d’envoyer  des  commandes,  directement  au  cours
+d’une  intervention,  à  une  station  de  CAO.  La  voix  est  en  effet  un  moyen  d’interaction  qui
+permet d’éviter toute perturbation dans le geste chirurgical ou bien encore tout contact avec
+un dispositif extérieur pouvant provoquer la rupture de la barrière stérile.
+Phase 1 : Etat de l’art
+Vous  effectuerez un  état  de  l’art des  dispositifs  médicaux  utilisant  la  reconnaissance                /
+synthèse vocale au bloc opératoire et vous identifierez les solutions adoptées. Vous réaliserez
+également une synthèse des différentes librairies logicielles existantes dans le domaine.
+Phase 2 : Développement
+Vous  développerez  un  prototype  de  commande  vocale  qui  pourra  être  utilisable  au  bloc
+opératoire  compte  tenu  des  différentes  contraintes.  Un  ensemble de  mots  clés  (vocabulaire
+réduit),   associé   à   chaque   étape   chirurgicale,   pourra   être   utilisé   afin   d’effectuer   des
+commandes spécifiques à ces étapes. Ces mots clefs devront d’ailleurs être identifiés compte
+tenu des étapes.
+Phase 3 : Entrainement et validation
+Vous validerez la solution adoptée dans un environnement bruité (bloc opératoire), au regard
+de l’application (robustesse, reproductibilité, rapidité, sécurité).
+Profil recherché :                                                                                             Stage  de  fin  d’étude   école  d’Ingénieur                                      /   Master   2   (BAC   +5)   en
+informatique, traitement du signal ou génie biomédicale.
+Vous possédez des connaissances techniques en :
+    Développement logiciel C/C++ (sous environnement Visual Studio 2012) ;
+    Traitement du signal, classification.
+La connaissance de librairies Qt (IHM), Sphynx (reconnaissance vocale), etc… serait un plus.
+Intérêt   pour   le                                                                                            Réelle intégration au sein d’équipes pluridisciplinaires
+stagiaire                                                                                                      Secteur de la recherche et de l’innovation
+Mission à véritable enjeu
+Domaine médical
+Modalités                                                                                                      Durée : 6 mois
+Date de démarrage : Début mars 2014
+Localisation : Rennes
+Date de fin de dépôt des candidatures : 14 février 2014
+Correspondant technique :
+Guillaume Dardenne, Responsable du laboratoire
+Tel : 02 56 35 88 15, email : guillaume.dardenne@b-com.com
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                         140106
+
+
+
+
+

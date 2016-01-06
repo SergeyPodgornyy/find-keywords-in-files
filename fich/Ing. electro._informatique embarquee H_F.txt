@@ -1,0 +1,59 @@
+﻿Ing. électro./informatique embarquée H/F
+AXON' CABLE SAS
+REFERENCE  :  ST-BG-0713-EMB
+POUR POSTULER  :  offre4679511.1972@axon.contactrh.com sous la référence ST-BG-0713-
+EMB
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Montmirail 51210, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Dès que possible
+DUREE  :  de 6 à 9 mois
+SECTEUR  :  Industries (Métallurgie)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Depuis presque 50 ans Axon' Cable se consacre à la conception et la fabrication de câbles et
+systèmes d'interconnexion innovants pour l'électronique de pointe. Destinés à des secteurs d'activité
+aussi divers que l'aéronautique et le spatial, l'automobile, le militaire, le médical et la recherche
+pétrolière, les produits Axon' sont utilisés par des sociétés comme EADS, Schneider, Thales, Valeo,
+Schlumberger,...
+Ainsi, des réseaux bus de transmission de données d'Axon' sont intégrés dans la fusée Ariane, des
+câbles plats dans les casettes airbag des voitures, des harnais robustes dans les systèmes de
+communication des fantassins, des câbles coaxiaux miniatures dans les échographes et des
+connecteurs micro-miniature dans les outils de forage pétrolier. Une liaison AXON’ équipe même
+le robot Curiosity envoyé sur Mars .
+Aujourd’hui, le groupe Axon' emploie plus de 1700 salariés en Europe, Amérique et Asie.
+DESCRIPTION DU POSTE  :
+L'activité télémédecine d'Axon' comprend le développement de logiciels pour cartes embarquées
+utilisant des micro-processeurs de type ARM et sous un environnement Windows Embedded
+Compact 7.
+Au sein de l’équipe R&D, vous serez chargé(e) des missions suivantes :
+- analyse des spécifications :
+o analyser des exigences logicielles,
+o proposer des solutions techniques,
+o rédiger des documents expliquant et justifiant les choix techniques.
+- développement logiciel :
+o développer, déployer et tester :
+* des drivers sur cartes électroniques à base de processeurs ARM,
+* des modules logiciels applicatifs pour Windows Embedded Compact 7.
+- respect des normes appliquées aux dispositifs médicaux.
+- Possibilité de logement.
+
+
+
+
+- Ce stage est susceptible de déboucher sur un emploi en CDI.
+Envoyez vos lettres de candidature et CV à l’attention d'Annie Lambert, job@axon-cable.fr, en
+rappelant la référence : STAGE_BG_0713 EMB. Dans l’objet de votre mail et sur votre lettre. Sans
+indication de cette référence votre candidature ne pourra pas être traitée.
+PROFIL  :
+- PFE pour futur ingénieur Electronique - Informatique Embarquée.
+- Compétences informatiques : Langages : C, C++, C# / Système d’exploitation : Windows
+Embedded Compact 7.
+POUR POSTULER  :  offre4679511.1972@axon.contactrh.com sous la référence ST-BG-0713-
+EMB
+
+
+
+
+

@@ -1,0 +1,85 @@
+﻿Offre de stage   «   Création d’un référentiel pour le SI
+Finance/Sourcing interne »   (f/h)
+Le groupe Orange est l'un des principaux opérateurs de télécommunications dans le monde, au
+service de plus de 240 millions de clients sur les cinq continents, dont les deux tiers sous la marque
+Orange.
+Présentation de l’entité / service / division
+Orange Business Services est leader dans l'intégration de solutions de communication, au niveau mondial
+pour les entreprises multinationales, et dans un certain nombre de pays pour les petites et moyennes
+entreprises. Grâce à une expérience étendue dans les solutions de communication globales, un réseau
+couvrant 220 pays et un support local dans 166 pays, nous nous assurons que nos clients bénéficient d'une
+solution homogène partout où ils sont présents. Notre stratégie, ainsi que tout ce que nous entreprenons,
+est basée sur notre engagement à ce que nos clients vivent une expérience de qualité exceptionnelle.
+La division qui vous accueillera est en charge de la maitrise d’œuvre des applications Finance
+Sourcing & Supply-Chain d’Orange Business Services. Elle gère notamment la maintenance évolutive
+et corrective d’applications basées sur l’Enterprise Ressourcing Planning (ERP) Oracle e-business
+Suite.
+Bien que la mission soit basée à Cesson-Sévigné, le stagiaire intègrera une équipe de Business
+Analysts repartie sur trois sites : Cesson, Nice et Gurgaon (Inde), et travaillant également avec un
+centre de service externe. Des contributeurs indirects à la mission se trouvent également en Grande-
+Bretagne, en Pologne, en Inde, ou au Caire.
+Mission :
+Sous la responsabilité d’un chef de projet, le stagiaire devra accompagner une équipe de Business
+Analysts dans la digitalisation de son activité :
+   Dans le but de rénover le système documentaire interne à l’entité, vous aurez à créer un
+référentiel sous un format web collaboratif des applications et customisations faites sur l’ERP .
+Ceci doit permettre aux équipes projet d’avoir une vision synthétique, claire et partageable du
+patrimoine applicatif et documentaire de l’entité par processus métier. Aujourd’hui, seule une
+liste de composants avec leur documentation existent, mais en raison de leur nombre (env 400
+composants) avoir une vision globale est complexe.
+   De plus en fonction du temps et de l’avancée de la mission, vous pourrez proposer, voire
+mettre en œuvre, de nouvelles solutions collaboratives pour faciliter la communication interne
+de l’équipe.
+    L’ensemble des travaux se fera en langue anglaise.
+Activités :
+                                                                                                           Vous prendrez connaissance du SI Financier/Sourcing/Supply-Chain d’Orange
+Business Services, des règles méthodologiques et légales.
+   Vous collecterez les informations techniques/fonctionnelles/organisationnelles auprès des
+équipes gérant le SI.
+   Vous définirez et implémenterez le nouveau référentiel sous forme de solution web
+collaborative basée sur Vibe ou Sharepoint.
+   Vous développerez l’outillage nécessaire à la solution si besoin (eg : SGBD ad hoc)
+   Vous formerez les utilisateurs de la solution.
+
+
+
+
+   Vous assurerez un transfert de connaissance de la solution mise en place afin de
+permettre à l’équipe son exploitation opérationnelle.
+Formation préparée :
+BAC +4 à 5 avec une composante informatique sur la gestion des systèmes d’information.
+Profil et compétences :
+   Vous avez la capacité à synthétiser et modéliser des processus complexes.
+   Vous avez une bonne connaissance de systèmes d’information.
+   Vous faites preuve d’un bon relationnel et êtes autonome dans la recherche d’information
+et prise de décision.
+   Vous avez un intérêt tout particulier pour les nouveaux moyens de communication et la
+digitalisation.
+   Vous faites preuve de créativité et aimez promouvoir vos idées.
+   Vous avez des capacités à développer des bases de données.
+   Vous parlez et écrivez en anglais.
+Le + de la mission :
+   Cette mission vous permettra de vous familiariser avec l’implémentation d’un ERP dans
+un contexte international (env. 90 pays), d’appréhender la rigueur des procédures de
+gestion des changements, et de voir les contraintes légales que cela sous-entend.
+   L’environnement de travail étant complètement anglophone et multiculturel, vous pourrez
+entretenir voire améliorer votre maitrise de l’anglais, et découvrir une organisation
+opérationnelle taillée pour adresser les problématiques internationales.
+   Par ailleurs l’autonomie laissée vous permettra de mettre en œuvre vos capacités
+créatrices et d’innovation.
+Date de début et durée souhaitées :
+Fin 1er trimestre 2015 ou courant 1er semestre 2015 pour une durée minimum de 4 mois.
+Localisation :
+Cesson Sévigné - France
+Contact :
+Valerie Roques Beranger
+Ressources Humaines Equant France
+tel. 02 23 28 33 42
+valerie.beranger@orange.com
+9 rue du Chene Germain BP 91235 - 35512 Cesson Sevigne Cedex France
+www.orange-business.com
+
+
+
+
+

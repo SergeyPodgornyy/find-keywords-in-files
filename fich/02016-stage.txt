@@ -1,0 +1,50 @@
+﻿Proposition sujets de stages
+Pierre Vittet - pierre.vittet@fime.com
+9 décembre 2014
+Ce document décrit deux projets de stage. Les deux projets partagent un certains nombre de points
+communs : ils sont centrés sur des problématiques d’analyse statique et seront encadrés de la même façon.
+Le choix du stage retenu se fera en fonction des affinités du stagiaire et des besoins de l’entreprise (FIME).
+Information diverses
+Le stage se fera au sein de l’entreprise FIME (http://www.fime.com/). C’est une entreprise filiale d’or-
+ange dont le cœur de métier sont les services de tests autours des systèmes pour cartes à puces (système de
+paiement, système de transport....).
+Le stage se fera à Rennes, à l’adresse suivante :
+4  rue  de  la  chataigneraie,  35517  Cesson  Sévigné  Cedex,  France
+Si vous êtes intéressé, merci de me contacter en envoyant un mail à pierre.vittet@fime.com.
+Stage 1 : Projet Cap File
+Intitulé                                                                                                         : Implémentation de la gestion des nombres entiers 32 bits dans un analyseur statique JavaCard.
+Description                                                                                                      : Fime dispose d’un outil d’analyse statique d’applications binaire JavaCard, destiné à être
+embarqué dans une carte à puce. Une application JavaCard utilise essentiellement des valeurs codées sur 16
+bits mais il est désormais possible d’intégrer des entiers 32 bits. Le but du stage est d’étendre l’analyseur
+pour gérer ces entiers 32 bits. Une première phase consiste à ajouter le parsing des instructions bytecode sur
+les entiers. La seconde phase consiste à implémenter la sémantique de ces instructions au niveau du cœur de
+l’analyseur.
+L’analyseur est écrit en OCaml et fonctionne sous Linux.
+Profil recherché                                                                                                 : Étudiant en école d’ingénieur ou en master informatique (4ème année). Une compréhension
+de la programmation fonctionnelle est un plus. Le plus important est d’être curieux et disposé à poser des
+questions.
+Mots clefs                                                                                                       : Analyse statique, OCaml, JavaCard, bytecode, interprétation abstraite
+1
+
+
+
+
+Stage 2 : Projet Android
+Intitulé                                                                                                        : Mise à niveau d’un analyseur de code Android pour des analyses spécifiques.
+Description                                                                                                     : Fime dispose d’un outil d’analyse statique de code Android (.apk). Cet outil doit être adapté
+aux dernières versions d’Android et à des jeux de règles spécifiques.
+Le premier objectif du stage est de mettre à jour la modélisation de l’environnement dont dispose l’analyseur
+pour les dernières versions d’Android. Cela nécessitera de bien comprendre les API d’Android. Le second
+objectif du stage est de valider et ajouter de nouvelles règles de vérifications de l’analyseur.
+Le troisième objectif consiste  à mettre en forme le rapport de sortie généré  (au format html). Il faudra
+améliorer sa lisibilité et les types de résultats possibles.
+L’analyseur est écrit en Java et fonctionne sous Windows et Linux.
+É
+Profil recherché                                                                                                :                                                                                                 tudiant en école d’ingénieur ou master informatique
+Mots cléfs                                                                                                      : Android, bytecode, analyse statique, java
+2
+
+
+
+
+

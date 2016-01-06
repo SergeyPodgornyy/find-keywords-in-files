@@ -1,0 +1,43 @@
+﻿ATOS RECRUTE UN/UNE STAGE GESTIONNAIRE DE TRADUCTION H/F EN STAGE 6 MOIS.
+Date : 01/01/2015
+Référence de l’offre : 175533-8061129
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : SOPHIA ANTIPOLIS 06650, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Sous la responsabilité d'un chef de projet pour le compte de nos plus grands clients, vous participez à la
+conception, au développement et à la mise en production des applications dans des domaines fonctionnels
+variés essentiellement dans le domaine ECM et du monde Microsoft.
+Vous travaillez sur la conception et la realisation d'une interface web pour permettre à l'utilisateur de traduire
+des libellés dans différentes langues avec des possibilités de filtrage. Vous générez des fichiers RESX utilisés
+par .NET / SharePoint.
+Vous évoluez dans un environnement SharePoint 2010, .NET, méthodes agiles.
+Profil recherché :
+De  formation  supérieure  minimum  Bac+4,  vous  recherchez  un  stage  orienté  programmation  en
+environnement Microsoft (C#, . Net , Sharepoint …)
+Vous êtes :
+- Motivé(e) pour évoluer au sein d'une équipe travaillant dans un contexte de projets Sharepoint
+- Passionné(e) d'informatique
+- Créatif(ve)
+- Vous avez le sens des priorités
+- Une bonne connaissance de la langue anglaise est indispensable
+Chez Atos la diversité est au cœur de notre politique RH.
+C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit
+la nature de leur handicap.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8061129
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿Stage  / Développement d’un outil d'ai
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10228119 LB FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911261
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 06/01/2014
+DUREE  :  6 mois
+SECTEUR  :  Industries (Aéronautique/Spatial)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian (Elancourt) recherche un(e) stagiaire pour une durée de 6 mois.
+Cette offre de stage est à pourvoir à compter du 6 janvier 2014 (sujette à une certaine flexibilité).
+Dans le cadre de l'amélioration de notre environnement de travail, vous participerez, en tant
+qu'ingénieur, à l'élaboration d'un nouvel outil d'aide à la maintenance des logiciels du Core Network
+TETRAPOL.
+L'outil permettra l'analyse des informations stockées (taille, contenu) dans les bases de données des
+équipements du réseau.
+Le défi de ce projet réside d'abord dans la prise en compte de la définition des besoins et la prise de
+connaissance des mécanismes de gestion des bases de données de l'Access Network et du Core
+Network Tetrapol, puis dans la définition et la réalisation de l'outil.
+Cet outil pourra s'appuyer sur le portage de briques déjà existantes ou être totalement développé.
+Vous interviendrez sur l'ensemble des phases du projet :
+1. Spécification des exigences qui sera validée lors d'une présentation avec des experts de l'équipe
+2. Réalisation des développements de l'outil d'analyse,
+3. Présentation des résultats à un auditoire averti.
+PROFIL  :
+Etudiant bac+5 IT/Réseaux
+Compétences
+Réseaux et protocoles IP
+C
+OS Linux
+
+
+
+
+Travaille en équipe qualités relationnelles
+Anglais:avancé
+Français:courant
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4911261
+
+
+
+
+

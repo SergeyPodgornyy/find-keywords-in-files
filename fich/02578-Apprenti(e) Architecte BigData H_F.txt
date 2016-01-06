@@ -1,0 +1,61 @@
+﻿ATOS RECRUTE UN/UNE APPRENTI(E) ARCHITECTE BIGDATA H/F EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 19/06/2015
+Référence de l’offre : 187451-10089821
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : les clayes sous bois 78000, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos, acteur international des services informatiques avec un chiffre d'affaires annuel de 8,7 milliards d'euros
+et 78.500 collaborateurs dans 42 pays, fournit à ses clients du monde entier des services transactionnels de
+haute technologie, des solutions de conseil, d'intégration de systèmes et d'infogérance.
+Atos délivre les technologies qui accélèrent le développement de ses clients et les aide à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques. Le Groupe est coté
+sur le marché Eurolist de Paris et exerce ses activités sous les noms d'Atos, Atos Consulting, Atos Worldline
+et Atos WorldGrid. Pour plus d'information : atos.net
+Description du poste :
+Nous vous proposons un poste au sein de la Global Service Line « Big Data Security » (BDS), dans l'équipe
+Strategic Projects Global Offers (SPGO).
+Vous travaillerez sur la conception d'architectures big data de type Webscale IT à l'état de l'art en termes de
+performance, scalabilité et fonctionnalités.
+Le travail comprendra de multiples aspects  : veille technologique  (big data, machine learning, cloud),
+évaluation de produits open source ou commerciaux, étude d'architectures combinant différents produits ou
+composants, réalisation de démonstrateurs à usage interne voire externe (essentiellement de l'intégration de
+composants, et plus rarement des développements légers).
+Vous aurez l'opportunité de collaborer avec des profils variés au sein de notre organisation : architectes,
+développeurs, business développement.
+Profil recherché :
+De formation école d'ingénieur ou universitaire dans le domaine informatique, vous êtes passionné par le
+développement logiciel, et plus particulièrement par les outils et architectures big data, ainsi que leur possible
+lien avec les technologies du cloud.
+Les architectures utilisées par les géants du web vous fascinent (Facebook, Google, Amazon, Linkedin, …),
+et vous souhaiter à la fois découvrir leur fonctionnement et vous en inspirer pour travailler à la conception de
+nouvelles architectures.
+Compétences obligatoires :
+Usage de Linux et de Windows
+Bases (ou plus) de l'administration système et réseau sous Linux
+Scripting Unix
+Développement de clients sous Linux ou Windows, appels d'API REST ou Web Services
+Implication dans un ou plusieurs projets universitaires, personnels ou professionnels en rapport avec le Big
+Data
+Les compétences supplémentaires sur une ou plusieurs des technologies suivantes sont appréciées :
+
+
+
+
+Scala, Akka, Javascript, Python, Java
+Hadoop, Spark, Druid, Cassandra ou autres bases Nosql
+R, Weka
+Open Stack
+Vous êtes a minima à l'aise avec l'anglais lu et écrit. L'anglais parlé serait un plus.
+Autonome,  curieux  et  passionné,  vous  avez  une  réelle  volonté  d'apprendre  et  de  partager.Votre  sens
+relationnel vous permettra d'échanger et de collaborer avec de nombreuses personnes au sein de l'entreprise.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10089821
+
+
+
+
+

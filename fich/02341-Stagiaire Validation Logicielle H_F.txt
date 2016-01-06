@@ -1,0 +1,62 @@
+﻿SOGETI HIGH TECH RECRUTE UN/UNE STAGIAIRE VALIDATION LOGICIELLE H/F EN STAGE
+DE 2 À 6 MOIS.
+Date : 13/02/2015
+Référence de l’offre : MU8-STA-IL-BMA--8851323
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : AIX EN PROVENCE 13000, FR
+Durée du contrat : De 2 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Avec près de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du
+groupe  Capgemini,  fait  partie  des  leaders  français  sur  le  marché  de  l'Ingénierie  et  du  Conseil  en
+Technologies.  Nous  intervenons  dans  de  nombreux  projets  majeurs  d'innovation  et  d'ingénierie
+technologiques  pour  le  compte  de  grands  groupes  industriels  mondiaux  et  de  leur  R  Nos  expertises
+techniques et métiers dans les secteurs de l'aéronautique, du spatial, de la défense du ferroviaire, de l'énergie
+et des télécoms renforcent la valeur ajoutée de nos solutions au service des challenges du monde industriel du
+XXIème siècle.
+Les postes proposés correspondent à nos  5 métiers  : Conseil, Ingénierie Système, Ingénierie Physique,
+Ingénierie Logiciel, Testing. Il existe de nombreuses passerelles entre nos métiers. Chacun peut s'il le
+souhaite évoluer vers d'autres compétences, changer de région ou de secteur selon les opportunités qu'offrent
+nos marchés. Encourageant l'ouverture d'esprit, Sogeti High Tech vous permet de vivre un parcours qui
+répond à vos attentes dans un environnement national ou international.
+Description du poste :
+Dans le cadre d'un projet de développement logiciel réalisé pour un client dans le domaine aéronautique,
+nous recherchons des stagiaires pour rejoindre l'équipe de validation de l'application afin de se former sur ce
+métier exigeant.
+L'application développée doit répondre à des critères de performance, d'ergonomie et de précision dans les
+valeurs affichées et calculées.
+La mission nécessite de la rigueur, de la précision, une bonne compréhension du contexte de la maintenance
+aéronautique et un bon esprit d'équipe.
+Vous prendrez en charge une partie des tâches suivantes, au sein d'une équipe de 8 personnes :
+- Tests de Validation
+o Passage des tests fonctionnels déjà définis,
+o Remontée de l'état du test dans Quality Center,
+o Rédaction des bugs identifiés dans la base Mantis,
+o Suivi et analyse des bugs,
+- Production des documents de validation :
+o Release Notes,
+o Documents de livraisons,
+- Validation des patchs correctifs,
+Environnement technique :
+- Windows 7 et 8.
+- Utilisation de Quality center (Base de suivi des tests)
+- Utilisation de Mantis (Base de suivi des bugs, partagée avec le client et les développeurs).
+- Utilisation de Reqtify (Base de suivi des exigences)
+Profil recherché :
+Stagiaire Bac+2 à Bac+5
+
+
+
+
+Formation généraliste : Développement logiciel, aéronautique.
+goût pour le challenge dans la logique des tests
+Utilisation opérationnelle de Windows
+Bonnes capacités rédactionnelles (français / anglais) et relationnelles (équipe, client)
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8851323
+
+
+
+
+

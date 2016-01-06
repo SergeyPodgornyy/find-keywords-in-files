@@ -1,0 +1,52 @@
+﻿CRÉDIT AGRICOLE RECRUTE UN/UNE DÉVELOPPEUR APPLICATION (H/F) EN STAGE 6 MOIS.
+Date : 01/05/2014
+Référence de l’offre : 6724/GIT/M...-6224688
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Paris La Défense 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+Crédit Agricole CIB est la Banque de Financement et d'Investissement du groupe Crédit Agricole, 5ème groupe
+bancaire mondial par le total de bilan et au 4ème rang européen par le montant de ses fonds propres Tier One
+(The Banker - Juillet 2013).
+Crédit Agricole CIB propose à ses clients une gamme de produits et services dans les métiers de la banque de
+marchés, de la banque d'investissement, des financements structurés et de la banque commerciale. La Banque
+accompagne les clients sur les grands marchés internationaux grâce à son réseau mondial dans les principaux
+pays d'Europe, des Amériques, d'Asie et du Moyen-Orient.
+ENVIRONNEMENT :
+GIT est responsable de la conception, du développement et de la production du système d'information et des
+infrastructures techniques de Crédit Agricole Corporate and Investment Bank (CA-CIB). Il définit les politiques
+de l'IT et coordonne leur mise en place.
+La production informatique ITS assure la définition, la mise en œuvre et l'exploitation des infrastructures
+informatiques de la banque supportant les applications utilisées par les métiers.
+Dans le cadre de ses attributions GDP assure:
+- Le suivi projet
+- L'intégration des projets dans le SI
+- Le transfert des projets aux équipes de production
+Description du poste :
+Au cours de ce stage, vous participerez aux missions suivantes :
+* Porter une application de consolidation de de données de gestion de projet d'Acces 2010 vers nos standards
+(SqlServer, C#) afin de sécuriser et gérer la scalabilité des données ;
+* Optimiser les temps de réponses de l'application ;
+* Elaborer de nouvelles versions ;
+* Documenter l'application.
+Profil recherché :
+Formation : Ecole d'ingénieur, Université (Bac+4/5)
+Spécialisation : Développeur SQLserver, IIS, C# et Reporting Services, Access
+Expérience souhaitée : Développement SQLserver, IIS, C# et Reporting Services, Access
+
+
+
+
+Outils informatiques : Maîtrise du Pack Office 2010 (dont Access, powerpoint, Project) SQLserver, IIS, C# et
+Reporting Services
+Qualités recherchées : Autonome, force de proposition, rigoureux, impliqué, esprit de synthèse.
+Langues : L'anglais serait un plus.
+Pour postuler : http://ca.contactrh.com/jobs/1536/6224688
+
+
+
+
+

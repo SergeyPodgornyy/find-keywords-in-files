@@ -1,0 +1,75 @@
+﻿ARIA RECRUTE UN/UNE STAGE - DÉVELOPPEUR WEB - PARIS EN STAGE DE 5 À 6 MOIS.
+Date : 05/05/2015
+Référence de l’offre : TEWD01-9598179
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Paris 75002, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +3
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+ARIA est la référence du recrutement de stagiaires, apprentis et jeunes diplômés en France.
+www.aria-recrutement.com
+Nous proposons aux étudiants et aux jeunes diplômés des stages et des CDI dans des startups, des PME ou
+des grands Groupes dans tous les secteurs d'activité.
+ÉTUDIANTS
+Trouvez le stage idéal (césure ou fin d'études), conforme à votre formation, en France ou à l'étranger.
+Vous cherchez un apprentissage ? Nous avons des offres qui correspondent à votre profil.
+JEUNES DIPLÔMÉS
+Vous êtes jeune diplômé ou avez entre 1 et 3 ans d'expérience professionnelle ?
+Vous cherchez votre premier emploi ou vous souhaitez rejoindre une nouvelle entreprise ?
+Dynamisez votre recherche, trouvez votre CDI idéal et accélérez votre carrière grâce à ARIA.
+Nos clients sont des startups, des PME et des grands groupes.
+Nos spécialisations :
+* Web / e-commerce
+* Ingénieurs
+* Finance Comptabilité
+* Commercial
+* Informatique
+* Logistique Achats
+* Industrie
+* Juridique Fiscal
+* Marketing
+* Communication
+* Immobilier
+* Banque
+* Assurance
+* Ressources Humaines
+* Sciences / Pharma
+* Profils internationaux
+Consultez nos offres | Déposez votre cv :
+www.aria-recrutement.com
+Description du poste :
+Missions
+- Coder en JavaScript/jQuery pour répondre aux exigences de suivi personnalisé.
+- Travailler avec les clients afin d'identifier toutes les données et variables nécessaires et s'assurer de la
+disponibilité des données sur la page.
+- Analyser les problèmes complexes du projet, Identifier les solutions et présenter des recommandations au
+
+
+
+
+client.
+- Fournir des services de mise en œuvre de qualité et un suivi continu à la clientèle.
+Profil recherché :
+Société américaine créée en Californie, de dimension internationale et reconnue dans le domaine du Big Data
+et du Webmarketing. Leader dans la collecte des données sur les appareils mobiles et la redistribution en
+temps réel sur tous types de solutions marketing.
+Startup en plein essor, cette société présente au Japon, en Australie, à Singapore, au UK, en Allemagne et en
+France fait partie des 500 sociétés ayant la plus forte croissance en 2014.
+Afin de poursuivre son développement en France, cette société recherche un(e) Web Developpeur pour
+accompagner la relation avec le client à partir de la signature du contrat
+Profil
+- 2 ans d'expérience minimum avec JavaScript et une première expérience avec jQuery
+- A l'aise avec les outils tels que Chrome Debugger, Charles Proxy, Firebug
+- Connaissances en HTLM et DOM avec une expérience basique en codage.
+- Une expertise en « tag implementation » (i.e. SiteCatalyst, WebTrends, Google Analytics, Doubleclick,
+Google Adwords, etc.) serait un plus.
+- Capacité à extraire, interpréter et communiquer les données.
+- Anglais courant indispensable
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9598179
+
+
+
+
+

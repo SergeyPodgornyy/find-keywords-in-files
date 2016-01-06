@@ -1,0 +1,66 @@
+﻿Dév JAVA J2EE dans un contexte international
+Atos, acteur international des services
+Votre mission
+informatiques avec un chiffre d’affaires
+annuel de 8,7 milliards d’euros et
+Contexte :                                                                  78.500 collaborateurs dans 42 pays,
+Dans le cadre des activités du site de Rennes, les équipes Network
+                                                                            fournit à ses clients du monde entier des
+Management ont la responsabilité de projets d’évolutions d’applications     services transactionnels de haute
+d’activation de services vpn sur un réseau Ethernet MPLS (services xDSL).
+                                                                            technologie, des solutions de conseil,
+Ces applications sont à destination d’un opérateur Telecom international.
+                                                                            d’intégration de systèmes et
+                                                                            d’infogérance.
+Mission :
+                                                                            Atos délivre les technologies qui
+Intégré au sein d’une équipe projet et encadré par un ingénieur             accélèrent le développement de ses
+expérimenté, vous participerez aux différentes phases d’un projet           clients et les aide à réaliser leur vision de
+informatique.
+                                                                            l’entreprise du futur. Atos est le
+Le stage s’organisera autour des phases successives suivantes :             partenaire informatique mondial des
+- Analyse des besoins du client,
+                                                                            Jeux Olympiques. Le Groupe est coté sur
+- Rédaction des spécifications,
+                                                                            le marché Eurolist de Paris et exerce ses
+- Développement,                                                            activités sous les noms d’Atos, Atos
+- Intégration et tests des développements effectués.
+                                                                            Consulting, Atos Worldline et Atos
+Le produit de ce stage devra être conduit conformément aux règles projet    WorldGrid.
+en vigueur (processus, qualité).
+                                                                            Pour plus d’information : www.atos.net
+Environnement :
+Ce stage est basé à Rennes
+Client léger, JAVA/J2EE, JSP, JUnit, JavaScript, Struts, Hibernate, AJAX,
+HTML, Webservices SOAP, Tomcat, Linux, Eclipse, MySQL
+Si ce stage vous intéresse,
+déposez votre candidature à l’adresse
+Objectifs pédagogiques :                                                    suivante :
+Ce stage vous offrira, dans un contexte international, l’expérience d’un    http://fr.atos.net/fr-
+cycle complet d’un projet informatique, de l’analyse des besoins jusqu’au   fr/emplois_carrieres/postulez
+déploiement de la solution définie. Techniquement, ce stage vous            ou contactez: Jean-Charles.Coeuru@atos.net
+permettra d’acquérir des compétences variées dans des environnements        Référence du stage : 157007
+d’architecture n-tiers Java/J2EE intégrant notamment les technologies
+Struts et Hibernate.
+A l'issue de ce stage, vous aurez appréhendé :
+Qui êtes-vous ?
+- La participation aux différentes phases du projet (étude,
+réalisation, tests, documentation…),
+De formation Bac+4/5 en informatique
+- la problématique d’industrialisation des phases projet
+                                                                            (Ecole d’ingénieur ou université) en
+- La concrétisation sur le terrain de vos connaissances techniques
+                                                                            cours de validation, vous recherchez un
+acquises durant votre formation initiale,
+                                                                            stage d’une durée de 4 à 6 mois (dates
+- L’acquisition de nouvelles compétences techniques.
+                                                                            variables selon les écoles). Vous
+justifiez d'une première expérience
+(stage ou projet scolaire) en
+technologies JAVA/J2EE. Anglais
+professionnel requis.
+
+
+
+
+

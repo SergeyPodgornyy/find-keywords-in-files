@@ -1,0 +1,63 @@
+﻿ATOS TECHNOLOGY SERVICES RECRUTE UN/UNE ADMINISTRATEUR SYSTÈME/RÉSEAUX
+H/F EN STAGE 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : 171677-7400071
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Bezons 95000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Information d'organisation
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,8 milliards d'euros et 77 100 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des services informatiques dans 3 domaines, Conseil Services Technologiques, Intégration de Systèmes et
+Infogérance BPO, ainsi que des services transactionnels de haute technologie avec Worldline. Grâce à son
+expertise technologique et sa connaissance industrielle, il sert ses clients dans les secteurs suivants: Industrie,
+Distribution Services, Services Financiers, Secteur Public, Santé Transports et Télécoms, Médias Services
+aux Collectivités.
+Notre  entité  Atos  Technology  Services                                                                             (ATS)  a  pour  mission  principale  de  développer  des  services
+informatiques de proximité auprès de ses clients, en les accompagnant dans la mise en œuvre et l'évolution de
+leurs systèmes d'information. Plus de 3 000 experts de proximité accompagnent nos clients tout au long de
+leurs projets afin de les aider à s'adapter aux contraintes liées aux évolutions de leurs secteurs.
+Description du poste :
+Caractéristiques du poste
+Mission:
+Au sein de l'activité d'exploitation et de support informatique, nos équipes prennent en charge tout ou partie
+du  système  d'information  de  nos  clients  avec  des  objectifs  d'optimisation  et  d'industrialisation.  Elles
+exploitent  et  maintiennent  en  condition  opérationnelle  les  infrastructures  de  communication                  (réseaux,
+serveurs, périphériques d'impression et outils de stockage) et le parc informatique.
+Intégré(e) au sein d'une de nos équipes en charge chez un de nos clients des secteurs Holding et Média, vous
+avez pour missions :
+Administration de systèmes informatiques
+Mise en œuvre des systèmes Unix et WindowsInfrastructure Linux Systèmes
+Architectures Systèmes
+Environnements techniques:
+Windows, Unix, Linux, Bases de données relationnelles, langage SQL, Nagios.
+Objectifs pédagogiques:
+Ce stage vous permet d'approfondir vos connaissances techniques et d'en découvrir d'autres.
+
+
+
+
+Profil recherché :
+Profil
+De formation Bac+3/5 (en cours de validation) en école d'ingénieur ou en université, vous recherchez un
+stage en alternance d'une durée de 6 mois (dates variables selon la formation).
+Vous aimez le travail en équipe, vous êtes attiré(e) par des projets innovants et vous souhaitez vous investir
+dans une mission à forte valeur ajoutée. Vous connaissez les environnements suivants : Linux, Unix.
+Vous maîtrisez l'anglais.
+Une proposition d'embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le désirez,
+dans toute autre région dans laquelle Atos recrute.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+Information additionnel
+D'une  durée  minimum  de  6  mois,  le  stage  se  déroulera  dans  les  locaux  de  notre  client  en  région
+Ile-de-France.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7400071
+
+
+
+
+

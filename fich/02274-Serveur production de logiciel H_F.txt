@@ -1,0 +1,71 @@
+﻿ATOS RECRUTE UN/UNE SERVEUR PRODUCTION DE LOGICIEL H/F EN STAGE DE 4 À 6 MOIS.
+Date : 28/01/2015
+Référence de l’offre : 2015-1589-8715334
+Domaine d’activité : Systèmes d'informations / télécom (Sécurité)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +2
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Votre stage consiste à installer sur une machine virtuelle vierge un système d'exploitation Linux ainsi qu'un
+ensemble d'outils dédiés à la production et au contrôle qualité de logiciel.
+Comme il est impossible d'arrêter le serveur de production, la mise à niveau sera réalisée en fabriquant une
+nouvelle plateforme identique à la plateforme actuelle en utilisant les dernières versions disponibles des
+logiciels constituant la plateforme.
+Votre stage se déroulera en plusieurs phases :
+1/ Etude de l'existant :
+Audit du référentiel documentaire et la plateforme existante actuellement utilisée afin de déterminer la liste
+des logiciels à installer sur la nouvelle plateforme ainsi que leur configuration.
+Remplacement ou l'ajout de certains outils en fonction de leur adéquation à l'état de l'art.
+2/ Rédaction de documents d'installation et de migration :
+Rédaction d'un manuel d'installation décrivant l'ensemble des opérations nécessaires pour l'installation et la
+configuration de l'intégralité de la nouvelle plateforme à partir d'une machine virtuelle nue suffisamment
+dimensionnée.
+Rédaction d'un document de migration décrivant la procédure de migration des données devant être jouée
+lors de la bascule entre l'ancien et le nouveau serveur. Ce document devra inclure une procédure de retour
+arrière.
+Rédaction d'un document de recette de la plateforme décrivant un ensemble de tests à réaliser pour contrôler
+la plateforme.
+3/ Pré-réalisation de la plateforme :
+Réalisation de l'ensemble des actions décrites dans les documents sur une machine virtuelle vierge en
+modifiant ceux-ci en cas d'erreur ou d'imprécision. Plusieurs itérations sont envisageables.
+4/ Réalisation :
+Réalisation de l'ensemble des actions décrites dans les documents sur une nouvelle machine virtuelle vierge
+afin de vérifier la précision et la complétude du référentiel documentaire produit.
+
+
+
+
+Profil recherché :
+Bac +2, BTS ou DUT avec une spécialisation telle que « Services informatiques aux organisations solutions
+d'infrastructure, systèmes et réseaux » .
+Compétences requises
+- Système Linux et son écosystème
+- Capacité à compiler et à installer des logiciels open source
+- Bonne connaissance des problématiques de production de logiciel (Génie Logiciel)
+Compétences appréciées
+- Autonomie
+- Rigueur
+- Organisation
+- Esprit d'équipe
+Des compétences dans le domaine de la sécurité seraient un plus fortement apprécié.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8715334
+
+
+
+
+

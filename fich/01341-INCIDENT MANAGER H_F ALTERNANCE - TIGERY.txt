@@ -1,0 +1,56 @@
+﻿SOCIÉTÉ  GÉNÉRALE  FRANCE  RECRUTE  UN/UNE  INCIDENT  MANAGER  H/F  ALTERNANCE  -
+TIGERY EN APPRENTISSAGE/ALTERNANCE DE 12 À 36 MOIS.
+Date : 01/09/2014
+Référence de l’offre : SC/GTS/ALT/9972-6172251
+Domaine d’activité : Systèmes d'informations / télécom (Exploitation / Production)
+Type de contrat : Apprentissage/Alternance
+Localisation : Paris / Ile de France 91000, FR
+Durée du contrat : De 12 à 36 mois
+Niveau d’études : Bac +2
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement :
+Vous rejoignez la Direction des Ressources, qui a pour mission principale de piloter et d'optimiser les ressources
+de Société Générale. Elle offre à l'ensemble du Groupe des prestations en matière d'infrastructures informatiques,
+d'immobilier, d'achats, de conseil, au travers de centres de services partagés.
+Votre mission  :
+Vous rejoignez le département des Infrastructures informatiques et plus particulièrement le département banque
+de détail qui a pour mission d'assurer le bon fonctionnement de l'infrastructure et de la production informatique
+pour servir le développement de l'activité Banque de Détail, les Services Financiers Spécialisés du Groupe et les
+Directions Fonctionnelles.
+Dans ce cadre et sous la responsabilité de votre tuteur ou maitre d'apprentissage, vous participez aux missions
+suivantes  :
+- Mise au point du nouvel outil de suivi des incidents actuellement en conception et développement
+- Saisir les incidents dans l'outil de suivi
+- Développer des scripts d'extraction des incidents
+- Produire diverses statistiques
+- Contribuer à la préparation de différents comités
+- Consolider et diffuser les « morning checks »
+- Consolider les tableaux de bord et les reporting
+- Contribuer à l amélioration du processus incident, en lien avec le responsable processus : outils, processus,
+projet d optimisation de la qualité, etc
+Votre profil  :
+Vous préparez un Bac+5 en école d'ingénieur ou cycle universitaire dans le domaine de l'informatique.
+Vous avez des connaissances en développement d'IHM et en Bases de données.
+Une première expérience en tant que développeur (stage, projets d'étude) serait un plus pour mener à bien votre
+missions d'alternance.
+Votre niveau d'anglais est opérationnel.
+Merci d'indiquer votre rythme d'alternance et vos dates de disponibilité impérativement sur votre CV.
+
+
+
+
+Poste basé à TIGERY - Alternance de 12 à 36 mois - A pourvoir en Septembre 2014.
+Profil recherché :
+Vous préparez un Bac+5 en école d'ingénieur ou cycle universitaire dans le domaine de l'informatique.
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6172251
+
+
+
+
+

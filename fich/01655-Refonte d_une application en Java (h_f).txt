@@ -1,0 +1,55 @@
+﻿ATOS RECRUTE UN/UNE REFONTE D'UNE APPLICATION EN JAVA (H/F) EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 175663-7787235
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes  d'information  de  ses  clients.  Pour  cela,  notre  entité  dispose  d'un  riche  portefeuille  d'offres
+d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à
+ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.
+Description du poste :
+Le stage est réalisé au sein du pôle "Network Management" qui conçoit et développe des applications de
+supervision, diagnostic et reporting statistiques de réseau.
+Le but du stage est la refonte en Java d'une application actuellement écrite en PHP.
+
+
+
+
+Il s'effectuera en plusieurs étapes, comme,
+- la prise de connaissance générale des applications composant la solution de Network Management
+- l' identification des fonctions actuelles et nouvelles développées dans la nouvelle version d'ANUBIS
+(fonctions du serveur, IHM),
+- le choix des outils,
+- la réalisation du serveur et de la partie IHM en mode intranet, les tests avec l'outil HPQC,
+- la rédaction de la documentation,
+- la livraison en opérationnel sur la plate-forme Atos.
+Ntic :
+Java, GlassFish, Primefaces, Hibernate, HPQC, Eclipse, Sonar, Hudson, SVN, Linux, …
+Profil recherché :
+De  formation  Bac+5  en  informatique  (Ecole  d'ingénieur  ou  université)  en  cours  de  validation,  vous
+recherchez un stage d'une durée de 5-6 mois (dates variables selon l'école). Une proposition d'embauche en
+fin de stage est envisageable, sur le site de votre stage, ou, si vous le désirez, dans toute autre région dans
+laquelle ATOS recrute.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7787235
+
+
+
+
+

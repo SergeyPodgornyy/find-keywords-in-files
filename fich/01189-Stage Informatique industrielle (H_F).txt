@@ -1,0 +1,56 @@
+﻿SIEMENS  INFRASTRUCTURE  &amp;  CITIES  SECTOR  RECRUTE  UN/UNE  STAGE
+INFORMATIQUE  INDUSTRIELLE  (H/F)  EN  STAGE  DE  2  À  12  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  156636­5713602
+Domaine  d’activité    :  Etudes  ­  Recherche  (Chef  de  Projet/Ingénierie)
+Type  de  contrat    :  Stage
+Localisation    :  Lille  59800,  FR
+Durée  du  contrat    :  De  2  à  12  mois
+Niveau  d’études    :  Bac  +4
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Premier  groupe  européen  de  haute  technologie,  Siemens  conjugue  depuis  toujours
+performance  technique,  innovation,  qualité  et  fiabilité.
+Nos  activités  centrées  sur  les  secteurs  des  infrastructures  et  des  villes,  l'industrie,
+l'énergie  et  la  santé,  ciblent  des  marchés  de  croissance  sur  lesquels  le  Groupe  nourrit
+l'ambition  d'être  leader.
+Réalisation  d'un  banc  de  test  d'informatique  industrielle.
+Au  sein  de  notre  département  recherche  et  développement,  la  réalisation  d'un  banc  de  test
+et  de  simulation  d'un  métro  automatique  vous  sera  confiée.
+Description  du  poste    :
+Réalisation  d'un  banc  de  test  d'informatique  industrielle.
+Au  sein  de  notre  département  recherche  et  développement,  la  réalisation  d'un  banc  de  test
+et  de  simulation  d'un  métro  automatique  vous  sera  confiée.
+MISSIONS:
+Ce  projet  comportera   les  phases  suivantes  :
+­Prise  en  main  des  outils  logiciel  société  (programmation  en  "structured  text",  "visual
+basic",  "CAPL")
+
+
+
+
+­Analyse  de  fonctionnalités  logicielles  existantes  en  vue  de  leur  modification,
+modélisation  et  adaptation  au  banc.
+­Mise  au  point  des  interactions  entre  différents  logiciels  phares  de  l'industrie  tels  que
+Control  build  de  Dassault,  CANoe  de  Vector,  DAQmx  de  National  Instruments,  Visual
+Basic  et  le  service  COM  de  Microsoft.
+PROFIL  :
+­Vous  êtes  étudiant  en  informatique  industrielle  et/ou  en  automatique  et/ou  en
+électronique.
+­Vous  êtes  à  l'aise  avec  des  langages  de  programmation  du  type  littéral  structuré,  C  ou
+Visual  Basic  afin  d'être  suffisamment  autonome  pour  mener  a  bien  votre  sujet.
+CONTACT:
+N'hésitez  pas  à  contacter  notre  service  des  ressources  humaines  pour  toute  information
+complémentaire  au  01  49  22  94  00.
+Si  cette  offre  vous  intéresse,  merci  de  déposer  un  CV  et  une  lettre  de  motivation  sur  notre
+site  carrière.
+Profil  recherché    :
+­Vous  êtes  étudiant  en  informatique  industrielle  et/ou  en  automatique  et/ou  en
+électronique.
+­Vous  êtes  à  l'aise  avec  des  langages  de  programmation  du  type  littéral  structuré
+Pour  postuler    :  http://siemens.contactrh.com/jobs/1536/5713602
+
+
+
+
+

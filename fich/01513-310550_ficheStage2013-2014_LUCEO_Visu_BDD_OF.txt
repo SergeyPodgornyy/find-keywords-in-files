@@ -1,0 +1,120 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : LUCEO                                                               Adresse : 16 rue Laënnec
+Domaine d’activité : Vision Industrielle                                                  Ville : VERN SUR SEICHE
+Représentant de l’entreprise : Monsieur OLLIVIER                                          N° téléphone : 02 99 62 86 11
+Sa qualité : Directeur                                                                    N° fax : 02 66 62 72 38
+N° de Siret :328 667 159 00029                                                            Site Web :   www.luceo-inspection.com
+N° NAF : APE 6201Z                                                                        Courriel :
+Statut Juridique : SAS                                                                    Signataire de la convention : Monsieur OLLIVIER
+Effectif de l’établissement : 42
+Nom de l’encadrant de stage : Monsieur BAUDOIN Loïc                                       Chargé du suivi administratif : M LECORGNE Jean-
+Sa qualité : Responsable Secteur                                                          Yves
+Service : Supply Chain                                                                    Sa qualité : Responsable Qualité
+N° téléphone : 02 23 27 64 51                                                             N° téléphone : 02 99 62 19 02
+Email : l.baudoin@luceo-inspection.com                                                    Email : jy.lecorgne@luceo-inspection.com
+Fax : 02 99 62 72 38                                                                      Fax : 02 99 62 72 38
+Nom du service dans lequel le stage sera effectué : Supply Chain
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+   Licence 3                                                                             13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+□ Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                            2 au 13 septembre 2013
+21 octobre 2013 au 3 janvier 2014
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                            16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                           16 septembre au 27 septembre 2013
+                                                                                                            4 novembre 2013 au 10 janvier 2014
+                                                                                                            17 février 2014 au 11 avril 2014
+                                                                                                            19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                            entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                             entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                          entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé : Interface de visualisation d’états d’Ordres de de Fabrication
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+-   Plateforme : Navision, Base de données type fichiers à plat, langage de requête SQL
+-   Langage : A définir
+-   Outils de développement : Visual Studio
+Sujet proposé détaillé :
+Contexte général
+La société LUCEO développe et commercialise des systèmes de contrôle dans le domaine de l’agro-
+alimentaire en particulier. Les machines utilisent la technologie de vision industrielle. Les études sont
+réalisées en interne et la fabrication des machines fait appel à la sous-traitance. Un ERP (Navision)
+est utilisé pour centraliser l’ensemble des informations via une base de données permettant de gérer
+les commandes d’achats, le stock, les ordres de fabrication et les commandes ventes.
+Description des travaux à réaliser
+La visualisation dans l’ERP de certaines données est relativement chronophage pour les personnes
+ne l’utilisant pas quotidiennement notamment dès qu’il s’agit d’avoir une vue d’ensemble concernant
+une  affaire,  une  machine…  Le  travail  consiste  à  développer  une  interface  permettant  une
+visualisation synthétique pour les différents types de consultations possibles.
+Un programme Excel a été réalisé pour valider la faisabilité de centralisation des données à base de
+requêtes ODBC. Les actualisations sont manuelles. Après analyse de cet existant, il s’agira de
+spécifier un outil adapté et d’en assurer le développement. Un outil annexe de gestion des relances
+des achats pourrait également être associé.
+INFORMATIONS  COMPLÉMENTAIRES  :
+UNIVERSITE DE RENNES 1                                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Indemnité mensuelle (nette)  : suivant profil licence ou                        Nom de l’Etudiant :
+master 1                                                                        Diplôme :
+Modalités de versement : chèque
+Avantages en nature à préciser : non
+Temps horaire hebdomadaire : 39h
+Date limite de réponse à cette proposition :
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? Oui
+Cachet de l’entreprise
+JY LECORGNE
+UNIVERSITE DE RENNES 1                                                          TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                           FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                        www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

@@ -1,0 +1,34 @@
+﻿Stage de développeur dans une start-up en pleine croissance / Envie d’une pré-embauche …
+L’entreprise
+Market Place factory est une start-up jeune et dynamique en pleine expansion. Nous  évoluons dans
+le secteur du E-Commerce grâce à un produit innovant et unique sur le marché : une Market Place en
+marque blanche. En parallèle, nous avons également une activité de consulting spécialisée dans
+métiers du développement et de la gestion de projets.
+Détail de la mission
+Nous recrutons des développeurs stagiaires en dernière année de formation.
+Vous serez amené à travailler sur la plateforme Market Place Factory (www.marketplacefactory.com).
+Nous vous offrirons dès votre arrivée une formation à des technologies innovantes sur plateforme
+Microsoft .NET (C# 4.0, MVC 4, SQL Server 2008, LINQ), frameworks open source (Quartz.NET,
+Nhibernate), designs patterns et bonnes pratiques (injection de dépendance, ORM, tests unitaires,
+intégration continue, évaluation des performances avec JMeter, ANTS Profiler), méthodes agiles
+(SCRUM).
+A l’issue de votre stage, vous serez amené à travailler à la fois dans notre entreprise sur des projets en
+interne et chez nos clients en tant que consultant.
+L’environnement que nous vous proposons est unique, et mêle à la fois startup et clients grands
+comptes !
+C’est pour vous la possibilité :
+   d’évoluer avec des responsabilités dans une ambiance dynamique de start-up
+   de développer vos compétences en bénéficiant d’une formation par notre société
+   de découvrir des méthodes de travail innovantes et efficaces.
+Conditions du stage et profil recherché
+Stage rémunéré de 4 mois minimum en pré-embauche.
+Vous êtes à la recherche d’un stage de fin d’études dans le cadre de votre dernière année d’école.
+Compétences appréciées : C#, .Net ou connaissances en C ou en Java.
+Vous êtes motivé et autonome, vous avez soif de nouvelles connaissances, et aimez le travail en
+équipe ? Nous vous attendons chez Market Place Factory !
+Contact : rh@c17e.com
+
+
+
+
+

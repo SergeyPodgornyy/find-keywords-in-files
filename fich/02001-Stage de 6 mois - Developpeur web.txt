@@ -1,0 +1,45 @@
+﻿MULTIPOSTING RECRUTE UN/UNE STAGE DE  6 MOIS  - DÉVELOPPEUR WEB EN STAGE  6
+MOIS.
+Date : 01/01/2015
+Référence de l’offre : StageDevJanvier-8279693
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : paris 75009, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Créée en 2008 par deux jeunes entrepreneurs, Gautier Machelon et Stéphane Le Viet, Multiposting est une
+start-up française innovante devenue rapidement le leader européen des solutions technologiques dédiées au
+e-recrutement. En quelques années, l'entreprise a su s'imposer sur le marché du recrutement et gagner la
+confiance de 1 000 entreprises internationales dont 32 du CAC 40 (Total, Capgemini, Danone, etc.).
+Située au cœur de Paris, l'entreprise accueille ses collaborateurs au sein d'un cadre propice à l'épanouissement
+: des espaces ouverts, un jardin privatif, une borne d'arcade fabrication maison, une table de ping pong, tout
+cela avec une âme de start up.
+Découvrez notre vidéo interactive de recrutement : Multiposting, 2014
+Multiposting 13è/50 du Technology Fast 50 (Deloitte, 2014)
+Multiposting lauréat des trophées de l'international du Numérique (IE Club, 2014)
+Description du poste :
+Vous participerez à la conception et au développement des passerelles de transfert d'offres d'emploi entre
+Multiposting et les acteurs de la multidiffusion :
+- Vous travaillerez à la mise en place de flux d'imports d'offres depuis des sources externes à Multiposting,
+pour répondre aux besoins spécifiques de nos clients,
+- Vous serez en relation avec les partenaires de Multiposting (sites d'emploi comme Monster, Pole Emploi
+etc...) en France et à l'étranger pour développer de nouvelles passerelles de diffusion
+Vous  participerez  activement  au  développement  des  technologies  backend  qui  constituent  le  cœur  de
+l'activité de Multiposting, en développant des outils mettant en œuvre le framework Django (framework web
+Python), mais aussi en utilisant les bases de données MySQL et MongoDB. Ponctuellement vous serez
+amené à intervenir sur du PHP (framework Symfony).
+Profil recherché :
+*Ecole d'ingénieur - Ecole d'informatique ou équivalent universitaire, de bac+3 à bac+5,
+*Une première expérience réussie en tant que Développeur Web, dans un cadre pro et/ou personnel,
+*Des compétences solides en programmation orientée objets sont requises, ainsi que la maitrise d'au moins
+un langage de programmation dynamique (Python, Php, Ruby…)
+*Une connaissance de l'environnement Linux ainsi que la maîtrise du Framework Symfony
+Multiposting est fait pour vous ! Rejoignez-nous dès janvier : recrutement@multiposting.fr
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8279693
+
+
+
+
+

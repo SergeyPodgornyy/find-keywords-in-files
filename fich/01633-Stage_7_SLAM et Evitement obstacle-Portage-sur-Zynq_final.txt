@@ -1,0 +1,54 @@
+﻿Stage n° 7 du LCE : Prototype d’une architecture embarquée pour la
+localisation et l’évitement d’obstacle par la vision sur un robot mobile.
+Mots clefs : FPGA, vision embarquée, ARM, localisation par vision, SLAM, évitement
+d’obstacle, électronique embarquée
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+Au  sein  du  laboratoire,  un  domaine  d’application  important  est  la  vision  embarqué.
+L’avènement de drones et voitures autonomes soulève des défis important pour la chaine de
+traitement  requis  pour  maitriser  la  trajectoire  en  toute  circonstance.  En  particulier,  deux
+maillons indispensables de cette chaine sont la localisation du robot mobile par vision et
+la  détection  d’obstacle.  Le  laboratoire  dispose  de  différentes  implémentations  de  ces
+applications. Ces applications complexes doivent être exécutées le plus rapidement possible,
+en  temps-réels,  avec  une  grande  précision  de  calcul,  et  en  basse  consommation
+énergétique. Ceci nécessite une architecture matérielle et logicielle dédiée de tout le système
+et qui pourra être embarqué sur un robot mobile.
+L’objectif du stage est de développer un démonstrateur sur une carte électronique à base de
+FPGA  Zynq  et  d’une  caméra  embarquée.  Après  la  prise  en  main  de  l’environnement  de
+développement temps-réel, la première phase du stage consistera à porter l’application de
+localisation  par  vision  SLAM                                                                          (Simultaneous  Localization  And  Mapping)  et  l’application
+d’évitement d’obstacle sur un FPGA Zynq. La partie logicielle de l’application doit tourner sur
+les processeurs ARM du Zynq et la partie matérielle serait accélérée par une architecture
+matérielle à base de plusieurs IPs déjà développées au sein du laboratoire. La deuxième
+phase du stage sera consacrée à une étude de profiling de l’application sur le démonstrateur
+afin  de  mesurer  les  performances  et  vérifier  le  respect  des  contraintes  temps-réels.  Les
+contraintes de ressources embarquées peuvent impliquer une modification des algorithmes
+proposés  ou  de  leur  implémentation  afin  de  garantir  le  fonctionnement  en  temps-réel.
+Finalement, ce démonstrateur sera embarqué et testé sur un robot mobile.
+Profil recherché :
+Niveau demandé :    BAC + 5
+Durée :                                                                                                  6 mois
+Compétences :                                                                                            FPGA, VHDL, C/C++, Linux
+Pièces à fournir :                                                                                       CV + lettre de motivation + classements
+Contact:                                                                                                 Charly BECHARA, ingénieur R&D, Ph.D.
+                                                                                                         E-Mail : charly.bechara@cea.fr Tél. : 01.69.08.00.68
+Laboratoire d’Intégration des Systèmes et des Technologies                                               Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                           Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                                 Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

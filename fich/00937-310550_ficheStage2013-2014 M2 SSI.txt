@@ -1,0 +1,111 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : Docapost-DPS                                                        Adresse : 2 rue Allée Ermengarde d’Anjou -CNT
+Domaine d’activité : Gestion documentaire (vidéocodage,                                   Ville : Rennes
+dématérialisation et éditique)                                                            N° téléphone : 06 07 77 33 93
+Représentant de l’entreprise : Gérard Lemarchand                                          N° fax :
+Sa qualité : Directeur du site de Rennes                                                  Site Web : www. Docapost-dps.com
+N° de Siret : 31  470  405  700  293                                                      Courriel :
+N° NAF : 6311Z                                                                            Signataire   de   la   convention :   Bruno   Simoes   -
+Statut Juridique : SA                                                                     responsable formation
+Effectif de l’établissement : 180
+Nom de l’encadrant de stage : Noëlle Bugeon                                               Chargé du suivi administratif : Virginie Maurange
+Sa qualité : Resp qualité                                                                 Sa qualité : Assistante de site
+Service : CODIR                                                                           N° téléphone : 06 07 77 33 93
+N° téléphone : 0685143109                                                                 Email : virginie.maurange@docapost-dps.com
+Email : noelle.bugeon@docapost-dps.com -                                                  Fax :
+Fax:/
+Nom du service dans lequel le stage sera effectué : pôles informatique et qualité
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 31 mars et le 27 juin 2014
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                                   13 semaines minimum à partir du 5 mai 2014
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+□ Spécialité MIAGE                                                                        du 10 mars 2014 à fin août 2014
+x Spécialité IR                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                                                           du 10 mars 2014 à fin août 2014
+□ Spécialité   MITIC                                                                      du 10 mars 2014 à fin août 2014
+x Spécialité   SSI                                                                        du 10 mars 2014 à fin août 2014
+□ Spécialité Recherche                                                                    du 3 février 2014 à fin juin 2014
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 14 avril 2014 à fin août 2014
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                          2 au 13 septembre 2013
+                                                                                          21 octobre 2013 au 3 janvier 2014
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+10 février 2014 au 4 avril 2014
+12 mai 2014 au 29 août 2014
+□ Spécialité SEA                                                                                   16 semaines à partir du 3 mars 2014 jusque fin août 2014
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                  16 septembre au 27 septembre 2013
+                                                                                                   4 novembre 2013 au 10 janvier 2014
+                                                                                                   17 février 2014 au 11 avril 2014
+                                                                                                   19 mai 2014 au 12 septembre 2014
+□ Spécialité CTS                                                                                   entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité ST                                                                                    entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+□ Spécialité SISEA                                                                                 entre 4 mois minimum et 6 mois maximum à partir du 3 mars 2014
+SUJET  DU  STAGE  :
+Titre du stage proposé : Collaboration et formalisation d’un projet de mise en place d’un SMSI -
+Système de Management de la Sécurité de l’Information » selon la norme ISO 27001.
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+-                                                                                                  Méthodes  :
+o   Normes ISO  9001 :  2008  - Exigences d’un Système de Management de la Qualité et
+27001 : techniques de sécurité - système de management de la sécurité de l’information
+o   Méthode Ebios : analyse de risques
+o   Conduite de projets
+-                                                                                                  Matériels  et technologies  :
+                                                                                                                                                                                                                                                                                                                                                     o   VmWare/Metrocluster NetApp/Windows 2008 R2/ Redhat /MySQL/CFT
+                                                                                                                                                                    o   Supervision Nagios/Centreon
+Sujet proposé détaillé :
+-                                                                                                  Suivi  d’un  pré-audit  ISO                                                                                                                                                                                                                                                                                                                                                                                                             (si  présent)  et  déploiement  de  son  plan  d’actions  en  vue  d’une
+                                                                                                   certification en septembre-octobre 2014
+-                                                                                                                                                                                                                                                                                                                                                                                                                                       Rédaction de documents techniques SI et revue de documents fondateurs de la norme ISO
+                                                                                                                                                                                                      27001 tels que l’analyse de risques et son plan de traitement
+-                                                                                                                                                                                                                                                                     Animation  aux  groupes  de  travail  et  à  l’audit  interne  du  processus                                                                                                                                                                                                                                                                    « Gestion  du  Système
+                                                                                                                                                                                                                                                                                                                                                     d’Information » pour des propositions d’améliorations SI et leurs mises en œuvre
+-                                                                                                                                                                                                                                                                                                                                                                                                                                       Le candidat sera intégré à l’équipe informatique et selon son profil, des missions particulières
+                                                                                                   pourront lui être proposées.
+                                                                                                   INFORMATIONS  COMPLÉMENTAIRES  :
+Particularité du stage : établissement sécurisé avec                                               Nom de l’Etudiant :
+nécessité d’une habilitation et rapport confidentiel                                               Diplôme :
+Indemnité  mensuelle (nette)                                                                       :  conformément  aux
+obligations légales en vigueur
+Modalités de versement :
+Avantages en  nature  à  préciser :  restauration  sur
+place ou ticket resto (au choix)
+Temps horaire hebdomadaire : 35h
+Date limite de réponse à cette proposition : janvier 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? oui par email
+UNIVERSITE DE RENNES 1                                                                             TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                              FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                           www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

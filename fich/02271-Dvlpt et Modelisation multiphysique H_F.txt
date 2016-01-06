@@ -1,0 +1,73 @@
+﻿ATOS RECRUTE UN/UNE DVLPT ET MODÉLISATION MULTIPHYSIQUE H/F EN STAGE 6 MOIS.
+Date : 29/01/2015
+Référence de l’offre : 2014-1517-8717413
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Les Clayes sous Bois 78340, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net.
+Description du poste :
+Vous intégrez le service EMTE (Electronics, Mechanical and Thermal Engineering), qui est le bureau d'étude
+électrique, électronique, mécanique et thermique, du département SDD (Server Design and Development) de
+Bull.
+La conception du système de refroidissement liquide des armoires informatiques contenant les serveurs
+s'appuie sur la modélisation multiphysique (hydraulique, thermique et contrôle) de ce système :
+* Éléments hydrauliques et mécaniques
+* Sources de chaleur
+* Échangeur de chaleur
+* Pompe électrique
+* Vannes de régulation
+* Capteurs
+* Éléments de la régulation, algorithmes…
+* Détection de pannes
+Vous prenez en charge l'intégration du code existant du contrôleur du système de refroidissement au sein du
+modèle multiphysique.
+D'une manière générale, vos principales activités seront centrées autour du développement du modèle :
+* Développement de routines d'interfaçage entre le contrôleur et le modèle multiphysique
+* Réalisation de simulations avec le modèle complet propres à caractériser le système de refroidissement en
+conditions déjà testées et en conditions atypiques
+* Analyse des résultats de simulation et de leur sensibilité aux paramètres d'entrée ; recherche des conditions
+optimales
+* Application à des systèmes installés chez les clients afin de permettre de comprendre les comportements
+observés, difficilement reproductibles sans modélisation.
+Profil recherché :
+Bac + 5, école d'ingénieur informatique ou cycle universitaire équivalent.
+Langues
+
+
+
+
+Anglais (Courant)
+Compétences requises
+* Analyser : Critique des résultats de simulations obtenus et identification des problématiques liées à la
+régulation et au contrôle d'un système de refroidissement
+* Dialoguer : La conception d'un grand serveur informatique est un travail d'équipes pluridisciplinaires.
+Comprendre les problématiques des autres équipes de design (mécanique, carte électronique, software) et
+faire comprendre les vôtres est un facteur majeur dans la recherche des meilleurs compromis de design
+* Convaincre : Les résultats du modèle sont des outils de décision précieux pour le management des projets.
+Principales connaissances souhaitables pour ce stage :
+* Compilation d'application en C/C++
+* Bases en régulation/contrôle et modélisation physique
+* Maîtrise d'un logiciel de simulation multiphysique, idéalement OpenModelica
+Compétences appréciées
+Bases en échanges thermique et hydraulique.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8717413
+
+
+
+
+

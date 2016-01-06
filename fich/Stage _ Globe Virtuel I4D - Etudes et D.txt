@@ -1,0 +1,56 @@
+﻿Stage  / Globe Virtuel I4D  - Etudes et D
+ASTRIUM  - An EADS Company
+REFERENCE  :  10218243
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4679508
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Suresnes 92150, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Industry (Aeronautical/Spatial)
+FONCTION  :  Consulting (Information Systems/ Organisation Consulting)
+SOCIETE  :
+L'espace, notre métier.
+Numéro 1 en Europe et numéro 3 mondial, Astrium emploie plus de 17 000 hommes et femmes,
+basés principalement dans cinq pays européens : France, Allemagne, Espagne, Royaume-Uni et
+Pays-Bas. Notre excellence technique et notre expérience de maître d'œuvre couvrent tous les
+segments de la filière spatiale : lanceurs, infrastructures orbitales, systèmes satellitaires et services.
+DESCRIPTION DU POSTE  :
+Astrium Services (Suresnes) recherche un(e) stagiaire pour une durée de 6 mois.
+Votre stage s'inscrit dans le cadre d'un projet de développement d'une application 3D de type «
+Globe Virtuel » dont la finalité est la fusion d'informations de sources multiples (imagerie
+satellitaire, cartographie, documents, données multimédia, etc.).
+Vous participerez à la conception et au développement de fonctionnalités nouvelles et de diverses
+expérimentations technologiques. Les fonctionnalités listées ci-dessous représentent certains des
+développements envisagés :
+- Développement d'une version tablette : version iOS / Android avec des fonctionnalités plus
+limitées et une ergonomie adaptée,
+- Développement d'un module de travail collaboratif : partage en temps réel d'un ensemble de
+données vectorielles entre plusieurs utilisateurs,
+- Développement d'un module de présentation : sauvegarde de « slides » de données géographiques.
+Cette offre de stage est à pourvoir à compter du 3 février 2014 (sujette à une certaine flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Comprendre les fonctionnalités de l'application et l'architecture logicielle existante,
+- Comprendre le besoin et les contraintes associées à la nouvelle fonctionnalité,
+- Participer à la conception son architecture,
+- Participer au développement et au test de la fonctionnalité,
+- Participer à la rédaction de la documentation et proposer des évolutions.
+
+
+
+
+PROFIL  :
+Bac+4/5 Ingénieur, Université en Informatique
+Conception logicielle
+Dév.logiciel (C#, WPF)
+Moteur 3D, traitement d'images
+Travail en équipe
+Relationnel
+Anglais:intermédiaire
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4679508
+
+
+
+
+

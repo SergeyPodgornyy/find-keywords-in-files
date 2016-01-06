@@ -1,0 +1,50 @@
+﻿Offre de stage                                                                                              2015-PS-19-LJ
+
+Réalisation  d’un système de transcodage vidéo distribué  dans un environnement
+Sujet
+cloud.
+Leader mondial des systèmes de compression et de streaming vidéo pour la télévision par
+satellite, terrestre, par câble, sur IP, la télévision mobile et le streaming Internet, Thomson
+Video Networks  offre  à ses clients  - des opérateurs  de réseaux, des  fournisseurs  de
+contenus ou des opérateurs Pay-TV -  la diffusion d’une qualité vidéo supérieure vers tous
+Entreprise
+types de récepteurs, mobiles ou écrans haute définition.
+Thomson Video Networks compte aujourd’hui environ  400 employés   et opère sous la
+marque Thomson. Son siège social est basé à Rennes en France, et compte plus d’une
+dizaine de sites à l’étranger.
+6 mois à partir de mars/avril
+Lieu / Site                                                                                                 Rennes                                                                               Période / Durée
+2015
+Missions                                                                                                    Contexte :
+Développement de produits pour des systèmes et réseaux de transmission en télévision
+numérique SD/HD MPEG2-4-HEVC.  Les systèmes sont typiquement des têtes de réseaux
+(Head-end) numériques câble, satellite ou terrestre.
+L’équipe « Upstream Studies & Architectures » est engagée dans l’étude et la réalisation de
+solutions innovantes adaptées aux besoins de la TV numérique.
+Sujet de stage :
+Le processus d'encodage vidéo de haute qualité est généralement très coûteux en
+ressources de calcul et nécessite beaucoup de temps de traitement.
+Afin d’accélérer le temps de codage, nous envisageons une approche qui consiste à
+fragmenter (split) le flux vidéo en plusieurs morceaux et de répartir les tâches de traitement
+des flux résultants sur plusieurs serveurs (machines virtuelles).  Le défi de cette approche
+réside dans la fragmentation/fusion sans perte de qualité et de synchronisation.
+L’objectif de ce stage est de réaliser un système de transcodage vidéo distribué  dans un
+environnement cloud. Notre composant de transcodage sera adapté pour tenir en compte
+l’approche décrite ci-dessus.
+Environnement de travail :
+Environnement serveur : Linux, C/C++
+Environnement cloud : Docker/Containers LXC.
+Méthode AGILE
+Profil                                                                                                      Niveau d’études : Bac+5 - Ingénieurs/Mastère en informatique industrielle/télécom.
+Curieux et autonome. Ouverture d’esprit, fortes capacités d’initiative et de proposition.
+Indemnité
+Oui
+de stage
+Cette offre vous intéresse :
+Adressez votre candidature à :    lahcen.jerid@thomson-networks.com Références à rappeler : 2015-PS-19-LJ
+Retrouvez nous sur : www.thomson-networks.com
+
+
+
+
+

@@ -1,0 +1,46 @@
+﻿ATOS RECRUTE UN/UNE STAGE ETUDE ET DÉVELOPPEMENT SOA/EAI H/F EN STAGE 6 MOIS.
+Date : 01/11/2014
+Référence de l’offre : 139379-7724468
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Toulouse 31000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les
+systèmes d'information de ses clients.
+Description du poste :
+Intégré(e) au sein d'une équipe projet, votre stage sera composé de 2 phases :
+- une phase d'étude sur un sujet lié à une problématique de développement logiciel (outillage du développeur,
+suivi d'activité du projet, ou autre sujet d'étude),
+- une phase d'immersion projet, pendant laquelle vous contribuerez à la réalisation d'un projet logiciel (en
+phase de développement, de spécification ou de tests).
+Exemples de projets :
+-  automatisation  des  phases  de  validation  via  le  développement  d'outils  de  tests                         (Selenium,  JUnit,
+Java/J2EE…),
+- étude du packaging/déploiement (Maven, Hudson, Ant, scripting…),
+Au cours de ce stage, vous aurez l'occasion d'appréhender toutes les phases du cycle de vie d'un projet
+industriel en étant intégré(e) et accompagné(e) au sein d'une équipe projet.
+Technologies: Architectures SOA, EAI webmethods, Weblogic Portal, JAVA/J2EE, XSDL/XSD.
+Profil recherché :
+De formation bac + 4/5 en cours de validation, vous avez une bonne connaissance du monde JAVA. Vous
+êtes dynamique et avez l'esprit d'équipe, rejoignez-nous !
+Ce stage se déroulera à Atos - Département ESP-EPI à Toulouse. Minimum 5 mois.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles
+aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7724468
+
+
+
+
+

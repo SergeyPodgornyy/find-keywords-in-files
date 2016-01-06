@@ -1,0 +1,41 @@
+﻿Stage 2015
+VALIDATION SÉCURITÉ
+(REF : VV2-2015)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé,  services  à  la  personne,  permettant  de  créer  une  véritable  interaction  entre
+l'usager et son environnement.
+Mission
+TAZTAG  développe  une  infrastructure  de  gestion  d'équipements  mobiles  et  de
+services basée sur une authentification forte des équipements et des utilisateurs.
+L'objectif du stage est de participer à la vérification   de la sécurité de la plate-forme
+ainsi que des services déjà disponibles. Le stage comprendra plusieurs volets :
+   faire une analyse de risque de sécurité et de vulnérabilité de la plate-forme et
+des services
+   proposer et mettre en place des outils de qualification de la solution tel que
+tests d'intrusion, tests de fuzzing, …
+   en fonction des résultats des tests proposer des évolutions ou des corrections à
+l'équipe de développement.
+Le stagiaire sera intégré dans le département R&D de taztag et sera co-encadré par
+des experts validation et sécurité.
+Profil recherché
+Vous avez un niveau BAC +5   : master ou école d’ingénieurs, spécialité sécurité. Vous
+êtes  passionné(e),  autonome,  très  motivé(e)  par  la  sécurité  et  enthousiaste  pour
+participer à la mise en place une solution opérationnelle.
+Compétences souhaitées :
+   Sécurité :   protocoles   cryptographiques,   audits   techniques,   sécurité   des
+applications, …
+   Programmation, développement d'application mobiles (ex. android)
+   Outils de développement open-source
+   Anglais
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 5 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, claire.diehl-watrin@taztag.com
+
+
+
+
+

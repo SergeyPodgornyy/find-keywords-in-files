@@ -1,0 +1,562 @@
+﻿Orange Applications for Business
+Complément
+du livret
+de Stages 2015
+1
+
+
+
+
+Offres de stage
+                    Applications Digitales                                                                   .. 3
+    Lyon ...                                                                                                 .. 3
+                     Sujet : Mise en œuvre technique de projets de Gestion de la Relation Client...           . 4
+                    Applications Digitales                                                                   .. 5
+    Grenoble ...                                                                                             ... 5
+                     Sujet : Digital Workspace - Application tablette de gestion d’interventions terrain
+                     (android / iOS) ...                                                                      ... 6
+                     Sujet : Digital Workspace -  Application tablette d’aide à la vente de produits
+                     configurables (iOS/iPad) ...                                                             .. 7
+    Nantes ...                                                                                               . 8
+                     Sujet : Etude et développement d’une chaine intégration continue autour d’un portail
+                     Web Java/JEE ...                                                                         . 9
+                    Machine To Machine, Temps réel, Multimédia                                               ... 10
+    Marignane ...                                                                                            . 10
+                     Sujet : Aide au lancement d’un nouveau processus logistique dans le domaine M2M ... 11
+                     Sujet : Créer un banc de test pour boitiers dans le domaine M2M ...                      ... 12
+                     Sujet : Processer le traitement des réclamations client dans le domaine M2M ...          .. 13
+    Rennes ...                                                                                               .. 14
+                     Sujet : Réalisation d’une IHM d’administration avec HTML5 et AngularJS ...               . 15
+                     Sujet : Mise en place d’une base de données NoSQL sur une plateforme JEE ...             . 16
+                    Solutions d’Accueils Multicanal                                                          . 17
+    Lille ...                                                                                                .. 17
+                     Sujet : Newton E-Service Genesys ...                                                     ... 18
+    Paris ...                                                                                                ... 19
+                     Sujet : Etude d’un portail client pour une offre cloud internationale ...                ... 20
+                     Sujet : Showroom Genesys ...                                                             .. 21
+2
+
+
+
+
+ Applications Digitales
+ Lyon
+3
+
+
+
+
+Technologies mobiles - Portails
+Sujet : Mise en œuvre technique de projets de Gestion de la Relation
+Client
+Lieu :                                                                                    Durée :   Responsable stage :   Référence :
+Lyon                                                                                      6 mois    Frédéric C.           OAB/AD/ST80bis/AMA
+Objectif
+Intégré(e)  à  l’équipe  CRM  de  l’un  des  plus  importants  partenaires  Microsoft
+rançais, vous participez à la mise en œuvre de projets en mode forfaitaire au sein
+d’une équipe spécialisée.
+Intéressé(e) par les aspects techniques, mais également par les problématiques
+onctionnelles  et  métier,  vous  contribuez  à  apporter  une  solution  concrète  et
+Technologies
+adaptée aux besoins d’optimisation de la Relation Client des entreprises qui font
+Dynamics CRM
+appel à l’expertise d’Orange Business Services.
+.NET
+JavaScript, HTML
+Ce    stage    vous    apporte    des    compétences    techniques,    fonctionnelles,
+SQL
+méthodologiques et organisationnelles.
+Les tâches qui vous sont confiées sont les suivantes :
+    Installation et configuration du produit Microsoft Dynamics CRM ;
+    Paramétrage de l’outil en fonction des besoins et problématiques métier ;
+    Réalisation des développements ;
+    Définition et réalisation des tests.
+Pour  chacune des  tâches  mentionnées  ci-dessus,  vous  êtes  encadré(e)  par  des
+spécialistes :  chef  de  projet,  consultants  fonctionnels,  consultants  techniques,
+ngénieurs d’étude expérimentés.
+Vous bénéficiez en début de stage d’une formation interne sur l’outil Microsoft
+Dynamics CRM.
+Profil recherché
+Stage de fin d’études niveau bac +5.
+Bonnes connaissances générales des technologies de l’information, faculté
+d’adaptation.
+Sensibilité aux processus d’ingénierie logicielle.
+Sensibilité technique et fonctionnelle.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42170&lang=fr&wmode=light
+4
+
+
+
+
+ Applications Digitales
+ Grenoble
+5
+
+
+
+
+Technologies mobiles
+Sujet : Digital Workspace - Application tablette de gestion
+d’interventions terrain   (android / iOS)
+Lieu :                                                                              Durée :                                        Responsable stage :                                                  Référence :
+Grenoble                                                                            6 mois                                         Fabien L.                                                            OAB/AD/
+/ST60bis/FLA
+Contexte
+Orange Business Services conçoit des solutions de productivité, afin de
+gérer  le  nomadisme  en  entreprise.  Ces  solutions  ont  pour  vocation
+d’améliorer la fluidité, l’efficacité et la fiabilité des processus métiers, mais
+aussi la gestion de la relation client.
+Technologies
+Objectif
+Android
+L’objectif du stage est de réaliser une solution pour tablettes iPad et
+iOS
+Android  permettant  de  gérer  les  processus  d’interventions  terrain
+Web mobile
+utilisable par différents secteurs d’activité (industrie, santé, services,..).
+Basée sur un moteur Opensource de gestion de formulaires dynamique, la
+solution devra gérer :
+-                                                                                   les planifications d’interventions,
+-                                                                                                                                  les règles métier à appliquer lors de l’intervention (assistance),
+-                                                                                   la remontée de compte-rendu et d’indicateurs
+-                                                                                   la validation des remontées (workflows)
+Le stage sera réalisé selon une méthode agile. Il comportera des phases
+d’analyse et spécifications, conception, réalisation et recette de la solution.
+Profil recherché
+Stage de fin d’étude niveau bac +5 / Master / Ecole d’ingénieur. Bonnes
+connaissances générales des technologies mobiles (iOS, android ou web
+mobile), faculté d’adaptation et esprit d’équipe. Etre force de proposition
+et sensible aux processus d’ingénierie logiciel et à la Qualité
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42509&lang=fr&wmode=light
+6
+
+
+
+
+Technologies mobiles
+Sujet : Digital Workspace -  Application tablette d’aide à la vente de
+produits configurables (iOS/iPad)
+Lieu :                                                                              Durée :                                 Responsable stage :                                                           Référence :
+Grenoble                                                                            6 mois                                  Fabien L.                                                                     OAB/AD/
+/ST61bis/FLA
+Contexte
+Orange Business Services conçoit des solutions de productivité, afin de
+gérer  le  nomadisme  en  entreprise.  Ces  solutions  ont  pour  vocation
+d’améliorer la fluidité, l’efficacité et la fiabilité des processus métiers, mais
+aussi la gestion de la relation client.
+Technologies
+iOS                                                                                 Objectif
+Web services                                                                                                                L’objectif du stage est de réaliser une solution pour tablettes iPad devant
+                                                                                    permettre à des équipes de vente de :
+                                                                                    -                                       présenter des produits et services à haut valeur ajoutée,
+                                                                                    -                                       configurer la solution répondant aux besoins du client,
+                                                                                    -                                       établir un devis,
+                                                                                    -                                       remonter les informations auprès de la Direction des Ventes.
+L’accent sera mis sur l’ergonomie de la solution (design, utilisabilité).
+Le stage sera réalisé selon une méthode agile. Il comportera des phases
+d’analyse et spécification, conception, réalisation et recette de la solution.
+Profil recherché
+Stage de fin d’étude niveau bac +5 / Master / Ecole d’ingénieur. Bonnes
+connaissances  générales  des  technologies  mobiles  et  web,  faculté
+d’adaptation et esprit d’équipe. Etre force de proposition et sensible aux
+processus d’ingénierie logiciel et à la Qualité
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42508&lang=fr&wmode=light
+7
+
+
+
+
+ Nantes
+8
+
+
+
+
+Technologies Mobiles - Portails
+Sujet : Etude et développement d’une chaine intégration continue autour
+d’un portail Web Java/JEE
+                                                                                              Lieu :                                                                       Durée :   Responsable stage :                                                             Référence :
+                                                                                              Nantes                                                                       6 mois    Alexandre .J/Antoine D.                                                         OAB/AD/ST28bis/ABE
+Technologies
+Java / JEE, GWT                                                                               Contexte et objectifs
+Hibernate, EJB,                                                                                                                                                                      Ce projet s’inscrit dans le cadre du développement d’un portail Web destiné à
+Spring
+l’échange de données entre une grande entreprise et ses 7000 partenaires sous-
+Maven, Jenkins
+traitants.
+Selenium, JUnit,
+EasyMock
+Objectif
+Le  but  principal  sera  d'outiller  le  portail  Web  en  tests  unitaires  et  en  tests
+Selenium                                                                                      (outil  d'automatisation  de  tests  IHM),  et  d'intégrer  ces  tests  au
+processus d'intégration continue.
+D'autres  chantiers  techniques  pourront  également  être  menés,  dans  le  but
+d'améliorer la qualité de l'application, notamment :
+    Généralisation de l'utilisation de Spring ;
+    Refactoring du code pour l’adapter aux normes et bonnes pratiques ;
+    Automatisation de process de build/déploiement par scripting shell ;
+    Mise en place d'outils d’aide au développement.
+Descriptif
+Le stage débute par une étape d’intégration au contexte et de prise de
+connaissance des chantiers passés et en cours. Les réalisations sont engagées par
+la suite.
+Le/la stagiaire sera intégré (e) dans l’équipe de développement de ce projet et
+suivra  le  cycle  complet  du  développement  de  nouvelles  fonctionnalités  (des
+spécifications aux tests).
+Profil recherché
+Etudiant (e) en fin de cycle ingénieur ou universitaire possédant une connaissance
+du langage Java et des environnements associés.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42145&lang=fr&wmode=light
+9
+
+
+
+
+ Machine To Machine, Temps réel, Multimédia
+ Marignane
+10
+
+
+
+
+Machine To Machine - Temps réel - Multimédia
+Sujet : Aide au lancement d’un nouveau processus logistique dans le
+domaine M2M
+Lieu                                                                                     Durée :   Responsable stage :   Référence :
+Marignane                                                                                6 mois    Olivier  A.           OAB/MTM/ST77bis/SUB
+Objectif
+L’objectif  principal  de  ce  stage  est  d’accompagner  le  lancement  d’un  nouveau
+process logistique pour des boitiers embarqués.
+Dans le cadre notre activité, des  boitiers  embarqués  sont utilisés pour les SAV
+auprès des installateurs.
+Afin d’augmenter l’efficacité des SAV, un nouveau process logistique va être lancé
+Technologies
+auprès de l’ensemble des installateurs.
+Electricité /
+Le but du stage est de :
+électronique
+    Lister les contraintes à prendre en compte pour la réalisation du projet ;
+    Aider à définir les process détaillés qui seront mis en œuvre ;
+    Tester préalablement le process avant la mise en œuvre définitive ;
+    Rédiger sous forme de logigrammes les process ;
+    Aider à la rédaction de la nouvelle charte accompagnant la mise en place du
+nouveau process ;
+    Participer au lancement du process auprès de l’ensemble des acteurs ;
+    Apporter les corrections nécessaires suite à la mise en œuvre du process.
+Profil recherché
+Niveau bac +5.
+Bonnes connaissances générales des technologies, facultés d’adaptation et esprit
+d’équipe.
+Connaissance des environnements suivants : électronique, informatique, logistique.
+Etre force de proposition en termes de logistique et d’efficacité.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=41956&lang=fr&wmode=light
+11
+
+
+
+
+Machine To Machine - Temps réel - Multimédia
+Sujet : Créer un banc de test pour boitiers dans le domaine M2M
+Lieu                                                                                      Durée :                                     Responsable stage :   Référence :
+Marignane                                                                                 3 mois                                      Olivier  A.           OAB/MTM/SUB
+(octobre -
+décembre)
+Objectif
+L’objectif principal de ce stage est d’aboutir à la création d’un banc de test destiné
+à des boitiers de géolocalisation.
+Dans le cadre notre activité, les boitiers arrivants au SAV font l’objet de diagnostics
+et sont donc soumis à des tests en nombre.
+Technologies
+Afin d’augmenter l’efficacité des tests, un banc de test devra être étudié en fonction
+Electricité /
+électronique                                                                              de nombreux paramètres, dont l’ergonomie.
+Le but du stage est de :
+    Lister les contraintes à prendre en compte pour la réalisation du banc de
+test ;
+    Elaborer différentes architectures possibles ;
+    Proposer les différentes architectures et obtenir un consensus ;
+    Lister et acheter les matériaux nécessaires à la réalisation ;
+    Réaliser le banc de test ;
+    Tester la réalisation et apporter les améliorations nécessaires.
+Profil recherché
+Niveau bac +4.
+Bonnes connaissances générales des technologies, facultés d’adaptation et esprit
+d’équipe.
+Connaissance des environnements suivants : électronique, informatique,
+ergonomie.
+Etre force de proposition en termes d’ergonomie et d’efficacité.
+Etre sensible aux processus d’ingénierie électrique.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=41955&lang=fr&wmode=light
+12
+
+
+
+
+Machine To Machine - Temps réel - Multimédia
+Sujet : Processer le traitement des réclamations client dans le domaine
+M2M
+Lieu                                                                                      Durée :                                                                                  Responsable stage :   Référence :
+Marignane                                                                                 3 mois                                                                                   Olivier  A.           OAB/ST78bis/MTM/SUB
+Objectif
+L’objectif principal de ce stage est d’aboutir à la création et à la mise en place d’un
+process permettant le traitement des réclamations.
+Dans le cadre notre activité, des interlocuteurs de différents niveaux nous font
+parvenir des réclamations qui sont traitées jusqu’à leur clôture.
+Technologies
+informatique                                                                              Afin d’augmenter l’efficacité du traitement de ces réclamations, un process devra
+                                                                                          être  mise  en  place  et  testé.  Ce  process  devra  inter-réagir  avec  le  système
+informatique existant.
+Avec l’aide soutenue du responsable, le but du stage est de :
+    Comprendre les produits et services commercialisés ;
+    Elaborer un process de traitement des réclamations ;
+    Proposer le process aux équipes et obtenir un consensus ;
+    Rédiger  le  process  ainsi  que  le  cahier  des  charges  sur  les  parties
+informatiques ;
+    Suivre les adaptations informatiques ;
+    Tester le process sur plusieurs cas concrets ;
+    Corriger le process suite aux tests.
+Profil recherché
+Stage niveau bac +4.
+Bonnes connaissances générales des technologies, faculté d’adaptation et esprit
+d’équipe.
+Connaissance des environnements suivants : informatique, process.
+Etre force de propositions en termes d’ergonomie et d’efficacité.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42014&lang=fr&wmode=light
+13
+
+
+
+
+ Rennes
+14
+
+
+
+
+Machine To Machine - Temps réel - Multimédia
+Sujet : Réalisation d’une IHM d’administration avec HTML5 et
+AngularJS
+Lieu :                                                                                 Durée :                                                                            Responsable stage :   Référence :
+Rennes                                                                                 6 mois                                                                             Thierry D.            OAB/MTM/ST53bis/ASD
+Objectif
+Malima  est  une  plateforme  qui offre aux   « clients  entreprise »  une  solution
+leur  permettant  de  gérer  leurs  parcs  de cartes SIM. La plateforme supervise
+actuellement plusieurs millions de cartes SIM et est en forte croissance.
+Au  sein  d’une  équipe  d’ingénieurs  expérimentés suivant  la  méthodologie
+Agile/Scrum, vous aurez  comme  objectif  de réaliser une interface
+Technologies                                                                           Homme/Machine pour l’administration de la plateforme.
+HTML5, CSS3,                                                                           Le stage sera encadré par un ingénieur expérimenté. Il se déroulera en plusieurs
+AngularJS, JAVA, API                                                                   phases :
+REST
+    Spécification/conception du système ;
+    Développement d’un démonstrateur puis d’une version opérationnelle ;
+    Validation.
+Le/la stagiaire participera aux cérémonies agiles et pourra présenter ses
+réalisations lors des démonstrations.
+Profil recherché
+    Stage de fin d’étude niveau Bac+5, bonne communication, dynamique ;
+    Bonnes connaissances générales des technologies, faculté d’adaptation et
+esprit d’équipe ;
+    Connaissance des environnements suivants : IHM, technologie Web,
+HTML5, Java, SGBD ;
+    Etre force de propositions en termes d’ergonomie et de design ;
+    Etre sensible aux processus d’ingénierie logicielle ;
+    Bonne maitrise de l’anglais.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42231&lang=fr&wmode=light
+15
+
+
+
+
+Machine To Machine - Temps réel - Multimédia
+Sujet : Mise en place d’une base de données NoSQL sur une plateforme JEE
+Lieu :                                                                                 Durée :                                                                               Responsable stage :   Référence :
+Rennes                                                                                 6 mois                                                                                Thierry D.            OAB/MTM/ST52bis/ASD
+Objectif
+Malima  est  une  plateforme  qui offre aux   « clients  entreprise »  une  solution
+leur  permettant  de  gérer  leurs  parcs  de cartes SIM. La plateforme supervise
+actuellement plusieurs millions de cartes SIM et est en forte croissance.
+Au  sein  d’une  équipe  d’ingénieurs  expérimentés suivant  la  méthodologie
+Technologies                                                                           Agile/Scrum, vous aurez  comme  objectif  de réaliser un démonstrateur mettant
+MySQL, NoSQL,                                                                          en œuvre une base de données NoSQL. L’objectif étant d’identifier la valeur ajoutée
+JAVA                                                                                   du NoSQL dans l’environnement actuel.
+Le stage sera encadré par un ingénieur expérimenté. Il se déroulera en plusieurs
+phases :
+    Spécification/conception du système ;
+    Développement du démonstrateur ;
+    Validation.
+Le/la stagiaire participera aux cérémonies agiles et pourra présenter ses
+réalisations lors des démonstrations.
+Profil recherché
+    Stage de fin d’étude niveau Bac+5, bonne communication, dynamique ;
+    Bonnes connaissances générales des technologies, facultés d’adaptation et
+esprit d’équipe ;
+    Connaissance des environnements suivants : bases de données, Java,
+UML ;
+    Etre sensible aux processus d’ingénierie logicielle ;
+    Bonne maitrise de l’anglais.
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42232&lang=fr&wmode=light
+16
+
+
+
+
+ Solutions d’Accueils Multicanal
+ Lille
+17
+
+
+
+
+Solutions d’Accueils Multicanal
+Sujet : Newton E-Service Genesys
+Lieu :                                                                         Durée :   Responsable stage :   Référence :
+Lille                                                                          6 mois    Nicolas W.            OAB/SAM/ST1/SUB
+Objectif
+Intégration de la gestion des E-mail Genesys sur la solution de centre de
+contact Genesys pour les clients entreprise du groupe Orange.
+Vous contribuerez aux specifications, développements, intégrations et
+validations de la solution e-services dans le cadre du projet Newton.
+Technologies
+Genesys
+    Vous contribuerez à l’installation de la suite E-Service sur
+l’environement Genesys de pré-production et de production
+intégrant déjà la gestion des appels entrants ;
+    Vous assurerez le paramètrage de la solution client pour répondre
+aux besoins métiers sur les deux environements ;
+    Vous réaliserez la recette interne de l’environement de pré-
+production et assurerez le support du client lors de la phase de
+VABF ;
+    Vous rédigerez le guide utilisateur de la solution pour les exploitants
+du client ;
+    Vous assurez la formation des exploitants et l’assistance lors de la
+phase de mise en service.
+Profil recherché
+Elève Ingénieur, Projet de Fin d’Etude
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42240&lang=fr&wmode=light
+18
+
+
+
+
+ Paris
+Paris
+19
+
+
+
+
+Solutions d’Accueils Multicanal
+Sujet : Etude d’un portail client pour une offre cloud internationale
+Lieu :                                                                                 Durée :                                                                  Responsable stage :   Référence :
+Paris                                                                                  6 mois                                                                   Joel De C.            OAB/SAM/ST3/KBS
+Objectif
+L’objet du stage est d’étudier la mise en œuvre d’un portail pour les offres Contact
+Center As A Service : CCAAS
+o                                                                                      Le rôle du portail est d’apporter au client l’ensemble des outils pour
+piloter le service offert autour des fonctionnalités suivantes
+    Routage des appels;
+Technologies
+    Gestion des centres d’appels;
+Cisco HCS                                                                                  Gestion des utilisateurs;
+    Billing;
+    Suivi des demandes (Incident / Changement/….)
+s’appuyant sur les processus ITIL mis en place par Orange ;
+    Services vocaux ;
+    Services applicatifs métier de support (supervision /
+provisionning) ;
+    Analyse des données statistiques.
+o                                                                                      Le stage est découpé en 3 phases
+    Phase n°1 : Analyse du besoin
+    Groupes de travail pour récupérer les besoins ;
+    Définition du périmètre fonctionnel;
+    Phase n°2 : Conception
+    Faire une proposition de méthodologie pour le
+développement basée sur le suivi des exigences et
+sur les tests unitaires ;
+    Analyse des solutions pour un atelier logiciel
+d’intégration continue ;
+    Définir une architecture d’analyse des données
+d’appels (volumétrie de plusieurs millions
+d’appels) s’appuyant sur les technologies d’analyse
+de données Big Data (Hadoop).
+    Phase n°3 : Mise en place d’une maquette
+o                                                                                      Restitution :
+    Document de synthèse et de préconisations ;
+    Maquette avec développement dans un langage du choix du
+stagiaire.
+Profil recherché
+Elève Ingénieur, Projet de Fin d’Etude
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42244&lang=fr&wmode=light
+20
+
+
+
+
+Solutions d’Accueils Multicanal
+Sujet : Showroom Genesys
+Lieu :                                                                      Durée :   Responsable stage :   Référence :
+Palaiseau                                                                   6 mois    Fabien M.             OAB/SAM/ST2/KBS
+Objectif
+Enrichissement de l’environnement Genesys du Showroom utilisé par les
+équipes avant-vente et marketing pour les démonstrations client.
+    Vous analyserez les besoins récurrents d’évolution de
+l’environnement émis par les équipes marketing et avant-vente en
+Technologies
+fonction des besoins clients et des évolutions du produit. Le cas
+Genesys
+échéant vous saurez être force de propositions;
+    Vous spécifierez au niveau fonctionnel et technique l’intégration de
+ces nouvelles fonctionnalités sur l’environnement existant en
+mesurant les impacts sur l’existant ;
+    Vous réaliserez les développements nécessaires à leur intégration et
+coordonnerez les différents intervenants techniques concernés ;
+    Vous validerez les livrables des autres équipes techniques
+contributrices au projet ;
+    Vous assisterez les équipes marketing et avant-vente lors des
+démonstrations client et vous assurerez de l’opérabilité de
+l’environnement avant chaque événement client ;
+    Vous réaliserez les travaux de maintenance, curatif et préventif
+nécessaires au bon fonctionnement de la solution ainsi que les mises
+à jour logicielles du produit.
+Profil recherché
+Elève Ingénieur, Projet de Fin d’Etude
+Contact recrutement
+Pour candidater : http://orange.jobs/site/fr-home/
+http://orange.jobs/jobs/offer.do?joid=42242&lang=fr&wmode=light
+21
+
+
+
+
+Pour candidater  :
+Inscrivez-vous sur
+http://orange.jobs/site/fr-home/
+2
+
+
+
+
+

@@ -1,0 +1,51 @@
+﻿AIRBUS  ­  AN  EADS  COMPANY  RECRUTE  UN/UNE  CONCEPTION  ET
+DÉVELOPPEMENT  PROGICIEL  EN  STAGE  6  MOIS.
+Date  :  01/03/2014
+Référence  de  l’offre    :  10226550­5676728
+Domaine  d’activité    :  Information  systems  /  Telecom  (Development  Engineer)
+Type  de  contrat    :  Stage
+Localisation    :  Marignane  13725,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Bac  +5
+Années  d’expérience    :  &lt;  6  months
+Description  de  l’entreprise    :
+Le  groupe  Eurocopter  emploie  environ  22000  personnes.  En  2012,  Eurocopter  confirme
+sa  position  d'hélicoptériste  numéro  1  mondial  sur  les  marchés  civils  et  parapublics,  avec
+un  chiffre  d'affaires  de  6,3  milliards  d'euros,  469  hélicoptères  neufs  commandés  et  44  %
+du  marché  civil  et  parapublic.  Les  produits  du  Groupe  représentent  33  %  de  l'ensemble  de
+la  flotte  mondiale  d'hélicoptères  civils  et  parapublics.  Eurocopter  est  fortement  présent  à
+l'international  grâce  à  ses  filiales  et  participations  implantées  dans  21  pays.
+Description  du  poste    :
+Eurocopter  (Marignane)  recherche  un(e)  stagiaire  pour  une  durée  de  6  mois.
+Au  sein  du  département  Ingénierie  Système  informatique,  vous  intégrez  l'équipe
+Préparation  de  Mission.
+Vous  aurez  pour  objectif  de  Concevoir  et  Développer  un  progiciel  de  gestion  des  Masses­
+Centrage  des  hélicoptères  relatif  à  la  préparation  de  mission.
+Cette  offre  de  stage  est  à  pourvoir  à  compter  du  3  Mars  2014  (sujette  à  une  certaine
+flexibilité).
+Vous  aurez,  par  exemple,  les  missions  suivantes  :
+­ Formaliser  le  besoin  fonctionnel  du  progiciel,
+­ Concevoir  l'architecture  système  et  software  du  progiciel,
+­ Développer  l'application  informatique  en  JAVA
+­ Budgéter  l'application  dans  un  contexte  opérationnel.
+Profil  recherché    :
+Vous  êtes  en  dernière  année  d'école  d'ingénieur,  en  master  ou  université  (5ème  année)  et
+êtes  spécialisé(e)  en  Informatique.
+Une  connaissance  de  JAVA  serait  un  plus.
+
+
+
+
+Vous  savez  travailler  en  équipe  et  avez  d'excellentes  qualités  relationnelles.
+Anglais  :  niveau  intermédiaire
+Merci  de  bien  vouloir  postuler  en  ligne  en  joignant  votre  CV.
+Airbus  Group  s'engage  pour  la  Diversité.  Nous  encourageons  toutes  les  candidatures
+indépendamment  de  l'origine  sociale  et  culturelle,  de  l'âge,  du  genre,  du  handicap,  de
+l'orientation  sexuelle  ou  des  croyances  religieuses.
+Airbus  Group  Recruitment  Center
+Pour  postuler    :  http://airbusgroup.contactrh.com/jobs/1536/5676728
+
+
+
+
+

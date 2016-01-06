@@ -1,0 +1,67 @@
+﻿Date : 02/01/14
+Concepteur Développeur
+Poste à pourvoir
+Informatique
+Contrat à durée déterminée de 3 mois
+Type de contrat                                                                                            (renouvelable) jeune diplômé
+                                                                                                           ou stage de fin d’étude de 6 mois
+Localisation                                                                                               Ploufragan (22)
+Prise de fonction souhaitée                                                                                15/02/14
+Rémunération                                                                                               Selon formation et niveau de formation
+L’ENTREPRISE
+Entreprise recruteuse:
+ZOOTESTS
+Parc Technologique du Zoopôle
+5 rue Gabriel Calloet Kerbrat
+22440 Ploufragan
+www.zootests.fr
+-                                                                                                          Manageur : Christophe ALLENO,
+-                                                                                                          8 employés : 6 techniciens et 2 ingénieurs.
+Missions/Actions :
+L’entreprise Zootests se positionne dans le domaine de l’expérimentation animale en élevage volaille
+et porcin.   L’entreprise propose un réseau d’éleveurs sous contrat à ses clients pour permettre la
+validation de l’efficacité de nouveaux produits d’élevages (génétique, additifs, etc.). Zootests propose
+des services à la carte tels que la conception de protocoles expérimentaux, la mise en place d’essais
+en zootechnie, la mesure physique de la qualité des produits d’élevage.
+Zootests propose des mesures pour déterminer la résistance de la membrane vitelline de l’œuf,
+résistance de la coquille, couleur du jaune de l’œuf ou encore de la viande, résistance des os, etc.
+C’est dans cette expertise zootechnique que s’intègre le poste de « développeur informatique ».
+DESCRIPTION DU POSTE
+Missions :
+Sous l’autorité des ingénieurs R&D, l’employé sera en charge de la conception d’un logiciel unique de
+collecte de données et en réseau sur plusieurs machines de mesure. Ce logiciel devra être facilement
+accessible aux techniciens en charge des mesures physiques.
+
+
+
+
+Activités :
+-                                                                                                                                                                                     Phase de découverte des différentes mesures (pratiques possibles),
+-                                                                                           Conception  d’un  logiciel  unique                                                                                                                                                                                                                         (mais  modifiable  si  besoin)  pour  toutes  les  mesures
+                                                                                            physiques,
+                                                                                                                                                                                                                                                           IMPORTANT : Proposer des logiciels de programmation assistés (durable et évolutif dans le
+                                                                                                                                                                                      temps, qualité/prix avantageux, facilité de développement).
+-                                                                                                                                                                                                                                                          Mise en pratique du logiciel et comparatif de la collecte des données entre le logiciel
+                                                                                            développé et les logiciels actuellement utilisés.
+                                                                                            PROFIL RECHERCHE
+                                                                                            Diplômes requis : minimum BAC+2 en concepteur, programmateur, développeur informatique.
+Expériences similaires :
+-                                                                                           Expérience en conception de logiciels,
+-                                                                                           Expérience en mise en réseau de machines de mesure.
+Compétences :
+-                                                                                           Conception de logiciels accessibles à tous,
+-                                                                                           Pilotage de machines et acquisition de données,
+-                                                                                           Mise en réseau,
+-                                                                                           Capacité de formation,
+-                                                                                           Rigueur et efficacité,
+-                                                                                           Capacité d’adaptation et goût pour le travail en équipe,
+-                                                                                           Connaissance en physique (mécanique, …) serait un plus.
+POUR POSTULER
+Renseignements sur le poste : Marina BERAL (m.beral@zootests.fr ou 02.96.76.51.15)
+Adresser les candidatures par courriel (lettre de motivation + CV) à l’adresse suivante :
+m.beral@zootests.fr
+
+
+
+
+

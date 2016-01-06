@@ -1,0 +1,39 @@
+﻿AJSTAGE RECRUTE UN/UNE INGÉNIEUR DÉVELOPPEMENT C# - UPSIDEO EN STAGE DE 5 À 6
+MOIS.
+Date : 01/04/2014
+Référence de l’offre : idcu-5946405
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : PARIS 75000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : None
+Années d’expérience :
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+Upsideo est une société française d'édition de logiciels financiers.
+Les fondateurs d'Upsideo sont des professionnels expérimentés et reconnus de l'informatique et de la finance qui
+ont participé à la création de plateformes de distribution pour d'importants établissements financiers.
+Nous recherchons un stagiaire passionné par le développement C# et disposant d'une solide connaissance de ce
+langage.
+Tous les développements réalisés par Upsideo s'appuient intégralement sur les technologies Microsoft: C#, SQL
+Server 2012, Windows Server 2012, .Net 4.5, JQuery, BootStrap etc.
+Nos applications sont utilisées par différents métiers au sein des établissements financiers et elles sont donc
+fortement interconnectées avec d'autres applications ou flux d'information.
+Le XML et les Web Services doivent par conséquent vous être familiers.
+Vous travaillerez sous la responsabilité du Directeur Technique au sein d'une société en pleine croissance.
+MERCI DE POSTULER VIA :
+http://www.ajstage.com/offre/Ingenieur-Developpement-C-chez-Upsideo
+Profil recherché :
+De formation ingénieur ou informatique en Bac+4/5.
+Un stage fin d'études sera particulièrement apprécié.
+Vous maitrisez l'anglais technique et avez une bonne connaissance des technologies suivantes:
+C#, SQL Server 2012, Windows Server 2012, .Net 4.5, JQuery, BootStrap
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/5946405
+
+
+
+
+

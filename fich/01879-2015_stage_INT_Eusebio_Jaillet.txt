@@ -1,0 +1,70 @@
+﻿Titre du stage : Outils d’analyse continue de l’activité neuronale corticale et sous-corticale
+chez le patient parkinsonien et le rongeur
+Durée : 5-6 mois
+Niveau : dernière année d'école d'ingénieur
+Dates envisagées : entre février et septembre 2014
+Encadrant(s) : Alexandre Eusebio (praticien hospitalo-universitaire)
+Florent Jaillet (ingénieur en traitement du signal et développement logiciel)
+Descriptif :
+La maladie de Parkinson est une maladie neurodégénérative invalidante affectant le contrôle des
+mouvements volontaires et se manifestant par la triade clinique : tremblement, rigidité et lenteur
+des  mouvements.  Les  mécanismes  pathologiques  à  l’origine  de  ces  manifestations  sont
+incomplètement élucidés. Depuis maintenant deux décennies, la stimulation à haute fréquence
+de  certains  noyaux  du  cerveau  (le  noyau  sous-thalamique  notamment)  a  montré  une  nette
+efficacité  dans  la  réduction  des  symptômes  de  la  maladie  de  Parkinson.  Par  ailleurs,  la
+stimulation  étant  délivrée  par  l’intermédiaire  d’électrodes  implantées  chirurgicalement,  elle  a
+également permis d’enregistrer l’activité électrique au sein des noyaux impliqués dans le contrôle
+moteur.  Cette  approche  a  permis  d’apporter  des  informations  cruciales  concernant  le
+fonctionnement de ce réseau de neurones et les dysfonctionnements observés dans la maladie
+de Parkinson. On retrouve notamment dans les ganglions de la base et le cortex de ces patients
+des activités neuronales excessivement synchronisées dans la bande bêta  (~20 Hz) qui sont
+considérées comme un biomarqueur électrophysiologique de la maladie (Brown, 2003). Mais des
+activités  dans  d’autres  bandes  de  fréquences  peuvent  également  être  enregistrées  chez  le
+patient  notamment  lors  de  l’exécution  de  tâches  cognitives,  attentionnelles,  de  prise  de
+décision... Chez le rongeur des activités comparables au sein du noyau sous-thalamique ont été
+identifiées comme étant un marqueur possible de la perte de contrôle sur la prise de cocaïne.
+Les outils d’analyse généralement utilisés dans ce contexte reposent sur un moyennage centré
+autour d’événements et nécessitent un grand nombre d’essais. Or cette méthodologie ne prend
+pas en compte le caractère dynamique au cours du temps des activités oscillatoires et n’est pas
+adaptée si l’on souhaite examiner le décours temporel de modifications du signal induites par une
+succession d’événements.
+L’objectif de ce stage est de participer au développement d’outils logiciels permettant d’analyser
+en continu l’activité neuronale corticale et du noyau sous-thalamique chez le patient parkinsonien
+et le rongeur. Le travail comportera une part bibliographique et méthodologique pour déterminer
+les méthodes de traitement les mieux adaptées aux données, et une part de développement
+logiciel pour implémenter ces méthodes et les valider sur les jeux de données déjà recueillies
+dans l'équipe. Ce développement s'appuiera sur des bibliothèques de traitement de données
+électrophysiologiques existantes et se fera sous MATLAB et/ou Python.
+Références :
+Brown P. Oscillatory nature of human basal ganglia activity: Relationship to the pathophysiology of Parkinson's
+disease. Mov Disord 2003; 18: 357-363.
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                             5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+Compétences requises:
+- Traitement du signal, en particulier filtrage linéaire et analyse temps-fréquence
+- Probabilités et statistiques
+- Développement logiciel, idéalement avec une bonne connaissance de MATLAB et Python
+Contexte : L'Institut de Neurosciences de la Timone (INT, http://www.int.univ-amu.fr ) est une
+unité mixte de recherche qui a pour objectif de développer des recherches interdisciplinaires en
+neuroscience. Situé sur le Campus de la Faculté de Médecine d'Aix Marseille Université, il est
+doté  de  plateformes  technologiques  de  haut  niveau  au  service  d'équipes  de  recherche  en
+neurosciences théoriques et expérimentales.
+Gratification : Ce stage donnera lieu à une gratification au niveau du standard légal.
+Envoyer CV + lettre de motivation à alexandre.eusebio@ap-hm.fr et florent.jaillet@univ-amu.fr.
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                 5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

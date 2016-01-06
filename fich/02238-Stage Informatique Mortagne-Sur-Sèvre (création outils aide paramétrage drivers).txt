@@ -1,0 +1,33 @@
+﻿Annonce diffusée le : 12 Novembre 2014
+Offre de Stage
+Stagiaire Informatique (H/F)
+Mortagne-Sur-Sèvre (85)
+Le  groupe  Delta  Dore                                                                            (800  personnes,   125  M€  de  CA)  conçoit,  fabrique  et
+commercialise  une  offre  complète  de  produits  et  services  en  domotique,  gestion
+technique du bâtiment et maîtrise de l’efficacité énergétique. Vous serez rattaché au
+Responsable Innovation Activité Industrielle.
+MISSIONS
+Energy  Vision  est  une  solution  logiciel  permettant  la  supervision  et  le  pilotage  des
+énergies  consommées  par  les  bâtiments.  Le  BACNet  IP  est  un  protocole  de
+communication  de  plus  en  plus  utilisé  sur  Energy  Vision.  Le  développement  logiciel
+d’outils  de  paramétrage  en  masse  est  nécessaire  pour  améliorer  la  productivité  des
+techniciens de mise en service.
+Intégré  au  sein  de  la  Business  Unit  Energy  Management  Systems,  vos  missions
+consisteront à :
+Créer  un  outil  d’aide  au  paramétrage  des  drivers  OPC  BACNet  pour  Energy
+Vision.
+PROFIL :
+De  formation  Bac  +2  en  Informatique,  de  type  DUT  GEII,  vous  êtes  intéressé  par
+l’informatique industrielle. Vous êtes familier avec le langage de programmation VB.NET.
+Votre rigueur, votre organisation et votre sens du travail en équipe vous permettront de
+mener à bien cette mission.
+Début : Dès que possible
+Durée : 2 mois
+CONTACT
+Delta Dore, Service Recrutement, Le Vieux Chêne, 35270 Bonnemain
+apprentis_stagiaires@deltadore.com
+
+
+
+
+

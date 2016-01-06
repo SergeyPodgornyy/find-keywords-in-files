@@ -1,0 +1,45 @@
+﻿CS  COMMUNICATION  ET  SYSTEMES  RECRUTE  UN/UNE  RÉALISATION  DE  PLUGIN  DE
+SIGNATURE H/F EN STAGE DE 3 À 4 MOIS.
+Date : 15/01/2015
+Référence de l’offre : SEC/LPR/N°6 -8596162
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Le Plessis Robinson 92350, FR
+Durée du contrat : De 3 à 4 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+Avec 1700 collaborateurs pour un chiffre d'affaires de 173 millions d'euros, CS se positionne parmi les
+premières sociétés de services en informatique en France et s'affirme comme un concepteur, intégrateur et
+opérateur de systèmes critiques de tout premier plan. Nos clients européens et mondiaux sont dans les
+secteurs de la Défense, aéronautique, spatial, énergie, transport, secteur public et finance. CS réalise environ
+80% de ses projets au forfait.
+CS est coté sur le marché Euronext Paris.
+Description du poste :
+Dans le cadre de son offre de produits de sécurité des systèmes d'information (authentification, signature
+électronique, chiffrement, …), CS cherche un stagiaire intégré à l'équipe de R pour réaliser un certain nombre
+de plugin pour intégrer son composant de signature TrustySign dans les outils bureautiques du marché.
+Les outils bureautiques ciblés sont :
+- Les outils de messagerie Outlook et Thunderbird
+- Les éditeurs de texte Word et Libre Office
+Les principales missions du stage sont :
+- Analyser les capacités des différents outils bureautiques en termes d'intégration
+- Prendre connaissance de l'environnement métier du système (génération et vérification de signatures)
+- Réaliser les plugins nécessaires
+Durée du stage : 3 mois
+Profil recherché :
+Etudiant(e) en 2ème année en école d'ingénieurs ou équivalent universitaire, vous avez les compétences
+suivantes:
+- langages de développement Java JEE
+- Environnement Windows Linux
+- dans l'idéal, des notions de sécurité (certificats x509, formats de signature CMS, XML-DSIG, PAdES,
+XAdES)
+Compétences linguistiques: Anglais technique écrit souhaitable
+Merci d'adresser votre candidature (CV + Lettre de motivation) à Gariné KELIJIAN par mail à l'adresse
+suivante : recrutement@c-s.fr , en précisant la référence SEC/LPR/N°6.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8596162
+
+
+
+
+

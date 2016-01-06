@@ -1,0 +1,65 @@
+﻿SOPRA    RECRUTE    UN/UNE    ALTERNANCE                                                                               -                                                                                                       DÉVELOPPEMENT    D'UNE    APPLIC    EN
+APPRENTISSAGE/ALTERNANCE DE 6 À 12 MOIS.
+Date : 18/04/2014
+Référence de l’offre : STAGE/TELCO/RENN/6234277-6234299
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Rennes 35000, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Sopra, acteur majeur du conseil, des services technologiques et de l'édition de solutions en Europe, accompagne
+ses clients dans la réussite de la transformation de leurs métiers et systèmes d'information. Combinant valeur
+ajoutée et innovation dans les solutions apportées, qualité industrielle et performance des services délivrés, Sopra
+est le partenaire de référence des grandes entreprises et organisations qui recherchent le meilleur usage du
+numérique  pour  assurer  leur  développement  et  leur  compétitivité.  Le  Groupe  compte  plus  de                  16                                                                                                      000
+collaborateurs et a réalisé un chiffre d'affaires 2013 de 1,349 milliard d'euros.
+Sopra est coté sur NYSE Euronext Paris. Pour plus d'informations, retrouvez-nous sur www.sopra.com
+Notre entité Telecom Media, leader sur son marché par son savoir-faire, vous accueille sur l'un de ses quatre sites
+en  France                                                                                                             :  Paris,  Rennes,  Nantes  ou  Orléans.  Nous  accompagnons  nos  clients  dans  l'évolution  et  la
+transformation de leurs Systèmes d'Information, du conseil à la réalisation de projets innovants. Rejoignez nos
+700 collaborateurs et intervenez sur des domaines fonctionnels variés : portails, applications mobiles, CRM,
+chaîne de valeur, BI/Big Data, OSS, Broadcasting, etc.
+Description du poste :
+Le  projet  sur  lequel  vous  interviendrez  vise  à  développer  une  nouvelle  application  remplaçant  plusieurs
+applications de la chaîne actuelle de production de réseaux d'entreprise du SI d'un opérateur télécom.
+Au cours des premières semaines de votre mission, vous serez amené(e) à monter en compétences techniques sur
+le progiciel PEGA (pas de connaissances PEGA pré-requises) et découvrir les process en vigueur sur le projet via
+une participation active à toutes les séquences des sprints agiles.
+Rattaché(e) aux équipes développement et architecture du projet, vous contribuerez aux missions suivantes :
+- étudier les possibilités de mobilité du progiciel PEGA et de l'application développée (tablettes, email)
+- développer/améliorer les outils d'administration de l'application (portail administrateur, utilisateurs...)
+- industrialisation: test unitaires automatisés, déploiement automatisé, outillage des outils de configuration,
+optimiser le poste de développement (mise en place machine virtuelle)
+Dans une seconde partie de votre mission, vous participerez pleinement à l'activité quotidienne du projet aux
+différentes phases du cycle de vie du projet en appliquant la méthode Scrum.
+Tout au long du projet, vous aurez la visibilité sur l'ensemble du processus projet : pilotage projet, relations
+client, rédaction de proposition de réalisation, architecture, recevabilité et recette client...
+Intérêt du stage
+- découvrir un progiciel de Business Process Modeling : PEGA Pega Rules Process Commander
+- pratiquer une méthodologie projet Agile
+- acquérir des compétences fonctionnelles dans le domaine Télécom
+- appréhender les processus de production mis en oeuvre sur les projets Sopra
+Environnement technique
+
+
+
+
+.Progiciel PEGA PRPC, Oracle 11G
+SVN, Quality Center, Quick test pro, Jenkins, Soap UI
+Environnement humain
+Intégré(e)  directement  dans  une  équipe  opérationnelle,  vous  serez  encadré(e)  par  un  Chef  de  projets  et
+l'Architecte référent du programme qui assureront un suivi détaillé de votre activité.
+Profil recherché :
+En  dernière  année  d'école  d'ingénieurs  ou  de  Master                                                             2  informatique,  vous  avez  des  connaissances  en
+programmation objet et bases de données Oracle.
+Vous avez la capacité à acquérir rapidement de nouvelles connaissances techniques et fonctionnelles. Vous êtes
+curieux  (se) et avez un bon relationnel. Votre esprit de synthèse et d'analyse ainsi que votre rigueur vous
+permettront de mener à bien les missions qui vous seront confiées.
+Pour postuler : http://sopra.contactrh.com/jobs/1536/6234299
+
+
+
+
+

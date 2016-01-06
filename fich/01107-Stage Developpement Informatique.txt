@@ -1,0 +1,51 @@
+﻿KANTAR  RECRUTE  UN/UNE  STAGE  DEVELOPPEMENT  INFORMATIQUE  EN
+STAGE  DE  5  À  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  stage  eg/it­5586666
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  Chambourcy  78240,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  Bac  +2
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+Le  groupe  Kantar  est  l'un  des  plus  grands  groupes  mondiaux  d'étude  de  marché,  en
+matière  de  veille  et  d'analyse  d'informations  à  valeur  ajoutée.  Avec  un  réseau  mondial
+inégalé  de  20  marques  leaders  dans  leurs  métiers,  une  présence  dans  95  pays,  26  500
+collaborateurs,  KANTAR  propose  à  ses  clients  une  palette  inédite  d'expertises.
+Kantar  Media  Ad  Intelligence  est  le  leader  mondial  dans  les  domaines  de  la  mesure
+d'audience,  des  investissements  et  créations  publicitaires,  de  la  veille  de  l'information,  des
+études  média­marché.
+Description  du  poste    :
+Mission
+Stage  au  sein  du  Centre  d'Expertise  et  d'Innovation,  en  charge  de  la  production  et  de
+commercialisation  de   plusieurs  logiciels  de  traitement  de  données.
+Sous  la  responsabilité  du  chef  de  projet,  le  stagiaire  travaillera  au  sein  de  l'équipe  de
+développement,  il  devra  concevoir  et  réaliser  une  solution  d'automate  de  tests  des
+différentes  applications  afin  d'éviter  la  répétitions  les  mêmes  actions  par  les  utilisateurs.
+Objectifs  :
+Développer  /mettre  en  place  un  programme/solution  capable  :
+­                                                                                                           De  rejouer  automatiquement  des  scénarios  d'actions  utilisateurs  sur  nos
+applications  CEI
+­                                                                                                           De  contrôler  la  validité  des  résultats  produits  par  les  scénarios
+Intégrer  ces  développements  au  sein  du  processus  logiciel  utilisé  par  l'équipe
+Profil  recherché    :
+Bac  +5  souhaité,  bac+3/+2  (de  type  DUT)  accepté
+
+
+
+
+Compétences  Requises
+­                                                                    C#  (niveau  intermédiaire)
+­                                                                    Connaissance  de  Visual  Studio
+­                                                                    Un  bon  esprit  d'initiative  et  de  curiosité
+Compétences  appréciées
+­                                                                    C/C++  (connaissance)
+­                                                                    Génie  logiciel
+Pour  postuler    :  http://kantar.contactrh.com/jobs/1536/5586666
+
+
+
+
+

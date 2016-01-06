@@ -1,0 +1,63 @@
+﻿Benchmarks .Net / C# dans un projet de CRM (transports)
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                  collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                  ses clients du monde entier des services
+Atos développe pour un acteur majeur du monde des transports publics
+                                                                                  transactionnels de haute technologie,
+(France, Europe, monde) un CRM (gestion de la relation client, campagnes
+                                                                                  des solutions de conseil, d’intégration de
+marketing, réclamations).
+                                                                                  systèmes et d’infogérance.
+                                                                                  Atos délivre les technologies qui
+Mission :
+                                                                                  accélèrent le développement de ses
+Le stage est réalisé au sein du pôle CRM du Département de Rennes. Ce
+                                                                                  clients et les aide à réaliser leur vision de
+pôle conçoit et développe des applications de CRM pour de nombreux
+                                                                                  l’entreprise du futur. Atos est le
+clients, dans de nombreux contextes métiers et technologiques.
+                                                                                  partenaire informatique mondial des
+                                                                                  Jeux Olympiques. Le Groupe est coté sur
+Le but du stage est de concevoir, développer et mettre en œuvre des outils
+                                                                                  le marché Eurolist de Paris et exerce ses
+de mesure de la performance (temps de réponse, montée en charge, etc.)
+                                                                                  activités sous les noms d’Atos, Atos
+de l’application développée par l’équipe
+                                                                                  Consulting & Technology Services,
+    Etude du besoin et des performances attendues
+                                                                                  Worldline et Atos WorldGrid.
+    Conception des solutions, identification des progiciels utilisables
+                                                                                  Pour plus d’information : atos.net
+    Développements des outils et scénarii
+    Exécution des tirs de mesure des performances
+                                                                                  Ce stage est basé à Rennes
+    Analyse des résultats
+                                                                                  Si ce stage vous intéresse,
+                                                                                  déposez votre candidature à l’adresse
+Vous serez intégrés à l’équipe de réalisation, constituée d’architectes           suivante :
+techniques, de concepteurs fonctionnels, de développeurs et de recetteurs.        http://fr.atos.net/fr-
+Cette équipe travaille en forte proximité client à maintenir et à faire évoluer   fr/emplois_carrieres/postulez
+cette application CRM structurante.
+ou contactez: Jean-Charles.Coeuru@atos.net
+Environnement technologique :                                                     Référence du stage : 158961
+Microsoft Dynamics CRM, Visual Studio, .Net, C#, SqlServer. PHP.
+Objectifs pédagogiques :
+Qui êtes-vous ?
+Le stage proposé est une excellente opportunité pour découvrir et
+assimiler les outils, techniques et process d’un projet de développement. Il
+sera aussi l’occasion                                                             De formation Bac+4-5 en informatique
+    de monter en compétence sur MS CRM Dynamics, un des progiciels               (Ecole d’ingénieur ou université) en
+leader du marché du CRM.                                                          cours de validation, vous recherchez un
+    De se sensibiliser à l’aspect essentiel des performances                     stage d’une durée de 6 mois (dates
+applicatives, de découvrir les bonnes pratiques de développement                  variables selon l’école et la formation
+associées                                                                         en cours)
+
+
+
+
+

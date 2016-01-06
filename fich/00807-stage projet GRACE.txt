@@ -1,0 +1,42 @@
+﻿Stagiaire Projet GRACE : Conception
+et Développement d’un générateur
+automatique de documents
+ENTREPRISE
+Néo-Soft est un groupe d’ingénierie informatique spécialisé en                                           3  domaines principaux : R&D,
+Systèmes d’information et l’infrastructure. Créée il y a 8 ans, nous comptons aujourd'hui plus de 600
+collaborateurs au niveau national.
+POSTE
+Entité transverse du groupe Néo-Soft, la Software Factory prend en charge les offres structurées
+(Forfait, Centres de Ressources, Centres de Services, TMA, TRA…) depuis la réponse à l’appel d’offre
+jusqu’à mise en œuvre, et au pilotage opérationnel de la réalisation du projet.
+La  Software  Factory  est  aussi  garante  de  l’industrialisation  des  processus  et  méthodes,  de
+l’amélioration continue des bonnes pratiques de développement sur ses projets.
+Contexte du stage
+Aujourd’hui lors de réponses à appel d’offre, la Software Factory délivre différents documents (RFI,
+RFP, proposition commerciale,...) La plupart du temps, elle rédige son document en récupérant
+diverses sections au sein d’autres documents rédigés lors de précédentes réponses.
+Objectifs
+Suite au nombre croissant de réponses à émettre, et dans un souci d’homogénéisation, la Software
+Factory souhaite se doter d’un outil permettant de générer de façon automatique ses documents.
+L’utilisateur se verra offrir une interface lui permettant de :
+Sélectionner le type de document à rédiger,
+Renseigner les champs paramétrables de son document (auteur, client, logos, signataires,
+dates, …),
+Construire le plan de son document,
+Sélectionner depuis une liste   les différents paragraphes/ sections qu’il souhaite incorporer
+dans son document.
+Chaque section pourra elle-même être paramétrable si nécessaire. Dans ce cas, l’interface proposera
+aussi de renseigner les paramètres des sections concernées.
+La cohérence de la mise en forme entre toutes les sections du document (police, titre, couleur, ..)
+sera assuré par l’outil.
+PROFIL
+Ce stage est destiné à un étudiant bac+5 à la  recherche d’un stage de fin d’études à partir de mars
+ou avril 2014 pour une durée de 6 mois.
+Pour postuler, merci d’adresser un CV et une lettre de motivation à :
+stagerennes@neo-soft.fr
+NEO-SOFT, DIFFERENT PARCE QUE VOUS L’ETES.
+
+
+
+
+

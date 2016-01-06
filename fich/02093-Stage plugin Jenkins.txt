@@ -1,0 +1,65 @@
+﻿Offre de stage
+NOVIA SYSTEMS est une entreprise de services numériques(ESN), filiale du Groupe DACP.
+Elle a pour vocation d’aider ses clients à construire les solutions techniques innovantes nécessaires dans l’atteinte
+de leurs objectifs stratégiques.
+Novia Systems c’est plus de 1 000 collaborateurs, avec un chiffre d’affaires de plus de 80M€ et une présence
+nationale  garantissant  notre  proximité auprès  des  clients  (Paris, Saint-Denis,  Nantes,  Brest,  Le  Mans,  Niort,
+Rennes, Lyon, Grenoble et Toulouse). Novia Systems comprend 5 divisions : BMS (Banques, Mutuelles, Services),
+TIA (Télécoms, Industries, Assurances privées), Business Solutions  (ERP, CRM et BI), Innovation, CAR*Base
+(Solutions Intégrées et Services à destination des Concessionnaires Automobiles)
+Nous accompagnons nos clients dans leur mutation technologique autour de 4 grands métiers:
+   L’intégration de systèmes et d’ingénierie informatique (ERP : SAP, CRM, BI, mobilité, applications web,
+NTIC : J2EE, PHP, dotnet…),
+   Expertise et Assistance technique,
+   Assistance à maitrise d’ouvrage et pilotage de projets,
+   Qualité des systèmes d’information et tests logiciels.
+Dans  le  cadre  du  fort  développement  de  nos  centres  de  services,  nous  recherchons  un  stagiaire  en
+Développement JAVA.
+Contexte
+Le stage est réalisé en collaboration ou au sein de l’équipe d’architecture de Novia Systems agissant
+au niveau national, et basé à Nantes. Les prestations de cette équipe sont notamment :
+Support technique aux projets
+Mettre en place et d’assurer   la maintenance d’outils d’industrialisation, notamment d’analyse de qualité, et de tests
+d’intégration automatisés
+Transformation des projets et processus de la société
+Objectif du stage
+Novia Systems met au point une solution d’intégration continue d’envergure nationale. Dans ce cadre,
+un plugin officiel pour Jenkins  (logiciel open source) doit être développé. Les différentes taches à
+réaliser sont :
+Etude de la problématique
+Mise au point d’un environnement de développement et de test
+Création et développement d’un plugin sur Github, avec intégration parmi les plugins officiels
+Recette
+Mise en production
+Documentation
+Environnement
+/ Novia Systems/                                                                                                           / Mis à jour le 20/11/2014 /
+/ Offre_Stage_Novia Systems_Framework_web.doc /                                                                            / Page 1/2 /
+
+
+
+
+¤ Systèmes : Windows / Linux (Debian)
+¤ Langages : Bash/Shell Unix, Java
+¤ Gestion de configuration : Git
+¤ Outils : Jenkins, Tomcat, Artifactory, Maven
+Compétences souhaitées
+Le  profil  recherché  correspond  à  celui  d’un  élève  en  dernière  année  d’études  d’ingénieur  en
+informatique, avec embauche potentielle à la clé.
+Une expérience avec les systèmes Linux, en développement Java ainsi qu’en gestion de source Git
+est souhaitée  (par exemple lors de précédents stages ou lors de projets personnels scolaires ou
+extrascolaires).
+Le stagiaire devra faire preuve d’autonomie et d’organisation dans son travail, afin de coordonner son
+avancement avec les équipes concernées.
+Durée
+Le stage est un stage conventionné proposé pour une durée de 6 mois environ, avec une date de
+début idéalement située vers février 2015. Les dates précises de début et de fin du stage seront à
+convenir en fonction des durées imposées par le cycle de scolarité.
+Contacts
+Marine PELLERIN Chargée de recrutement : marine.pellerin@novia-systems.fr
+N’hésitez-pas à nous transmettre votre candidature (cv et lettre de motivation)
+
+
+
+
+

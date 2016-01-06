@@ -1,0 +1,46 @@
+﻿Automatisation de tests
+fonctionnels
+Fondée en  1976, CGI est un fournisseur mondial de s    ervices en
+OFFRE DE STAGE
+technologies  de  l’information  (TI)  et  en  gestion  de                         s  processus
+                                                                                                                OUEST - RENNES
+d’affaires  qui  offre  des  services-conseils  en  manag                          ement  ainsi
+que des services d’intégration de systèmes et d’out                                sourcing.
+                                                                                                                Contactez ?
+Avec 69 000 professionnels présents dans 40 pays et                                répartis                     Keiza BARBIN : keiza.barbin@cgi.com
+dans 400 bureaux partout dans le monde, nous conjug                                uons une                     et Stéphanie LEPEIGNEUL :
+stephanie.lepeigneul@cgi.com
+présence locale à un vaste éventail d’expertises. V     oilà la force
+de notre engagement.                                                               Offre de stage référence :
+ST/RNS/AUT-TESTS/01
+OBJECTIF DU STAGE
+Dans le cadre d’un projet industrialisé, vous participez à l’automatisation de
+tests  manuels,  selon  la  méthode,  les  process  et  les  outils  de  l’offre
+QA&Testing de CGI.
+MISSIONS
+Vous intègrez un projet de qualification logicielle au sein d’une équipe,
+et   vous prenez en charge les interventions suivantes :
+    Apprentissage  de  la  méthodologie  QA&Testing  au  travers  des
+formations :
+    Utilisation de HP QualityCenter
+    Scripting sous un automate (Quick Test Pro, Selenium,...)
+    Participation  sur  les  différentes  phases  du  projet :  stratégie,
+scripting,  planification  et  lancement  de  l’automate,  contrôle  des
+résultats
+    Diagnostic  des  écarts  consistant  à  vérifier  le  bien-fondé  des
+anomalies remontés par l’automate.
+    Reporting et suivi d’avancement sur votre périmètre.
+PROFIL
+    Formation école d’ingénieur
+    Anglais
+    Autonomie, écoute, esprit critique et constructif, dynamisme,
+capacité à prendre du recul
+    Motivé par le développement
+Langage : SQL, VB Script
+www.cgi-recrute.fr
+© 2013 GROUPE CGI INC.
+
+
+
+
+

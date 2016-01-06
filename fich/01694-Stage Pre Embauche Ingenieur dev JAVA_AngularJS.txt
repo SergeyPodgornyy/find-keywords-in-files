@@ -1,0 +1,57 @@
+﻿ONE2TEAM RECRUTE UN/UNE STAGE PRÉ EMBAUCHE INGÉNIEUR DEV JAVA/ANGULARJS
+EN STAGE DE 6 À 12 MOIS.
+Date : 23/10/2014
+Référence de l’offre : Stage JAVA/Web-7842016
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Neuilly Sur Seine 92200, FR
+Durée du contrat : De 6 à 12 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+One2team, éditeur de solutions Cloud et mobile de gestion de projets, accompagne les grands groupes de
+l'industrie, des services et du high-tech depuis plusieurs années dans la réussite de leurs grands projets.
+Inspiré des meilleures pratiques de développement et fondé sur des technologies de pointe, le logiciel
+One2team apporte une solution innovante à ses utilisateurs en matière de gestion de projets et déploiement
+dans la télécommunication ou le commerce.
+One2team connait une très forte croissance depuis 2001 et compte parmi ses clients les plus grands comptes
+comme ORANGE, SNCF, MONOPRIX, BNP PARIBAS, ...
+Description du poste :
+Poste et missions
+Intégré(e) à une équipe de développeurs Java confirmés, vous aurez pour mission de :
+proposer des solutions techniques simples, maintenables, pertinentes et évolutives,
+développer de nouvelles fonctionnalités et faire évoluer les existantes,
+intégrer des applications tierces,
+contribuer aux réflexions fonctionnelles et d'architecture en étant sensible aux problèmes d'ergonomie, de
+performance et de simplicité.
+Intégré(e) à une équipe de développeurs Java confirmés, vous aurez pour mission de:
+Dans le cadre de votre activité, vous serez épaulé(e) par une équipe très dynamique de développeurs
+confirmés, qui travaillent en mode AGILE  (méthode SCRUM). Ils vous coacheront notamment sur les
+aspects d'architecture (recommandation de designs, arbitrage technique, revues de code…) et d'amélioration /
+simplification continues de votre code, afin de favoriser un apprentissage rapide et gagner en autonomie.
+Profil recherché
+Vous êtes en dernière année d'école d'ingénieurs et vous cherchez un stage de fin d'études d'au moins 6 mois
+pouvant déboucher sur une embauche dans une entreprise dynamique (rémunération de 600 à 900€ + 10% de
+variable).
+Les nouvelles technologies vous passionnent : framework web mobile (Sencha Touch), technologie HTML5
+(AngularJS, ExtJs, JQuery), indexation et solution non SQL (Exalead)
+Vous avez une première expérience en développement Java et/ou en JavaScript WEB et/ou Mobile.
+Vous aimez les challenges ambitieux et vous avez une forte capacité à vous mobiliser activement pour les
+réussir.
+Votre esprit d'équipe, votre volonté d'apprendre, votre rigueur et capacité d'abstraction seront déterminants
+pour rejoindre ce poste.
+Profil recherché :
+
+
+
+
+Vous êtes en dernière année d'école d'ingénieurs et vous cherchez un stage de fin d'études d'au moins 6 mois
+pouvant déboucher sur une embauche dans une entreprise dynamique.
+Nous    travaillons                                                                                            sur   des   technologie   de   pointe   :   AngularJS   côté   FrontEnd,
+JAVA/Python/ElasticSearch/Exalead côté serveur!
+Pour postuler : http://one2team.contactrh.com/jobs/1536/7842016
+
+
+
+
+

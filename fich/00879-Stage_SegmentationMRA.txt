@@ -1,0 +1,72 @@
+﻿Proposition de stage Master 2
+Segmentation d’images IRM vasculaires cérébrales dynamiques.
+Encadrants :
+Pierre Maurel, Unité/Projet VisAGeS, IRISA (Pierre.Maurel@irisa.fr)
+Hélène Raoult, CHU Pontchaillou - Unité/Projet VisAGeS, IRISA (Hélène.Raoult@irisa.fr)
+Lieu du Stage :
+   Unité/Projet VisAGeS, IRISA, Campus de Beaulieu, 35042 Rennes Cedex, France
+   Plateforme Neurinfo, Service de Radiologie, Hôpital Pontchaillou, CHU de Rennes
+Durée du stage : 6 mois
+Contexte
+L’imagerie par résonance magnétique (IRM) est devenue la méthode d’imagerie incontournable pour
+l’étude de l’encéphale. Elle permet d’étudier les malformations
+artério-veineuses                                                                                           intracrâniennes   (MAVs),   anomalies
+congénitales  caractérisées  par  la  persistance  d’une  connexion
+anormale  entre  les  artères  et  les  veines  cérébrales  sans
+interposition du lit capillaire : un nidus, ensemble entremêlé de
+petits vaisseaux sanguins, remplace alors la structure capillaire
+normalement  présente.  Cette  pathologie  peut  entrainer  de
+nombreuses complications dont la plus grave est l’hémorragie
+intracrânienne.  Afin  d’évaluer  le  risque  hémorragique  d’une
+MAV ainsi que les possibilités thérapeutiques, il est nécessaire
+de   réaliser   une   imagerie   cérébrale   permettant   d’étudier
+précisément l’anatomie   et l’hémodynamique de la MAV
+L’imagerie de référence actuelle pour la caractérisation des MAVs est l’artériographie cérébrale. Cette
+technique est invasive car elle nécessite une ponction artérielle fémorale, des rayons X et une injection
+intra-artérielle de contraste iodé.
+Ces dernières années, l’Angiographie par Résonance Magnétique (ARM) dynamique a été développée
+comme alternative à l’artériographie. Cependant, elle reste limitée par sa faible résolution temporelle
+(de l’ordre de la seconde) et par la nécessité d’une injection d’un produit de contraste  (chélate de
+
+
+
+
+gadolinium). De récentes études  [1,2] ont démontré la faisabilité et la performance clinique d’une
+nouvelle  séquence  d’ARM  dynamique  sans  injection                                                                     :  Time-Resolved  Spin-Labeled  Magnetic
+Resonance Angiography (TR-SL-MRA). Cette technique est totalement non-invasive, et offre une très
+haute résolution temporelle  (de l’ordre de  60 ms contre environ  300 ms pour l’artériographie de
+routine clinique).
+Objectif du stage
+Les  images  natives présentent un  certain  nombre  d’artefacts  qui gênent la  visualisation  (et donc
+l’analyse par les médecins), notamment aux interfaces avec le crâne, les globes oculaires, les rochers
+ou les sinus. Ces artéfacts, visibles sur la figure 1.3 ci-dessous en axial, masquent particulièrement le
+réseau vasculaire en vue sagittale ou coronale.
+Il existe donc un fort besoin de méthode de post-traitement des données pour faciliter l’analyse par les
+médecins et le diagnostic médical. L’objectif du stage est donc, dans un premier temps d’étudier
+différentes méthodes de segmentation pour essayer d’extraire les données intéressantes (l’information
+vasculaire)   au cours du temps. Le stagiaire pourra par exemple tester des méthodes classiques telles
+que la segmentation par croissance de région ou des méthodes markoviennes. Dans un second temps le
+stagiaire développera un outil    spécifique de segmentation de ces données prenant en compte les
+spécificité  de  celles-ci:  données  temporelles,  structures  d’intérêt  fines  et  longilignes,  utilisation
+d’autres modalités d’IRM disponibles  (Imagerie Anatomique  3D, Angiographie par temps de vol-
+TOF), …
+Lieu du stage
+Le stage se déroulera à l'IRISA, UMR CNRS 6074, au sein de l’unité/projet Visages U746 (équipe
+mixte  de  recherche  INSERM  et  INRIA)  ainsi  qu’à  la  plateforme  Neurinfo  située  au  CHU
+Pontchaillou. Le développement se fera en Matlab et/ou en C++ et utilisera un ensemble d’outils déjà
+développés au sein de l’équipe Visages pour le prétraitement des données.   Ce stage s’effectuera en
+collaboration étroite avec le Centre Hospitalier Universitaire de Rennes et plus particulièrement avec
+les services de neuroradiologie, Hélène Raoult effectuant actuellement sa thèse sur le TR-SL-MRA.
+Mots-clés : Analyse d’Image, Neurosciences Cliniques, Neuroradiologie, Imagerie Médicale,
+Segmentation d’Images.
+Compétences souhaitées : Matlab et/ou C++,   traitement et analyses d’images.
+Références :
+[1] Xu J, Shi D, Chen C, et al. Noncontrast-enhanced four-dimensional MR angiography for the evaluation of cerebral
+arteriovenous malformation: A preliminary trial. J Magn Reson Imaging. 2011.
+[2] Raoult H, Bannier E, B Robert, C Barillot, P Schmitt, Gauvrit JY. Time-resolved spin-labeled MR angiography for the
+depiction of cerebral arteriovenous malformations: comparison of techniques. Radiology
+
+
+
+
+

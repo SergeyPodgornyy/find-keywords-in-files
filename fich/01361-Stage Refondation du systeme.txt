@@ -1,0 +1,58 @@
+﻿SOCIÉTÉ GÉNÉRALE FRANCE RECRUTE UN/UNE STAGE REFONDATION DU SYSTÈME EN STAGE
+6 MOIS.
+Date : 22/04/2014
+Référence de l’offre : ST/SM/ITEC92838-6253645
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Paris / Ile de Fra 75000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y a pas de
+succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions personnelles, Société Générale
+propose à chacun de ses collaborateurs une aventure professionnelle épanouissante et enrichissante, qui respecte
+la diversité des talents avec plus de 159 000 collaborateurs dans 77 pays.
+Description du poste :
+Votre environnement
+SG CIB est le pôle de la banque de financement et d'investissement du Groupe Société Générale.
+Le département informatique (ITEC) a pour responsabilité, au plan mondial, de fournir aux lignes métiers et aux
+fonctions support de SG CIB, l ensemble des moyens informatiques nécessaires à leur fonctionnement, à des
+conditions compétitives en termes de standards technologiques, de qualité de service et de coûts.
+Votre stage
+X-ONE est un système d'information développé depuis 2008 - 2009 permettant de gérer une très large gamme de
+produits financiers vanilles et exotiques (dérivés de taux, fixed income et forex).
+Intégré à l'équipe Infrastructure de X-One, vous participez aux missions :
+- de réaliser une cartographie des besoins liés aux batches X-One
+- de proposer une solution technique prenant en compte ces besoins facilitant et fiabilisant le développement et la
+maintenance de ceux-ci
+- d'implémenter cette solution et de migrer les batches existants vers la nouvelle solution
+- d'adapter les supports documentaires destinés aux développeurs, et de promouvoir la nouvelle solution
+Votre profil
+Vous  êtes  étudiant(e)  de  niveau  bac+4/5  en  école  d'ingénieur  ou  université  avec  une  spécialisation  en
+informatique.
+Votre niveau d'anglais est  opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l'aise avec .NET et C#.
+Vous possédez un esprit d'analyse et une bonne capacité de synthèse afin de traiter de multiples informations et
+d'accomplir, avec succès, les travaux qui vous seront confiés.
+Vous bénéficiez idéalement des connaissances en Windows,Oracle est un plus.
+Et si c'était vous?
+Si  votre  CV  est  sélectionné  par  le  recrutement,  vous  rencontrerez  un  opérationnel  pour  un  entretien  de
+motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+
+
+
+
+Gratifications: Selon grilles Société Générale
+Profil recherché :
+étudiant(e) de niveau bac+4/5 en école d'ingénieur ou université avec une spécialisation en informatique
+anglais est opérationnel .
+à l'aise avec .NET et C#
+Pour postuler : http://socgen.contactrh.com/jobs/1536/6253645
+
+
+
+
+

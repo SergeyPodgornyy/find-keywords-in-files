@@ -1,0 +1,73 @@
+﻿Développement Java/JEE d’un portail client mobile
+Atos SE (Societas Europaea), acteur
+Votre mission
+international des services informatiques
+avec un chiffre d’affaires annuel de 8,8
+milliards d’euros et 77.000
+                                                                                 collaborateurs dans 47 pays, fournit à
+Contexte :
+                                                                                 ses clients du monde entier des services
+L’objectif du projet WebCare est de développer les fonctions classiques
+                                                                                 transactionnels de haute technologie,
+d’un opérateur mobile sur le web et d’en promouvoir l’usage auprès des
+                                                                                 des solutions de conseil, d’intégration de
+clients ; ce portail intègre notamment la gestion d’espaces Boutique en
+                                                                                 systèmes et d’infogérance.
+Ligne, Client et Téléconseiller. Une version mobile du portail existant est
+                                                                                 Atos délivre les technologies qui
+actuellement à l’étude. Atos est responsable de la réalisation du Front
+                                                                                 accélèrent le développement de ses
+Office client en intégrant une solution Open Source Liferay. Le client
+                                                                                 clients et les aide à réaliser leur vision de
+Télécom est responsable de la mise en place d’une architecture SOA
+                                                                                 l’entreprise du futur. Atos est le
+organisée autour d’enablers métiers fournissant les services nécessaires au
+                                                                                 partenaire informatique mondial des
+développement de l’espace client.
+                                                                                 Jeux Olympiques. Le Groupe est coté sur
+                                                                                 le marché Eurolist de Paris et exerce ses
+Mission :
+                                                                                 activités sous les noms d’Atos, Atos
+Intégré dans une petite équipe, le stagiaire pourra intervenir sur différentes
+                                                                                 Consulting & Technology Services,
+phases du projet selon le planning. Le projet suit le cycle en V classique de
+                                                                                 Worldline et Atos WorldGrid.
+développement d’une application : la rédaction de spécifications
+                                                                                 Pour plus d’information : atos.net
+fonctionnelles, la conception, qui devra orienter les choix techniques, le
+développement, les tests, l’intégration technique, la rédaction de
+                                                                                 Ce stage est basé à Rennes
+documents utilisateurs. Quelques activités spécifiques sont réalisées par
+Si ce stage vous intéresse,
+Atos, comme l’intégration de maquettes graphiques fournies par un
+déposez votre candidature à l’adresse
+prestataire externe.
+suivante :
+http://fr.atos.net/fr-
+Environnement technologique :
+fr/emplois_carrieres/postulez
+Techniquement, ce stage permet de développer des compétences autour
+des nouvelles technologies (JEE, Spring MVC, JSP, JQuery, WebServices), des      ou contactez: Jean-Charles.Coeuru@atos.net
+portails (Liferay), sur de l’outillage professionnel (conception UML, gestion    Référence du stage : 159047
+de configuration SVN, tests HPQC, tests automatisés JUnit, Selenium, …)
+Objectifs pédagogiques :
+                                                                                 Qui êtes-vous ?
+Le produit de ce stage devra être conduit conformément aux règles projet
+                                                                                 De formation Bac +5 en informatique
+en vigueur (processus, qualité). Le stagiaire sera intégré dans l’équipe, lui
+                                                                                 (Ecole d’ingénieur ou université) en
+permettant de participer et de découvrir le fonctionnement d’un projet
+                                                                                 cours de validation, vous recherchez un
+informatique.
+stage d’une durée de 4 à 6 mois (dates
+variables selon l’école).
+Une proposition d’embauche en fin de
+stage est envisageable, sur le site de
+votre stage, ou, si vous le désirez, dans
+toute autre région dans laquelle AtoS
+recrute.
+
+
+
+
+

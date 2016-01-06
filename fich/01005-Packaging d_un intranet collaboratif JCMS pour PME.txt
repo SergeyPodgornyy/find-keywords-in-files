@@ -1,0 +1,62 @@
+﻿Packaging  d'un  intranet  collaboratif  JCMS  pour  PME
+Orange  Business  Services
+REFERENCE  :  IT/EBIZ/STAGE39-1609
+POUR  POSTULER  :  http://OBS.contactrh.com/jobs/1536/5441085
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  brest 29200, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2013
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION  DU  POSTE  :
+Sur la base de différentes expériences projets réalisées pour des clients de type PME, l'objectif de ce
+stage consiste à identifier le périmètre fonctionnel minimum à la construction d'une offre intranet
+dédiée à cette typologie d'entreprises. Le stage comportera également la conception et la réalisation
+d'un intranet générique, pour répondre aux besoins de ce nouveau marché, ainsi que le packaging de
+cette solution.
+Vous participerez aux différentes phases du projet :
+- Etude de la solution JCMS.
+- Recueil des expériences projets IT&L@bs.
+- Rédaction d'un cahier des charges et conception d'une roadmap.
+
+
+
+
+- Développement et intégration (en cycle itératif / agile).
+- Mise sur étagère de l'intranet.
+- Intégration d'une charte graphique de démonstration sur l'intranet.
+- Recette et tests.
+- Rédaction des manuels d'installation / exploitation / utilisation.
+- Déploiement / validation.
+PROFIL  :
+Vous recherchez un stage de fin d'études idéalement d'une durée de six mois, vous êtes passionné(e)
+par les nouvelles technologies et vous avez déjà utilisé le langage JEE...
+Vous maitrisez l'anglais.
+Vous êtes motivé(e), force de proposition et aimez le travail en équipe.
+Enfin, vous communiquez facilement.
+POUR  POSTULER  :  http://OBS.contactrh.com/jobs/1536/5441085
+
+
+
+
+

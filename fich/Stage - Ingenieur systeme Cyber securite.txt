@@ -1,0 +1,67 @@
+﻿Stage  - Ingénieur système Cyber securité
+Schneider Electric
+REFERENCE  :  000LL6
+POUR POSTULER  :  http://schneider.contactrh.com/jobs/1536/4842252
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Lattes 34000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  1-2 ans
+DATES  :  À partir du 03/10/2013
+DUREE  :  plus de 6 mois
+SECTEUR  :  Industries (Electricité)
+FONCTION  :  Production - Maintenance - Qualité - Sécurité - Environnement (Direction
+Technique)
+SOCIETE  :
+Spécialiste mondial de la gestion de l'énergie, présent dans plus de 100 pays, Schneider Electric
+offre des solutions intégrées pour de nombreux segments de marchés. Le Groupe bénéficie d’une
+position de leader sur ceux des Régies et Infrastructures, Industries & Constructeurs de machines,
+des Bâtiments non-résidentiels, des Centres de données et Réseaux ainsi que du Résidentiel.
+Mobilisés pour rendre l’énergie sûre, fiable, efficace, productive et propre, ses plus de 140 000
+collaborateurs ont réalisé 24 milliards d’euros de chiffre d’affaires en 2012 en s’engageant auprès
+des individus et des organisations afin de les aider à tirer le meilleur de leur énergie.
+DESCRIPTION DU POSTE  :
+Description Poste :
+Vous serez rattaché(e) au service Ingénierie.
+- Participez à la réalisation de projets de contrôle-commande numériques sous la
+responsabilité d'un responsable d'équipe d'ingénierie sur la partie Cyber sécurité
+- Etude du cahier des charges en support du Responsable Technique sur la partieCyber Sécurité
+- Interface avec l'équipe Recherche et Developpement / Marketing et Equipe Opérationnelle
+(Projets)
+-  Analyser les standards de Cybersécurité en lien avec notre activité de contrôle commande de
+poste électrique (NERC IEC 62242 Shell BDEW IEC 62351 IEEP1686 NISTR).
+> Proposer des actions de renforcement sécurité de nos projets à tous les niveau ( accès réseau login
+encodage archivage des données renforcement hardware)
+> Rédiger les procédures de tests (pénétration du DCS)
+> Réaliser les tests en plate forme
+> Former et sensibiliser les Ingénieurs Systèmes & Responsable Technique à la Cybersécurité.
+Environnement :
+Poste basé à Lattes près de Montpellier
+
+
+
+
+Compétences requises externes
+De fortes compétences techniques sont demandées :
+Expérience pertinente dans un role lié à la cybersécurité
+Connaissance dans les communications réseau informatique réseau et architecture réseau
+Connaissance en électrotechnique et systèmes de contrôle industriel est un plus
+Capacité relationnelle avec les équipes est demandée :
+Sens de la communication ouverte
+Reporting
+Aptitude au travail en équipe
+Bilingue français et anglais
+Merci de bien vouloir postuler en ligne directement sur l'offre 000LL6 .
+Schneider Electric participe dans certains cas aux frais de déplacement ou d'hébergement engendrés
+par l'éloignement entre l'école et le lieu d'accueil en entreprise.
+Schneider Electric favorise la diversité et recrute sans discrimination.
+PROFIL  :
+Diplôme visé : Bac+5
+Spécialité : Reseau / Cyber securité
+Pré-requis : formation initiale compétences spécifiques nécessaires langues logiciels …
+Durée du contrat : 6 mois
+POUR POSTULER  :  http://schneider.contactrh.com/jobs/1536/4842252
+
+
+
+
+

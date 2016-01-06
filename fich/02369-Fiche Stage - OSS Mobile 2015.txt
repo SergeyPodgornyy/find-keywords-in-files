@@ -1,0 +1,33 @@
+﻿Stage SFR - Site de Rennes
+Libellé du stage : Big Data - prototypes d’applications NoSQL
+Période : 4 à 6 mois à partir de mars/ avril 2015
+Profil : Master (1er ou 2ème année) , école d’ingénieur (dernière
+année), spécialisation en Informatique
+Objet du stage :
+L’objectif principal est de réaliser un ou plusieurs prototypes d’outils Big Data
+sur la base de solutions open source de type,   Hadoop,   ElasticSearch ou
+MongoDB
+Intégrer et adapter l’environnement de développement actuel (Intégration
+continue) pour les nouveaux projets.
+Missions principales :
+Affiner les fonctionnalités attendues du prototype, sur la base de l’existant
+(puits de données des usages clients)
+Faire une analyse des outils Open Sources Big Data disponibles et élaborer la
+stratégie de choix.
+S’intégrer dans l’environnement de développement : réutilisation des briques
+en places (LAMP / Jenkins / Maven / GitHub / Nexus) et création de
+l’environnement de développement spécifique au(x) prototype(s).
+Définir, documenter et réaliser le(s) prototype(s).
+Le mode de suivi est en Agile.
+Profil du candidat :
+Expertise et intérêt dans le développement Java et son éco système
+Notions d’outils Big Data
+Sensibilité aux process de développement de type intégration continue.
+Autonome, curieux, rigoureux
+Contact SFR : Juan MESA - juan.mesa@sfr.com - 02 23 21 37 11
+Plus d’informations sur groupe.sfr.fr
+
+
+
+
+

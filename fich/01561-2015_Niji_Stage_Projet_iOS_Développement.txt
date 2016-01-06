@@ -1,0 +1,70 @@
+﻿Niji est une société de conseil, de design et de réalisation logicielle entièrement dédiée aux usages et
+aux technologies de la convergence numérique. Niji accompagne ses clients, acteurs économiques
+privés et publics, dans la transformation digitale de leurs offres de produits et de services, de leurs
+dispositifs de relation client et de leurs processus organisationnels. Société indépendante, présente à
+Paris, Rennes, Lille et Nantes, Niji compte 450 salariés pour un chiffre d’affaires de 32M€ en 2013.
+Vous intégrerez la                                                                                               Digital Software Factory                                                                 de Niji, notre entité spécialisée dans le développement
+logiciel,  composée  d’experts  Mobile,  Web,  en  technologies  digitales  et  SI.  Ce  stage  sera  stage
+fortement ancré dans la technologie, le développement logiciel dans des environnements techniques
+pointus,  et  l’innovation  tournée  vers  le  service  rendu  aux  utilisateurs  finaux.  Vous  pourrez  être
+amené(e) à intervenir sur un ou plusieurs projets pour les plus grands comptes nationaux (Médias,
+Opérateurs, Energie, Automobile, Banque/Assurance, Grande distribution, E-commerce, etc.)
+Sujet du stage                                                                                                   Développement composants iOS au sein d’un projet
+Durée envisagée                                                                                                  6 mois
+Année d’étude                                                                                                    5
+Aptitudes humaines                                                                                               Esprit  d’innovation,  curiosité  intellectuelle,  autonomie  et  prise  d’initiative,
+attendues                                                                                                        technophilie, motivation, bon relationnel, rigueur et   organisation, esprit de
+                                                                                                                 synthèse et d'analyse, qualités d'expression orales et écrites.
+Aptitudes                                                                                                        Bonne  compréhension  des  architectures  logicielles  et  du  multimédia,  de
+techniques attendue                                                                                              l’Objective-C, XML, connaissances en développement iPhone/iPad. Maîtrise
+                                                                                                                 de l’environnement de développement iOS (XCode, etc.).
+s
+Livrables de fin de                                                                                              Composants ou applications développés. Description des développements et
+stage                                                                                                            modules  réalisées  dans  le  cadre  des  projets,  accompagnés  de  la
+documentation produite (ex. : spécifications fonctionnelles et/ou techniques,
+etc.). Eventuellement applications de tests et de démo, résultats des tests.
+Localisation du                                                                                                  Locaux de Niji à Cesson-Sévigné
+stage
+Contact(s)                                                                                                       justine.guebert@niji.fr
+Description détaillée                                                                                            Niji réalise depuis plusieurs années des applications iOS (iPhone/iPad). Dans
+du stage                                                                                                         un souci d'efficacité et d'optimisation des temps de développements de ces
+applications,  la  Digital  Software  Factory  s'est  outillée  et  dispose  déjà  de
+nombreux composants. Niji souhaite enrichir sa bibliothèque de composants,
+avec  pour  objectif  de  les  inclure  dans  ses  différents  projets  clients.  Ces
+composants, identifiés lors d'un processus d'innovation et de capitalisation
+interne à la société, mettront en œuvre des technologies avancées et des
+concepts de services inédits.
+Fonction du projet et du périmètre fonctionnel et technique, ce stage pourra
+comprendre  les  éléments  suivants,  dans  le  cadre  d’un  projet  Client  de
+développement au forfait en engagement de résultat :
+o  Le développement et l’intégration d’un ou plusieurs composants, de tout
+ou partie d’une partie d’une application:
+   Sous la forme d’éléments graphiques innovants et/ou modules de
+traitement des données
+   au  sein  d’une  équipe  projet,  sous  la  responsabilité  d’un  chef  de
+projet, et la supervision d’un responsable de production
+   effectués  en  conformité  avec  la  méthodologie  utilisé  au  sein  de
+l’entreprise (Agile adapté au contexte) et en collaboration avec les
+équipes de design Parisiennes (Ergonomes, Directeurs artistiques…)
+Stages de fin d’études - Développement iOS                                                                       Niji - 2015
+
+
+
+
+   prenant en compte les spécifications fonctionnelles, les contraintes
+techniques, les environnements...
+   Comprenant  la  validation  bout-en-bout                                      (tests  unitaires)  du  code
+développé
+o  Prise en main et utilisation des outils projet : intégration continue  (ex :
+Jenkins), gestion de configuration/versions (ex : Git, SVN), Bugtracking et
+suivi (Redmine, Mantis…), packaging (Maven), etc.
+o  Le cas échéant, la contribution pourra être élargie à la rédaction, la mise
+à  jour  ou  la  contribution  à  la  documentation  projet :  spécifications
+fonctionnelles,                                                                   techniques,    manuels    d’installation,   d’utilisation,
+d’exploitation, etc.
+Stages de fin d’études - Développement iOS                                                                                    Niji - 2015
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿Vérification IP - Stage
+REF: VERIF-Q1_2015
+Sujet: Vérification RTL basée sur le langage SystemVerilog
+Période: 6 mois à partir de début 2015
+Scaleo chip est une société "fabless" de semi-conducteurs basée à Sophia-Antipolis qui conçoit,
+développe et vend des solutions complètes et à forte qualité ajoutée, associant des systèmes-sur-
+puce  (System-on-Chip-SoC)  et  leur  logiciel  embarqué  pour  l'industrie  de  l'automobile  et  de
+l'électronique.
+L'offre de produits de Scaleo chip inclut des microcontrôleurs automobiles standards destinés aux
+groupes  motopropulseurs,  au  contrôle  de  l’habitacle,  et  aux  secteurs  de  l’information  aux
+conducteurs et de l’info-divertissement. La société tire profit de sa technologie et de son savoir -
+faire en proposant également la fabrication et le développement sur mesure de produits semi-
+conducteurs pour les applications où la qualité est essentielle, tels que les marchés de l'industrie et
+de la défense.
+Résumé du stage:
+Le périmètre de ce stage est la vérification fonctionnelle d'une IP de Scaleo chip en utilisant la
+méthodologie UVM.
+Le stagiaire sera également amené à consolider l’environnement de vérification Scaleo chip, basé sur
+le langage SystemVerilog et la méthodologie UVM.
+Phases de développement du stage :
+Il vous sera demandé de valider une IP en suivant les différentes phases du cycle traditionnel de
+vérification :
+   Etude fonctionnelle de l’IP ;
+   Mise en œuvre du plan de vérification ;
+   Mise en œuvre du Testbench ;
+   Écriture de la couverture fonctionnelle ;
+   Écriture des scénarios de test ;
+   Lancement des régressions et support au debug RTL.
+Compétences et expérience souhaitées :
+   Etudiant  ingénieur  micro-électronique  en  dernière année  d’étude  avec  un  bon  niveau
+d’anglais ;
+   Connaissance des langages RTL (Verilog et/ou VHDL) requise ;
+   Connaissance en programmation Shell sous Unix/Linux requise ;
+   Sensibilisation au langage SystemVerilog et à la méthodologie UVM appréciée ;
+   Notions du langage Perl appréciées ;
+   Expérience (projet ou stage) préalable en vérification RTL appréciée.
+Si vous êtes intéressés, merci d’envoyer votre candidature à: internship.2015@scaleochip.com
+en précisant dans le sujet du message le mot clé : VERIF-Q1_2015
+Scaleo chip
+1681, route des Dolines
+Les Taissounières - HB3
+06 560 Valbonne, Sophia Antipolis
+web : http://www.scaleochip.com
+
+
+
+
+

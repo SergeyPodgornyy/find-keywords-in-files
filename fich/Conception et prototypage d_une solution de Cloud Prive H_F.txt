@@ -1,0 +1,65 @@
+﻿Conception et prototypage d'une solution de Cloud Privé H/F
+Orange Business Services
+REFERENCE  :  IT/FCPOS/STAGE77-1600
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4870211
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  RENNES 35700, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Le Cloud Computing est au coeur de la stratégie de développement d'Orange Business Services.
+Nouvelle approche de l'informatique, nouveau modèle économique pour les entreprises, le Cloud
+Computing mobilise toutes les énergies en matière d'innovation et suscite un engouement
+considérable chez nos clients Grands Comptes ou PME/PMI, mais reste un vrai challenge
+techonologique et organisationnel qu'il faut adresser.
+Dans ce cadre, votre stage aura pour objectif la participation à l'étude et la définition de
+l'architecture technique des futures solutions de Cloud Privé d'Orange Business Services, ainsi que
+le prototypage de ces solutions avant leur commercialisation.
+
+
+
+
+Intégré(e) aux équipes du centre de compétences Datacenter, vous mènerez une étude théorique et
+pratique des différentes solutions et technologies retenues pour les projets de Cloud Privé, afin
+d'évaluer dans quelles mesures ces solutions répondent effectivement aux besoins des clients
+Orange Business Services et aux exigences d'exploitabilité.
+Vous prendrez également en charge le maquettage des solutions, dans l'optique de valider les choix,
+de soutenir la montée en compétence des équipes et de disposer d'un démonstrateur pour les clients
+IT&L@bs.
+Enfin, vous conduirez une réflexion sur la façon d'accompagner nos clients dans la transformation
+IT de leur système d'information et la gestion du changement inhérent à l'adoption du concept
+Private Cloud dans les entreprises.
+PROFIL  :
+Pour ce stage, nous recherchons un(e) étudiant(e) BAC+5 en Informatique, avec excellent niveau
+relationnel et rédactionnel.
+Connaissances indispensables : administration système (Windows, Linux), notions de Cloud
+Computing.
+Connaissances appréciées : virtualisation, sécurité, stockage, sauvegarde, bases de données.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4870211
+
+
+
+
+

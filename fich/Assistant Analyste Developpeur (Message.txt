@@ -1,0 +1,80 @@
+﻿Assistant Analyste Développeur  (Message
+BNP Paribas
+REFERENCE  :  RHG14S_FONC_ITP
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4901310
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  PARIS 75000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 11/10/2013
+DUREE  :  de 3 à 12 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Analyste Programmeur)
+SOCIETE  :
+BNP PARIBAS fait désormais partie des premiers acteurs européens de la banque, avec une
+présence internationale forte. Nous rejoindre, c'est partager notre volonté d'aller de l'avant.
+DESCRIPTION DU POSTE  :
+BNP Paribas est une banque leader de la zone euro et un acteur bancaire de premier plan dans le
+monde, avec une forte présence internationale. Nous rejoindre, c’est partager notre volonté d’aller
+de l’avant.
+Développez vos compétences et faites grandir votre potentiel en intégrant les équipes informatiques
+de BNP Paribas pour préparer le futur de la banque d’un monde qui change. Participez à la conduite
+de grands projets dans des environnements multi-technologiques internationaux, et découvrez une
+très large palette de métiers et des parcours évolutifs au sein d’une filière de plus de 13 000
+collaborateurs au service du Groupe et de ses clients finaux dans le monde entier.
+BNP Paribas recherche pour sa fonction Informatique & Technologies (ITG) à Montreuil un(e)
+stagiaire:
+Assistant Analyste Développeur (Messagerie Bancaire / SWIFT) H/F
+Vos missions :
+Au sein de la filière Informatique du Groupe BNP Paribas, la fonction informatique Informatique &
+Technologies Groupe (ITG) a pour grandes missions :
+- d’assurer la Gouvernance du Groupe dans les domaines informatique, télécoms, processus et
+projets ;
+
+
+
+
+- de constituer une référence en matière de développement de systèmes d’information et de
+production informatique ;
+- de développer des solutions télécoms en adéquation avec les besoins d’un grand groupe bancaire
+international.
+Vous intégrez une équipe IT chargée du développement et de la maintenance des applications du
+domaine Messagerie bancaire.
+En tant qu’Assistant Analyste Développeur (Messagerie Bancaire / SWIFT)
+- Vous participez au développement et à la maintenance des applications :
+- Vous effectuez le code,
+- Vous documentez des programmes, tests, dans le respect des normes et standards en vigueur dans
+le groupe BNP Paribas.
+Apport de la mission
+Ce stage vous permettra de développer vos connaissances de l’environnement bancaire, des normes
+et procédures qualité en gestion de projet ainsi que de la méthodologie (analyse, conception,
+développement, recette)
+Environnement de travail :
+Le domaine Messagerie Bancaire (SWIFT) d’ITG SIT gère l’émission et la réception des flux de
+paiements et des titres de l’ensemble des métiers du groupe (CIB / Retail Banking / BP2S /…) au
+réseau SWIFTNet (95% du trafic mondial du groupe BNP Paribas).
+Toutes ces applications sont hautement critiques pour la Banque car traitent des millions de
+messages et de fichiers par jour (24/7) avec des impératifs de temps de traitement restreints et de
+reprise ultra-rapide en cas d’incident, en y apportant des valeurs ajoutées de routage, signature,
+archivage, (de)compression, connexion aux outils de filtrage (lutte anti-terroriste),…
+Formation : Bac +4/5 - Ecole d’ingénieur ou équivalent universitaire avec spécialisation en
+informatique.
+Compétences techniques :
+- Un ou plusieurs langages de développement : Java, Shell, Cobol
+- Un ou plusieurs environnements : Mainframe, Unix, Linux, Windows
+- Bases de données : Oracle, DB2
+- Qualités rédactionnelles
+Compétences comportementales :
+- Rigueur et Précision
+- Capacité d’Organisation
+- Capacité à collaborer
+- Capacité d’adaptation
+Disponibilité et durée : Début 2014 et pour une durée de 6 mois.
+PROFIL  :
+Selon Profil
+POUR POSTULER  :  http://bnpparibas.contactrh.com/jobs/1536/4901310
+
+
+
+
+

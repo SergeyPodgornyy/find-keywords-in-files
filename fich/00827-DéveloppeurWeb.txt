@@ -1,0 +1,25 @@
+﻿Développeur Web
+CCM  Benchmark  Group,  4ème  groupe  Internet  en  France  (derrière  Google,  Microsoft              et
+Facebook, mai 2013 : 23M VU), et figurant dans le top 100 mondial, est à la recherche, d’un
+développeur stagiaire ayant des connaissances en administration système pour participer à              la
+mise  en  place  d’outils  d’intégration  continue  pour  son  pôle  rennais  de  développement.
+                                                                                                       Nos  développeurs  travaillent  au  quotidien  à  faire  évoluer  nos  sites  à  très  fort  traffic                           :
+commentcamarche.net,                                                                                   linternaute.com,                                                                                       journaldesfemmes.com,   journaldunet.com,
+copainsdavant.com,...  Afin  de  garantir  la  qualité  des  développements  PHP  et  JS  qui  sont
+produits, ainsi que la haute disponibilité de nos sites en maîtrisant les impacts de chaque mise à
+jour, vous travaillerez sur notre plate­forme d’intégration continue ayant pour but d’industrialiser
+les  mises  en  production  en  offrant  aux  développeurs  un  ensemble d’outils automatique de
+validation  :
+­ Tests  unitaires  (PHPUnit,  Atoum,  QUnit,  ...)
+­ Tests  fonctionnels  (Selenium,  ...)
+­ Validation  du  code  (CodeSniffer,  PHP  Mess  Detector,...)
+Encadré par un responsable, dans le cadre d’une méthodologie Agile, vous aurez pour objectif
+de  proposer  et  d’installer  une  solution  répondant  à  ce  besoin.
+Curieux,  autonome,  aimant  les  défis  ?
+Envoyez  votre  candidature  à  recrutement.technique+stage@ccmbenchmark.com
+Contact  :  02  23  45  66  99
+
+
+
+
+

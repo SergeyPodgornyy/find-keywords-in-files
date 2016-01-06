@@ -1,0 +1,30 @@
+﻿OFFRE DE STAGE
+Stage BAC+5 - Simulation de propagation radio (H/F)
+(réf. 1314380)
+Durée : 6 mois                                                                                                    Localisation : Thales Communications & Security - 110 Avenue du Maréchal Leclerc
+49300 CHOLET
+Contexte
+Ce stage se situe dans le cadre du laboratoire de produits applicatifs radio, au sein de l'équipe préparation
+de mission des opérationnels (militaires) sur le terrain.
+Missions
+Le centre de gestion des communications radios est un logiciel permettant de configurer les moyens de
+communications radio (sécurité, plans de fréquence, planification IP, Qualité de services, …).
+Votre mission sera de proposer un plugin à l’application existante afin de permettre de faire de la simulation
+de propagation radio, permettant d’estimer la qualité et la faisabilité des communications entre les différents
+équipements d’une mission.
+- Intégration des algorithmes de prédiction de propagation
+- Récupération des données issues de modèle de station et de cartes
+- Affichage des résultats de simulation sur une vue cartographique
+Profil des candidats: BAC+5 - Connaissances souhaitées : Outils : JAVA, Eclipse, JENKINS, Méthodes
+AGILE
+Indemnité mensuelle brute : 1200                                                                                  €
+Le monde mérite un bel avenir.
+Vous aussi.
+Toutes nos offres sur : www.thalesgroup.com/careers/
+Contact : mireille.seme@thalesgroup.com
+1
+
+
+
+
+

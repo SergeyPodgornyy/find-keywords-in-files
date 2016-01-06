@@ -1,0 +1,79 @@
+﻿PROPOSITION DE STAGE
+Année 2014-2015
+Analyste
+PRÉSENTATION DE L’ENTREPRISE
+Développeur
+Editeur de solutions informatiques innovantes depuis 30 ans, MGDIS est un
+acteur  majeur  de  l’édition  de  solutions  de  pilotage  et  de  valorisation  de
+l’action   publique.   MGDIS   rayonne   sur   les   administrations   publiques
+françaises et ses  95 collaborateurs implantés à Vannes sont au service de
+Durée du stage
+près de 700 clients et 30 000 utilisateurs quotidiens.
+3 à 6 mois
+NOS AMBITIONS
+Lieu du stage
+MGDIS a placé l’innovation au cœur de sa stratégie de développement et y
+Vannes (56)
+consacre une part significative de ses moyens. A ce titre MGDIS favorise le
+développement  des  compétences  professionnelles  et  personnelles  de  ses
+Méthode de travail
+collaborateurs  et  déploie  un  environnement  dynamique  et  de  coopération
+sur  des  projets  variés.  Vos  talents  et  vos  idées  seront  reconnus  et
+Le responsable ainsi qu’un
+tuteur accompagneront le                                                                         encouragés.
+stagiaire et lui feront profiter
+de leurs expériences pour
+DESCRIPTIF DU STAGE
+assurer la réussite du stage
+Au moins l’un des sujets suivants retient votre attention :
+Le stagiaire sera autant que
+                                                                                                    Interopérabilité ESB en architecture SOA et micro-services.
+possible intégré au sein de
+                                                                                                 Camel/ActiveMQ/Karaf, WSDL/WADL/Entités/Contrats, Urbanisation, Java/Spring/Node.js
+l’équipe projet de son tuteur
+pour une immersion complète                                                                         UX design et développement d’applications web et nomades.
+dans un environnement de                                                                         HTML5/CSS3/JS, AngularJS/Bootstrap, Node.js, Gimp/Pencil, Gulp
+production logiciel moderne
+                                                                                                    Tests automatisés de services Back-End ou UX.
+et concret
+Protractor/SoapUI/TestComplete, jMeter, Jenkins, Jira
+   Indexeur et interface de recherche sur KB existante.
+ElasticSearch, Node.js, AngularJS/Bootstrap
+   Dashing de conformité QA des services des projets.
+AngularJS/Bootstrap, Jenkins/Sonar/Jira, Kibana/d3.js/Highcharts
+   Le web 3.0 au service de la gestion de production.
+AngularJS/Bootstrap>MaterialDesign, Node.js/MongoDB, Camel/ActiveMQ/Karaf, d3.js, docker
+   Gestion de licences en mode urbanisé.
+AMOA marketing, Entités/Contrats, Node.js/Java/C#
+VOTRE PROFIL
+De formation supérieure bac+3 à bac+5, vous recherchez un stage qui vous
+permette de renforcer vos compétences en intégrant une équipe de projet
+professionnelle,  de  taille  humaine,  travaillant  en  mode  agile                             (méthode
+SCRUM) et qui sera attentive à la réussite de votre stage.
+Vos  aspirations  professionnelles  se  tournent  vers  le  développement  d’une
+expertise  technique  au  service  du  métier  et  des  usages                                   ?  Vous  êtes
+convaincu  des  enjeux  de  l’Innovation  ?  Rigoureux  et  organisé,  vous  êtes
+dynamique,   curieux,   toujours   motivé   par   l’envie   d’apprendre   et   de
+Contact
+progresser ?
+Parc d’Innovation
+Bretagne Sud
+                                                                                                                                                                                       N’attendez   pas   et  venez   rencontrer   nos   équipes   lors   du   forum
+CP10
+                                                                                                                                                                                       entreprise le 13 Novembre 2014 à l’UBS VANNES !
+                                                                                                 56038 Vannes cedex
+                                                                                                 Tél : 02 97 68 18 28
+Fax.                                                                                             02 97 68 18 27
+                                                                                                 Mel : rh@mgdis.fr                                                                     Conditions du stage
+La durée du temps de travail hebdomadaire est de 39 heures, avec application de
+l’accord 35 heures (jours de RTT).
+L’indemnité du stage est versée par l’entreprise en fonction de la durée du stage et du niveau
+d’étude. Par exemple : un étudiant de Master en stage pour une durée de 6 mois percevra
+une indemnité de 520                                                                             € par mois. Une prime pourra être attribuée à l’issue du stage
+à l’appréciation du responsable   et en cohérence avec les objectifs fixés.
+www.mgdis.fr
+
+
+
+
+

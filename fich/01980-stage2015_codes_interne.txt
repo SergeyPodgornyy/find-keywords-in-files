@@ -1,0 +1,56 @@
+﻿RESEARCH  AND  DEVELOPMENT
+OFFRE DE STAGE
+Code de simulation de la séparation des gaz par adsorption : Qualité logicielle et développement
+CONTEXTE
+Air Liquide est Leader mondial des gaz, technologies et services pour l'industrie et la santé. Afin d’innover
+et  d’apporter  un  meilleur  service  à  ses  clients,  le  groupe  s’appuie  sur  ses  services  de  Recherche  et
+Développement notamment pour optimiser ses procédés de production et de purification des gaz.
+SUJET
+Le  stagiaire  devra  appuyer  la  démarche  qualité  logicielle  du  pole  Simulation  Physique  du  groupe
+Mathématiques Appliquées. Il y aura des échanges avec le groupe Génie des Procédés et d’autres clients
+internes  en  ingénierie.  La  force  des  équipes  en  place  réside  dans  leurs  capacités  en  modélisation  des
+phénomènes  physiques  et  le  génie  des  procédés.  La  stagiaire  devra  amener  et  co-développer  des
+compétences  plus  informatiques  visant  à  l’industrialisation  des  logiciels  R&D.  Les  Missions  proposées
+s’effectueront plus particulièrement sur un outil interne dédié à la description des processus de séparation des
+gaz par adsorption :
+-                                                                                                                      Participer à la stabilisation et l’optimisation d’une version du code :
+   Profiling
+   Tests fonctionnels de l’IHM
+   Passage de cas-tests « procédés ».   Comparaison. Présentation des écarts.
+   Alimentation de la bug-list avant répartition sur développeur
+-                                                                                                                      Réalisation et intégration d’utilitaires ou « plugins » :
+   Outils de post-traitement de calculs (Graphes, export et conversion de données, …)
+   Outils de suivi (contrôle de convergence, validation des inputs)
+   Outils de couplage
+-                                                                                                                      Faire évoluer le système de documentation actuel :
+   passage en ligne sur infrastructure interne (communauté) ou site web
+   réalisation de tutoriaux animés (Wink, …)
+-                                                                                                                      Soutien ponctuel pour réaliser des calculs sur des études procédés réelles
+PROFIL
+                                                                                                                          Bac +4/+5 Scientifique/Informatique avec composantes développement ou génie logiciel
+CONNAISSANCES REQUISES
+                                                                                                                      Goût prononcé pour le développement et connaissances avancées d’un ou plusieurs langages de
+                                                                                                                       programmation parmi C/C++/Python/Fortran. La connaissance d’une librairie graphique type Qt
+serait un plus.
+                                                                                                                      Notions de Génie Logiciel : Tests informatiques, qualité, …
+                                                                                                                      Connaissances de logiciels de calcul scientifique et simulation
+CAPACITES SOUHAITÉES
+ Savoir écouter et décrypter les besoins utilisateurs en collaboration avec le responsable logiciel
+pour réaliser des solutions adaptées.
+ Etre force de proposition sur les outils (librairie, bug tracker, debuger,…) , les méthodes ( plan
+de tests, …)
+ Sens Pratique
+ Avoir la rigueur pour aboutir à des versions d’outils transférables hors R&D
+CONDITIONS
+1*                                                                                                                     6 mois, au cours de l’année 2015
+2*  Indemnités de stage selon barème Air Liquide
+3*  Lieu :    AIR LIQUIDE - Centre de Recherche Paris Saclay (CRPS)
+1, chemin de la Porte des Loges -BP 126 Les Loges-en-Josas
+78354 Jouy-en-Josas
+CONTACT
+Envoyer CV et lettre de motivation par e-mail à :                                                                      frederic.bellencontre@airliquide.com
+
+
+
+
+

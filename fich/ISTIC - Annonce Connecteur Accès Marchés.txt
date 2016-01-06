@@ -1,0 +1,103 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : INGALYS - HORIZON CONNECT   Adresse : Espace Performance Bat H1
+Domaine d’activité :Edition de logiciels          Ville : SAINT GREGOIRE
+Représentant de l’entreprise : Mr DELFARGUIEL     N° téléphone : 02.23.25.46.80
+Sa qualité : Gérant                               N° fax :
+N° de Siret : 47894200600022                      Site Web : http://www.hsoftware.com/
+N° NAF : 9201Z                                    Courriel :
+Statut Juridique : SAS                            Signataire de la convention : Sophie Nupied
+Effectif de l’établissement : 14
+Nom de l’encadrant de stage :                     Chargé du suivi administratif : Sophie Nupied
+Sa qualité :                                      Sa qualité : Assistante RH
+Service :                                         N° téléphone : 02.23.25.46.80
+N° téléphone :                                    Email : sophie.nupied@connect.hsoftware.com
+Email :                                           Fax :
+Fax :
+                                                  Nom du service dans lequel le stage sera effectué : Service Développement
+                                                  PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 2 Professionnel en Informatique            (20 semaines obligatoires)
+□ Spécialité MIAGE                                du 10 mars 2014 à fin août 2014
+□ Spécialité GL                                   du 10 mars 2014 à fin août 2014
+UNIVERSITE DE RENNES 1                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+SUJET DU STAGE :
+Titre du stage proposé : CONNECTEUR  ACCES MARCHES
+Description : Horizon Connect, éditeur de logiciels de connectivité pour la finance anciennement connu sous le nom
+Ingalys, est implanté à Rennes depuis 2004, et fait partie du groupe Horizon Software basé à Paris, Hong-Kong et
+Bangkok.
+Nos solutions sont utilisées à la fois par des sociétés de trading recherchant une très faible latence et par
+d'importants animateurs de produits financiers générant un fort volume d'activité.
+Étant en croissance, nous recherchons des stagiaires talentueux, capables de concevoir et maintenir des connecteurs
+supportant des centaines de milliers de messages à la seconde. Nos ingénieurs travaillent en équipes dynamiques
+qui, face à une industrie en renouvellement perpétuel, doivent délivrer des modules toujours plus performants sous
+des délais généralement courts. En plus des compétences techniques pointues qui nous sont indispensables, les
+candidats que nous recherchons font preuve d’esprit d’équipe, d’imagination et d’initiative, nécessaires pour
+l’amélioration collective de nos outils et méthodes.
+Type  et  configuration  du  matériel  sur  lequel  le  stagiaire  travaillera                                           (matériels,  technologies,  méthodes,
+langages…) :
+Le stagiaire doit maitriser la programmation Java ainsi que les outils couramment associés (eg. Eclipse, JUnit ...)
+Le stagiaire doit avoir une solide connaissance d’un ou plusieurs autres langages (C, Python, shells, Javascript, ...)
+Le stagiaire doit travailler efficacement sous un environnement UNIX (Linux)
+Sujet proposé détaillé :
+Sous la responsabilité d’un ingénieur-tuteur et en collaboration avec l'équipe de développement, le stagiaire sera en
+charge des aspects suivants du développement d'un connecteur accès marchés :
+ l’étude des spécifications fournies par la bourse ou l’intermédiaire fournissant l’accès aux données
+ la conception et le développement de composants logiciels assurant l’accès à ces nouveaux services
+ la création de tests unitaires ou d’ensemble pour le processus d’intégration continue
+ le passage des tests de "conformance" imposés par les marchés
+ la rédaction de la documentation fournie aux utilisateurs
+ rendre aussi aisée que possible la mise en place des nouveaux composants
+Profil recherché :
+ Etudiant en dernière année d’école ingénieur informatique (INSA, ENST...) ou d’université (ISTIC...) spécialité
+informatique.
+ Etre Passionné  par les challenges techniques
+ Aimer trouver des solutions élégantes à des problèmes complexes.
+ Etre curieux, moteur, autonome et parler un anglais courant.
+UNIVERSITE DE RENNES 1                                                                                                   TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                                    FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                                 www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) : SMIC                                            Nom de l’Etudiant :
+Modalités de versement : Virement bancaire                                    Diplôme :
+Avantages en nature à préciser : Tickets Restaurants
+Temps horaire hebdomadaire : 35 heures
+Date limite de réponse à cette proposition : Février 2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ?
+Oui, en envoyant CV + Lettre de motivation à DEV51329@connect.hsoftware.com
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                        TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                         FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                      www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

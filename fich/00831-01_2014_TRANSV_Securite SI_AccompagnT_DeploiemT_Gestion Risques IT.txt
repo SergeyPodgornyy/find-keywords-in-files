@@ -1,0 +1,45 @@
+﻿INFORMATIQUE                                                                                                               STAGE   2013-2014
+                                                                                                                           ACCOMPAGNEMENT AU DEPLOIEMENT
+                                                                                                                           DE LA GESTION DES RISQUES IT
+                                                                                                                           Stage rémunéré
+                                                                                                                                                                                  Créé en mai 2011 U GIE-IRIS, est le prestataire
+REF : 01_2014_Transv_SECURITE SI
+                                                                                                                                                                                  informatique  interne  au  Groupement  U
+                                                                                                                                                                                  (Hyper  U,  Super  U,  U  express).  Il  a  pour
+DUREE : 5 mois - Période : Avril 2014                                                                                                                                             mission  la  centralisation  et  l'uniformisation
+                                                                                                                                                                                  des ressources informatiques des magasins U
+                                                                                                                           et des centrales.
+                                                                                                                           Chaque  année  nous  accueillons  une  douzaine  de
+                                                                                                                           stagiaires   qui   rejoignent   une   équipe   de      500
+Dans le cadre de la mise en place de la Politique Générale de                                                              collaborateurs qui travaillent dans un environnement
+Sécurité 2014, U GIE IRIS souhaite déployer sa méthodologie                                                                technique constitué de 500 serveurs (Unix, Windows,
+de gestion des risques.                                                                                                    AS400), 1800 équipements réseaux et une centaine de
+bases de données, répartis dans les Datacenters et
+Afin de faciliter son appropriation par tous les acteurs IRIS,
+reliés aux 1423 points de vente du groupe.
+cette méthodologie doit être accompagnée.
+En immersion complète dans des projets
+concrets, ces stages leur permettront de
+valider leurs connaissances théoriques et
+pratiques  et  mettront  à  l'épreuve  leurs
+capacités méthodologiques.
+Vous aurez la responsabilité de concevoir et développer un outil de gestion des risques suivant la norme ISO
+27001/27002/27005.
+Cet outil d'aide à la décision doit permettre au Service Sécurité des Systèmes d'Information d'illustrer et de
+représenter le taux de couverture d'un service aux exigences Sécurité ISO.
+Il devra également aider les collaborateurs IRIS à classifier les applications, les services ou les projets IRIS suivant
+les critères DICT (Disponibilité, Intégrité, Confidentialité, Traçabilité).
+HTML5 - JAVA - GWT
+Bac + 5 Informatique, Ecole d'Ingénieurs ou Universitaire, ICAM ou ESEO
+Qualités requises :
+o  Capacité à innover
+o  Excellentes connaissances techniques (large spectre)
+o  Faculté à convaincre, grande aisance orale, force de proposition
+Adressez votre demande de stage + CV à l'attention de
+U GIE IRIS - Samira AMOURI - Place des Pléiades - ZI Belle Etoile Antarès - BP 50405 - 44474 CARQUEFOU CEDEX
+e-mail : samira.amouri@systeme-u.fr
+
+
+
+
+

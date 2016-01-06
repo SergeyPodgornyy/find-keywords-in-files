@@ -1,0 +1,41 @@
+﻿Stage  / Cyber Etude des Outils de PaaS  /
+CASSIDIAN  - An EADS Company
+REFERENCE  :  10222531 TL FR
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4425689
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Elancourt 78996, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Du 01/11/2013 au 01/04/2014
+DUREE  :  6 mois
+SECTEUR  :  Industry (Aeronautical/Spatial)
+FONCTION  :  Information systems / Telecom (Systems/Network/Database)
+SOCIETE  :
+EADS
+DESCRIPTION DU POSTE  :
+Cassidian CyberSecurity (Elancourt) recherche un(e) stagiaire pour une durée de 3 à 6 mois.
+Cassidian a créé une entité entièrement dédiée à la Cybersécurité, de manière à regrouper ses forces
+et à accélérer sa croissance dans ce domaine.
+Dynamique, agile et proactive, l'entité "CyberSecurity" de Cassidian propose des solutions
+innovantes et développe un cercle de partenaires de confiance en Europe pour relever le défi de la
+Cybersécurité au service des gouvernements et des entreprises critiques.
+Vous serez chargé(e) de poursuivre le déploiement d'une plate-forme OpenStack ainsi qu'étudier et
+évaluer les différents outils de PaaS / SaaS (SDN, Big Data) sur celle-ci.
+Vous évoluerez au sein d'une équipe dynamique dans un laboratoire de recherche et technologie, et
+pourrez monter en compétences dans le domaine du "cloud computing".
+Cette offre de stage est à pourvoir à compter du 1er Novembre 2013 (sujette à une certaine
+flexibilité).
+Vous aurez, par exemple, les missions suivantes :
+- Intégrer sur la plate-forme des solutions disponibles sur le marché,
+- Etudier les mécanismes internes de ces solutions,
+- Développer des outils de contrôle tant au niveau des nœuds physiques que virtuels,
+- Se tenir au fait des possibilités offertes par les fournisseurs de "cloud".
+PROFIL  :
+Vous êtes en dernière année d'école d'ingénieur, en master ou université (5ème année) et êtes
+spécialisé(e) en informatique.
+POUR POSTULER  :  http://eads.contactrh.com/jobs/1536/4425689
+
+
+
+
+

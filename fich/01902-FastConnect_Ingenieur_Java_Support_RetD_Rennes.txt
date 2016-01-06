@@ -1,0 +1,46 @@
+﻿Ingénieur Nouvelles Technologies Cloud/SOA/Big Dat(H/F)
+Poste en CDI à pourvoir dès que possible à Rennes
+FastConnectest une société de conseil et d’ingénierie, notre valeur ajoutée repose sur une forte
+expertise  technique  appuyée  par  des  partenariats  actifs  dans  les  domaines  des  architectures
+applicatives distribuées et complexes.
+Nos activités vont du conseil en architecture ou en gestion de projet agile à la mise en place et
+l’optimisation de solutions souples et évolutives en passant par les activités de formation, pour les
+projets stratégiques de nos clients.
+Nos valeurs sont FAST : Focus, Agility, Synergy, Trust !
+Nous sommes organisés en Centres d’Expertise :
+    SOA fournit des solutions d’intégration de systèmes et d’exposition de services en
+exploitant notamment les technologies SOA, ESB, BPM
+    Cloud fournit des solutions de performance, de haute disponibilité et d’élasticité de
+l’infrastructure applicative en exploitant les technologies de Cloud Computing, Calculs
+Haute Performance ou BigData (NoSQL, …)
+    Services Métierfournit de l’agilité métier en exploitant des solutions de gestion de règles et
+d’optimisation métier
+    Et un pôle transverse Support-R&D à Rennesq ui interagit avec les différents centres
+d’expertise.
+Missions
+Vous intégrez notre Centre de Développement/Support-R&D à Rennes et serez amené à :
+   Evoluer  sur  des  solutions  techniques  complexes  et  pointues  dans  différents  domaines
+innovants et porteurs tels que : Cloud Computing, SOA, architectures distribuées, ESB,
+DataGrid, etc.
+   Accompagner, conseiller et apporter l’expertise et le support technique à nos clients en
+France et à l’étranger (de la conception à la mise en production)
+   Participer  à  des  activités  d’avant-vente                                                            (réalisation  d’étude  &  Proof  of  Concepts),  de
+développement/réalisation  de  projets  innovants  et  complexes                                            (analyse,  conception,
+développement, assurance qualité, etc.) et d’après-vente (suivi, maintenance et support).
+Dès votre intégration, vous bénéficiez d’une période de formation sur les solutions techniques de
+nos partenaires (GigaSpaces, MuleSoft, TIBCO, etc…) ainsi qu’aux outils et méthodes utilisés au
+sein de FastConnect.
+Vous  évoluerez  en  collaboration  avec  d’autres  ingénieurs  au  sein  d’une  cellule  d’expertise  et
+partagerez vos idées/compétences pour relever tous nos défis.
+De  formation  école  d’Ingénieur  ou  équivalent,  vous  avez  obligatoirement  une  expérience
+significative en JAVA et un bon niveau d’anglais à l’écrit et à l’oral.
+Vous avez un goût prononcé pour les technologies objets : JAVA, l’architecture logicielle.
+D’un naturel dynamique, autonome, curieux, rigoureux et persévérant, vous êtes particulièrement
+motivé pour rejoindre une structure dynamique en pleine croissance.
+Avantages : salaire selon profil, mutuelle, prime de participation.
+N’hésitez pas à envoyer votre candidature au service RH : recrutement@fastconnect.fr
+
+
+
+
+

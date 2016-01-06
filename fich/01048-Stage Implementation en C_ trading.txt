@@ -1,0 +1,56 @@
+﻿Stage  Implémentation  en  C#  trading
+Société  Générale  France
+REFERENCE  :  ST/SB/ITEC94153
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5488460
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Paris / Ile de France 75000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  À partir du 01/01/2013
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION  DU  POSTE  :
+Votre environnement
+SG CIB est le pôle de la banque de financement et d'investissement du Groupe Société Générale.
+Le stage se déroulera au sein d'une équipe informatique dédiée au support de la ligne métier Marché
+des Matières premières, plus particulièrement sur le sous périmètre 'Métaux et Aggri
+Votre stage
+Sous la responsabilité de votre tuteur, vous participez à implémenter en C# un automate de pair-
+trading
+Apport du stage
+Ce stage vous permettra de :
+- Renforcer vos compétences en programmation orientée objet, et c# principalement.
+- Renforcer et acquérir de nouvelles compétences en finance de marché
+Votre profil
+Vous êtes étudiant(e) de niveau bac+5 en école  d’ingénieur ou université avec une spécialisation en
+système d’information.
+Votre niveau d’anglais est opérationnel et vous avez une bonne connaissance du Pack Office.
+Vous êtes à l’aise avec C#.
+Vous possédez un esprit d’analyse et une bonne capacité de synthèse afin de traiter de multiples
+informations et d'accomplir, avec succès, les travaux qui vous seront confiés.
+
+
+
+
+Et si c'était vous?
+Si votre CV est sélectionné par le recrutement, vous rencontrerez un opérationnel pour un entretien
+de motivation. La décision de vous recruter pour ce stage appartiendra à ce manager.
+Durée : 6 mois
+Type : Convention de stage
+Gratifications: Selon grilles Société Générale
+PROFIL  :
+Vous êtes étudiant(e) de niveau bac+5 avec une spécialisation en système d’information.
+Votre niveau d’anglais est opérationnel.Vous êtes à l’aise avec C#.
+POUR  POSTULER  :  http://socgen.contactrh.com/jobs/1536/5488460
+
+
+
+
+

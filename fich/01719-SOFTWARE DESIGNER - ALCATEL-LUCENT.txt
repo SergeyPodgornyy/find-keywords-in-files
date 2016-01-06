@@ -1,0 +1,49 @@
+﻿UBIFRANCE RECRUTE UN/UNE SOFTWARE DESIGNER - ALCATEL-LUCENT EN VIE DE 18 À 24
+MOIS.
+Date : 01/02/2015
+Référence de l’offre : VIE/69834/23102014-7852239
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : VIE
+Localisation : ROUMANIE, TIMISOARA 00000, RO
+Durée du contrat : De 18 à 24 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Le Volontariat International en Entreprise (V.I.E) est régi par la loi n° 2000-242 du 14 mars 2000 relative
+aux volontariats civils. Il s'adresse aux jeunes de nationalité française ou ressortissants des Etats Membres de
+l'Espace Economique Européen âgés de 18 à 28 ans.
+Description du poste :
+CONTEXTE DE LA MISSION
+L'équipe Aida développe une solution logicielle Aida permettant le pilotage automatisé de téléphones
+mobiles 2G/3G/4G (du téléphone basique au smartphone Android en passant par les dongle USB). Ces
+solutions sont utilisées par toutes les équipes SystemTests Worldwide pour la réalisation des tests nécessitant
+l'utilisation de mobiles réels sur les équipements radio 2G, 3G et 4G produits par la société.
+Dans ce cadre, nous recherchons un contrat V.I.E d'une durée de 12mois (renouvelable) pour intégrer l'équipe
+romaine en charge du développement et des tests d'intégration du projet. Le(la) candidat(e) sera intégré(e)
+dans un projet d'envergure, mêlant principalement du développement distribué et massivement multi-threadé
+Java à quelques parties C++ pour les couches basses proches de l'OS mais aussi du développement Android
+Java et natif C/C++ pour les couches bas niveau orientées «temps réel ».
+Le(la) candidate sera en contact permanent avec les équipes de tests et d'intégration, et sera amené à
+développer de réelles compétences dans les systèmes Wireless 2G-3G-4G.
+Doté  d'un  environnement  technique  riche                                                                         (Java,  C++,  Netbeans  Plateform,  JNI,  RMI,  technologies
+mobiles/Smartphones),  ce  poste  est  une  opportunité  unique  pour  développer  une  double  compétence
+logicielle et mobilité                                                                                              2G-3G-4G dans un contexte international fort  (nos utilisateurs sont répartis entre
+France, US, Canada, Allemagne, Roumanie, Inde et Chine).
+Profil recherché :
+Nous recherchons un profil Ecole d'Ingénieur/Université Bac +5 dans le domaine informatique S/W. Curieux,
+motivé  par  le  développement  et  les  nouvelles  technologies,  le(la)  candidat(e)  aura  déjà  une  première
+expérience logicielle au travers de stages et/ou de contrat d'apprentissage.
+Prérequis techniques :
+* Java, et programmation objet en général
+* C/C++ (pour les parties natives embarquées si nécessaire)
+* Architecture client/serveur
+* Environnement de développement Netbeans
+* Connaissances Android appréciées
+* Connaissances générales Télécom Wireless et protocoles associés (TCP/IP, FTP UDP...)
+Anglais courant.
+Pour postuler : http://ubifrance.contactrh.com/jobs/1536/7852239
+
+
+
+
+

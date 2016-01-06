@@ -1,0 +1,59 @@
+﻿ATOS RECRUTE UN/UNE CONCEPTION DÉVELOPPEMENT J2EE (H/F) EN STAGE 6 MOIS.
+Date : 01/12/2014
+Référence de l’offre : 176254-7964784
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Atos SE  (Société Européenne), acteur international des services informatiques avec un chiffre d'affaires
+annuel de 8,6 milliards d'euros et 76 300 collaborateurs dans 52 pays, fournit à ses clients du monde entier
+des  services  de  conseil  d'intégration  de  systèmes,  d'infogérance  et  des  services  transactionnels  par
+l'intermédiaire de Worldline, le leader européen et un acteur mondial dans les services de paiement. Grâce à
+son expertise technologique et sa connaissance industrielle, Atos sert ses clients dans différents secteurs :
+Industrie, distribution transports, Secteur public santé, Services financiers, et Télécoms, médias services aux
+collectivités.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les noms d'Atos, Atos
+Consulting, Worldline et Atos Worldgrid.
+Pour plus d'information : www.atos.net
+L'entité Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels
+les systèmes d'information de ses clients.
+Description du poste :
+Intégré au sein d'une équipe et encadré par un ingénieur expérimenté, vous participerez aux différentes
+phases d'un projet informatique, dans un processus de qualité.
+Le stage s'organisera autour des phases successives suivantes :
+- Analyse des besoins du client,
+- Rédaction des spécifications,
+- Développement,
+- Intégration et tests des développements effectués.
+NTIC :
+Client léger, JAVA/J2EE, JSP, JUnit, JavaScript, Struts, Hibernate, AJAX, HTML, Webservices SOAP,
+Tomcat, Linux, Eclipse, MySQL.
+Ce stage vous offrira, dans un contexte international, l'expérience d'un cycle complet d'un projet, de l'analyse
+des besoins jusqu'au déploiement de la solution définie.
+Il  vous  permettra  d'acquérir  des  compétences  variées  dans  des  environnements  d'architecture  N-tiers
+Java/J2EE, intégrant les technologies Struts et Hibernate.
+Vous aurez appréhendé :
+- La participation aux différentes phases du projet (étude, réalisation, tests, documentation…),
+- La problématique d'industrialisation des phases projet,
+- La concrétisation sur le terrain de vos connaissances techniques,
+-   L'acquisition   de   nouvelles   compétences   techniques   et   fonctionnelles   dans   le   domaine   des
+télécommunications.
+Profil recherché :
+
+
+
+
+De formation Bac+4/5 en informatique  (Ecole d'ingénieur ou université) en cours de validation, vous
+recherchez un stage d'une durée de  4 à  6 mois à partir de janvier  2014. Vous justifiez d'une première
+expérience (stage ou projet scolaire) en technologies JAVA/J2EE. L'anglais professionnel est requis.
+Pour postuler : http://atos.contactrh.com/jobs/1536/7964784
+
+
+
+
+

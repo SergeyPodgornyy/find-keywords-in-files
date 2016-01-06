@@ -1,0 +1,37 @@
+﻿Stage 2015
+DÉVELOPPEMENT D’UN DONGLE
+D’AUTHENTIFICATION SÉCURISÉ
+(REF : DAUTH-2015)
+TAZTAG est une société  rennaise  spécialisée en  technologies  de la  communication
+sécurisée  sans  contact.  TAZTAG  développe  et  commercialise  des  produits  et  des
+solutions  appliquées  aux  domaines  de  sécurité,  transport,  paiement,  vie  urbaine,
+santé,, services à la personne…, permettant de créer une véritable interaction entre
+l'usager et son environnement.
+Mission
+En  étroite  collaboration  avec  les  équipes  de  R&D,  dans  un  contexte  international,
+votre   mission   sera   de   concevoir   et   développer   un   dongle   d’authentification
+permettant d’établir une communication sécurisée avec un appareil mobile.
+Vous  participerez  à  la  conception  HW  et  mécanique  du  produit.  Partant  de
+spécifications à définir, vous serez en charge du développement de ce produit. Vous
+devrez  valider  la  solution,  optimiser  le  design  et  supporter  les  équipes  SW.  Vous
+documenterez votre travail et supporterez les ingénieurs impliqués dans le design et
+la validation du produit.
+Le stage vous permettra d’aborder les nouvelles technologies sans fil et de prendre
+part aux développements de nouveaux produits mobiles sécurisés.
+Profil recherché
+Vous avez un niveau BAC 5 : master ou école d’ingénieurs Electronique. Vous avez des
+compétences   en   développement   Electronique   orienté   conception   mécanique
+indispensable, autonomie et curiosité fortement appréciées
+Des connaissances en développement logiciel embarqué  (langage C, ARM) sont un
+plus
+Anglais courant.
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée minimum 5 mois, dès janvier 2015 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com, alexis.martin@taztag.com
+
+
+
+
+

@@ -1,0 +1,600 @@
+﻿AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développe-
+ment rapide d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les
+contrats entre clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance
+par la FNTC en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme
+du code-barres à 2 dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps
+réel sur le web, en points de vente mais aussi en applications sur les téléphones mobiles.
+Ensemble des stages proposés
+Développement d’un plugin d’aide à la souscription de contrats en point de vente                                     AXTRH2014INT001
+Interfaces de gestion du cycle de vie des certificats                                                                AXTRH2014INT004
+Archivage numérique et préservation des données sur le long terme                                                    AXTRH2014INT005
+Tests de performance application J2EE                                                                                AXTRH2014INT007
+Développement d’une application anti-fraude de validation de dossier                                                 AXTRH2014INT008
+Expertise base de données - Optimisation - Supervision - Haute disponibilité                                         AXTRH2014INT009
+Modélisation et analyse de documents semi-structurés                                                                 AXTRH2014INT010
+Reconnaissance de caractères en environnement dégradé                                                                AXTRH2014INT011
+Etude compression d’image jpeg2000                                                                                   AXTRH2014INT012
+Application Android de lecture de documents à puce NFC                                                               AXTRH2014INT013
+Développement d'un analyseur de 2D-DOC embarqué                                                                      AXTRH2014INT014
+Développement d'une base de connaissance de documents d'identité                                                     AXTRH2014INT015
+Développement d'un serveur d'authentification et de gestion de comptes utilisateur                                   AXTRH2014INT016
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT001
+Développement d'un plugin d'aide à la souscription de contrats en point de vente
+Description :
+Dans le cadre de la dématérialisation des souscriptions de contrats en agence, AriadNEXT développe des
+briques logicielles pour assister les vendeurs dans le processus de souscription de contrats : pré-remplissage
+de formulaires web, envoi automatique des fichiers pdf, ...
+AriadNEXT souhaite proposer de nouvelles briques logicielles sous la forme de plugins pour des navigateurs
+autres que Internet Explorer, a minima Chrome et Firefox.
+Tâches :
+•   étudier les frameworks spécifiques au développement de plugins Chrome et Firefox
+•   développer un plugin pour au moins l'un de ces environnements
+•   proposer un mécanisme de déploiement facilitant l'installation du plugin en point de vente
+Environnement :
+•   côté client : HTML, Javascript, CSS (+ XUL pour firefox)
+•   interface client-serveur : Web-services SOAP/REST, JSON, XML
+•   côté serveur : Java
+•   environnement : debian, eclipse, svn
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par les technologies Web
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT004
+Interfaces de gestion du cycle de vie des certificats
+Description :
+Les solutions d’AriadNEXT se basent largement sur l’usage des certificats numériques (signature électronique,
+authentification de devices...). L'Autorité d'Enregistrement est le composant permettant de gérer toutes les
+demandes relatives au cycle de vie des certificats. Elle offre une interface Back Office utilisée en interne par
+des opérateurs AriadNEXT, et une interface Front Office mise à disposition des clients via un site web. L'Auto-
+rité d'Enregistrement s'intègre pleinement avec les solutions de souscription en ligne et de contrôle d'identité
+d'AriadNEXT.
+Tâches :
+•   Spécifications et réalisation des interfaces graphiques de l'Autorité d'Enregistrement.
+•   Développement, recette et validation de la solution.
+•   Optionnellement, intégration avec la solution AriadNEXT de validation de pièces d'identité.
+Environnement :
+•   Linux
+•   Java/J2EE/Eclipse
+•   GWT
+•   EJBCA
+•   Référentiel Général de Sécurité (RGS), RFC 5280 , CMS (PKCS#7), PADES
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par les thématiques d'identité et de confiance numériques
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT005
+Archivage numérique et préservation des données sur le long terme
+Description :
+AriadNEXT accompagne la dématérialisation de processus métiers en fournissant des solutions ergonomiques
+et sécurisées. Les documents produits dans le cadre de ces processus, souvent signés électroniquement, doi-
+vent être conservés pendant des durées parfois longues (plus de 10 ans), dans des conditions assurant leur
+intégrité et leur lisibilité au fil du temps. La solution d'archivage d'AriadNEXT s'intègrera avec l'ensemble des
+produits et services d'AriadNEXT et respectera les standards en vigueur. Elle sera basée sur des mécanismes
+de signature électronique et d'horodatage.
+Tâches :
+•   Spécifications de la solution d'archivage et de ses interfaces avec les solutions d'AriadNEXT.
+•   Réalisation d'un prototype (développement).
+Environnement :
+•   Linux
+•   Java/J2EE/Eclipse
+•   Référentiel Général de Sécurité (RGS), RFC 5280 , CMS (PKCS#7), PadES, CAdES, XAdES
+•   ETSI TS 101 533, NF Z42-013
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par les thématiques de confiance numérique et de sécurité des
+systèmes d'information
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT007
+Tests de performance application J2EE
+Description :
+AriadNEXT développe une solution de dématérialisation et de sécurisation de documents à base de serveurs
+d'application java sous linux.
+Lors de la phase de validation des applications développée, il est nécessaire de réaliser, outre les tests
+fonctionnels, des tests de performance.
+Le  but  du  stage  est  d'étudier  les  frameworks  de  tests  existants  et  d'implémenter  des  cas  de  tests
+représentatifs de l'activité réelle en production.
+Tâches :
+•   Etude des frameworks de tests
+•   Comprendre le fonctionnement de la solution de dématérialisation
+•   Modélisation de la charge utilisateur
+•   Définition de cas de tests : tests de performance, tests d'endurance, tests aux limites, ...
+•   Analyser les résultats des tests de performance : impacts OS / système, impacts sur la JVM et impacts
+sur la base de données
+Environnement :
+•   Java J2EE - Tomcat
+•   Web services : HTTP, SOAP
+•   MySQL 5.5
+•   Linux (Debian)
+•   Eclipse
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par le domaine de la métrologie et l'analyse des performances
+d'un serveur J2EE
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT008
+Développement d'une application anti-fraude de validation de dossier
+Description :
+AriadNEXT développe une solution de dématérialisation des pièces justificatives et de signature numérique de
+dossiers en point de vente de téléphonie mobile.
+La solution comprend des terminaux d'acquisition sécurisés se connectant aux serveurs AriadNEXT qui
+effectuent les contrôles anti-fraude et de cohérence sur les pièces scannées.
+Le but du stage est de concevoir et de développer une application GWT permettant  de débloquer un dossier
+suite à des contrôles bloquants et de permettre la poursuite de la souscription.
+Tâches :
+•   Prise de connaissance des outils et des méthodes de développement utilisés chez AriadNEXT
+•   Analyse et conception de l'application GWT
+•   Développement des 3 couches : présentation, métier et accès aux données.
+•   Intégration continue et validation
+Environnement :
+•    IHM GWT
+•    Linux (Debian), Java J2EE, Tomcat
+•    Web services SOAP : JAX-WS
+•   Accès JDBC à la base de données MySQL
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M1)
+•    Profil  dynamique,  motivé,  intéressé  par  le  développement  logiciel  au  sein  d'une  équipe  de
+développeurs expérimentés.
+Durée du stage :
+•                                                                                                                                   2 à 6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT009
+Expertise base de données - Optimisation - Supervision - Haute disponibilité
+Description :
+AriadNEXT développe une solution de dématérialisation et de sécurisation de documents à base de serveurs
+d'application java sous linux.
+L'objectif de ce stage est d'analyser et d'optimiser la tenue en charge de la base de données dédiée au stockage des
+contrôles anti-fraude et des pièces scannées.
+Dans un premier temps, un audit de la base dans un environnement réel sera  réalisé afin d’identifier les points de
+blocage. Ensuite, le stagiaire proposera et implémentera des solutions pour lever les contentions éventuelles. Il
+s'agit d'un travail d'investigation et d'optimisation de performances.
+Tâches :
+•    Analyse du comportement applicatif vis à vis de la base de données à l'aide d'outils du type MySQL Query
+Analyzer.
+•    Optimisation de la structure de la base de données (index, clefs, ...).
+•    Mise en œuvre de nouveaux outils de supervision sur les différentes instances de base de données.
+•    Test et déploiement d'une solution de haute disponibilité au niveau des bases de données.
+•    Mise en œuvre d'outils automatisés pour qualifier la tenue en charge de la base.
+Environnement :
+•    MySQL 5.5 / Oracle
+•    Linux (Debian)
+•    Scripts shell (BASH)
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par l'optimisation de bases de données.
+Durée du stage :
+•                                                                                                                                   5 à 6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT010
+Modélisation et analyse de documents semi-structurés
+Description :
+Certains types de document traités par les solutions d'AriadNEXT (RIB, facture, ...) présentent des variabilités
+structurelles  importantes  ce  qui  nécessite  des  algorithmes  d'analyse  intelligents  afin  d'extraire  les
+informations utiles. Cette analyse reposera sur des règles de recherche décrivant les caractéristiques des
+champs recherchés et leurs positionnements relatifs. Ce stage vise à développer un environnement d'analyse
+intelligent de documents semi-structurés. Cet environnement se composera principalement d'une interface
+de création de règles et d'un moteur d'inférence basé sur des arbres de recherche.
+Tâches :
+•   Étude des solutions d'analyse de document existantes (ex. ABBYY FlexiCapture)
+•   Spécifications de langage de description des règles.
+•   Implémentation du compilateur.
+•   Développement du moteur d'inférence.
+•   Développement de l'IHM de création des règles.
+Environnement :
+•   Linux
+•   C++
+•   XML
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par l'analyse et la reconnaissance de document.
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT011
+Reconnaissance de caractères en environnement dégradé
+Description :
+AriadNEXT utilise depuis plusieurs années des moteurs de reconnaissance de caractères industriels ou open
+source (tels que tesseract). Ces moteurs à usage générique sont bien adaptés aux documents complexes par
+l'agencement du contenu (textes, images, paragraphes), mais de qualité d'acquisition relativement bonne.
+L'objectif de ce stage est de concevoir un système d'OCR caractère par caractère, adapté aux systèmes ou la
+structure  du texte  à chercher est connue  (ligne de Zone  de Lecture Automatique  sur des documents
+d'identité, numéro de carte bancaire), mais ou là qualité peut être fortement dégradée du faite de l'usure du
+document ou de la piètre qualité d'acquisition.
+Tâches :
+•   Etude et choix des caractéristiques à extraire et du classifieur à utiliser.
+•   Prototypage (éventuellement itératif)
+•   Mise en application du prototype sur la lecture de pièces d'identité ou de cartes bancaires
+Environnement :
+•   Weka
+•   OpenCV/C++
+•   Linux
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par le traitement d'image et les technologies de classification.
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT012
+Etude compression d'image jpeg2000
+Description :
+AriadNEXT stocke dans son système d'information développé pour ses clients des images de documents
+issues de différents périphériques d'acquisition (scanners haute définition, conditions d'éclairage diverses,
+scanners noirs et blanc, image de smartphones).
+Le format de compression utilisé actuellement est jpeg, et les premiers essais de jpeg2000 basés sur les
+implémentations open source ne se sont pas montrés concluants, du fait des temps d'exécution prohibitifs.
+Tâches :
+•   Etude de la norme jpeg2000, synthèse des différences par rapport au jpeg.
+•   Evaluation des performances et des fonctionnalités de différents SDKs, propriétaires ou open
+sources.
+•   Recommandations quant au choix de la meilleure méthode de compression autour des technologies
+jpeg2000 (avec ou sans SDK)
+•   Développement d'un prototype de compression/décompression en environnement linux.
+Environnement :
+•   C++
+•   Linux/Windows
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par le traitement du signal et de l'image
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT013
+Application Android de lecture de documents à puce NFC
+Description :
+AriadNEXT développe des solutions de lecture et de vérification de documents d'identité portables et ergo-
+nomiques. De plus en plus de documents intègrent une puce électronique pouvant être lue via une interface
+NFC (passeport, nouveau permis de conduire).
+Le but du stage est d'étendre les solutions existantes de lecture de document en intégrant un module de lec-
+ture de la puce en NFC permettant d'extraire les informations de la puce.
+Tâches :
+•   Étude des normes décrivant les documents
+•   développement d'un module de dialogue avec la puce
+•   intégration de ce module dans des applications Android existantes
+Environnement :
+•   technologie NFC, APDUs
+•   langages de développement : Java
+•   environnement : debian, eclipse, svn
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par les technologies mobiles
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT014
+Développement d'un analyseur de 2D-DOC embarqué
+Description :
+AriadNEXT a développé la norme 2D-DOC pour sécuriser les documents papiers (par exemple justificatifs de
+domicile) en apposant sur ces documents un code-barre contenant une signature électronique.
+Dans le cadre du déploiement à grande échelle de ces 2D-DOC, il est primordial de disposer de solutions por-
+tables et ergonomiques pour vérifier la validité des documents contenant un 2D-DOC. Pour cela, AriadNEXT
+souhaite développer un analyseur de 2D-DOC pouvant être embarqué dans différents environnements : ap-
+plications mobiles iOS ou Android, linux embarqué.
+Tâches :
+•   étude de la norme 2D-DOC
+•   développement d'un parseur de 2D-DOC configurable
+•   développement d'une application mobile utilisant le parseur de 2D-DOC
+Environnement :
+•   langages de développement : C++, Java, Objective C
+•   environnement : debian, eclipse, svn
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par les technologies mobiles et la cryptographie
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT015
+Développement d'une base de connaissance de documents d'identité
+Description :
+AriadNEXT développe des solutions d'analyse de documents d'identité pour permettre l'extraction automa-
+tique d'informations ainsi que la détection de faux.
+Étant donnée la diversité des pièces d'identité et l'absence de normes partagées et respectées, AriadNEXT a
+mis au point une base de connaissance permettant de représenter et stocker cette diversité sous forme de
+modèles. Ces modèles sont ensuite exportés pour être exploités par nos outils d'analyse.
+Le but du stage est d'améliorer cette base de connaissances sur plusieurs aspects : IHM de création de mo-
+dèles, mécanismes de détections d'incohérences, indicateurs de couvertures des modèles, ...
+Tâches :
+•   Prise en main de l'existant et spécification détaillées des améliorations à apporter
+•   Développement des nouvelles fonctionnalités
+•   Intégration avec les analyseurs de documents
+Environnement :
+•   Java, GWT
+•   environnement : debian, eclipse, svn
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par la modélisation
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+AriadNEXT
+80 Avenue des Buttes de Coësmes
+35700 RENNES - France
+Tél. : 02 30 960 570
+Email : rh@ariadnext.com
+Passionnés de nouvelles technologies, ayez la satisfaction de voir vos compétences s'inscrire dans le développement rapide
+d'une start-up d'avenir.
+AriadNEXT, start-up française créée en mars 2010, produit le S<CUBE, une solution pour sécuriser et simplifier les contrats entre
+clients et opérateurs.
+Lauréate au concours Talents dans la catégorie « essaimage », et du trophée de l’Innovation des Tiers de Confiance par la FNTC
+en 2011, AriadNEXT collabore avec Thalès, 3M, Oberthur… AriadNEXT est aussi l’inventeur de la norme du code-barres à 2
+dimensions 2D-Doc et développe des solutions de lecture et vérification de documents en temps réel sur le web, en points de
+vente mais aussi en applications sur les téléphones mobiles.
+Référence : AXTRH2014INT016
+Développement d'un serveur d'authentification et de gestion de comptes utilisateur
+Description :
+AriadNEXT développe différentes solutions destinées à des utilisateurs professionnels ou particuliers. Pour
+permettre une gestion centralisée des comptes utilisateurs, AriadNEXT souhaite regrouper les fonctionnalités
+d'authentification et de gestion des comptes au sein d'un unique service.
+Une première version du serveur d'authentification a été développée et doit maintenant être améliorée avant
+d'être utilisée en production. Différents aspects doivent être étudiés : IHM d'administration, Reporting client,
+module de facturation, … Une attention toute particulière devra être portée à l'aspect modulaire du code
+pour pouvoir prendre en compte les spécificités des différents services gérés par ce serveur.
+Tâches :
+•   Prise en main de l'existant et spécification détaillées des améliorations à apporter
+•   Développement des nouvelles fonctionnalités
+•   Intégration avec les autres services métiers
+Environnement :
+•   Programmation objet, design patterns
+•   Java, GWT
+•   environnement : debian, eclipse, svn
+Profil :
+•    Bac + 5 (Ecole d’ingénieur / M2)
+•    Profil dynamique, motivé, intéressé par la programmation objet
+Durée du stage :
+•                                                                                                                                   6 mois
+Contact :
+rh@ariadnext.com
+Tél. : 02 30 960 570
+
+
+
+
+

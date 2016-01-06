@@ -1,0 +1,37 @@
+﻿PRINTEMPS 2014
+OFFRE DE STAGE
+STAGE DEVELOPPEUR WEB / MOBILE H/F - Rennes (35)
+La société KelBillet, spécialisée dans l’édition de services Internet innovants pour les voyageurs propose
+d’accueillir un stagiaire en développement web et mobile au printemps 2014.
+Le stage
+Vous participerez activement au développement de nouvelles briques logicielles métier et techniques, dédiées
+au site Internet KelBillet.com.
+Mots-clés : PHP5 - MySql - NoSQL - webservices - Internet - OpenData - Search engine - personnalisation -
+interconnexions avec les systèmes partenaires - performances - forte volumétrie - statistiques - sécurité.
+Au sein d’une équipe à taille humaine, ce stage vous permettra également de vous familiariser avec les
+méthodes agiles de gestion de projet (Scrum) dans un environnement professionnel dynamique.
+Le profil recherché
+De formation BAC+2 à BAC+5 et passionné par Internet et la technologie, vous maîtrisez le développement
+web : HTML   5,  CSS 3, Ajax, bootstrap, jquery, XML/XSLT, PHP OO, Java, et les bases de données MySQL. Vous
+avez également expérimenté le développement de services mobiles (web mobile et/ou applications natives).
+Vous êtes à l’aise avec les OS Linux. Des notions de programmation en key/value store, en systèmes
+d’information géographiques, en data visualization ou en référencement sont bienvenues.
+Qualités appréciées : créativité, efficacité, sens graphique. Idéalement, vous avez déjà réalisé un site web
+personnel ou associatif. Vous savez prendre des initiatives et relever des challenges.
+Qui sommes-nous ?
+La société KelBillet met à disposition des voyageurs des services pour faciliter la   recherche de billets de
+transport à petit prix sur Internet. Lancé en 2005, KelBillet.com propose une plateforme de revente légale de
+billets de train entre particuliers. Leader sur son marché, le site dispose également du premier moteur de
+recherche multi-transports, permettant de trouver en un seul clic un billet parmi toutes les offres de transport
+pour voyager en France et en Europe (train, avion, car, covoiturage, voiture personnelle). Le site KelBillet.com
+accueille 2 millions de visites par mois.
+En pratique
+Stage conventionné de 4 à 6 mois - Indemnité légale de stage.
+Début du stage : 1er semestre 2014
+Lieu : Rennes (35)
+Merci d’adresser votre candidature à recrutement@kelbillet.com
+
+
+
+
+

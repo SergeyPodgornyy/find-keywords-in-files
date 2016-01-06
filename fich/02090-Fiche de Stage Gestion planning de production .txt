@@ -1,0 +1,57 @@
+﻿UTM CIMUT       Page 1
+FICHE DE STAGE
+Rédacteur : Thomas LEONARD
+Fiche : Fiche de Stage Gestion planning de production
+DATE      Demande : 17/10/2014
+Diffusion : 17/10/2014
+1. Historique Création/modification de la demande
+Date demande                                                                                                                       Nom du demandeur   Description
+17/10/2014                                                                                                                         Thomas LEONARD     Développement d’une application Web/Java de gestion de planning de production
+Bruno GUELLEC
+Yann GUEGUEN
+CIMUT Quimper
+2. Objectif principal
+Développer une application Web/Java visant à élaborer un planning de production doté d’une interface web d’administration, de
+tableaux de saisie, de batchs de génération de documents de planning (PDF, Excel…), d’envois de rappels et de contrôles
+d’exécutions.
+Technologies : Web/php/Java/Mysql/Postgre à préciser
+3. Niveau
+Master 2, Ecole d’ingénieur
+4. Planning de la mission
+De Février 2015 à Aout 2015. Prolongation possible.
+5. Contact
+CIMUT Quimper
+Thomas LEONARD, Responsable d’Exploitation : 0256562931 -- thomas.leonard@cimut.fr
+Bruno GUELLEC, Responsable d’Exploitation : 0256562933 -- bruno.guellec@cimut.fr
+Yann GUEGUEN, Responsable d’Application : 0256562991 -- yann.gueguen@cimut.fr
+6. Détail de la mission
+Pôle d'excellence informatique et technologique, le CIMUT emploie près d'une centaine d'ingénieurs et de techniciens hautement
+qualifiés sur son site de Quimper.
+Leader en systèmes d'information à destination des régimes obligatoire et complémentaire santé, il offre une solution complète
+d'infogérance (cœur de métier, prévoyance, courtage, décisionnel, GRA, GED, Extranets & Web Services, etc.) dans un
+environnement 100 % web.
+Dans le cadre de sa volonté permanente d’outillage et d’industrialisation de ses processus, le CIMUT recherche un stagiaire pour
+prendre en charge la refonte de son outil de gestion/suivi du planning de production.
+
+
+
+
+UTM CIMUT       Page 2
+FICHE DE STAGE
+Rédacteur : Thomas LEONARD
+Fiche : Fiche de Stage Gestion planning de production
+DATE      Demande : 17/10/2014
+Diffusion : 17/10/2014
+Rattaché(e) au service Production/Exploitation de la Direction Technique, vous assurez la conception, le développement et la
+recette de l’outil. Vous rédigez les documentations techniques (dossiers de conception générale et détaillée, dossier d’exploitation)
+ainsi que les guides utilisateurs correspondants. Vous participez au déploiement et assistez les utilisateurs afin qu’ils deviennent
+autonomes.
+Vous aimez le travail d’équipe et appréciez la recherche de solutions techniques nouvelles et élégantes, que vous mettez en place
+au sein de vos développements.
+Vous êtes familier des technologies web JEE, des SGBDR (MySQL, Oracle, PostgreSQL) et du shell Unix (AIX).
+La connaissance du VB, PHP et de la production informatique sont autant  d’atouts supplémentaires à votre candidature.
+
+
+
+
+

@@ -1,0 +1,61 @@
+﻿AIRBUS  GROUP  RECRUTE  UN/UNE  STAGE  /  GÉNIE  LOGICIEL  ET  ERGONOMIE
+(H/  EN  STAGE  6  MOIS.
+Date  :  01/03/2014
+Référence  de  l’offre    :  10230085  TL  FR­5705046
+Domaine  d’activité    :  Information  systems  /  Telecom  (Development  Engineer)
+Type  de  contrat    :  Stage
+Localisation    :  Les  Mureaux  78130,  FR
+Durée  du  contrat    :  6  mois
+Niveau  d’études    :  Master&#39;s  Degree
+Années  d’expérience    :  &lt;  6  months
+Description  de  l’entreprise    :
+L'espace,  notre  métier.
+Numéro  1  en  Europe  et  numéro  3  mondial,  Astrium  emploie  plus  de  17  000  hommes  et
+femmes,  basés  principalement  dans  cinq  pays  européens  :  France,  Allemagne,  Espagne,
+Royaume­Uni  et  Pays­Bas.  Notre  excellence  technique  et  notre  expérience  de  maître
+d'œuvre  couvrent  tous  les  segments  de  la  filière  spatiale  :  lanceurs,  infrastructures
+orbitales,  systèmes  satellitaires  et  services.
+Description  du  poste    :
+Astrium  Space  Transportation  (Les  Mureaux)  recherche  un(e)  stagiaire  pour  une  durée  de
+6 mois.
+Le  management  par  le  visuel  est  la  représentation  ergonomique  de  données  sur  grande
+surface  tactile.
+L'utilisation  du  management  par  le  visuel  et  du  LEAN  engineering  est  en  plein  essor  chez
+Astrium  Space  Transportation  (ST),  de  même  que  les  environnements  collaboratifs.  Le
+projet  nécessite  de  manipuler  plusieurs  disciplines  informatiques  au  sein  d'un  outil
+interactif  et  ergonomique.
+Les  solutions  du  commerce  ne  correspondent  pas  aujourd'hui  à  notre  besoin  et  sont  trop
+limitées.
+Un  projet  en  partenariat  avec  des  laboratoires  de  recherche  d'une  université  est  en
+développement  au  sein  d'Astrium  ST  et  nécessite  de  nombreuses  compétences.
+Moyens  :
+­ Serveurs  informatiques  avec  environnements  collaboratifs,
+­ Grandes  surfaces  tactiles,  tablettes,
+­ Capteur  de  position  et  de  mouvement.
+Cette  offre  de  stage  est  à  pourvoir  à  compter  du  1er  Mars  2014  (sujette  à  une  certaine
+flexibilité).
+
+
+
+
+Vous  serez  intégré  à  l'équipe  jeune  et  dynamique  en  charge  du  projet,  vous  pourrez
+apporter  vos  idées,  aussi  bien  sur  les  problématiques  techniques  que  sur  la  conception  du
+produit.
+Les  gains  attendus  seront  les  suivants  :
+­ Solution  intégré  dans  notre  système  d'information  projets,
+­ Utilisation  du  management  par  le  visuel  pour  les  équipes  géographiquement  réparties.
+Profil  recherché    :
+Etudiant(e)  Bac+5,  spécialisé(e)  en  design  et  dév
+Compétences:
+Ergonomie,
+tactiles,
+données  complexes,
+Connaissances  :
+Java,  Modelling,  (MEGA),  (NAF)  BPMN.
+Anglais:avancé.
+Pour  postuler    :  http://airbusgroup.contactrh.com/jobs/1536/5705046
+
+
+
+
+

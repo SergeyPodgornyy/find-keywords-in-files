@@ -1,0 +1,22 @@
+﻿Offre  de  stage
+L’entreprise
+L’entreprise  Le  Nouy  est  une  PME  dynamique  de  250  salariés,  spécialisée  dans  la  fabrication  et  la  distribution  de  fenêtres  et
+fermetures,  à  destination  d’une  clientèle  de  professionnels.
+Le  stage  proposé
+Dans  le  cadre  du  projet  d’informatisation  des  postes  de  travail  en  atelier,  vous  développez  des  applications  utilisant  des  web  services
+fourni  par  l’ERP  Dynamics  Nav.
+L’environnement  de  développement  est  Microsoft  Visual  Studio.
+Le  domaine  fonctionnel  est  le  suivi  de  production,  la  déclaration  de  non­conformité.
+Ce  stage  est  à  pourvoir  dès  que  possible
+Le  profil  recherché
+De  formation  supérieure  en  informatique,  vous  souhaitez  mener  au  cours  de  votre  stage  une  mission  concrète.
+Rigoureux,  curieux,  et  autonome,  vous  avez  une  bonne  connaissance  des  langages  VB.net  et  SQL.
+Vous  êtes  intéressé(e)  ?
+Le  poste  est  basé  à  Briec  près  de  Quimper.
+Si  vous  êtes  intéressé,  merci  de  nous  transmettre  CV  +  lettre  de  motivation  à  l’adresse  suivante  :  service.recrutement@lenouy.com
+www.lenouy.com
+
+
+
+
+

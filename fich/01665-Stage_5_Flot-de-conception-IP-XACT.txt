@@ -1,0 +1,56 @@
+﻿Stage n° 5 du LCE : Mise en place d'un flot de conception ESL depuis
+une représentation haut-niveau IP-XACT.
+Le  Commissariat  à  l’Energie  Atomique  et  aux  Energies  Alternatives  (CEA)  est  un  acteur
+majeur  en  matière  de  recherche,  de  développement  et  d’innovation.  Cet  organisme  de
+recherche technologique intervient dans trois grands domaines : l'énergie, les technologies
+pour l'information et la santé et la défense. Reconnu comme un expert dans ses domaines de
+compétences,  le  CEA  est  pleinement  inséré  dans  l'espace  européen  de  la  recherche  et
+exerce une présence croissante au niveau international. Situé en île de France sud (Saclay),
+le Laboratoire d’Intégration des  Systèmes et des Technologies  (LIST) a notamment pour
+mission  de  contribuer  au  transfert  de  technologies  et  de  favoriser  l’innovation  dans  le
+domaine des systèmes embarqués.
+Avec l’augmentation de besoins en terme de performances sous contraintes de minimisation
+de surface et consommation d’énergie, la conception des systèmes avancés est devenue
+très  complexe  au  niveau  RTL                                                                        (Register  Transfert  Level).  Le  flot  de  conception  ESL
+(Electronic Syetem Level) est apparu pour répondre à ce problème en proposant de monter
+dans le niveau d’abstraction de la spécification et vérification de ces systèmes à travers des
+modèles  abstraits  (TLM,  UML/IP-XACT,  etc).  Ces  modèles  de  haut-niveau  d’abstraction
+permettent  aux  concepteurs  logiciels  et  matériels  d’accomplir  les  tâches  de  spécification,
+vérification et pré-estimation des performances plus rapidement/efficacement qu’au niveau
+RTL.
+Dans  ce  contexte  de  flot  de  conception  ESL,  nous  proposons  de    développer  des  outils
+permettant  de  générer,  à  partir  d’une  représentation  haut-niveau  IP-XACT  existante  des
+couches logicielles de bas niveau                                                                      (HAL, drivers, API de synchronisation, etc) ainsi que les
+fichiers nécessaires à la génération du modèle TLM correspondant pour notre environnement
+d'exploration  SESAM.    Ce  flot  de  conception  devra  s'appuyer  sur  les  attributs  metadata
+(interfaces, registres, bit-field, etc) définis par le modèle IP-XACT, adopté comme standard
+par le consortium SPIRIT. Il permettra de simplifier l'exploration architecturale et de réduire
+significativement l'effort de développement du logiciel système. Ce flot de conception devra
+enfin être intégré à la structure de gestion d'IP qui est cours de déploiement au laboratoire.
+Le use-case utilisé lors de ce stage pourrait être la plateforme multicœur AntX développée
+dans le cadre de projet RELY.
+[IP-XACT]                                                                                              http://www.accellera.org/activities/committees/ip-xact/.
+[SESAM]                                                                                                N. Ventroux, A. Guerre, T. Sassolas, L. Moutaoukil, G. Blanc, C. Bechara, R. David, "SESAM: An
+MPSoC Simulation Environment for Dynamic Application Processing,", 10th IEEE International
+Conference on Computer and Information Technology, 2010.
+Profil recherché :
+Niveau demandé :    BAC + 5
+Durée :                                                                                                6 mois
+Compétences :                                                                                          Java, C/C++, SystemC TLM, connaissances du langage de balisage
+                                                                                                       (XML) et du TCL souhaitables.
+Pièces à fournir :                                                                                     CV + lettre de motivation + classements
+Contact:                                                                                               Farhat Thabet, ingénieur chercheur, Ph.D.
+                                                                                                       Mail : farhat.thabet@cea.fr, Tél. : 01.69.08.01.02
+Laboratoire d’Intégration des Systèmes et des Technologies                                             Laboratoire d’Electronique et de Technologie de l’Information
+Commissariat à l’Energie Atomique et aux Energies Alternatives                                         Direction de la Recherche Technologique
+Institut Carnot CEA LIST                                                                               Département Architecture Conception et Logiciels Embarqués
+Centre de Saclay | Nano-Innov Bât 862 | PC 172
+91191 Gif sur Yvette Cedex
+Tel. : +33 (0)1.69.08.49.67 | Fax : +33(0)1.69.08.83.95
+thierry.collette@cea.fr
+Établissement Public à caractère Industriel et Commercial   RCS Paris B 775 685 019
+
+
+
+
+

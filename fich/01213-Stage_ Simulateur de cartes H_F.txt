@@ -1,0 +1,61 @@
+﻿ORANGE  BUSINESS  SERVICES  RECRUTE  UN/UNE  STAGE:  SIMULATEUR  DE
+CARTES  H/F  EN  STAGE  DE  4  À  6  MOIS.
+Date  :  01/01/2014
+Référence  de  l’offre    :  FIME/STGRDI/MP3­5694540
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  CAEN  14000,  FR
+Durée  du  contrat    :  De  4  à  6  mois
+Niveau  d’études    :  Bac  +3
+Années  d’expérience    :  &lt;  6  mois
+Description  de  l’entreprise    :
+Orange  Business  Services,  entité  de  Orange  dédiée  aux  services  de  communication  pour
+les  entreprises  dans  le  monde  (B2B),  est  un  leader  mondial  en  matière  d'intégration  de
+solutions  de  communication  pour  les  sociétés  multinationales.  Avec  un  réseau  sans
+couture  le  plus  étendu  au  monde  pour  la  voix  et  les  données,  Orange  Business  Services
+est  présent  dans  220  pays  et  territoires,  avec  une  assistance  locale  dans  166  pays.  Offrant
+une  gamme  complète  de  services  incluant  le  cloud  computing,  l'entreprise  mobile,  la
+relation  client,  le  M2M,  la  sécurité,  les  communications  unifiées,  la  visioconférence  et  le
+haut  débit,  Orange  Business  Services  fait  bénéficier  à  ses  clients  de  la  meilleure  expertise
+en  la  matière  au  niveau  mondial.  1,4  millions  d'utilisateurs  et  des  milliers  d'entreprises
+s'appuient  sur  la  plateforme  internationale  d'Orange  Business  Services  pour  communiquer
+et  mener  à  bien  leurs  activités.
+Au  sein  d'Orange  Business  Services,  FIME,  avec  une  présence  sur  les  5  continents,  offre
+aux  acteurs  du  marché  de  la  carte  à  puce  des  outils  de  tests  et  des  solutions  globales
+autour  des  activités  de  conseil  et  d'expertise.
+Description  du  poste    :
+FIME  est  un  fournisseur  mondial  de  solutions  de  tests  dans  les  domaines  de  la  carte  à
+puce,  de  la  RFID  et  du  NFC.  En  2007,  FIME  intègre  le  groupe  France  Telecom  et  plus
+particulièrement  l'offre  Orange  Business  Services.
+Au  sein  de  son  pôle  RDI  (Recherche,  Développement  &  Innovation),  FIME  a  développé
+un  outil  de  gestion  dynamique  de  chargement  et  de  personnalisation  d'applications
+embarquées  suivant  des  standards  JavaCard  et  GlobalPlatform.
+Cet  outil  est  un  outil  autonome  doté  :
+­                                                                                                           D'une  connexion  PC/SC
+­                                                                                                           D'un  éditeur  de  scripts  APDU
+­                                                                                                           De  modules  cryptographiques  pour  s'adapter  à  tous  les  systèmes  d'information
+embarqués  existant.
+
+
+
+
+MP300  /  applet:
+Le  stagiaire  devra  transférer  les  commandes  APDU  reçu  par  un  MP300  à  un  simulateur
+de  carte  contenant  une  applet.
+2 architectures  possibles  :
+­ Utiliser  un  simulateur  comme  JCOP  et  lui  transférer  les  commandes  du  MP300
+­ Ajouter  un  simulateur  de  carte  dans  le  MP300
+­ Stage  3ème  année  (licence  ou  supérieur..).
+­ Compétence  Expérimentation  /  outil
+Profil  recherché    :
+Le  stagiaire  doit  :
+•                                                                                                 Avoir  un  bon  relationnel,
+•                                                                                                 Savoir  faire  preuve  d'autonomie  et  d'imagination,
+Bonne  base  de  développement  Java,  connaissance  ISO  7816­4
+Pour  postuler    :  http://OBS.contactrh.com/jobs/1536/5694540
+
+
+
+
+

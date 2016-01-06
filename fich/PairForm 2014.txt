@@ -1,0 +1,55 @@
+﻿Offre de stage 2014
+Plateforme sociale, mobile et ludique
+de ressources multimédias
+Contexte du projet
+Les appareils nomades  (smartphones &  tablettes) deviennent omniprésents. Ils révolutionnent tous les secteurs et
+modifient  en  profondeur  les  usages.  Nul  doute  qu’ils  vont  s’introduire  dans  l’enseignement  supérieur.  Le Centre
+d'Appui aux Pratiques d'Enseignement (CAPE) de l'Ecole des Mines de Nantes explore les potentialités de ces appareils
+et les nouveaux usages. Il mène depuis 2008 des expérimentations d’applications de ces appareils dans l’enseignement
+et  développe  des  dispositifs  très  innovants.  Par  exemple,  l’application                                                « Parlez-vous  chinois ? »  sur  mobile  s’est
+diffusée à plusieurs dizaines de milliers d’exemplaires à travers plus de 50 pays. En octobre 2013, le CAPE a sorti
+PairForm, la première plateforme sociale, mobile et ludique de ressources multimédias sur iPhone, iPad, Android et
+Web. Cette plateforme relie tous les utilisateurs d’une même ressource et permet un échange de connaissances et un
+partage de savoir-faire à l’intérieur même du document. Le CAPE poursuit ses actions de R&D et vous propose une
+offre de stage dans ce contexte.
+Objet du stage
+La première version de PairForm est en ligne  (http://www.pairform.fr). Nous planifions de nombreuses nouvelles
+améliorations ajoutant des fonctionnalités et un plus grand confort d’utilisation. Elles se répartissent en divers lots :
+-                                                                                                                              Magasin en ligne : moteur de recherche, suggestions, gestion des langues, gestion de collections d’ouvrages,
+monétisation, …
+-                                                                                                                                                                                                                                                                                                                                            Diffusion virale  : notification, recommandation, parrainage, lien avec Facebook et Linkedin, QR-code de
+                                                                                                                               téléchargement, challenge, message direct, …
+-                                                                                                                              Cloud  &  e-réputation                                                                                                                                                                                                                                                                                                            :  synchronisation  entre  divers  appareils,  marques-pages  partagées,  mécanisme  de
+                                                                                                                               valorisation et de respect de la vie privée, …
+-                                                                                                                                                                                                                                                                                                                                            Objectifs  et  compétences :  gestion  des  apprentissages,  carnet  de  compétences,  recherche  d’amis  par
+                                                                                                                               similarité, …
+-                                                                                                                                                                                                                                                                                                                                            Entreprise : fonctionnalités spécifiques pour un usage en entreprise, espace privé, gestion des droits, interface
+                                                                                                                               de publication, …
+-                                                                                                                                                                                                                                               Format : Prise en compte de nouveaux formats des ressources multimédias (pdf, latex, epub)
+Le stagiaire contribuera au développement de la plateforme PairForm et sera en charge d’un des lots (en fonction de ses
+affinités). Les réalisations se feront dans l’environnement iOS ou Android selon les préférences du stagiaire. Les
+missions qui lui seront confiées porteront sur :
+-  Analyse critique de l’existant
+-  Cahier des charges technique et fonctionnel
+-  Développement des fonctionnalités du lot choisi en lien avec les autres développeurs
+-  Tests
+-  Documentation
+-  Déploiement
+Environnement
+-                                                                                                                              Lieu de travail : Ecole des Mines de Nantes.
+-                                                                                                                              Durée : 4 à 6 mois
+-                                                                                                                              Profil : Bac+4 ou +5 avec une compétence informatique.
+-                                                                                                                              Contact : Christian.Colin@mines-nantes.fr
+Avantages de ce projet
+-                                                                                                                              Projet ambitieux, innovant tant sur les usages que les technologies numériques : mobilité, réseau social, iOS,
+                                                                                                                               Android, Cloud, …
+-                                                                                                                              Acquisition d’un savoir-faire en termes de gestion de projet, de développement multi-environnement et aussi
+                                                                                                                               de technologies up-to-date
+-                                                                                                                              Un environnement de travail convivial dans un milieu très innovant
+-                                                                                                                              Participation à la création d’un nouveau réseau social
+-                                                                                                                              Travail en équipe dans un contexte de création d’une start-up
+
+
+
+
+

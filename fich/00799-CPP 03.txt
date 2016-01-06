@@ -1,0 +1,57 @@
+﻿Propositions de stages
+Date : octobre 13
+2013-2014
+LIEU DU STAGE
+ASTELLIA
+ZA du Plessis
+35772 VERN SUR SEICHE Cedex
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Vern sur Seiche (Rennes).
+CONTEXTE GENERAL
+Astellia,                                                                                               290  personnes   (80%  d’ingénieurs),  propose  des  produits,  solutions  et  services  pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes handicapées.
+Personne à contacter
+Envoyer  lettre  de  candidature  et  CV  à  l’attention  du  service  RH  par   courrier  ou  e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 1
+
+
+
+
+Propositions de stages
+Date : octobre 13
+2013-2014
+CPP-03 « Outil de visualisation de données arborescentes » (6 mois)
+Description du stage proposé
+Au sein de la R&D, l’équipe CPP développe les sondes de capture sur les interfaces des réseaux de
+mobiles  2G/3G/4G. Ces sondes permettent de générer en temps réel les données nécessaires à
+l’analyse de   la qualité d’un réseau.
+L’analyse  de  ces  réseaux  mobiles  est  faite  par  des  outils  informatiques,  appelés  « moteurs »  qui
+traitent  une  quantité  importante  de  données                                                                (plusieurs  Gbits/s).  Ces  outils  produisent  des
+comptes-rendus qui permettent une première factorisation des informations recueillies.
+Les comptes-rendus produits par les moteurs d’analyse des réseaux mobiles ont une structure de
+données arborescente.
+Lors des phases de validation de ces moteurs, nous sommes amenés à comparer des fichiers de
+comptes-rendus entre eux.
+Le but du stage est de spécifier, concevoir et réaliser un outil permettant de comparer visuellement
+une grande quantité de comptes-rendus, mettant en évidence les différences pertinentes entre les
+structures arborescentes de ceux-ci.
+(Exemple d’IHM envisagés :
+http://en.wikipedia.org/wiki/List_of_phylogenetic_tree_visualization_software)
+Contexte de réalisation (compétences, outils, ...):
+   Environnement technique : Développement sous Linux et Windows
+   Connaissances requises : Conception d’IHM, Développement informatique, Analyse de
+données
+Profil
+Etudiant(e)  en  informatique,  voire  mathématiques,  avec  une  compétence  particulière  dans  la
+conception d’interface homme-machine
+Période
+Pas de date de début arrêtée
+Page 2
+
+
+
+
+

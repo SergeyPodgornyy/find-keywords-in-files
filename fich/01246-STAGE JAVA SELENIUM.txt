@@ -1,0 +1,48 @@
+﻿Stage fin d’études JAVA Selenium
+Filiale du Groupe Neurones  (leaders dans le domaine du Conseil en Management et de
+Services Informatiques - 4100 personnes -                                                        343 M€ - côté à la 6e place chez Euronext Paris),
+AXONES est spécialisé sur le développement applicatif.
+Forte  de                                                                                        200  collaborateurs    pour un  chiffre  d’affaires  de   15  millions  d’euros, nous
+développons notre expertise en accompagnant les plus grandes entreprises du CAC  40
+(principalement en banque, finance, assurance) autour de projets au forfait ou de l’assistance
+technique.
+Axones couvre l’ensemble de la chaine applicative (AMOA, MOE) autour des nouvelles
+technologies tels que .NET, SharePoint, JAVA/J2EE, et des systèmes décisionnels.
+Mission
+Dans le cadre de l’automatisation des tests fonctionnels, vous aurez à intervenir sur  une
+technologie basée sur Selenium.
+Les scénarios sont enregistrés avec Selenium, généré en Java par une application maison, et
+lancé via Jenkins sur l’ensemble de ses plateformes de tests.
+Le stagiaire aura pour mission d’enregistrer des tests fonctionnelles manuels en tests
+automatisés, d’externaliser les données à paramétrer du scénario dans des fichiers CSV, de les
+rejouer pour assurer leur bon fonctionnement, et enfin de les transformer en java.
+Le stagiaire devra s’occuper de :
+    La prise en compte des besoins sur différents projets
+    La compréhension des scénarios manuels existants
+    Le chiffrage des taches d’automatisation
+    La réalisation de tests automatisés avec Selenium
+    Paramétrage externalisés de ces scénarios et génération en Java de ces derniers
+Profil
+Nous recherchons un étudiant effectuant un stage de 6 mois à partir d’avril ou mai ayant
+préalablement déjà effectué la réalisation d’un site Web.
+Durée du stage de fin d’études : 6 mois de fin mars- début avril à fin Septembre.
+Lieu : Nantes Centre
+La connaissance et l’installation d’un Jenkins/Hudson serait un plus.
+Compétences techniques :
+Navigateur WEB, http/https
+Langage Java et Javascript
+Utilisation de Selenium ou autre Robot WEB (QTP, IMaccros, etc)
+Nos postes de stagiaires sont en pré-embauche.
+Si l'échange, le partage et la progression sont pour vous des aspects incontournables
+d'une carrière réussie, rejoignez-nous vite !
+
+
+
+
+N’hésitez pas à contacter Yasmine, Chargée de recrutement, en vue d’un entretien en nous
+envoyant votre CV par courriel à : ygeran@axones.com
+
+
+
+
+

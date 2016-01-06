@@ -1,0 +1,58 @@
+﻿Nantes, le 21/01/2014
+CBP
+Cabinet  de  courtage  en  assurance  de  personnes  (550  personnes)  basé  à  Nantes,  spécialisé  en
+conseil et gestion d’offres de prévoyance B to B  to C, CBP poursuit sa croissance tout en assurant
+une expertise, une création de valeurs et une qualité de service pour ses clients.
+Intégrer  CBP  c’est  l’occasion  de  rejoindre  une  société  internationale,  dynamique  et  innovante,
+tournée vers l’avenir, leader aujourd’hui sur le marché de l’assurance emprunteurs.
+Les  applications  informatiques  de  CBP  ont  contribué  à  son  succès  et  le  temps  de  traitement  des
+demandes  de  changements  informatiques  (le lead  time)  est  d’une grande importance  stratégique.
+Cela  a  conduit  la  DSI  à  s’engager  sur  la  voie  de  l’intégration  continue  puis  du  déploiement  en
+continu.
+Aussi, CBP recherche pour sa Direction des Systèmes d'Information un :
+Stagiaire Ingénieur de Développement (H/F)
+Vos Missions : Au sein de la DSI vous intervenez sur un ou plusieurs des sujets suivants lors d’un
+stage de 6 mois.
+Automatisation du déploiement des applications informatiques  : migrations des bases de
+données
+Vous intervenez sur la livraison du code applicatif, la livraison des artefacts de base de données et
+sur le workflow administratif tout en réalisant un état de l’art des outils de migration SQL.
+Mots clés : java, groovy, grails, SQL, AS400, liquibase, flyway
+Système de tests automatisés des documents générés
+Vous identifiez, concevez et mettez en œuvre un système de vérification des courriers produits afin
+d’automatiser les tests de non régression des applications de CBP dans ce domaine.
+Mots clés : java, groovy, sikuli, traitement d’images
+Amélioration de l’indexation des documents numérisés
+Vous  effectuez  un  état  de  l’art  des  solutions  d’indexation  du  marché,  et  suivant  la  solution
+préconisée,  vous  concevez  et  réalisez  le  prototype  d’un  système  d’indexation  automatique  des
+images de documents numérisés.
+Mots clés : java, groovy, datamatrix, traitement d’images, machine learning
+Isolation des tests automatisés
+Vous concevez et réalisez un ou plusieurs outil(s) facilitant la capture et la reproduction des appels
+REST entre les applications.
+Mots clés : java, groovy, HTTP, REST, HAR, maven, Jenkins, TDD
+Evaluation de kanban électroniques
+En   collaboration   avec   un   responsable  sénior,   vous   analysez   la   pertinence   de  métriques   et
+procédures, mettez en place et testez l’outil sur une période, réalisez l’analyse de l’apport en aide à
+la décision d’exécution du processus et de diagnostic des succès et échecs en rétrospective; ce dans
+une approche itérative incrémentale.
+Mots clés: php, kanban, agile, métrique, amélioration continue, productivité
+
+
+
+
+Votre  profil  :  En  dernière  année  d’Ecole  d’Ingénieurs  ou  de  Master  2  informatique,  vous  avez  la
+connaissance des langages java ou php. Vous êtes curieux  (se) et avez un intérêt pour l’innovation
+technologique. Votre relationnel, votre dynamisme et votre capacité à travailler en équipe sont les
+atouts qui vous permettront d’évoluer au sein d’une équipe.
+Gratification : En fonction du profil
+Lieu de travail : 3 rue Victor Schoelcher 44800 Saint Herblain
+Date de démarrage : Au plus tôt
+Pour plus de renseignements sur nos activités, visitez notre site : www.cbp-group.com/
+Merci d’adresser, à la Direction des Ressources Humaines, lettre de motivation et CV par e-mail à :
+recrutement.cbp@cbp-group.com
+
+
+
+
+

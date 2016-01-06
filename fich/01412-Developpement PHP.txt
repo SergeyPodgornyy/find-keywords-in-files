@@ -1,0 +1,47 @@
+﻿AJSTAGE RECRUTE UN/UNE DEVELOPPEMENT PHP EN STAGE DE 3 À 6 MOIS.
+Date : 01/06/2014
+Référence de l’offre : fieldinphp-6413382
+Domaine d’activité : Internet - E-commerce (Webmaster / Webdesign)
+Type de contrat : Stage
+Localisation : Paris 75000, FR
+Durée du contrat : De 3 à 6 mois
+Niveau d’études : None
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+FIELDIN propose un site internet et des applications mobiles pour faciliter la recherche et la réservation
+d'activités sportives amateurs (futsal, tennis, squash, fitness...) et optimiser le remplissage des infrastructures de
+sport grand public.
+En quelques mots, FIELDIN est un apporteur d'affaires grand public pour le sport amateur comme booking.com
+ou lafourchette.com peuvent l'être sur les secteurs de l'hôtellerie ou de la restauration. Le service est lancé depuis
+novembre 2013 en Ile-de-France et s'adresse à des centres sportifs privés ou à des municipalités.
+Description du poste :
+Dans un contexte de forte croissance de ses besoins en développement et afin d'avoir une offre toujours plus
+adaptée au marché, nous recherchons un stagiaire intégré à l'équipe technique.
+Le stagiaire en développement se verra confier des missions de développement et de maintenance du site Internet
+et de l'application mobile.
+ Participer au développement des évolutions du site Internet et de l'application mobile, en
+conformité avec les spécifications fonctionnelles et les normes de développement de Fieldin.
+ Assurer la maintenance du site et la correction des bugs.
+ Effectuer un suivi des tâches assignées par notre outil de gestion des signalements (Mantis).
+ Réaliser les tests unitaires de ses développements.
+ Participer à la recette globale de l'outil avant les livraisons.
+Profil recherché :
+
+
+
+
+Qualités attendues:
+ Aisance relationnelle et capacité d'adaptation.
+ Bonne capacité d'apprentissage.
+ Le PHP devra avoir été étudié lors de votre cursus (autodidacte accepté), ainsi que les bases de données web.
+Le JavaScript est un plus.
+Pour postuler: http://www.ajstage.com/offre/Developpement-PHP-chez-FIELDIN
+Pour postuler : http://ajstage.contactrh.com/jobs/1536/6413382
+
+
+
+
+

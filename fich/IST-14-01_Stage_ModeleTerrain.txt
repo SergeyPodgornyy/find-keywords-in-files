@@ -1,0 +1,42 @@
+﻿                                                                                                              Intitulé du stage :   Modèle de terrain 3D   - réf. FORFAITS IST-14-01
+Durée :                                                                                                       6 mois                Date de début :  Février 2014                      Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech - Agence de Rennes
+Contenu technique :
+Contexte :
+ALYOTECH Ouest recrute chaque année une dizaine d’ingénieurs à la fin de stage de fin d’études.
+Ce stage sera pour vous l’occasion d’être immergé au quotidien dans des équipes projets avec une
+réelle opportunité d’embauche à la clé.
+Dans le cadre de son activité R&D dans le domaine de la simulation et le traitement de données,
+ALYOTECH Technologies développe plusieurs projets incluant des données géographiques et des
+modélisations 3D.
+Objectif général :
+L’objectif  de  ce  stage  consiste  à  développer  un  outil  permettant  de  charger  des  données  géo-
+référencées de type raster  (fond de carte, orthophoto, grille d’élévation) dans notre framework de
+simulation et de visualisation 3D temps réel. Ces données seront converties en maillage de terrain
+texturé constitué de plusieurs tuilages à différents niveaux de détails. La technologie utilisée pour
+générer le modèle de terrain sera basée sur osgEarth.
+Ce stage  pourra ensuite  être complété par une  étude permettant  d’évaluer les contraintes et les
+solutions  permettant  d’intégrer  le  géo-référencement  dans  les  outils  de  simulation  existant  chez
+Alyotech.
+Ce  stage  permet  d’aborder  les  problématiques  liées  à  la  cartographie  (gestion  des  systèmes  de
+projection, streaming des données) et à la visualisation 3D temps réel (optimisation des données et
+des traitements d’affichage, programmation de shaders…).
+
+
+
+
+Profil recherché :
+Niveau de formation du stagiaire :
+Bac + 5 (Ecole d’ingénieurs, Master Informatique, Master pro)
+Compétences techniques :
+Développement informatique C++, 3D, OpenSceneGraph, osgEarth, OpenGL (GLSL), QT
+Autres :
+Windows, Linux
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                        02.23.21.11.11   Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

@@ -1,0 +1,45 @@
+﻿Date : 15/10/13
+Agence : PROCESS
+Proposition de stage
+Service : PSR
+Titre du stage : « PC espion »
+Contexte du stage :
+Le service Protection Systèmes et réseaux accompagne ses clients dans la mise en place de moyens
+techniques liés à la sécurité des sites industriels, tertiaires et militaires dans les domaines suivants :
+- Détection d’intrusion périphérique (radars, délimitation des zones à gérer, vidéosurveillance périmétrique…)
+- Contrôle d’accès (communication IP, Bus Sécurisés, Architecture redondée Client / Serveur, IHM centralisée,
+Exploitation intelligente des évènements…)
+- Analyse d’images (Analyse comportementale, qualification des zones à surveiller…)
+- Vidéosurveillance (caméras spécifiques, supervision centralisée, commutation automatique sur évènement…)
+Sujet :
+Elaboration d’un outil informatique permettant de valider une architecture de vidéosurveillance.
+Cet outil sera placé sur des nouvelles installations en cours de validation et permettra l’enregistrement
+des déconnexions des flux vidéo IP, récupération des logs des systèmes en place, enregistrement des
+dumps applicatif…
+Il permettra au technicien chargé de la mise en place du système de valider avec des éléments factuels
+l’installation.
+Mots clefs : bande passante réseau,  Broadcast, vidéosurveillance, multicast.
+Environnement :
+Le stage se déroulera au RHEU, au département Process service PSR
+Tâches demandées :
+- Recherche de solution technique
+- établissement d’une road map (logiciel du marché, développement informatique ?)
+- réalisation du sujet
+- tests de la solution
+- industrialisation
+Outils informatiques / logiciels utilisés : à définir
+Durée : de 4 à 6 mois
+Période : 1er semestre 2014
+Filière de formation : Informatique
+Contact :
+Aurélie Certenais - Service RH
+Par email : aurelie.certenais@spie.com
+Par téléphone : 02 99 04 88 12
+S.HELLEU
+Email : s.helleu@spie.com
+Téléphone : 02.99.04.88.88
+
+
+
+
+

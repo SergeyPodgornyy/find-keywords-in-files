@@ -1,0 +1,50 @@
+﻿Réf :Bcom/2014-                                                                                        Rennes, le 6 Janvier 2014,
+007
+Objet :                                                                                                Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+                                                                                                       Technologique b<>com dans le domaine Immersive Interactions
+A  propos  de
+B-com
+L'Institut de Recherche Technologique  (IRT) b<>com a pour but de conduire un programme
+d'innovation   technologique   de   dimension   mondiale   dans   le   domaine   des   sciences   et
+technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur      3
+domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle
+génération et de leurs applications à la santé.
+Intitulé du                                                                                                                                                                              Interaction gestuelle en réalité augmentée
+stage
+Descriptif de la mission :
+                                                                                                       Le  stage  porte  sur  l’interaction  gestuelle  avec  un  contenu                                                                                                                                                                                          3D  synthétique  rendu  via  un
+                                                                                                                                                                                         système  de  réalité  augmentée.  Matérialiser  des  contenus  numériques  en  les  « posant »  sur
+                                                                                                                                                                                         une table et en interagissant naturellement avec eux est un classique des films  de sciences
+fiction                                                                                                (Ironman                                                                          2,  Avatar,                                                                                           …)  qui  peut  devenir  réalité  avec  les  nouveaux  dispositifs
+                                                                                                       d’interaction et d’affichage disponibles aujourd’hui.
+Etape 1 :
+-Intégrer  dans  Unity  3D  une  paire  de  lunette  de  réalité  augmentée  (Optinvent  ORA  et/ou
+Meta Space Glasses).
+-Recaler ces lunettes par rapport à une table munie de marqueurs 2D en utilisant une solution
+du marché.
+Etape 2 :
+-Intégrer un ou plusieurs dispositifs de suivi des gestes de l’utilisateur (kinect 2, leap motion)
+-Colocaliser ces dispositifs par rapport à la table.
+Etape 3 :
+-Développer  les  interactions  permettant  de  manipuler  des  contenus  3D  affichés  en  réalité
+augmentée sur la table.
+-Mettre en œuvre un   prototype à partir d’un cas d’usage défini au cours du stage.
+Profil recherché :                                                                                     Stage  de  fin  d’étude  école  d’ingénieur  avec  connaissance  en  réalité
+                                                                                                       virtuelle et augmentée.
+                                                                                                       Compétences : Unity 3D, interaction gestuelle, recalage réalité augmentée.
+Intérêt   pour   le                                                                                    Le  stagiaire  sera  intégré  à  une  équipe  multidisciplinaire                  (chercheurs,
+stagiaire                                                                                              doctorants,  ingénieurs,  développeurs,  designers,                               …)  au  sein  du  tout
+nouvel Institut de Recherche Technologique b<>com afin de développer
+les  IHM  du  futur.  Le  stagiaire  aura  un  accès  illimité  à  l’ensemble  des
+dispositifs de réalité mixte de b<>com.
+Modalités                                                                                              Durée : 6 mois
+Date de démarrage : février ou mars 2014
+Localisation :b<>com Rennes
+Date de fin de dépôt des candidatures : 7 février 2014
+Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                 140106
+
+
+
+
+

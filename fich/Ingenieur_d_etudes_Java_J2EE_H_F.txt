@@ -1,0 +1,45 @@
+﻿STERIA RECRUTE UN/UNE INGÉNIEUR D'ÉTUDES JAVA J2EE H/F EN CDI TEMPS PLEIN.
+Date : 02/05/2014
+Référence de l’offre : SLO/CDS/J2EE-6331258
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Nantes 44480, FR
+Durée du contrat : Temps plein
+Niveau d’études : None
+Années d’expérience : 3-4 ans
+Description de l’entreprise :
+Avec 20 000 collaborateurs dans 16 pays, Steria est un leader des services du numérique qui aide les entreprises
+et les administrations à relever leurs défis IT complexes et à appréhender les enjeux métier propres à leur secteur.
+Partenaire de la transformation de ses clients, Steria travaille en étroite collaboration avec eux pour leur apporter
+ses  conseils,  son  expertise  du  numérique,  ainsi  que  ses  services  d'optimisation  des  infrastructures,  des
+applications et des processus métier.
+Le Groupe a réalisé un chiffre d'affaires de 1,75 milliard d'euros en 2013. Plus de 20%* de son capital est détenu
+par ses collaborateurs.
+(*): dont les "SET Trust" et "XEBT Trust" (4,15% du capital)
+Description du poste :
+Afin de renforcer ses équipes Nantaises, Steria recherche sur ses activités forfait pour son centre de service, des
+développeurs JAVA/J2EE expérimentés H/F.
+Au sein d'une équipe en place, pour l'un de nos grands comptes clients, vous serez en charge de :
+- Participation à la rédaction du cahier des charges
+- Rédaction de spécifications fonctionnelles
+- Conception et modélisation d'applications stratégiques,
+- Support technique et animation des équipes de développement,
+- Conception et développement d'applications en environnement J2EE.
+- Rédaction de la documentation afférente aux développements
+- Rédaction et passation de cas de tests unitaires et d'intégration
+Profil recherché :
+De formation supérieure en informatique, vous disposez d'une expérience professionnelle significative (3 ans
+minimum) sur des fonctions similaires en développement Java J2EE.
+Vous maîtrisez nécessairement : Java, Javascript, SQL et/ou autre SGBD (PostgreSQL, Oracle,....), les Web
+Services (SOAP et REST).
+Vous connaissez et manipulez aisément les frameworks spring, struts, hibernate et swing.
+Vous souhaitez vous investir dans un environnement nouvelles technologies stimulant ?
+Vous voulez relever de nouveaux challenges ?
+Rejoignez-nous !
+N'hésitez pas à aller consulter notre site internet pour découvrir nos opportunités de carrière, www.steria.com
+Pour postuler : http://steria.contactrh.com/jobs/1536/6331258
+
+
+
+
+

@@ -1,0 +1,77 @@
+﻿Faites vos premières armes chez Steria !
+Etudiants en école d’ingénieur, de commerce ou d’université, vous cherchez une première expérience
+professionnelle enrichissante et mémorable ?
+Concrétiser votre formation au côté des meilleurs consultants et professionnels du secteur ?
+Vous épanouir dans une ambiance créative au sein d’équipes dynamiques et soudées ?
+Acquérir une expérience solide dans le domaine qui vous passionne ?
+En intégrant Steria dans le cadre d’un stage ou en alternance, vous mettez toutes les chances de votre côté
+pour réaliser vos ambitions !
+Nous offrons un vaste choix de sujets de stages et d’alternance possibles pour les étudiants de tous horizons,
+principalement issus de dernière année. Ces programmes combinés de travail et d'apprentissage vous donnent
+une excellente occasion d'explorer notre secteur d'activité et vous apportent une image fidèle de la réalité et du
+quotidien de l'entreprise. L'expérience acquise vous donnera sans nul doute un avantage lorsqu’il s'agira de
+rechercher votre premier emploi. Et avec 75% des stages et contrats en alternance aboutissant à une
+embauche, vous verrez très certainement s’ouvrir des opportunités au sein même de Steria.
+TEST sur un projet de Tierce Recette Applicative
+Steria en bref
+Steria délivre des services qui s’appuient sur les nouvelles technologies et qui permettent aux administrations et
+aux entreprises d’améliorer leur efficacité et leur rentabilité. Grâce à une excellente connaissance des activités de
+ses clients et son expertise des technologies de l’information et de l’externalisation des processus métiers de
+l'entreprise, Steria fait siens les défis de ses clients et les aide à développer des solutions innovantes pour y faire
+face. De par son approche collaborative du conseil, Steria travaille avec ses clients pour transformer leur
+organisation et leur permettre de se focaliser sur ce qu’ils font le mieux.
+Les 19 000 collaborateurs de Steria, répartis dans 16 pays, prennent en charge les systèmes, les services et les
+processus qui facilitent la vie quotidienne de millions de personnes chaque jour.
+Créé en 1969, Steria est présent en Europe, en Inde, en Afrique du Nord et en Asie du Sud-Est. Le Groupe a
+réalisé un chiffre d’affaires de 1,83 milliard d’euros en 2012. Son capital est détenu à hauteur de 20 %(*) par ses
+collaborateurs. Steria, dont le siège social est basé à Paris, est coté sur Euronext Paris.
+(*): « Employees Shares Trust » du Royaume-Uni inclus
+Descriptif de la mission
+Afin de contribuer au développement de notre centre de service partagé Testing situé à Rennes, nous
+recherchons des analystes tests H/F.
+Vous interviendrez pour nos clients grands comptes de l’industrie, des télécoms ou de la santé dans
+le cadre des validations et des recettes applicatives.
+Vous intervenez sur :
+- L’élaboration de la stratégie de tests de différents projets d’évolution sur base des processus Métier et
+cas d’usage modélisé sous BPMN, cahiers des exigences et présentation client.
+- La rédaction des plans de tests sous HP Quality Center ou ALM (objectifs, scénarios, cas, jeux de
+tests, jeux de données logiques),
+- L’exécution des campagnes de tests bout en bout orientées Métier en coordination avec d’autres
+acteurs du test et équipe de support
+- La documentation et suivi, rapports d'avancement, gestion des anomalies, rapports et bilans de tests,
+- La contribution à l’industrialisation du projet, automatisation et modélisation BPMN
+February 25, 2014                                                                                                         © Steria In Confidence   Page 1 of 2 / Version 1.0
+
+
+
+
+Impliqué(e) dans l’ensemble des phases d’un projet, vous assurez le suivi régulier de vos activités
+auprès du chef de projet.
+Profil recherché
+Vous êtes issu d’une formation Bac+3 à Bac+5 ou équivalent, et cherchez un projet de fin d’études ou
+un stage long intéressant, pour vous joindre prochainement à la vie active.
+Vous avez des connaissances sur HP Quality Center ou ALM et Unix et avez la volonté d’apprendre les
+différents métiers du test. L’esprit d’équipe, la méthode et la rigueur, vous permettront de vous intégrer
+rapidement au sein de nos équipes. Vous avez le sens du service et un bon relationnel.
+Environnement technique
+- Environnement UNIX : utilisateur
+- Bases de données SQL : utilisateur
+- BPMN et UML
+- HP Quality Center ou ALM
+- Smartesting
+- Outils OpenSource : Testlink, SOAPUI, Selenium, …
+Les « Plus » de la mission
+Intégré(e) à une équipe projet, ce stage vous permet d’acquérir les bases du métier d’ingénieur en test et qualification en
+réalisant la conception et l’exécution de campagnes de qualification, et de mettre en pratique notre méthodologie projet en
+conformité avec le système qualité de Steria. Ce stage vous permet de découvrir le principe de fonctionnement d’un projet de
+Tierce Maintenance Applicative et du métier du Test & Qualification(TMMI).
+Rémunération du stage
+Selon profil
+Tickets restaurant + remboursement titre de transport (50%)
+Contact recrutement
+Sophie.cerrand@steria.com
+
+
+
+
+

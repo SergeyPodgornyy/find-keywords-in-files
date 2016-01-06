@@ -1,0 +1,77 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS  SUR  L ’ENTREPRISE  :
+L’organisme d’accueil :
+Nom de l’entreprise : INFODB                                                                      Adresse : Centre d’Affaires ELEUSIS 1
+Domaine d’activité : Editeur de Logiciel                                                          1 rue Pierre et Marie CURIE
+Représentant de l’entreprise : Nathalie SECHER                                                    Ville :22190 PLERIN
+Sa qualité : Directrice Exécutive                                                                 N° téléphone :02.96.79.12.79
+N° de Siret :409 587 086 000 45                                                                   N° fax :02.96.79.12.80
+N° NAF :62 02 A                                                                                   Site Web :www.infodb.fr
+Statut Juridique : SAS                                                                            Courriel :
+Effectif de l’établissement : 80                                                                  Signataire  de  la  convention :  Marguerite  ROYER
+                                                                                                  (responsable RH)
+Nom de l’encadrant de stage :Karine GUILLOU                                                       Chargé du suivi administratif : Marguerite ROYER
+Sa qualité : Responsable de Service                                                               Sa qualité : Responsable RH
+Service :Service SUPPORT                                                                          N° téléphone :02.96.79.12.88
+N° téléphone :                                                                                    Email :marguerite.royer@infodb.fr
+Email : karine.guillou@infodb.fr                                                                  Fax :
+Fax :
+Nom du service dans lequel le stage sera effectué : Service SUPPORT
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): PLERIN
+PROFIL  DE  L ’ÉTUDIANT  SOUHAITÉ  :
+   □ MIAGE                                                                                       13 semaines minimum à partir du 18 mai 2015
+SUJET  DU  STAGE  :
+Titre du stage proposé : Optimisation de l’outil de suivi des demandes Clients
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+Environnement Java J2EE / JSP / STRUSTS / TILES / HIBERNATE
+UNIVERSITE DE RENNES 1                                                                            TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                             FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                          www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Sujet proposé détaillé :
+Au sein du service Support / SAV, et tutoré (e) par la responsable de service, le projet de stage consistera
+à optimiser l’outil de suivi des demandes clients.
+(300 utilisateurs internes / clients).
+LES  MISSIONS  PRINCIPALES, DANS  UN  CONTEXTE  AGILE  (SCRUM) :
+                                                                                                              Recueillir les besoins d’évolutions
+    Réaliser un audit sur les fonctionnalités existantes
+    Développer les fonctionnalités attendues
+    Assurer la maintenance
+    Documenter les évolutions et corrections réalisées
+Période et durée du stage (idéalement)
+Du 01 Juin au 31 Aout pour une durée de 3 mois
+INFORMATIONS  COMPLÉMENTAIRES  :
+Indemnité mensuelle (nette) : selon dispositions légales                                                       Nom de l’Etudiant :
+Modalités de versement : mensuelle                                                                             Diplôme :
+Avantages en nature à préciser :NC
+Temps horaire hebdomadaire : 35 h
+Date limite de réponse à cette proposition : 26/05/2015
+Souhaitez-vous que les étudiants intéressés vous contactent directement  ? oui adresser CV et LM à
+Marguerite ROYER (coordonnées listées plus haut)
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                         TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                          FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                       www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

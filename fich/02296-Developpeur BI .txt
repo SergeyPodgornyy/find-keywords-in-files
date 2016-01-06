@@ -1,0 +1,43 @@
+﻿SYNCHRONE TECHNOLOGIES RECRUTE UN/UNE DÉVELOPPEUR BI EN CDI TEMPS PLEIN.
+Date : 06/04/2015
+Référence de l’offre : ST-8769975
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : CDI
+Localisation : Paris 75009, FR
+Durée du contrat : Temps plein
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Synchrone  technologies  est  une  société  de  consulting  qui  apporte  son  expertise  dans  le  domaine  de
+l'Ingénierie IT.
+Dans une approche exclusivement grands comptes, Synchrone technologies propose son savoir-faire auprès
+du secteur bancaire et des marchés financiers, des opérateurs et constructeurs en télécommunications, des
+acteurs majeurs de l'industrie et du service ; en France comme à l'étranger.
+Description du poste :
+SYNCHRONE TECHNOLOGIES (820 consultants) est une société de consulting spécialisée en Ingénierie.
+De part la diversité des opportunités qu'elle propose, notre société figure chaque année dans les palmarès de
+recrutement les plus prestigieux (Challenges, Le Figaro, etc.). Au cœur de projets d'envergure et innovants
+dans le domaine des systèmes d'information, des télécommunications et de l'ingénierie bancaire, Synchrone
+technologies  génère  une  croissance  significative  régulièrement  relayée  par  la  presse  spécialisée
+(LeMondeInformatique.fr, Le Journal Du Net, 01Net 01Informatique, etc.).
+Pour l'un de nos clients grands comptes, nous recherchons un Développeur BI. Votre fonction consistera à :
+- réaliser les dossiers de conceptions détaillées
+- prendre en compte les demandes auprès de la cellule support infrastructure
+- participer aux préparations des mises en production
+- proposer des optimisations de performance
+- participer à la modélisation d'un Datawarehouse.
+Profil recherché :
+Issu(e) d'une Ecole d'Ingénieur ou de Formation supérieure (Bac + 4/5), vous bénéficiez d'une première
+expérience (stage et/ou alternance compris) en tant que Développeur BI. Vous avez de solides connaissances
+en base de données SQL Server et/ou Sybase et vous maitrisez aussi l'environnement .NET (C#, Entity
+Framework, WPF).
+Rigoureux (se), motivé (e) et organisé(e), vous savez être force de proposition pour mener à bien les objectifs
+qui vous sont confiés.
+Si vous souhaitez propulser votre carrière en intégrant un poste à forte valeur ajoutée, envoyez-nous dès à
+présent votre candidature par mail.
+Pour postuler : http://apply.multiposting.fr/jobs/1972/8769975
+
+
+
+
+

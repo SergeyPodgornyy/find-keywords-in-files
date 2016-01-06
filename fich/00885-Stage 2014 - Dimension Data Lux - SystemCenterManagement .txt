@@ -1,0 +1,78 @@
+﻿OFFRE DE STAGE EN INFORMATIQUE
+Lieu :
+Dimension Data Luxembourg
+WEST SIDE VILLAGE
+Rue Pafebruch 89D
+L -8308 CAPELLEN
+LUXEMBOURG
+Phone +352 25.48.25 -1
+Point de contact :
+Bertrand Heckly
+DCS Team Leader
+Référence : FY2014 -PS DCS (à préciser sur l’entête de vos communications)
+Email: lu.stage@dimensiondata.com
+Stage rémunéré
+Durée: À convenir -possible jusqu’à fin Septembre 201 4
+Entreprise: Dimension Data (http://www.dimensiondata.com /lu)
+Avec plus de 10 000 collaborateurs dans plus de 40 pays, Dimension Data
+(Code LSE : DDT), fournisseur spécialisé de solutions et de services informatiques,
+aide   ses   clients   à   concevoir,   déployer   et   exploiter   leurs   infrastructures
+informatiques.
+Dimension  Data  applique  son  expertise  dans  les  domaines  des  réseaux  IP,  de  la
+téléphonie et la collaboration, de la sécurité,   ainsi que les technologies autour de
+la  virtualisation  (du stockage et des serveurs).  Dimension Data met également au
+service  de ses clients ses qualités uniques de  conseil, d'intégration  et  de gestion
+pour  leur  fournir  des  solutions  complètes  et  personnalisées  allant  de  l'intégration
+traditionnelle à des offres de service clef en main de multi -sourcing.
+Ce  stage  se  déroulera  au  sein  de  l’équipe  Datacenter.  Le  stagiaire  travaillera  en
+étroite  collaboration  avec  des  spécialistes  de  la  gestion  du  stockage,  de  la
+virtualisation, mais également avec les équipes construisant et gérant des réseaux
+informatiques haut débit ainsi que la sécurité dans le monde de l’informatique . La
+surveillance   proactive   des   infrastructures   informatiques                                    (application,   serveur,
+switch,   téléphonie   sur   IP,   pare-feux,   routeur,   réseau   étendu,   etc.)   est   très
+importante   pour   les   sociétés,   car   elle   permet   de   surveiller   et   détecter   les
+anomalies au plus tôt afin d’en réduire les impacts utilisateurs .
+Dimension  Data  Luxembourg  a  mis  en  place  pour  le  besoin  de  certains  de  ses
+clients, des solutions de surveillance  adaptée au besoin des clients . Une quantité
+
+
+
+
+OFFRE DE STAGE EN INFORMATIQUE
+de  développement  est  réalisée  à  chaque  fois  afin  de  répondre  aux  attentes
+multiples. La réutilisation de ces développements doit être facilitée dans le futur
+Sujet :
+Le   but   du   stage   est   d’étudier   les   possibilités   de   Microsoft   System   Center
+Management  avec  Windows  Intune  et  Windows  Azure  pour  la  gestion  de  la
+virtualisation  de  multi  OS  Serveurs ,  la  gestion  de  la  virtualisation  des  multi -
+hyperviseurs, Hyper -V VMware, et Citrix.
+Publier les services dans un Cloud public et privé.
+Gestion et déploiement des applications et les mises à jour.
+Surveillance et gestion des performances des systèmes virtuels.
+Le stagiaire participera aux points ci -dessous durant son stage :
+  Étude des différentes solutions autour de Microsoft System Center.
+  Etude  de  System  Center  Configuration  Manager  avec  Windows  Intune                       et
+Windows Azure.
+  Comparer et mettre en valeur leurs avantages .
+  Présentation du résultat de l’étude au sein de Dimension Data
+  Déploiement de la ou des solutions choisies dans l’environnement interne
+  Création des procédures opérationnelles de gestion
+  Création de la documentation de la solution.
+  Définition et exécution du plan de tests
+  Gestion de la plateforme (après la mise en place)
+  Suivi mensuel
+o  Incidents rencontrés
+o  Propositions d’optimisation ou d’amélioration
+Le  stagiaire  participera  également  aux  réunions  de  travail  de  l’équipe  afin  de
+réaliser un suivi quotidien du stage.
+L’implémentation de la solution Microsoft System Center Management lui permettra
+de  se  familiariser  avec  les  solutions  dédiées  au  centre  de  calcul                       (Outils  de
+virtualisation, Gestions du Cloud Public et Privé, Gestion du stockage, Sauvegarde
+en  réseaux,  etc.)  et  de  comprendre  les  problématiques  actuelles  auxquels  il  e st
+nécessaire  de  faire  face  au  quotidien  dans  les  infrastructures   informatiques
+complexes.
+
+
+
+
+

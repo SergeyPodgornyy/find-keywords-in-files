@@ -1,0 +1,41 @@
+﻿H/F  Stage  Développement  Algorithme  TPMS
+Valeo
+REFERENCE  :  tpms
+POUR  POSTULER  :  offre5489621.1536@valeo.contactrh.com sous la référence tpms
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Créteil 94000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  6 mois - 1 an
+DATES  :  Février
+DUREE  :  de 6 à 12 mois
+SECTEUR  :  Industries (Auto-Moto-Cycles)
+FONCTION  :  Etudes - Recherche (Ingénieur R & D/Chercheur)
+SOCIETE  :
+Valeo est un Groupe indépendant entièrement focalisé sur la conception, la fabrication et la vente de
+composants, de systèmes intégrés et de modules pour l’industrie automobile, principalement pour la
+réduction des émissions de CO2. Valeo compte parmi les premiers équipementiers mondiaux.
+Présent dans 29 pays, à travers 125 sites de production, 21 centres de Recherche, 40 centres de
+Développement et 12 plates-formes de distribution, le Groupe emploie 72 600 collaborateurs.
+La Diversité (égalité Homme / Femme, handicap, seniors, nationalités, etc.) est au coeur de la
+politique de recrutement de Valeo.
+DESCRIPTION  DU  POSTE  :
+Missions:
+- Définition et optimisation sous Matlab d’un algorithme de traitement d’informations température
+et pression provenant de capteurs placés dans les pneumatiques véhicules.
+- Le système TPMS se compose de capteurs montés dans les jantes d’un véhicule dont le but est de
+transmettre de manière régulière les informations de température et de pression. Ces informations
+sont envoyées sous forme brute à un calculateur de manière asynchrone, qui doit traiter ces
+informations et détecter un sous gonflage et produire une alerte en cas de crevaison.
+- Le travail a réaliser est de définir un algorithme et de l’optimiser sous matlab en jouant des
+scénarios provenant d’enregistrement de roulage.
+PROFIL  :
+- Formation : Ingenieur Bac +5
+- Profil : Ingenieur Informatique
+- Langues : Français, Anglais
+- Bureautique : Matlab, Excell
+POUR  POSTULER  :  offre5489621.1536@valeo.contactrh.com sous la référence tpms
+
+
+
+
+

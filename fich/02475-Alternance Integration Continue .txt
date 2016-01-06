@@ -1,0 +1,61 @@
+﻿ATOS RECRUTE UN/UNE ALTERNANCE INTÉGRATION CONTINUE EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : 185608-9397165
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Sophia Antipolis 06560, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Atos SE (Société Européenne), est une entreprise leader de services numériques avec un chiffre d'affaires
+annuel de 10 milliards d'euros et 86 000 collaborateurs dans 66 pays. Atos fournit à ses clients du monde
+entier des services de conseil et d'intégration de systèmes, d'infogérance, de Big Data et de Sécurité,
+d'opérations Cloud et des services transactionnels par l'intermédiaire de Worldline, le leader européen et un
+acteur mondial dans les services de paiement. Grâce à son expertise technologique et sa connaissance
+sectorielle pointue, Atos sert des clients dans différents secteurs : Industrie, Distribution, Transports, secteur
+Public, Santé, Services financiers, Télécoms, Défense et Sécurité, Médias et Services.
+Atos déploie les technologies qui accélèrent le développement de ses clients et les aident à réaliser leur vision
+de l'entreprise du futur. Atos est le partenaire informatique mondial des Jeux Olympiques et Paralympiques.
+Le Groupe est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Bull, Canopy,
+Worldline, Atos Consulting et Atos Worldgrid.
+Pour plus d'information : atos.net
+Description du poste :
+Nos clients évoluent aujourd'hui vers la mise en place du déploiement continu pour satisfaire un besoin
+toujours grandissant de livrer de meilleurs logiciels et ce plus rapidement.
+Le déploiement continu peut être perçu comme une évolution naturelle de l'intégration continue et des
+méthodes agiles mais les changements culturels et opérationnels sont important pour y parvenir.
+Cette mouvance forte, dite DevOps, représente aujourd'hui un challenge incontournable.
+Profil recherché :
+Nous vous proposons d'intégrer une équipe de développement appartenant à la direction technique d'ATS
+Sud-Est. Cette équipe réalise des prestations Java/JEE pour un grand client du secteur santé sociale.
+Vous contribuerez à l'industrialisation de la validation des développements (intégration continue) qui sera
+une première étape vers une démarche de déploiement continu.
+Vous prendrez également part aux diverses études menée par l'équipe.
+- Participer aux travaux de recherche et d'étude technique (R)
+- Rédiger des rapports/synthèses d'étude (Recommandations, …)
+- Participer à des audits pouvant porter sur la qualité ou le respect de normes/standards
+- Réaliser des prototypes ou composants JEE
+- Synthèses d'étude, documents de restitution, développement Java/JEE.
+Environnement technique :
+Java/JEE (JPA, EJB, Service Web JAXRS/JAXWS), Maven, Intégration continue, outillage DevOps
+Objectifs pédagogiques :
+Industrialisation des processus d'intégration et de déploiement de logiciels dans un contexte Java/JEE
+
+
+
+
+De formation Bac  +  5  (Ecole d'ingénieur ou université) en cours de validation, vous recherchez une
+alternance d'une durée de 12 mois.
+Vous êtes en spécialisation architecture logicielle  / système d'information avec un goût prononcé pour
+l'industrialisation des développements logiciels.
+Vous êtes mobile, créatif(ve) et avez le sens du travail en équipe.
+Vous maîtrisez la langue anglaise.
+Alternance avec possibilité de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9397165
+
+
+
+
+

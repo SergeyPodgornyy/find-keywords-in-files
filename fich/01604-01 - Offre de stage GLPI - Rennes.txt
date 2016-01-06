@@ -1,0 +1,40 @@
+﻿« Développement de modules pour GLPI »
+Sujet  :
+Solution  open­source  de  gestion  de  parc  informatique  et  de  helpdesk,  GLPI  est  une  application  Full  Web  pour  gérer  l’ensemble  de  vos
+problématiques  de  gestion  de  parc  informatique  :  de  la  gestion  de  l’inventaire  des  composantes  matérielles  ou  logicielles  d’un  parc
+informatique  à  la  gestion  de  l’assistance  aux  utilisateurs.
+Infotel  Ouest  est  partenaire  GOLD  et  propose  cet  outil  à  ses  clients.
+Rattaché  à  la  plate­forme  de  développement,  vous  mènerez  un  projet  de  A  à  Z  visant  à  la  création  de  différents  modules  pour  GLPI.
+    analyse  ;
+    conception  ;
+    réalisation  ;
+    recette.
+Environnement  et  compétences  requises
+Sous  la  direction  d’un  chef  de  projet,  vous  serez  impliqués  dans  toutes  les  phases  du                                                       développement  d’un  logiciel  utilisant  des
+technologies  Web  telles  que  :
+    langages  PHP5
+    base  de  données  MySQL
+Vos  études  supérieures  en  informatique  vous  confèrent  une  bonne  connaissance  :
+    des  méthodologies  :  UML,  etc.
+    de  la  programmation  :  PHP5,  Java,  JEE,  etc.
+    des  outils  associés  :  Eclipse,  etc.
+    des  bases  de  données  :  MySql,  Oracle,  etc.
+Une  connaissance  des  systèmes  et  réseaux  est  un  plus  certain.
+Durée  du  stage  :  3  à  6  mois.
+Lieu  du  stage  :  Stage  dans  nos  locaux  à  Rennes.
+Prolongement  du  stage
+Le  stage  pourra  être  suivi  par  un  emploi  (CDI)  à  Infotel.
+Votre  candidature
+Postulez  en  envoyant  votre  candidature  par  courrier  électronique  à  l’adresse  ci­dessous,  en  précisant  vos  dates  de  stages  :
+Infotel  Ouest
+Le  Papyrus
+29, rue  de  Lorient
+35000 Rennes
+Tél.  +33  (0)2  99  23  11  23
+Fax  :  +33  (0)2  99  23  11  29
+recrutement­rennes@infotel.com
+
+
+
+
+

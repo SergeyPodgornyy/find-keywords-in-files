@@ -1,0 +1,36 @@
+﻿Stage - Développement d’une solution web d’assistance en ligne
+Société de conseil en technologies de plus de 4 200 personnes, SII est structurée autour d'un réseau d'agences à taille
+humaine. Depuis plus de 30 ans, notre réussite est fondée sur une culture d'entreprise forte et des valeurs reposant
+sur la proximité et la confiance.
+L'agence de Rennes, située au cœur de la technopole Rennes-Atalante, compte déjà plus de 480 collaborateurs et
+prévoit de recruter plus de 50 personnes sur 2013 sur les secteurs des télécoms, de l'industrie et des services.
+Contexte du stage :
+Au sein d’une équipe en charge de la refonte d’un portail e-commerce d’une grande enseigne, nous recherchons un
+stagiaire pour le développement d’une solution d’assistance utilisateurs en ligne.
+Le stage se déroulera en plusieurs étapes :
+-Etude de l’architecture de la solution,
+-Réalisation d’un dossier de conception logiciel,
+-Développement de la solution,
+-Intégration de la solution dans le portail,
+-Validation et tests de performances.
+Technologies mises en oeuvre :
+Méthodes agiles (SCRUM), HTML5, NodeJS et Grails.
+Formation souhaitée :
+Ecoles d’Ingénieurs ou Master 2 en informatique
+Profil souhaité :
+Nous recherchons un stagiaire disposant de bonnes connaissances sur les technologies J2E, Spring, Maven, HTML5,
+Javascript, Websockets. Au delà de ces compétences techniques, nous attendons un stagiaire autonome, méthodique
+et force de proposition.
+Stage de fin d'étude rémunéré, à pourvoir dès que possible et pour une durée à définir en fonction des exigences de
+votre école.
+Si vous souhaitez répondre à cette offre, merci de nous adresser votre candidature à : drh-lemans@sii.fr
+Vous pouvez également postuler sur notre site Internet : www.groupe-sii.com
+Le Groupe SII a obtenu le label "Happy Trainees"  2013/2014 pour la qualité
+d'accueil, d'accompagnement et de management de ses stagiaires.
+© SII                                                                                                                                1 / 1
+Document propriété exclusive de SII, communication, reproduction, utilisation interdite sauf autorisation écrite préalable de SII.   Usage interne SII
+
+
+
+
+

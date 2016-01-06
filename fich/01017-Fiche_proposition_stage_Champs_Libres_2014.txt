@@ -1,0 +1,112 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+INFORMATIONS SUR L’ENTREPRISE :
+L’organisme d’accueil :
+Nom de l’entreprise : RENNES METROPOLE                                              Adresse : 4 Avenue Henri Fréville - CS 20723
+Domaine d’activité : Collectivité territoriale                                      Ville : 35207 rennes cedex
+Représentant de l’entreprise : M. Daniel DELAVEAU                                   N° téléphone : 02 99 86 60 60
+Sa qualité :Président de Rennes Métropole                                           N° fax : 02.99.86.61.61
+N° de Siren : 243500139                                                             Site Web : metropole.rennes.fr
+N° NAF : 84.11Z                                                                     Courriel :
+Statut Juridique : Communauté d'Agglomération                                       Signataire  de  la  convention :  M.  Le  Président  de
+Effectif de l’établissement : environ 1000 agents                                   Rennes Métropole
+Nom de l’encadrant de stage : Xavier MAROT                                          Chargé du suivi administratif : DGRH
+Sa qualité : Chef de projet                                                         Sa qualité :   Secteur Emploi et Compétences / Service
+Service : DSI Rennes Métropole - Ville de Rennes                                    Insertion Professionnelle
+N° téléphone : 02 23 40 67 37                                                       N° téléphone : 02 23 62 10 10
+Email : x.marot@leschampslibres.fr                                                  Email :
+Fax :                                                                               Fax :
+Nom du service dans lequel le stage sera effectué :   DSI/ Pôle Les Champs Libres
+Lieu du stage (s’il est différent de l’adresse de l’entreprise):
+LES CHAMPS LIBRES - 46 Boulevard Magenta - CS 33926 - 35039 RENNES Cedex.
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                      8 semaines minimum à partir du 5 mai 2014
+□ MIAGE                                                                             13 semaines minimum à partir du 5 mai 2014
+UNIVERSITE DE RENNES 1                                                              TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                               FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                            www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+SUJET DU STAGE :
+Titre du stage proposé  :  Mise en œuvre de progiciels dans le cadre de l’évolution du système
+d’information  des  Champs  Libres  et  intégrer  le  service  informatique  afin  de  participer  à
+l'administration du système d'information
+Durée  du  stage  :  3  mois  (13  semaines  du  2  juin  au  29  aout  2014).  Le  stage  comprendra
+obligatoirement un contrat de travail à durée déterminée de deux mois sur la période Juillet et Aout,
+afin de renforcer l’équipe sur cette période et participer également au fonctionnement du service ainsi
+qu’au roulement des permanences hebdomadaires.
+Type et configuration du matériel sur lequel le stagiaire travaillera (matériels, technologies,
+méthodes, langages…) :
+15 serveurs et 360 postes.
+Windows  Serveur  2003/2008  et  Linux  Red  Hat  4,  virtualisation  VMware  Vpshere,  Messagerie
+Exchange 2007
+Architectures SAN.
+Equipements actifs réseau LAN et réseau WiFi
+Equipements de sécurisation des réseaux  : Pare-feux, passerelle de filtrage internet, passerelle
+VPN/SSL
+Langages de programmation utilisés :
+   asp, php, perl, vbscript, visual basic
+   Bases MySQL, MS-SQL serveur, Oracle.
+Logiciels et méthodes employés :
+   Outils métier  : Système de prêt/retour pour bibliothèques  (Millennium), gestion de collections
+pour musée (micromusée), gestion électronique de documents Armadillo, système de billetterie
+Satori.
+   Outils de bureautique : suite bureautique office 2010, exchange
+   Supervision : Nagios (centreon), Insight Manager
+Sujet proposé détaillé :
+En collaboration avec le responsable du service et l’équipe, le sujet du stage s’articulera autour de
+deux axes :
+   Participer à la mise en œuvre des progiciels : ces projets peuvent comporter des installations
+pour étude préalable, des maquettes pour la qualification des solutions, ponctuellement des
+développements spécifiques d'interfaces ou de modules complémentaires aux applicatifs.
+   Participer à l’exploitation, l’administration et au déploiement des systèmes
+UNIVERSITE DE RENNES 1                                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+INFORMATIONS COMPLÉMENTAIRES :
+Le stage a une durée totale de  3  mois, qui se décompose en deux phases pour des raisons
+administratives liées aux astreintes et permanences le week-end en juillet et aout :
+-                                                                                           Convention de stage non rémunéré sur 4 semaines en juin
+-                                                                                           CDD rémunéré en juillet et aout
+                                                                                            Le stagiaire travaille sur son sujet de stage pendant les trois mois et renforce l'équipe en juillet et aout,
+                                                                                            notamment en participant aux roulements des permanences hebdomadaires, incluant des astreintes le
+                                                                                            week-end (1 week-end par mois).
+Indemnité  mensuelle (nette)  :  non  rémunéré  en  juin,                                   Nom de l’Etudiant :
+CDD rémunéré au SMIC en juillet et aout.                                                    Diplôme :
+Modalités de versement : virement.
+Avantages en nature à préciser :
+Temps horaire hebdomadaire : 35H
+Date limite de réponse à cette proposition : 15/03/2014
+Souhaitez-vous que les étudiants intéressés vous contactent directement ? OUI.
+Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                      TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                       FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                    www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

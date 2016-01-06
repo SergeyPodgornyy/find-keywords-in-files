@@ -1,0 +1,50 @@
+﻿SIEMENS MOBILITY RECRUTE UN/UNE STAGE TRADUCTION AUTOMATIQUE DE SCÉNARIOS
+(H/F) EN STAGE DE 2 À 12 MOIS.
+Date : 11/03/2015
+Référence de l’offre : 195053-9076478
+Domaine d’activité : Etudes - Recherche (Etudes/Bureau d'Etudes)
+Type de contrat : Stage
+Localisation : Chatillon 92320, FR
+Durée du contrat : De 2 à 12 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Groupe international, leader dans le secteur de la haute technologie, synonyme de performance technique,
+d'innovation,  de  qualité  et  de  fiabilité.  Siemens  intervient  dans  les  domaines  de  l'électrification,  de
+l'automatisation et de la numérisation et compte parmi les principaux fournisseurs au monde de technologies
+à haute efficacité énergétique, qui contribuent à préserver les ressources naturelles. La division Mobility de
+Siemens propose une gamme complète de produits, solutions et services destinés à améliorer la mobilité des
+voyageurs et des marchandises par rail et par route.
+Les systèmes ferroviaires sont de plus en plus complexes. Une description complète doit décrire son
+architecture et son comportement. Dans le cadre de la formalisation du comportement, nous nous intéressons
+aux scénarios fonctionnels décrivant le comportement des systèmes qui permettent la conduite automatique
+de métros basés sur la norme CBTC (Communication Based Train Control ).
+Description du poste :
+Actuellement, les spécifications système des systèmes CBTC sont volumineuses et rédigées en langage
+naturel. Dans ce cadre, vous avez pour principales missions :
+*  Vous  traduisez  des  scénarios  textuels  d'un  système  CBTC  en  scénarios  formels  après  une  étude
+bibliographique sur les langages formels dédiés à la modélisation des scénarios, et les outils de traduction
+automatique associés.
+* Vous développez un outil de transformation automatique de ces scénarios vers des modèles SCOLA
+(SCenario Oriented LAnguage).
+* Vous effectuez une étude des spécifications d'un système CBTC et du formalisme SCOLA.
+* Vous validez l'outil par des études de cas.
+Ce stage, d'une durée de 6 mois basé sur Châtillon (92) est à pourvoir dès que possible.
+Profil recherché :
+* Vous préparez un diplôme d'ingénieur ou équivalent avec une spécialisation en informatique.
+* Vous avez une expérience éprouvée de l'ingénierie des systèmes, des méthodes formelles et des langages de
+programmation (C++, Java, OCaml, …).
+* Le sens du contact, l'autonomie, et les capacités de synthèse seront vos meilleurs atouts pour réussir ce
+stage.
+* Vous maîtrisez l'anglais à l'oral comme à l'écrit.
+CONTACT :
+Responsable du recrutement : Marion Quinquis.
+Pour toutes informations complémentaires, n'hésitez pas à contacter l'équipe recrutement Siemens France sur
+notre page Facebook Emploi et Carrière.
+Si cette offre vous intéresse, merci de postuler en ligne (CV et lettre de motivation).
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9076478
+
+
+
+
+

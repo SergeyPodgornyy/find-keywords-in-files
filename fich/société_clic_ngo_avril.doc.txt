@@ -1,0 +1,128 @@
+﻿Fondée en 2000, Clic'nGo est une agence web qui s’est faite une place
+grâce à sa compréhension des besoins de ses clients, une expertise
+technique, et une veille permanente sur les nouvelles technologies.
+Fonctionnant principalement via le bouche à oreille, la société intervient
+aussi bien sur du développement de sites web, web app, extranet,
+emailing, ou en référencement.
+Dans la continuité de sa croissance, la société recherche :
+   un Lead développeur PHP, bras droit technique de la société
+   un développeur Web Front-end,   pour des interfaces accessibles et
+responsive
+   un développeur d’application IOS/Androïd,,
+   un commercial web/vidéo, profil chasseur
+Lead développeur PHP,
+Missions
+Vous participez à la gestion technique des sites clients et d'applications,
+gérez la maintenance, l'optimisation et la mise à jour des sites clients et
+applications à travers les CMS standards du moment (Magento, Drupal
+notamment).
+    Développement de sites web Front Office / Middle Office / Back
+Office
+    Connexion aux bases de données client
+    Exploitation de Web Services
+    Estimation des temps de développement
+    Respect des délais et des normes de développement
+    Transfert de compétences
+    Recette et déboguage
+Profil recherché
+De formation en école d'ingénieur informatique ou Universitaire, vous avez
+au minimum 2/3 ans d’expérience en conception, développement et test
+de logiciels Web dans des environnements techniques web php.
+Vous faites preuve de rigueur, notamment dans la définition, la mise en
+place et l'exécution des processus et de leur outillage (conception et
+développement Agile, intégration, mise en production , …),
+Compétences techniques indispensables pour ce poste :
+CSS3/HTML5, Responsive Design, Bootstrap, PHP, frameworks de type
+Symfony2 ou Zend.
+1 à 3 ans d'expérience Minimum
+Langages : PHP5, HTML, CSS, MySQL, Javascript
+
+
+
+
+CMS: Magento et connaissance de Wordpress, Drupal sont un plus.
+Développeur Web Front-end H/F
+Missions
+Développement front-end HTML/CSS/JS pour l'ensemble de nos projets web
+Optimisation interface mobile
+Intégration e-mailing
+Participer aux choix techniques
+Au sein du pôle technique, vous serez un membre essentiel de notre
+équipe   :
+Vous aurez l’opportunité de travailler avec les dernières technologies, sur
+des applications front & back-office, en interaction directe avec les
+interlocuteurs métiers
+Compétences requises
+Profil recherché
+2 à 3 ans d’expérience à un poste similaire
+Bonne connaissance des technos suivantes : JavaScript, Jquery, CSS3,
+HTML5, PHP (Angular.js et Node.js serait un plus)
+Esprit d’équipe, motivé et proactif
+Capacité à travailler en équipe
+Notion sur les optimisations SEO
+Extras
+Connaissances sur un outils de versionning (svn/git)
+Projets personnels
+Développeur Applications IOS/Androïd
+Au sein d’une équipe de taille humaine, vos principales tâches seront :
+Imaginer de nouveaux projets sur objets connectés
+Etre force de proposition dans le domaine de la R&D
+Définir la faisabilité des projets et leurs business model
+Développer from scratch les projets retenus sous Android - iOS
+Maintenance et tests
+etc.
+Votre profil
+Formation : Bac + 3/5
+
+
+
+
+Minimum 1 année d’expérience significative
+Maitrise du SDK ANDROID
+Une expérience sur IOS
+Maitrise des contraintes Hardware et Software
+Bonne veille sur les technos et problématiques d'actualités
+Bonne culture mobile généraliste
+Avoir travaillé sur différents projets personnels serait un +
+particulièrement apprécié
+Business developer Web et audiovisuel (H/F)
+Rattaché à la Direction Commerciale de l'agence, vous aurez comme
+objectif de développer l'activité commerciale de l'agence web avec
+comme mission :
+- Prospection active auprès d'agences et d'annonceurs, de sociétés e-
+commerce
+- Identification et qualification de leurs besoins et des opportunités pour
+l'agence
+- RDV clients, présentation et négociation commerciale, signature des
+contrats
+- Suivi et gestion de la relation client
+Vous interagirez avec notre équipe pour proposer à nos clients les
+dispositifs les plus performants.
+Vous intégrez une équipe jeune, dynamique,
+Profil recherché
+De formation supérieure ou Ecole de commerce, vous avez déjà travaillé 3
+à 5 ans en agence pour une mission équivalente.
+Votre esprit d'initiative, votre dynamisme, votre rigueur et votre sens du
+détail vous permettront de réussir dans ce poste.
+Passionné(e) par le media internet, vous êtes en veille permanente sur les
+techniques Web et les tendances Internet. Vous souhaitez vous investir sur
+des projets qui mobilisent votre sens commercial.
+Pour postuler :
+
+
+
+
+Merci de bien vouloir envoyer votre CV et votre lettre de motivation à
+Monsieur Philippe Baudoux : Dirigeant par mail : pb@clicngo.com ou par
+courrier
+Clic'nGo
+Web / Video / Social media
+12-14, rue Jean-Jacques Rousseau
+93100 Montreuil
+nb : Pour tout renseignement complémentaire , merci de contacter
+Monsieur Philippe Baudoux   par téléphone au n° suivant   01 43 63 31 45
+
+
+
+
+

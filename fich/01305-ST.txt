@@ -1,0 +1,22 @@
+﻿Madame,
+Comme convenu par téléphone ce jour, je vous transmets une offre de stage en développement
+logiciel :
+Le stage se déroulera en plusieurs étapes :
+-                                                                                             Analyse de la solution existante
+-                                                                                             Collecte des défauts identifiés et des nouveaux besoins auprès des utilisateurs
+-                                                                                             Proposition nouvelle architecture de base de données si nécessaire en réponse à la collecte
+-                                                                                             Développement par lots
+-                                                                                             Pour chaque lot : Test, Qualification, Formation, Documentation et mise en production
+L’environnement de développement est Java/J2ee ou PHP sous base de données oracle ou mysql,
+système majoritairement unix/linux.
+La durée estimée pour réaliser ce sujet est de 4 à 5 mois.
+Merci de me faire parvenir vos candidatures (cv et lettre) par mail à cette adresse :
+Anne-marie.salaun@st.com
+Cordialement.
+Anne-Marie SALAÜN
+Tours Responsable Informatique
+
+
+
+
+

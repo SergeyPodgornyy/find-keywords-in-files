@@ -1,0 +1,52 @@
+﻿SIEMENS  INFRASTRUCTURE  &  CITIES  SECTOR  RECRUTE  UN/UNE  APPRENTI  INGÉNIEUR
+INFORMATIQUE (H/F) EN APPRENTISSAGE/ALTERNANCE DE 2 À 12 MOIS.
+Date : 01/08/2015
+Référence de l’offre : 177024-7460418
+Domaine d’activité : Conseil (Conseil en Système d'Information - Organisation)
+Type de contrat : Apprentissage/Alternance
+Localisation : Chatillon 92320, FR
+Durée du contrat : De 2 à 12 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Visionnaire  par  culture,  inventeur  du  VAL,  Siemens  s'impose  comme  leader  mondial  des  métros
+automatiques et comme pôle international d'expertise du groupe Siemens pour les automatismes de transport
+urbain. Nous assurons également la commercialisation en France de l'ensemble des produits et services
+ferroviaires de Siemens. Nous intervenons de la conception à la réalisation des projets clé en main jusqu'aux
+services de maintenance. Nous transportons chaque jour plus de 13 millions de personnes aux quatre coins du
+monde en toute sécurité. Mobile de par notre cœur de métier, nous mettons également la priorité sur la
+mobilité de nos équipes.
+Description du poste :
+Rattaché à notre activité Rail Automation, vous intégrez le département Poste de Commande Centralisée
+(PCC).
+-Votre  mission  principale  consiste  à  intervenir  sur  le  développement  du  PCC  pour  le  projet  CBTC
+(Communication-Based Train Control /Gestion des trains basée sur la communication) de réalisation des
+lignes                                                                                                          1  et  2 du métro de Riyad. Dans le cadre de la gestion des Tables Horaires  (planification de
+l'exploitation de la ligne), vous développez et optimisez des graphiques espace-temps représentant les lignes
+horaires du métro afin de répondre aux exigences techniques contractuelles du Client.
+-Vous pourrez être amené à intervenir sur d'autres projets, tels que la configuration de simulateurs de
+formation.
+Cet apprentissage, basé à Chatillon (92), est à pourvoir à partir de septembre 2014.
+Profil recherché :
+-Vous intégrez une formation en école d'ingénieur spécialisée en informatique ou équivalent, et recherchez
+un contrat d'apprentissage de 3 ans.
+-Vous maitrisez les langages C, C++, SQL, outils de scripts et Java/J2E, ClearCase ainsi que le pack Office.
+-Votre niveau d'anglais est opérationnel en environnement professionnel.
+-Vous êtes rigoureux, autonome et êtes doté d'un bon esprit de synthèse.
+-Votre curiosité, votre volonté d'apprendre et votre sens du contact seront vos meilleurs atouts pour réussir
+
+
+
+
+votre mission.
+CONTACT
+Responsable du recrutement : Laure ROUSSEL.
+Pour toute question, n'hésitez pas à contacter notre équipe recrutement via la page Facebook Siemens Emploi
+et Carrière.
+Si ce poste vous intéresse, merci de postuler en ligne (CV et lettre de motivation).
+Pour postuler : http://siemens.contactrh.com/jobs/1536/7460418
+
+
+
+
+

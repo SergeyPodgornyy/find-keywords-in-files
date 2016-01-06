@@ -1,0 +1,45 @@
+﻿Sujet de Stage M2/Ingénieur
+Stage suivi par une thèse
+TITRE : Interaction Homme-Machine hybride en réalité augmentée pour dispositifs mobiles
+Contexte  : Aujourd’hui, l’interaction tactile rencontre un véritable succès en particulier sur les dispositifs
+mobiles  (tablettes  et  smartphones).  Les  tâches  basiques  de  sélection,  pointage  et  déplacement  2D  sont
+simplifiées rendant accessible différentes catégories d’applications à un large public. Cependant, ce mode
+d’interaction limite le nombre de degrés de liberté  directement  contrôlable par l’utilisateur. Il n’est pas
+possible de contrôler simultanément plus de deux degrés de libertés  ce qui rend ce mode d’interaction
+complexe et contraignant pour les applications et environnements 3D. Le sujet de stage propose de repenser
+l’interaction sur dispositifs mobiles en s’inspirant des techniques étudiées en réalité virtuelle afin d’offrir une
+interaction 3D efficace et flexible.
+Objectif :  L’objectif  de  ce  travail  de  stage  est  de  proposer  un  nouveau  mode  d’interaction  permettant
+d’exploiter pleinement les actions 3D sur tablette en réalité augmentée. L’idée principale est d’utiliser l’espace
+autour de la tablette pour capturer les actions de l’utilisateur et créer un continuum d’interaction entre cet
+espace 3D et la surface tactile 2D. Ce travail débutera par un état de l’art afin de mettre en évidence les
+mécanismes moteurs et les spécificités de ce mode d’interaction pour différentes catégories de tâches. Pour
+chaque outil, l’analyse des actions permettra d’identifier les fonctions de transfert optimales en fonction de
+deux critères  :  i) efficacité  d’interaction  (mouvement minimum, précision, etc.) et ii) facilité d’utilisation
+(affordance de l’interaction). Des outils graphiques 3D, adaptés à la réalité augmentée, doivent également être
+étudiés et associés aux techniques d’interaction développées.
+Enfin, il sera demandé d’élaborer un outil d’interaction accessible à la fois aux utilisateurs occasionnels, mais
+suffisamment performants pour des utilisateurs experts. Différentes solutions seront explorées telles que les
+approches adaptatives basées sur l’apprentissage des actions (amplitude de mouvements, vitesse, etc.) ou
+encore une articulation spatiale optimale des outils.
+Selon les aptitudes du candidat et les résultats obtenus, le stage se poursuivra par une.
+Références:
+Paul Issartel, Florimond Guéniat, Mehdi Ammi: Slicing techniques for handheld augmented reality. IEEE 3D
+User Interfaces: 39-42 (2014)
+B. Jackson, T. Y. Lau, D. Schroeder, K. C. Toussaint, D. F. Keefe: A Lightweight Tangible 3D Interface for
+Interactive Visualization of Thin Fiber Structures. IEEE Trans. Vis. Comput. Graph. 19(12): 2802-2809 (2013)
+Prérequis                                                                                                             :  Bon  niveau  en  C++/Java.  Une  expérience  ou  des  compétences  en  traitement  d’images,
+OpenGL/Shader et Android. Maîtrise de l’anglais appréciée.
+Salaire : 700 euro / mois (plus frais de transport)
+Lieu su stage : LIMSI-CNRS, Orsay
+Le dossier de candidature devra comprendre un CV détaillé, une lettre de motivation et le relevé de notes de la
+dernière année.
+Candidature / information :
+Mehdi Ammi
+Mail : ammi@limsi.fr
+Tel : 01 69 85 81 03
+
+
+
+
+

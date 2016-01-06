@@ -1,0 +1,337 @@
+﻿Propositions de stages
+Date : novembre 14
+2014-2015
+CATALOGUE STAGES
+2014 -2 0 1 5
+Document confidentiel - Aucune copie, partielle ou complète, ne peut être faite sans l’autorisation écrite et préalable d’Astellia
+Confidential document - Partial or global copy cannot be made without prior and written authorization of Astellia
+Page 1
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+Lieu du stage
+ASTELLIA
+ZAC Airlande
+2 rue Jacqueline Auriol Saint Jacques de la Lande
+35091 RENNES Cedex 9
+Tél. : 02.99.04.80.60 - Fax : 02.99.04.80.61
+www.astellia.com
+Tous nos stages sont basés à Rennes.
+Contexte Général
+Astellia, 450 personnes (80% d’ingénieurs), propose des produits, solutions et services pour
+l'optimisation et l'analyse de performances des réseaux mobiles GSM, GPRS, 3G et LTE.
+L’ensemble des stages proposé par Astellia est accessible aux personnes à mobilité réduite.
+Personne à contacter
+Envoyer lettre de candidature et CV à l’attention du service  RH par courrier ou e-mail
+(emplois@astellia.com), en rappelant impérativement la référence du stage.
+Page 2
+
+
+
+
+                                                                                                      Propositions de stages
+                                                                                                                                                                                                         Date : novembre 14
+                                                                                                      2014-2015
+MKG-02 « Stage Webgame Design » (6 mois) ...                                                                                                                                                             ... 4
+MKG-03- « Stage Junior Business Analyst » (6 mois) ...                                                                                                                                                   .. 5
+                                                                                                      MKG-04  -  « Génération  de  données  Télécom  et  visualisation  dans  un  outil  de  Business
+Intelligence » (4 à 6 mois) ...                                                                                                                                                                          . 6
+GCS-01 - « Gestion de Projets Clients » (6 mois) ...                                                                                                                                                     . 7
+C&S-01 - « IMS/VoLTE                                                                                  » (6 mois) ...                                                                                     ... 8
+C&S-02 - « Radio monitoring » (6 mois) ...                                                                                                                                                               .. 9
+                                                                                                      C&S-03 - « Mise en valeur des données télécom à partir de la solution de BI microstrategy » (4 à
+6 mois) ...                                                                                                                                                                                              ... 10
+                                                                                                      PSD-02 - « Outil d'analyse des solutions en production » (3 à 4 mois) ...                          ... 11
+PSD-03- « Spécification et maquettage d’un outil d’aide à la vente et la production » (6 mois) . 12
+Page 3
+
+
+
+
+                                                                        Propositions de stages
+                                                                                                                                                                        Date : novembre 14
+                                                                        2014-2015
+                             MKG-02 « Stage Webgame Design » (6 mois)
+                             Description du stage proposé
+                                                                        Au sein de l’équipe Marketing Produit, l’objectif du stage sera de :
+-                                                                       Concevoir  une  animation  interactive  autour  d’un  document  technologique  à  destination
+                             de nos clients,
+-                                                                       Développer l’application web qui délivrera l’animation que vous avez conçue
+-                            Participer à la diffusion de votre outil
+Profil
+-                            Environnement   technique                  :                                                                                               Maitrise   des   technologies   de   développement   web
+                                                                        (HTML5/CSS3/PHP), connaissance technologique des réseaux télécoms.
+-                            Connaissances requises :
+    Bac+2 ou plus
+    Anglais professionnel
+Période
+A partir de janvier 2015
+Page 4
+
+
+
+
+                                                              Propositions de stages
+                                                              Date : novembre 14
+                                                              2014-2015
+                                                              MKG-03- « Stage Junior Business Analyst » (6 mois)
+Description du stage proposé
+                                                              Au sein de l’équipe Marketing Business, l’objectif du stage consistera à :
+-                                                             Fiabiliser les données des tableaux de bord des ventes ,
+-                                                             Participer à l’analyse des enjeux identifiés dans les tableaux de bord,
+-                                                             Automatiser les analyses pour accélérer la production de rapport
+Profil
+-                                                             Environnement technique : connaissance des réseaux télécoms mobiles sera appréciée,
+                                                              la maitrise de Microstrategy serait un plus.
+-                                                             Connaissances requises :
+ Bac+4 ou plus
+ Maitrise des outils Office (excel, powerpoint) nécessaire
+ Anglais profesionnel
+Période
+A partir de janvier 2015
+Page 5
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+MKG-04 - « Génération de données Télécom et visualisation dans un outil de Business
+Intelligence » (4 à 6 mois)
+Description du stage proposé
+Au  sein  de  l’équipe  marketing  et  en  collaboration  avec  la  R&D  et  l’expertise  Telecom,  le
+stagiaire devra :
+-                                                                                                        Identifier les différents scénarios et besoins en génération de données,
+-                                                                                                        Réaliser une veille technologique afin d’identifier les  solutions existantes de génération
+de données (l’objectif étant d’adapter un générateur de données existant plutôt que d’en
+développer un de zéro),
+-                                                                                                        Développer  ou  adapter  un  outil  de  génération  de  données  réalistes  répondant  aux
+scénarios  identifiés.  Par  données  réalistes,  on  entend  des  données  qui  pourraient
+résulter  de  l’activité  réelle  d’abonnés  utilisant  leurs  téléphones/smartphones  sur  un
+réseau mobile,
+-                                                                                                        Utiliser  ces  données  dans  un  outil  de  Business  Intelligence  afin  de  réaliser  des
+visualisations  haut  niveau                                                                             (agrégation  des  données)  qui  permettront  de  valider  la
+cohérence des données
+Profil
+-                                                                                                        Environnement  technique  :  Maîtrise  des  langages  du  Web  :  HTML  /  CSS  /  XML  /
+JavaScript / PHP
+-                                                                                                        Connaissances requises :
+    Stage de fin d’études ingénieur informatique ou télécom
+    Force de proposition, intérêts pour les nouveaux outils/technologies du web
+    Double compétence informatique/télécom serait un plus
+    Anglais profesionnel
+Période
+A partir de janvier 2015
+Page 6
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+GCS-01 - « Gestion de Projets Clients » (6 mois)
+Description du stage proposé
+Dans le cadre de son stage au Project Office, l’étudiant, sous la direction d’un Project Manager,
+aura pour mission principale d’appréhender les activités quotidiennes de gestion de déploiements
+de projets.
+Il pourra travailler, ponctuellement sur des projets différents mais avec un projet principal comme fil
+conducteur.
+Il  recevra  une  formation  à  nos  solutions  afin  de  bien  appréhender  les  activités  qui  lui  seront
+confiées.
+Ce stage vous permettra de développer vos connaissances de conduite de projets et de maîtriser
+les coûts, délais et qualité.
+Profil
+-                                                                                                               Environnement technique : Ingénieur généraliste ou a dominante Télécoms et Réseaux
+-                                                                                                               Connaissances requises : La connaissance des réseaux de télécommunications est un plus,
+anglais professionnel
+Période
+A partir de janvier 2015
+Page 7
+
+
+
+
+                                                                                                          Propositions de stages
+                                                                                                                                      Date : novembre 14
+                                                                                                          2014-2015
+C&S-01 - « IMS/VoLTE                                                                                      » (6 mois)
+Description du stage proposé
+La  Business  Unit  Consultancy  and  Services  (C&S)  a  pour  mission  de  réaliser  des  prestations
+d’audit des réseaux de télécommunications mobiles. Au sein de ce département, le stagiaire aura
+pour objectif en étroite collaboration avec son tuteur de :
+-  Monter en compétence sur la technologie VoLTE et IMS
+-  Analyser les méthodes et données techniques produites par nos outils et sondes VoLTE et
+IMS
+-  Pérenniser une chaine de travail permettant de traiter les données VoLTE et IMS
+-  Participer à l’élaboration de supports Techniques pour nos équipes Avant Vente
+Afin de pérenniser tous ces travaux et l’utilisation des KPIs VoLTE et IMS, la rédaction de manuels
+utilisateurs et notes de synthèses seront à inclure dans vos travaux.
+Profil :
+-                                                                                                         Environnement technique :
+    Connaissance techniques : LTE, IMS mobile, IP, VoLTE
+    Connaissance outils : Wireshark
+    Connaissances informatique : SQL
+    Anglais technique exigé
+-                                                                                                         Connaissances requises :
+Formation supérieure en école d'ingénieur ou équivalente, avec une spécialisation dans les
+Télécommunications, vous êtes intéressé par les technologies innovantes.
+Le stagiaire devra être autonome et proactif, force de proposition et posséder des qualités
+organisationnelles lui permettant de travailler en mode projet.
+Il rendra compte au maître de stage et au management de l'avancement de son projet.
+Période
+A partir de janvier 2015
+Page 8
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+C&S-02 - « Radio monitoring » (6 mois)
+Description du stage proposé
+La Business Unit Consultancy and Services (C&S) a pour mission de réaliser des prestations
+d’audit des réseaux de télécommunications mobiles. Au sein de ce département, le stagiaire
+aura pour objectif en étroite collaboration avec son tuteur de :
+    Montée en compétence sur les technologie et protocoles d’accès radio
+    Analyser les méthodes et données techniques produites par nos outils sur la partie Radio
+    Pérenniser une chaine de travail permettant de traiter les données radio
+    Participer à l’élaboration de supports Techniques pour nos équipes Avant Vente
+Afin  de  pérenniser  tous  ces  travaux  et  l’utilisation  des  KPIs  LTE,  la  rédaction  de  manuels
+utilisateurs et notes de synthèses seront à inclure dans vos travaux.
+Profil :
+-                                                                                                          Environnement technique :
+    Connaissance techniques : GSM, UMTS,   IP, LTE
+    Connaissance outils : Wireshark
+    Connaissances informatique : SQL
+    Anglais technique exigé
+-                                                                                                          Connaissances requises :
+De  formation  supérieure  en  école  d'ingénieur  ou  équivalente,  avec  une  spécialisation
+dans les Télécommunications, vous êtes intéressé par les technologies innovantes.
+Le  stagiaire  devra  être  autonome  et  proactif,  force  de  proposition  et  posséder  des
+qualités organisationnelles lui permettant de travailler en mode projet. Il rendra compte
+au maître de stage et au management de l'avancement de son projet.
+Période
+A partir de janvier 2015
+Page 9
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+C&S-03 - « Mise en valeur des données télécom à partir de la solution de BI
+microstrategy » (4 à 6 mois)
+Description du stage proposé
+Au sein de l’équipe de développement de Services de C&S, et dans le cadre de votre stage de fin
+d’étude, vous serez amené à :
+    Proposer  des  améliorations  sur  les  représentations  graphiques  des  tableaux  de  bords
+existants
+    Proposer  de  nouveaux  types  de  représentations  des  données  à  partir  de  la  librairie
+graphique de MicroStrategy
+MicroStrategy est un logiciel de Business Intelligence.
+Les étapes seront les suivantes :
+    Formation aux fonctionnalités de la solution de BI,
+    Recensement et catégorisation de données manipulées par Astellia
+    Recommandations sur les types de représentation en fonction du type de données
+    Mise en application par la modification/création de tableaux de bord
+Profil
+-                                                                                                     Environnement   technique                                                                   :   Serveur   Linux   (Red-Hat),   JavaScript,   MySql,   Sybase,
+                                                                                                      MicroStrategy
+-                                                                                                     Connaissances  requises  :  Stage de fin d’étude Ingénieur  (Bac+5)  - Formation Telecom,
+anglais professionnel
+Période
+A partir de janvier 2015
+Page 1 0
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+PSD-02 - « Outil d'analyse des solutions en production » (3 à 4 mois)
+Description du stage proposé
+Au sein d’une société innovante, ce stage vous permettra de valider vos capacités d’analyse et de
+développement à travers celui d’outils internes.
+Le  stage  se  déroulera  au  sein  de  l’équipe  Système  (17p),  dont  une  des  activités  consiste  à
+effectuer des études liées aux produits et à leur industrialisation.
+L’objectif est de faciliter l’exploitation des données concernant le fonctionnement des solutions de la
+société. Ces données collectées sur des chaines de production clientes permettront d’enrichir la
+modélisation de la solution afin d’affiner et optimiser son dimensionnement pour la génération des
+offres commerciales ; le stage pourra se décomposer ainsi :
+-                                                                                                           Etat des lieux des outils internes existants;
+-                                                                                                           Simplification & automatisation des collectes terrain,
+-                                                                                                           Participation  à  la  création  de  rapports  BI  Nagios  /  Centreon  qui  permettront  d’effectuer  le
+                                                                                                            capacity planning de la solution
+Profil
+-                                                                                                           Environnement  technique  :  Windows  7, Linux, Bases de données SQL, Microsoft Office,
+Python, Nagios, Qlikview
+-                                                                                                           Connaissances requises : Bonne maitrise du scripting (Python apprécié), bash Linux, bases
+de données, anglais professionnel
+De formation BAC +3/4, curieux(se) et rigoureux(se), vous aimez la technique et le développement.
+Période
+A partir de janvier 2015
+Page 1 1
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+PSD-03- « Spécification et maquettage d’un outil d’aide à la vente et la production »
+(6 mois)
+Description du stage proposé
+Au sein d’une société innovante, ce stage vous permettra d’acquérir une connaissance précise des
+contraintes globales transverses à plusieurs équipes, d’en connaitre l’organisation, les enjeux, et
+d’être partie prenante de sa transformation et son amélioration.
+Le  stage  se  déroulera  au  sein  de  l’équipe  Système  (17p),  dont  une  des  activités  consiste  à
+effectuer des études liées aux produits et à leur industrialisation.
+L’objectif  est  de  proposer  un  outil  commun  aux  différentes  équipes  permettant  de  simplifier  la
+gestion  des  nouvelles  références  matérielles  et  logicielles  au  sein  de  la  société  ainsi  que  leur
+dimensionnement pour la génération des offres commerciales. La solution devra s’appuyer sur la
+base de données commune (ERP) et avoir comme ligne conductrice la simplicité, la réduction du
+risque d’erreurs, le gain de productivité en réduisant la maintenance et l’évolutivité.
+Le stage pourra se décomposer ainsi :
+-                                                                                                                Etat des lieux des outils et documents existants utilisés par les différents services (Marketing,
+                                                                                                                 Avant-Vente, Ingénierie, Production)
+-                                                                                                                Rédaction du cahier des charges interne et des spécifications,
+-                                                                                                                Propositions  techniques  et  rédaction  du  dossier  de  conception  de  l’outil  qui  permettra
+                                                                                                                 d’exploiter les différentes sources d’informations en interconnexion avec l’ERP de la société
+-                                                                                                                Maquettage pour confirmer les solutions envisagées
+Profil
+-                                                                                                                Environnement technique : Windows 7, Bases de données SQL, Microsoft Office
+-                                                                                                                Connaissances  requises  :  Bonne  maîtrise  de  la  rédaction  de  cahier  des  charges  et
+spécifications, anglais professionnel
+De formation BAC  +5, curieux(se) et rigoureux(se), vous aimez la technique et avez une bonne
+capacité  d’analyse.  Vous  saurez  contacter  les  différents  intervenants  internes  à  la  société  et
+consolider leurs besoins.
+Période
+A partir de janvier 2015
+Page 1 2
+
+
+
+
+Propositions de stages
+Date : novembre 14
+2014-2015
+Comment postuler ?
+Toutes nos offres de stages sont disponibles sur notre site web, www.astellia.com dans
+la rubrique « emplois et carrières ».
+Pour postuler, envoyer CV+Lettre de motivation à l’adresse : emplois@astellia.com
+en rappelant la référence du stage.
+Page 1 3
+
+
+
+
+

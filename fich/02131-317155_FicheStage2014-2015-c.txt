@@ -1,0 +1,98 @@
+﻿ISTIC
+UFR Informatique-Electronique
+PROPOSITION DE STAGE
+À retourner à Brigitte BACHELOT
+ISTIC - Campus de Beaulieu
+35042 Rennes Cedex
+Tél. : 02 23 23 39 11
+Fax : 02 23 23 39 01
+istic-stages@univ-rennes1.fr
+                                                                                                                                                                                       INFORMATIONS SUR L’ENTREPRISE :
+                                                                                          L’organisme d’accueil :
+                                                                                          Nom de l’entreprise :                             Transports Mesguen                         Adresse :                         ZI de Kerranou 29250
+                                                                                                                                            Commisionnaire de transports                                                 St Pol de léon
+                                                                                          Domaine d’activité :                                                                         Ville :
+                                                                                          Représentant de l’entreprise :                    Mr Ludovic Calarnou                        N° téléphone :                    02 98 29 24 24
+Sa qualité :                                                                              PDG                                                                                          N° fax :                          02 98 29 24 29
+N° de Siret :                                                                                                                               926 450 099 00045                          Site Web :                        www.transports-mesguen.fr
+N° NAF :                                                                                                                                                                               Courriel :                        contact@transports-mesguen.fr
+                                                                                          SA
+Statut Juridique :                                                                                                                                                                                                       Signataire de la convention :
+                                                                                                                                            200
+                                                                                          Effectif de l’établissement :                                                                                                  Emmanuelle PARDIAC
+                                                                                                                                            Emmanuelle PARDIAC                                                           Marie Noëlle SABELLA
+                                                                                          Nom de l’encadrant de stage :                                                                                                  Chargé du suivi administratif :
+Sa qualité :                                                                              DSI                                                                                          Sa qualité :                      secretaire de direction
+Service :                                                                                 Informatique                                                                                 N° téléphone :                    02 98 29 24 01
+N° téléphone :                                                                                                                              02 98 29 24 31                             Email :                           marienoelle.sabella@transports-mesguen.fr
+                                                                                                                                            emmanuelle.pardiac@transports-mesguen.fr
+Email :                                                                                                                                                                                Fax :                             02 98 29 24 29
+Fax :                                                                                     02 98 29 24 29
+ce informatique
+Lieu du stage (s’il est différent de l’adresse de l’entreprise): ……………………………………………………….
+PROFIL DE L’ÉTUDIANT SOUHAITÉ :
+Licence Informatique parcours MIAGE
+□ Licence 3                                                                               13 semaines entre le 30 mars et le 26 juin 2015
+Master 1ère année
+□ Parcours SR et GL, Recherche                                                            8 semaines minimum à partir du 13 mai 2015
+X                                                                                         13 semaines minimum à partir du 18 mai 2015
+Master 2 Professionnel en Informatique (20 semaines obligatoires)
+X Spécialité MIAGE                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité IR                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité GL                                                                           du 9 mars 2015 à fin août 2015
+□ Spécialité   MITIC                                                                      du 9 mars 2015 à fin août 2015
+□ Spécialité   SSI                                                                        du 9 mars 2015 à fin août 2015
+□ Spécialité Recherche                                                                    du 1er février 2015 à fin juin 2015
+Master 2 Professionnel Compétence Complémentaire en Informatique (4 mois obligatoires)
+□ Spécialité   CCI                                                                        du 13 avril 2015 à fin août 2015
+UNIVERSITE DE RENNES 1                                                                    TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                     FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                  www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+Licence Professionnelle Electronique et Télécommunications
+□ Spécialité SPH                                                                                       En alternance avec 3 périodes de 5 semaines en formation universitaire et
+3 périodes de 8 semaines en entreprise.
+□ Spécialité SEA                                                                                       16 semaines à partir du 9 mars 2015 jusque fin août 2015
+Master 2 Electronique et Télécommunications
+□ Spécialité ITEA                                                                                      En alternance avec 3 périodes de 5 semaines en formation
+universitaire et 3 périodes de 8 semaines en entreprise
+□ Spécialité CTS                                                                                       entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité ST                                                                                        entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+□ Spécialité SISEA                                                                                     entre 4 mois minimum et 6 mois maximum à partir du 2 mars 2015
+SUJET DU STAGE :
+se en place d’un outil d’aide à l’organisation du service transports
+Refonte de la GED
+Mise en place d’un outil de gestion de l’exploitation transports
+Type et configuration du matériel sur lequel le stagiaire travaillera  (matériels, technologies,
+méthodes, langages…) :
+Delphi XE5   PLSQL    base oracle
+Tout est sous environnement Windows
+Sujet proposé détaillé :
+3 sujet proposés :  Pour les 3 sujets nous avons des outils existants codés sous delphi 6
+Il s’agit de faire une étude de l’existant, de comprendre les besoins utilisateurs pour réaliser des
+outils plus performants, plus rapide, plus intuitif, consolider les données
+INFORMATIONS COMPLÉMENTAIRES :
+Indemnité mensuelle (nette) :                                                                          selon la règlementation                                                     Nom de l’Etudiant :
+Modalités de versement :                                                                               virement                                                                    Diplôme :
+Avantages en nature à préciser :
+Temps horaire hebdomadaire :                                                                           35
+                                                                                                       Date limite de réponse à cette proposition :
+                                                                                                       Souhaitez-vous que les étudiants intéressés vous contactent directement ?   Oui
+                                                                                                                                                                                   Cachet de l’entreprise
+UNIVERSITE DE RENNES 1                                                                                 TÉL : 33 (0)2 23 23 39 00
+ISTIC                                                                                                  FAX : 33 (0)2 23 23 39 01
+Campus de Beaulieu
+263, Av du Général Leclerc
+CS 74205                                                                                               www.istic.univ-rennes1.fr
+35042 RENNES CEDEX (FRANCE)
+
+
+
+
+

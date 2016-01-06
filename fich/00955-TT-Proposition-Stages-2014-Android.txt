@@ -1,0 +1,41 @@
+﻿Stage 2014
+DIAGNOSTIQUE À DISTANCE D'ÉQUIPEMENTS
+ANDROID
+(REF : AND-2014)
+TAZTAG  est  une  société  rennaise  spécialisée  en  sécurité  et  en  technologies  sans
+contact (NFC, Zigbee). TAZTAG développe et commercialise des objets et des solutions
+appliquées  aux  domaines  du  transport,  paiement,  vie  urbaine,  musées,  santé,
+sécurité, services à la personne…, permettant de créer une véritable interaction entre
+l'usager et son environnement.
+Mission
+L'objectif du stage est de concevoir une solution d'auto-test et de maintenance des
+produits  TazTag  sous  Android.  Elle  doit  permettre  de  faciliter  le  diagnostique  et  le
+support   à   distance   de   nos   produits.   La   solution   comprendra   d'une   part   le
+développement d'une suite de tests automatiques, sous forme d'application Android,
+et d'autre part la mise en place d'un serveur Web permettant de capturer les résultats
+de test. L'infrastructure devra pourvoir être enrichie avec des fonctions de mise à jour
+logicielle à distance.
+Ce stage permettra :
+   de  prendre  en  main  un  projet  logiciel  dans  son  intégralité  :  des  phases  de
+spécifications jusqu'à la mise en œuvre.
+   de  s'initier  aux  technologies  qui  sont  au  coeur  du  métier  de  TazTag                 :
+technologies sans contact NFC et Zigbee, sécurité, capteur biométrique.
+Profil recherché
+Vous êtes en dernière année d’école d’ingénieurs. Vous avez une spécialisation en
+informatique. Vous avez des bases solides en Java et développement objet. Vous êtes
+passionné, autonome et très motivé pour mettre en place une solution opérationnelle.
+Compétences requises
+  Connaissance du langage Java
+  Connaissance des outils de développement open-source
+  Développements Web et Android sont un plus
+  Bon niveau d’anglais
+Conditions de stage
+Ce stage se déroulera sur notre site de Bruz (près de RENNES)
+Durée 6 mois, dès février 2014 ou plus tard.
+Stage rémunéré.
+Contact : is@taztag.com
+
+
+
+
+

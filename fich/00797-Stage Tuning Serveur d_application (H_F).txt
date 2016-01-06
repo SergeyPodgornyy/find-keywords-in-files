@@ -1,0 +1,62 @@
+﻿Stage  Tuning  Serveur  d'application  (H/F)
+Atos  Technology  Services
+REFERENCE  :  154533
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078570
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  Nice 6000, France
+NIVEAU  D'ETUDES  :  Bac +5
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  À partir du 03/02/2014
+DUREE  :  6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Partenaire informatique mondial des Jeux Olympiques depuis 1992, le groupe Atos est un acteur
+international des services informatiques qui fournit à ses clients du monde entier,  des solutions de
+conseil, d’intégration de systèmes, d’infogérance et des services transactionnels de haute
+technologie.  Atos est présent dans 47 pays, compte 77 000 collaborateurs dans le monde et réalise
+un chiffre d’affaires annuel de 8,5 milliards d’euros.
+Notre entité Atos Technology Services (ATS) a pour mission principale de développer des services
+informatiques de proximité auprès de ses clients, en les accompagnants dans la mise en œuvre et
+l’évolution de leurs systèmes d’information. Plus de 3 000 experts de proximité accompagnent nos
+clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions
+de leurs marchés.
+DESCRIPTION  DU  POSTE  :
+Mission
+Au sein de l’équipe technique d’un projet de développement d’envergure nationale, vous
+participerez au tuning de plates-formes web (Linux / Apache / Tomcat / JBOSS / VM Java) et à leur
+adaptation selon les besoins des applications Java JEE qu’elles doivent accueillir. Cela suppose de
+travailler en relation avec les équipes de développement.
+Il ne s’agit pas seulement d’installer et d’optimiser les composants Open Source Apache, Tomcat,
+JBossen environnement complexe, mais de travailler sur l’automatisation de l’installation et du
+déploiement des modules ainsi optimisés (mise en œuvre usine à RPM Koji).
+L’optimisation de la configuration de la VM Java peut aussi être un axe d’optimisation du
+fonctionnement de la plate-forme cible.
+Technologie :
+
+
+
+
+Linux, Apache, Tomcat, JBOSS, Shell, Perl, Ant, Koji, XML, ANT, VM Java, Heartbeat
+Objectifs pédagogiques :
+* Intégrer une équipe technique de type R&D d’un projet national
+* Appréhender les contraintes en environnements web complexes
+* Travailler sur l’automatisation des déploiements
+* Mettre en pratique et perfectionner vos connaissances des modules Open Source Apache, Tomcat,
+JBOSS
+* Maitriser une plate-forme LAMP
+Profil
+De formation Bac+5 (Ecole d'ingénieur ou université) en cours de validation, vous recherchez un
+stage d'une durée de 4 à 6 mois (dates variables selon l'école).
+Vous êtes passionné(e) par le monde Open Source, vous êtes un(e) utilisateur(trice) aguerri(e) de
+Linux, vous souhaitez faire un métier de votre passion.
+Une proposition d’embauche en fin de stage est envisageable, sur le site de votre stage ou, si vous le
+désirez, dans toute autre région dans laquelle Atos recrute.
+PROFIL  :
+Le stage est localisé à Sophia-Antipolis.
+POUR  POSTULER  :  http://atos.contactrh.com/jobs/1536/5078570
+
+
+
+
+

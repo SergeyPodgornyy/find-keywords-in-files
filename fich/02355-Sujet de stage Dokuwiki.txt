@@ -1,0 +1,42 @@
+﻿Sujet de stage sur un wiki
+La Direction du Système d'Information de l'Université de Rennes 1 a mis en œuvre un service
+numérique de wiki pour ses besoins propres ainsi que pour offrir le service à d'autres entités
+de l'université. Elle a retenu pour cela la solution libre Dokuwiki codée en PHP.
+Ce service numérique est très utilisé et compte actuellement :
+•                                                                                                  39 wikis différents
+•                                                                                                  14193 pages
+                                                                                                                                                                                                                                                                                                    Installée fin 2009, la version de ce wiki n'a pas été mise à jour ces dernières années.
+                                                                                                                                                                                             31 modules complémentaires ont été installés dont :
+•                                                                                                                                                                                                                                                  pagemove: pour renommer ou déplacer des pages,
+•                                                                                                                                                                                                                                                                                                                                                                                             dw2pdf : pour produire un fichier PDF directement à partir d'un contenu wiki (sans
+passer par une imprimante PDF virtuelle).
+L'authentification des utilisateurs est effectuée par l'appartenance à des listes de diffusion
+Sympa et le mécanisme de fédération d'identité Shibboleth.
+La DSI souhaite à présent effectuer une montée de version vers la version la plus à jour pour
+bénéficier des avancées du logiciel en termes de fonctionnalités et d'ergonomie.
+Pour cela, un véritable projet de migration est nécessaire pour retenir la meilleure approche
+possible :
+•                                                                                                  soit passer les mises à jour sur l'installation en place jusqu'à parvenir à la dernière
+version,
+•                                                                                                  soit créer une nouvelle installation vide directement dans la dernière version, et
+développer des scripts ou des programmes ad hoc pour migrer le contenu du wiki de
+l'ancienne vers la nouvelle installation.
+Les deux stratégies devront être maquettées et évaluées avant de retenir la plus pertinente et
+tenant compte de :
+•                                                                                                  la compatibilité des modules complémentaires dans leur dernière version,
+•                                                                                                  la qualité de la reprise des données,
+•                                                                                                  la continuité du système d'authentification et des contrôles d'accès aux pages
+Ensuite, après sélection de la méthode à appliquer, la migration devra être exécutée et
+recettée.
+Le stage sera l'occasion de mettre en œuvre un service numérique opérationnel dans un
+contexte informatique pluridisciplinaire caractérisé par l'expertise et l'ingénierie de l'équipe
+« Services numériques » et la polyvalence de l'équipe « Exploitation des Applications et des
+Services » au sein du pôle « Système d'information » de la DSI de l'Université de Rennes 1.
+Contacts
+•                                                                                                  Laurent Abraham - laurent.abraham@univ-rennes1.fr
+•                                                                                                  Odile Germes - odile.germes@univ-rennes1.fr
+
+
+
+
+

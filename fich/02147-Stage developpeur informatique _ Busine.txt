@@ -1,0 +1,45 @@
+﻿JUNIOR  TALENT  RECRUTE  UN/UNE  STAGE  DÉVELOPPEUR  INFORMATIQUE  /  BUSINE  EN
+STAGE 6 MOIS.
+Date : 06/01/2015
+Référence de l’offre : SI/1214/000339-8518930
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Eysines 33320, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Nous recherchons pour le groupe Solocal (Pages Jaunes, Mappy, A vendre A louer, Kapstage...), basé à
+Eysines (33), un(e) stagiaire en développement informatique.
+Solocal Group est le nouveau nom de PagesJaunes Groupe, n°1 de la communication locale en France. Le
+groupe  propose  des  contenus  digitaux,  des  solutions  publicitaires  et  des  services  transactionnels  qui
+favorisent la mise en relation locale entre professionnels et consommateurs.
+En 2013, Solocal Group a réalisé un chiffre d'affaires proche d' 1 milliard d'euros dont 60% sur réalisé sur le
+web, et se classe ainsi parmi les premiers acteurs européens en termes de revenus publicitaires sur Internet. Il
+fédère  près  de                                                                                                    5  000  collaborateurs,  dont  plus  de   2  300  conseillers  en  communication  en  France,
+Luxembourg, Maroc, UK et Espagne.
+4 bonnes raisons de rejoindre Solocal group :
+- Rejoindre une entreprise leader sur Internet et tournée vers les nouvelles technologies
+- Appartenir à une des 10 premières
+Description du poste :
+L'entité Patrimoine BI au sein de Business Intelligence est, à l'image de Solocal, en pleine transformation
+digitale.
+Le stage s'articulera autour de 3 axes :
+- Apprentissage sur les données : il s'agit de bien comprendre les données qui seront à votre disposition, de
+comprendre le business model du groupe, afin de proposer la meilleure restitution à leurs clients internes.
+- Mise en œuvre de solution : étude, évolution et amélioration des solutions existantes, mise en œuvre des
+solutions dans le respect des best practices du SI
+- Technologie : travaux/approche autour d'une plateforme BIG DATA (Hadoop)
+Profil recherché :
+Formation bac + 4 en école d'informatique ou équivalent.
+Motivé, volontaire et doté(e) d'un bon sens relationnel, vous souhaitez participer à la vie quotidienne d'une
+structure dynamique et apprendre le métier du développement et de la gestion de projet informatique dans le
+cadre de la Business Intelligence.
+Une bonne aisance rédactionnelle, un esprit d'analyse et de la rigueur souhaités.
+Bonnes connaissances de l'outil BI : QlikView
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8518930
+
+
+
+
+

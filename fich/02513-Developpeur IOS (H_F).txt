@@ -1,0 +1,35 @@
+﻿PARIS&CO INCUBATEURS RECRUTE UN/UNE DÉVELOPPEUR IOS (H/F) EN STAGE DE 4 À 6
+MOIS.
+Date : 24/04/2015
+Référence de l’offre : Dev IOS IM-9496760
+Domaine d’activité : Etudes - Recherche (Chef de Projet/Ingénierie)
+Type de contrat : Stage
+Localisation : Paris 75006, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 1-2 ans
+Description de l’entreprise :
+Interactive Mobility est une startup innovante qui développe des solutions de divertissement passagers pour
+les opérateurs de transport. Sa plateforme multi-contenus permet aux acteurs de la mobilité d'offrir une
+nouvelle  expérience  digitale  à  leurs  clients                                                               :  diffusion  de  films,  journaux,  magazines,  jeux,  musique,
+informations touristiques.
+Lauréat de Scientipôle Initiative, soutenue par la BPI et le Welcome City Lab, Interactive Mobility équipe
+plusieurs compagnies aériennes ainsi que des centaines de voitures avec chauffeurs avec ses solutions.
+Description du poste :
+Au  sein  de  l'équipe  technique,  vous  serez  en  charge  du  développement  d'un  ou  plusieurs  projets
+d'applications IOS à intégrer dans notre solution. Dans cette optique, vous serez amené(e) à :
+Développer, et faire évoluer certaines applications mobiles en lien avec les souhaits des différents clients.
+Travailler en collaboration avec nos partenaires pour l'intégration de certaines technologies et contenus
+(opérateurs télécoms, médias, régies publicitaires)
+Profil recherché :
+Profil recherché :
+Autodidacte ou de formation en informatique.
+Références sur projets de développement IOS
+Des connaissances solides en IOS, Objective C (swift serait un plus)
+Vous êtes prêt(e) à vous impliquer dans les projets, et être force de proposition.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9496760
+
+
+
+
+

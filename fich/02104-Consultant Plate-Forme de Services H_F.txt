@@ -1,0 +1,48 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT PLATE-FORME DE SERVICES H/F EN STAGE DE
+4 À 6 MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-TM-3481-8373424
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                      Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                     2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+A l'heure où les réseaux convergent et où les technologies évoluent, les opérateurs veulent lancer des services
+de communication innovants et remplacer leurs infrastructures traditionnelles. Dans ce cadre, la transition
+vers IP (SIP, IMS, etc…), modifie leur manière d'implémenter des services à valeur ajoutée. Ils confient donc
+à  des  intégrateurs  tels  que  Capgemini  la  mise  en  place  de  solution  agiles  leur  permettant  de  mettre
+rapidement sur le marché de nouveaux services de communication, accessibles depuis une variété de
+terminaux et de combiner des services dans une architecture ouverte et SOA (Service Oriented Architecture).
+En tant que Consultant, vous :
+* contribuez au sein d'une équipe aux différentes phases du projet : conception, réalisation, intégration,
+déploiement.
+* intervenez sur de nombreux domaines comme, par exemple, la télévision sur IP, les services IMS, les
+messageries, les services vocaux, l'orchestration de services réseaux,etc...
+L'environnement technique porte sur le Linux, Java, JEE, Web Services et Protocoles INAP/SIP/IMAP.
+Profil recherché :
+De formation Bac+ 5, vous :
+* avez acquis des compétences dans la conception et le développement lors de vos études et souhaitez les
+mettre en application sur le terrain,
+* avez un niveau opérationnel en anglais (présentations écrites et orales),
+* êtes volontaire et dynamique,
+* appréciez le travail en équipe.
+Ce stage vous permet de :
+* travailler dans un environnement technique et fonctionnel de haut niveau basé sur des engagements forts,
+* acquérir la visibilité complète sur un projet de développement, de la conception à la livraison, dans un
+environnement opérationnel,
+* bénéficier d'une formation adaptée à nos métiers.
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373424
+
+
+
+
+

@@ -1,0 +1,66 @@
+﻿KER1-ODS-RH-2014-011-SECU                                                                                  Offre de stage
+01/10/2013                                                                                                 Développement d’interface virtuelle
+  Développement d’interface virtuelle pour un WAF
+KEREVAL, laboratoire de test, spécialisé dans la qualification de composants, solutions et architectures
+logicielles, propose de rejoindre son équipe pour le sujet de stage suivant :
+Intitulé du stage                                                                                                                                                        Description
+                                                                                                           Développement  de  nouvelles  fonctionnalités  pour
+                                                                                                           un  utilitaire  de  sécurité  web  de  type  WAF  (Web
+                                                                                                                                                                                                                       KEREVAL laboratoire indépendant d’ingénierie de tests,
+application Firewall)
+                                                                                                                                                                                                                       est  reconnu  comme  un  des  spécialistes  de  la  qualité
+                                                                                                                                                                         logicielle.
+Objectifs
+                                                                                                                                                                         Fort   de   ses                                                                                               11   années   d’expérience,   KEREVAL
+                                                                                                          Développement et test de l’interface graphique du
+                                                                                                                                                                                                                       conseille   ses   clients   pour   professionnaliser   leur
+WAF
+                                                                                                                                                                                                                       démarche   de   qualité   logicielle   et   les   aide   dans
+                                                                                                          Développement et test d’autres fonctionnalités                                                              l’élaboration de leur stratégie de test jusqu’à la mise en
+                                                                                                                                                                         place des équipes de tests certifiées CFTL.
+A qui s’adresse cette offre ?
+                                                                                                                                                                                                                       Kereval est aussi présent dans le domaine de la sécurité
+                                                                                                                                                                                                                       informatique par ses activités d’audit et de recherche et
+                                                                                                           Stage  de  fin  d’études  Ingénieur  avec  des  notions  en
+                                                                                                                                                                         développement.
+sécurité informatique.
+Compétences :
+                                                                                                                                                                                                                       Le  stage  en  question  s’inscrit  dans  un  projet  de
+    Développement Web
+                                                                                                                                                                                                                       développement  d’un  WAF  (Web  Application  Firewall)
+                                                                                                               Développement d’interface graphique.                                                                   avec  un  principe  de  fonctionnement  innovant.   Les
+                                                                                                                                                                                                                       travaux réalisés pendant le stage viendront enrichir les
+    Sécurité du Web
+                                                                                                                                                                                                                       fonctionnalités    du    produit,    notamment    par    le
+    Java, Webservices
+développement de l’interface graphique. Le langage et
+    Méthode de développement agile                                                                        l’implémentation seront à discuter.
+                                                                                                           Le stagiaire participera aussi au développement d’autres
+Période et durée
+                                                                                                           fonctionnalités telles que :
+                                                                                                               Un   convertisseur de format d’alerte
+Début 2014 pour une durée de 6 mois
+                                                                                                               Un éditeur de contraintes
+Environnement
+Eclipse, Java, SVN, GIT, Jenkins, Maven                                                                    Apport pour le stagiaire :
+                                                                                                           Le  stagiaire  sera  intégré  dans  l’équipe  sécurité  de
+Identifiant du stage
+Kereval.
+                                                                                                           Il  pourra  mettre  en  pratique  les  connaissances  en
+ODS-2014-011-SECU
+matière de développement tout en étant encadré et en
+apprenant la méthodologie de Kereval.
+Contact
+Ce stage est aussi un moyen de travailler dans le milieu
+SAS KEREVAL                                                                                                de la sécurité informatique sur un projet prenant.
+4 rue Hélène Boucher
+Z.A Bellevue
+35 235 THORIGNE FOUILLARD
+Tél : 02 23 20 36 64
+stage@kereval.com
+1 - Public                                                                                                 Document validé                                               Page 1 / 1
+
+
+
+
+

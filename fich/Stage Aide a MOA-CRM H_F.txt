@@ -1,0 +1,52 @@
+﻿Stage Aide à MOA-CRM H/F
+Société Générale
+REFERENCE  :  ST/MCIB/90271
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4331125
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  LA DEFENSE 92000, France
+NIVEAU D'ETUDES  :  Bac +4
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Février
+DUREE  :  6 mois
+SECTEUR  :  Banque/Assurance/Finance (Banque/Etablissement financier/Crédit Bail...)
+FONCTION  :  Systèmes d'informations / télécom (Consultant / Audit / AMOA)
+SOCIETE  :
+Société Générale est l'un des premiers groupes de services financiers de la zone euro. Parce qu'il n'y
+a pas de succès collectif sans réussite individuelle, de progrès d'entreprise sans évolutions
+personnelles, Société Générale propose à chacun de ses collaborateurs une aventure professionnelle
+épanouissante et enrichissante, qui respecte la diversité des talents avec plus de 159 000
+collaborateurs dans 77 pays.
+DESCRIPTION DU POSTE  :
+Votre stage
+Rattaché(e) à MCIB, vous travaillerez dans le cadre du projet de migration du CRM actuel de la
+structure (sous solution Microsoft Access) vers un nouveau système Microsoft Dynamics développé
+pour l'ensemble de la banque d'investissement du groupe Société Générale (SGCIB).
+A ce titre et en collaboration avec votre maître de stage qui assurera votre formation, vous
+participez aux missions suivantes :
+Comprendre les principaux métiers et les principaux besoins en termes de CRM de chacune des
+lignes métier de MCIB.
+Achever la migration des données depuis l'ancien CRM (sous Access) vers le nouveau, en tenant
+compte d'éventuelles contraintes techniques.
+Savoir programmer des requêtes en SQL pour assurer l'extraction des données et le contrôle qualité
+et d'exhaustivité post migration
+Assurer les formations utilisateurs et le change management.
+Analyser et exprimer les besoins utilisateurs en termes de reporting.
+Vous serez associé à la collecte des besoins fonctionnels / feedbacks opérationnels auprès des
+utilisateurs, à la synthèse de ces besoins pour chiffrage auprès des équipes informatiques et à
+l'organisation de la communication des nouvelles fonctions auprès des utilisateurs.
+Vous participerez en outre aux travaux transversaux du Secrétariat Général de MCIB (Pôle COO) :
+budgétaires, réglementaires, juridiques, RH, marketing, logistiques,...
+PROFIL  :
+
+
+
+
+Vous êtes étudiant de niveau Bac +4/5 avec une spécialisation en Système d’information/ MOA/
+MIAGE option finance.
+Une connaissance solide des outils Access, SQL, VBA
+POUR POSTULER  :  http://socgen.contactrh.com/jobs/1536/4331125
+
+
+
+
+

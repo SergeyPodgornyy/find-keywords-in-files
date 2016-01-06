@@ -1,0 +1,37 @@
+﻿AJSTAGE RECRUTE UN/UNE DÉVELOPPEMENT FULL STACK - AGRICONOMIE EN STAGE DE 5
+À 6 MOIS.
+Date : 07/07/2015
+Référence de l’offre : devfullstack-10310270
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Le Kremlin Bicêtre 94000, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+AJstage propose aux étudiants des offres de stages, apprentissages, VIE et premiers emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises  clientes  sur
+www.ajstage.com.
+Description du poste :
+Directement sous la responsabilité du CTO, vos missions seront :
+Intervenir sur l'ensemble des fonctionnalités techniques de la Marketplace,
+Transformer les besoins des clients finaux et des différents services de la société en spécialité technique,
+Développement Frontend Backend de la Marketplace,
+Veille sur la technologie existante,
+Accompagner le CTO lors de ses rendez-vous et conférences extérieures,
+Profil recherché :
+TEK 4 ou 5
+Expériences significatives dans le web et intime avec PHP5/MySQL,
+Maitrise d'un framework Zend ou Symfony 2 obligatoire,
+A l'aise avec Javascript natif et ses frameworks JQuery ou autres
+Expérience avec GIT, GitHub, NginX et Linux,
+Connaissances de HTML 5 / CSS 3 est un plus,
+Connaissance de la méthode SCRUM est un avantage,
+Capacité à travailler en équipe et à rapidement gagner en autonomie, volontaire, dynamique et entreprenant,
+vous souhaitez évoluer dans l'écosystème start-up.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10310270
+
+
+
+
+

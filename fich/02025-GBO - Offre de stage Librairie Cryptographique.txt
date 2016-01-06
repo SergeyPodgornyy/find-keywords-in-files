@@ -1,0 +1,64 @@
+﻿Offre   de   Stage :   Librairie   d’IP   FPGA   pour   la
+cryptographie
+ADETEL Group
+ADETEL Group (600 pers, 56 M€ de CA) : « le service à l’électronique »
+Notre  métier :  fournisseurs  d’équipements  électroniques  et  logiciels  auprès  des  grands
+comptes industriels de l’aéronautique, du transport et de l’énergie.
+Contexte
+La  société  ADENEO  du  groupe  ADETEL,  prend  en  charge  pour  ses  clients  le
+développement  d’électronique  ou  logiciels  embarquée.  Dans  ce  contexte,  et  afin  de
+développer son expertise, ADETEL souhaite se doter d’une librairie FPGA permettant de
+répondre à des besoins en cryptographie.
+La présente offre de stage porte sur la description des activités de développement de cette
+librairie
+Objectif
+L’objectif du stage est de réaliser une librairie de cryptographie. Ce stage peut être réalisé
+par plusieurs stagiaires en parallèle chacun développant une IP de la phase de spécification
+à la vérification (qui pourra être croisée). Ces IP devront être portables et répondre à des
+performances de puissance de traitement élevé. Les développements seront réalisés suivant
+le process interne Adeneo  (revues, règles de codages) et sera contrôlé par des experts
+FPGA de l’équipe sur lesquels les stagiaires pourront s’appuyer.
+La liste non exhaustive des IP à développer est la suivante :
+-                                                                                                 Chiffrage / Déchiffrage AES (flux et paquets de data)
+-                                                                                                 Chiffrage / Déchiffrage RSA
+-                                                                                                 Génération de clefs RSA
+-                                                                                                 Hachage SHA, MD5
+-                                                                                                 Génération de nombre pseudo aléatoires
+Sujet / missions
+Ce stage se traduit donc par les étapes suivantes qui seront affinée en début de stage :
+   Phase 1 :
+o   Définition de l’architecture générique des interfaces des IP
+o   Spécification unitaire des IP
+o   Validation des spécifications par un expert Adeneo
+   Phase 2 :
+o   Développement des IP
+o   Simulation de débuggage
+o   Simulation formelle (peut être croisée)
+   Phase 3 :
+o   Assemblage des IP pour réaliser des fonctions cryptographique complète et conception
+d’un démonstrateur de coprocesseur cryptographique / TPM.
+
+
+
+
+Offre   de   Stage :   Librairie   d’IP   FPGA   pour   la
+cryptographie
+Profil recherché
+Ce stage est envisagé pour un étudiant en dernière année (bac+5), avec une spécialisation
+en électronique numérique souhaitant axer sa formation vers le développement FPGA
+Le stagiaire devra répondre aux critères suivants :
+    Autonomie, curiosité, bonne communication ;
+    Esprit d’analyse et de formalisation ;
+    Bonne capacité à travailler en équipe
+Serait apprécié :
+    Premier contact avec la conception FPGA ;
+Conditions
+Le stage est à pourvoir au sein de notre Département Logiciel. Il se déroulera à Palaiseau
+(91) pour une durée de 6 mois minimum.
+Pour postuler
+Connectez-vous sur notre site : adetel-jobs.com et déposez votre candidature
+
+
+
+
+

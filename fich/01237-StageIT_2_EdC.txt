@@ -1,0 +1,56 @@
+﻿Réf :Bcom/2014-011                                                                                               Rennes, le 6 Janvier 2014,
+Objet :                                                                                                          Proposition    de    stage    au    sein    de    l’Institut    de    Recherche
+Technologique    b<>com    dans    la    Direction    Infrastructure    &
+Technologies
+A  propos  de  B-
+com
+L'Institut  de  Recherche  Technologique  (IRT)  b<>com  a  pour  but  de  conduire  un  programme
+d'innovation technologique de dimension mondiale dans le domaine des sciences et technologies
+de  l'information  et  de  la  communication.  Il  s’est  pour  cela  focalisé  sur  3  domaines  stratégiques
+principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle  génération  et  de  leurs
+applications à la santé.
+Intitulé du                                                                                                      Développement  d’une  solution  de  visualisation  intelligente  d’un  Operation
+stage                                                                                                            Center
+Descriptif de la mission :
+Problématique :
+La direction Infrastructure & Technologies  (I&T) b<>com est en charge des moyens techniques et
+des  services  fournis  aux  personnels  et  aux  projets  R&D.  Les  prestations  vont  de  la  bureautique
+(téléphonie,  messagerie,  audio/vidéo  conférence,  outils  collaboratifs)  à  des  plateformes  plus
+spécifiques (calcul intensif, stockage, réseaux, salles techniques).
+Pour maitriser la gestion des capacités, des incidents et des évolutions, I&T s’appuie sur des outils
+de monitoring et de remontée d’alertes, multiples, intégrés ou tiers, propriétaires ou open source.
+Objectifs :
+Afin de simplifier l’accès à l’ensemble des informations de supervision et d’augmenter la réactivité
+face  aux  incidents,  il  est  nécessaire  de  trouver  une  solution  permettant  de  synthétiser  les
+différents indicateurs, de produire des données consolidées et de générer des dashboards « temps
+réel » qui seront affichés sur nos écrans de contrôle et les terminaux mobiles.
+Les  moyens  techniques  à  gérer  étant  fortement  évolutifs,  il  est  également  important  que  la
+solution technique mise en œuvre soit en mesure d’intégrer de nouvelles sources d’indicateurs.
+Etapes principales :
+Répertorier les services déployés dans b<>com, les sources et la nature des indicateurs
+Formaliser les besoins & contraintes d’exploitation au sein de b<>com.
+Identification  des  solutions  techniques  /  framework                                                         (à  base  de  technologies  Web  et  mobiles)
+existants permettant la création de tableaux de bord  consolidés, visuels, évolutifs et permettant
+d’identifier rapidement la source des incidents et les problèmes potentiels à venir.
+Test, évaluation et préconisation de solutions
+Développement / Mise en œuvre des tableaux de bord sur la solution retenue en s’interfaçant avec
+les outils existants, Script de génération de configuration (avec API HTTP)
+Profil recherché :                                                                                               Elève ingénieur dernière année
+Compétences souhaitées :
+    Bonne connaissance des systèmes Linux et Windows Server
+    Bonne connaissance des protocoles TCP, HTTP, SNMP
+    Connaissance des outils de supervision Open Source type Nagios/Icinga
+    Développement Web (HTML, Javascript, Java, Python, PHP, SQL)
+Intérêt pour le                                                                                                  Intégration au sein d’une équipe alliant développement & exploitation
+stagiaire                                                                                                        dans un environnement   R&D IT
+                                                                                                                 Durée :6 mois
+                                                                                                                 Date de démarrage : mars/avril 2014
+Modalités                                                                                                        Localisation : Rennes
+                                                                                                                 Date de fin de dépôt des candidatures :
+                                                                                                                 Candidature à envoyer à : job@b-com.com avec la référence du stage
+b<>com                                                                                                           140106
+
+
+
+
+

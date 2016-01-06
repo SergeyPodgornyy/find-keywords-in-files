@@ -1,0 +1,75 @@
+﻿Stage  - Développement d’un outil  (Java/Flex) d’avant vente de
+solution télécom avec la méthode SCRUM H/F
+Sopra Group
+REFERENCE  :  STAGE/TELCO/RENN/4068105
+POUR POSTULER  :  offre4598157.1536@sopra-group.contactrh.com sous la référence
+STAGE/TELCO/RENN/4068105
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35000, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DUREE  :  de 5 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Sopra Group, acteur majeur du conseil, des services technologiques et de l’édition de logiciels en
+Europe, accompagne ses clients dans la réussite de la transformation de leurs métiers et de leurs
+systèmes d’information. Combinant valeur ajoutée et innovation dans les solutions apportées,
+qualité industrielle et performance des services délivrés, Sopra Group est le partenaire de référence
+des grandes entreprises et organisations qui recherchent le meilleur usage du numérique pour
+assurer leur développement et leur compétitivité. Sa filiale, Sopra Banking Software, est un éditeur
+leader, spécialisé dans les solutions applicatives pour le marché financier. Le Groupe compte plus
+de 15 000 collaborateurs et a réalisé un chiffre d’affaires 2012 de 1 217 millions d’euros. Sopra
+Group (SOP) est coté sur NYSE Euronext Paris (Compartiment B) - Code ISIN: FR0000050809.
+Pour plus d’informations, retrouvez-nous sur www.sopragroup.com.
+Au sein de Sopra Group, vous êtes rattaché(e) à la Division Telecom & Media qui regroupe plus de
+700 collaborateurs et qui intervient au cœur des Systèmes d’Information de ses clients. Son
+expertise métier (OSS, Provisioning, Mediation, Rating/ Billing, Revenue Assurance, CRM,
+Business Intelligence, Broadcasting...) et ses compétences techniques multiples font de Sopra
+Group un acteur majeur dans le domaine des Télécoms et des Médias.
+DESCRIPTION DU POSTE  :
+Mission
+L'agence rennaise de Sopra Group regroupe plus de 350 collaborateurs travaillant sur une
+cinquantaine de projets dans le domaine des télécoms et des médias.
+Au sein du système d’information d’un opérateur Télécom majeur, le projet gère une application
+commerciale B to C lors des phases d’avant-vente et de vente d’offres de réseaux télécoms
+destinées aux entreprises.
+Rattaché(e) au site de Rennes, vous participerez aux différentes phases du cycle de vie du projet en
+appliquant la méthode Scrum :
+- animation du projet par le Scrum Master
+- réalisation des travaux au cours de Sprints
+- échanges réguliers avec le client au cours des journées Agiles
+
+
+
+
+Vous participerez également au suivi opérationnel du projet en appliquant la méthode Kanban :
+- supervision des environnements de production
+- prise en compte d’évolutions mineures
+- correction d’anomalies de production
+Après une formation initiale sur le fonctionnel de l’application, vous contribuerez au
+développement des évolutions applicatives.
+Intérêt du stage
+- pratiquer une méthodologie projet Agile avec Scrum et Kanban
+- appréhender des environnements techniques variés et innovants
+- renforcer les compétences techniques Java/Flex
+- acquérir une première expérience du travail en équipe
+- développer le sens de la communication
+Environnement technologique/fonctionnel
+Intégration Continue, Java JEE (Spring / Hibernate), FLEX (Flex Builder), Oracle.
+Environnement humain
+Intégré(e) directement dans une équipe opérationnelle, vous serez encadré(e) par un Scrum Master
+qui assurera un suivi détaillé de l’activité. L’environnement permet une grande diversité d’activités
+à réaliser ainsi qu’une forte proximité client.
+PROFIL  :
+En dernière année d'école d'ingénieurs ou de Master 2 informatique, vous avez des connaissances en
+programmation objet et bases de données Oracle.
+Vous avez la capacité à acquérir rapidement de nouvelles connaissances techniques et
+fonctionnelles. Vous êtes curieux(se) et avez un bon relationnel, l’esprit de synthèse et d’analyse.
+POUR POSTULER  :  offre4598157.1536@sopra-group.contactrh.com sous la référence
+STAGE/TELCO/RENN/4068105
+
+
+
+
+

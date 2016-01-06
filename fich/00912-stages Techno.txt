@@ -1,0 +1,48 @@
+﻿STAGES R&D
+Avec plus de 90% de son CA à l’international, et plus de 100 millions d’utilisateurs dans le monde,
+Vision Objects est un éditeur de logiciels leader mondial sur le marché des interfaces homme-machine
+basées sur la reconnaissance d’écriture manuscrite.
+Disponible dans plus de 85 langues, ses produits concernent les marchés de la mobilité (saisie de texte,
+prise de notes, …),   de l’éducation (apprentissage de l’écriture, des mathématiques, de la géométrie,
+…) de l’entreprise (prise de notes et traitement de formulaires), et de l’automobile (saisie de texte à
+partir d’une surface tactile, interaction avec GPS).
+Vision Objects est une entreprise d’innovation et de hautes technologies. Le cœur de sa technologie
+MyScript est diffusé sous forme de kit de développement logiciel, de « Cloud service », de composants
+à intégrer ou sous forme d’applications prêtes à l’emploi.
+Le moteur de reconnaissance de Vision Objects se classe régulièrement aux premières places des
+compétitions scientifiques internationales (cf., par exemple, ICDAR).
+Dans le cadre de sa forte croissance, Vision Objects (Nantes, France) est à la recherche de deux
+stagiaires R&D pour son laboratoire Myscriptlabs.
+Stage R&D 1 :
+Au sein de l’équipe R&D, vous aurez en charge LE DEVELOPPEMENT D'UN SYSTEME DE RECONNAISSANCE DE
+CARACTERES CHINOIS
+Vos principales missions sont:
+• développer un module d'extraction de caractéristiques spécifiques aux sinogrammes
+• intégrer une librairie de réseaux de neurones pour effectuer la tache de classification
+• tester et analyser le système sur les bases de caractères Chinois disponibles
+Compétences requises :
+  C/C++
+  bon niveau d’anglais
+Stage R&D 2 :
+Au sein de l’équipe R&D, vous aurez en charge le DEVELOPPEMENT D'UNE LIBRAIRIE DE RESEAUX DE NEURONES
+DE TYPE CONVOLUTIONNEL
+Vos principales missions sont:
+• se familiariser avec la théorie sous-jacente aux réseaux de neurones à convolution
+• implémenter les algorithmes de "propagation" et "backpropagation" pour ce type de réseau de
+neurones
+• expérimenter ces réseaux convolutionnels sur une tache de classification de caractères manuscrits
+• comparer ces réseaux à convolution avec les réseaux de type Perceptron
+Compétences requises :
+  C/C++
+  bon niveau d’anglais
+Stage basé à Nantes, démarrage dès que possible en 2013 ou 2014.Contact : job@visionobjects.com
+3 rue de la rainière - 44339 Nantes cedex 3 - France
+Tel: +33 (0)2 28 01 49 50 - Fax: +33 (0)2 40 25 89 20
+www.visionobjects.com
+SA au Capital de 1 380 560 Euros - 419 963 806 RCS Nantes
+TVA intracommunautaire : FR 43 419 963 806
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿SOPRA STERIA RECRUTE UN/UNE INGÉNIEUR VALIDATION EN ALTERNANCE H/F EN
+APPRENTISSAGE/ALTERNANCE 12 MOIS.
+Date : 01/09/2015
+Référence de l’offre : ATL/RENN/TES/1867-10631228
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Apprentissage/Alternance
+Localisation : Rennes 35000, FR
+Durée du contrat : 12 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+Sopra,  acteur  majeur  du  conseil,  des  services  technologiques  et  de  l'édition  de  solutions  en  Europe,
+accompagne ses clients dans la réussite de la transformation de leurs métiers et systèmes d'information.
+Combinant valeur ajoutée et innovation dans les solutions apportées, qualité industrielle et performance des
+services délivrés, Sopra est le partenaire de référence des grandes entreprises et organisations qui recherchent
+le meilleur usage du numérique pour assurer leur développement et leur compétitivité. Le Groupe compte
+plus de 16 000 collaborateurs et a réalisé un chiffre d'affaires 2013 de 1,349 milliard d'euros.
+Sopra est coté sur NYSE Euronext Paris. Pour plus d'informations, retrouvez-nous sur www.sopra.com
+Description du poste :
+Dans le cadre de son projet de croissance, Sopra Steria recherche pour son Centre de Spécialité partagée
+Testing de Rennes des Ingénieurs Qualification Validation en alternance afin de confirmer sa position de
+leader sur un marché en plein essor (+20% dans les 3 prochaines années)
+Vous interviendrez sur :
+- L'élaboration de la stratégie de tests de différents projets d'évolution sur base des processus Métier et cas
+d'usages modélisés, cahiers des exigences et présentation client.
+- La rédaction des plans de tests sous HP Quality Center ou ALM (objectifs, scénarios, cas, jeux de tests, jeux
+de données logiques),
+- L'exécution des campagnes de tests bout en bout orientées Métier en coordination avec d'autres acteurs du
+test et équipe de support
+- La documentation et suivi, rapports d'avancement, gestion des anomalies, rapports et bilans de tests,
+- La contribution à l'industrialisation du projet, automatisation et modélisation BPMN
+Impliqué(e) dans l'ensemble des phases d'un projet, vous assurez le suivi régulier de vos activités auprès du
+chef de projet.
+Profil recherché :
+Profil recherché
+Vous êtes issus d'une formation à Bac+5 ou équivalent, et cherchez un poste en alternance, pour vous joindre
+à la vie active.
+Vous avez des connaissances sur HP Quality Center ou ALM et Unix et avez la volonté d'apprendre les
+différents métiers du test. L'esprit d'équipe, la méthode et la rigueur, vous permettront de vous intégrer
+rapidement au sein de nos équipes. Vous avez le sens du service et un bon relationnel.
+Environnement technique
+- Environnement UNIX : utilisateur
+- Bases de données SQL : utilisateur
+- UML
+- HP Quality Center ou ALM
+- Outils OpenSource : Testlink, SOAPUI, Selenium,
+
+
+
+
+Pour postuler : http://apply.multiposting.fr/jobs/1536/10631228
+
+
+
+
+

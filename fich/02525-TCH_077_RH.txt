@@ -1,0 +1,86 @@
+﻿Technicolor R&D France                                                                                                                               tél. + 33 (0)2 99 27 30 00
+Proposition de stage 2015
+975 avenue des Champs Blancs                                                                                                                         fax
+Ref: 2015_TCH_077
+CS17616
+35576 CESSON SEVIGNE Cedex
+Depuis plus de 100 ans, Technicolor innove pour servir ses clients de l’industrie du divertissement, du logiciel et des jeux dans le monde entier.
+La société est leader dans la fourniture de services de production, de postproduction et de distribution pour les créateurs et les distributeurs
+de contenu.
+Technicolor est l’un des leaders mondiaux pour le traitement de films; un des plus grands fabricants et distributeurs de DVD (incluant les
+disques Blu-ray) et l’un des principaux fournisseurs dans le domaine des décodeurs et des passerelles résidentielles. La société exerce
+également une activité de propriété intellectuelle et de Licences.
+Pour plus d’informations, rendez-vous sur notre site : www.technicolor.com
+Intitulé  du  stage:  Construction  d’une  base  de  données,  avec  gestion  des  droits  d’accès,  et
+automatisation de reporting
+Sujet détaillé
+Le stagiaire aura pour mission de conduire le projet Ask HR (base documentaire RH) en sécurisant les
+règles de droits d’accès à l’outil, en encadrant / réalisant les phases de tests et en mettant en place
+des processus d’update permettant à l’équipe une utilisation simplifiée de l’outil.
+Il apportera également, dans un second temps, son support IT pour automatiser les reportings
+mensuels, et suivant son profil, la génération des documents RH
+Contexte
+Dans la continuité du déploiement d’HROnline début avril 2015, le service Ressources Humaines
+construit une base documentaire à l’attention des salariés Français nommé Ask HR France. Cet objectif
+est la priorité de ce stage
+Il se donne également, dans un second temps, pour ambition d’automatiser ses processus de reporting
+But
+L’objectif de ces 2 axes de développement est, par ordre de priorité, de :
+-                                                                                                                                                    Mettre à disposition des salariés une base de données fiables, accessible suivant une matrice de
+droits d’accès et sécurisée (Ask HR)
+-                                                                                                                                                    Automatiser les reportings pour éviter les opérations manuelles et réduire les risques d’erreurs
+Description des travaux
+(Priorité) Ask HR : Se positionner en responsable du projet
+o   Etre l’interlocuteur privilégié auprès de l’équipe RH, IT interne, et de la société externe
+proposant l’outil Ask HR
+o   Finaliser et valider la matrice d’accessibilité au référentiel, suivant les profils types des salariés,
+et du périmètre des sociétés Françaises (actuelles et futures)
+o   Valider la base documentaire auprès de l’équipe RH et mettre en place des processus d’update
+simples et sécurisés
+o   Conduire les différentes phases de tests, formation à l’équipe RH, et remise de supports
+fonctionnels de l’outil (guide d’utilisation)
+Apply at: stage.rennes@technicolor.com
+
+
+
+
+Technicolor R&D France                                                                                 tél. + 33 (0)2 99 27 30 00
+Proposition de stage 2015
+975 avenue des Champs Blancs                                                                           fax
+Ref: 2015_TCH_077
+CS17616
+35576 CESSON SEVIGNE Cedex
+Automatisation des reportings / Documents RH :
+o   Déterminer, à partir des reporting actuels et/ou attendus, les données sources à extraire de la
+base de données paie, leur fréquence et moyens d’extraction
+o   Définir des processus automatisés de construction des reportings à partir de ces données, en
+tenant compte des spécificités de chaque société Française
+o   Conduire les différentes phases de tests, formation à l’équipe RH, et remise de supports
+fonctionnels de l’outil
+o   Suivant son profil, le stagiaire, pourra également apporter tout support à la construction d’une
+automatisation des documents RH (contrat de travail, avenant….) à partir des bases de données
+Mots clés
+Base de données
+Droits d’accès
+Sécurisation
+Automatisation
+Environnement de travail
+Ces développements doivent s’inscrire dans le contexte d’un groupe Technicolor en constante
+évolution de ses activités et d’acquisition de sociétés externes.
+Le stagiaire sera basé sur le site de Rennes, et sera intégré à l’équipe RH Française en place (20
+personnes, pour moitié basée à Rennes et pour moitié à Issy les Moulineaux)
+Profil du stagiaire / Compétences requises
+-                                                                                                      Formation Bac+3 à bac+5 en Informatique de Gestion (MIAGE ou autre)
+-                                                                                                      Fonctions Excel avancées (macros….) - bureautique
+-                                                                                                      Capacité à travailler de façon autonome tout en étant en constante relation avec les
+équipes RH et IT en place
+-                                                                                                      Anglais courant
+Durée et période du stage
+-                                                                                                      A partir de juin 2015, pour une durée de 3 mois minimum, ajustable jusqu’à 6 mois suivant les
+dispositions de la convention de stage
+Apply at: stage.rennes@technicolor.com
+
+
+
+
+

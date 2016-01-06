@@ -1,0 +1,45 @@
+﻿Réf  :Bcom/2014­xxx                                                                                                                                    Rennes,  le  8  Octobre  2014,
+ bje                                                                                                                                                   Proposition  de  stage  au  sein  de  l’Institut  de  Recherche  Technologique  b<>com  dans  le  domaine  du
+Cloud  Computing
+A   propos   de   B­
+com
+L'Institut  de  Recherche  Technologique   (IRT)  b<>com  a  pour  but  de  conduire  un  programme  d'innovation  technologique  de
+dimension  mondiale  dans  le  domaine  des  sciences  et  technologies  de  l'information  et  de  la  communication.  Il  s’est  pour  cela
+focalisé  sur  3  domaines  stratégiques  principaux  traitant  des  images  du  futur,  des  réseaux  de  nouvelle  génération  et  de  leurs
+applications  à  la  santé.
+ ntitulé  du  stage                                                                                                                                    Mise  en  œuvre  d’une  solution  de  monitoring  dans  un  cloud  distribué
+ escriptif  de  la  mission
+Le  projet  Indeed  a  pour  objectif  de  construire  et  manager  une  plateforme  de  cloud  distribué,  économe  en  énergie,  basée  sur  la
+technologie  OpenStack.
+Les  travaux  en  cours  visent  à  construire  un  outil  de  management  de  ce  cloud  en  mettant  l’accent  sur  l’efficacité  énergétique,  en
+travaillant  notamment  sur  l’optimisation  du  placement  des  ressources  de  virtualisation.
+Au  sein  du  laboratoire  Cloud  Computing  de  b<>com,  le  stagiaire  intégrera  l’équipe  de  déploiement  de  cette  architecture  distribuée.
+Il  aura  pour  mission
+   de  contribuer  à  la  mise  en  œuvre  d’un  cloud  distribué  basé  sur  OpenStack  ;
+   d’implémenter  les  solutions  retenues  en  prenant  en  charge  le  développement  et  l’intégration  du  module  de  monitoring  de
+la  plateforme.
+ rofil  recherché                                                                                                                                      Bac+5  (école  d’ingénieur,  Master  Recherche  ou  Professionnel),
+Spécialité  Informatique/Génie  Logiciel
+Compétences  souhaitées  :
+   Bonne  connaissance  des  outils  &  techniques  de  virtualisation  et  de  la  pile  logicielle  OpenStack
+   Bases  de  données  NoSQL  &  MySQL
+   Principes  d’architecture  distribuée
+   Langages  :  Python,  JavaScript
+   Une  connaissance  de  Docker  serait  un  plus
+   Sensibilité  avérée  aux  principes  d’efficacité  énergétique
+Intérêt  pour  le  stagiaire                                                                                                                              Réelle  intégration  au  sein  d’une  équipe  pluridisciplinaire  :  architectes,  développeurs,  chercheurs
+                                                                                                                                                          Secteur  de  la  recherche  et  de  l’innovation
+   Un  enjeu  industriel  fort  :  une  mission  liée  au  développement  d’un  produit  commercial  innovant
+   Un  environnement  de  travail  de  grande  qualité
+Modalités                                                                                                                                              Durée  :  6  mois
+Date  de  démarrage  :  Février/Mars  2015
+Localisation  :  Cesson­Sévigné  (Rennes)
+Date  de  fin  de  dépôt  des  candidatures  :  15/11/2014
+Candidature  à  envoyer  à  :  job@b­com.com  avec  la  référence  du  stage
+b<>com
+140106
+
+
+
+
+

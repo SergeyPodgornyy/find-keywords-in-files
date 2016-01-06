@@ -1,0 +1,39 @@
+﻿Date : 20/11/2013
+SPIE Ouest Centre
+Département Process PSR
+1 Rue Gros Guillaume                                                                                         Proposition de stage
+BP 95130
+35651 LE RHEU Cedex
+Serveur Web
+Outils utilisés : Visual Studio, Oracle, Crystal Report, DevExpress
+Technologies : ASP.NET, JQuery, JSon
+Langages : C#, JavaScript, Html
+Sujet : refonte d’un site web
+L’objectif du stage est de rafraichir et d’améliorer un site web intranet utilisé par nos clients pour
+consulter la traçabilité de leur installation. Le site est développé sous Visual Studio en ASP.NET via C#.
+Première étape : améliorer l’interface utilisateur en intégrant la bibliothèque DevExpress et
+éventuellement JQuery.
+Deuxième étape : intégrer dans le site web une application Windows existante qui permet d’exécuter des
+requêtes SQL préconfigurées et de les afficher sous forme de tableaux et de graphiques.
+Troisième étape : mise en place d’écrans dédiés aux administrateurs pour configurer le site web.
+Contexte : Travail dans un bureau d’étude en informatique et automatisme industriel  de 15 personnes.
+Tâches demandées :
+o  Analyse des besoins en collaboration avec le responsable du stage
+o  Etude du fonctionnement de l’outil existant
+o  Recherche sur les technologies existantes : JQuery, DevExpress
+o  Proposition d’une solution
+o  Programmation de la solution retenue
+o                                                                                                            Tests
+Durée : 6 mois
+Contact :
+Aurélie Certenais - Service RH
+Par email : aurelie.certenais@spie.com
+Par téléphone : 02 99 04 88 12
+Gaël Le Guerroué - Chef de Projet
+Par email : g.leguerroue@spie.com
+Par téléphone : 02 99 04 91 30
+
+
+
+
+

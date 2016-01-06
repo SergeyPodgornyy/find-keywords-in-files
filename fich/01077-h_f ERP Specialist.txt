@@ -1,0 +1,50 @@
+﻿h/f  ERP  Specialist
+IES
+REFERENCE  :  EA3479MULT
+POUR  POSTULER  :  offre5469845.1536@iesconsult.contactrh.com sous la référence
+EA3479MULT
+TYPE  DE  CONTRAT  :  Stage
+LOCALISATION  :  berlin 08018, Allemagne
+NIVEAU  D'ETUDES  :  Bac +4
+ANNEES  D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Opérateur / Infogérance / Hébergeur / FAI)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Agence de placement internationale, nous garantissons des stages rémunérés et alternance dans des
+PME-PMI, des multinationales, des Start-up ou des chaines hôtelières de luxe, en Espagne, en
+Allemagne, au Mexique et en France. IES Consulting compte aujourd'hui avec la collaboration de
+plus de 1500 entreprises et chaines hôtelières, plus de 500 centres éducatifs et plus de 1200
+processus de recrutement réussis par an, nous positionnant comme tiers de confiance pour assurer à
+chacune des parties la réussite de leur projet commun.
+DESCRIPTION  DU  POSTE  :
+Our partner company is a successful Publisher in Germany and it is located in the city center of
+Berlin. They offer exciting internship positions, i.e. in the field of IT, for independent, active and
+creative people. This dynamically and rapidly growing publishing company provides interns with
+an insight into all relevant working and daily processes during the work experience.
+The company give you the posibility to be a part of the development team of the new enterprise
+software (ERP) in different parts like: - the own conceptioning and development tasks within the
+project, to build an architecture which perfectly reflects their internal company data and operations
+(such as customer addresses, product management, inventory, accounting, etc.) - Participation in the
+conceptual design of their new enterprise software (ERP) within the network-based open-source
+system OpenERP - Transfer (migration) of all old ERP data and processes to the new software
+environment - Development of interfaces between the new software and the webshop of the
+company
+Berlin
+500 euros/month
+Depending on the case, the company is offering some extra to help the candidate paying the rent
+PROFIL  :
+Have a good overview about ERP systems ( ABAP, SAP, possibly OpenERP ) and some previous
+experience with PHP, SQL, MySQL, Java, Javascript, HTML, CSS; optionally with XML / Phyton.
+
+
+
+
+POUR  POSTULER  :  offre5469845.1536@iesconsult.contactrh.com sous la référence
+EA3479MULT
+
+
+
+
+

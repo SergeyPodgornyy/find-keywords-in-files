@@ -1,0 +1,40 @@
+﻿ELIS SERVICES RECRUTE UN/UNE DÉVELOPPEUR MES - H/F EN STAGE 6 MOIS.
+Date : 10/06/2015
+Référence de l’offre : MES-9994707
+Domaine d’activité : Systèmes d'informations / télécom (Système / Réseaux / Base de Données)
+Type de contrat : Stage
+Localisation : Puteaux 92800, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +3
+Années d’expérience :
+Description de l’entreprise :
+ELIS, Groupe industriel de services leader sur son marché en Europe et au Brésil (+ d'1,3 Milliard d'€ de CA,
+257 centres de production et de services, 18 500 personnes, 290 000 clients), est spécialisé dans la location
+entretien de vêtements professionnels, d'articles textiles et d'équipements en hygiène et bien être.
+Présent en France, au Brésil et dans 9 autres pays européens, Elis est en constante croissance depuis 40 ans,
+aussi bien en France qu'à l'étranger.
+Description du poste :
+Sous la responsabilité d'un Responsable Applicatif, vous participerez à l'évolution et à la maintenance des
+applications  MES:  Assurer  la  maintenance  corrective  des  applications  MES,  support/assistance  aux
+utilisateurs des applications MES, réalisation des tâches de paramétrage, analyser/rédiger les spécifications,
+participer au développement/tests unitaires des évolutions et projets validés par les instances de pilotage,
+contribuer à la rédaction des scenarii de test.
+Profil recherché :
+* Formation Bac +3/4/5
+* Compétences techniques :
+- SQL (SP / Fonctions / Query / modèle relationnel DB)
+- JavaScript, C#, XML,
+- Approche globale des applications Web et contraintes associées
+- Notions Ajax, ASP.NET et IIS
+* Bonnes qualités relationnelles, aisance de communication, réactivité, capacité d'analyse, autonomie et
+capacité à être force de proposition
+* Rigoureux(se) et organisé(e), vous respectez vos délais et la qualité des livrables
+* Un anglais correct est demandé
+Le poste est basé à Puteaux (92).
+Des déplacements sont à prévoir ponctuellement sur des sites en région parisienne et au Portugal.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9994707
+
+
+
+
+

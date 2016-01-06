@@ -1,0 +1,56 @@
+﻿CAPGEMINI RECRUTE UN/UNE STAGE CONSULTANT SI DÉV LOGICIEL EN STAGE 6 MOIS.
+Date : 22/01/2015
+Référence de l’offre : BGI-stageCLT-SI-8666763
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Sophia Antipolis 06000, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                               Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                              2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Intégré(e) à une équipe interne vous intervenez sur les différentes parties de l'application. Vous avez en
+charge :
+* l'analyse d'impacts, proposition de solutions, estimation des charges;
+* les spécifications détaillées et mise en œuvre des exigences ;
+* la conception technique en relation avec l'architecte du projet ;
+* le développement sur une plateforme d'intégration continue ;
+* Rédaction et exécution des plans de tests ;
+* Packaging pour livraison
+L'environnement technique est le suivant :
+* PowerBuilder 12.5, Tomcat, J2EE, PL/SQL
+* Framework : Hibernate, Maven, Junits, Jenkins
+* Bases de données : Oracle 11g
+Cette mission vous offre l'opportunité de :
+* gagner en autonomie et proposer des solutions innovantes,
+* travaillerez dans un environnement technique et fonctionnel de haut niveau basé sur des engagements forts.
+* vous former aux méthodologies projet de Capgemini et expérimenter concrètement le métier de consultant
+dans une grande SSII
+Profil recherché :
+Au sein du Centre de Service de l'agence Capgemini de Sophia Antipolis, vous intégrez une équipe
+distribuée, encadrée par un chef de projet. Nous maintenons des applications de gestion de données (Import /
+Export).
+Au sein de ce projet, vous évoluez sur un environnement technique et fonctionnel très varié qui vous offre
+une mission très challengeante.
+Vous préparez un diplôme Bac+5 avec une spécialisation en Informatique et vous :
+* avez une première connaissance des technologies de développement J2ee (HTML, CSS, Java,…),C. La
+connaissance  de  bases  de  données                                                                           (Oracle                                                                                                        …),  ainsi  qu'une  bonne  connaissance  de  design  d'écrans
+PowerBuilder et/ou du domaine des satellites seraient un plus,
+* êtes autonome, avez le sens du relationnel et le goût du travail en équipe,
+* maîtrisez l'anglais (présentations écrites et orales).
+Capgemini est signataire de la charte de la diversité en entreprise.
+
+
+
+
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8666763
+
+
+
+
+

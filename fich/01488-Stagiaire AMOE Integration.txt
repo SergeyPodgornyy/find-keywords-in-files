@@ -1,0 +1,38 @@
+﻿REXEL DÉVELOPPEMENT SAS RECRUTE UN/UNE STAGIAIRE AMOE INTEGRATION EN STAGE 6
+MOIS.
+Date : 01/09/2014
+Référence de l’offre : STAGAMOE-7201335
+Domaine d’activité : Internet - E-commerce (Référencement / Traffic Management)
+Type de contrat : Stage
+Localisation : PARIS 75017, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Rejoignez le Groupe Rexel, Distributeur de matériel électrique au service des professionnels, présent dans 38
+pays, avec un effectif de 30 000 collaborateurs environ et plus de 2 300 agences. Le Groupe Rexel occupe une
+position de tout premier plan mondial sur ses trois principaux marchés : l'industriel, le tertiaire et le résidentiel.
+Le Groupe a réalisé en 2013 un chiffre d'affaires de 13 milliards d'euros et REXEL, la société mère du Groupe,
+est cotée sur le marché Euronext paris et intégré dans les indices NEXT 150, SBF 120 et CAC Mid 100.
+Description du poste :
+Missions  :  Au  sein  du  centre  de  compétence  architecture  du  Groupe  Rexel  et  sous  la  responsabilité  du
+responsable de l'intégration de Rexel Groupe, dans le cadre d'un projet de déploiement d'une solution monde
+d'e-commerce vous êtes en charge de :
+Ecrire des spécifications détaillées de flux pour des projets avec les différentes filiales dans le monde.
+Assurer le suivi des projets avec l'équipe de développement offshore.
+Assurer la coordination et le suivi du support en inde.
+Être garant de la qualité du delivery de l'équipe offshore.
+Améliorer la partie supervision des flux en toute autonomie.
+Améliorer le processus de delivery en toute autonomie.
+Environnement technologique : Windows, TIBCO, MSSQL, Bootstrap, Webservices, AS400
+Profil recherché :
+Stage final d'école d'informatique ou d'ingénieur / Nouvelle technologies,
+Bonne connaissance en développement avec un fort intérêt pour les nouvelles technologies, curieux, dynamique
+et rigoureux. Un premier stage ou une expérience de développement à but personnel fortement appréciés. Anglais
+courant impératif. Déplacement envisageable.
+Pour postuler : http://rexel.contactrh.com/jobs/1536/7201335
+
+
+
+
+

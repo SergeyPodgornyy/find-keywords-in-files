@@ -1,0 +1,53 @@
+﻿                                                                                                                                Proposition de Stage                                                  18/10/13
+                                                                                                          Intitulé du stage :   Logiciel de visu3D d’une scène sous-marine- réf. FORFAITS IST-14-03
+Durée :                                                                                                   6 mois                Date de début :  Février 2014                                         Réponse souhaitée avant le :  Au plus tôt
+Lieu :  Alyotech Technologies - Agence de Rennes
+Contenu technique :
+ALYOTECH  Ouest  recrute  chaque  année  une  dizaine  de  stagiaires.  Ce  stage  sera  pour  vous
+l’occasion  d’être  immergé  au  quotidien  dans  des  équipes  projets  avec  une  réelle  opportunité
+d’embauche à la clé.
+Dans  le  cadre  de  son  activité  R&D  dans  le  domaine  de  la  génération  de  scènes,  ALYOTECH
+Technologies souhaite étendre les capacités actuelles de son simulateur de scènes marines.
+(Modèle de mer Mercuda. Démo ici : http://www.youtube.com/watch?v=BR5iTYzrFpk )
+
+
+
+
+Proposition de Stage                                                                                     18/10/13
+L’objectif de ce stage consiste à améliorer les interactions entre la surface de la mer et les objets
+présents à la surface.
+Ces interactions sont de deux types :
+Action d’un objet sur la surface de mer, par exemple le sillage d’un bateau
+Action de la surface de mer sur un objet, par exemple la flottaison d’un bateau
+Le stage se déroulera en plusieurs phases :
+Compréhension fonctionnelle des phénomènes physiques modélisés
+Montée en compétence sur OpenSceneGraph et OpenGL
+Etude du système de rendu existant
+Amélioration des interactions existantes
+Ajout de nouvelles interactions
+Un document décrivant les travaux réalisés et présentant un synthèse des résultats obtenus sera
+rédigé.
+Ce stage sera l’occasion de découvrir et d’appliquer le cycle industriel de développement en intégrant
+une équipe motivée et dynamique.
+
+
+
+
+Proposition de Stage                                                                               18/10/13
+Profil recherché :
+Niveau de formation du stagiaire :
+Bac + 5 (Ecole d’ingénieurs, Master Informatique, Master pro)
+Compétences techniques requises :
+C++,   OpenGL, CUDA, Geometry shader, Tesselation shader, shadow mapping
+Compétences techniques appréciées :
+OpenSceneGraph, Qt
+Compétences du candidat :
+Vous êtes moteur, curieux et autonome
+Personne à contacter :   Sylvie HUREL (merci d’envoyer vos candidatures par mail en précisant la
+référence de ce stage)
+Téléphone :                                                                                        02.23.21.11.11   Email :  sylvie.hurel@alyotech.fr
+
+
+
+
+

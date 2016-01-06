@@ -1,0 +1,45 @@
+﻿SIDETRADE RECRUTE UN/UNE STAGE BIG DATA / DATA SCIENCE EN STAGE 6 MOIS.
+Date : 12/03/2015
+Référence de l’offre : BIG DATA-9098336
+Domaine d’activité : Etudes - Recherche (Ingénieur R & D/Chercheur)
+Type de contrat : Stage
+Localisation : Boulogne Billancourt 92100, FR
+Durée du contrat : 6 mois
+Niveau d’études : Bac +4
+Années d’expérience :
+Description de l’entreprise :
+Sidetrade offre aux entreprises de digitaliser la gestion de la relation financière client. Ses solutions, leaders
+sur le marché, complémentaires à l'ERP, visent à sécuriser le principal actif de l'entreprise-le poste client- par
+la baisse des retards de paiement et la maîtrise du risque.
+Avec des clients dans 65 pays, le groupe permet à plus de 80,000 utilisateurs d'entreprises de toute taille dans
+toutes les industries de collaborer à travers son Cloud et d'accélérer la génération de cash-flow.
+Société cotée à Paris, également présente à Londres, Dublin et Amsterdam, Sidetrade couvre tous les métiers
+d'un éditeur de logiciel en mode SaaS dédié aux services financiers.
+Notre service R composé d'une trentaine d'ingénieurs hautement qualifiés crée actuellement la prochaine
+génération de CRM financier qui permettra à nos clients de générer du cash et de gérer intelligemment leur
+Besoin en Fonds de Roulement , grâce à :
+- 2 Data Centers
+- Plus de 200 serveurs
+- 3 téraoctets de données en production
+Notre équipe Data Science construit les produits innovants de demain fondée sur des modèles prédictifs sur
+la base de centaines de millions d'euros d'expériences de paiements.
+Description du poste :
+Vous  travaillerez  sur  des  algorithmes  de  normalisation  et  de  rapprochement  d'adresses.  Votre  stage
+comportera une grande composante fonctionnelle qu'il faudra vous approprier en plus de vos connaissances
+en statistique et informatique.
+- Analyser et formaliser le besoin
+- Assurer une veille approfondie sur le sujet
+- Construire des algorithmes d'identification utilisant des notions de distance
+- Industrialiser votre travail
+Profil recherché :
+Etudiant en Bac+4 ou Bac+5 en informatique ou statistique ou recherche opérationnelle
+Vous maîtrisez les bases de données relationnelles et les langages SQL et C#  (ou java), ainsi que les
+algorithmes et structures de données standart.
+Dans l'idéal vous avez une connaissance de Python, R ou SAS et des méthodes statistiques (en particulier en
+text mining)
+Pour postuler : http://apply.multiposting.fr/jobs/1536/9098336
+
+
+
+
+

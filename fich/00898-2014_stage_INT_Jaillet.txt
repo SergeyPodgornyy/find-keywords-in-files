@@ -1,0 +1,46 @@
+﻿Titre  du  stage:  Développement  de  modules  Python  de  conversion  de  données
+électrophysiologiques
+Durée : 2 à 3 mois
+Niveau : avant-dernière année d'école d'ingénieur
+Dates envisagées : début du stage avant juillet 2014
+Encadrant : Florent Jaillet (ingénieur en traitement du signal et développement logiciel)
+Descriptif :
+Afin de garantir la pérennité des données acquises en son sein tout en favorisant le partage
+de données et le développement d'outils communs d'analyse, l'Institut de neurosciences
+de la Timone  souhaite  se doter d'un ensemble  d'outils  logiciels  pour la  conversion  de
+données électrophysiologiques.
+Ces outils permettront de lire les formats de fichiers utilisés sur les postes expérimentaux de
+l'Institut en électrophysiologie extracellulaire et en électroencéphalographie  (EEG). Il
+permettront  également  de  convertir  ces  données  en  fichiers   MATLAB   et  HDF5
+(http://www.hdfgroup.org/HDF5) afin de faciliter l'échange de données entre outils d'analyse.
+Les développements se feront sous la forme de modules d'entrée/sortie pour le projet Neo
+(http://neuralensemble.org/neo) et seront développés en Python et distribués sous licence
+libre, garantissant ainsi leur pérennité.
+Les étapes de réalisation du projet seront les suivantes :
+- En interaction avec les chercheurs utilisant les divers postes expérimentaux, création
+d'un  jeu  de  fichiers  de  test  dans  les  formats  à  convertir. Cette  étape  sera  notamment
+l'occasion   pour   la/le   stagiaire   de   découvrir   les   méthodes   d'expérimentation   en
+neurosciences.
+- Développement et documentation des modules d'entrée/sortie en s'appuyant sur les
+modules déjà existant mais ne proposant qu'un support partiel des formats à convertir.
+- Test et validation des modules développés en s'appuyant sur le jeu de signaux de test.
+Compétences requises:
+- Génie logiciel (en particulier algorithmique, développement, test)
+- Connaissance du langage Python
+Contexte: L'Institut de Neurosciences de la Timone  (INT, http://www.int.univ-amu.fr) est
+une  unité  mixte  de  recherche  qui  a  pour  objectif  de  développer  des  recherches
+interdisciplinaires en neuroscience. Situé sur le Campus de la Faculté de Médecine d'Aix
+Marseille Université, il est doté de plateformes technologiques de haut niveau au service
+d'équipes de recherche en neurosciences théoriques et expérimentales.
+Gratification : ce stage donnera lieu à une gratification au niveau du standard légal.
+Envoyer CV + lettre de motivation à Florent Jaillet (florent.jaillet@univ-amu.fr)
+I N  S  T  I  T  U  T   D  E   N E  U  R  O  S  C  I  E  N  C  E  S   D  E   L  A   T I  M  O  N  E
+C a m p u s   S a n t é   T i m o n e
+27 ,   b o u l e v a r d   J e a n   M o u l i n
+13385   M a r s e i l l e   C e d e x                                                                 5
+w w w . i n t . u n i v - a m u . f r
+
+
+
+
+

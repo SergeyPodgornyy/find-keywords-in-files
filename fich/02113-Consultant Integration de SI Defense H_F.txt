@@ -1,0 +1,57 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT INTÉGRATION DE SI DÉFENSE H/F EN STAGE
+DE 4 À 6 MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-AD-3439-8373228
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Rennes 35000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                               2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Depuis plusieurs années, Capgemini accompagne ses clients du secteur
+de la Défense, dans la définition et la mise en oeuvre de leurs systèmes d'information, qu'ils s'agissent des
+Systèmes  d'Information  Opérationnels  et  de  Communication                                                   (SIOC),  utilisés  en  milieu  militaire  et
+notamment en opérations extérieures ou des Systèmes d'Administration et de Gestion  (SIAG) de leurs
+activités.
+"Intégré(e) à une équipe projet et sous la responsabilité d'un chef de projet, vous :
+* prenez part aux travaux de conception, au choix et à l'analyse des systèmes et logiciels à intégrer,
+* avez en charge le paramétrage et le déploiement de logiciels comme par exemple des anti-virus, une
+messagerie, un annuaire, une solution de gestion des identités, un système de gestion de clés,etc...
+Environnements technologiques :
+* Socles : Windows, Linux, OpenVZ, VMWare
+* Bases de données : SQL Server, PostGreSQL
+* Annuaires : Active Directory, Ilex Meibo
+* Identité : Ilex Sign
+* Web : Joomla, Sharepoint, Alfresco, JBoss, Liferay
+* Messagerie : Exchange, Postfix, Jabber, Lync
+* Développements : C#, Java, Powershell, Bash"
+Profil recherché :
+De formation Bac +5 en informatique, vous :
+*  avez  déjà  une  connaissance  des  environnements  techniques  Système,  Web,  Bases  de  Données,
+Messageries, Annuaires, langages objet,
+* êtes intéressé(e) par les problématiques système, virtualisation, réseau et sécurité,
+* avez une bonne capacité d'analyse et de synthèse,
+* avez un esprit d'initiative et êtes autonome,
+* appréciez le travail en équipe.
+Ce stage vous permet de :
+* travailler sur des projets réalisés dans un environnement de travail très industrialisé,
+* gérer des exigences, tests, configuration, automatisation des tests et intégration continue,
+* acquérir la rigueur méthodologique d'une grande SSII en bénéficiant d'une formation adaptée aux métiers.
+Il s'agit d'un stage de pré-embauche.
+
+
+
+
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8373228
+
+
+
+
+

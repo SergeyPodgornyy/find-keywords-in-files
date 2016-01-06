@@ -1,0 +1,41 @@
+﻿SAFRAN ENGINEERING SERVICES RECRUTE UN/UNE STAGE RÉALISATION D'UN ÉDITEUR
+GRAPHIQ EN STAGE DE 5 À 6 MOIS.
+Date : 01/02/2015
+Référence de l’offre : AFC/MG/Stggraph-7988389
+Domaine d’activité : Systèmes d'informations / télécom (Analyste Programmeur)
+Type de contrat : Stage
+Localisation : Villaroche 78180, FR
+Durée du contrat : De 5 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience : 6 mois - 1 an
+Description de l’entreprise :
+Safran Engineering Services, société du groupe Safran et filiale de Labinal Power Systems, offre des
+solutions en ingénierie en haute technologie dans les domaines de l'aéronautique, l'énergie et du transport
+terrestre.  Avec  ses                                                                                           3800  ingénieurs  et  techniciens,  la  société  Safran  Engineering  Services  dispose  de
+plusieurs entités opérationnelles réparties dans le monde                                                       (France, Allemagne, Royaume-Uni, Espagne,
+Etats-Unis,  Mexique,  Maroc,  Canada,  Brésil  et  Inde)  combinant  l'expertise  en  matière  de  systèmes
+électriques, d'aérostructures, de systèmes mécaniques et de logiciels et systèmes électroniques embarqués.
+Description du poste :
+Vous aurez pour mission la conception et réalisation, à partir d'une expression de besoin faite par un expert
+du domaine, d'un éditeur graphique d'Interfaces Homme Machines.
+L'éditeur s'appuiera sur une bibliothèque graphique MVC java et générera le modèle de vue. Il permettra de
+positionner et de configurer les éléments standards et étendus de la bibliothèque graphique.
+Les développements seront faits en java.
+La définition de la bibliothèque en terme fonctionnel est une donnée d'entrée.
+Vous pourrez être force de proposition pour compléter et/ou préciser l'expression de besoin.
+Vous aborderez en plus des thèmes liés à l'environnement du travail et au travail en équipe :
+- l'architecture Model/View/Controller, un design pattern très efficace mais rarement utilisé correctement
+- les contraintes imposées au développement de composants réutilisables
+- le développement d'éditeurs graphiques
+- la problématique du WYSIWYG opposé aux performances d'une part et à la généricité d'autre part
+ENVIRONNEMENT : Java J2EE (Jdk 1.6), Eclipse, Plugin UML Omondo, SVN, Serveur Tomcat, XML
+Profil recherché :
+Vous êtes à la recherche d'un stage de fin d'études BAC  +  5, vous possédez de bonnes notions de
+programmation objet et des notions de bases en programmation d'environnement graphique fenêtré. Une
+connaissance de Java et Eclipse serait un plus.
+Pour postuler : http://safranecol.contactrh.com/jobs/1536/7988389
+
+
+
+
+

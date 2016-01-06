@@ -1,0 +1,46 @@
+﻿AJSTAGE  RECRUTE  UN/UNE  DÉV  WEB  ­SYMFONY  2  ­  BUREAUX  À  PARTAGER
+EN  STAGE  DE  5  À  6  MOIS.
+Date  :  01/04/2014
+Référence  de  l’offre    :  dwsbp­5847610
+Domaine  d’activité    :  Systèmes  d&#39;informations  /  télécom  (Ingénieur  Etudes  /
+Développement)
+Type  de  contrat    :  Stage
+Localisation    :  PARIS  75000,  FR
+Durée  du  contrat    :  De  5  à  6  mois
+Niveau  d’études    :  None
+Années  d’expérience    :  6  mois  ­  1  an
+Description  de  l’entreprise    :
+AJstage  propose  aux  étudiants  des  offres  de  stages,  apprentissages,  VIE  et  premiers
+emplois.
+AJstage  recherche  régulièrement  tout  type  de  profil  pour  le  compte  de  ses  entreprises
+clientes  sur  www.ajstage.com.
+Description  du  poste    :
+Bureaux  à  Partager  est  le  Airbnb  du  bureau  en  France.
+La  plateforme  met  en  relation  des  entreprises  qui  ont  des  espaces  disponibles  "en  trop"
+avec  des  enterprises  qui  cherchent  des  bureaux.
+A  travers  le  développement  du  coworking  dans  les  entreprises,  BAP  espère  créer  des
+synergies  vertueuses  entre  les  entreprises.
+Bureaux  à  Partager  est  le  Airbnb  du  bureau  en  France.
+La  plateforme  met  en  relation  des  entreprises  qui  ont  des  espaces  disponibles  "en  trop"
+avec  des  enterprises  qui  cherchent  des  bureaux.
+A  travers  le  développement  du  coworking  dans  les  entreprises,  BAP  espère  créer  des
+synergies  vertueuses  entre  les  entreprises.
+MERCI  DE  POSTULER  VIA  :
+http://www.ajstage.com/offre/Developpement­web­Symfony­2­chez­Bureaux­a­Partager
+Profil  recherché    :
+PHP5,  SQL,  html,  css,  jQuery
+Symfony  1.4  /  2
+
+
+
+
+git,  ssh,  linux,  jenkins
+Adobe  CS5
+HTML5  et  CSS3.
+De  formation  supérieure  en  informatique  ou  en  multimédia
+Pour  postuler    :  http://ajstage.contactrh.com/jobs/1536/5847610
+
+
+
+
+

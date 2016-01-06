@@ -1,0 +1,83 @@
+﻿OFFRE DE STAGE 2014 - 2015
+INGENIEURS SECURITE                                                                                                  ref : Capgemini-Services-35CSD - SEC4
+Intitulé du stage
+Sécurisation des architectures d’entreprise et sécurité de bout-en-bout : Etude, Etat de l’art et
+Implémentation
+Contexte du stage
+La conception d’une architecture cohérente est une étape angulaire de la mise en place d’un système
+d’information et sa sécurisation ne l’est pas moins.
+Par ailleurs, la sécurité des composants SI et des échanges entre ces différents composants avec des
+actifs externes  doit donc  être assurée.  En  effet, les  besoins de sécurité  exigés par les  nouvelles
+architectures logicielles  (SOA, WOA, Mobile, etc.) sont nombreux et s’articulent autour de plusieurs
+critères à l’image de l’intégrité, la confidentialité, la disponibilité, l’authenticité, etc.
+En  outre,  du  fait  de  la  complexité  des  architectures  logicielles,  la  mise  en  place  de  solutions  de
+sécurisation des architectures peuvent s’avérer coûteuses (en termes de conception et d’intégration)
+et peuvent avoir des résultantes néfastes sur les performances globales du système d’information si
+leur mise en place n’est pas maitrisée de bout-en-bout.
+Descriptif de la mission
+Au sein d’une équipe Capgemini spécialisée en sécurité des systèmes d’informations, et dans le cadre
+du développement de l’offre et des compétences en « Architecture de Sécurité », le stagiaire aura
+pour mission l’étude des différents aspects de l’architecture Sécurité de l’entreprise, de la modélisation
+dans le cadre des architectures logicielles (SOA, WOA, Mobile, N-TIER, etc.), de la modélisation de
+leur sécurisation puis l’implémentation par défaut des différents services de sécurité en utilisant les
+frameworks de développements (Spring, Apache, etc.) au sein de ces différents styles d’architecture.
+Le stagiaire aura pour principale mission d’enrichir l’offre sécurité des architectures en suivant les
+étapes ci-dessous :
+1.   Etape1 : Etude des aspects d’Architecture Sécurité Entreprise
+-                                                                                                                    Architecture Sécurité d’Entreprise : Etat de l’art général
+-                                                                                                                    Modélisation de l’architecture d’entreprise de sécurité suivant des méthodologies éprouvées :
+o   Etude de SABSA
+o   Etude de JERICHO (IAF)
+-                                                                                                                    Etablissement de Design Pattern de sécurisation des architectures.
+                                                                                                                     2.   Etape2 : Etude et montée en compétences autour des architectures logicielles
+-                                                                                                                    Montée en compétences sur les architectures orientées services et orientées web : SOA et
+WOA
+-                                                                                                                    Montée en compétences sur les architectures Mobiles : Hybrides, Web et Natives
+-                                                                                                                    Définition des caractéristiques des architectures logicielles en termes de sécurité selon les
+                                                                                                                     paramètres suivants : Systèmes distribués, Architectures N-TIERS, Empilement des couches,
+etc.
+-                                                                                                                    Modélisation dans le cadre de l’utilisation de SABSA et JERICHO.
+                                                                                                                     3.   Etape3 : Etude des problématiques de sécurisation des architectures logicielles
+-                                                                                                                    Sécurisation « Point à Point » vs « Bout en bout »
+-                                                                                                                    Persistance : Assurer la sécurité en dehors des transits et audit de sécurité
+-                                                                                                                    Sécurité multi-niveaux : gestion des droits utilisateurs
+-                                                                                                                    Analyse de risque sécurité sur les environnements
+
+
+
+
+4.   Etape3 : Etude des frameworks de sécurisation des architectures logicielles et proposition
+de POC :
+-                                                                                                            Etude des différents patterns d’architecture de sécurité au niveau des couches logiciels.
+-                                                                                                            Etude des frameworks de sécurité logicielles.
+-                                                                                                            Mise en place de PoCs
+5.   Etape4 : Rapport de stage
+-                                                                                                            Rédaction du rapport de stage.
+Vous utiliserez l’environnement technologique suivant :
+Architecture d’entreprise de Sécurité : TOGAF, IAF, SABSA, JERICHO Style
+Architecture : SOA, Mobile, REST, etc.
+Sécurité: ,WS-Security, WS-*, SAML, Liberty Alliance, XACML, OAUTH, OpenID Connect, etc.
+Frameworks: Spring ou CXF
+Langages : JAVA, SOAP, WSDL, XML, etc.
+Compétences acquises à la fin du stage
+-                                                                                                            Compétences certaines en sécurité des systèmes d’information
+-                                                                                                            Compétences certaines en architecture de sécurité et architecture SI
+-                                                                                                            Une méthodologie de suivi de projet et la capacité à travailler en équipe
+Vous serez accompagné tout au long de votre stage par un maître de stage  (Architecte Sécurité
+Sénior) et d’ingénieurs d’études qui vous guideront au sein de la société et lors de votre stage
+Il s'agit d'un stage de pré-embauche.
+Lieu du stage
+Rennes ou Nantes
+Indemnités de stage
+Selon le profil
+Durée du stage
+6 mois.
+Contact :
+Merci de nous faire parvenir votre CV, en précisant la référence de l’offre « ref : 35CSD-2014-SEC-4 » à :
+ali.bekkali@capgemini.com
+Tel : +33 6 88 63 83 45
+
+
+
+
+

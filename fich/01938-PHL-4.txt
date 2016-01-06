@@ -1,0 +1,40 @@
+﻿Jouve IT Solutions
+Offrez plusieurs vies à vos
+contenus
+Offre de
+Stage
+Infogérance,
+Infrastructure & Réseau
+   Titre : Centrify
+   Lieu : Rennes                                                                            Durée : 4 à 6 mois
+   Formation : Bac + 4/5                                                                    Date : 2014-2015
+   Référence : PHL-4                                                                        Rémunération : stage indemnisé
+Sujet :
+Jouve souhaite déployer une solution de gestion et d’intégration automatisée des postes de
+travail Linux dans l’infrastructure Active Directory du groupe.
+Ce projet de stage consiste à :
+   Rédiger un document de spécifications techniques et fonctionnelles sur la
+base d’un cahier des charges fourni par le chef de projet
+   Installer                                                                                / configurer  le  serveur Centrify  dans un  des  deux  Datacenter du
+groupe et l’intégrer avec l’écosystème de l’entreprise
+   Intégrer  l’ensemble  des  postes  utilisateurs  Linux  du  site  de  Rennes  (une
+vingtaine de postes) dans l’écosystème Centrify
+
+
+
+
+   Rédiger les différents guides de la solution (guide utilisateur, administrateur,
+manuel d’exploitation)
+   Former  l’équipe  Support  aux  postes »  de  Mayenne  à  l’application  des
+procédures mises en place.
+Environnement :
+   Windows AD 2012
+   Linux
+   Centrify
+Vous    serez    intégré    dans    l’équipe
+Communications Unifiées.
+
+
+
+
+

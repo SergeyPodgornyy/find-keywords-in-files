@@ -1,0 +1,35 @@
+﻿Stagiaire   Développeur   Polyvalent   PHP
+Société : Aragon-­‐eRH (éditeur de logiciel RH)
+Site : http://www.aragon-­‐erh.com/
+Stage de fin d’étude (bac+5) conventionné
+Rémunération : 800€ brut/ mois
+Durée : 6 mois
+Lieu : Saint Malo
+Entreprise :
+Aragon-­‐eRH est une solution complète de gestion et de développement des Ressources
+Humaines, 100% web et 100% SaaS (software as a service) en Cloud Computing. Il s'agit
+d'une solution intégrée SIRH simple & global pour les organisations de 50 à 60000
+collaborateurs.
+Composée de plusieurs modules développés par des professionnels des RH autour d'une
+base de données Simple et Globale, la solution Aragon-­‐eRH fournit une suite logicielle (SIRH)
+efficace et facile d'utilisation. Les solutions d'Aragon-­‐eRH en mode SaaS (Software as a
+Service), ont été choisies par des leaders du secteur (Arcelor Mittal, Total, Caisse des Dépôts
+et Consignations Entreprises, Crédit Coopératif, Araxxe), vous garantissent un workflow
+homogène et efficace.
+Poste   et   missions   :
+Dans le cadre de notre développement et de notre forte croissance aussi bien en France qu'à
+l'étranger, nous recrutons en stage un Développeur polyvalent PHP (6 mois).
+Rattaché à la Direction Technique, vous avez pour principale mission de poursuivre et
+pérenniser le développement de notre solution RH. Vous avez à charge le développement de
+nouvelles fonctionnalités et la maintenance applicative de la plate-­‐forme.
+Les développements se font en PHP (Framework CakePHP), JavaScript (jQuery, Prototype,
+Scriptaculous, AJAX), HTML et CSS, interfacé avec une base de données MySQL sur une plate-­‐
+forme LAMP hébergée dans le Cloud Amazon AWS.
+L'anglais technique est nécessaire.
+(Ce stage pourra se poursuivre par une embauche en CDI).
+Pour postuler   :   https://www.aragon-­‐erh.com/aragonveferh/newfrecfportal
+
+
+
+
+

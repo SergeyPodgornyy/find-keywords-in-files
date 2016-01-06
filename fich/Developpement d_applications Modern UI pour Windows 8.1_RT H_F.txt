@@ -1,0 +1,57 @@
+﻿Développement d'applications Modern UI pour Windows  8.1/RT H/F
+Orange Business Services
+REFERENCE  :  IT/COLLAB/STAGE41-1610
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4872636
+TYPE DE CONTRAT  :  Stage
+LOCALISATION  :  Rennes 35200, France
+NIVEAU D'ETUDES  :  Bac +5
+ANNEES D'EXPERIENCE  :  < 6 mois
+DATES  :  Janvier
+DUREE  :  de 4 à 6 mois
+SECTEUR  :  Informatique / Télécom / Internet (Services Informatiques)
+FONCTION  :  Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+SOCIETE  :
+Orange Business Services, entité de Orange dédiée aux services de communication pour les
+entreprises dans le monde (B2B), est un leader mondial en matière d'intégration de solutions de
+communication pour les sociétés multinationales. Avec un réseau sans couture le plus étendu au
+monde pour la voix et les données, Orange Business Services est présent dans 220 pays et
+territoires, avec une assistance locale dans 166 pays. Offrant une gamme complète de services
+incluant le cloud computing, l'entreprise mobile, la relation client, le M2M, la sécurité, les
+communications unifiées, la visioconférence et le haut débit, Orange Business Services fait
+bénéficier à ses clients de la meilleure expertise en la matière au niveau mondial. 1,4 millions
+d'utilisateurs et des milliers d'entreprises s'appuient sur la plateforme internationale d'Orange
+Business Services pour communiquer et mener à bien leurs activités.
+Au sein d'Orange Business Services, IT&L@bs est concepteur et intégrateur de solutions IT
+applicatives innovantes. Notre vocation est d'accompagner nos clients en France et à l'international,
+de l'expression de besoin business et industriel, à la conception, l'intégration et l'optimisation de
+solutions logicielles et systèmes.
+L'innovation est notre pilier ; nous comptons 1500 ingénieurs spécialisés, en France et à
+l'International. Dotés de méthodologies robustes (CMMi-3, ISO 9001), deux tiers de notre activité
+est réalisée au forfait.
+DESCRIPTION DU POSTE  :
+Dans la continuité de notre double compétence en développement Windows 8 et Web Collaboratif,
+nous proposons aujourd'hui un sujet en deux parties :
+Dans un premier temps, le développement en WinRT d'une application collaborative Modern UI
+pour Windows 8.1/RT s'interfaçant avec les produits Microsoft Exchange, SharePoint et Lync.
+L'application devra répondre à des contraintes de mobilité via un mode déconnecté.
+Puis dans un second temps, le développement en WinJS d'une application Modern UI pour
+Windows 8/RT s'interfaçant avec un portail d'entreprise Microsoft SharePoint existant.
+
+
+
+
+Les deux applications devront tirer partie des nouveautés du système Windows 8.1.
+PROFIL  :
+- Stagiaire de fin d'études niveau Bac+5 en informatique.
+- Au moins une expérience récente personnelle ou professionnelle dans le développement .NET /
+C# (ASP.NET, WinRT, WPF, Windows Phone).
+- Autonome et intéressé(e) par les sujets techniques.
+- Motivé(e) par une spécialisation dans les technologies Microsoft.
+- La connaissance de Microsoft SharePoint serait un plus ainsi qu'une expérience en développement
+web HTML 5 ou WinJS.
+POUR POSTULER  :  http://OBS.contactrh.com/jobs/1536/4872636
+
+
+
+
+

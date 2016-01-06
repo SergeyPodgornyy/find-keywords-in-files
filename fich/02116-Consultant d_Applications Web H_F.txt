@@ -1,0 +1,59 @@
+﻿CAPGEMINI RECRUTE UN/UNE CONSULTANT D'APPLICATIONS WEB H/F EN STAGE DE 4 À 6
+MOIS.
+Date : 19/12/2014
+Référence de l’offre : ST-ADM-3470-8372670
+Domaine d’activité : Systèmes d'informations / télécom (Ingénieur Etudes / Développement)
+Type de contrat : Stage
+Localisation : Nantes 44000, FR
+Durée du contrat : De 4 à 6 mois
+Niveau d’études : Bac +5
+Années d’expérience :
+Description de l’entreprise :
+                                                                                                                     Le  groupe  Capgemini  est  l'un  des  leaders  mondiaux  du  Conseil,  des  Services  informatiques  et  de
+l'Infogérance. En                                                                                                    2013,  le Groupe a réalisé un chiffre d'affaires de                                                            10,1  milliards d'euros et emploie
+aujourd'hui plus de 130 000 personnes dans 44 pays.
+Pour plus d'informations : www.fr.capgemini.com
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise.
+Description du poste :
+Capgemini propose des Centres de Services NTIC à ses clients Grand Compte Nationaux. Composés
+d'équipes jeunes et dynamiques, ces centres vous proposent d'intégrer un environnement idéal pour mettre en
+œuvre des solutions innovantes et attendues par nos clients.
+Vous êtes intégré(e) dans un Centre de Service qui assure la maintenance corrective et évolutive des
+applications de distribution ferroviaire via le canal Internet d'un grand client allant de l'expression du besoin
+jusqu'au déploiement de la solution sur l'environnement de production du client.
+En collaboration étroite avec l'équipe du Centre de Service, votre stage vous permet de participer au suivi et à
+la mise en œuvre de demande d'évolution du besoin fonctionnel sur les applications Offres Horaires liées à la
+Billettique.
+Vous participez à toutes les phases projet d'une évolution  : analyse du besoin, chiffrage, spécifications
+détaillées, études d'impacts techniques, conception détaillée, pilotage et suivi de la réalisation pour assurer
+une conformité au besoin dans le respect du planning défini, mise en œuvre et tests, livraison, support au
+client suite à la réception du livrable. Les techniques finales sont la conception et l'évolution en production.
+Vous  aurez  pour  objectif  de  délivrer  un  produit  conforme  aux  besoins  du  métier  et  conforme  aux
+caractéristiques techniques attendues tout en respectant les délais sollicités par le client lors de la définition
+du planning de réalisation de l'évolution.
+L'environnement  technologique  est  composé  de  différentes  briques  essentiellement  basées  sur  les
+technologies Java/J2EE (Struts, Spring, …) - Oracle - PHP - CMS Drupal.
+Profil recherché :
+De formation Bac +3 à Bac+5 avec une spécialité en génie logiciel, vous :
+* avez des connaissances solides dans les environnements techniques décrits dans la mission,
+* appréciez le travail en équipe et les challenges,
+* avez un niveau d'anglais opérationnel (présentations orales et écrites),
+* souhaitez vous investir sur un projet qui exige curiosité, esprit d'analyse, adaptation et rigueur.
+Ce stage vous permet de bénéficier d'une expérience solide sur des projets IT d'envergure et permet de :
+* découvrir les basiques du métier de l'ingénieur en technologie de l'information en travaillant sur un mode
+collaboratif et structuré en équipe,
+* connaitre le cycle de vie des projets informatiques,
+* appréhender la gestion et le management des équipes,
+* acquérir un développement structuré intégrant un processus qualité en place  (norme, documentation,
+
+
+
+
+processus).
+Il s'agit d'un stage de pré-embauche.
+Pour postuler : http://apply.multiposting.fr/jobs/1536/8372670
+
+
+
+
+

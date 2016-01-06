@@ -1,0 +1,41 @@
+﻿Stage JAVA Sonar (Scoring)
+Filiale du Groupe Neurones  (leaders dans le domaine du Conseil en Management et de
+Services Informatiques - 4100 personnes -                                                        343 M€ - côté à la 6e place chez Euronext Paris),
+AXONES est spécialisé sur le développement applicatif.
+Forte  de                                                                                        200  collaborateurs    pour un  chiffre  d’affaires  de   15  millions  d’euros, nous
+développons notre expertise en accompagnant les plus grandes entreprises du CAC  40
+(principalement en banque, finance, assurance) autour de projets au forfait ou de l’assistance
+technique.
+Axones couvre l’ensemble de la chaine applicative (AMOA, MOE) autour des nouvelles
+technologies tels que .NET, SharePoint, JAVA/J2EE, et des systèmes décisionnels.
+Mission
+Le stagiaire aura pour mission de développer en Java et contribuer à un plugin interne Sonar
+afin d’agréger ces différents paramètres (reprise de code, développement, et les tests
+fonctionnels) et socle maison Selenium.
+Pour cela il aura pour missions :
+    La prise en compte des besoins et rédaction de spécifications
+    La documentation des fonctionnalités attendues
+    La réalisation des développements et TU du plugin maison Sonar ou du moteur
+Selenium
+    Les tests fonctionnels des développements réalisés
+Profil
+Nous recherchons un étudiant pour une durée de 6 mois (de fin mars- début avril à fin
+Septembre) ayant des connaissances (pratiques ou théoriques) concernant les langages de
+programmation Java, Javascript, Ruby et CSS, requêtage SQL en base de données (MySQL)
+et des connaissances de base concernant UNIX/Linux.
+Lieu : Nantes Centre
+La connaissance et l’installation d’un Sonar, Jenkins serait un plus ainsi que la maitrise des
+outils de développement (et notamment Eclipse).
+En tant que stagiaire, vous pourrez participer à la vie de l'entreprise, aux réunions des
+communautés d'experts, apprendre les enjeux des modes projets et renforcer vos compétences
+techniques.
+Nos postes de stagiaires sont en pré-embauche.
+Si l'échange, le partage et la progression sont pour vous des aspects incontournables
+d'une carrière réussie, rejoignez-nous vite !
+N’hésitez pas à contacter Yasmine, Chargée de recrutement, en vue d’un entretien en nous
+envoyant votre CV par courriel à : ygeran@axones.com
+
+
+
+
+

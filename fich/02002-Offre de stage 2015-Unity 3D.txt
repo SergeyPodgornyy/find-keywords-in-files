@@ -1,0 +1,32 @@
+﻿Offre De Stage
+SUJET                                                                                      Développements d’applications Unity 3D
+iD.apps est un des leaders français du développement d’applications mobiles avec de
+nombreuses références dans des domaines métiers très variés :
+    Média : TF1, Canal+, TMC
+    Culture : Larousse
+    Santé : Vidal, Servier
+    Logistique : GEFCO, STVA, Man
+    Etc…
+Dans le cadre de son activité R&D, iD.apps souhaite renforcer ses équipes d’éléments
+passionnés et moteurs. Le but de ce stage est d’innover sur le domaine de la 3D et du
+serious gaming.
+DESCRIPTION
+Au  sein  d’une  équipe  multiplateforme,  vous  aurez  en  charge  la  réalisation  des
+développements 3D reposant sur la technologie Unity 3D. Ces applications serviront de
+démonstrateur à l’occasion des nombreux salons réalisés et sponsorisés par iD.apps.
+Environnement : Android, iOS, Web, C#
+Le stagiaire intégré au centre de développement iD.apps, devra faire preuve d’autonomie
+et s’adapter aux contraintes projets.
+DURÉE                                                                                      A partir de 4 mois
+En dernière année de cycle d’étude (Bac+5)
+Niveau d’anglais correct. Maitrise du développement objet.
+PROFIL
+Intérêt prononcé pour une des plateformes mobiles, bonnes connaissances web et notions
+sur les serveurs (webservices, persistance de données, …)
+CONTACT
+kbekri@id-apps.fr
+
+
+
+
+
